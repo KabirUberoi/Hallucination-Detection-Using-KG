@@ -1,0 +1,82 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Bert_Deacon and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Bert_Deacon and http://dbpedia.org/resource/Collingwood_Football_Club and the value is : 0
+http://dbpedia.org/resource/Bert_Deacon and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Bert_Deacon and http://dbpedia.org/resource/Collingwood_Football_Club and the value is : 0
+http://dbpedia.org/resource/Bert_Deacon and http://dbpedia.org/resource/Australian_rules_football_positions and the value is : 1
+http://dbpedia.org/resource/Bert_Deacon and http://dbpedia.org/resource/Collingwood_Football_Club and the value is : 0
+http://dbpedia.org/resource/Bert_Deacon and http://dbpedia.org/resource/Copeland_Trophy and the value is : 0
+http://dbpedia.org/resource/Bert_Deacon and http://dbpedia.org/resource/Collingwood_Football_Club and the value is : 0
+http://dbpedia.org/resource/Bert_Deacon and http://dbpedia.org/resource/All-Australian_team and the value is : 1
+http://dbpedia.org/resource/Bert_Deacon and http://dbpedia.org/resource/Victoria_Australian_rules_football_team and the value is : 0
+http://dbpedia.org/resource/Bert_Deacon and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Bert_Deacon and http://dbpedia.org/resource/Collingwood_Football_Club and the value is : 0
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Bert Deacon (19 April 1925 28 August 2002) was an Australian rules footballer who played for the Collingwood Football Club in the Victorian Football League (VFL).
+Deacon was a key member of Collingwood's famous "Machine" teams of the 1950s, playing in four premiership sides.
+He was a rover and was known for his courage and tenacity.
+He was a member of the Collingwood team of the century and was inducted into the Australian Football Hall of Fame in 1996.
+Deacon was a three-time Copeland Trophy winner, Collingwood's best and fairest award, and was named in the All-Australian team in 1956.
+He was also a member of the Victorian state team in 1954 and 1956.
+After retiring from football, Deacon became a successful businessman and was a director of the Collingwood Football Club from 1975 to 1981.
+
+
+Coref Resolved: 
+
+Bert Deacon (19 April 1925 28 August 2002) was an Australian rules footballer who played for the Collingwood Football Club in the Victorian Football League (VFL).
+Bert Deacon was a key member of the Collingwood Football Club famous "Machine" teams of the 1950s, playing in four premiership sides.
+Bert Deacon was a rover and was known for Bert Deacon courage and tenacity.
+Bert Deacon was a member of the the Collingwood Football Club team of the century and was inducted into the Australian Football Hall of Fame in 1996.
+Bert Deacon was a three-time Copeland Trophy winner, the Collingwood Football Club best and fairest award, and was named in the All-Australian team in 1956.
+Bert Deacon was also a member of the Victorian state team in 1954 and 1956.
+After retiring from football, Bert Deacon became a successful businessman and was a director of the Collingwood Football Club from 1975 to 1981.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Bertram Deacon (8 November 1922 3 January 1974) was an Australian rules footballer who played for Carlton in the Victorian Football League (VFL).
+He is remembered for being Carlton's first ever Brownlow Medal winner.
+A centre half back, Deacon began his league career in 1942.
+He was a premiership player for Carlton in 1945 (after acting as captain-coach of an army stores team that won all ten games in a services competition in Darwin) and 1947, the latter in a year which he won both a Brownlow Medal and shared Carlton's Best and Fairest Medal with his captain, Ern Henfry.
+The previous season Deacon had finished fourth in the Brownlow Medal count but this time around finished on top, thus becoming Carlton's inaugural winner of the award.
+Deacon left Carlton after the 1951 season and became captain-coach for Preston in the Victorian Football Association (VFA), the club where he had played for prior to being recruited by Carlton.
+He later served as Carlton vice-president and club secretary.
+He is the centre half back in Carlton's official 'Team of the Century'.
+Off the field, Deacon worked for many years for long-serving VFL and Carlton president Sir Kenneth Luke.
+Bertram Deacon died of a heart attack on 3 January 1974 while on holiday at Balnarring.
+Deacon was just 51 years of age and died despite the desperate efforts of his Preston team-mate, Pat Foley, to revive him.
+ 
+
+Coref Resolved: 
+
+Bertram Deacon (8 November 1922 3 January 1974) was an Australian rules footballer who played for Carlton in the Victorian Football League (VFL).
+Bertram Deacon is remembered for being Carlton first ever Brownlow Medal winner.
+A centre half back, Bertram Deacon began Bertram Deacon league career in 1942.
+Bertram Deacon was a premiership player for Carlton in 1945 (after acting as captain-coach of an army stores team that won all ten games in a services competition in Darwin) and 1947, 1947in a year which Bertram Deacon won both a Brownlow Medal and shared Carlton Best and Fairest Medal with Bertram Deacon captain, Ern Henfry.
+The previous season Bertram Deacon had finished fourth in the Brownlow Medal count but this time around finished on top, thus becoming Carlton inaugural winner of Brownlow Medal .
+Bertram Deacon left Carlton after the 1951 season and became captain-coach for Preston in the Victorian Football Association (VFA), the club where Bertram Deacon had played for prior to being recruited by Carlton .
+Bertram Deacon later served as Carlton vice-president and club secretary.
+Bertram Deacon is the centre half back in Carlton official 'Team of the Century'.
+Off the field, Bertram Deacon worked for many years for long-serving the Victorian Football League (VFL)and Carlton president Sir Kenneth Luke.
+Bertram Deacon died of a heart attack on 3 January 1974 while on holiday at Balnarring.
+Bertram Deacon was just 51 years of age and died despite the desperate efforts of Bertram Deacon Preston in the Victorian Football Association (VFA)team-mate, Pat Foley, to revive Bertram Deacon .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.3333333333333333 0.0 1.0 0.0 0.3333333333333333 0.0 0.5 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

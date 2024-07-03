@@ -1,0 +1,46 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Florida_Gators_swimming_and_diving and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/1984_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/California_Golden_Bears and the value is : 1
+http://dbpedia.org/resource/Florida_Gators_swimming_and_diving and http://dbpedia.org/resource/1984_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Florida_Gators_swimming_and_diving and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Florida_Gators_swimming_and_diving and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/1984_Summer_Olympics and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/1984_Summer_Olympics and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Butterfly_stroke and the value is : 1
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Texas_Longhorns and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Swimming_at_the_1980_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Diving_at_the_2011_World_Aquatics_Championships and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/Texas_Longhorns and the value is : 0
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/Swimming_at_the_1980_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/Diving_at_the_2011_World_Aquatics_Championships and the value is : 0
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Texas_Longhorns and http://dbpedia.org/resource/Swimming_at_the_1980_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Texas_Longhorns and http://dbpedia.org/resource/Diving_at_the_2011_World_Aquatics_Championships and the value is : 0
+http://dbpedia.org/resource/Texas_Longhorns and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 1
+http://dbpedia.org/resource/Swimming_at_the_1980_Summer_Olympics and http://dbpedia.org/resource/Diving_at_the_2011_World_Aquatics_Championships and the value is : 0
+http://dbpedia.org/resource/Swimming_at_the_1980_Summer_Olympics and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Diving_at_the_2011_World_Aquatics_Championships and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Butterfly_stroke and the value is : 0
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/Butterfly_stroke and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+susan pedersen born october 28 1965 is an american former competition swimmer who represented the united states at the 1984 summer olympics in los angeles california. she competed in the womens 200meter butterfly and finished fourth in the event final with a time of 213.45. pedersen attended the university of texas where she swam for the texas longhorns swimming and diving team in national collegiate athletic association ncaa competition. she was a twotime ncaa champion winning the 200yard butterfly in 1985 and 1986. she was also a fourtime allamerican. 
+
+Coref Resolved : 
+susan pedersen born october 28 1965 is an american former competition swimmer who represented the united states at the 1984 summer olympics in los angeles california. susan pedersen born october 28 1965 competed in the womens 200meter butterfly and finished fourth in the event final with a time of 213.45. susan pedersen born october 28 1965 attended the university of texas where susan pedersen born october 28 1965 swam for the texas longhorns swimming and diving team in national collegiate athletic association ncaa competition. susan pedersen born october 28 1965 was a twotime ncaa champion winning the 200yard butterfly in 1985 and 1986. susan pedersen born october 28 1965 was also a fourtime allamerican.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10344827586206896
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

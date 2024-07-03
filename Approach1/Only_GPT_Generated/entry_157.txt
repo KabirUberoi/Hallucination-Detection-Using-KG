@@ -1,0 +1,34 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/October_5 and the value is : 1
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Child_actor and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Child_actor and the value is : 0
+http://dbpedia.org/resource/Larry_Mondello and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Dorothy_Gale and http://dbpedia.org/resource/Metalsmith and the value is : 0
+http://dbpedia.org/resource/Dark_Victory and http://dbpedia.org/resource/Alexander_Graham_Bell and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Phragmites and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/The_Many_Loves_of_Dobie_Gillis and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/The_Monkees and the value is : 1
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/The_Many_Loves_of_Dobie_Gillis and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/The_Monkees and the value is : 1
+http://dbpedia.org/resource/The_Many_Loves_of_Dobie_Gillis and http://dbpedia.org/resource/The_Monkees and the value is : 1
+http://dbpedia.org/resource/Larry_Mondello and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Television_film and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+rusty stevens born russell stevens jr. october 5 1932 october 24 2000 was an american actor. he is best known for his role as larry mondello on the television series leave it to beaver. stevens was born in los angeles california the son of russell stevens sr. and his wife the former dorothy m. smith. he began his acting career at the age of seven appearing in the 1939 film the story of alexander graham bell. he went on to appear in numerous films and television shows including the adventures of ozzie and harriet the donna reed show the many loves of dobie gillis and the monkees. in 1957 stevens was cast as larry mondello the beavers best friend on leave it to beaver. he appeared in all 234 episodes of the series which ran until 1963. after the show ended stevens continued to act in films and television appearing in such shows as the munsters the monkees and the brady bunch. he retired from acting in the late 1970s. 
+
+Coref Resolved : 
+rusty stevens born russell stevens jr. october 5 1932 october 24 2000 was an american actor. stevens is best known for stevens role as larry mondello on the television series leave it to beaver. stevens was born in los angeles california the son of russell stevens sr. and russell stevens sr. wife the former dorothy m. smith. stevens began stevens acting career at the age of seven appearing in the 1939 film the story of alexander graham bell. stevens went on to appear in numerous films and television shows including the adventures of ozzie and harriet the donna reed show the many loves of dobie gillis and the monkees. in 1957 stevens was cast as larry mondello on the television series leave it to beaver. stevens appeared in all 234 episodes of the series which ran until 1963. after the television series leave it to beaverended stevens continued to act in films and television appearing in such shows as the munsters the monkeesand the brady bunch. stevens retired from acting in the late 1970s.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.23529411764705882
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate major_inaccurate major_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate 
+

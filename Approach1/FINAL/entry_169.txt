@@ -1,0 +1,171 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Entrepreneurship and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/The_Wonderful_Company and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/The_Wonderful_Company and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Privately_held_company and the value is : 1
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Agriculture and the value is : 1
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/POM_Wonderful and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Fiji_(software) and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Water_industry and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Teleflora and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/POM_Wonderful and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Fiji_(software) and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Water_industry and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Teleflora and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/POM_Wonderful and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Fiji_(software) and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Water_industry and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Teleflora and the value is : 0
+http://dbpedia.org/resource/Agriculture and http://dbpedia.org/resource/POM_Wonderful and the value is : 0
+http://dbpedia.org/resource/Agriculture and http://dbpedia.org/resource/Fiji_(software) and the value is : 0
+http://dbpedia.org/resource/Agriculture and http://dbpedia.org/resource/Water_industry and the value is : 1
+http://dbpedia.org/resource/Agriculture and http://dbpedia.org/resource/Teleflora and the value is : 1
+http://dbpedia.org/resource/POM_Wonderful and http://dbpedia.org/resource/Fiji_(software) and the value is : 0
+http://dbpedia.org/resource/POM_Wonderful and http://dbpedia.org/resource/Water_industry and the value is : 0
+http://dbpedia.org/resource/POM_Wonderful and http://dbpedia.org/resource/Teleflora and the value is : 0
+http://dbpedia.org/resource/Fiji_(software) and http://dbpedia.org/resource/Water_industry and the value is : 1
+http://dbpedia.org/resource/Fiji_(software) and http://dbpedia.org/resource/Teleflora and the value is : 1
+http://dbpedia.org/resource/Water_industry and http://dbpedia.org/resource/Teleflora and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Food_industry and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/The_Wonderful_Company and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Food_industry and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/The_Wonderful_Company and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Food_industry and the value is : 1
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/The_Wonderful_Company and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Philanthropy and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Education and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Information_technology and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Information_technology and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/College_ice_hockey and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/NCAA_Division_I_Baseball_Championship and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/NCAA_Division_I_Baseball_Championship and the value is : 0
+http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and http://dbpedia.org/resource/NCAA_Division_I_Baseball_Championship and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Ten-pin_bowling and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Graduate_assistant and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Alma_mater and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Mark_Morriss and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and the value is : 1
+http://dbpedia.org/resource/Ten-pin_bowling and http://dbpedia.org/resource/Graduate_assistant and the value is : 1
+http://dbpedia.org/resource/Ten-pin_bowling and http://dbpedia.org/resource/Alma_mater and the value is : 1
+http://dbpedia.org/resource/Ten-pin_bowling and http://dbpedia.org/resource/Mark_Morriss and the value is : 1
+http://dbpedia.org/resource/Ten-pin_bowling and http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and the value is : 0
+http://dbpedia.org/resource/Graduate_assistant and http://dbpedia.org/resource/Alma_mater and the value is : 0
+http://dbpedia.org/resource/Graduate_assistant and http://dbpedia.org/resource/Mark_Morriss and the value is : 0
+http://dbpedia.org/resource/Graduate_assistant and http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and the value is : 0
+http://dbpedia.org/resource/Alma_mater and http://dbpedia.org/resource/Mark_Morriss and the value is : 0
+http://dbpedia.org/resource/Alma_mater and http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and the value is : 1
+http://dbpedia.org/resource/Mark_Morriss and http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Mark_Morriss and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/ECAC_Hockey and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/NCAA_Division_I_Baseball_Championship and the value is : 0
+http://dbpedia.org/resource/Mark_Morriss and http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and the value is : 0
+http://dbpedia.org/resource/Mark_Morriss and http://dbpedia.org/resource/ECAC_Hockey and the value is : 1
+http://dbpedia.org/resource/Mark_Morriss and http://dbpedia.org/resource/NCAA_Division_I_Baseball_Championship and the value is : 1
+http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and http://dbpedia.org/resource/ECAC_Hockey and the value is : 1
+http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and http://dbpedia.org/resource/NCAA_Division_I_Baseball_Championship and the value is : 1
+http://dbpedia.org/resource/ECAC_Hockey and http://dbpedia.org/resource/NCAA_Division_I_Baseball_Championship and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Head_coach and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/State_University_of_New_York_at_Oswego and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/NCAA_Division_III and the value is : 0
+http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and http://dbpedia.org/resource/State_University_of_New_York_at_Oswego and the value is : 0
+http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and http://dbpedia.org/resource/NCAA_Division_III and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/State_University_of_New_York_at_Oswego and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/NCAA_Division_III and the value is : 0
+http://dbpedia.org/resource/State_University_of_New_York_at_Oswego and http://dbpedia.org/resource/NCAA_Division_III and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/State_University_of_New_York_at_Oswego and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/NCAA_Division_III and the value is : 1
+http://dbpedia.org/resource/State_University_of_New_York_at_Oswego and http://dbpedia.org/resource/NCAA_Division_III and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Mark_Morris_High_School and the value is : 0
+http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and http://dbpedia.org/resource/Mark_Morris_High_School and the value is : 0
+http://dbpedia.org/resource/Clarkson_Golden_Knights_men's_ice_hockey and http://dbpedia.org/resource/George_Roll and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Nazareth and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/College_ice_hockey and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Nazareth and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/College_ice_hockey and the value is : 0
+http://dbpedia.org/resource/Nazareth and http://dbpedia.org/resource/College_ice_hockey and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Nazareth and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/College_ice_hockey and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Nazareth and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/College_ice_hockey and the value is : 0
+http://dbpedia.org/resource/Nazareth and http://dbpedia.org/resource/College_ice_hockey and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+george roll born october 28 1965 is an american businessman and entrepreneur. he is the founder and ceo of roll global a privately held company that owns and operates a variety of businesses in the food agriculture and entertainment industries. roll globals holdings include pom wonderful fiji water teleflora and paramount farms. roll began his career in the food industry in the late 1980s working for the familyowned business roll international corporation. he eventually became the companys president and ceo and in 2001 he founded roll global. under his leadership roll global has grown to become one of the largest privately held companies in the united states. roll is a philanthropist and has donated millions of dollars to various causes including education health and the environment. he is also a member of the board of directors of the los angeles county museum of art and the california institute of technology. 
+
+Coref Resolved : 
+george roll born october 28 1965 is an american businessman and entrepreneur. george roll born october 28 1965 is the founder and ceo of roll global a privately held company that owns and operates a variety of businesses in the food agriculture and entertainment industries. roll global a privately held company that owns and operates a variety of businesses in the food agriculture and entertainment industriesholdings include pom wonderful fiji water teleflora and paramount farms. george roll born october 28 1965 began george roll born october 28 1965 career in the food industry in the late 1980s working for the familyowned business roll international corporation. george roll born october 28 1965 eventually became the familyowned business roll international corporationpresident and ceo and in 2001 george roll born october 28 1965 founded roll global a privately held company that owns and operates a variety of businesses in the food agriculture and entertainment industries. under george roll born october 28 1965 leadership roll global a privately held company that owns and operates a variety of businesses in the food agriculture and entertainment industrieshas grown to become one of the largest privately held companies in the united states. george roll born october 28 1965 is a philanthropist and has donated millions of dollars to various causes including education health and the environment. george roll born october 28 1965 is also a member of the board of directors of the los angeles county museum of art and the california institute of technology.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+george roll is an american ice hockey coach. he was the head coach of the clarkson golden knights from 2003 to the end of the 201011 season leading them to their most recent conference championship and ncaa tournament appearance. roll began his coaching career shortly after finishing his college career at bowling green where he was part of the 1984 national championship team becoming a graduate assistant for his alma mater before joining firstyear coach mark morriss staff at clarkson. roll remained as an assistant for eight years helping morris establish clarkson as a power in ecac hockey winning two regular season titles two tournament titles and making the ncaa tournament six times including a frozen four appearance for the first time in over 20 years. roll left clarkson to become the head coach of oswego state a division iii program and in each of his seven years there the great lakers finished with a winning record. unfortunately other than a tournament appearance in his second season oswego state didnt have much else to show for his tenure until 200203 when roll pushed the great lakers to a 2571 record earning a regular season title a conference championship and were runnersup to the diii national title. roll however decided against building on his earlier success after he was offered the top job at clarkson replacing his mentor mark morris after he was fired due to an incident in early november. the first few years with the golden knights were rocky as clarkson couldnt manage a winning record until the third year and even then it was only by one win but clarkson won 25 games in 200607 including a conference championship and when they earned a regular season crown the following season it appeared that they had turned the corner. after that brief success however clarkson declined rapidly ending with losing records in each of the next three seasons and causing rolls termination at the end of the 201011 season. roll quickly found a new job as he was announced as the first head coach for nazareth colleges new divisioniii ice hockey program that was to begin in 201213. as of 2014 he is still in that position. 
+
+Coref Resolved : 
+george roll is an american ice hockey coach. george roll was the head coach of the clarkson golden knights from 2003 to the end of the 201011 season leading the clarkson golden knights to the clarkson golden knights most recent conference championship and ncaa tournament appearance. george roll began george roll coaching career shortly after finishing george roll college career at bowling green where george roll was part of the 1984 national championship team becoming a graduate assistant for george roll alma mater before joining firstyear coach mark morriss staff at clarkson . george roll remained as an assistant for eight years helping firstyear coach mark morriss establish clarkson as a power in ecac hockey winning two regular season titles two tournament titles and making the ncaa tournament six times including a frozen four appearance for the first time in over 20 years. george roll left clarkson to become the head coach of oswego state a division iii program and in each of george roll seven years there oswego state a division iii program finished with a winning record. unfortunately other than a tournament appearance in george roll second season oswego state a division iii program didnt have much else to show for george roll tenure until 200203 when george roll pushed oswego state a division iii program to a 2571 record earning a regular season title a conference championship and were runnersup to the diii national title. george roll however decided against building on george roll earlier success after george roll was offered the top job at clarkson replacing george roll mentor mark morris after he was fired due to an incident in early november. the first few years with clarkson were rocky as clarkson couldnt manage a winning record until the third year and even then a winning record was only by one win but clarkson won 25 games in 200607 including a conference championship and when clarkson earned a regular season crown the following season it appeared that clarkson had turned the corner. after that brief success however clarkson declined rapidly ending with losing records in each of the next three seasons and causing george roll termination at the end of the 201011 season. george roll quickly found a new job as george roll was announced as the first head coach for nazareth colleges new divisioniii ice hockey program that was to begin in 201213. as of 2014 george roll is still in the first head coach for nazareth colleges new divisioniii ice hockey program that was to begin in 201213.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.15853658536585366 and for ground truth is : 0.29508196721311475
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

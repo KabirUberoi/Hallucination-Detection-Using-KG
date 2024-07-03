@@ -1,0 +1,80 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/David_Thomas_King and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/David_Thomas_King and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/David_Thomas_King and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/David_Thomas_King and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/David_Thomas_King and http://dbpedia.org/resource/1989_VFL_draft and the value is : 0
+http://dbpedia.org/resource/David_Thomas_King and http://dbpedia.org/resource/Australian_rules_football_positions and the value is : 0
+http://dbpedia.org/resource/David_Thomas_King and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/David_Thomas_King and http://dbpedia.org/resource/All-Australian_team and the value is : 0
+http://dbpedia.org/resource/David_Thomas_King and http://dbpedia.org/resource/Syd_Barker_Medal and the value is : 0
+http://dbpedia.org/resource/David_Thomas_King and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/David_Thomas_King and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/David_Thomas_King and http://dbpedia.org/resource/Fox_Footy and the value is : 0
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+David King (born 28 April 1971) is a former Australian rules footballer who played for the North Melbourne Football Club in the Australian Football League (AFL).
+He was drafted by North Melbourne with the fourth selection in the 1989 VFL Draft.
+King played as a ruckman and forward, and was a key member of North Melbourne's 1996 and 1999 premiership teams.
+He was a three-time All-Australian, in 1996, 1998 and 1999, and won the Syd Barker Medal as North Melbourne's best and fairest player in 1998.
+He was also a member of the AFL's Team of the Century.
+King retired at the end of the 2003 season, having played a total of 270 games for North Melbourne.
+He is currently a commentator for Fox Footy.
+
+
+Coref Resolved: 
+
+David King (born 28 April 1971) is a former Australian rules footballer who played for the North Melbourne Football Club in the Australian Football League (AFL).
+David King was drafted by the North Melbourne Football Club with the fourth selection in the 1989 VFL Draft.
+David King played as a ruckman and forward, and was a key member of the North Melbourne Football Club 1996 and 1999 premiership teams.
+David King was a three-time All-Australian, in 1996 , 1998 and 1999 , and won the Syd Barker Medal as the North Melbourne Football Club best and fairest player in 1998 .
+David King was also a member of the Australian Football League (AFL)Team of the Century.
+David King retired at the end of the 2003 season, having played a total of 270 games for the North Melbourne Football Club .
+David King is currently a commentator for Fox Footy.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+David King (born 7 March 1972) is a former Australian rules footballer who played for the North Melbourne Football Club in the Australian Football League (AFL).
+He debuted for the Kangaroos in 1994 after being recruited from Port Melbourne Football Club at the age of 22.
+He went on to play 241 games and kicked 145 goals, winning premierships in 1996 and 1999.
+He represented Victoria in State of Origin on more than one occasion, including in 1998.
+He is notable for holding a VFL AFL record by playing in preliminary finals for seven consecutive years from his debut year in 1994 to 2000.
+He was twice an AFL All-Australian and retired at the end of the 2004 season.
+He then joined the Richmond Football Club as an assistant coach in 2005.
+He is currently a commentator for Fox Footy and SEN 1116.
+He won the Most Outstanding Television Special Comments Award at the 2012 AFL Media Awards.
+On 19 February 2015, Australian media reported that King was being investigated by police about successful bets he made predicting the winner of the 2014 AFL Rising Star Award.
+ 
+
+Coref Resolved: 
+
+David King (born 7 March 1972) is a former Australian rules footballer who played for the North Melbourne Football Club in the Australian Football League (AFL).
+David King his debut year in 1994 for the North Melbourne Football Club in the Australian Football League (AFL)in 1994 after being recruited from Port Melbourne Football Club at the age of 22.
+David King went on to play 241 games and kicked 145 goals, winning premierships in 1996 and 1999.
+David King represented Victoria in State of Origin on more than one occasion, including in 1998.
+David King is notable for holding a VFL AFL record by playing in preliminary finals for seven consecutive years from David King debut year in 1994 to 2000.
+David King was twice an AFL All-Australian and retired at the end of the 2004 season.
+David King then joined the Richmond Football Club as an assistant coach in 2005.
+David King is currently a commentator for Fox Footy and SEN 1116.
+David King won the Most Outstanding Television Special Comments Award at the 2012 AFL Media Awards.
+On 19 February 2015, Australian media reported that David King was being investigated by police about successful bets David King made predicting the winner of the 2014 AFL Rising Star Award.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.0 -1 0.0 0.0 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate accurate 
+

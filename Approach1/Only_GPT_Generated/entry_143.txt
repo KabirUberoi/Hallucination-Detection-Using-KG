@@ -1,0 +1,61 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Jack_Straw and http://dbpedia.org/resource/Labour_Party_(UK) and the value is : 0
+http://dbpedia.org/resource/Jack_Straw and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Jack_Straw and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Jack_Straw and http://dbpedia.org/resource/Blackburn and the value is : 1
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Blackburn and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Blackburn and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Blackburn and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Gordon_Brown and the value is : 1
+http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom and http://dbpedia.org/resource/Tony_Blair and the value is : 1
+http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom and http://dbpedia.org/resource/Gordon_Brown and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Gordon_Brown and the value is : 1
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Secretary_of_State_for_Foreign_and_Commonwealth_Affairs and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Secretary_of_State_for_Foreign_and_Commonwealth_Affairs and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Lord_Chancellor and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Mike_Gordon and the value is : 0
+http://dbpedia.org/resource/Lord_Chancellor and http://dbpedia.org/resource/Mike_Gordon and the value is : 0
+http://dbpedia.org/resource/Labour_movement and http://dbpedia.org/resource/Straw and the value is : 0
+http://dbpedia.org/resource/Labour_movement and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Labour_movement and http://dbpedia.org/resource/Mike_Gordon and the value is : 0
+http://dbpedia.org/resource/Labour_movement and http://dbpedia.org/resource/Tony_Benn and the value is : 1
+http://dbpedia.org/resource/Labour_movement and http://dbpedia.org/resource/John_Smith and the value is : 0
+http://dbpedia.org/resource/Labour_movement and http://dbpedia.org/resource/Neil_Kinnock and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Mike_Gordon and the value is : 1
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Tony_Benn and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/John_Smith and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Neil_Kinnock and the value is : 1
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Mike_Gordon and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Tony_Benn and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/John_Smith and the value is : 1
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Neil_Kinnock and the value is : 0
+http://dbpedia.org/resource/Mike_Gordon and http://dbpedia.org/resource/Tony_Benn and the value is : 0
+http://dbpedia.org/resource/Mike_Gordon and http://dbpedia.org/resource/John_Smith and the value is : 0
+http://dbpedia.org/resource/Mike_Gordon and http://dbpedia.org/resource/Neil_Kinnock and the value is : 0
+http://dbpedia.org/resource/Tony_Benn and http://dbpedia.org/resource/John_Smith and the value is : 1
+http://dbpedia.org/resource/Tony_Benn and http://dbpedia.org/resource/Neil_Kinnock and the value is : 1
+http://dbpedia.org/resource/John_Smith and http://dbpedia.org/resource/Neil_Kinnock and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+jack straw born 3 august 1946 is a british labour party politician who served as the member of parliament mp for blackburn from 1979 to 2015. he served in the cabinet from 1997 to 2010 under the governments of tony blair and gordon brown. straw held two of the traditional great offices of state as home secretary from 1997 to 2001 and foreign secretary from 2001 to 2006 under blair. from 2007 to 2010 he served as lord chancellor and secretary of state for justice throughout browns premiership. a former chair of the labour party straw was one of the few remaining links between the labour governments led by blair and brown and the partys previous incarnation under tony benn john smith and neil kinnock. he is currently the president of the national council for civil liberties. 
+
+Coref Resolved : 
+jack straw born 3 august 1946 is a british labour party politician who served as the member of parliament mp for blackburn from 1979 to 2015. straw served in the cabinet from 1997 to 2010 under the governments of tony blair and gordon brown. straw held two of the traditional great offices of state as home secretary from 1997 to 2001 and foreign secretary from 2001 to 2006 under tony blair . from 2007 to 2010 straw served as lord chancellor and secretary of state for justice throughout gordon brownpremiership. a former chair of the labour party straw was one of the few remaining links between the labour governments led by tony blair and gordon brownand the labour party previous incarnation under tony benn john smith and neil kinnock. straw is currently the president of the national council for civil liberties.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.25
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate major_inaccurate 
+

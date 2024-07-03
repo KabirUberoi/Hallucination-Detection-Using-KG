@@ -1,0 +1,95 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Vallely and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Vallely and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Houston_Cougars_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Houston_Cougars_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Atlanta_Hawks and http://dbpedia.org/resource/Houston_Cougars_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and the value is : 0
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 0
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 1
+http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/NBA_draft and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Volleyball and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 0
+http://dbpedia.org/resource/Volleyball and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Houston_Cougars_men's_basketball and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Sociology and the value is : 1
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 0
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/Sociology and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Sociology and the value is : 0
+http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and http://dbpedia.org/resource/Sociology and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Scouting and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Houston_Cougars_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Scouting and http://dbpedia.org/resource/Houston_Cougars_men's_basketball and the value is : 1
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 1
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/John_Vallely and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/John_Vallely and http://dbpedia.org/resource/Balboa_Island,_Newport_Beach and the value is : 1
+http://dbpedia.org/resource/John_Vallely and http://dbpedia.org/resource/Newport_Beach,_California and the value is : 0
+http://dbpedia.org/resource/John_Vallely and http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Balboa_Island,_Newport_Beach and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Newport_Beach,_California and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Balboa_Island,_Newport_Beach and http://dbpedia.org/resource/Newport_Beach,_California and the value is : 1
+http://dbpedia.org/resource/Balboa_Island,_Newport_Beach and http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Newport_Beach,_California and http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and the value is : 1
+http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/California_Interscholastic_Federation and http://dbpedia.org/resource/Irvine_Transportation_Center and the value is : 0
+http://dbpedia.org/resource/Integral and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Integral and http://dbpedia.org/resource/Orange_Coast_College and the value is : 0
+http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and http://dbpedia.org/resource/Orange_Coast_College and the value is : 0
+http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/Basketball_at_the_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Jerry_Tarkanian and http://dbpedia.org/resource/Albuquerque_Dukes and the value is : 0
+http://dbpedia.org/resource/Jerry_Tarkanian and http://dbpedia.org/resource/Mexico_national_football_team and the value is : 0
+http://dbpedia.org/resource/Albuquerque_Dukes and http://dbpedia.org/resource/Mexico_national_football_team and the value is : 0
+http://dbpedia.org/resource/Atlanta_Hawks and http://dbpedia.org/resource/1970_NBA_draft and the value is : 1
+http://dbpedia.org/resource/Pete_Maravich and http://dbpedia.org/resource/Lou_Hudson and the value is : 0
+http://dbpedia.org/resource/Pete_Maravich and http://dbpedia.org/resource/Walt_Hazzard and the value is : 0
+http://dbpedia.org/resource/Pete_Maravich and http://dbpedia.org/resource/Herm_Gilliam and the value is : 0
+http://dbpedia.org/resource/Lou_Hudson and http://dbpedia.org/resource/Walt_Hazzard and the value is : 0
+http://dbpedia.org/resource/Lou_Hudson and http://dbpedia.org/resource/Herm_Gilliam and the value is : 1
+http://dbpedia.org/resource/Walt_Hazzard and http://dbpedia.org/resource/Herm_Gilliam and the value is : 0
+http://dbpedia.org/resource/Houston_Rockets and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john vallely born april 28 1947 is an american former professional basketball player. he played in the national basketball association nba from 1970 to 1980 as a guard for the los angeles lakers atlanta hawks and houston rockets. vallely was born in los angeles california. he attended the university of california los angeles ucla where he was a member of the schools 196970 ncaa championship team. he was selected by the lakers in the second round of the 1970 nba draft. vallely played in the nba for 10 seasons averaging 8.2 points 3.2 assists and 2.2 rebounds per game. he was a member of the lakers 197273 championship team and was a part of the rockets 197980 championship team. vallely retired from the nba in 1980 and returned to ucla to complete his degree in sociology. he later worked as a broadcaster for the lakers and as a scout for the rockets. he was inducted into the ucla athletics hall of fame in 2003. 
+
+Coref Resolved : 
+john vallely born april 28 1947 is an american former professional basketball player. he played in the national basketball association nba from 1970 to 1980 as a guard for the los angeles lakers atlanta hawks and houston rockets. he was born in los angeles california. he attended the university of california los angeles ucla where he was a member of the university of california los angeles ucla 196970 ncaa championship team. he was selected by los angeles lakers in the second round of the 1970 the national basketball association nba draft. he played in the national basketball association nba for 10 seasons averaging 8.2 points 3.2 assists and 2.2 rebounds per game. he was a member of the los angeles lakers 197273 championship team and was a part of houston rockets197980 championship team. he retired from the national basketball association nba in 1980 and returned to the university of california los angeles ucla to complete he degree in sociology. he later worked as a broadcaster for los angeles lakers and as a scout for houston rockets. he was inducted into the the university of california los angeles ucla athletics hall of fame in 2003.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+john vallely born october 3 1948 is a retired american basketball player from balboa island newport beach california. he played for the ucla bruins and in the national basketball association. he attended corona del mar high school where he was a guard turned forward. he was selected to the all california interscholastic federation team and twice captured all irvine league honors. as a 62 forward for orange coast college vallely averaged 26 points per game and broke 18 scoring records. he was selected a junior college all american. he dribbled with his left hand and shot with his right hand and was especially good at shooting an outside jump shot. vallely was an integral member of the bruins backcourt after transferring from orange coast college in 1968. he was quick to make the transition from forward to guard at ucla. in his first season he was the bruins third leading scorer 12.9 p.p.g. and adapted smoothly to head coach john woodens attack and gamble offense. he was a member of the ucla teams that won national titles in the 1969 ncaa mens division i basketball tournament and the 1970 ncaa mens division i basketball tournament. vallely majored in economics at ucla and had a 3.36 grade point average as a junior. he was selected to the twelveman 1968 olympic trials team coached by jerry tarkanian which competed in albuquerque new mexico. he was taken by the atlanta hawks in the first round of the 1970 nba draft. he sat on the bench much of the time playing behind pete maravich lou hudson walt hazzard and herm gilliam. vallely was acquired by the houston rockets in november 1971 along with 67 forward jim davis. 
+
+Coref Resolved : 
+john vallely born october 3 1948 is a retired american basketball player from balboa island newport beach california. he played for the ucla bruins and in the national basketball association. he attended corona del mar high school where he was a guard turned forward. he was selected to the all california interscholastic federation team and twice captured all irvine league honors. as a 62 forward for orange coast college he averaged 26 points per game and broke 18 scoring records. he was selected a junior college all american. he dribbled with he left hand and shot with he right hand and was especially good at shooting an outside jump shot. he was an integral member of the bruins backcourt after transferring from orange coast college in 1968. he was quick to make the transition from forward to guard at ucla. in he first season he was the ucla bruins third leading scorer 12.9 p.p.g. and adapted smoothly to head coach john woodens attack and gamble offense. he was a member of the uclateams that won national titles in the 1969 ncaa mens division i basketball tournament and the 1970 ncaa mens division i basketball tournament. he majored in economics at uclaand had a 3.36 grade point average as a junior. he was selected to the twelveman 1968olympic trials team coached by jerry tarkanian which competed in albuquerque new mexico. he was taken by the atlanta hawks in the first round of the 1970 nba draft. he sat on the bench much of the time playing behind pete maravich lou hudson walt hazzard and herm gilliam. he was acquired by the houston rockets in november 1971 along with 67 forward jim davis.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.4358974358974359 and for ground truth is : 0.25
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

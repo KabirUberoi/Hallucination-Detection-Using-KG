@@ -1,0 +1,171 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Music_education and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Music_education and the value is : 1
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Music_education and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Progressive_rock and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Rugby_union_positions and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Progressive_rock and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Rugby_union_positions and the value is : 0
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Rugby_union_positions and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Dixie_Dregs and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Steve_Morse and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Dixie_Dregs and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Steve_Morse and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Dixie_Dregs and http://dbpedia.org/resource/Steve_Morse and the value is : 0
+http://dbpedia.org/resource/Dixie_Dregs and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Steve_Morse and http://dbpedia.org/resource/Jordan_Rudess and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Boston and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Alan_Dawson and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Joe_Hunt and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Alan_Dawson and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Joe_Hunt and the value is : 0
+http://dbpedia.org/resource/Berklee_College_of_Music and http://dbpedia.org/resource/Music and the value is : 1
+http://dbpedia.org/resource/Berklee_College_of_Music and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Berklee_College_of_Music and http://dbpedia.org/resource/Alan_Dawson and the value is : 0
+http://dbpedia.org/resource/Berklee_College_of_Music and http://dbpedia.org/resource/Joe_Hunt and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Alan_Dawson and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Joe_Hunt and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Alan_Dawson and the value is : 1
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Joe_Hunt and the value is : 0
+http://dbpedia.org/resource/Alan_Dawson and http://dbpedia.org/resource/Joe_Hunt and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Atlanta and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/University_of_Georgia and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Dixie_Dregs and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Atlanta and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_of_Georgia and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Dixie_Dregs and the value is : 1
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/University_of_Georgia and the value is : 0
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/Dixie_Dregs and the value is : 0
+http://dbpedia.org/resource/University_of_Georgia and http://dbpedia.org/resource/Dixie_Dregs and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Dixie_Dregs and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Dixie_Dregs and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Rugby_union_positions and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Rod_Morgenstein and the value is : 1
+http://dbpedia.org/resource/Rugby_union_positions and http://dbpedia.org/resource/Rod_Morgenstein and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Rugby_union_positions and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Rugby_union_positions and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Progressive_rock and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Rugby_union_positions and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Steve_Morse and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Progressive_rock and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Rugby_union_positions and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Steve_Morse and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Rugby_union_positions and the value is : 1
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Steve_Morse and the value is : 1
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Rugby_union_positions and http://dbpedia.org/resource/Steve_Morse and the value is : 0
+http://dbpedia.org/resource/Rugby_union_positions and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Steve_Morse and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Music_education and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Music_education and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Music_education and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Progressive_rock and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Jazz_fusion and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Dixie_Dregs and the value is : 1
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Jazz_fusion and the value is : 1
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Dixie_Dregs and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/Jazz_fusion and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/Dixie_Dregs and the value is : 0
+http://dbpedia.org/resource/Jazz_fusion and http://dbpedia.org/resource/Dixie_Dregs and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Kid_vs._Kat and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Platypus and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Steve_Morse and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/The_Jelly_Jam and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Kid_vs._Kat and http://dbpedia.org/resource/Platypus and the value is : 1
+http://dbpedia.org/resource/Kid_vs._Kat and http://dbpedia.org/resource/Steve_Morse and the value is : 0
+http://dbpedia.org/resource/Kid_vs._Kat and http://dbpedia.org/resource/The_Jelly_Jam and the value is : 0
+http://dbpedia.org/resource/Kid_vs._Kat and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Platypus and http://dbpedia.org/resource/Steve_Morse and the value is : 0
+http://dbpedia.org/resource/Platypus and http://dbpedia.org/resource/The_Jelly_Jam and the value is : 0
+http://dbpedia.org/resource/Platypus and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Steve_Morse and http://dbpedia.org/resource/The_Jelly_Jam and the value is : 0
+http://dbpedia.org/resource/Steve_Morse and http://dbpedia.org/resource/Jordan_Rudess and the value is : 1
+http://dbpedia.org/resource/The_Jelly_Jam and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Progressive_rock and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Honors_student and the value is : 0
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Honors_student and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Associate_professor and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Percussion_instrument and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Associate_professor and http://dbpedia.org/resource/Percussion_instrument and the value is : 1
+http://dbpedia.org/resource/Associate_professor and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 1
+http://dbpedia.org/resource/Associate_professor and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Associate_professor and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Percussion_instrument and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 1
+http://dbpedia.org/resource/Percussion_instrument and http://dbpedia.org/resource/Music and the value is : 1
+http://dbpedia.org/resource/Percussion_instrument and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Berklee_College_of_Music and http://dbpedia.org/resource/Music and the value is : 1
+http://dbpedia.org/resource/Berklee_College_of_Music and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Handedness and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Progressive_rock and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Handedness and the value is : 1
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Progressive_rock and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Handedness and http://dbpedia.org/resource/Progressive_rock and the value is : 0
+http://dbpedia.org/resource/Handedness and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Columnist and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Midfielder and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+rod morgenstein born april 18 1959 is an american drummer composer and educator. he is best known for his work with the progressive rock band winger which he joined in 1987. he has also performed and recorded with dixie dregs steve morse band jordan rudess and many other artists. morgenstein began playing drums at the age of nine and by the time he was in high school he was playing professionally. he attended the berklee college of music in boston massachusetts where he studied with drummers alan dawson and joe hunt. after graduating in 1981 he moved to atlanta georgia where he joined the dixie dregs. he has since toured and recorded with the band on several occasions. in 1987 morgenstein joined winger with whom he has recorded six studio albums and toured extensively. he has also released two solo albums the rod morgenstein project 1995 and rod morgensteins winger 1998. in addition to his work with winger he has also performed and recorded with steve morse band jordan rudess and many other artists 
+
+Coref Resolved : 
+rod morgenstein born april 18 1959 is an american drummer composer and educator. rod morgenstein born april 18 1959 is best known for rod morgenstein born april 18 1959 work with the progressive rock band winger which rod morgenstein born april 18 1959 joined in 1987. rod morgenstein born april 18 1959 has also performed and recorded with dixie dregs steve morse band jordan rudess and many other artists. rod morgenstein born april 18 1959 began playing drums at the age of nine and by the time rod morgenstein born april 18 1959 was in high school rod morgenstein born april 18 1959 was playing professionally. rod morgenstein born april 18 1959 attended the berklee college of music in boston massachusetts where rod morgenstein born april 18 1959 studied with drummers alan dawson and joe hunt. after graduating in 1981 rod morgenstein born april 18 1959 moved to atlanta georgia where rod morgenstein born april 18 1959 joined dixie dregs . rod morgenstein born april 18 1959 has since toured and recorded with dixie dregs on several occasions. in 1987rod morgenstein born april 18 1959 joined winger with whom rod morgenstein born april 18 1959 has recorded six studio albums and toured extensively. rod morgenstein born april 18 1959 has also released two solo albums the rod morgenstein born april 18 1959 project 1995 and rod morgensteins winger 1998. in addition to rod morgenstein born april 18 1959 work with the progressive rock band winger which he joined in 1987rod morgenstein born april 18 1959 has also performed and recorded with steve morse band jordan rudess and many other artists
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+rod morgenstein born april 19 1953 in new york is an american drummer and music educator. he is best known for his work with the late 1980s rock band winger and with the jazz fusion band dixie dregs. he also played with fiona platypus the steve morse band and jelly jam. he has also done session work with jordan rudess including his ventures with the rudessmorgenstein project. he also toured with jazz is dead. he has also been awarded modern drummers best progressive rock drummer five years 198690 best allaround drummer 1999 and was inducted into the magazines honor roll. he is currently an associate professor teaching percussion at berklee college of music in boston massachusetts. morgenstein plays premier drums lefthanded and he still tours with the band winger in europe and in the united states. he has also been a columnist for modern drummer magazine. rod is known for his versatility of playing many styles of music. winger released a live dvdcd in november 2007. 
+
+Coref Resolved : 
+rod morgenstein born april 19 1953 in new york is an american drummer and music educator. rod morgenstein is best known for rod morgenstein work with the late 1980s rock band winger and with the jazz fusion band dixie dregs. rod morgenstein also played with fiona platypus the steve morse band and jelly jam. rod morgenstein has also done session work with jordan rudess including jordan rudess ventures with the rudessmorgenstein project. rod morgenstein also toured with jazz is dead. rod morgenstein has also been awarded modern drummers best progressive rock drummer five years 198690 best allaround drummer 1999 and was inducted into modern drummers honor roll. rod morgenstein is currently an associate professor teaching percussion at berklee college of music in boston massachusetts. rod morgenstein plays premier drums lefthanded and rod morgenstein still tours with the late 1980s rock band winger in europe and in the united states. rod morgenstein has also been a columnist for modern drummers . rod morgenstein is known for rod morgenstein versatility of playing many styles of music. the late 1980s rock band winger released a live dvdcd in november 2007.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.275 and for ground truth is : 0.2857142857142857
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate minor_inaccurate accurate 
+

@@ -1,0 +1,47 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Politics_of_Canada and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/Politics_of_Canada and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/Politics_of_Canada and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Scotland and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/1921_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and http://dbpedia.org/resource/1921_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/1926_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/1930_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/1926_Alberta_general_election and http://dbpedia.org/resource/1930_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/United_Farmers_of_Alberta and the value is : 1
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Caucus and the value is : 0
+http://dbpedia.org/resource/United_Farmers_of_Alberta and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/United_Farmers_of_Alberta and http://dbpedia.org/resource/Caucus and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and http://dbpedia.org/resource/Caucus and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Rural_area and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/Rural_area and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Provinces_and_territories_of_Canada and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Natural_resource and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Alberta_Wheat_Pool and the value is : 0
+http://dbpedia.org/resource/Provinces_and_territories_of_Canada and http://dbpedia.org/resource/Natural_resource and the value is : 0
+http://dbpedia.org/resource/Provinces_and_territories_of_Canada and http://dbpedia.org/resource/Alberta_Wheat_Pool and the value is : 0
+http://dbpedia.org/resource/Natural_resource and http://dbpedia.org/resource/Alberta_Wheat_Pool and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Tax and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Beechmount and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john cameron 18601937 was a canadian politician who served in the legislative assembly of alberta from 1921 to 1935. he was born in scotland and immigrated to canada in 1883. cameron was first elected to the alberta legislature in the 1921 alberta general election. he was reelected in the 1926 alberta general election and the 1930 alberta general election. he served as a member of the united farmers of alberta caucus. cameron was a strong advocate for rural alberta and was a vocal opponent of the provincial governments policy of centralization. he was a proponent of the development of the provinces natural resources and was a strong supporter of the alberta wheat pool. he was also a strong advocate for the rights of farmers and was a vocal opponent of the alberta governments policy of taxation. cameron retired from politics in 1935 and died in 1937. he was buried in edmontons beechmount cemetery. 
+
+Coref Resolved : 
+john cameron 18601937 was a canadian politician who served in the legislative assembly of alberta from 1921 to 1935. john cameron 18601937 was born in scotland and immigrated to canada in 1883. john cameron 18601937 was first elected to the alberta legislature in the 1921 alberta general election. john cameron 18601937 was reelected in the 1926 alberta general election and the 1930 alberta general election. john cameron 18601937 served as a member of the united farmers of alberta caucus. john cameron 18601937 was a strong advocate for rural alberta and was a vocal opponent of the provincial governments policy of centralization. john cameron 18601937 was a proponent of the development of the provinces natural resources and was a strong supporter of the alberta wheat pool. john cameron 18601937 was also a strong advocate for the rights of farmers and was a vocal opponent of the provincial governments policy of taxation. john cameron 18601937 retired from politics in 1935and died in 1937. john cameron 18601937 was buried in edmontons beechmount cemetery.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.03333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate accurate 
+

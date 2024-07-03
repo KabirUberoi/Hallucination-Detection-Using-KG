@@ -1,0 +1,150 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Officer and the value is : 0
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/Officer and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Nazi_concentration_camp_commandant and the value is : 1
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 0
+http://dbpedia.org/resource/Nazi_concentration_camp_commandant and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Oswald_Schmiedeberg and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Upper_Silesia and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Oswald_Schmiedeberg and the value is : 1
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Upper_Silesia and the value is : 0
+http://dbpedia.org/resource/Oswald_Schmiedeberg and http://dbpedia.org/resource/Upper_Silesia and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Nazi_Party and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Nazi_Party and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Rudolf_Höss and the value is : 1
+http://dbpedia.org/resource/Auschwitz_concentration_camp and http://dbpedia.org/resource/Rudolf_Höss and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Holocaust_trains and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/History_of_the_Jews_in_Hungary and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Gas_chamber and the value is : 0
+http://dbpedia.org/resource/Holocaust_trains and http://dbpedia.org/resource/History_of_the_Jews_in_Hungary and the value is : 0
+http://dbpedia.org/resource/Holocaust_trains and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 0
+http://dbpedia.org/resource/Holocaust_trains and http://dbpedia.org/resource/Gas_chamber and the value is : 0
+http://dbpedia.org/resource/History_of_the_Jews_in_Hungary and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 0
+http://dbpedia.org/resource/History_of_the_Jews_in_Hungary and http://dbpedia.org/resource/Gas_chamber and the value is : 1
+http://dbpedia.org/resource/Auschwitz_concentration_camp and http://dbpedia.org/resource/Gas_chamber and the value is : 1
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Richard_Baer and the value is : 1
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Gestapo and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Sturmbannführer and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Iron and the value is : 1
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Vienna and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Austria and the value is : 0
+http://dbpedia.org/resource/Vienna and http://dbpedia.org/resource/Austria and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/German_Cross and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Gold and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/5th_SS_Panzer_Division_Wiking and the value is : 0
+http://dbpedia.org/resource/German_Cross and http://dbpedia.org/resource/Gold and the value is : 0
+http://dbpedia.org/resource/German_Cross and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/German_Cross and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/German_Cross and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/German_Cross and http://dbpedia.org/resource/5th_SS_Panzer_Division_Wiking and the value is : 0
+http://dbpedia.org/resource/Gold and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/Gold and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Gold and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/Gold and http://dbpedia.org/resource/5th_SS_Panzer_Division_Wiking and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/5th_SS_Panzer_Division_Wiking and the value is : 0
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/5th_SS_Panzer_Division_Wiking and the value is : 0
+http://dbpedia.org/resource/Royal_Artillery and http://dbpedia.org/resource/5th_SS_Panzer_Division_Wiking and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Honour_Roll_Clasp and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Short_story and the value is : 1
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Panzergrenadier and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/MV_Norland and the value is : 0
+http://dbpedia.org/resource/Honour_Roll_Clasp and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/Honour_Roll_Clasp and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Honour_Roll_Clasp and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Honour_Roll_Clasp and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/Honour_Roll_Clasp and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Honour_Roll_Clasp and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/Honour_Roll_Clasp and http://dbpedia.org/resource/Panzergrenadier and the value is : 0
+http://dbpedia.org/resource/Honour_Roll_Clasp and http://dbpedia.org/resource/MV_Norland and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Iron and the value is : 1
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Panzergrenadier and the value is : 1
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/MV_Norland and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Battalion and the value is : 1
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Panzergrenadier and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/MV_Norland and the value is : 0
+http://dbpedia.org/resource/Nazi_Germany and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/Nazi_Germany and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Nazi_Germany and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/Nazi_Germany and http://dbpedia.org/resource/Panzergrenadier and the value is : 0
+http://dbpedia.org/resource/Nazi_Germany and http://dbpedia.org/resource/MV_Norland and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Royal_Artillery and the value is : 1
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Panzergrenadier and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/MV_Norland and the value is : 0
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/Panzergrenadier and the value is : 0
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/MV_Norland and the value is : 0
+http://dbpedia.org/resource/Royal_Artillery and http://dbpedia.org/resource/Panzergrenadier and the value is : 0
+http://dbpedia.org/resource/Royal_Artillery and http://dbpedia.org/resource/MV_Norland and the value is : 0
+http://dbpedia.org/resource/Panzergrenadier and http://dbpedia.org/resource/MV_Norland and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Military_hospital and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Landsberg_am_Lech and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Warta and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Poland and the value is : 0
+http://dbpedia.org/resource/Military_hospital and http://dbpedia.org/resource/Landsberg_am_Lech and the value is : 0
+http://dbpedia.org/resource/Military_hospital and http://dbpedia.org/resource/Warta and the value is : 0
+http://dbpedia.org/resource/Military_hospital and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Military_hospital and http://dbpedia.org/resource/Poland and the value is : 0
+http://dbpedia.org/resource/Landsberg_am_Lech and http://dbpedia.org/resource/Warta and the value is : 0
+http://dbpedia.org/resource/Landsberg_am_Lech and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Landsberg_am_Lech and http://dbpedia.org/resource/Poland and the value is : 0
+http://dbpedia.org/resource/Warta and http://dbpedia.org/resource/Nazi_Germany and the value is : 1
+http://dbpedia.org/resource/Warta and http://dbpedia.org/resource/Poland and the value is : 0
+http://dbpedia.org/resource/Nazi_Germany and http://dbpedia.org/resource/Poland and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+alfred fischer 18991945 was a german ss officer during world war ii. he was a member of the sstotenkopfverbände and was the commandant of the auschwitz concentration camp from may 1944 to november 1944. fischer was born in 1899 in the small town of schmiedeberg in silesia. he joined the nazi party in 1933 and the ss in 1934. he was assigned to the auschwitz concentration camp in may 1944 replacing rudolf höss. during his tenure fischer was responsible for the deportation of hungarian jews to auschwitz and the selection of prisoners for the gas chambers. he was also responsible for the construction of the auschwitz iiimonowitz concentration camp. fischer was removed from his post in november 1944 and was replaced by richard baer. he was later arrested by the gestapo and executed in 1945. 
+
+Coref Resolved : 
+alfred fischer 18991945 was a german ss officer during world war ii. alfred fischer 18991945 was a member of the sstotenkopfverbände and was the commandant of the auschwitz concentration camp from may 1944 to november 1944. alfred fischer 18991945 was born in 1899 in the small town of schmiedeberg in silesia. alfred fischer 18991945 joined the nazi party in 1933 and the ss in 1934. alfred fischer 18991945 was assigned to the auschwitz concentration camp in may 1944 replacing rudolf höss. during alfred fischer 18991945 tenure alfred fischer 18991945 was responsible for the deportation of hungarian jews to the auschwitz concentration camp and the selection of prisoners for the gas chambers. alfred fischer 18991945 was also responsible for the construction of the auschwitz iiimonowitz concentration camp. alfred fischer 18991945 was removed from alfred fischer 18991945 post in november 1944and was replaced by richard baer. alfred fischer 18991945 was later arrested by the gestapo and executed in 1945.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+alfred fischer 14 december 1907 28 july 1945 was a sturmbannführer major in the waffenss during world war ii. he was awarded the knights cross of the iron cross which was awarded to recognize extreme battlefield bravery or successful military leadership by nazi germany during world war ii. alfred fischer was born on 14 december 1907 in vienna austria. during world war ii he volunteered to join the waffenss. he was awarded the german cross in gold while assigned to the i. battalion 5th ss artillery regiment of the ss division wiking in january 1943. in march 1945 he was added to the honour roll clasp of the army and the knights cross was awarded at the end of the war on 9 may 1945 while in command of the ii. battalion 11th ss artillery regiment 11th ss panzergrenadier division norland. fischer survived the war but died in the prisoner of war camp hospital at landsberg an der warthe germany now poland on 28 july 1945. 
+
+Coref Resolved : 
+alfred fischer 14 december 1907 28 july 1945 was a sturmbannführer major in the waffenss during world war ii. alfred fischer was awarded the knights cross of the iron cross which was awarded to recognize extreme battlefield bravery or successful military leadership by nazi germany during world war ii. alfred fischer was born on 14 december 1907 in vienna austria. during world war iialfred fischer volunteered to join the waffenss . alfred fischer was awarded the german cross in gold while assigned to the i. battalion 5th ss artillery regiment of the ss division wiking in january 1943. in march 1945 alfred fischer was added to the honour roll clasp of the army and the knights cross of the iron cross which was awarded to recognize extreme battlefield bravery or successful military leadership by nazi germany during world war iiwas awarded at the end of world war iion 9 may 1945 while in command of the ii. battalion 11th ss artillery regiment 11th ss panzergrenadier division norland. alfred fischer survived world war iibut died in the prisoner of war camp hospital at landsberg an der warthe germany now poland on 28 july 1945 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1935483870967742 and for ground truth is : 0.07692307692307693
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate accurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

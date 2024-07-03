@@ -1,0 +1,133 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Business_magnate and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Philanthropy and the value is : 1
+http://dbpedia.org/resource/Business_magnate and http://dbpedia.org/resource/Philanthropy and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Kidderminster and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Worcestershire and the value is : 1
+http://dbpedia.org/resource/Kidderminster and http://dbpedia.org/resource/Worcestershire and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Metalworking and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Metalworking and http://dbpedia.org/resource/Birmingham and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Hospital and the value is : 1
+http://dbpedia.org/resource/Birmingham and http://dbpedia.org/resource/Hospital and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Mason_Science_College and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Mason_Science_College and http://dbpedia.org/resource/Birmingham and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Knight_Bachelor and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Knight_Bachelor and http://dbpedia.org/resource/Philanthropy and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Business_magnate and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Pen and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Business_magnate and http://dbpedia.org/resource/Pen and the value is : 0
+http://dbpedia.org/resource/Business_magnate and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Pen and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Mason_Science_College and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Birmingham and the value is : 1
+http://dbpedia.org/resource/Mason_Science_College and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Kidderminster and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Hawker_(trade) and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Market_town and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Shoemaking and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Baking and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Carpentry and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Blacksmith and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Birmingham and the value is : 1
+http://dbpedia.org/resource/Market_town and http://dbpedia.org/resource/Shoemaking and the value is : 0
+http://dbpedia.org/resource/Market_town and http://dbpedia.org/resource/Baking and the value is : 0
+http://dbpedia.org/resource/Market_town and http://dbpedia.org/resource/Carpentry and the value is : 0
+http://dbpedia.org/resource/Market_town and http://dbpedia.org/resource/Blacksmith and the value is : 0
+http://dbpedia.org/resource/Market_town and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Shoemaking and http://dbpedia.org/resource/Baking and the value is : 0
+http://dbpedia.org/resource/Shoemaking and http://dbpedia.org/resource/Carpentry and the value is : 1
+http://dbpedia.org/resource/Shoemaking and http://dbpedia.org/resource/Blacksmith and the value is : 0
+http://dbpedia.org/resource/Shoemaking and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Baking and http://dbpedia.org/resource/Carpentry and the value is : 0
+http://dbpedia.org/resource/Baking and http://dbpedia.org/resource/Blacksmith and the value is : 0
+http://dbpedia.org/resource/Baking and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Carpentry and http://dbpedia.org/resource/Blacksmith and the value is : 0
+http://dbpedia.org/resource/Carpentry and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Blacksmith and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Steel and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/James_Franklin_Perry and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Stationery and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Steel and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Joseph_Gillott and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Record_producer and the value is : 1
+http://dbpedia.org/resource/James_Franklin_Perry and http://dbpedia.org/resource/Stationery and the value is : 0
+http://dbpedia.org/resource/James_Franklin_Perry and http://dbpedia.org/resource/Steel and the value is : 0
+http://dbpedia.org/resource/James_Franklin_Perry and http://dbpedia.org/resource/Joseph_Gillott and the value is : 0
+http://dbpedia.org/resource/James_Franklin_Perry and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Stationery and http://dbpedia.org/resource/Steel and the value is : 0
+http://dbpedia.org/resource/Stationery and http://dbpedia.org/resource/Joseph_Gillott and the value is : 0
+http://dbpedia.org/resource/Stationery and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Steel and http://dbpedia.org/resource/Joseph_Gillott and the value is : 0
+http://dbpedia.org/resource/Steel and http://dbpedia.org/resource/Record_producer and the value is : 1
+http://dbpedia.org/resource/Joseph_Gillott and http://dbpedia.org/resource/Record_producer and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Electroplating and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Natural_rubber and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Ring_of_bells and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/George_Richards_Elkington and the value is : 0
+http://dbpedia.org/resource/Electroplating and http://dbpedia.org/resource/Natural_rubber and the value is : 0
+http://dbpedia.org/resource/Electroplating and http://dbpedia.org/resource/Ring_of_bells and the value is : 0
+http://dbpedia.org/resource/Electroplating and http://dbpedia.org/resource/George_Richards_Elkington and the value is : 0
+http://dbpedia.org/resource/Natural_rubber and http://dbpedia.org/resource/Ring_of_bells and the value is : 0
+http://dbpedia.org/resource/Natural_rubber and http://dbpedia.org/resource/George_Richards_Elkington and the value is : 0
+http://dbpedia.org/resource/Ring_of_bells and http://dbpedia.org/resource/George_Richards_Elkington and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Shoemaking and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Apprenticeship and the value is : 0
+http://dbpedia.org/resource/Shoemaking and http://dbpedia.org/resource/Apprenticeship and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Orphanage and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Erdington and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Orphanage and http://dbpedia.org/resource/Erdington and the value is : 0
+http://dbpedia.org/resource/Orphanage and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Erdington and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Orphanage and http://dbpedia.org/resource/Josiah_Mason and the value is : 0
+http://dbpedia.org/resource/Orphanage and http://dbpedia.org/resource/Knight_Bachelor and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Knight_Bachelor and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Dispensary and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Market_town and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Almshouse and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Erdington and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Birmingham and the value is : 1
+http://dbpedia.org/resource/Dispensary and http://dbpedia.org/resource/Market_town and the value is : 0
+http://dbpedia.org/resource/Dispensary and http://dbpedia.org/resource/Almshouse and the value is : 0
+http://dbpedia.org/resource/Dispensary and http://dbpedia.org/resource/Erdington and the value is : 1
+http://dbpedia.org/resource/Dispensary and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Market_town and http://dbpedia.org/resource/Almshouse and the value is : 1
+http://dbpedia.org/resource/Market_town and http://dbpedia.org/resource/Erdington and the value is : 1
+http://dbpedia.org/resource/Market_town and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Almshouse and http://dbpedia.org/resource/Erdington and the value is : 1
+http://dbpedia.org/resource/Almshouse and http://dbpedia.org/resource/Birmingham and the value is : 1
+http://dbpedia.org/resource/Erdington and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Mason_Science_College and http://dbpedia.org/resource/Birmingham and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+josiah mason 17951881 was an english industrialist and philanthropist. he was born in kidderminster worcestershire the son of a weaver. he was apprenticed to a button maker in birmingham and in 1824 he established his own buttonmaking business. he soon expanded into other metalworking trades and by 1851 he had become one of the largest employers in birmingham. he was a major benefactor of the city donating money to build a hospital a college and a school. he also founded mason science college which later became part of the university of birmingham. he was knighted in 1872 for his philanthropic work. 
+
+Coref Resolved : 
+josiah mason 17951881 was an english industrialist and philanthropist. josiah mason 17951881 was born in kidderminster worcestershire the son of a weaver. josiah mason 17951881 was apprenticed to a button maker in birmingham and in 1824 josiah mason 17951881 established josiah mason 17951881 own buttonmaking business. josiah mason 17951881 soon expanded into other metalworking trades and by 1851 josiah mason 17951881 had become one of the largest employers in birmingham . josiah mason 17951881 was a major benefactor of birmingham donating money to build a hospital a college and a school. josiah mason 17951881 also founded mason science college which later became part of the university of birmingham. josiah mason 17951881 was knighted in 1872 for josiah mason 17951881 philanthropic work.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+sir josiah mason 23 february 1795 16 june 1881 was an english industrialist engaged in pen manufacture and other trades and a philanthropist. he founded mason science college in 1875 which later became the university of birmingham. he was the son of a carpetweaver and was born in mill street kidderminster. he began life as a street hawker of cakes fruits and vegetables. after trying his hand in his native town at shoemaking baking carpentry blacksmithing housepainting and carpetweaving he moved in 1816 to birmingham. there he found employment in the gilttoy trade. in 1824 he set up on his own account as a manufacturer of splitrings by machinery to which he subsequently added the making of steel pens. owing to the circumstance of his pens being supplied through james perry the london stationer whose name they bore he was less well known than joseph gillott and other makers although he was really the largest producer in england contributing heavily to the birmingham pen trade. in 1874 the business was converted into a limited liability company. besides his steelpen trade mason carried on for many years the business of electroplating coppersmelting and indiarubber ring making in conjunction with george elkington. mason was almost entirely selfeducated having taught himself to write when a shoemakers apprentice and in later life he felt his deficiencies keenly. it was this which led him in 1860 to establish his great orphanage at erdington near birmingham. upon it he expended about 300000 and for this munificent endowment he was knighted in 1872. he had previously given a dispensary to his native town and an almshouse to erdington. in 1880 mason college since incorporated in the university of birmingham was opened. the total value of the endowment was about 250000. 
+
+Coref Resolved : 
+sir josiah mason 23 february 1795 16 june 1881 was an english industrialist engaged in pen manufacture and other trades and a philanthropist. sir josiah mason founded mason science college in 1875 which later became the university of birmingham. sir josiah mason was the son of a carpetweaver and was born in mill street kidderminster. sir josiah mason began life as a street hawker of cakes fruits and vegetables. after trying sir josiah mason hand in sir josiah mason native town at shoemaking baking carpentry blacksmithing housepainting and carpetweaving sir josiah mason moved in 1816 to birmingham. there sir josiah mason found employment in the gilttoy trade. in 1824 sir josiah mason set up on sir josiah mason own account as a manufacturer of splitrings by machinery to which sir josiah mason subsequently added the making of steel pens. owing to the circumstance of sir josiah mason pens being supplied through james perry the london stationer whose name steel pensbore sir josiah mason was less well known than joseph gillott and other makers although sir josiah mason was really the largest producer in england contributing heavily to the birminghampen trade. in 1874 the business was converted into a limited liability company. besides sir josiah mason steelpen trade sir josiah mason carried on for many years the business of electroplating coppersmelting and indiarubber ring making in conjunction with george elkington. sir josiah mason was almost entirely selfeducated having taught sir josiah mason to write when a shoemakers apprentice and in later life sir josiah mason felt sir josiah mason deficiencies keenly. it was felt which led sir josiah mason in 1860 to establish sir josiah mason great orphanage at erdington near birmingham. upon his great orphanage sir josiah mason expended this munificent endowment and for this munificent endowment sir josiah mason was knighted in 1872. sir josiah mason had previously given a dispensary to sir josiah mason native town and an almshouse to erdington near birmingham. in 1880 mason college since incorporated in the university of birmingham was opened. the total value of this munificent endowment was about 250000.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.5789473684210527 and for ground truth is : 0.26744186046511625
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate accurate accurate accurate accurate 
+

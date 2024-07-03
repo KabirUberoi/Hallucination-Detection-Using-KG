@@ -1,0 +1,44 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Bridget_Moynahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Bridget_Moynahan and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Longmeadow_High_School and http://dbpedia.org/resource/University_of_Massachusetts_Amherst and the value is : 0
+http://dbpedia.org/resource/Department_store and http://dbpedia.org/resource/Television_advertisement and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Guest_appearance and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Sex and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Natasha_Richardson and the value is : 0
+http://dbpedia.org/resource/Guest_appearance and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/Guest_appearance and http://dbpedia.org/resource/Sex and the value is : 0
+http://dbpedia.org/resource/Guest_appearance and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Guest_appearance and http://dbpedia.org/resource/Natasha_Richardson and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Sex and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Natasha_Richardson and the value is : 0
+http://dbpedia.org/resource/Sex and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Sex and http://dbpedia.org/resource/Natasha_Richardson and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Natasha_Richardson and the value is : 0
+http://dbpedia.org/resource/Coyote_Ugly_Saloon and http://dbpedia.org/resource/Serendipity and the value is : 0
+http://dbpedia.org/resource/Coyote_Ugly_Saloon and http://dbpedia.org/resource/Robot and the value is : 0
+http://dbpedia.org/resource/Coyote_Ugly_Saloon and http://dbpedia.org/resource/Gray_Matters_(2006_film) and the value is : 0
+http://dbpedia.org/resource/Serendipity and http://dbpedia.org/resource/Robot and the value is : 0
+http://dbpedia.org/resource/Serendipity and http://dbpedia.org/resource/Gray_Matters_(2006_film) and the value is : 0
+http://dbpedia.org/resource/Robot and http://dbpedia.org/resource/Gray_Matters_(2006_film) and the value is : 0
+http://dbpedia.org/resource/CBS_Drama and http://dbpedia.org/resource/Blue_Bloods_(TV_series) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+bridget moynahan born kathryn bridget moynahan april 28 1971 is an american actress and model. she graduated from longmeadow high school in massachusetts in 1989 and began pursuing a career in modeling. she appeared in department store catalogs and magazines and after doing television commercials she began taking acting lessons. moynahan made her television debut in a guest appearance in the comedy series sex and the city in 1999 where she later had a recurring role as natasha. she also appeared in films such as coyote ugly 2000 serendipity 2001 the sum of all fears 2002 i robot 2004 lord of war 2005 and gray matters 2007. she starred in the abc television series six degrees which premiered in september 2006 but was cancelled after one season. she also had a recurring role in the cbs drama blue bloods. 
+
+Coref Resolved : 
+bridget moynahan born kathryn bridget moynahan april 28 1971 is an american actress and model. moynahan graduated from longmeadow high school in massachusetts in 1989 and began pursuing a career in modeling. moynahan appeared in department store catalogs and magazines and after doing television commercials moynahan began taking acting lessons. moynahan made moynahan television debut in a guest appearance in the comedy series sex and the city in 1999 where moynahan later had a recurring role as natasha. moynahan also appeared in films such as coyote ugly 2000 serendipity 2001 the sum of all fears 2002 i robot 2004 lord of war 2005 and gray matters 2007. moynahan starred in the abc television series six degrees which premiered in september 2006 but was cancelled after one season. moynahan also had a recurring role in the cbs drama blue bloods.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.037037037037037035
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate accurate accurate 
+

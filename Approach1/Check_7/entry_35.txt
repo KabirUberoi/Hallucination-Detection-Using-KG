@@ -1,0 +1,91 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Spring_and_Autumn_period and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/History_of_China and the value is : 1
+http://dbpedia.org/resource/Spring_and_Autumn_period and http://dbpedia.org/resource/History_of_China and the value is : 0
+http://dbpedia.org/resource/Huai_River and http://dbpedia.org/resource/Emperor_Yi_of_Chu and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Zhou_dynasty and the value is : 0
+http://dbpedia.org/resource/Catty and http://dbpedia.org/resource/Guqin and the value is : 0
+http://dbpedia.org/resource/Catty and http://dbpedia.org/resource/614_BC and the value is : 0
+http://dbpedia.org/resource/Guqin and http://dbpedia.org/resource/614_BC and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Independence and the value is : 1
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Annexation and the value is : 0
+http://dbpedia.org/resource/Independence and http://dbpedia.org/resource/Annexation and the value is : 0
+http://dbpedia.org/resource/Peace and http://dbpedia.org/resource/Standard_Zhuang and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Monarch and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Zhou_dynasty and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Spring_and_Autumn_period and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/History_of_China and the value is : 0
+http://dbpedia.org/resource/Monarch and http://dbpedia.org/resource/Zhou_dynasty and the value is : 0
+http://dbpedia.org/resource/Monarch and http://dbpedia.org/resource/Spring_and_Autumn_period and the value is : 0
+http://dbpedia.org/resource/Monarch and http://dbpedia.org/resource/History_of_China and the value is : 0
+http://dbpedia.org/resource/Zhou_dynasty and http://dbpedia.org/resource/Spring_and_Autumn_period and the value is : 1
+http://dbpedia.org/resource/Zhou_dynasty and http://dbpedia.org/resource/History_of_China and the value is : 0
+http://dbpedia.org/resource/Spring_and_Autumn_period and http://dbpedia.org/resource/History_of_China and the value is : 0
+http://dbpedia.org/resource/Xiong_County and http://dbpedia.org/resource/Tai_Lue_language and the value is : 0
+http://dbpedia.org/resource/Xiong_County and http://dbpedia.org/resource/Mi_(surname) and the value is : 0
+http://dbpedia.org/resource/Xiong_County and http://dbpedia.org/resource/Standard_Zhuang and the value is : 0
+http://dbpedia.org/resource/Xiong_County and http://dbpedia.org/resource/Posthumous_name and the value is : 0
+http://dbpedia.org/resource/Tai_Lue_language and http://dbpedia.org/resource/Mi_(surname) and the value is : 0
+http://dbpedia.org/resource/Tai_Lue_language and http://dbpedia.org/resource/Standard_Zhuang and the value is : 0
+http://dbpedia.org/resource/Tai_Lue_language and http://dbpedia.org/resource/Posthumous_name and the value is : 0
+http://dbpedia.org/resource/Mi_(surname) and http://dbpedia.org/resource/Standard_Zhuang and the value is : 1
+http://dbpedia.org/resource/Mi_(surname) and http://dbpedia.org/resource/Posthumous_name and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Posthumous_name and the value is : 0
+http://dbpedia.org/resource/Hegemony and http://dbpedia.org/resource/Wrest_Park and the value is : 0
+http://dbpedia.org/resource/Hegemony and http://dbpedia.org/resource/King_Zhou_of_Shang and the value is : 0
+http://dbpedia.org/resource/Wrest_Park and http://dbpedia.org/resource/King_Zhou_of_Shang and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/613_BC and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Hotel_California_(Eagles_album) and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Hunting and the value is : 0
+http://dbpedia.org/resource/Hotel_California_(Eagles_album) and http://dbpedia.org/resource/Hunting and the value is : 0
+http://dbpedia.org/resource/Senior_Minister and http://dbpedia.org/resource/Royal_court and the value is : 0
+http://dbpedia.org/resource/Senior_Minister and http://dbpedia.org/resource/Chinese_nationalism and the value is : 0
+http://dbpedia.org/resource/Royal_court and http://dbpedia.org/resource/Chinese_nationalism and the value is : 0
+http://dbpedia.org/resource/Sunshu_Ao and http://dbpedia.org/resource/Chancellor_of_the_Tang_dynasty and the value is : 0
+http://dbpedia.org/resource/Associate_degree and http://dbpedia.org/resource/Reservoir and the value is : 0
+http://dbpedia.org/resource/Associate_degree and http://dbpedia.org/resource/Anhui and the value is : 0
+http://dbpedia.org/resource/Reservoir and http://dbpedia.org/resource/Anhui and the value is : 0
+http://dbpedia.org/resource/Annexation and http://dbpedia.org/resource/Yong_(Korean_name) and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Houmuwu_ding and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Congee and the value is : 0
+http://dbpedia.org/resource/Houmuwu_ding and http://dbpedia.org/resource/Congee and the value is : 1
+http://dbpedia.org/resource/Houmuwu_ding and http://dbpedia.org/resource/Congee and the value is : 0
+http://dbpedia.org/resource/Houmuwu_ding and http://dbpedia.org/resource/Tripod and the value is : 0
+http://dbpedia.org/resource/Houmuwu_ding and http://dbpedia.org/resource/Euphemism and the value is : 0
+http://dbpedia.org/resource/Houmuwu_ding and http://dbpedia.org/resource/Ultimate_Power and the value is : 0
+http://dbpedia.org/resource/Congee and http://dbpedia.org/resource/Tripod and the value is : 0
+http://dbpedia.org/resource/Congee and http://dbpedia.org/resource/Euphemism and the value is : 0
+http://dbpedia.org/resource/Congee and http://dbpedia.org/resource/Ultimate_Power and the value is : 0
+http://dbpedia.org/resource/Tripod and http://dbpedia.org/resource/Euphemism and the value is : 0
+http://dbpedia.org/resource/Tripod and http://dbpedia.org/resource/Ultimate_Power and the value is : 0
+http://dbpedia.org/resource/Euphemism and http://dbpedia.org/resource/Ultimate_Power and the value is : 0
+http://dbpedia.org/resource/Regent and http://dbpedia.org/resource/Five_Hegemons and the value is : 1
+http://dbpedia.org/resource/Regent and http://dbpedia.org/resource/Chengyu and the value is : 0
+http://dbpedia.org/resource/Five_Hegemons and http://dbpedia.org/resource/Chengyu and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+zhuang chu died 621 bc ruler state chu spring autumn period ancient china . son king huai chu younger brother king huai ii . succeeded brother 613 bc reigned death 621 bc . reign zhuang chu faced numerous challenges states zhou dynasty . forced cede territory state jin defeated state qin 614 bc . faced internal strife ministers divided factions . despite challenges zhuang chu able maintain independence chu kept annexed states . able expand chus territory strengthen economy . zhuang chu wise capable ruler respected contemporaries . known generosity kindness praised ability maintain peace stability chu . patron arts literature 
+
+Coref Resolved : 
+zhuang chu died 621 bc ruler state chu spring autumn period ancient china . son king huai chu younger brother king huai ii . succeeded brother 613 bc reigned death 621 bc . reign zhuang chu faced numerous challenges states zhou dynasty . forced cede territory state jin defeated state qin 614 bc . faced internal strife ministers divided factions . despite challenges zhuang chu able maintain independence zhuang chu kept annexed states . able expand chus territory strengthen economy . zhuang chu wise capable ruler respected contemporaries . known generosity kindness praised ability maintain peace stability zhuang chu . patron arts literature
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+king zhuang chu died 591 bc monarch zhou dynasty state chu spring autumn period ancient chinese history . personal xiong lü ancestral mi 芈 king zhuang posthumous title . hegemons attempted wrest control china king zhou . king zhuang ascended throne 613 bc time kingdom chu disarray . years reign zhuang wasted time excessive hunting lavish partying . courtiers anxious king dared speak given orders challenged authority killed . particularly senior minister challenged riddle king responded waiting years court nationalistic pride . king sunshu ao chancellor began series reforms . chus agricultural output improved significantly reign aided sunshu aos comprehensive damworks enormous planned reservoir created modernday northern anhui province . 611 bc annexed state yong 庸国 chu stronger . overwhelming victories head army king zhuang attempted place king ding zhou . asked messenger zhou weight tripod cauldrons zhou possessed euphemism seeking ultimate power china time rebuffed . battle bi army defeated state jin strong state time . later achieved hegemony states . progress lazy regent hegemon time gave rise chinese fourcharacter idiom yī mǐng jīng rén 一冥而惊人 . 
+
+Coref Resolved : 
+king zhuang chu died 591 bc monarch zhou dynasty state chu spring autumn period ancient chinese history . personal xiong lü ancestral mi 芈 king zhuang chu posthumous title . hegemons attempted wrest control china king zhou . king zhuang chu ascended throne 613 bc time kingdom chu disarray . years reign king zhuang chu wasted time excessive hunting lavish partying . courtiers anxious king zhuang chu dared speak given orders challenged authority killed . particularly senior minister challenged riddle king responded waiting years court nationalistic pride . king sunshu ao chancellor began series reforms . chus agricultural output improved significantly reign aided sunshu aos comprehensive damworks enormous planned reservoir created modernday northern anhui province . 611 bc annexed state yong 庸国 chu stronger . overwhelming victories head army king zhuang chu attempted place king ding zhou . asked messenger king ding zhou weight tripod cauldrons king ding zhou possessed euphemism seeking ultimate power china time rebuffed . battle bi army defeated state jin strong state time . later achieved hegemony states . progress lazy regent hegemon time gave rise chinese fourcharacter idiom yī mǐng jīng rén 一冥而惊人 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16666666666666666 and for ground truth is : 0.0784313725490196
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate accurate accurate accurate accurate minor_inaccurate 
+

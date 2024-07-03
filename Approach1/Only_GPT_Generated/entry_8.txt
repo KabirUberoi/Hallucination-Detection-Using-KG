@@ -1,0 +1,42 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Philosophy and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Nomothetic and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Nomothetic_and_idiographic and the value is : 1
+http://dbpedia.org/resource/Nomothetic and http://dbpedia.org/resource/Nomothetic_and_idiographic and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Psychology and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Religion and the value is : 0
+http://dbpedia.org/resource/Psychology and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Psychology and http://dbpedia.org/resource/Religion and the value is : 0
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Religion and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Psychologism and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Neo-Kantianism and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Kuno_Fischer and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Franz_Brentano and the value is : 1
+http://dbpedia.org/resource/Kuno_Fischer and http://dbpedia.org/resource/Franz_Brentano and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Edmund_Husserl and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Adolf_Reinach and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Carl_Stumpf and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Richard_von_Mises and the value is : 0
+http://dbpedia.org/resource/Edmund_Husserl and http://dbpedia.org/resource/Adolf_Reinach and the value is : 0
+http://dbpedia.org/resource/Edmund_Husserl and http://dbpedia.org/resource/Carl_Stumpf and the value is : 0
+http://dbpedia.org/resource/Edmund_Husserl and http://dbpedia.org/resource/Richard_von_Mises and the value is : 1
+http://dbpedia.org/resource/Adolf_Reinach and http://dbpedia.org/resource/Carl_Stumpf and the value is : 0
+http://dbpedia.org/resource/Adolf_Reinach and http://dbpedia.org/resource/Richard_von_Mises and the value is : 0
+http://dbpedia.org/resource/Carl_Stumpf and http://dbpedia.org/resource/Richard_von_Mises and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+wilhelm windelband 15 march 1848 18 september 1915 was a german philosopher of the late 19th and early 20th centuries. he is now remembered mainly for the terms nomothetic and idiographic which he introduced. he also wrote on history psychology the philosophy of religion values and other topics. he was a neokantian who protested other neokantians of his time and maintained a critical position towards psychologism. windelband is known as one of the founders of the baden school of neokantianism. he was a student of kuno fischer and franz brentano. his students included edmund husserl adolf reinach carl stumpf and richard von mises. 
+
+Coref Resolved : 
+wilhelm windelband 15 march 1848 18 september 1915 was a german philosopher of the late 19th and early 20th centuries. wilhelm windelband is now remembered mainly for the terms nomothetic and idiographic which wilhelm windelband introduced. wilhelm windelband also wrote on history psychology the philosophy of religion values and other topics. wilhelm windelband was a neokantian who protested other neokantians of wilhelm windelband time and maintained a critical position towards psychologism. wilhelm windelband is known as one of the founders of the baden school of neokantianism. wilhelm windelband was a student of kuno fischer and franz brentano. wilhelm windelband students included edmund husserl adolf reinach carl stumpf and richard von mises.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.48
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate accurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,67 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Philosophy_of_science and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/University_of_British_Columbia and the value is : 0
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Philosophy_of_science and the value is : 1
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/University_of_British_Columbia and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Philosophy_of_science and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/University_of_British_Columbia and the value is : 0
+http://dbpedia.org/resource/Philosophy_of_science and http://dbpedia.org/resource/University_of_British_Columbia and the value is : 1
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Philosophy_of_science and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Biology and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Technology and the value is : 0
+http://dbpedia.org/resource/Philosophy_of_science and http://dbpedia.org/resource/Biology and the value is : 1
+http://dbpedia.org/resource/Philosophy_of_science and http://dbpedia.org/resource/Technology and the value is : 1
+http://dbpedia.org/resource/Biology and http://dbpedia.org/resource/Technology and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Royal_Society and the value is : 1
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Bachelor_of_Arts and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 1
+http://dbpedia.org/resource/Bachelor_of_Arts and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/University_of_British_Columbia and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/University_of_British_Columbia and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/University_of_Pittsburgh and the value is : 1
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/George_Berkeley and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/University_of_Pittsburgh and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/George_Berkeley and http://dbpedia.org/resource/University_of_Pittsburgh and the value is : 0
+http://dbpedia.org/resource/George_Berkeley and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/University_of_Pittsburgh and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Philosophy_of_science and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Biology and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Technology and the value is : 0
+http://dbpedia.org/resource/Philosophy_of_science and http://dbpedia.org/resource/Biology and the value is : 0
+http://dbpedia.org/resource/Philosophy_of_science and http://dbpedia.org/resource/Technology and the value is : 1
+http://dbpedia.org/resource/Biology and http://dbpedia.org/resource/Technology and the value is : 1
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/History_of_evolutionary_thought and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Philosophy_of_science and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Biology and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Technology and the value is : 1
+http://dbpedia.org/resource/History_of_evolutionary_thought and http://dbpedia.org/resource/Philosophy_of_science and the value is : 1
+http://dbpedia.org/resource/History_of_evolutionary_thought and http://dbpedia.org/resource/Biology and the value is : 0
+http://dbpedia.org/resource/History_of_evolutionary_thought and http://dbpedia.org/resource/Technology and the value is : 1
+http://dbpedia.org/resource/Philosophy_of_science and http://dbpedia.org/resource/Biology and the value is : 0
+http://dbpedia.org/resource/Philosophy_of_science and http://dbpedia.org/resource/Technology and the value is : 0
+http://dbpedia.org/resource/Biology and http://dbpedia.org/resource/Technology and the value is : 0
+http://dbpedia.org/resource/C._H._Waddington and http://dbpedia.org/resource/Author and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+paul y. r. waddington born october 28 1945 is a britishborn canadian philosopher and professor of philosophy at the university of victoria in british columbia canada. he is best known for his work in the philosophy of science particularly in the philosophy of biology and for his contributions to the philosophy of technology. he is also a fellow of the royal society of canada. waddington was born in london england and educated at the university of oxford where he received his b.a. in 1967 and his d.phil. in 1971. he then moved to canada where he taught at the university of toronto from 1971 to 1975 and at the university of victoria since 1975. he has held visiting positions at the university of california berkeley the university of pittsburgh and the university of toronto. waddingtons research focuses on the philosophy of science particularly the philosophy of biology and the philosophy of technology. he has written extensively on the topics of evolutionary theory the philosophy of biology and the philosophy of technology. he is the author of several books including the 
+
+Coref Resolved : 
+paul y. r. waddington born october 28 1945 is a britishborn canadian philosopher and professor of philosophy at the university of victoria in british columbia canada. paul y. r. waddington is best known for paul y. r. waddington work in the philosophy of science particularly in the philosophy of biology and for paul y. r. waddington contributions to the philosophy of technology. paul y. r. waddington is also a fellow of the royal society of canada. paul y. r. waddington was born in london england and educated at the university of oxford where paul y. r. waddington received paul y. r. waddington b.a. in 1967 and paul y. r. waddington d.phil. in 1971. paul y. r. waddington then moved to canadawhere paul y. r. waddington taught at the university of toronto from 1971to 1975 and at the university of victoria in british columbia canadasince 1975 . paul y. r. waddington has held visiting positions at the university of california berkeley the university of pittsburgh and the university of toronto . paul y. r. waddington research focuses on the philosophy of science particularly the philosophy of biology and the philosophy of technology. paul y. r. waddington has written extensively on the topics of evolutionary theory the philosophy of biology and the philosophy of technology. paul y. r. waddington is the author of several books including the
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.26
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

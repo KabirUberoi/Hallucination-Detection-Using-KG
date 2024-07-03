@@ -1,0 +1,74 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Professors_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Santa_Barbara_Unified_School_District and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Computer_graphics and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Computer_vision and the value is : 1
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Santa_Barbara_Unified_School_District and the value is : 1
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Computer_graphics and the value is : 1
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Santa_Barbara_Unified_School_District and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Computer_graphics and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Santa_Barbara_Unified_School_District and http://dbpedia.org/resource/Computer_graphics and the value is : 0
+http://dbpedia.org/resource/Santa_Barbara_Unified_School_District and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/Santa_Barbara_Unified_School_District and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Robotics and the value is : 1
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/Robotics and the value is : 1
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Electrical_engineering and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/National_Taiwan_University and the value is : 1
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Master_of_Science and the value is : 1
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Electrical_engineering and http://dbpedia.org/resource/National_Taiwan_University and the value is : 0
+http://dbpedia.org/resource/Electrical_engineering and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/Electrical_engineering and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 1
+http://dbpedia.org/resource/National_Taiwan_University and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/National_Taiwan_University and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Master_of_Science and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/University_of_Southern_California and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Jet_Propulsion_Laboratory and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Professors_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Computer_science and the value is : 1
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Computer_science and the value is : 1
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Computer_vision and the value is : 1
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Medical_physics and the value is : 0
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/Medical_physics and the value is : 0
+http://dbpedia.org/resource/Robotics and http://dbpedia.org/resource/Medical_physics and the value is : 1
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Computer_vision and the value is : 1
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Robotics and the value is : 1
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/National_Science_Foundation_CAREER_Awards and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/IEEE_Computer_Society and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/SIGGRAPH and the value is : 0
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/Robotics and the value is : 1
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/National_Science_Foundation_CAREER_Awards and the value is : 0
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/IEEE_Computer_Society and the value is : 0
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/SIGGRAPH and the value is : 0
+http://dbpedia.org/resource/Robotics and http://dbpedia.org/resource/National_Science_Foundation_CAREER_Awards and the value is : 0
+http://dbpedia.org/resource/Robotics and http://dbpedia.org/resource/IEEE_Computer_Society and the value is : 0
+http://dbpedia.org/resource/Robotics and http://dbpedia.org/resource/SIGGRAPH and the value is : 0
+http://dbpedia.org/resource/National_Science_Foundation_CAREER_Awards and http://dbpedia.org/resource/IEEE_Computer_Society and the value is : 0
+http://dbpedia.org/resource/National_Science_Foundation_CAREER_Awards and http://dbpedia.org/resource/SIGGRAPH and the value is : 0
+http://dbpedia.org/resource/IEEE_Computer_Society and http://dbpedia.org/resource/SIGGRAPH and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+feiping hsu chinese 許飛平 born october 28 1962 is a taiwaneseamerican computer scientist and professor at the university of california santa barbara. he is best known for his research in computer graphics computer vision and robotics. hsu received his b.s. degree in electrical engineering from national taiwan university in 1985 and his m.s. and ph.d. degrees in computer science from the university of southern california in 1988 and 1991 respectively. he was a research scientist at the jet propulsion laboratory from 1991 to 1993. he joined the faculty of the university of california santa barbara in 1993 where he is currently a professor in the department of computer science. hsus research interests include computer graphics computer vision robotics and medical imaging. he has published over 200 papers in these areas and has received numerous awards including the national science foundation career award the ieee computer society technical achievement award and the acm siggraph significant new researcher award. 
+
+Coref Resolved : 
+feiping hsu chinese 許飛平 born october 28 1962 is a taiwaneseamerican computer scientist and professor at the university of california santa barbara. feiping hsu chinese 許飛平 born october 28 1962 is best known for feiping hsu chinese 許飛平 born october 28 1962 research in computer graphics computer vision and robotics. feiping hsu chinese 許飛平 born october 28 1962 received feiping hsu chinese 許飛平 born october 28 1962 b.s. degree in electrical engineering from national taiwan university in 1985 and feiping hsu chinese 許飛平 born october 28 1962 m.s. and ph.d. degrees in computer science from the university of southern california in 1988 and 1991 respectively. feiping hsu chinese 許飛平 born october 28 1962 was a research scientist at the jet propulsion laboratory from 1991 to 1993. feiping hsu chinese 許飛平 born october 28 1962 joined the faculty of the university of california santa barbarain 1993where feiping hsu chinese 許飛平 born october 28 1962 is currently a professor in the department of computer science. feiping hsu chinese 許飛平 born october 28 1962 research interests include computer graphics computer vision robotics and medical imaging. feiping hsu chinese 許飛平 born october 28 1962 has published over 200 papers in computer graphics computer vision robotics and medical imagingand has received numerous awards including the national science foundation career award the ieee computer society technical achievement award and the acm siggraph significant new researcher award.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2807017543859649
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

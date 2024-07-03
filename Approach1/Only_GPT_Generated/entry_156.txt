@@ -1,0 +1,56 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/President_of_France and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Paris and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Meningitis and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Meningitis and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Meningitis and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/President_of_France and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Spina_bifida and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Wheelchair and the value is : 0
+http://dbpedia.org/resource/Spina_bifida and http://dbpedia.org/resource/Wheelchair and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Disability and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Catholic_Church and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/French_Resistance and the value is : 1
+http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement and http://dbpedia.org/resource/French_Resistance and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/President_of_France and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Élysée_Palace and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/President_of_France and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+anne de gaulle 19281948 was the daughter of french president charles de gaulle and his wife yvonne de gaulle. she was born in paris on 28 october 1928 and died of meningitis on 18 april 1948 aged 19. anne was the only child of charles and yvonne de gaulle. she was born with a severe form of spina bifida which left her unable to walk and confined to a wheelchair. despite her disability anne was a bright and determined young woman. she was educated at home by private tutors and was fluent in several languages including english german and spanish. anne was a devoted catholic and was deeply involved in charitable works. she was a patron of the little sisters of the poor and the red cross and she was also active in the french resistance during world war ii. anne was beloved by her parents and was a source of great pride for them. she was often seen in public with her father and she was a frequent guest at the élysée palace. after her death charles and yvonne de gaul 
+
+Coref Resolved : 
+anne de gaulle 19281948 was the daughter of french president charles de gaulle and french president charles de gaulle wife yvonne de gaulle. anne de gaulle 19281948 was born in paris on 28 october 1928 and died of meningitis on 18 april 1948 aged 19. anne de gaulle 19281948 was the only child of french president charles de gaulle and yvonne de gaulle. anne de gaulle 19281948 was born with a severe form of spina bifida which left anne de gaulle 19281948 unable to walk and confined to a wheelchair. despite anne de gaulle 19281948 disability anne de gaulle 19281948 was a bright and determined young woman. anne de gaulle 19281948 was educated at home by private tutors and was fluent in several languages including english german and spanish. anne de gaulle 19281948 was a devoted catholic and was deeply involved in charitable works. anne de gaulle 19281948 was a patron of the little sisters of the poor and the red cross and anne de gaulle 19281948 was also active in the french resistance during world war ii. anne de gaulle 19281948 was beloved by anne de gaulle 19281948 parents and was a source of great pride for french president charles de gaulle and his wife yvonne de gaulle. anne de gaulle 19281948 was often seen in public with anne de gaulle 19281948 father and anne de gaulle 19281948 was a frequent guest at the élysée palace. after anne de gaulle 19281948 death french president charles de gaulle and his wife yvonne de gaulle
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.4358974358974359
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

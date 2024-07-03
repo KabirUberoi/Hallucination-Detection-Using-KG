@@ -1,0 +1,123 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Vaudeville and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Vaudeville and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Vaudeville and the value is : 1
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Musical_theatre and the value is : 1
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Silent_film and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/South_American_fox and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Musketeer and the value is : 1
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Mask and the value is : 0
+http://dbpedia.org/resource/Silent_film and http://dbpedia.org/resource/South_American_fox and the value is : 0
+http://dbpedia.org/resource/Silent_film and http://dbpedia.org/resource/Musketeer and the value is : 0
+http://dbpedia.org/resource/Silent_film and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Silent_film and http://dbpedia.org/resource/Mask and the value is : 0
+http://dbpedia.org/resource/South_American_fox and http://dbpedia.org/resource/Musketeer and the value is : 0
+http://dbpedia.org/resource/South_American_fox and http://dbpedia.org/resource/Iron and the value is : 1
+http://dbpedia.org/resource/South_American_fox and http://dbpedia.org/resource/Mask and the value is : 0
+http://dbpedia.org/resource/Musketeer and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Musketeer and http://dbpedia.org/resource/Mask and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Mask and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Mask and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Musketeer and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Mask and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Musketeer and the value is : 0
+http://dbpedia.org/resource/Mask and http://dbpedia.org/resource/Musketeer and the value is : 1
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Mary_Pickford and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Divorce and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Mary_Pickford and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Divorce and the value is : 0
+http://dbpedia.org/resource/Mary_Pickford and http://dbpedia.org/resource/Divorce and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/July_27 and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/July_27 and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Emmett_Dalton and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Glen_Keane and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Bob_Keane and the value is : 1
+http://dbpedia.org/resource/Emmett_Dalton and http://dbpedia.org/resource/Glen_Keane and the value is : 0
+http://dbpedia.org/resource/Emmett_Dalton and http://dbpedia.org/resource/Bob_Keane and the value is : 0
+http://dbpedia.org/resource/Glen_Keane and http://dbpedia.org/resource/Bob_Keane and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Twenty_Five_(album) and the value is : 0
+http://dbpedia.org/resource/Mural and http://dbpedia.org/resource/Opera and the value is : 0
+http://dbpedia.org/resource/Mural and http://dbpedia.org/resource/Vaudeville and the value is : 0
+http://dbpedia.org/resource/Mural and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Mural and http://dbpedia.org/resource/Ziegfeld_Follies and the value is : 0
+http://dbpedia.org/resource/Opera and http://dbpedia.org/resource/Vaudeville and the value is : 0
+http://dbpedia.org/resource/Opera and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Opera and http://dbpedia.org/resource/Ziegfeld_Follies and the value is : 0
+http://dbpedia.org/resource/Vaudeville and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Vaudeville and http://dbpedia.org/resource/Ziegfeld_Follies and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Ziegfeld_Follies and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Divorce and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Claire_Whitney and the value is : 1
+http://dbpedia.org/resource/Divorce and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Divorce and http://dbpedia.org/resource/Claire_Whitney and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Claire_Whitney and the value is : 1
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Death and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/July_27 and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Glendale) and the value is : 1
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Claire_Clairmont and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Claire_Whitney and the value is : 0
+http://dbpedia.org/resource/Death and http://dbpedia.org/resource/July_27 and the value is : 0
+http://dbpedia.org/resource/Death and http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Glendale) and the value is : 0
+http://dbpedia.org/resource/Death and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Death and http://dbpedia.org/resource/Claire_Clairmont and the value is : 0
+http://dbpedia.org/resource/Death and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Death and http://dbpedia.org/resource/Claire_Whitney and the value is : 1
+http://dbpedia.org/resource/July_27 and http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Glendale) and the value is : 0
+http://dbpedia.org/resource/July_27 and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/July_27 and http://dbpedia.org/resource/Claire_Clairmont and the value is : 0
+http://dbpedia.org/resource/July_27 and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/July_27 and http://dbpedia.org/resource/Claire_Whitney and the value is : 0
+http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Glendale) and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Glendale) and http://dbpedia.org/resource/Claire_Clairmont and the value is : 0
+http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Glendale) and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Glendale) and http://dbpedia.org/resource/Claire_Whitney and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Claire_Clairmont and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Claire_Whitney and the value is : 1
+http://dbpedia.org/resource/Claire_Clairmont and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Claire_Clairmont and http://dbpedia.org/resource/Claire_Whitney and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Claire_Whitney and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+robert emmett keane 18861947 was an american actor director and producer. he was born in new york city and began his career in vaudeville. he later moved to broadway where he appeared in a number of plays and musicals. he made his film debut in 1915 and went on to appear in over 200 films. he was best known for his roles in silent films such as the mark of zorro 1920 the three musketeers 1921 and the iron mask 1929. he also directed several films including the iron mask 1929 and the three musketeers 1921. he was married to actress mary pickford from 1920 until their divorce in 1933. he died in 1947 in los angeles california. 
+
+Coref Resolved : 
+robert emmett keane 18861947 was an american actor director and producer. robert emmett keane was born in new york city and began robert emmett keane career in vaudeville. robert emmett keane later moved to broadway where robert emmett keane appeared in a number of plays and musicals. robert emmett keane made robert emmett keane film debut in 1915 and went on to appear in over 200 films. robert emmett keane was best known for robert emmett keane roles in silent films such as the mark of zorro 1920 the three musketeers 1921 and the iron mask 1929. robert emmett keane also directed several films including the iron mask 1929and the three musketeers 1921 . robert emmett keane was married to actress mary pickford from 1920 until their divorce in 1933. robert emmett keane died in 1947 in los angeles california.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+robert emmett keane march 4 1883 july 2 1981 was a prolific american actor of both the stage and screen. he was also known professionally by the names emmett keane robert keane r. emmett keane and robert e. keane. he began on stage in the 1910s with his first broadway appearance being in the 1914 production of the passing show of 1914. he would continue on the stage through the mid1930s appearing in both london and new york theater productions. his film career began in 1930 and over the twentyfive years of that career he would appear in between 170200 films. at the very tail end of his acting life he would make several appearances on the small screen. married twice the first time was a shortlived union with muriel inetta window an opera singer vaudeville actress and 1913 peacock girl with the ziegfeld follies. they were married in approximately 1916 and divorced in 1920. after his divorce he would marry the actress claire whitney in 1921 and they would remain married until her death in 1969. he retired in 1958 and would die on july 2 1981 and be buried in forest lawn memorial park in los angeles next to his wife claire although her grave is unmarked. 
+
+Coref Resolved : 
+robert emmett keane march 4 1883 july 2 1981 was a prolific american actor of both the stage and screen. robert emmett keane was also known professionally by the names emmett keane robert keane r. emmett keane and robert e. keane. robert emmett keane began on stage in the 1910s with robert emmett keane first broadway appearance being in the 1914 production of the passing show of 1914. robert emmett keane would continue on the stage through the mid1930s appearing in both london and new york theater productions. robert emmett keane film career began in 1930 and over the twentyfive years of his film career robert emmett keane would appear in between 170200 films. at the very tail end of robert emmett keane acting life robert emmett keane would make several appearances on the small screen. married twice the first time was a shortlived union with muriel inetta window an opera singer vaudeville actress and 1913 peacock girl with the ziegfeld follies. they were married in approximately 1916 and his divorce in 1920. after robert emmett keane divorce robert emmett keane would marry the actress claire whitney in 1921 and they would remain married until the actress claire whitney death in 1969. robert emmett keane retired in 1958 and would die on july 2 1981 and be buried in forest lawn memorial park in los angeles next to robert emmett keane wife claire although the actress claire whitney grave is unmarked.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.13157894736842105 and for ground truth is : 0.17543859649122806
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate 
+

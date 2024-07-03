@@ -1,0 +1,50 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Richard_Carpenter_(musician) and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Richard_Carpenter_(musician) and http://dbpedia.org/resource/Screenwriter and the value is : 0
+http://dbpedia.org/resource/Richard_Carpenter_(musician) and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Richard_Carpenter_(musician) and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Screenwriter and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/Screenwriter and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Screenwriter and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay and http://dbpedia.org/resource/Casino_Royale_(1967_film) and the value is : 0
+http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay and http://dbpedia.org/resource/Willy_Wonka_&_the_Chocolate_Factory and the value is : 0
+http://dbpedia.org/resource/Casino_Royale_(1967_film) and http://dbpedia.org/resource/Willy_Wonka_&_the_Chocolate_Factory and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Daily_Express and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/The_Sunday_Times and the value is : 0
+http://dbpedia.org/resource/Daily_Express and http://dbpedia.org/resource/The_Sunday_Times and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Armchair_Theatre and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/ITVS and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/Armchair_Theatre and http://dbpedia.org/resource/ITVS and the value is : 0
+http://dbpedia.org/resource/Armchair_Theatre and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Armchair_Theatre and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/ITVS and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/ITVS and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay and the value is : 0
+http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts and http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay and the value is : 0
+http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay and http://dbpedia.org/resource/Casino_Royale_(1967_film) and the value is : 0
+http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay and http://dbpedia.org/resource/Willy_Wonka_&_the_Chocolate_Factory and the value is : 0
+http://dbpedia.org/resource/Casino_Royale_(1967_film) and http://dbpedia.org/resource/Willy_Wonka_&_the_Chocolate_Factory and the value is : 0
+http://dbpedia.org/resource/Game_of_Thrones and http://dbpedia.org/resource/Film_adaptation and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+richard carpenter born 17 april 1934 is an english screenwriter best known for creating the longrunning itv series the avengers. he also wrote the screenplay for the 1967 film adaptation of the novel the prisoner and wrote and directed the 1971 film adaptation of the novel the power game. carpenter was born in london and educated at st pauls school. he began his career as a journalist writing for the daily express and the sunday times. he then moved into television writing for the bbcs armchair theatre and itvs the avengers. he also wrote for the bbcs doctor who and the saint. carpenters work on the avengers was highly acclaimed and he was nominated for a bafta award for best british screenplay in 1967. he also wrote the screenplay for the 1967 film adaptation of the novel the prisoner and wrote and directed the 1971 film adaptation of the novel the power game. carpenters other works include the television series the protectors the film adaptation of the novel the eagle has landed and the television series 
+
+Coref Resolved : 
+richard carpenter born 17 april 1934 is an english screenwriter best known for creating the longrunning itv series the avengers. carpenter also wrote the screenplay for the 1967 film adaptation of the novel the prisoner and wrote and directed the 1971 film adaptation of the novel the power game. carpenter was born in london and educated at st pauls school. carpenter began carpenter career as a journalist writing for the daily express and the sunday times. carpenter then moved into television writing for the bbcs armchair theatre and itvs the longrunning itv series the avengers. carpenter also wrote for the bbcs doctor who and the saint. carpenter work on the longrunning itv series the avengerswas highly acclaimed and carpenter was nominated for a bafta award for best british screenplay in 1967 . carpenter also wrote the screenplay for the 1967 film adaptation of the novel the prisoner and wrote and directed the 1971 film adaptation of the novel the power game. carpenter other works include the television series the protectors the film adaptation of the novel the eagle has landed and the television series
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

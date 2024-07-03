@@ -1,0 +1,45 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/The_American_Lawyer and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Continental_Congress and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Independence and the value is : 0
+http://dbpedia.org/resource/Continental_Congress and http://dbpedia.org/resource/Independence and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Colonial_Williamsburg and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Colony_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Colonial_Williamsburg and http://dbpedia.org/resource/Colony_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Mary_II_of_England and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Mary_II_of_England and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Continental_Congress and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Confederate_States_of_America and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Confederate_States_of_America and the value is : 0
+http://dbpedia.org/resource/American_Revolution and http://dbpedia.org/resource/Tony_Blair and the value is : 1
+http://dbpedia.org/resource/American_Revolution and http://dbpedia.org/resource/Legislature and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Legislature and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Hi-hat and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+http://dbpedia.org/resource/Hi-hat and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+james blair 17321782 was an american lawyer and politician from south carolina. he was a delegate to the continental congress from 1774 to 1776 and a signer of the declaration of independence. blair was born in 1732 in williamsburg virginia. he was educated at the college of william and mary and studied law in england. he was admitted to the bar in 1760 and began practicing law in south carolina. in 1774 blair was elected to the continental congress where he served until 1776. he was a signer of the declaration of independence and was a member of the committee that drafted the articles of confederation. after the revolutionary war blair returned to south carolina and served in the state legislature. he died in 1782 in charleston south carolina. 
+
+Coref Resolved : 
+james blair 17321782 was an american lawyer and politician from south carolina. blair was a delegate to the continental congress from 1774 to 1776 and a signer of the declaration of independence. blair was born in 1732 in williamsburg virginia. blair was educated at the college of william and mary and studied law in england. blair was admitted to the bar in 1760 and began practicing law in south carolina. in 1774 blair was elected to the continental congress where blair served until 1776 . blair was a signer of the declaration of independenceand was a member of the committee that drafted the articles of confederation. after the revolutionary war blair returned to south carolinaand served in the state legislature. blair died in 1782 in charleston south carolina.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.07142857142857142
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

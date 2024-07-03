@@ -1,0 +1,117 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Cricket and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Cricket and the value is : 1
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/Cricket and the value is : 1
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Batting_(cricket) and the value is : 1
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Wicket and http://dbpedia.org/resource/Kapil_Dev and the value is : 1
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/Cricket and the value is : 1
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/Swing_bowling and the value is : 1
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/Cricket_ball and the value is : 1
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Swing_bowling and the value is : 0
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Cricket_ball and the value is : 1
+http://dbpedia.org/resource/Swing_bowling and http://dbpedia.org/resource/Cricket_ball and the value is : 0
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/Cricket and the value is : 1
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/FirstClass and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Subiaco_Football_Club and the value is : 1
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Western_Australia_cricket_team and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Subiaco_Football_Club and http://dbpedia.org/resource/Western_Australia_cricket_team and the value is : 1
+http://dbpedia.org/resource/Subiaco_Football_Club and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Subiaco_Football_Club and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Western_Australia_cricket_team and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Western_Australia_cricket_team and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Western_Australia_cricket_team and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Sheffield_Shield and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Western_Australia_cricket_team and http://dbpedia.org/resource/Sheffield_Shield and the value is : 0
+http://dbpedia.org/resource/Western_Australia_cricket_team and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Sheffield_Shield and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 1
+http://dbpedia.org/resource/Wicket and http://dbpedia.org/resource/Jim_Branning and the value is : 0
+http://dbpedia.org/resource/Wicket and http://dbpedia.org/resource/Lake_freighter and the value is : 1
+http://dbpedia.org/resource/Jim_Branning and http://dbpedia.org/resource/Lake_freighter and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Wicket and the value is : 1
+http://dbpedia.org/resource/Wisden_Cricketers'_Almanack and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/South_Africa_national_cricket_team and the value is : 1
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Test_cricket and the value is : 1
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 1
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/South_Africa_national_cricket_team and the value is : 1
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/Test_cricket and the value is : 1
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 1
+http://dbpedia.org/resource/South_Africa_national_cricket_team and http://dbpedia.org/resource/Test_cricket and the value is : 1
+http://dbpedia.org/resource/South_Africa_national_cricket_team and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Test_cricket and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 1
+http://dbpedia.org/resource/Suspension_(vehicle) and http://dbpedia.org/resource/Alderman and the value is : 0
+http://dbpedia.org/resource/Suspension_(vehicle) and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 1
+http://dbpedia.org/resource/Suspension_(vehicle) and http://dbpedia.org/resource/Wicket and the value is : 0
+http://dbpedia.org/resource/Suspension_(vehicle) and http://dbpedia.org/resource/1989_Ashes_series and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Wicket and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/1989_Ashes_series and the value is : 0
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/Wicket and the value is : 0
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/1989_Ashes_series and the value is : 0
+http://dbpedia.org/resource/Wicket and http://dbpedia.org/resource/1989_Ashes_series and the value is : 0
+http://dbpedia.org/resource/West_Indies_cricket_team and http://dbpedia.org/resource/Wicket and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/County_Championship and http://dbpedia.org/resource/Kent_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/County_Championship and http://dbpedia.org/resource/Gloucestershire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Kent_County_Cricket_Club and http://dbpedia.org/resource/Gloucestershire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Mercury_poisoning and http://dbpedia.org/resource/Western_Australia_cricket_team and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Australian_Sports_Medal and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Wicket and the value is : 1
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Western_Australia_cricket_team and the value is : 0
+http://dbpedia.org/resource/Australian_Sports_Medal and http://dbpedia.org/resource/Wicket and the value is : 0
+http://dbpedia.org/resource/Australian_Sports_Medal and http://dbpedia.org/resource/Western_Australia_cricket_team and the value is : 1
+http://dbpedia.org/resource/Wicket and http://dbpedia.org/resource/Western_Australia_cricket_team and the value is : 1
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Denise_Emerson and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Referee and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Ross_Emerson and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Denise_Emerson and http://dbpedia.org/resource/Referee and the value is : 0
+http://dbpedia.org/resource/Denise_Emerson and http://dbpedia.org/resource/Ross_Emerson and the value is : 0
+http://dbpedia.org/resource/Denise_Emerson and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Denise_Emerson and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Referee and http://dbpedia.org/resource/Ross_Emerson and the value is : 0
+http://dbpedia.org/resource/Referee and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 1
+http://dbpedia.org/resource/Referee and http://dbpedia.org/resource/Cricket and the value is : 1
+http://dbpedia.org/resource/Ross_Emerson and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Ross_Emerson and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/Cricket and the value is : 1
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Aquinas_College,_Perth and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/WACA_Ground and the value is : 0
+http://dbpedia.org/resource/Aquinas_College,_Perth and http://dbpedia.org/resource/WACA_Ground and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+terry alderman born 28 april 1952 australian cricketer played 41 tests 53 day internationals 1979 1991 . rightarm fastmedium bowler righthanded batsman . alderman key member australian team won 1983 world cup . took 342 final india including wicket kapil dev . member australian team won 1987 world cup play final . alderman known ability swing ball ways accuracy . known durability having played 41 consecutive tests 1979 1985 . named wisden cricketers year 1984 . alderman retired international cricket 1991 continued play firstclass cricket 1996 . cricket commentator coach . 
+
+Coref Resolved : 
+terry alderman born 28 april 1952 australian cricketer played 41 tests 53 day internationals 1979 1991 . rightarm fastmedium bowler righthanded batsman . australian cricketer key member australian team won 1983 world cup . took 342 final india including wicket kapil dev . member australian team won 1987 world cup play final . australian cricketer known ability swing ball ways accuracy . known durability having played 41 consecutive tests 1979 1985 . named wisden cricketers year 1984 . australian cricketer retired international cricket 1991 continued play firstclass cricket 1996 . cricket commentator coach .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+terence michael alderman born 12 june 1956 subiaco western australia australia australian cricketer played primarily rightarm fastmedium bowler limited pace nagging accuracy movement . began firstclass career 1974 western australia sheffield shield came international prominence chosen australian national team tour england 1981 . series took 42 test wickets including debut biggest haul series jim lakers 46 1956 fourthhighest total time . aldermans 42 wickets record wickets taken series taking 10 wickets match . named wisden cricketer year almanacks 1982 edition . disabled playing year shoulder injury sustained 13 november 1982 rashly tackled englishsupporting ground invader waca ground perth . alderman took unofficial australian tour south africa 198586 198687 country banned test cricket commonwealth antiapartheid sanction . result received 3year ban international cricket disqualified playing 1985 ashes series england . following suspension alderman returned australian resumed success england taking 41 wickets 1989 ashes series 16 199091 series final ashes appearance . rarely enjoyed similar success countries . final test series west indies 199091 ended career 170 test wickets . poor batsman passing career averaging barely firstclass cricket . seasons english county cricket kent 1984 1986 gloucestershire 1988 . works courier mercury western australia . 28 july 2000 alderman awarded australian sports medal alltime leading wicket taker western australia . aldermans sister denise emerson married test umpire ross emerson played seven tests australian womens cricket team . alderman alumnus aquinas college perth . 
+
+Coref Resolved : 
+terence michael alderman born 12 june 1956 subiaco western australia australia australian cricketer played primarily rightarm fastmedium bowler limited pace nagging accuracy movement . began firstclass career 1974 western australia sheffield shield came international prominence chosen australian national team tour england 1981 . series took 42 test wickets including debut biggest haul series jim lakers 46 1956 fourthhighest total time . alderman 42 wickets record wickets taken series taking 10 wickets match . named wisden cricketer year almanacks 1982 edition . disabled playing year shoulder injury sustained 13 november 1982 rashly tackled englishsupporting ground invader waca ground perth . alderman took unofficial australian tour south africa 198586 198687 country banned test cricket commonwealth antiapartheid sanction . result received 3year ban international cricket disqualified playing 1985 ashes series england . following suspension alderman returned australian resumed success england taking 41 wickets 1989 ashes series 16 199091 series final ashes appearance . rarely enjoyed similar success countries . final test series west indies 199091 ended career 170 test wickets . poor batsman passing career averaging barely firstclass cricket . seasons english county cricket kent 1984 1986 gloucestershire 1988 . works courier mercury western australia . 28 july 2000 alderman awarded australian sports medal alltime leading wicket taker western australia . alderman sister denise emerson married test umpire ross emerson played seven tests australian womens cricket team . alderman alumnus aquinas college perth .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.6111111111111112 and for ground truth is : 0.28169014084507044
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

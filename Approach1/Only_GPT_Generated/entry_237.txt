@@ -1,0 +1,54 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Computer_scientist and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Software_engineer and the value is : 1
+http://dbpedia.org/resource/Computer_scientist and http://dbpedia.org/resource/Software_engineer and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Operating_system and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Computer_science and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/George_Berkeley and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Computer_science and the value is : 0
+http://dbpedia.org/resource/George_Berkeley and http://dbpedia.org/resource/Computer_science and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Operating_system and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Linux_kernel and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Operating_system and the value is : 0
+http://dbpedia.org/resource/Linux_kernel and http://dbpedia.org/resource/Operating_system and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Windows_USER and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Graphical_user_interface and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Personal_computer and the value is : 0
+http://dbpedia.org/resource/Windows_USER and http://dbpedia.org/resource/Graphical_user_interface and the value is : 1
+http://dbpedia.org/resource/Windows_USER and http://dbpedia.org/resource/Personal_computer and the value is : 0
+http://dbpedia.org/resource/Graphical_user_interface and http://dbpedia.org/resource/Personal_computer and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Software and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Oracle and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Sun_Microsystems and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Apple_Inc. and the value is : 0
+http://dbpedia.org/resource/Software and http://dbpedia.org/resource/Oracle and the value is : 0
+http://dbpedia.org/resource/Software and http://dbpedia.org/resource/Sun_Microsystems and the value is : 1
+http://dbpedia.org/resource/Software and http://dbpedia.org/resource/Apple_Inc. and the value is : 0
+http://dbpedia.org/resource/Oracle and http://dbpedia.org/resource/Sun_Microsystems and the value is : 0
+http://dbpedia.org/resource/Oracle and http://dbpedia.org/resource/Apple_Inc. and the value is : 1
+http://dbpedia.org/resource/Sun_Microsystems and http://dbpedia.org/resource/Apple_Inc. and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Software_engineer and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Computer_programming and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Software_engineering and the value is : 0
+http://dbpedia.org/resource/Computer_programming and http://dbpedia.org/resource/Software_engineering and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+ted childs born october 15 1956 is an american computer scientist and software engineer. he is best known for his work on the development of the windows operating system. childs was born in san francisco california. he attended the university of california berkeley where he earned a bachelor of science degree in computer science in 1978. after graduation he worked at microsoft where he was a key contributor to the development of the windows operating system. he was responsible for the development of the windows kernel the core of the operating system. he also worked on the development of the windows user interface which was the first graphical user interface for a personal computer. childs left microsoft in 1989 and went on to work at several other software companies including oracle sun microsystems and apple. he is currently a senior software engineer at google. he has also written several books on computer programming and software engineering. 
+
+Coref Resolved : 
+ted childs born october 15 1956 is an american computer scientist and software engineer. ted childs born october 15 1956 is best known for ted childs born october 15 1956 work on the development of the windows operating system. ted childs born october 15 1956 was born in san francisco california. ted childs born october 15 1956 attended the university of california berkeley where ted childs born october 15 1956 earned a bachelor of science degree in computer science in 1978. after graduation ted childs born october 15 1956 worked at microsoft where ted childs born october 15 1956 was a key contributor to the development of the windows operating system. ted childs born october 15 1956 was responsible for the development of the windows kernel the core of the windows operating system. ted childs born october 15 1956 also worked on the development of the windows user interface which was the first graphical user interface for a personal computer. ted childs born october 15 1956 left microsoft in 1989 and went on to work at several other software companies including oracle sun microsystems and apple. ted childs born october 15 1956 is currently a senior software engineer at google. ted childs born october 15 1956 has also written several books on computer programming and software engineering.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1891891891891892
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,134 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Neuchâtel and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Switzerland and the value is : 0
+http://dbpedia.org/resource/Neuchâtel and http://dbpedia.org/resource/Switzerland and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Sonic_the_Hedgehog and the value is : 1
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Hobbit and the value is : 1
+http://dbpedia.org/resource/Sonic_the_Hedgehog and http://dbpedia.org/resource/Hobbit and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Baron_of_Dunsany and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/European_dragon and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Ouroboros and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Mabinogion and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Tetralogy and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Evangeline_Walton and the value is : 1
+http://dbpedia.org/resource/Baron_of_Dunsany and http://dbpedia.org/resource/European_dragon and the value is : 0
+http://dbpedia.org/resource/Baron_of_Dunsany and http://dbpedia.org/resource/Ouroboros and the value is : 0
+http://dbpedia.org/resource/Baron_of_Dunsany and http://dbpedia.org/resource/Mabinogion and the value is : 0
+http://dbpedia.org/resource/Baron_of_Dunsany and http://dbpedia.org/resource/Tetralogy and the value is : 0
+http://dbpedia.org/resource/Baron_of_Dunsany and http://dbpedia.org/resource/Evangeline_Walton and the value is : 0
+http://dbpedia.org/resource/European_dragon and http://dbpedia.org/resource/Ouroboros and the value is : 1
+http://dbpedia.org/resource/European_dragon and http://dbpedia.org/resource/Mabinogion and the value is : 0
+http://dbpedia.org/resource/European_dragon and http://dbpedia.org/resource/Tetralogy and the value is : 0
+http://dbpedia.org/resource/European_dragon and http://dbpedia.org/resource/Evangeline_Walton and the value is : 0
+http://dbpedia.org/resource/Ouroboros and http://dbpedia.org/resource/Mabinogion and the value is : 0
+http://dbpedia.org/resource/Ouroboros and http://dbpedia.org/resource/Tetralogy and the value is : 0
+http://dbpedia.org/resource/Ouroboros and http://dbpedia.org/resource/Evangeline_Walton and the value is : 0
+http://dbpedia.org/resource/Mabinogion and http://dbpedia.org/resource/Tetralogy and the value is : 0
+http://dbpedia.org/resource/Mabinogion and http://dbpedia.org/resource/Evangeline_Walton and the value is : 0
+http://dbpedia.org/resource/Tetralogy and http://dbpedia.org/resource/Evangeline_Walton and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Sonic_the_Hedgehog and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Trilogy and the value is : 1
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Peter_Jackson and the value is : 1
+http://dbpedia.org/resource/Sonic_the_Hedgehog and http://dbpedia.org/resource/Trilogy and the value is : 0
+http://dbpedia.org/resource/Sonic_the_Hedgehog and http://dbpedia.org/resource/Peter_Jackson and the value is : 0
+http://dbpedia.org/resource/Trilogy and http://dbpedia.org/resource/Peter_Jackson and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/The_Chronicles_of_Narnia and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Wardrobe and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Compass and the value is : 0
+http://dbpedia.org/resource/The_Chronicles_of_Narnia and http://dbpedia.org/resource/Wardrobe and the value is : 1
+http://dbpedia.org/resource/The_Chronicles_of_Narnia and http://dbpedia.org/resource/Compass and the value is : 0
+http://dbpedia.org/resource/Wardrobe and http://dbpedia.org/resource/Compass and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Concept_art and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Video_game and the value is : 1
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/The_Elder_Scrolls and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim and the value is : 1
+http://dbpedia.org/resource/Concept_art and http://dbpedia.org/resource/Video_game and the value is : 0
+http://dbpedia.org/resource/Concept_art and http://dbpedia.org/resource/The_Elder_Scrolls and the value is : 0
+http://dbpedia.org/resource/Concept_art and http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim and the value is : 1
+http://dbpedia.org/resource/Video_game and http://dbpedia.org/resource/The_Elder_Scrolls and the value is : 0
+http://dbpedia.org/resource/Video_game and http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim and the value is : 0
+http://dbpedia.org/resource/The_Elder_Scrolls and http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Hugo_Award and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/High_fantasy and the value is : 0
+http://dbpedia.org/resource/Hugo_Award and http://dbpedia.org/resource/High_fantasy and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Neuchâtel and the value is : 1
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Switzerland and the value is : 0
+http://dbpedia.org/resource/Neuchâtel and http://dbpedia.org/resource/Switzerland and the value is : 0
+http://dbpedia.org/resource/Strasbourg and http://dbpedia.org/resource/École_nationale_supérieure_des_arts_décoratifs and the value is : 0
+http://dbpedia.org/resource/J._R._R._Tolkien and http://dbpedia.org/resource/Alan_Lee_(illustrator) and the value is : 0
+http://dbpedia.org/resource/J._R._R._Tolkien and http://dbpedia.org/resource/Peter_Pan and the value is : 0
+http://dbpedia.org/resource/J._R._R._Tolkien and http://dbpedia.org/resource/Sonic_the_Hedgehog and the value is : 0
+http://dbpedia.org/resource/J._R._R._Tolkien and http://dbpedia.org/resource/Trilogy and the value is : 0
+http://dbpedia.org/resource/J._R._R._Tolkien and http://dbpedia.org/resource/Eurogame and the value is : 0
+http://dbpedia.org/resource/J._R._R._Tolkien and http://dbpedia.org/resource/Reiner_Knizia and the value is : 0
+http://dbpedia.org/resource/Alan_Lee_(illustrator) and http://dbpedia.org/resource/Peter_Pan and the value is : 1
+http://dbpedia.org/resource/Alan_Lee_(illustrator) and http://dbpedia.org/resource/Sonic_the_Hedgehog and the value is : 0
+http://dbpedia.org/resource/Alan_Lee_(illustrator) and http://dbpedia.org/resource/Trilogy and the value is : 0
+http://dbpedia.org/resource/Alan_Lee_(illustrator) and http://dbpedia.org/resource/Eurogame and the value is : 0
+http://dbpedia.org/resource/Alan_Lee_(illustrator) and http://dbpedia.org/resource/Reiner_Knizia and the value is : 0
+http://dbpedia.org/resource/Peter_Pan and http://dbpedia.org/resource/Sonic_the_Hedgehog and the value is : 1
+http://dbpedia.org/resource/Peter_Pan and http://dbpedia.org/resource/Trilogy and the value is : 0
+http://dbpedia.org/resource/Peter_Pan and http://dbpedia.org/resource/Eurogame and the value is : 1
+http://dbpedia.org/resource/Peter_Pan and http://dbpedia.org/resource/Reiner_Knizia and the value is : 0
+http://dbpedia.org/resource/Sonic_the_Hedgehog and http://dbpedia.org/resource/Trilogy and the value is : 0
+http://dbpedia.org/resource/Sonic_the_Hedgehog and http://dbpedia.org/resource/Eurogame and the value is : 1
+http://dbpedia.org/resource/Sonic_the_Hedgehog and http://dbpedia.org/resource/Reiner_Knizia and the value is : 0
+http://dbpedia.org/resource/Trilogy and http://dbpedia.org/resource/Eurogame and the value is : 0
+http://dbpedia.org/resource/Trilogy and http://dbpedia.org/resource/Reiner_Knizia and the value is : 1
+http://dbpedia.org/resource/Eurogame and http://dbpedia.org/resource/Reiner_Knizia and the value is : 1
+http://dbpedia.org/resource/Sonic_the_Hedgehog and http://dbpedia.org/resource/Hobbit and the value is : 0
+http://dbpedia.org/resource/Old_English and http://dbpedia.org/resource/Legend and the value is : 0
+http://dbpedia.org/resource/Old_English and http://dbpedia.org/resource/Beowulf and the value is : 0
+http://dbpedia.org/resource/Old_English and http://dbpedia.org/resource/Eurogame and the value is : 0
+http://dbpedia.org/resource/Legend and http://dbpedia.org/resource/Beowulf and the value is : 0
+http://dbpedia.org/resource/Legend and http://dbpedia.org/resource/Eurogame and the value is : 0
+http://dbpedia.org/resource/Beowulf and http://dbpedia.org/resource/Eurogame and the value is : 1
+http://dbpedia.org/resource/Fantasy and http://dbpedia.org/resource/Genre and the value is : 1
+http://dbpedia.org/resource/Fantasy and http://dbpedia.org/resource/Robin_Hobbs and the value is : 1
+http://dbpedia.org/resource/Genre and http://dbpedia.org/resource/Robin_Hobbs and the value is : 0
+http://dbpedia.org/resource/Film_adaptation and http://dbpedia.org/resource/Wardrobe and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Merlin and the value is : 0
+http://dbpedia.org/resource/Magic_in_fiction and http://dbpedia.org/resource/Collectible_card_game and the value is : 0
+http://dbpedia.org/resource/Hobbit and http://dbpedia.org/resource/Guillermo_del_Toro and the value is : 1
+http://dbpedia.org/resource/Hobbit and http://dbpedia.org/resource/Peter_Pan and the value is : 0
+http://dbpedia.org/resource/Hobbit and http://dbpedia.org/resource/J._R._R._Tolkien and the value is : 0
+http://dbpedia.org/resource/Hobbit and http://dbpedia.org/resource/Alan_Lee_(illustrator) and the value is : 0
+http://dbpedia.org/resource/Hobbit and http://dbpedia.org/resource/Shared_universe and the value is : 0
+http://dbpedia.org/resource/Guillermo_del_Toro and http://dbpedia.org/resource/Peter_Pan and the value is : 0
+http://dbpedia.org/resource/Guillermo_del_Toro and http://dbpedia.org/resource/J._R._R._Tolkien and the value is : 0
+http://dbpedia.org/resource/Guillermo_del_Toro and http://dbpedia.org/resource/Alan_Lee_(illustrator) and the value is : 0
+http://dbpedia.org/resource/Guillermo_del_Toro and http://dbpedia.org/resource/Shared_universe and the value is : 0
+http://dbpedia.org/resource/Peter_Pan and http://dbpedia.org/resource/J._R._R._Tolkien and the value is : 0
+http://dbpedia.org/resource/Peter_Pan and http://dbpedia.org/resource/Alan_Lee_(illustrator) and the value is : 0
+http://dbpedia.org/resource/Peter_Pan and http://dbpedia.org/resource/Shared_universe and the value is : 0
+http://dbpedia.org/resource/J._R._R._Tolkien and http://dbpedia.org/resource/Alan_Lee_(illustrator) and the value is : 1
+http://dbpedia.org/resource/J._R._R._Tolkien and http://dbpedia.org/resource/Shared_universe and the value is : 0
+http://dbpedia.org/resource/Alan_Lee_(illustrator) and http://dbpedia.org/resource/Shared_universe and the value is : 0
+http://dbpedia.org/resource/Living_history and http://dbpedia.org/resource/George_(band) and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john howe born august 21 1957 is a canadian illustrator living in neuchâtel switzerland. he is best known for his illustrations for j. r. r. tolkiens works such as the lord of the rings and the hobbit. he has also illustrated books for other authors such as the king of elflands daughter by lord dunsany the worm ouroboros by e. r. eddison and the mabinogion tetralogy by evangeline walton. howe has also worked as a conceptual designer for films including the lord of the rings film trilogy directed by peter jackson. he was also a conceptual designer for the films the chronicles of narnia the lion the witch and the wardrobe and the golden compass. he has also worked as a concept artist for the video game the elder scrolls v skyrim. howe has won numerous awards for his work including the hugo award for best professional artist in 2003 and the world fantasy award for best artist in 2004. he was also inducted into the science 
+
+Coref Resolved : 
+john howe born august 21 1957 is a canadian illustrator living in neuchâtel switzerland. john howe born august 21 1957 is best known for john howe born august 21 1957 illustrations for j. r. r. tolkiens works such as the lord of the rings and the hobbit. john howe born august 21 1957 has also illustrated books for other authors such as the king of elflands daughter by lord dunsany the worm ouroboros by e. r. eddison and the mabinogion tetralogy by evangeline walton. john howe born august 21 1957 has also worked as a conceptual designer for films including the the lord of the rings film trilogy directed by peter jackson. john howe born august 21 1957 was also a conceptual designer for the films the chronicles of narnia the lion the witch and the wardrobe and the golden compass. john howe born august 21 1957 has also worked as a concept artist for the video game the elder scrolls v skyrim. john howe born august 21 1957 has won numerous awards for john howe born august 21 1957 work including the hugo award for best professional artist in 2003 and the world fantasy award for best artist in 2004. john howe born august 21 1957 was also inducted into the science
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+john howe born august 21 1957 is a canadian book illustrator living in neuchâtel switzerland. one year after graduating from high school he studied at a college in strasbourg france then at the école des arts décoratifs. he is best known for his work based on j.r.r. tolkiens worlds. howe and noted tolkien artist alan lee served as chief conceptual designers for peter jacksons the lord of the rings movie trilogy and howe also did the illustration for the lord of the rings board game created by reiner knizia. howe also reillustrated the maps of the lord of the rings the hobbit and the silmarillion from 1996 to 2003. his work is not limited to this and includes images of myths such as the anglo saxon legend of beowulf he also illustrated knizias board game. howe has illustrated many other books many of which belong to the fantasy genre such as robin hobbs books. he also contributed to the film adaptation of c.s. lewiss the lion the witch and the wardrobe. in 2005 a limited edition of george r.r. martins novel a clash of kings was released by meisha merlin complete with numerous illustrations by howe. howe has also illustrated cards for the magic the gathering collectible card game. for the the hobbit films former director guillermo del toro and current director peter jackson have been in consultation with howe and fellow conceptual artist alan lee to ensure continuity of design. howe is a member of the living history group the company of saynt george. 
+
+Coref Resolved : 
+john howe born august 21 1957 is a canadian book illustrator living in neuchâtel switzerland. one year after graduating from high school howe studied at a college in strasbourg france then at the école des arts décoratifs. howe is best known for howe work based on j.r.r. tolkiens worlds. howe and noted tolkien artist alan lee served as chief conceptual designers for peter jacksons the lord of the rings movie trilogy and howe also did the illustration for the lord of the rings board game created by reiner knizia. howe also reillustrated the maps of the lord of the rings the hobbit and the silmarillion from 1996 to 2003. howe work is not limited to this and includes images of myths such as the anglo saxon legend of beowulf howe also illustrated knizias board game. howe has illustrated many other books many of which belong to the fantasy genre such as robin hobbs books. howe also contributed to the film adaptation of c.s. lewiss the lion the witch and the wardrobe. in 2005 a limited edition of george r.r. martins novel a clash of kings was released by meisha merlin complete with numerous illustrations by howe . howe has also illustrated cards for the magic the gathering collectible card game. for the the hobbit films former director guillermo del toro and peter jacksons have been in consultation with howe and noted tolkien artist alan lee to ensure continuity of design. howe is a member of the living history group the company of saynt george.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21153846153846154 and for ground truth is : 0.24074074074074073
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate accurate accurate major_inaccurate minor_inaccurate minor_inaccurate 
+

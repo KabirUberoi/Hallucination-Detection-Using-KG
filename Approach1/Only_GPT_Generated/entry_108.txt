@@ -1,0 +1,31 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/British_Columbia and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/2001_Alberta_general_election and http://dbpedia.org/resource/British_Columbia_Liberal_Party and the value is : 0
+http://dbpedia.org/resource/Agriculture and http://dbpedia.org/resource/Public_Safety_Canada and the value is : 1
+http://dbpedia.org/resource/Agriculture and http://dbpedia.org/resource/Solicitor_General_of_Canada and the value is : 0
+http://dbpedia.org/resource/Public_Safety_Canada and http://dbpedia.org/resource/Solicitor_General_of_Canada and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john les born october 28 1951 is a canadian politician who served as the member of the legislative assembly of british columbia for the riding of chilliwackhope from 2001 to 2013. he was first elected in the 2001 provincial election as a member of the british columbia liberal party. les served as minister of agriculture and lands from 2001 to 2005 and as minister of public safety and solicitor general from 2005 to 2009. he was also the minister responsible for housing from 2005 to 2009. in 2009 he was appointed minister of community sport and cultural development a position he held until his retirement from politics in 2013. 
+
+Coref Resolved : 
+john les born october 28 1951 is a canadian politician who served as the member of the legislative assembly of british columbia for the riding of chilliwackhope from 2001 to 2013. les was first elected in the 2001 provincial election as a member of the british columbia liberal party. les served as minister of agriculture and lands from 2001 to 2005 and as minister of public safety and solicitor general from 2005 to 2009. les was also the minister responsible for housing from 2005 to 2009. in 2009les was appointed minister of community sport and cultural development a position les held until les retirement from politics in 2013.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21428571428571427
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

@@ -1,0 +1,108 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Socialite and the value is : 0
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Queen_consort and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Sikkim and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Chogyal and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Sikkim and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Palden_Thondup_Namgyal and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Chapin_School and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Madeira_School and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Virginia and the value is : 0
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Chogyal and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Sikkim and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Palden_Thondup_Namgyal and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Chogyal and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Sikkim and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/United_States and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/American_Woman and the value is : 0
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Queen_consort and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Asia and the value is : 0
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Democracy and the value is : 0
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Sikkim and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Sikkim and the value is : 1
+http://dbpedia.org/resource/Monarchy and http://dbpedia.org/resource/Dominion_of_India and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/American_Woman and the value is : 0
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Queen_consort and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Chogyal and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Sikkim and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Palden_Thondup_Namgyal and the value is : 1
+http://dbpedia.org/resource/Palden_Thondup_Namgyal and http://dbpedia.org/resource/India and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/United_States and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Palden_Thondup_Namgyal and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Ovarian_cancer and the value is : 0
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Arthur_Schuster and the value is : 0
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Urban_history and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Hope Cooke (born October 8, 1940) is an American socialite and former queen consort of Sikkim.
+She was the second wife of the Chogyal (king) of Sikkim, Palden Thondup Namgyal.
+Cooke was born in New York City to an American father and a Burmese mother.
+She was educated at the Chapin School in New York City and at the Madeira School in McLean, Virginia.
+In 1963, Cooke met the Chogyal of Sikkim, Palden Thondup Namgyal, while he was on a visit to the United States.
+They married in 1963 and she moved to Sikkim, becoming the queen consort of Sikkim.
+She was the first American woman to become a queen consort in Asia.
+Cooke was instrumental in the modernization of Sikkim and the introduction of democracy to the country.
+She was also a strong advocate for the rights of women and children in Sikkim.
+In 1975, Sikkim was annexed by India and the monarchy was abolished.
+Cooke and her husband were forced to leave the country and they settled.
+
+
+Coref Resolved: 
+
+Hope Cooke (born October 8, 1940) is an American socialite and former queen consort of Sikkim.
+Hope Cooke was the second wife of the Chogyal (king) of Sikkim, Palden Thondup Namgyal.
+Hope Cooke was born in New York City to an American father and a Burmese mother.
+Hope Cooke was educated at the Chapin School in New York City and at the Madeira School in McLean, Virginia.
+In 1963, Hope Cooke met the Chogyal of Sikkim, Palden Thondup Namgyal, while the Chogyal (king) of Sikkim, Palden Thondup Namgyalwas on a visit to the United States.
+Cooke and her husband married in 1963and Hope Cooke moved to Sikkim, becoming the queen consort of Sikkim.
+Hope Cooke was the first American woman to become a queen consort in Asia.
+Hope Cooke was instrumental in the modernization of Sikkimand the introduction of democracy to Sikkim.
+Hope Cooke was also a strong advocate for the rights of women and children in Sikkim.
+In 1975, Sikkimwas annexed by India and the monarchy was abolished.
+Hope Cooke and Hope Cooke husband were forced to leave Sikkimand Cooke and her husband settled.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Hope Cooke (born June 24, 1940) is an American woman who was the "Gyalmo" (Queen Consort) of the 12th Chogyal (King) of Sikkim, Palden Thondup Namgyal.
+Their wedding took place in March 1963.
+Palden Thondup Namgyal was to be the last King of Sikkim as a protectorate state under India.
+By 1973, both the country and their marriage were crumbling soon Sikkim was annexed by India.
+Five months after the takeover of Sikkim had begun, Cooke returned to the USA with her two birth children and step-daughter to put them in schools in New York City.
+Cooke and her husband divorced in 1980 Namgyal died of cancer in 1982.
+Cooke wrote an autobiography, Time Change (Simon Schuster 1981) and began a career as a lecturer, book critic and magazine contributor, later becoming an urban historian.
+In her new life as a student of New York City, Cooke published Seeing New York (Temple University Press 1995) worked as a newspaper columnist ("Daily News") taught at Yale University, Sarah Lawrence College, and Birch Wathen, a New York City private school.
+ 
+
+Coref Resolved: 
+
+Hope Cooke (born June 24, 1940) is an American woman who was the "Gyalmo" (Queen Consort) of the 12th Chogyal (King) of Sikkim, Palden Thondup Namgyal.
+Cooke and her husband wedding took place in March 1963.
+Palden Thondup Namgyal was to be the last King of Sikkimas a protectorate state under India.
+By 1973, both Sikkimand Cooke and her husband marriage were crumbling soon Sikkimwas annexed by India.
+Five months after the takeover of Sikkimhad begun, Hope Cooke (born June 24, 1940) returned to the USA with Hope Cooke (born June 24, 1940) two birth children and step-daughter to put her two birth children and step-daughter in schools in New York City.
+Hope Cooke (born June 24, 1940) and Hope Cooke (born June 24, 1940) husband divorced in 1980 Palden Thondup Namgyal died of cancer in 1982.
+Hope Cooke (born June 24, 1940) wrote an autobiography, Time Change (Simon Schuster 1981) and began a career as a lecturer, book critic and magazine contributor, later becoming an urban historian.
+In Hope Cooke (born June 24, 1940) new life as a student of New York City, Hope Cooke (born June 24, 1940) published Seeing New York (Temple University Press 1995) worked as a newspaper columnist ("Daily News") taught at Yale University, Sarah Lawrence College, and Birch Wathen, a New York City private school.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.6666666666666666 1.0 0.0 0.5 1.0 -1 0.3333333333333333 0.5 1.0 0.0 -1 
+
+Value for ground truth is : 
+0.8 -1 1.0 -1 0.5 0.5 0.0 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate accurate major_inaccurate accurate accurate major_inaccurate major_inaccurate accurate minor_inaccurate 
+

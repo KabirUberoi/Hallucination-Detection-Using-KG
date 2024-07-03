@@ -1,0 +1,90 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Premier_League and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Ham and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Sports_marketing and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Media_Sport_Investment and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Media_Sport_Investment and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Tehran and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Iran and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/London and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/London and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Premier_League and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Ham and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Premier_League and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Ham and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Sports_marketing and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Media_Sport_Investment and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Media_Sport_Investment and the value is : 1
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Kia Joorabchian (born 1972) is an Iranian-born British-based businessman, investor, and philanthropist.
+He is the founder and chairman of the investment group, the Joorabchian Group, and is the chairman of the Premier League football club, West Ham United.
+He is also the founder and chairman of the sports marketing company, Media Sports Investment (MSI).
+Joorabchian was born in Tehran, Iran, and moved to London in 1989.
+He studied at the London School of Economics and Political Science, and graduated with a degree in economics and finance.
+He then went on to work in the banking sector, before founding the Joorabchian Group in 2002.
+The group has investments in a variety of sectors, including real estate, technology, and sports.
+Joorabchian is a major investor in the Premier League football club, West Ham United, and is the chairman of the club.
+He is also the founder and chairman of the sports marketing company, Media Sports Investment (MSI).
+MSI has investments in a number of football clubs, including Corinthians in Brazil,.
+
+
+Coref Resolved: 
+
+Kia Joorabchian (born 1972) is an Iranian-born British-based businessman, investor, and philanthropist.
+Kia Joorabchian is the founder and chairman of the investment group, the Joorabchian Group, and is the chairman of the Premier League football club, West Ham United.
+Kia Joorabchian is also the founder and chairman of the sports marketing company, Media Sports Investment (MSI).
+Kia Joorabchian was born in Tehran, Iran, and moved to London in 1989.
+Kia Joorabchian studied at the London School of Economics and Political Science, and graduated with a degree in economics and finance.
+Kia Joorabchian then went on to work in the banking sector, before founding the investment group, the Joorabchian Groupin 2002.
+the investment group, the Joorabchian Grouphas investments in a variety of sectors, including real estate, technology, and sports.
+Kia Joorabchian is a major investor in the Premier League football club, West Ham United, and is the chairman of the Premier League football club, West Ham United.
+Kia Joorabchian is also the founder and chairman of the sports marketing company, Media Sports Investment (MSI).
+the sports marketing company, Media Sports Investment (MSI)has investments in a number of football clubs, including Corinthians in Brazil,.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Kiavash "Kia" Joorabchian (born 14 July 1971) is an Iranian-born, British-educated businessman largely involved in association football.
+According to the Register of Directorships at Companies House in London, Joorabchian gives two nationalities, Canadian and British.
+Although routinely described in the press as a football agent, Joorabchian is not a licensed agent the involvement of unlicensed agents in transfers in the English Premier League is prohibited by the Football Association.
+Joorabchian does not himself claim to be an agent, saying "I think the agency business is very different".
+He describes his business as advising players on their rights and clubs on transfers and contracts.
+Joorabchian is also involved in the 'third-party' ownership of players, describing himself as an investment manager.
+In October 2008, he said, "I manage the investment group and obviously when the investment group is profitable, as fund manager, you also get a cut".
+In 2009, it was reported that the unnamed investors represented by Joorabchian were understood to own the economic rights to 60 or 70 players across Europe and South America.
+ 
+
+Coref Resolved: 
+
+Kiavash "Kia" Joorabchian (born 14 July 1971) is an Iranian-born, British-educated businessman largely involved in association football.
+According to the Register of Directorships at Companies House in London, Kiavash "Kia" Joorabchian gives two nationalities, Canadian and British.
+Although routinely described in the press as a football agent, Kiavash "Kia" Joorabchian is not a licensed agent the involvement of unlicensed agents in transfers in the English Premier League is prohibited by the Football Association.
+Kiavash "Kia" Joorabchian does not Kiavash "Kia" Joorabchian claim to be an agent, saying "Kiavash "Kia" Joorabchian think the agency business is very different".
+Kiavash "Kia" Joorabchian describes Kiavash "Kia" Joorabchian business as advising players on players rights and clubs on transfers and contracts.
+Kiavash "Kia" Joorabchian is also involved in the 'third-party' ownership of players, describing Kiavash "Kia" Joorabchian as an investment manager.
+In October 2008, Kiavash "Kia" Joorabchian said, "Kiavash "Kia" Joorabchian manage the investment group and obviously when the investment group is profitable, as fund manager, you also get a cut".
+In 2009, it was reported that the unnamed investors represented by Kiavash "Kia" Joorabchian were understood to own the economic rights to 60 or 70 players across Europe and South America.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.6666666666666666 0.6666666666666666 0.3333333333333333 0.0 -1 -1 0.6666666666666666 0.6666666666666666 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate accurate major_inaccurate accurate accurate 
+

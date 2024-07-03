@@ -1,0 +1,81 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Australian_Football_League and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Australian_Football_League and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/1989_VFL_draft and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/1989_VFL_draft and the value is : 0
+http://dbpedia.org/resource/North_Melbourne_Football_Club and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/North_Melbourne_Football_Club and http://dbpedia.org/resource/1989_VFL_draft and the value is : 1
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/1989_VFL_draft and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Australian_rules_football_positions and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australian_rules_football_positions and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football_positions and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football_positions and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/North_Melbourne_Football_Club and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Syd_Coventry and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Barker_channel and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Syd_Coventry and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Barker_channel and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Syd_Coventry and http://dbpedia.org/resource/Barker_channel and the value is : 0
+http://dbpedia.org/resource/Syd_Coventry and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Syd_Coventry and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Barker_channel and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Barker_channel and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/North_Melbourne_Football_Club and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/2003_AFL_season and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/2003_AFL_season and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/2003_AFL_season and http://dbpedia.org/resource/North_Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/2003_AFL_season and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/2003_AFL_season and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/North_Melbourne_Football_Club and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/North_Melbourne_Football_Club and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Australian_Football_League and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Fox_Footy and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Fox_Footy and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+david king born 28 april 1971 is a former australian rules footballer who played for the north melbourne football club in the australian football league afl. he was drafted by north melbourne with the fourth selection in the 1989 vfl draft. king played as a ruckman and forward and was a key member of north melbournes 1996 and 1999 premiership teams. he was a threetime allaustralian in 1996 1998 and 1999 and won the syd barker medal as north melbournes best and fairest player in 1998. he was also a member of the afls team of the century. king retired at the end of the 2003 season having played a total of 270 games for north melbourne. he is currently a commentator for fox footy. 
+
+Coref Resolved : 
+david king born 28 april 1971 is a former australian rules footballer who played for the north melbourne football club in the australian football league afl. david king born 28 april 1971 was drafted by the north melbourne football club in the australian football league aflwith the fourth selection in the 1989 vfl draft. david king born 28 april 1971 played as a ruckman and forward and was a key member of the north melbourne football club in the australian football league afl1996 and 1999 premiership teams. david king born 28 april 1971 was a threetime allaustralian in 1996 1998 and 1999 and won the syd barker medal as the north melbourne football club in the australian football league aflbest and fairest player in 1998. david king born 28 april 1971 was also a member of the afls team of the century. david king born 28 april 1971 retired at the end of the 2003 season having played a total of 270 games for the north melbourne football club in the australian football league afl. david king born 28 april 1971 is currently a commentator for fox footy.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21875
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate accurate 
+

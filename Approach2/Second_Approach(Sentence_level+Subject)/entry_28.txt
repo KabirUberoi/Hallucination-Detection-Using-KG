@@ -1,0 +1,89 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Poles and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Conducting and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Łańcut and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Second_Polish_Republic and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Lviv_Conservatory and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Chopin_University_of_Music and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Conservatoire_de_Paris and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Warsaw and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Chamber_music and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Conducting and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Warsaw_National_Philharmonic_Orchestra and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Poles and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Second_Polish_Republic and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Vytautas and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Andrzej_Panufnik and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Roman_Palester and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Warsaw and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Polish_language and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Vilnius and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Lublin and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Poznań and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Warsaw and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Kurier_Wileński and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Kurier and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Poznań_Philharmonic and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Poznań and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Poznań and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Tadeusz Szeligowski (1896 1963) was a Polish composer, conductor, and music teacher.
+He was born in the small town of Łańcut, in the south-eastern part of Poland.
+He studied at the Lviv Conservatory and the Warsaw Conservatory, and later at the Paris Conservatory.
+He was a professor at the Warsaw Conservatory from 1929 to 1939.
+Szeligowski was a prolific composer, writing in a variety of genres, including symphonies, concertos, chamber music, and vocal works.
+He was also a conductor, and conducted the Warsaw Philharmonic Orchestra from 1932 to 1939.
+He was an important figure in the development of Polish music in the interwar period, and his works were performed in many countries.
+He was also a noted teacher, and his students included Witold Lutosławski, Andrzej Panufnik, and Roman Palester.
+He died in Warsaw in 1963.
+
+
+Coref Resolved: 
+
+Tadeusz Szeligowski (1896 1963) was a Polish composer, conductor, and music teacher.
+Tadeusz Szeligowski was born in the small town of Łańcut, in the south-eastern part of Poland.
+Tadeusz Szeligowski studied at the Lviv Conservatory and the Warsaw Conservatory, and later at the Paris Conservatory.
+Tadeusz Szeligowski was a professor at the Warsaw Conservatoryfrom 1929 to 1939.
+Tadeusz Szeligowski was a prolific composer, writing in a variety of genres, including symphonies, concertos, chamber music, and vocal works.
+Tadeusz Szeligowski was also a conductor, and conducted the Warsaw Philharmonic Orchestra from 1932 to 1939.
+Tadeusz Szeligowski was an important figure in the development of Polish music in the interwar period, and Tadeusz Szeligowski works were performed in many countries.
+Tadeusz Szeligowski was also a noted teacher, and Tadeusz Szeligowski students included Witold Lutosławski, Andrzej Panufnik, and Roman Palester.
+Tadeusz Szeligowski died in Warsaw in 1963.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Tadeusz Szeligowski (13 September 1896 - 10 January 1963) was a Polish composer, educator, lawyer, and music organizer.
+His works include the operas "The Rise of the Scholars", "Krakatuk", and "Theodor Gentlemen", the ballets "The Peacock and the Girl" and "Mazepa Ballets", two violin concertos, chamber and choral works.
+As a music teacher, he was very well established in Vilnius, Lublin, Poznań, and Warsaw.
+He was also a respected music writer who frequently wrote for journals and magazines specialized in music, such as the "Kurier Wileński", "Tygodnik Wileński", "Muzyka", and the "Kurier Poznański".
+His achievements include the creation of the Poznań Philharmonic, where he served as its first director between 1947 and 1949, and the founding of the Poznań Musical Spring, one of the most important festivals of contemporary music at the time.
+ 
+
+Coref Resolved: 
+
+Tadeusz Szeligowski (13 September 1896 - 10 January 1963) was a Polish composer, educator, lawyer, and music organizer.
+Tadeusz Szeligowski works include the operas "The Rise of the Scholars", "Krakatuk", and "Theodor Gentlemen", the ballets "The Peacock and the Girl" and "Mazepa Ballets", two violin concertos, chamber and choral works.
+As a music teacher, Tadeusz Szeligowski was very well established in Vilnius, Lublin, Poznań, and Warsaw.
+Tadeusz Szeligowski was also a respected music writer who frequently wrote for journals and magazines specialized in music, such as the "Kurier Wileński", "Tygodnik Wileński", "Muzyka", and the "Kurier Poznański".
+Tadeusz Szeligowski achievements include the creation of the Poznań Philharmonic, where Tadeusz Szeligowski served as the Poznań Philharmonicfirst director between 1947 and 1949, and the founding of the Poznań Musical Spring, one of the most important festivals of contemporary music at the time.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.5 0.3333333333333333 1.0 1.0 0.0 0.5 0.0 1.0 
+
+Value for ground truth is : 
+0.0 -1 1.0 0.5 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

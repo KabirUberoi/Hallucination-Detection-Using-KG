@@ -1,0 +1,162 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Jesus and the value is : 1
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Forgiveness and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Forgiveness and the value is : 0
+http://dbpedia.org/resource/Christian_theology and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Christian_theology and http://dbpedia.org/resource/Sacrifice and the value is : 0
+http://dbpedia.org/resource/Christian_theology and http://dbpedia.org/resource/Jesus and the value is : 1
+http://dbpedia.org/resource/Christian_theology and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 0
+http://dbpedia.org/resource/Symbol and http://dbpedia.org/resource/Sacrifice and the value is : 0
+http://dbpedia.org/resource/Symbol and http://dbpedia.org/resource/Jesus and the value is : 1
+http://dbpedia.org/resource/Symbol and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 0
+http://dbpedia.org/resource/Sacrifice and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Sacrifice and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 1
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 1
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Blood and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Eucharist and the value is : 1
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Rite and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Body_of_Christ and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Sacramental_wine and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Jesus and the value is : 1
+http://dbpedia.org/resource/Eucharist and http://dbpedia.org/resource/Rite and the value is : 0
+http://dbpedia.org/resource/Eucharist and http://dbpedia.org/resource/Body_of_Christ and the value is : 1
+http://dbpedia.org/resource/Eucharist and http://dbpedia.org/resource/Sacramental_wine and the value is : 0
+http://dbpedia.org/resource/Eucharist and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Rite and http://dbpedia.org/resource/Body_of_Christ and the value is : 1
+http://dbpedia.org/resource/Rite and http://dbpedia.org/resource/Sacramental_wine and the value is : 1
+http://dbpedia.org/resource/Rite and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Body_of_Christ and http://dbpedia.org/resource/Sacramental_wine and the value is : 0
+http://dbpedia.org/resource/Body_of_Christ and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Sacramental_wine and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Unity_Church and the value is : 0
+http://dbpedia.org/resource/Symbol and http://dbpedia.org/resource/Unity_Church and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Gothic_metal and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Summer and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Anathema and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Summer and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Anathema and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Anathema and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Anathema and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Benjamin_Ryan and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Benjamin_Ryan and http://dbpedia.org/resource/Anathema and the value is : 0
+http://dbpedia.org/resource/Benjamin_Ryan and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Bassinet and http://dbpedia.org/resource/Anathema and the value is : 0
+http://dbpedia.org/resource/Bassinet and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Anathema and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Bassist and http://dbpedia.org/resource/The_Blood_Divine and the value is : 0
+http://dbpedia.org/resource/Bassist and http://dbpedia.org/resource/Peaceville_Records and the value is : 1
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Peaceville_Records and the value is : 0
+http://dbpedia.org/resource/Going_for_the_One and http://dbpedia.org/resource/Peaceville_Records and the value is : 0
+http://dbpedia.org/resource/Early_Summer and http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and the value is : 0
+http://dbpedia.org/resource/Early_Summer and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Early_Summer and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Early_Summer and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Early_Summer and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/Early_Summer and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Rejoined and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Peaceville_Records and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Gothic_metal and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Orange_Goblin and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/County_of_Holland and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Orange_Goblin and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/County_of_Holland and the value is : 0
+http://dbpedia.org/resource/Orange_Goblin and http://dbpedia.org/resource/County_of_Holland and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Gothic_metal and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Benjamin_Ryan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Blood and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Gothic_metal and the value is : 0
+http://dbpedia.org/resource/Benjamin_Ryan and http://dbpedia.org/resource/Blood and the value is : 0
+http://dbpedia.org/resource/Benjamin_Ryan and http://dbpedia.org/resource/Gothic_metal and the value is : 1
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Gothic_metal and the value is : 0
+http://dbpedia.org/resource/Peaceville_Records and http://dbpedia.org/resource/Blood and the value is : 0
+http://dbpedia.org/resource/Peaceville_Records and http://dbpedia.org/resource/Compilation_album and the value is : 0
+http://dbpedia.org/resource/Peaceville_Records and http://dbpedia.org/resource/Rise_Pantheon_Dreams and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Compilation_album and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Rise_Pantheon_Dreams and the value is : 0
+http://dbpedia.org/resource/Compilation_album and http://dbpedia.org/resource/Rise_Pantheon_Dreams and the value is : 0
+http://dbpedia.org/resource/Going_for_the_One and http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and the value is : 0
+http://dbpedia.org/resource/Going_for_the_One and http://dbpedia.org/resource/Rebellion and the value is : 0
+http://dbpedia.org/resource/Going_for_the_One and http://dbpedia.org/resource/Aureola and the value is : 0
+http://dbpedia.org/resource/Going_for_the_One and http://dbpedia.org/resource/Crazy_Horses and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Rebellion and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Aureola and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Crazy_Horses and the value is : 0
+http://dbpedia.org/resource/Rebellion and http://dbpedia.org/resource/Aureola and the value is : 0
+http://dbpedia.org/resource/Rebellion and http://dbpedia.org/resource/Crazy_Horses and the value is : 0
+http://dbpedia.org/resource/Aureola and http://dbpedia.org/resource/Crazy_Horses and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Rejoined and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Bassinet and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Bassinet and http://dbpedia.org/resource/Adrian_Erlandsson and the value is : 0
+http://dbpedia.org/resource/Bassinet and http://dbpedia.org/resource/Martin_Marthus_Škaroupka and the value is : 1
+http://dbpedia.org/resource/Drummer and http://dbpedia.org/resource/Adrian_Erlandsson and the value is : 0
+http://dbpedia.org/resource/Drummer and http://dbpedia.org/resource/Martin_Marthus_Škaroupka and the value is : 1
+http://dbpedia.org/resource/Adrian_Erlandsson and http://dbpedia.org/resource/Martin_Marthus_Škaroupka and the value is : 0
+http://dbpedia.org/resource/Anathema and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+blood divine term refer blood jesus christ believed shed remission sins . central christian theology seen symbol sacrificial death jesus atonement sins . term derived latin sanguis divinus literally translates divine blood . concept blood divine closely related concept eucharist ritual consuming bread wine remembrance jesus death . blood divine seen symbol unity church believed shared believers . 
+
+Coref Resolved : 
+blood divine term refer blood jesus christ believed shed remission sins . central christian theology seen symbol sacrificial death jesus christ atonement sins . term derived latin sanguis divinus literally translates divine blood . concept blood divine closely related concept eucharist ritual consuming bread wine remembrance jesus christ death . blood divine seen symbol unity church believed shared believers .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+blood divine british gothic metal band founded summer 1995 paul allender brothers paul benjamin ryan left cradle filth recording v empire dark faerytales phallustein ep ousted anathema singer darren white . recruited drummer william a. w.a.s . sarginson bassist steve maloney quickly signed peaceville records . debut album awaken recorded early 1996 released peaceville records later year . end 1996 toured europe cathedral label mates dying bride . early summer 1997 recorded second album mystica guitarist paul allender left band spend time family eventually rejoined cradle filth . mystica released later year peaceville records . album goth sound classic rockinfluenced progressive sound . band continued toured fivepiece touring uk orange goblin supporting short tour holland beginning 1998 . band looking develop sound keyboard player benjamin ryan told leave band april 1998 . dismayed paul ryan shortly band split . 2002 peaceville released blood divine compilation album rise pantheon dreams . tracklist included songs awaken mystica previouslyunreleased tracks revolt forever belongs live version aureole live cover osmonds crazy horses . allender later rejoined cradle filth . sarginson briefly joined cradle filth band settled swedish drummer adrian erlandsson later replaced martin škaroupka . 2004 darren white formed new band serotonal . 
+
+Coref Resolved : 
+blood divine british gothic metal band founded summer 1995 paul allender brothers paul benjamin ryan left cradle filth recording v empire dark faerytales phallustein ep ousted anathema singer darren white . recruited drummer william a. w.a.s . sarginson bassist steve maloney quickly signed peaceville records . debut album awaken recorded early 1996 released peaceville records later year . end 1996 toured europe cathedral label mates dying bride . early summer 1997 recorded second album mystica paul allender left band spend time family eventually rejoined cradle filth . mystica released later year peaceville records . album goth sound classic rockinfluenced progressive sound . blood divine british gothic metal band continued toured fivepiece touring uk orange goblin supporting short tour holland beginning 1998 . blood divine british gothic metal band looking develop sound paul benjamin ryan told leave band april 1998 . dismayed paul benjamin ryan shortly blood divine british gothic metal band split . 2002 peaceville records released blood divine compilation album rise pantheon dreams . tracklist included songs awaken mystica previouslyunreleased tracks revolt forever belongs live version aureole live cover osmonds crazy horses . paul allender later rejoined cradle filth . sarginson briefly joined cradle filth band settled swedish drummer adrian erlandsson later replaced martin škaroupka . 2004 anathema singer darren white formed new band serotonal .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3125 and for ground truth is : 0.049019607843137254
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,109 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Indian_independence_movement and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Indian_National_Congress and the value is : 0
+http://dbpedia.org/resource/Indian_independence_movement and http://dbpedia.org/resource/Indian_National_Congress and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Village and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Amritsar and the value is : 0
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Amritsar and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Indian_independence_movement and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Punjab_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Punjab_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Rajya_Sabha and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Field_hockey and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/FC_Punjab_Police and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Officer and the value is : 0
+http://dbpedia.org/resource/Field_hockey and http://dbpedia.org/resource/FC_Punjab_Police and the value is : 0
+http://dbpedia.org/resource/Field_hockey and http://dbpedia.org/resource/Officer and the value is : 1
+http://dbpedia.org/resource/FC_Punjab_Police and http://dbpedia.org/resource/Officer and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Khullar and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Sansarpur and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Village and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Jalandhar_district and the value is : 0
+http://dbpedia.org/resource/Sansarpur and http://dbpedia.org/resource/Village and the value is : 1
+http://dbpedia.org/resource/Sansarpur and http://dbpedia.org/resource/Jalandhar_district and the value is : 0
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Jalandhar_district and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Indian_Railways and the value is : 1
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/FC_Punjab_Police and the value is : 1
+http://dbpedia.org/resource/Indian_Railways and http://dbpedia.org/resource/FC_Punjab_Police and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Mohun_Bagan_A.C. and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Police and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Lyon and the value is : 1
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Belgium and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/East_Africa_rugby_union_team and the value is : 1
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/East_Germany_national_football_team and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Netherlands_women's_national_field_hockey_team and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Germany_national_football_team and the value is : 0
+http://dbpedia.org/resource/Belgium and http://dbpedia.org/resource/East_Africa_rugby_union_team and the value is : 1
+http://dbpedia.org/resource/Belgium and http://dbpedia.org/resource/East_Germany_national_football_team and the value is : 0
+http://dbpedia.org/resource/Belgium and http://dbpedia.org/resource/Netherlands_women's_national_field_hockey_team and the value is : 1
+http://dbpedia.org/resource/Belgium and http://dbpedia.org/resource/Germany_national_football_team and the value is : 0
+http://dbpedia.org/resource/East_Africa_rugby_union_team and http://dbpedia.org/resource/East_Germany_national_football_team and the value is : 0
+http://dbpedia.org/resource/East_Africa_rugby_union_team and http://dbpedia.org/resource/Netherlands_women's_national_field_hockey_team and the value is : 1
+http://dbpedia.org/resource/East_Africa_rugby_union_team and http://dbpedia.org/resource/Germany_national_football_team and the value is : 0
+http://dbpedia.org/resource/East_Germany_national_football_team and http://dbpedia.org/resource/Netherlands_women's_national_field_hockey_team and the value is : 0
+http://dbpedia.org/resource/East_Germany_national_football_team and http://dbpedia.org/resource/Germany_national_football_team and the value is : 0
+http://dbpedia.org/resource/Netherlands_women's_national_field_hockey_team and http://dbpedia.org/resource/Germany_national_football_team and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/India_men's_national_field_hockey_team and the value is : 1
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Asian_Games and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/1966_Asian_Games and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Bronze_medal and the value is : 1
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Mexico_national_football_team and the value is : 1
+http://dbpedia.org/resource/India_men's_national_field_hockey_team and http://dbpedia.org/resource/Asian_Games and the value is : 0
+http://dbpedia.org/resource/India_men's_national_field_hockey_team and http://dbpedia.org/resource/Gold_medal and the value is : 1
+http://dbpedia.org/resource/India_men's_national_field_hockey_team and http://dbpedia.org/resource/1966_Asian_Games and the value is : 0
+http://dbpedia.org/resource/India_men's_national_field_hockey_team and http://dbpedia.org/resource/Bronze_medal and the value is : 1
+http://dbpedia.org/resource/India_men's_national_field_hockey_team and http://dbpedia.org/resource/Mexico_national_football_team and the value is : 0
+http://dbpedia.org/resource/Asian_Games and http://dbpedia.org/resource/Gold_medal and the value is : 1
+http://dbpedia.org/resource/Asian_Games and http://dbpedia.org/resource/1966_Asian_Games and the value is : 0
+http://dbpedia.org/resource/Asian_Games and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/Asian_Games and http://dbpedia.org/resource/Mexico_national_football_team and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/1966_Asian_Games and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Mexico_national_football_team and the value is : 1
+http://dbpedia.org/resource/1966_Asian_Games and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/1966_Asian_Games and http://dbpedia.org/resource/Mexico_national_football_team and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Mexico_national_football_team and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Uttar_Pradesh_Police and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Captain_(association_football) and the value is : 0
+http://dbpedia.org/resource/Uttar_Pradesh_Police and http://dbpedia.org/resource/Captain_(association_football) and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Prison_warden and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Uttar_Pradesh_Police and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Indian_Police_Service and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Officer and the value is : 0
+http://dbpedia.org/resource/Prison_warden and http://dbpedia.org/resource/Uttar_Pradesh_Police and the value is : 0
+http://dbpedia.org/resource/Prison_warden and http://dbpedia.org/resource/Indian_Police_Service and the value is : 0
+http://dbpedia.org/resource/Prison_warden and http://dbpedia.org/resource/Officer and the value is : 0
+http://dbpedia.org/resource/Uttar_Pradesh_Police and http://dbpedia.org/resource/Indian_Police_Service and the value is : 0
+http://dbpedia.org/resource/Uttar_Pradesh_Police and http://dbpedia.org/resource/Officer and the value is : 0
+http://dbpedia.org/resource/Indian_Police_Service and http://dbpedia.org/resource/Officer and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kular and http://dbpedia.org/resource/Deputy_inspector_general_of_police and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+balbir singh kullar 19192006 was an indian freedom fighter and a prominent leader of the indian national congress. he was born in the village of kullar in the district of amritsar punjab. he was a member of the indian national congress since 1942 and was actively involved in the indian independence movement. he was a member of the all india congress committee from 1952 to 1956 and was elected to the punjab legislative assembly in 1957. he was also a member of the rajya sabha from 1962 to 1968. he was a member of the indian delegation to the united nations in 1965. he was a member of the indian delegation to the united nations in 1965. he was also a member of the indian delegation to the united nations in 1965. he was a member of the indian delegation to the united nations in 1965. he was also a member of the indian delegation to the united nations in 1965. he was a member of the indian delegation to the united nations in 1965. he was also a member of the indian delegation to the united nations in 1965. he was a member of the indian delegation to the 
+
+Coref Resolved : 
+balbir singh kullar 19192006 was an indian freedom fighter and a prominent leader of the indian national congress. balbir singh kullar 19192006 was born in the village of kullar in the district of amritsar punjab. balbir singh kullar 19192006 was a member of the indian national congresssince 1942 and was actively involved in the indian independence movement. balbir singh kullar 19192006 was a member of the all india congress committee from 1952 to 1956 and was elected to the punjab legislative assembly in 1957. balbir singh kullar 19192006 was also a member of the rajya sabha from 1962 to 1968. balbir singh kullar 19192006 was a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was also a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was also a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was also a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was a member of the indian delegation to the
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+balbir singh kular is an indian field hockey player and a punjab police officer. alternative spellings of his last name include kullar and khullar. balbir singh was born in the sansarpur village of the jalandhar district. he was the captain of the all india schools during 19571960 and also played as part of the combined university team. at the nationallevel he represented the hockey teams of punjab state indian railways and punjab police. for a brief time he also played for the littleknown hockey team of mohun bagan. balbir singh joined the punjab armed police in 1962 and became an assistant subinspector of the punjab police in 1963. as part of the indian national mens hockey team he played his first international game in 1963 at lyons in france. he gained reputation as an inside forward in the indian team and toured belgium east africa east germany england the netherlands italy kenya new zealand and west germany. he was a member of the indian team that won the asian games gold in 1966 bangkok and the olympic bronze in 1968 mexico. during 19681975 balbir singh was a part of the all india police team and also served as its captain for some time. he became the deputy superintendent of police in 1981 became an indian police service officer in 1987. he retired as a deputy inspector general dig in february 2001. 
+
+Coref Resolved : 
+balbir singh kular is an indian field hockey player and a punjab police officer. alternative spellings of balbir singh kular last name include kullar and khullar. balbir singh kular was born in the sansarpur village of the jalandhar district. balbir singh kular was the captain of the all india schools during 19571960 and also played as part of the combined university team. at the nationallevel balbir singh kular represented the hockey teams of punjab state indian railways and punjab police. for a brief time balbir singh kular also played for the littleknown hockey team of mohun bagan. balbir singh kular joined the punjab armed police in 1962 and became an assistant subinspector of punjab policein 1963. as part of the indian national mens hockey team balbir singh kular played balbir singh kular first international game in 1963at lyons in france. balbir singh kular gained reputation as an inside forward in the indian national mens hockey team and toured belgium east africa east germany england the netherlands italy kenya new zealand and west germany. balbir singh kular was a member of the indian team that won the asian games gold in 1966 bangkok and the olympic bronze in 1968 mexico. during 19681975 balbir singh kular was a part of the all india police team and also served as the all india police team captain for some time. balbir singh kular became the deputy superintendent of police in 1981 became an indian police service officer in 1987. balbir singh kular retired as a deputy inspector general dig in february 2001.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.09090909090909091 and for ground truth is : 0.22857142857142856
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

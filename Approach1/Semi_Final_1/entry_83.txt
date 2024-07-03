@@ -1,0 +1,183 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Véra_Korène and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Moscow and http://dbpedia.org/resource/Russia and the value is : 1
+http://dbpedia.org/resource/Moscow and http://dbpedia.org/resource/Paris and the value is : 1
+http://dbpedia.org/resource/Russia and http://dbpedia.org/resource/Paris and the value is : 1
+http://dbpedia.org/resource/Montmartre and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Montmartre and http://dbpedia.org/resource/Theatre_of_France and the value is : 0
+http://dbpedia.org/resource/Montmartre and http://dbpedia.org/resource/Cinema_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Theatre_of_France and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Cinema_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Theatre_of_France and http://dbpedia.org/resource/Cinema_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/La_Grande_Illusion and http://dbpedia.org/resource/The_Rules_of_the_Game and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Véra_Korène and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Véra_Nabokov and http://dbpedia.org/resource/Russia and the value is : 0
+http://dbpedia.org/resource/Véra_Nabokov and http://dbpedia.org/resource/Cultural_heritage and the value is : 0
+http://dbpedia.org/resource/Véra_Nabokov and http://dbpedia.org/resource/Véra_Korène and the value is : 0
+http://dbpedia.org/resource/Véra_Nabokov and http://dbpedia.org/resource/French_Revolution and the value is : 0
+http://dbpedia.org/resource/Véra_Nabokov and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Russia and http://dbpedia.org/resource/Cultural_heritage and the value is : 0
+http://dbpedia.org/resource/Russia and http://dbpedia.org/resource/Véra_Korène and the value is : 0
+http://dbpedia.org/resource/Russia and http://dbpedia.org/resource/French_Revolution and the value is : 0
+http://dbpedia.org/resource/Russia and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Cultural_heritage and http://dbpedia.org/resource/Véra_Korène and the value is : 0
+http://dbpedia.org/resource/Cultural_heritage and http://dbpedia.org/resource/French_Revolution and the value is : 0
+http://dbpedia.org/resource/Cultural_heritage and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Véra_Korène and http://dbpedia.org/resource/French_Revolution and the value is : 0
+http://dbpedia.org/resource/Véra_Korène and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/French_Revolution and http://dbpedia.org/resource/Paris and the value is : 1
+http://dbpedia.org/resource/Francization and http://dbpedia.org/resource/Véra_Korène and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Véra_Korène and the value is : 1
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Filmmaking and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Comédie-Française and the value is : 1
+http://dbpedia.org/resource/Véra_Korène and http://dbpedia.org/resource/Filmmaking and the value is : 0
+http://dbpedia.org/resource/Véra_Korène and http://dbpedia.org/resource/Comédie-Française and the value is : 1
+http://dbpedia.org/resource/Filmmaking and http://dbpedia.org/resource/Comédie-Française and the value is : 0
+http://dbpedia.org/resource/Véra_Korène and http://dbpedia.org/resource/Théâtre_de_la_Renaissance and the value is : 0
+http://dbpedia.org/resource/Véra_Korène and http://dbpedia.org/resource/Louveciennes and the value is : 0
+http://dbpedia.org/resource/Véra_Korène and http://dbpedia.org/resource/Old_age and the value is : 0
+http://dbpedia.org/resource/Véra_Korène and http://dbpedia.org/resource/Cimetière_parisien_de_Pantin and the value is : 0
+http://dbpedia.org/resource/Véra_Korène and http://dbpedia.org/resource/Suburb and the value is : 0
+http://dbpedia.org/resource/Véra_Korène and http://dbpedia.org/resource/Pantin and the value is : 0
+http://dbpedia.org/resource/Louveciennes and http://dbpedia.org/resource/Old_age and the value is : 1
+http://dbpedia.org/resource/Louveciennes and http://dbpedia.org/resource/Cimetière_parisien_de_Pantin and the value is : 0
+http://dbpedia.org/resource/Louveciennes and http://dbpedia.org/resource/Suburb and the value is : 0
+http://dbpedia.org/resource/Louveciennes and http://dbpedia.org/resource/Pantin and the value is : 0
+http://dbpedia.org/resource/Old_age and http://dbpedia.org/resource/Cimetière_parisien_de_Pantin and the value is : 0
+http://dbpedia.org/resource/Old_age and http://dbpedia.org/resource/Suburb and the value is : 0
+http://dbpedia.org/resource/Old_age and http://dbpedia.org/resource/Pantin and the value is : 0
+http://dbpedia.org/resource/Cimetière_parisien_de_Pantin and http://dbpedia.org/resource/Suburb and the value is : 0
+http://dbpedia.org/resource/Cimetière_parisien_de_Pantin and http://dbpedia.org/resource/Pantin and the value is : 1
+http://dbpedia.org/resource/Suburb and http://dbpedia.org/resource/Pantin and the value is : 0
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Nuit and the value is : 0
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Sept and the value is : 0
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Largent,_West_Virginia and the value is : 0
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Volga_River and the value is : 1
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Russian_Empire and the value is : 0
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Deuxième_Bureau and the value is : 0
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Tamara_Drasin and the value is : 0
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Sur_Empire and the value is : 0
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Maginot_Line and the value is : 1
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Lipstick and the value is : 1
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Ballet and the value is : 0
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Café_de_Paris_(London) and the value is : 0
+http://dbpedia.org/resource/La_Voix and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+http://dbpedia.org/resource/Nuit and http://dbpedia.org/resource/Sept and the value is : 0
+http://dbpedia.org/resource/Nuit and http://dbpedia.org/resource/Largent,_West_Virginia and the value is : 0
+http://dbpedia.org/resource/Nuit and http://dbpedia.org/resource/Volga_River and the value is : 0
+http://dbpedia.org/resource/Nuit and http://dbpedia.org/resource/Russian_Empire and the value is : 0
+http://dbpedia.org/resource/Nuit and http://dbpedia.org/resource/Deuxième_Bureau and the value is : 0
+http://dbpedia.org/resource/Nuit and http://dbpedia.org/resource/Tamara_Drasin and the value is : 0
+http://dbpedia.org/resource/Nuit and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Nuit and http://dbpedia.org/resource/Sur_Empire and the value is : 0
+http://dbpedia.org/resource/Nuit and http://dbpedia.org/resource/Maginot_Line and the value is : 0
+http://dbpedia.org/resource/Nuit and http://dbpedia.org/resource/Lipstick and the value is : 0
+http://dbpedia.org/resource/Nuit and http://dbpedia.org/resource/Ballet and the value is : 0
+http://dbpedia.org/resource/Nuit and http://dbpedia.org/resource/Café_de_Paris_(London) and the value is : 0
+http://dbpedia.org/resource/Nuit and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+http://dbpedia.org/resource/Sept and http://dbpedia.org/resource/Largent,_West_Virginia and the value is : 0
+http://dbpedia.org/resource/Sept and http://dbpedia.org/resource/Volga_River and the value is : 0
+http://dbpedia.org/resource/Sept and http://dbpedia.org/resource/Russian_Empire and the value is : 0
+http://dbpedia.org/resource/Sept and http://dbpedia.org/resource/Deuxième_Bureau and the value is : 0
+http://dbpedia.org/resource/Sept and http://dbpedia.org/resource/Tamara_Drasin and the value is : 0
+http://dbpedia.org/resource/Sept and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Sept and http://dbpedia.org/resource/Sur_Empire and the value is : 0
+http://dbpedia.org/resource/Sept and http://dbpedia.org/resource/Maginot_Line and the value is : 0
+http://dbpedia.org/resource/Sept and http://dbpedia.org/resource/Lipstick and the value is : 0
+http://dbpedia.org/resource/Sept and http://dbpedia.org/resource/Ballet and the value is : 0
+http://dbpedia.org/resource/Sept and http://dbpedia.org/resource/Café_de_Paris_(London) and the value is : 0
+http://dbpedia.org/resource/Sept and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+http://dbpedia.org/resource/Largent,_West_Virginia and http://dbpedia.org/resource/Volga_River and the value is : 0
+http://dbpedia.org/resource/Largent,_West_Virginia and http://dbpedia.org/resource/Russian_Empire and the value is : 0
+http://dbpedia.org/resource/Largent,_West_Virginia and http://dbpedia.org/resource/Deuxième_Bureau and the value is : 0
+http://dbpedia.org/resource/Largent,_West_Virginia and http://dbpedia.org/resource/Tamara_Drasin and the value is : 0
+http://dbpedia.org/resource/Largent,_West_Virginia and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Largent,_West_Virginia and http://dbpedia.org/resource/Sur_Empire and the value is : 0
+http://dbpedia.org/resource/Largent,_West_Virginia and http://dbpedia.org/resource/Maginot_Line and the value is : 0
+http://dbpedia.org/resource/Largent,_West_Virginia and http://dbpedia.org/resource/Lipstick and the value is : 0
+http://dbpedia.org/resource/Largent,_West_Virginia and http://dbpedia.org/resource/Ballet and the value is : 0
+http://dbpedia.org/resource/Largent,_West_Virginia and http://dbpedia.org/resource/Café_de_Paris_(London) and the value is : 0
+http://dbpedia.org/resource/Largent,_West_Virginia and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+http://dbpedia.org/resource/Volga_River and http://dbpedia.org/resource/Russian_Empire and the value is : 0
+http://dbpedia.org/resource/Volga_River and http://dbpedia.org/resource/Deuxième_Bureau and the value is : 0
+http://dbpedia.org/resource/Volga_River and http://dbpedia.org/resource/Tamara_Drasin and the value is : 0
+http://dbpedia.org/resource/Volga_River and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Volga_River and http://dbpedia.org/resource/Sur_Empire and the value is : 0
+http://dbpedia.org/resource/Volga_River and http://dbpedia.org/resource/Maginot_Line and the value is : 0
+http://dbpedia.org/resource/Volga_River and http://dbpedia.org/resource/Lipstick and the value is : 0
+http://dbpedia.org/resource/Volga_River and http://dbpedia.org/resource/Ballet and the value is : 0
+http://dbpedia.org/resource/Volga_River and http://dbpedia.org/resource/Café_de_Paris_(London) and the value is : 0
+http://dbpedia.org/resource/Volga_River and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+http://dbpedia.org/resource/Russian_Empire and http://dbpedia.org/resource/Deuxième_Bureau and the value is : 0
+http://dbpedia.org/resource/Russian_Empire and http://dbpedia.org/resource/Tamara_Drasin and the value is : 1
+http://dbpedia.org/resource/Russian_Empire and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Russian_Empire and http://dbpedia.org/resource/Sur_Empire and the value is : 0
+http://dbpedia.org/resource/Russian_Empire and http://dbpedia.org/resource/Maginot_Line and the value is : 0
+http://dbpedia.org/resource/Russian_Empire and http://dbpedia.org/resource/Lipstick and the value is : 0
+http://dbpedia.org/resource/Russian_Empire and http://dbpedia.org/resource/Ballet and the value is : 0
+http://dbpedia.org/resource/Russian_Empire and http://dbpedia.org/resource/Café_de_Paris_(London) and the value is : 0
+http://dbpedia.org/resource/Russian_Empire and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+http://dbpedia.org/resource/Deuxième_Bureau and http://dbpedia.org/resource/Tamara_Drasin and the value is : 0
+http://dbpedia.org/resource/Deuxième_Bureau and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Deuxième_Bureau and http://dbpedia.org/resource/Sur_Empire and the value is : 0
+http://dbpedia.org/resource/Deuxième_Bureau and http://dbpedia.org/resource/Maginot_Line and the value is : 0
+http://dbpedia.org/resource/Deuxième_Bureau and http://dbpedia.org/resource/Lipstick and the value is : 0
+http://dbpedia.org/resource/Deuxième_Bureau and http://dbpedia.org/resource/Ballet and the value is : 0
+http://dbpedia.org/resource/Deuxième_Bureau and http://dbpedia.org/resource/Café_de_Paris_(London) and the value is : 0
+http://dbpedia.org/resource/Deuxième_Bureau and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+http://dbpedia.org/resource/Tamara_Drasin and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Tamara_Drasin and http://dbpedia.org/resource/Sur_Empire and the value is : 0
+http://dbpedia.org/resource/Tamara_Drasin and http://dbpedia.org/resource/Maginot_Line and the value is : 0
+http://dbpedia.org/resource/Tamara_Drasin and http://dbpedia.org/resource/Lipstick and the value is : 0
+http://dbpedia.org/resource/Tamara_Drasin and http://dbpedia.org/resource/Ballet and the value is : 0
+http://dbpedia.org/resource/Tamara_Drasin and http://dbpedia.org/resource/Café_de_Paris_(London) and the value is : 0
+http://dbpedia.org/resource/Tamara_Drasin and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+http://dbpedia.org/resource/Crime_film and http://dbpedia.org/resource/Sur_Empire and the value is : 0
+http://dbpedia.org/resource/Crime_film and http://dbpedia.org/resource/Maginot_Line and the value is : 0
+http://dbpedia.org/resource/Crime_film and http://dbpedia.org/resource/Lipstick and the value is : 0
+http://dbpedia.org/resource/Crime_film and http://dbpedia.org/resource/Ballet and the value is : 0
+http://dbpedia.org/resource/Crime_film and http://dbpedia.org/resource/Café_de_Paris_(London) and the value is : 0
+http://dbpedia.org/resource/Crime_film and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+http://dbpedia.org/resource/Sur_Empire and http://dbpedia.org/resource/Maginot_Line and the value is : 0
+http://dbpedia.org/resource/Sur_Empire and http://dbpedia.org/resource/Lipstick and the value is : 0
+http://dbpedia.org/resource/Sur_Empire and http://dbpedia.org/resource/Ballet and the value is : 0
+http://dbpedia.org/resource/Sur_Empire and http://dbpedia.org/resource/Café_de_Paris_(London) and the value is : 0
+http://dbpedia.org/resource/Sur_Empire and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+http://dbpedia.org/resource/Maginot_Line and http://dbpedia.org/resource/Lipstick and the value is : 0
+http://dbpedia.org/resource/Maginot_Line and http://dbpedia.org/resource/Ballet and the value is : 0
+http://dbpedia.org/resource/Maginot_Line and http://dbpedia.org/resource/Café_de_Paris_(London) and the value is : 0
+http://dbpedia.org/resource/Maginot_Line and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+http://dbpedia.org/resource/Lipstick and http://dbpedia.org/resource/Ballet and the value is : 0
+http://dbpedia.org/resource/Lipstick and http://dbpedia.org/resource/Café_de_Paris_(London) and the value is : 0
+http://dbpedia.org/resource/Lipstick and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+http://dbpedia.org/resource/Ballet and http://dbpedia.org/resource/Café_de_Paris_(London) and the value is : 0
+http://dbpedia.org/resource/Ballet and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+http://dbpedia.org/resource/Café_de_Paris_(London) and http://dbpedia.org/resource/Savage_Brigade and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+véra korène 18901956 was a russianborn french actress and singer. she was born in moscow russia and moved to paris in 1912. she began her career as a singer in the cabarets of montmartre and later became a successful actress in the french theater and cinema. she was best known for her roles in the films la grande illusion 1937 and la règle du jeu 1939. she was also a popular recording artist releasing several albums of popular songs. she died in paris in 1956. 
+
+Coref Resolved : 
+véra korène 18901956 was a russianborn french actress and singer. she was born in moscow russia and moved to paris in 1912. she began she career as a singer in the cabarets of montmartre and later became a successful actress in the french theater and cinema. she was best known for she roles in the films la grande illusion 1937 and la règle du jeu 1939. she was also a popular recording artist releasing several albums of popular songs. she died in paris in 1956.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+véra korène june 6 1901 november 19 1996 was a russianborn french actress and singer. born rébecca véra korostzky in russia of jewish heritage she fled the revolution and settled in paris france. using the francized name korène she began her career in the theatre but also appeared in a number of films during the 1930s. a mainstay of the parisian stage in the 1950s she organized her own theatre production company putting on performances at the comédie française. in 1956 she was named director of the théâtre de la renaissance a position she held until 1978. véra korène died in 1996 in louveciennes in a senior citizens home and was interred in the cimetière de pantin in the parisian suburb of pantin. partial filmography la voix sans visage 1933 belle de nuit 1933 second bureau 1935 sept hommes... une femme 1936 largent 1936 le batelier de la volga 1936 au service du tsar 1936 deuxième bureau second bureau 1936 tamara la complaisante 1937 double crime sur la ligne maginot 1937 la danseuse rouge the red dancer 1937 café de paris 1938 la brigade sauvage 1939. 
+
+Coref Resolved : 
+véra korène june 6 1901 november 19 1996 was a russianborn french actress and singer. born rébecca véra korostzky in russia of jewish heritage véra korène fled the revolution and settled in paris france. using the francized name korène véra korène began véra korène career in the theatre but also appeared in a number of films during the 1930s. a mainstay of the parisian stage in the 1950s véra korène organized véra korène own theatre production company putting on performances at the comédie française. in 1956 véra korène was named director of the théâtre de la renaissance a position véra korène held until 1978. véra korène died in 1996 in louveciennes in a senior citizens home and was interred in the cimetière de pantin in the parisian suburb of pantin. partial filmography la voix sans visage 1933 belle de nuit 1933 second bureau 1935 sept hommes... une femme 1936 largent 1936 le batelier de la volga 1936 au service du tsar 1936 deuxième bureau second bureau 1936 tamara la complaisante 1937 double crime sur la ligne maginot 1937 la danseuse rouge the red dancer 1937 café de paris france1938 la brigade sauvage 1939.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.45454545454545453 and for ground truth is : 0.06944444444444445
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate accurate major_inaccurate 
+

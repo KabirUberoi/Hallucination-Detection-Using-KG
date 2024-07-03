@@ -1,0 +1,36 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Plant_collecting and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Plant_collecting and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Herbarium and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Herbarium and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Species_description and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Species_description and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Société_botanique_de_France and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/French_Foreign_Legion and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+achilleferdinand carrière 18441906 was a french botanist and plant collector. he was born in paris and studied at the école nationale supérieure des beauxarts. he was a professor of botany at the muséum national dhistoire naturelle in paris from 1876 to 1906. carrière was an important figure in the development of botany in france. he was a prolific collector of plants and his collections are held in the herbarium of the muséum national dhistoire naturelle. he was also a prolific author publishing numerous books and articles on botany. he was a member of the société botanique de france and the société nationale dacclimatation de france. he was awarded the legion of honour in 1894. 
+
+Coref Resolved : 
+achilleferdinand carrière 18441906 was a french botanist and plant collector. achilleferdinand carrière was born in paris and studied at the école nationale supérieure des beauxarts. achilleferdinand carrière was a professor of botany at the muséum national dhistoire naturelle in paris from 1876 to 1906. achilleferdinand carrière was an important figure in the development of botany in france. achilleferdinand carrière was a prolific collector of plants and achilleferdinand carrière collections are held in the herbarium of the muséum national dhistoire naturelle in paris . achilleferdinand carrière was also a prolific author publishing numerous books and articles on botany. achilleferdinand carrière was a member of the société botanique de france and the société nationale dacclimatation de france. achilleferdinand carrière was awarded the legion of honour in 1894.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

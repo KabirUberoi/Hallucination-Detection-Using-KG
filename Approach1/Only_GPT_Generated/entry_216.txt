@@ -1,0 +1,52 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Filmmaking and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Film_producer and the value is : 0
+http://dbpedia.org/resource/Filmmaking and http://dbpedia.org/resource/Film_producer and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Documentary_film and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Painting and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Filmmaking and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Robert_Breer and the value is : 1
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Filmmaking and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Robert_Breer and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Filmmaking and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Robert_Breer and the value is : 0
+http://dbpedia.org/resource/Filmmaking and http://dbpedia.org/resource/Robert_Breer and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Whitney_Museum_of_American_Art and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Sundance_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Whitney_Museum_of_American_Art and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Whitney_Museum_of_American_Art and http://dbpedia.org/resource/Sundance_Film_Festival and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Sundance_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/PBS and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Art:21 and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/PBS and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Art:21 and the value is : 0
+http://dbpedia.org/resource/PBS and http://dbpedia.org/resource/Art:21 and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Visual_arts and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Visual_arts and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Visual_arts and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Visual_arts and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+cindy kleine born 1954 is an american filmmaker writer and producer. she is best known for her documentary films which explore the lives of artists including her husband the late painter and filmmaker robert breer. her films have been shown at the museum of modern art the whitney museum of american art the new york film festival and the sundance film festival. she has also written and produced for television including the pbs series art21. kleine is a professor at the school of visual arts in new york city. 
+
+Coref Resolved : 
+cindy kleine born 1954 is an american filmmaker writer and producer. cindy kleine born 1954 is best known for cindy kleine born 1954 documentary films which explore the lives of artists including cindy kleine born 1954 husband the late painter and filmmaker robert breer. cindy kleine born 1954 films have been shown at the museum of modern art the whitney museum of american art the new york film festival and the sundance film festival. cindy kleine born 1954 has also written and produced for television including the pbs series art21. cindy kleine born 1954 is a professor at the school of visual arts in new york city.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.17142857142857143
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

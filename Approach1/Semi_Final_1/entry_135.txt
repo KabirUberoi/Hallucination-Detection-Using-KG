@@ -1,0 +1,255 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 1
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Television and the value is : 1
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Pundit and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Pundit and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Pundit and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Author and the value is : 1
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Vice_President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/2008_United_States_presidential_election and the value is : 1
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Vice_President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/2008_United_States_presidential_election and the value is : 0
+http://dbpedia.org/resource/Vice_President_of_the_United_States and http://dbpedia.org/resource/2008_United_States_presidential_election and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/News_presenter and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/News_program and the value is : 1
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Oliver_North and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Fox_News and the value is : 1
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/News and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Fox_Business_Network and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/CNBC and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/News_presenter and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/News_program and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Oliver_North and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Fox_News and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/News and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Fox_Business_Network and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/CNBC and the value is : 0
+http://dbpedia.org/resource/News_presenter and http://dbpedia.org/resource/News_program and the value is : 0
+http://dbpedia.org/resource/News_presenter and http://dbpedia.org/resource/Oliver_North and the value is : 0
+http://dbpedia.org/resource/News_presenter and http://dbpedia.org/resource/Fox_News and the value is : 1
+http://dbpedia.org/resource/News_presenter and http://dbpedia.org/resource/News and the value is : 0
+http://dbpedia.org/resource/News_presenter and http://dbpedia.org/resource/Fox_Business_Network and the value is : 0
+http://dbpedia.org/resource/News_presenter and http://dbpedia.org/resource/CNBC and the value is : 0
+http://dbpedia.org/resource/News_program and http://dbpedia.org/resource/Oliver_North and the value is : 0
+http://dbpedia.org/resource/News_program and http://dbpedia.org/resource/Fox_News and the value is : 0
+http://dbpedia.org/resource/News_program and http://dbpedia.org/resource/News and the value is : 0
+http://dbpedia.org/resource/News_program and http://dbpedia.org/resource/Fox_Business_Network and the value is : 0
+http://dbpedia.org/resource/News_program and http://dbpedia.org/resource/CNBC and the value is : 0
+http://dbpedia.org/resource/Oliver_North and http://dbpedia.org/resource/Fox_News and the value is : 0
+http://dbpedia.org/resource/Oliver_North and http://dbpedia.org/resource/News and the value is : 0
+http://dbpedia.org/resource/Oliver_North and http://dbpedia.org/resource/Fox_Business_Network and the value is : 0
+http://dbpedia.org/resource/Oliver_North and http://dbpedia.org/resource/CNBC and the value is : 0
+http://dbpedia.org/resource/Fox_News and http://dbpedia.org/resource/News and the value is : 0
+http://dbpedia.org/resource/Fox_News and http://dbpedia.org/resource/Fox_Business_Network and the value is : 1
+http://dbpedia.org/resource/Fox_News and http://dbpedia.org/resource/CNBC and the value is : 1
+http://dbpedia.org/resource/News and http://dbpedia.org/resource/Fox_Business_Network and the value is : 0
+http://dbpedia.org/resource/News and http://dbpedia.org/resource/CNBC and the value is : 0
+http://dbpedia.org/resource/Fox_Business_Network and http://dbpedia.org/resource/CNBC and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Relentless_Records and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Political_freedom and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Relentless_Records and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Political_freedom and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Relentless_Records and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Political_freedom and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Relentless_Records and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Political_freedom and the value is : 1
+http://dbpedia.org/resource/Relentless_Records and http://dbpedia.org/resource/Political_freedom and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Politics_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Entrepreneurship and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Television_producer and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Politics_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Entrepreneurship and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Author and the value is : 1
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Television_producer and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Politics_of_the_United_States and http://dbpedia.org/resource/Entrepreneurship and the value is : 0
+http://dbpedia.org/resource/Politics_of_the_United_States and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Politics_of_the_United_States and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Politics_of_the_United_States and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Politics_of_the_United_States and http://dbpedia.org/resource/Television_producer and the value is : 0
+http://dbpedia.org/resource/Politics_of_the_United_States and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Entrepreneurship and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Entrepreneurship and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Entrepreneurship and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Entrepreneurship and http://dbpedia.org/resource/Television_producer and the value is : 0
+http://dbpedia.org/resource/Entrepreneurship and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Radio_personality and the value is : 1
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Television_producer and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Author and the value is : 1
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Television_producer and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Television_producer and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Pundit and the value is : 1
+http://dbpedia.org/resource/Television_producer and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Libertarianism and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Libertarianism and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/CNBC and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/News_presenter and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Columnist and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Fox_News and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/CNBC and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/News_presenter and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Columnist and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Fox_News and the value is : 0
+http://dbpedia.org/resource/CNBC and http://dbpedia.org/resource/News_presenter and the value is : 0
+http://dbpedia.org/resource/CNBC and http://dbpedia.org/resource/Columnist and the value is : 0
+http://dbpedia.org/resource/CNBC and http://dbpedia.org/resource/Fox_News and the value is : 1
+http://dbpedia.org/resource/News_presenter and http://dbpedia.org/resource/Columnist and the value is : 0
+http://dbpedia.org/resource/News_presenter and http://dbpedia.org/resource/Fox_News and the value is : 0
+http://dbpedia.org/resource/Columnist and http://dbpedia.org/resource/Fox_News and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Broadcast_syndication and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Jerry_Doyle and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Psychiatric_hospital and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Broadcast_syndication and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Jerry_Doyle and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Psychiatric_hospital and the value is : 0
+http://dbpedia.org/resource/Broadcast_syndication and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Broadcast_syndication and http://dbpedia.org/resource/Jerry_Doyle and the value is : 0
+http://dbpedia.org/resource/Broadcast_syndication and http://dbpedia.org/resource/Psychiatric_hospital and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Jerry_Doyle and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Psychiatric_hospital and the value is : 0
+http://dbpedia.org/resource/Jerry_Doyle and http://dbpedia.org/resource/Psychiatric_hospital and the value is : 1
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 1
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Fox_News and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Tea_Party_movement and the value is : 1
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Fox_News and the value is : 1
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Tea_Party_movement and the value is : 1
+http://dbpedia.org/resource/Fox_News and http://dbpedia.org/resource/Tea_Party_movement and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Townhall and the value is : 1
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Breitbart_News and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Newsmax and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Las_Vegas_Review-Journal and the value is : 1
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Townhall and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Breitbart_News and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Newsmax and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Las_Vegas_Review-Journal and the value is : 1
+http://dbpedia.org/resource/Conservatism_in_the_United_States and http://dbpedia.org/resource/Townhall and the value is : 0
+http://dbpedia.org/resource/Conservatism_in_the_United_States and http://dbpedia.org/resource/Breitbart_News and the value is : 0
+http://dbpedia.org/resource/Conservatism_in_the_United_States and http://dbpedia.org/resource/Newsmax and the value is : 0
+http://dbpedia.org/resource/Conservatism_in_the_United_States and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Conservatism_in_the_United_States and http://dbpedia.org/resource/Las_Vegas_Review-Journal and the value is : 1
+http://dbpedia.org/resource/Townhall and http://dbpedia.org/resource/Breitbart_News and the value is : 0
+http://dbpedia.org/resource/Townhall and http://dbpedia.org/resource/Newsmax and the value is : 0
+http://dbpedia.org/resource/Townhall and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Townhall and http://dbpedia.org/resource/Las_Vegas_Review-Journal and the value is : 1
+http://dbpedia.org/resource/Breitbart_News and http://dbpedia.org/resource/Newsmax and the value is : 0
+http://dbpedia.org/resource/Breitbart_News and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Breitbart_News and http://dbpedia.org/resource/Las_Vegas_Review-Journal and the value is : 0
+http://dbpedia.org/resource/Newsmax and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Newsmax and http://dbpedia.org/resource/Las_Vegas_Review-Journal and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Las_Vegas_Review-Journal and the value is : 0
+http://dbpedia.org/resource/2008_Libertarian_National_Convention and http://dbpedia.org/resource/Wayne_Allyn_Root and the value is : 0
+http://dbpedia.org/resource/2008_Libertarian_National_Convention and http://dbpedia.org/resource/July_20 and the value is : 1
+http://dbpedia.org/resource/2008_Libertarian_National_Convention and http://dbpedia.org/resource/Ballot_access_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/2008_Libertarian_National_Convention and http://dbpedia.org/resource/Libertarianism and the value is : 0
+http://dbpedia.org/resource/2008_Libertarian_National_Convention and http://dbpedia.org/resource/2008_United_States_presidential_election and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Ballot_access_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Libertarianism and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/2008_United_States_presidential_election and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Ballot_access_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Libertarianism and the value is : 1
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/2008_United_States_presidential_election and the value is : 0
+http://dbpedia.org/resource/Ballot_access_in_the_United_States and http://dbpedia.org/resource/Libertarianism and the value is : 0
+http://dbpedia.org/resource/Ballot_access_in_the_United_States and http://dbpedia.org/resource/2008_United_States_presidential_election and the value is : 0
+http://dbpedia.org/resource/Libertarianism and http://dbpedia.org/resource/2008_United_States_presidential_election and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 1
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Vice_President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Bob_Barr and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Vice_President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Bob_Barr and the value is : 0
+http://dbpedia.org/resource/Vice_President_of_the_United_States and http://dbpedia.org/resource/Bob_Barr and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 1
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Libertarian_National_Committee and the value is : 1
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Libertarian_National_Committee and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Republicanism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Republicanism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Caucus and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/University_of_Washington and the value is : 1
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Caucus and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Conservatism_in_the_United_States and http://dbpedia.org/resource/Caucus and the value is : 0
+http://dbpedia.org/resource/Conservatism_in_the_United_States and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Conservatism_in_the_United_States and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/University_of_Washington and the value is : 1
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/July_20 and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Republicanism_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Wayne_Allyn_Root and http://dbpedia.org/resource/Nevada and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Republicanism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/July_20 and http://dbpedia.org/resource/Nevada and the value is : 0
+http://dbpedia.org/resource/Republicanism_in_the_United_States and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Republicanism_in_the_United_States and http://dbpedia.org/resource/Nevada and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Nevada and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+wayne allyn root born july 20 1961 is an american businessman political commentator television and radio personality author and political candidate. he was the libertarian partys nominee for vice president of the united states in the 2008 presidential election. root is a former anchor of the news program war stories with oliver north on fox news channel and a regular guest on various news programs on fox business cnbc and other networks. he is the host of the nationallysyndicated radio program the wayne allyn root show and the author of several books including the power of relentless 7 secrets to achieving megasuccess financial freedom and the good life. 
+
+Coref Resolved : 
+wayne allyn root born july 20 1961 is an american businessman political commentator television and radio personality author and political candidate. wayne allyn root born july 20 1961 was the libertarian partys nominee for vice president of the united states in the 2008 presidential election. wayne allyn root born july 20 1961 is a former anchor of the news program war stories with oliver north on fox news channel and a regular guest on various news programs on fox business cnbc and other networks. wayne allyn root born july 20 1961 is the host of the nationallysyndicated radio program the wayne allyn root show and the author of several books including the power of relentless 7 secrets to achieving megasuccess financial freedom and the good life.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+wayne allyn root born july 20 1961 is an american politician entrepreneur television and radio personality author television producer and political commentator. he was the 2008 libertarian party lp vicepresidential nominee. root is a former cnbc host and anchorman and a columnist and commentator for foxnews.com. he is a frequent guest on several nationally syndicated radio shows such as savage nation the jerry doyle show and mancows morning madhouse. he makes frequent appearances on various programs on the fox news channel and is a frequent speaker at tea party events across the united states. roots political columns appear on various conservative websites including foxnews.com theblaze.com humanevents.com townhall.com breitbart.com dailycaller.com personalliberty.com newsmax.com as well as the washington times and las vegas review journal. at the 2008 libertarian national convention root was eliminated on the fifth ballot in a bid for the partys presidential nomination. he subsequently became the 2008 lp vice presidential candidate alongside libertarian nominee bob barr. in 2010 root was elected to the libertarian national committee lnc and reelected in 2012. he resigned from that position later that year to rejoin the republican party. he was later named as executive vice chairman of the conservative caucus tcc in washington d.c. root has announced he is exploring a run as a republican for u.s. senate in nevada in 2016. 
+
+Coref Resolved : 
+wayne allyn root born july 20 1961 is an american politician entrepreneur television and radio personality author television producer and political commentator. wayne allyn root born july 20 1961 was the 2008 libertarian party lp vicepresidential nominee. wayne allyn root born july 20 1961 is a former cnbc host and anchorman and a columnist and commentator for foxnews.com. wayne allyn root born july 20 1961 is a frequent guest on several nationally syndicated radio shows such as savage nation the jerry doyle show and mancows morning madhouse. wayne allyn root born july 20 1961 makes frequent appearances on various programs on the fox news channel and is a frequent speaker at tea party events across the united states. wayne allyn root born july 20 1961 political columns appear on various conservative websites including foxnews.comtheblaze.com humanevents.com townhall.com breitbart.com dailycaller.com personalliberty.com newsmax.com as well as the washington times and las vegas review journal. at the 2008 libertarian national convention wayne allyn root born july 20 1961 was eliminated on the fifth ballot in a bid for libertarian party presidential nomination. wayne allyn root born july 20 1961 subsequently became the 2008 lp vice presidential candidate alongside libertarian nominee bob barr. in 2010 wayne allyn root born july 20 1961 was elected to the libertarian national committee lnc and reelected in 2012. wayne allyn root born july 20 1961 resigned from that position later that year to rejoin the republican party. wayne allyn root born july 20 1961 was later named as executive vice chairman of the conservative caucus tcc in washington d.c. wayne allyn root born july 20 1961 has announced wayne allyn root born july 20 1961 is exploring a run as a republican for u.s. senate in nevada in 2016.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1527777777777778 and for ground truth is : 0.16774193548387098
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate 
+

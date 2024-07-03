@@ -1,0 +1,35 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Tokyo and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Honorary_Go_Titles and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Honorary_Go_Titles and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Nihon_Ki-in and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Kansai_region and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Japan_Shogi_Association and the value is : 0
+http://dbpedia.org/resource/Nihon_Ki-in and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Nihon_Ki-in and http://dbpedia.org/resource/Kansai_region and the value is : 0
+http://dbpedia.org/resource/Nihon_Ki-in and http://dbpedia.org/resource/Japan_Shogi_Association and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Kansai_region and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Japan_Shogi_Association and the value is : 0
+http://dbpedia.org/resource/Kansai_region and http://dbpedia.org/resource/Japan_Shogi_Association and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Federation and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Sun and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tetsuzō iwamoto 岩本 哲三 iwamoto tetsuzō october 28 1921 april 28 2018 was a japanese professional go player. he was born in tokyo japan. he was the first professional go player to reach the rank of 9 dan and was the first to be awarded the title of honorary meijin. he was also the first to be awarded the title of honorary kisei. he was a prolific author having written over 100 books on go. he was also a teacher having taught many of the top players in japan. he was a member of the nihon kiin the japanese go association and was the president of the kansai kiin the kansai branch of the nihon kiin. he was also a member of the international go federation. he was awarded the order of the rising sun in 2006. he died in april 2018 at the age of 96. 
+
+Coref Resolved : 
+tetsuzō iwamoto 岩本 哲三 tetsuzō iwamoto october 28 1921 april 28 2018 was a japanese professional go player. tetsuzō iwamoto was born in tokyo japan. tetsuzō iwamoto was the first professional go player to reach the rank of 9 dan and was the first to be awarded the title of honorary meijin. tetsuzō iwamoto was also the first to be awarded the title of honorary kisei. tetsuzō iwamoto was a prolific author having written over 100 books on go. tetsuzō iwamoto was also a teacher having taught many of the top players in japan. tetsuzō iwamoto was a member of the nihon kiin the japanese go association and was the president of the kansai kiin the kansai branch of the nihon kiin the japanese go association . tetsuzō iwamoto was also a member of the international go federation. tetsuzō iwamoto was awarded the order of the rising sun in 2006. tetsuzō iwamoto died in april 2018 at the age of 96.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.05555555555555555
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

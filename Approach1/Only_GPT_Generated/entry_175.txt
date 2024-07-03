@@ -1,0 +1,69 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Outlaw_motorcycle_club and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/San_Bernardino_Mountains and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Outlaw_motorcycle_club and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Outlaw_motorcycle_club and http://dbpedia.org/resource/San_Bernardino_Mountains and the value is : 0
+http://dbpedia.org/resource/Outlaw_motorcycle_club and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Motorcycle and http://dbpedia.org/resource/San_Bernardino_Mountains and the value is : 0
+http://dbpedia.org/resource/Motorcycle and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Bernardino_Mountains and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Illegal_drug_trade and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Extortion and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Murder and the value is : 0
+http://dbpedia.org/resource/Illegal_drug_trade and http://dbpedia.org/resource/Extortion and the value is : 0
+http://dbpedia.org/resource/Illegal_drug_trade and http://dbpedia.org/resource/Murder and the value is : 0
+http://dbpedia.org/resource/Extortion and http://dbpedia.org/resource/Murder and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/College_rivalry and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Hells_Angels and the value is : 0
+http://dbpedia.org/resource/College_rivalry and http://dbpedia.org/resource/Hells_Angels and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/San_Bernardino_Mountains and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Bernardino_Mountains and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Social_club and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Illegal_drug_trade and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Extortion and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Murder and the value is : 0
+http://dbpedia.org/resource/Social_club and http://dbpedia.org/resource/Illegal_drug_trade and the value is : 0
+http://dbpedia.org/resource/Social_club and http://dbpedia.org/resource/Extortion and the value is : 0
+http://dbpedia.org/resource/Social_club and http://dbpedia.org/resource/Murder and the value is : 0
+http://dbpedia.org/resource/Illegal_drug_trade and http://dbpedia.org/resource/Extortion and the value is : 0
+http://dbpedia.org/resource/Illegal_drug_trade and http://dbpedia.org/resource/Murder and the value is : 0
+http://dbpedia.org/resource/Extortion and http://dbpedia.org/resource/Murder and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Mexico and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/College_rivalry and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Hells_Angels and the value is : 0
+http://dbpedia.org/resource/College_rivalry and http://dbpedia.org/resource/Hells_Angels and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Hells_Angels and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Motorcycle and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Shootout and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Laughlin_Air_Force_Base and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Nevada and the value is : 0
+http://dbpedia.org/resource/Hells_Angels and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Hells_Angels and http://dbpedia.org/resource/Shootout and the value is : 0
+http://dbpedia.org/resource/Hells_Angels and http://dbpedia.org/resource/Laughlin_Air_Force_Base and the value is : 0
+http://dbpedia.org/resource/Hells_Angels and http://dbpedia.org/resource/Nevada and the value is : 1
+http://dbpedia.org/resource/Motorcycle and http://dbpedia.org/resource/Shootout and the value is : 0
+http://dbpedia.org/resource/Motorcycle and http://dbpedia.org/resource/Laughlin_Air_Force_Base and the value is : 0
+http://dbpedia.org/resource/Motorcycle and http://dbpedia.org/resource/Nevada and the value is : 0
+http://dbpedia.org/resource/Shootout and http://dbpedia.org/resource/Laughlin_Air_Force_Base and the value is : 1
+http://dbpedia.org/resource/Shootout and http://dbpedia.org/resource/Nevada and the value is : 0
+http://dbpedia.org/resource/Laughlin_Air_Force_Base and http://dbpedia.org/resource/Nevada and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+vagos motorcycle club vagos is an outlaw motorcycle club that was formed in san bernardino california in 1965. the club is known for its involvement in criminal activities such as drug trafficking extortion and murder. the vagos have a presence in the united states mexico and canada and are estimated to have over 2000 members. the club is also known for its rivalry with the hells angels motorcycle club. the vagos motorcycle club was founded in 1965 by a group of mexicanamerican war veterans in san bernardino california. the club was originally formed as a social club for mexicanamerican bikers but soon began to engage in criminal activities such as drug trafficking extortion and murder. the vagos have a presence in the united states mexico and canada and are estimated to have over 2000 members. the club is also known for its rivalry with the hells angels motorcycle club. the vagos have been involved in numerous violent incidents with the hells angels including a shootout in laughlin nevada in 2002. 
+
+Coref Resolved : 
+vagos motorcycle club vagos is an outlaw motorcycle club that was formed in san bernardino california in 1965. vagos is known for vagos involvement in criminal activities such as drug trafficking extortion and murder. vagos have a presence in the united states mexico and canada and are estimated to have over 2000 members. vagos is also known for vagos rivalry with the hells angels motorcycle club. vagos was founded in 1965by a group of mexicanamerican war veterans in san bernardino california . vagos was originally formed as a social club for mexicanamerican bikers but soon began to engage in criminal activities such as drug trafficking extortion and murder. vagos have a presence in the united states mexico and canada and are estimated to have over 2000 members. vagos is also known for vagos rivalry with the hells angels motorcycle club. vagos have been involved in numerous violent incidents with the hells angels motorcycle clubincluding a shootout in laughlin nevada in 2002.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.15384615384615385
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate major_inaccurate accurate accurate minor_inaccurate 
+

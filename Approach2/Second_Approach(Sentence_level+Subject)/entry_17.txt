@@ -1,0 +1,99 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Misfits_(band) and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/The_Unforgiven_(1960_film) and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/The_Mambo_Kings and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Broadway_theatre and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Can-can and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Misfits_(band) and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Clark_Gable and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Marilyn_Monroe and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/The_Unforgiven_(1960_film) and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/The_Mambo_Kings and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/The_Godfather_Part_III and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/The_Rockford_Files and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/The_Waltons and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/The_Golden_Girls and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/NBC and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Glen_Matlock and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Island_Son and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Des_Plaines,_Illinois and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Forest_View_High_School and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Wheaton_College_(Illinois) and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Caitlin_O'Heaney and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Forest_View_High_School and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Des_Plaines_River and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Jack_Harkness and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Martin_Crane and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Wheaton_High_School and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Major_(American_musician) and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Goodman_Theatre and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Paul_Newman and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Tom_Cruise and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Tom_Hanks and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Jackie_Gleason and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Carol Huston (born October 17, 1934) is an American actress, singer, and dancer.
+She is best known for her roles in the films The Misfits (1961), The Unforgiven (1960), and The Mambo Kings (1992).
+Huston began her career as a dancer in the 1950s, performing in Broadway musicals such as Guys and Dolls and Can-Can.
+She made her film debut in The Misfits, starring alongside Clark Gable and Marilyn Monroe.
+She went on to appear in several other films, including The Unforgiven, The Mambo Kings, and The Godfather Part III.
+She has also appeared in television series such as The Rockford Files, The Waltons, and The Golden Girls.
+
+
+Coref Resolved: 
+
+Carol Huston (born October 17, 1934) is an American actress, singer, and dancer.
+Carol Huston is best known for Carol Huston roles in the films The Misfits (1961), The Unforgiven (1960), and The Mambo Kings (1992).
+Carol Huston began Carol Huston career as a dancer in the 1950s, performing in Broadway musicals such as Guys and Dolls and Can-Can.
+Carol Huston made Carol Huston film debut in The Misfits , starring alongside Clark Gable and Marilyn Monroe.
+Carol Huston went on to appear in several other films, including The Unforgiven , The Mambo Kings (1992), and The Godfather Part III.
+Carol Huston has also appeared in television series such as The Rockford Files, The Waltons, and The Golden Girls.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Carol Huston is an American actress, most famous for her roles in the NBC-TV series "Matlock," "The Charmings," and "Island Son.".
+She grew up in Des Plaines, Illinois, and attended Forest View High School and Wheaton College.
+She also appeared in an episode of the TV series "Open and Shut.".
+Huston replaced Caitlin O'Heaney as Snow Charming on "The Charmings" in 1987.
+Huston, who was born in Chicago, attended the famous public Forest View High School in nearby Des Plaines, where she participated in its performing arts program, headed by Dr. Jack Martin and Jerry Swanson.
+She started her early professional training there as a singer and actress.
+She attended Wheaton College as a voice major.
+She also, at the time, performed throughout Chicago as an actor and singer, most notably at the Goodman Theater.
+She appeared with Paul Newman and Tom Cruise in "The Color of Money" (1986), Tom Hanks and Jackie Gleason in "Nothing in Common" (1986).
+Before relocating permanently to the Southern California area.
+ 
+
+Coref Resolved: 
+
+Carol Huston is an American actress, most famous for Carol Huston roles in the NBC-TV series "Matlock," "The Charmings," and "Island Son.".
+Carol Huston grew up in Des Plaines, Illinois, and attended Forest View High School and Wheaton College.
+Carol Huston also appeared in an episode of the TV series "Open and Shut.".
+Carol Huston replaced Caitlin O'Heaney as Snow Charming on The Charmingsin 1987.
+Huston, who was born in Chicago, attended the famous public Forest View High School in nearby Des Plaines, where Carol Huston participated in its performing arts program, headed by Dr. Jack Martin and Jerry Swanson.
+Carol Huston started Carol Huston early professional training there as a singer and actress.
+Carol Huston attended Wheaton Collegeas a voice major.
+Carol Huston also, at the time, performed throughout Chicagoas an actor and singer, most notably at the Goodman Theater.
+Carol Huston appeared with Paul Newman and Tom Cruise in "The Color of Money" (1986), Tom Hanks and Jackie Gleason in "Nothing in Common" (1986).
+Before relocating permanently to the Southern California area.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 0.0 0.0 0.0 0.0 
+
+Value for ground truth is : 
+0.3333333333333333 1.0 -1 1.0 0.2 -1 0.0 0.0 1.0 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

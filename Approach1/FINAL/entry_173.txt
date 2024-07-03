@@ -1,0 +1,101 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Pinus_heldreichii and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Football_player and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Pinus_heldreichii and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Football_player and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Pinus_heldreichii and http://dbpedia.org/resource/Football_player and the value is : 0
+http://dbpedia.org/resource/Pinus_heldreichii and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Pinus_heldreichii and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 0
+http://dbpedia.org/resource/Pinus_heldreichii and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Football_player and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Football_player and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 0
+http://dbpedia.org/resource/Football_player and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Bosnia_and_Herzegovina_Football_Cup and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Bosnia_and_Herzegovina_Football_Cup and the value is : 0
+http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and http://dbpedia.org/resource/Bosnia_and_Herzegovina_Football_Cup and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_football_team and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_football_team and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Pinus_heldreichii and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Balıkesirspor and the value is : 0
+http://dbpedia.org/resource/Pinus_heldreichii and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Pinus_heldreichii and http://dbpedia.org/resource/Balıkesirspor and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Balıkesirspor and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Kelvin and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/FK_Rudar_Kakanj and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Kelvin and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/FK_Rudar_Kakanj and the value is : 0
+http://dbpedia.org/resource/Kelvin and http://dbpedia.org/resource/FK_Rudar_Kakanj and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_football_team and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/SK_Vorwärts_Steyr and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_football_team and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/SK_Vorwärts_Steyr and the value is : 0
+http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_football_team and http://dbpedia.org/resource/SK_Vorwärts_Steyr and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Altay_S.K. and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Turkey and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Altay_S.K. and http://dbpedia.org/resource/Turkey and the value is : 1
+http://dbpedia.org/resource/Altay_S.K. and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Turkey and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_football_team and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/NK_Bosna_Visoko and the value is : 1
+http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_football_team and http://dbpedia.org/resource/NK_Bosna_Visoko and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_football_team and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_football_team and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Turkey and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Süper_Lig and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Gaziantepspor and the value is : 1
+http://dbpedia.org/resource/Turkey and http://dbpedia.org/resource/Süper_Lig and the value is : 1
+http://dbpedia.org/resource/Turkey and http://dbpedia.org/resource/Gaziantepspor and the value is : 1
+http://dbpedia.org/resource/Süper_Lig and http://dbpedia.org/resource/Gaziantepspor and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Pinus_heldreichii and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_football_team and the value is : 1
+http://dbpedia.org/resource/Pinus_heldreichii and http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_football_team and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+kenan hasagić born 28 april 1988 is a bosnian professional footballer who plays as a midfielder for bosnian premier league club željezničar. hasagić started his career at his hometown club željezničar where he made his professional debut in 2006. he has since gone on to make over 200 appearances for the club winning the bosnian premier league title in 2008 and the bosnian cup in 2009. he has also represented bosnia and herzegovina at international level making his debut in 2011. 
+
+Coref Resolved : 
+kenan hasagić born 28 april 1988 is a bosnian professional footballer who plays as a midfielder for bosnian premier league club željezničar. kenan hasagić born 28 april 1988 started kenan hasagić born 28 april 1988 career at kenan hasagić born 28 april 1988 hometown club željezničar where kenan hasagić born 28 april 1988 made kenan hasagić born 28 april 1988 professional debut in 2006. kenan hasagić born 28 april 1988 has since gone on to make over 200 appearances for bosnian premier league club željezničarwinning the bosnian premier league title in 2008 and the bosnian cup in 2009. kenan hasagić born 28 april 1988 has also represented bosnia and herzegovina at international level making kenan hasagić born 28 april 1988 debut in 2011.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+kenan hasagić born 1 february 1980 is a bosnian football goalkeeper who plays for balıkesirspor. his football career began in his hometown with fk rudar. at the age of 16 he made his debut in a first division match. he was the most promising goalkeeper in bosnia and herzegovina he played for youth selections and was later transferred to austrian side vorwärts steyr. after that he was a member of altay sk in turkey but didnt see much first team football. he went back to bosnia and played for bosna visoko. in 2003 he signed a contract with fk željezničar. here he found good form and even became first choice goalkeeper for the bosnian national team. in the 200405 season he moved to turkey once again where he signed for turkish süper lig side gaziantepspor. he made his debut for the national team on 12 february 2003 in a game between wales and bosnia and herzegovina which ended in a 22 draw. 
+
+Coref Resolved : 
+kenan hasagić born 1 february 1980 is a bosnian football goalkeeper who plays for balıkesirspor. kenan hasagić born 1 february 1980 football career began in kenan hasagić born 1 february 1980 hometown with fk rudar. at the age of 16 kenan hasagić born 1 february 1980 made kenan hasagić born 1 february 1980 debut in a first division match. kenan hasagić born 1 february 1980 was the most promising goalkeeper in bosnia and herzegovina kenan hasagić born 1 february 1980 played for youth selections and was later transferred to austrian side vorwärts steyr. after that kenan hasagić born 1 february 1980 was a member of altay sk in turkey but didnt see much first team football. kenan hasagić born 1 february 1980 went back to bosnia and played for bosna visoko. in 2003 kenan hasagić born 1 february 1980 signed a contract with fk željezničar. here kenan hasagić born 1 february 1980 found good form and even became first choice goalkeeper for the bosnian national team. in the 200405 season kenan hasagić born 1 february 1980 moved to turkey once again where kenan hasagić born 1 february 1980 signed for turkish süper lig side gaziantepspor. kenan hasagić born 1 february 1980 made kenan hasagić born 1 february 1980 debut for the bosnian national teamon 12 february 2003 in a game between wales and bosnia and herzegovina which ended in a 22 draw.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3333333333333333 and for ground truth is : 0.525
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

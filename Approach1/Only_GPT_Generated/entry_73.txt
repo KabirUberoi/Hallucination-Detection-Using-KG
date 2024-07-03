@@ -1,0 +1,32 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Pharaoh and the value is : 0
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Eighteenth_Dynasty_of_Egypt and the value is : 0
+http://dbpedia.org/resource/Pharaoh and http://dbpedia.org/resource/Eighteenth_Dynasty_of_Egypt and the value is : 1
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Monarch and the value is : 0
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/History_of_ancient_Egypt and the value is : 0
+http://dbpedia.org/resource/Monarch and http://dbpedia.org/resource/History_of_ancient_Egypt and the value is : 0
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Pharaoh and the value is : 1
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Euphrates and the value is : 1
+http://dbpedia.org/resource/Pharaoh and http://dbpedia.org/resource/Euphrates and the value is : 1
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Nubia and the value is : 1
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Beit and the value is : 1
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/New_Kalabsha and the value is : 1
+http://dbpedia.org/resource/Nubia and http://dbpedia.org/resource/Beit and the value is : 0
+http://dbpedia.org/resource/Nubia and http://dbpedia.org/resource/New_Kalabsha and the value is : 0
+http://dbpedia.org/resource/Beit and http://dbpedia.org/resource/New_Kalabsha and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes in older history works c. 14791425 bc was the sixth pharaoh of the eighteenth dynasty. he is generally regarded as the greatest monarch of the new kingdom of egypt and was one of the most powerful figures in egyptian history. he was a strong and ambitious ruler who reigned for 54 years. he expanded egypts army and wielded it with great success to consolidate the empire created by his predecessors. he conducted a number of successful campaigns in the near east and is generally accepted as the first pharaoh to have crossed the euphrates river. he also led campaigns into nubia commemorated in inscriptions at beit elwali and gerf hussein. 
+
+Coref Resolved : 
+thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes in older history works c. 14791425 bc was the sixth pharaoh of the eighteenth dynasty. thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes is generally regarded as the greatest monarch of the new kingdom of egypt and was one of the most powerful figures in egyptian history. thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes was a strong and ambitious ruler who reigned for 54 years. thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes expanded the new kingdom of egypt army and wielded egypts army with great success to consolidate the empire created by thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes predecessors. thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes conducted a number of successful campaigns in the near east and is generally accepted as the first pharaoh to have crossed the euphrates river. thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes also led campaigns into nubia commemorated in inscriptions at beit elwali and gerf hussein.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.5333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate minor_inaccurate 
+

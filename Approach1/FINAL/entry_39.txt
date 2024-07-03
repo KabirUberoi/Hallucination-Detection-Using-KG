@@ -1,0 +1,128 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Deborah and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Joshua and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Nigerians and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Joshua and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Nigerians and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Songwriter and the value is : 1
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Nigerians and the value is : 1
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Nigerians and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Nigerians and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Album and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Album and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Seyi_Shay and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/2015_Nigeria_Entertainment_Awards and the value is : 0
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/Seyi_Shay and the value is : 0
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/2015_Nigeria_Entertainment_Awards and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/2015_Nigeria_Entertainment_Awards and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Yolo_County,_California and the value is : 1
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Gimme_Love and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Yolo_County,_California and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Gimme_Love and the value is : 0
+http://dbpedia.org/resource/Yolo_County,_California and http://dbpedia.org/resource/Gimme_Love and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Wizkid and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Olamide and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Runtown and the value is : 0
+http://dbpedia.org/resource/Wizkid and http://dbpedia.org/resource/Olamide and the value is : 0
+http://dbpedia.org/resource/Wizkid and http://dbpedia.org/resource/Runtown and the value is : 0
+http://dbpedia.org/resource/Olamide and http://dbpedia.org/resource/Runtown and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Album and the value is : 1
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 1
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Gimme and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Vibraphone and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Gimme and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Vibraphone and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Gimme and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Vibraphone and the value is : 0
+http://dbpedia.org/resource/Gimme and http://dbpedia.org/resource/Vibraphone and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Joshua and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Seyi_Shay and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Musician and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Seyi_Shay and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Musician and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Musician and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Musician and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Joshua and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Soundtrack and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Video_game and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Soundtrack and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Video_game and the value is : 0
+http://dbpedia.org/resource/Soundtrack and http://dbpedia.org/resource/Video_game and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Joshua and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Melanie_Griffith and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Album and the value is : 1
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Beautiful_Intentions and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Melanie_Griffith and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Album and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Beautiful_Intentions and the value is : 0
+http://dbpedia.org/resource/Melanie_Griffith and http://dbpedia.org/resource/Album and the value is : 1
+http://dbpedia.org/resource/Melanie_Griffith and http://dbpedia.org/resource/Beautiful_Intentions and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Beautiful_Intentions and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Joshua and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/White_Lies_(band) and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/White_Lies_(band) and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Joshua and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Girl_group and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Girl_group and the value is : 0
+http://dbpedia.org/resource/Girl_group and http://dbpedia.org/resource/Mathew_Knowles and the value is : 0
+http://dbpedia.org/resource/Girl_group and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Mathew_Knowles and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Joshua and the value is : 1
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Carnegie_Mellon_University_Masters_in_Software_Engineering and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Carnegie_Mellon_University_Masters_in_Software_Engineering and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Joshua and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Ragga and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Carnegie_Mellon_University_Masters_in_Software_Engineering and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Ragga and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Carnegie_Mellon_University_Masters_in_Software_Engineering and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Ragga and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Carnegie_Mellon_University_Masters_in_Software_Engineering and the value is : 0
+http://dbpedia.org/resource/Ragga and http://dbpedia.org/resource/Carnegie_Mellon_University_Masters_in_Software_Engineering and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Telecommunications_service_provider and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Etisalat and the value is : 0
+http://dbpedia.org/resource/Telecommunications_service_provider and http://dbpedia.org/resource/Etisalat and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+seyi shay born deborah oluwaseyi joshua 21 december 1985 is a nigerian singer songwriter and actress. she started her career as a backup singer for various artists and released her debut studio album seyi or shay in 2014. the album spawned the hit single irawo which earned her two nominations at the 2015 nigeria entertainment awards. she has since released several singles including yolo yolo right now and gimme love. she has collaborated with several artists including wizkid olamide and runtown. in 2017 she released her second studio album electric package. the album featured the singles gimme love and weekend vibes. 
+
+Coref Resolved : 
+seyi shay born deborah oluwaseyi joshua 21 december 1985 is a nigerian singer songwriter and actress. seyi shay started seyi shay career as a backup singer for various artists and released seyi shay debut studio album seyi or shay in 2014. her debut studio album seyi or shay spawned the hit single irawo which earned seyi shay two nominations at the 2015 nigeria entertainment awards. seyi shay has since released several singles including yolo yolo right now and gimme love. seyi shay has collaborated with several artists including wizkid olamide and runtown. in 2017 seyi shay released seyi shay second studio album electric package. her second studio album electric packagefeatured the singles gimme loveand weekend vibes.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+deborah oluwaseyi joshua born 21 december 1985 professionally known by her stage name seyi shay pronounced shayyee shay is a nigerianbased english singersongwriter recording artist performer and record producer. she wrote and produced three songs for the soundtrack to konamis video game 2005. she also wrote you will see a song that was included on melanie cs third studio album beautiful intentions 2005. shay wrote white lies a song from chips transition album. in 2008 she became the lead singer for the nowdefunct pop girl group from above. the group signed a recording deal with sonycolumbia and was managed by mathew knowles music world entertainment company. shay is currently working on her debut studio project. she has released the singles irawo ragga ragga and chairman to support the upcoming album. in november 2013 she signed an endorsement deal with telecommunications service provider etisalat. 
+
+Coref Resolved : 
+deborah oluwaseyi joshua born 21 december 1985 professionally known by deborah oluwaseyi joshua stage name seyi shay pronounced shayyee shay is a nigerianbased english singersongwriter recording artist performer and record producer. deborah oluwaseyi joshua wrote and produced three songs for the soundtrack to konamis video game 2005. deborah oluwaseyi joshua also wrote you will see a song that was included on melanie cs third studio album beautiful intentions 2005. deborah oluwaseyi joshua wrote white lies a song from chips transition album. in 2008 deborah oluwaseyi joshua became the lead singer for the nowdefunct pop girl group from above. the nowdefunct pop girl group from abovesigned a recording deal with sonycolumbia and was managed by mathew knowles music world entertainment company. deborah oluwaseyi joshua is currently working on deborah oluwaseyi joshua debut studio project. deborah oluwaseyi joshua has released the singles irawo ragga ragga and chairman to support her debut studio project. in november 2013 deborah oluwaseyi joshua signed an endorsement deal with telecommunications service provider etisalat.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10204081632653061 and for ground truth is : 0.058823529411764705
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate 
+

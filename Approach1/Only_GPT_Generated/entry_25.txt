@@ -1,0 +1,88 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Nobility and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Nobility and the value is : 1
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Nobility and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 1
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Matilda_of_Ringelheim and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Duke and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Duchy_of_Saxony and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 1
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Matilda_of_Ringelheim and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Duke and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Duchy_of_Saxony and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Matilda_of_Ringelheim and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Duke and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Duchy_of_Saxony and the value is : 0
+http://dbpedia.org/resource/Matilda_of_Ringelheim and http://dbpedia.org/resource/Duke and the value is : 0
+http://dbpedia.org/resource/Matilda_of_Ringelheim and http://dbpedia.org/resource/Duchy_of_Saxony and the value is : 0
+http://dbpedia.org/resource/Duke and http://dbpedia.org/resource/Duchy_of_Saxony and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Dietrich_II_of_Isenberg-Limburg and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Dietrich_II_of_Isenberg-Limburg and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Dietrich_II_of_Isenberg-Limburg and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Hohenstaufen and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Kingdom_of_Germany and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Hohenstaufen and the value is : 1
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Kingdom_of_Germany and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Hohenstaufen and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Kingdom_of_Germany and the value is : 0
+http://dbpedia.org/resource/Hohenstaufen and http://dbpedia.org/resource/Kingdom_of_Germany and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 1
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 1
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Göllheim and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Adolf_of_Germany and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Göllheim and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Adolf_of_Germany and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Göllheim and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Adolf_of_Germany and the value is : 0
+http://dbpedia.org/resource/Göllheim and http://dbpedia.org/resource/Adolf_of_Germany and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 1
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Lucka and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Lucka and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Lucka and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Monastery and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Monastery and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Monastery and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Leipzig and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Leipzig and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Leipzig and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Dietrich_III,_Count_of_Cleves and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 1
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Dietrich_III,_Count_of_Cleves and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Dietrich_III,_Count_of_Cleves and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+albert i margrave of meissen c. 1240 13 july 1307 was a german nobleman. he was the eldest son of dietrich i margrave of meissen and his wife matilda daughter of albert i duke of saxony. he succeeded his father in 1260 and ruled jointly with his brother dietrich ii until 1282. albert i was a loyal supporter of the hohenstaufen dynasty and was a close friend of king rudolf i of germany. he fought in the battle of göllheim in 1298 and was present at the coronation of king adolf of germany in 1298. he also took part in the battle of lucka in 1303. albert i was a patron of the arts and sciences and was responsible for the construction of several castles and monasteries in meissen. he also founded the university of leipzig in 1290. he died in 1307 and was succeeded by his son dietrich iii. 
+
+Coref Resolved : 
+albert i margrave of meissen c. 1240 13 july 1307 was a german nobleman. albert i margrave of meissen was the eldest son of dietrich i margrave of meissen and dietrich i margrave of meissen wife matilda daughter of albert i duke of saxony. albert i margrave of meissen succeeded albert i margrave of meissen father in 1260 and ruled jointly with albert i margrave of meissen brother dietrich ii until 1282. albert i margrave of meissen was a loyal supporter of the hohenstaufen dynasty and was a close friend of king rudolf i of germany. albert i margrave of meissen fought in the battle of göllheim in 1298 and was present at the coronation of king adolf of germanyin 1298 . albert i margrave of meissen also took part in the battle of lucka in 1303. albert i margrave of meissen was a patron of the arts and sciences and was responsible for the construction of several castles and monasteries in meissen . albert i margrave of meissen also founded the university of leipzig in 1290. albert i margrave of meissen died in 1307 and was succeeded by albert i margrave of meissen son dietrich iii.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.11267605633802817
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

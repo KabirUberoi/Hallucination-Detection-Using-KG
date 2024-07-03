@@ -1,0 +1,128 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Rugby_league and the value is : 1
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Rugby_league_positions and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Warrington_Wolves and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Rugby_league and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Rugby_league_positions and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Warrington_Wolves and the value is : 0
+http://dbpedia.org/resource/Rugby_league and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Rugby_league and http://dbpedia.org/resource/Rugby_league_positions and the value is : 0
+http://dbpedia.org/resource/Rugby_league and http://dbpedia.org/resource/Warrington_Wolves and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Rugby_league_positions and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Warrington_Wolves and the value is : 0
+http://dbpedia.org/resource/Rugby_league_positions and http://dbpedia.org/resource/Warrington_Wolves and the value is : 1
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Widnes_Vikings and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Salford_Red_Devils and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Wigan_Warriors and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Leigh_Centurions and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Widnes_Vikings and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Salford_Red_Devils and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Wigan_Warriors and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Leigh_Centurions and the value is : 0
+http://dbpedia.org/resource/Widnes_Vikings and http://dbpedia.org/resource/Salford_Red_Devils and the value is : 1
+http://dbpedia.org/resource/Widnes_Vikings and http://dbpedia.org/resource/Wigan_Warriors and the value is : 0
+http://dbpedia.org/resource/Widnes_Vikings and http://dbpedia.org/resource/Loan and the value is : 1
+http://dbpedia.org/resource/Widnes_Vikings and http://dbpedia.org/resource/Leigh_Centurions and the value is : 0
+http://dbpedia.org/resource/Salford_Red_Devils and http://dbpedia.org/resource/Wigan_Warriors and the value is : 0
+http://dbpedia.org/resource/Salford_Red_Devils and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Salford_Red_Devils and http://dbpedia.org/resource/Leigh_Centurions and the value is : 0
+http://dbpedia.org/resource/Wigan_Warriors and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Wigan_Warriors and http://dbpedia.org/resource/Leigh_Centurions and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/Leigh_Centurions and the value is : 1
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Widnes_Vikings and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Widnes_Vikings and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Salford_Red_Devils and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Wigan_Warriors and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Salford_Red_Devils and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Wigan_Warriors and the value is : 1
+http://dbpedia.org/resource/Salford_Red_Devils and http://dbpedia.org/resource/Wigan_Warriors and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Wigan_Warriors and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Warrington_Wolves and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Wigan_Warriors and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Warrington_Wolves and the value is : 0
+http://dbpedia.org/resource/Wigan_Warriors and http://dbpedia.org/resource/Warrington_Wolves and the value is : 1
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/England_national_rugby_league_team and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Rugby_league and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/England_national_rugby_league_team and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Rugby_league and the value is : 0
+http://dbpedia.org/resource/England_national_rugby_league_team and http://dbpedia.org/resource/Rugby_league and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Rugby_league and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Rugby_league and http://dbpedia.org/resource/Great_Britain_national_rugby_league_team and the value is : 1
+http://dbpedia.org/resource/Rugby_league and http://dbpedia.org/resource/Leigh_Centurions and the value is : 0
+http://dbpedia.org/resource/Rugby_league and http://dbpedia.org/resource/Saint_Joseph and the value is : 0
+http://dbpedia.org/resource/Rugby_league and http://dbpedia.org/resource/Joe_Walsh and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Great_Britain_national_rugby_league_team and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Leigh_Centurions and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Saint_Joseph and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Joe_Walsh and the value is : 0
+http://dbpedia.org/resource/Great_Britain_national_rugby_league_team and http://dbpedia.org/resource/Leigh_Centurions and the value is : 1
+http://dbpedia.org/resource/Great_Britain_national_rugby_league_team and http://dbpedia.org/resource/Saint_Joseph and the value is : 0
+http://dbpedia.org/resource/Great_Britain_national_rugby_league_team and http://dbpedia.org/resource/Joe_Walsh and the value is : 1
+http://dbpedia.org/resource/Leigh_Centurions and http://dbpedia.org/resource/Saint_Joseph and the value is : 1
+http://dbpedia.org/resource/Leigh_Centurions and http://dbpedia.org/resource/Joe_Walsh and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/Joe_Walsh and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Rugby_league and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Saddleworth and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Oldham_R.L.F.C. and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Greater_Manchester and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Rishworth_School and the value is : 0
+http://dbpedia.org/resource/Saddleworth and http://dbpedia.org/resource/Oldham_R.L.F.C. and the value is : 0
+http://dbpedia.org/resource/Saddleworth and http://dbpedia.org/resource/Greater_Manchester and the value is : 0
+http://dbpedia.org/resource/Saddleworth and http://dbpedia.org/resource/Rishworth_School and the value is : 0
+http://dbpedia.org/resource/Oldham_R.L.F.C. and http://dbpedia.org/resource/Greater_Manchester and the value is : 0
+http://dbpedia.org/resource/Oldham_R.L.F.C. and http://dbpedia.org/resource/Rishworth_School and the value is : 0
+http://dbpedia.org/resource/Greater_Manchester and http://dbpedia.org/resource/Rishworth_School and the value is : 1
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Huddersfield_Giants and the value is : 1
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Consent and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Rugby_union and the value is : 0
+http://dbpedia.org/resource/Huddersfield_Giants and http://dbpedia.org/resource/Consent and the value is : 0
+http://dbpedia.org/resource/Huddersfield_Giants and http://dbpedia.org/resource/Rugby_union and the value is : 0
+http://dbpedia.org/resource/Consent and http://dbpedia.org/resource/Rugby_union and the value is : 0
+http://dbpedia.org/resource/2009_NFL_season and http://dbpedia.org/resource/Joe_Walsh and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Bradford_Bulls and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Leeds_Rhinos and the value is : 1
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Joe_Walsh and http://dbpedia.org/resource/London_Broncos and the value is : 0
+http://dbpedia.org/resource/Bradford_Bulls and http://dbpedia.org/resource/Leeds_Rhinos and the value is : 0
+http://dbpedia.org/resource/Bradford_Bulls and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Bradford_Bulls and http://dbpedia.org/resource/London_Broncos and the value is : 0
+http://dbpedia.org/resource/Leeds_Rhinos and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Leeds_Rhinos and http://dbpedia.org/resource/London_Broncos and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/London_Broncos and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+joe walsh born 28 april 1988 is an english professional rugby league footballer who plays as a prop for the warrington wolves in the super league. he has previously played for the widnes vikings the salford red devils and the wigan warriors in the super league and on loan from wigan at the leigh centurions in the championship. walsh made his super league début for widnes in 2008 and went on to make over 100 appearances for the club. he joined salford in 2013 and made over 50 appearances for the club before joining wigan in 2015. he made over 50 appearances for the warriors before joining warrington in 2019. walsh has represented england at international level and was part of the england squad that won the 2017 rugby league world cup. 
+
+Coref Resolved : 
+joe walsh born 28 april 1988 is an english professional rugby league footballer who plays as a prop for the warrington wolves in the super league. joe walsh born 28 april 1988 has previously played for the widnes vikings the salford red devils and the wigan warriors in the super leagueand on loan from wigan at the leigh centurions in the championship. joe walsh born 28 april 1988 made joe walsh born 28 april 1988 the super leaguedébut for the widnes vikings in 2008 and went on to make over 100 appearances for the widnes vikings . joe walsh born 28 april 1988 joined the salford red devils in 2013 and made over 50 appearances for the salford red devils before joining wigan in 2015. joe walsh born 28 april 1988 made over 50 appearances for the wigan warriors before joining the warrington wolves in the super leaguein 2019. joe walsh born 28 april 1988 has represented england at international level and was part of the england squad that won the 2017 rugby league world cup.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+for other persons named josephjoe walsh see josephjoe walsh not to be confused with the rugby league footballer of the 1970s for great britain and leigh joseph joe walsh. joe walsh born 25 december 1988 is a professional rugby league player. he was born in saddleworth oldham greater manchester and is a former rishworth school pupil. he recently left huddersfield giants by mutual consent and is currently attracting a lot of attention from rugby union which he played as a youngster gaining representative honours. he is regarded by many as a highly talented youngster with a great future in prospect and has represented england at all ages from u15s to u18s. as a result of some outstanding performances he went on to make his super league debut at the age of 17. he is a ballplaying loose forward who can also slot into the second row. after a great start to the 2009 season he was struck down with a bad shoulder injury and was ruled out for the majority of the campaign. he has previously been with the bradford bulls leeds rhinos and a twoyear loan spell with harlequins rl. 
+
+Coref Resolved : 
+for other persons named josephjoe walsh see josephjoe walsh not to be confused with the rugby league footballer of the 1970s for great britain and leigh joseph joe walsh. joe walsh born 25 december 1988 is a professional rugby league player. joe walsh born 25 december 1988 was born in saddleworth oldham greater manchester and is a former rishworth school pupil. joe walsh born 25 december 1988 recently left huddersfield giants by mutual consent and is currently attracting a lot of attention from rugby union which joe walsh born 25 december 1988 played as a youngster gaining representative honours. joe walsh born 25 december 1988 is regarded by many as a highly talented youngster with a great future in prospect and has represented england at all ages from u15s to u18s. as a result of some outstanding performances joe walsh born 25 december 1988 went on to make joe walsh born 25 december 1988 super league debut at the age of 17. joe walsh born 25 december 1988 is a ballplaying loose forward who can also slot into the second row. after a great start to the 2009 season joe walsh born 25 december 1988 was struck down with a bad shoulder injury and was ruled out for the majority of the 2009 season . joe walsh born 25 december 1988 has previously been with the bradford bulls leeds rhinos and a twoyear loan spell with harlequins rl.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21052631578947367 and for ground truth is : 0.18604651162790697
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

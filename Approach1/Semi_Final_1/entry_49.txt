@@ -1,0 +1,177 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Comedian and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Comedian and the value is : 0
+http://dbpedia.org/resource/Character_actor and http://dbpedia.org/resource/Comedian and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Porridge and the value is : 1
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Porridge and the value is : 1
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Porridge and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Repertory_theatre and the value is : 1
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Police_procedural and the value is : 0
+http://dbpedia.org/resource/Repertory_theatre and http://dbpedia.org/resource/Police_procedural and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/British_sitcom and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/John_Cleese and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/John_Cleese and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/John_Cleese and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/John_Cleese and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/Ronnie_Corbett and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Barker_(occupation) and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/BBC_Television and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/Barker_(occupation) and http://dbpedia.org/resource/BBC_Television and the value is : 0
+http://dbpedia.org/resource/Barker_(occupation) and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/BBC_Television and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/Porridge and http://dbpedia.org/resource/William_George_Barker and the value is : 0
+http://dbpedia.org/resource/Porridge and http://dbpedia.org/resource/British_Academy_Television_Awards and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/British_Academy_Television_Awards and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/British_sitcom and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Porridge and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/Porridge and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Comedian and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Comedian and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Comedian and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Radio_comedy and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Porridge and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Radio_comedy and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Porridge and the value is : 0
+http://dbpedia.org/resource/Radio_comedy and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Radio_comedy and http://dbpedia.org/resource/Porridge and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Porridge and the value is : 1
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Repertory_theatre and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Repertory_theatre and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 1
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Oxford_Playhouse and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Oxford_Playhouse and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/BBC_Radio and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/United_States_Navy and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/BBC_Radio and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/United_States_Navy and the value is : 0
+http://dbpedia.org/resource/BBC_Radio and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/BBC_Radio and http://dbpedia.org/resource/United_States_Navy and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/United_States_Navy and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Satire and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Satire and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Satire and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/Satire and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Production_company and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Short_film and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/David_Beckham and the value is : 1
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Production_company and the value is : 1
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Short_film and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Production_company and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Short_film and the value is : 0
+http://dbpedia.org/resource/Production_company and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Production_company and http://dbpedia.org/resource/Short_film and the value is : 1
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/Short_film and the value is : 0
+http://dbpedia.org/resource/BBC_Television and http://dbpedia.org/resource/George_(band) and the value is : 0
+http://dbpedia.org/resource/BBC_Television and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/BBC_Television and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 1
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/British_sitcom and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Porridge and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Sequel and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/British_sitcom and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Porridge and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Sequel and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/Porridge and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/Sequel and the value is : 0
+http://dbpedia.org/resource/Porridge and http://dbpedia.org/resource/Sequel and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 1
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Radio_comedy and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Pen_name and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Radio_comedy and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Pen_name and the value is : 0
+http://dbpedia.org/resource/Radio_comedy and http://dbpedia.org/resource/Pen_name and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 1
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Light_entertainment and the value is : 1
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Light_entertainment and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts and http://dbpedia.org/resource/Light_entertainment and the value is : 0
+http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 1
+http://dbpedia.org/resource/Light_entertainment and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/British_sitcom and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Godfrey_Evans and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Clarence_(carriage) and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/George_(band) and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/Godfrey_Evans and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/Clarence_(carriage) and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/George_(band) and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/Godfrey_Evans and http://dbpedia.org/resource/Clarence_(carriage) and the value is : 0
+http://dbpedia.org/resource/Godfrey_Evans and http://dbpedia.org/resource/George_(band) and the value is : 0
+http://dbpedia.org/resource/Godfrey_Evans and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/Clarence_(carriage) and http://dbpedia.org/resource/George_(band) and the value is : 0
+http://dbpedia.org/resource/Clarence_(carriage) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Antique and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Antique and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Ronnie_Barker and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Myocardial_infarction and the value is : 0
+http://dbpedia.org/resource/Ronnie_Barker and http://dbpedia.org/resource/Myocardial_infarction and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+ronald william george barker obe 25 september 1929 3 october 2005 was an english actor comedian and writer. he was known for roles in british comedy television series such as porridge the two ronnies and open all hours. barkers acting career began in repertory theatre and in the early 1960s he appeared in several episodes of the bbcs police series zcars. he also had minor roles in films such as the magnificent seven 1960 and the wrong arm of the law 1963. in 1965 he was cast in the lead role of the bbcs sitcom the frost report which also featured john cleese ronnie corbett and other future stars of british comedy. barkers career reached its peak in the 1970s with the bbc sketch show the two ronnies which he cowrote and performed with ronnie corbett. the show ran for 16 years and earned barker two bafta awards. he also starred in the sitcoms porridge 19741977 and open all hours 19731985. b 
+
+Coref Resolved : 
+ronald william george barker obe 25 september 1929 3 october 2005 was an english actor comedian and writer. ronald william george barker was known for roles in british comedy television series such as porridge the two ronnies and open all hours. ronald william george barker acting career began in repertory theatre and in the early 1960s ronald william george barker appeared in several episodes of the bbcs police series zcars. ronald william george barker also had minor roles in films such as the magnificent seven 1960 and the wrong arm of the law 1963. in 1965 ronald william george barker was cast in the lead role of the bbcs sitcom the frost report which also featured john cleese ronnie corbett and other future stars of british comedy. ronald william george barker career reached barkers career peak in the 1970s with the bbc sketch show the two ronnies which ronald william george barker cowrote and performed with ronnie corbett . porridge the two ronnies ran for 16 years and earned ronald william george barker two bafta awards. ronald william george barker also starred in the sitcoms porridge 19741977 and open all hours19731985. b
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+ronald william george ronnie barker 25 september 1929 3 october 2005 was an english actor comedian and writer. he was known for roles in british comedy television series such as porridge the two ronnies and open all hours. barker began acting in repertory theatre and decided he was best suited to comic roles. he had his first success at the oxford playhouse and in roles in the west end including tom stoppards the real inspector hound. during this period he was in the cast of bbc radio and television comedies such as the navy lark. he got his television break with the satirical sketch series the frost report in 1966 where he met future collaborator ronnie corbett. he joined david frosts production company and starred in itv shows including a short film. after rejoining the bbc barker found fame with the sketch show the two ronnies 19711987 with ronnie corbett. he starred in the sitcoms porridge its sequel going straight and open all hours. he wrote comedy under his own name and the pseudonym gerald wiley which barker adopted to avoid prejudgements of his talent. he won a bafta for best light entertainment performance four times among other awards and received an obe in 1978. later television sitcoms such as the magnificent evans and clarence were less successful and he retired in 1987. he opened an antiques shop with his wife joy. after 1999 he appeared in smaller noncomic roles in films. he died of heart failure on 3 october 2005 aged 76. 
+
+Coref Resolved : 
+ronald william george ronnie barker 25 september 1929 3 october 2005 was an english actor comedian and writer. ronald william george ronnie barker was known for roles in british comedy television series such as porridge the two ronnies and open all hours. ronald william george ronnie barker began acting in repertory theatre and decided ronald william george ronnie barker was best suited to comic roles. ronald william george ronnie barker had ronald william george ronnie barker first success at the oxford playhouse and in roles in the west end including tom stoppards the real inspector hound. during this period ronald william george ronnie barker was in the cast of bbc radio and television comedies such as the navy lark. ronald william george ronnie barker got ronald william george ronnie barker television break with the satirical sketch series the frost report in 1966 where ronald william george ronnie barker met future collaborator ronnie corbett. ronald william george ronnie barker joined david frosts production company and starred in itv shows including a short film. after rejoining bbc ronald william george ronnie barker found fame with the sketch show the two ronnies 19711987 with future collaborator ronnie corbett. ronald william george ronnie barker starred in the sitcoms porridge its sequel going straight and open all hours. ronald william george ronnie barker wrote comedy under ronald william george ronnie barker own name and the pseudonym gerald wiley which ronald william george ronnie barker adopted to avoid prejudgements of ronald william george ronnie barker talent. ronald william george ronnie barker won a bafta for best light entertainment performance four times among other awards and received an obe in 1978. later television sitcoms such as the magnificent evans and clarence were less successful and ronald william george ronnie barker retired in 1987. ronald william george ronnie barker opened an antiques shop with ronald william george ronnie barker wife joy. after 1999 ronald william george ronnie barker appeared in smaller noncomic roles in films. ronald william george ronnie barker died of heart failure on 3 october 2005 aged 76.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10526315789473684 and for ground truth is : 0.12612612612612611
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate accurate accurate accurate minor_inaccurate 
+

@@ -1,0 +1,60 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Screenwriter and the value is : 1
+http://dbpedia.org/resource/Playwright and http://dbpedia.org/resource/Screenwriter and the value is : 1
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/The_Laramie_Project and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Vocational_university and the value is : 0
+http://dbpedia.org/resource/The_Laramie_Project and http://dbpedia.org/resource/Vocational_university and the value is : 1
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Caracas and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Venezuela and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Children's_film and the value is : 0
+http://dbpedia.org/resource/Caracas and http://dbpedia.org/resource/Venezuela and the value is : 1
+http://dbpedia.org/resource/Caracas and http://dbpedia.org/resource/Children's_film and the value is : 0
+http://dbpedia.org/resource/Venezuela and http://dbpedia.org/resource/Children's_film and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Performing_arts and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Performing_arts and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Performing_arts and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Tish_(Hasidic_celebration) and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Tish_(Hasidic_celebration) and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Artistic_director and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Tectonic_Theater_Project and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Language and the value is : 0
+http://dbpedia.org/resource/Artistic_director and http://dbpedia.org/resource/Tectonic_Theater_Project and the value is : 0
+http://dbpedia.org/resource/Artistic_director and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/Artistic_director and http://dbpedia.org/resource/Language and the value is : 0
+http://dbpedia.org/resource/Tectonic_Theater_Project and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/Tectonic_Theater_Project and http://dbpedia.org/resource/Language and the value is : 1
+http://dbpedia.org/resource/Theatre and http://dbpedia.org/resource/Language and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Morality and the value is : 1
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Oscar_Wilde and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/33_Variations and the value is : 1
+http://dbpedia.org/resource/Morality and http://dbpedia.org/resource/Oscar_Wilde and the value is : 0
+http://dbpedia.org/resource/Morality and http://dbpedia.org/resource/33_Variations and the value is : 1
+http://dbpedia.org/resource/Oscar_Wilde and http://dbpedia.org/resource/33_Variations and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/The_Laramie_Project and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Vocational_university and the value is : 0
+http://dbpedia.org/resource/Moisés_Kaufman and http://dbpedia.org/resource/Rachel_Corrie and the value is : 0
+http://dbpedia.org/resource/The_Laramie_Project and http://dbpedia.org/resource/Vocational_university and the value is : 0
+http://dbpedia.org/resource/The_Laramie_Project and http://dbpedia.org/resource/Rachel_Corrie and the value is : 0
+http://dbpedia.org/resource/Vocational_university and http://dbpedia.org/resource/Rachel_Corrie and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+moisés kaufman born november 21 1963 is a venezuelanamerican director playwright and screenwriter. he is best known for his play the laramie project which was adapted into an hbo movie. kaufman was born in caracas venezuela to a jewish family. he moved to the united states in 1977 and attended the high school of performing arts in new york city. he graduated from new york universitys tisch school of the arts in 1985. kaufman is the founder and artistic director of tectonic theater project a new yorkbased theater company dedicated to developing innovative works that explore theatrical language and form foster an artistic dialogue with the social issues of our time and embrace the exploration of new ideas. he has written and directed numerous plays including gross indecency the three trials of oscar wilde 33 variations and i am my own wife. he has also written and directed several films including the laramie project the laramie project ten years later and my name is rachel corrie. 
+
+Coref Resolved : 
+moisés kaufman born november 21 1963 is a venezuelanamerican director playwright and screenwriter. moisés kaufman born november 21 1963 is best known for moisés kaufman born november 21 1963 play the laramie project which was adapted into an hbo movie. moisés kaufman born november 21 1963 was born in caracas venezuela to a jewish family. moisés kaufman born november 21 1963 moved to the united states in 1977 and attended the high school of performing arts in new york city. moisés kaufman born november 21 1963 graduated from new york universitys tisch school of the arts in 1985. moisés kaufman born november 21 1963 is the founder and artistic director of tectonic theater project a new yorkbased theater company dedicated to developing innovative works that explore theatrical language and form foster an artistic dialogue with the social issues of our time and embrace the exploration of new ideas. moisés kaufman born november 21 1963 has written and directed numerous plays including gross indecency the three trials of oscar wilde 33 variations and i am moisés kaufman born november 21 1963 own wife. moisés kaufman born november 21 1963 has also written and directed several films including his play the laramie project which was adapted into an hbo moviethe laramie project ten years later and my name is rachel corrie.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2558139534883721
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate major_inaccurate accurate accurate accurate minor_inaccurate 
+

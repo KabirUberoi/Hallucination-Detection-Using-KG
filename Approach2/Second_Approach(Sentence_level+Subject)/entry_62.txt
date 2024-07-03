@@ -1,0 +1,122 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/France and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Spain and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Club_Valencia_(Maldives) and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Center_fielder and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/France_national_football_team and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/RC_Strasbourg_Alsace and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/FC_Lorient and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/FC_Lorient and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Paris_Saint-Germain_F.C. and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Paris_Saint-Germain_F.C. and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Ligue_1 and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Sevilla_FC and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/UEFA_Europa_League and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/BM_Neptuno and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Spain and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Club_Valencia_(Maldives) and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Center_fielder and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/France_national_football_team and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/France and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/UEFA_Euro_2016 and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/France and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Spanish_language and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Sevilla_FC and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Midfielder and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Dribbling and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Oise and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Marly-la-Ville and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/US_Chantilly and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Alsace and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/RC_Strasbourg_Alsace and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/UEFA_Europa_League and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/RC_Strasbourg_Alsace and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/RC_Strasbourg_Alsace and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/FC_Lorient and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/FC_Lorient and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Ligue_1 and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/France_national_youth_football_team and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/2007_Toulon_Tournament and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Hat-trick and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/SC_Toulon and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/SC_Toulon and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Belarus_national_football_team and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Kévin Gameiro (born 9 May 1987) is a French professional footballer who plays as a striker for Spanish club Valencia CF and the France national team.
+He began his career at Strasbourg, before moving to Lorient in 2008.
+After two successful seasons at Lorient, he joined Paris Saint-Germain in 2011.
+He spent three seasons at the club, winning the Ligue 1 title in 2013.
+In 2014, he joined Sevilla, where he won the UEFA Europa League in 2015 and 2016.
+In 2017, he joined Atlético Madrid, before moving to Valencia in 2018.
+Gameiro has represented France at various youth levels, and made his senior international debut in 2010.
+He was part of the French squad that reached the final of UEFA Euro 2016.
+
+
+Coref Resolved: 
+
+Kévin Gameiro (born 9 May 1987) is a French professional footballer who plays as a striker for Spanish club Valencia CF and the France national team.
+Kévin Gameiro began Kévin Gameiro career at Strasbourg, before moving to Lorient in 2008.
+After two successful seasons at Lorient , Kévin Gameiro joined Paris Saint-Germain in 2011.
+Kévin Gameiro spent three seasons at Paris Saint-Germain , winning the Ligue 1 title in 2013.
+In 2014, Kévin Gameiro joined Sevilla, where Kévin Gameiro won the UEFA Europa League in 2015 and 2016.
+In 2017, Kévin Gameiro joined Atlético Madrid, before moving to Spanish club Valencia CF in 2018.
+Kévin Gameiro has represented France at various youth levels, and made Kévin Gameiro senior international debut in 2010.
+Kévin Gameiro was part of the French squad that reached the final of UEFA Euro 2016.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Kevin Gameiro (born 9 May 1987) is a French footballer who plays for Spanish club Sevilla FC, mainly as a forward but also as a right winger.
+He is described as "a fast, energetic player with good dribbling abilities", which compensates for his relatively light frame. .
+Gameiro began his football career playing for clubs along the Oise such as Marly-la-Ville and Chantilly.
+In 2004, he moved to the Alsace region to join professional club RC Strasbourg.
+He made his professional debut in the 2004 05 season and appeared in the UEFA Cup with Strasbourg.
+After three seasons with the club, in August 2008, Gameiro signed a four-year deal with FC Lorient.
+With Lorient, he finished his first two seasons with the club as top scorer.
+In the 2009 10 season, Gameiro contributed to the team that achieved a 7th place finish the club's highest finish in Ligue 1 ever. .
+Gameiro is a former France youth international having earned caps at under-18, under-20, and.
+under-21 level.
+At under-20 level, he played on the team that won the 2007 edition of the Toulon Tournament.
+Gameiro scored a hat trick in the final and finished the competition as its top scorer.
+In August 2010, he was called up to the senior team for the first time and made his senior international debut on 3 September 2010 in a match against Belarus.
+ 
+
+Coref Resolved: 
+
+Kevin Gameiro (born 9 May 1987) is a French footballer who plays for Spanish club Sevilla FC, mainly as a forward but also as a right winger.
+Kevin Gameiro is described as "a fast, energetic player with good dribbling abilities", which compensates for Kevin Gameiro relatively light frame. .
+Kevin Gameiro began Kevin Gameiro football career playing for clubs along the Oise such as Marly-la-Ville and Chantilly.
+In 2004, Kevin Gameiro moved to the Alsace region to join professional club RC Strasbourg.
+Kevin Gameiro made Kevin Gameiro professional debut in the 2004 05 season and appeared in the UEFA Cup with professional club RC Strasbourg.
+After three seasons with professional club RC Strasbourg, in August 2008, Kevin Gameiro signed a four-year deal with FC Lorient.
+With FC Lorient, Kevin Gameiro finished Kevin Gameiro first two seasons with FC Lorientas top scorer.
+In the 2009 10 season, Kevin Gameiro contributed to the team that achieved a 7th place finish FC Lorienthighest finish in Ligue 1 ever. .
+Kevin Gameiro is a former France youth international having earned caps at under-18, under-20, and.
+under-21 level.
+At under-20 level, Kevin Gameiro played on the team that won the 2007 edition of the Toulon Tournament.
+Kevin Gameiro scored a hat trick in the final and finished the 2007 edition of the Toulon Tournamentas the 2007 edition of the Toulon Tournamenttop scorer.
+In August 2010, Kevin Gameiro was called up to the senior team for the first time and made Kevin Gameiro senior international debut on 3 September 2010 in a match against Belarus.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.42857142857142855 1.0 1.0 1.0 1.0 0.0 1.0 0.0 
+
+Value for ground truth is : 
+0.6 0.0 0.5 1.0 1.0 1.0 1.0 1.0 1.0 -1 1.0 0.0 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate 
+

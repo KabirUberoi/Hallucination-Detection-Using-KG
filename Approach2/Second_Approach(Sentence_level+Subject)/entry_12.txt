@@ -1,0 +1,99 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Stearns-Knight and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Stearns-Knight and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Stearns-Knight and http://dbpedia.org/resource/Marcus_Whitman and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Carter Henry Harrison Sr.
+(August 15, 1825 October 28, 1893) was an American politician who served five terms as the mayor of Chicago, Illinois, from 1879 to 1887 and again from 1889 to 1893.
+He was the son of the city's first mayor, Carter Henry Harrison I. Harrison was a Democrat and a strong supporter of labor unions.
+He was assassinated by a disgruntled office seeker in 1893.
+Harrison was born in Lexington, Kentucky, and moved to Chicago in 1853.
+He was elected to the Illinois House of Representatives in 1864 and served until 1872.
+He was elected mayor of Chicago in 1879 and served until 1887.
+During his tenure, he was a strong advocate for labor unions and was instrumental in the passage of the Eight-Hour Law in 1885.
+He was re-elected in 1889 and served until his assassination in 1893.
+He was a popular mayor and was known for his support of the working class.
+He was also a strong advocate for civil rights and was a vocal opponent of the city's corrupt political machine.
+He was assassinated by a disgruntled office seeker in 1893.
+
+
+Coref Resolved: 
+
+Carter Henry Harrison Sr.
+(August 15, 1825 October 28, 1893) was an American politician who served five terms as the mayor of Chicago, Illinois, from 1879 to 1887 and again from 1889 to 1893.
+Carter Henry Harrison Sr.
+was the son of Chicago, Illinoisfirst mayor, Carter Henry Harrison I. Carter Henry Harrison Sr.
+was a Democrat and a strong supporter of labor unions.
+Carter Henry Harrison Sr.
+was assassinated by a disgruntled office seeker in 1893.
+Carter Henry Harrison Sr.
+was born in Lexington, Kentucky, and moved to Chicago, Illinoisin 1853.
+Carter Henry Harrison Sr.
+was elected to the Illinois House of Representatives in 1864 and served until 1872.
+Carter Henry Harrison Sr.
+was elected mayor of Chicago, Illinoisin 1879 and served until 1887 .
+During Carter Henry Harrison Sr.
+tenure, Carter Henry Harrison Sr.
+was a strong advocate for labor unions and was instrumental in the passage of the Eight-Hour Law in 1885.
+Carter Henry Harrison Sr.
+was re-elected in 1889 and served until Carter Henry Harrison Sr.
+assassination in 1893.
+Carter Henry Harrison Sr.
+was a popular mayor and was known for Carter Henry Harrison Sr.
+support of the working class.
+Carter Henry Harrison Sr.
+was also a strong advocate for civil rights and was a vocal opponent of Chicago, Illinoiscorrupt political machine.
+Carter Henry Harrison Sr.
+was assassinated by a disgruntled office seeker in 1893.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) was an American politician who served as Mayor of Chicago, Illinois from 1879 until 1887 he was subsequently elected to a fifth term in 1893 but was assassinated before completing his term.
+He had previously served two terms in the United States House of Representatives.
+Harrison was the first cousin twice removed of President William Henry Harrison.
+Born near Lexington, Kentucky to Carter Henry Harrison II and Caroline Russell, he was only a few months old when his father died.
+He was educated by private tutors, and was graduated from Yale College in 1845 as a member of Scroll and Key.
+Following graduation, he traveled and studied in Europe from 1851 to 1853 before entering Transylvania College in Lexington, where he earned a law degree in 1855.
+He was admitted to the bar in 1855 and commenced practice in Chicago Harrison came to Chicago because he saw it as a land of opportunity.
+Harrison ran an unsuccessful campaign in 1872 for election to the Forty-third Congress.
+Beginning in 1874, he served as a member of the Board of Commissioners of Cook County.
+He was elected as a Democrat to the Forty-fourth and Forty-fifth Congresses, and delegate to the 1880 and 1884 Democratic National Conventions.
+Harrison married Margarette (or Margaret) E. Stearns in 1882, following the death of his first wife in 1876.
+She was the daughter of Chicago pioneer Marcus C. Stearns.
+ 
+
+Coref Resolved: 
+
+Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) was an American politician who served as Mayor of Chicago, Illinois from 1879 until 1887 Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) was subsequently elected to a fifth term in 1893 but was assassinated before completing Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) term.
+Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) had previously served two terms in the United States House of Representatives.
+Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) was the first cousin twice removed of President William Henry Harrison.
+Born near Lexington, Kentucky to Carter Henry Harrison II and Caroline Russell, Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) was only a few months old when Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) father died.
+Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) was educated by private tutors, and was graduationfrom Yale College in 1845 as a member of Scroll and Key.
+Following graduation, Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) traveled and studied in Europe from 1851 to 1853 before entering Transylvania College in Lexington, Kentucky , where Carter Henry Harrison Sr.(February 15, 1825 October 28, 1893) earned a law degree in 1855.
+Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) was admitted to the bar in 1855and commenced practice in Chicago, Illinois Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) came to Chicago, Illinois because Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) saw Chicago, Illinois as a land of opportunity.
+Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) ran an unsuccessful campaign in 1872 for election to the Forty-third Congress.
+Beginning in 1874, Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) served as a member of the Board of Commissioners of Cook County.
+Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) was elected as a Democrat to the Forty-fourth and Forty-fifth Congresses, and delegate to the 1880 and 1884 Democratic National Conventions.
+Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) married Margarette (or Margaret) E. Stearns in 1882, following the death of Carter Henry Harrison Sr. (February 15, 1825 October 28, 1893) first wife in 1876.
+Margarette (or Margaret) E. Stearns was the daughter of Chicago, Illinois pioneer Marcus C. Stearns.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate accurate minor_inaccurate accurate 
+

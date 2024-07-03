@@ -1,0 +1,178 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Dolores_Hidalgo and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Bassist and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/The_Cranberries and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Dolores_Hidalgo and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Bassist and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/The_Cranberries and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Dolores_Hidalgo and http://dbpedia.org/resource/Bassist and the value is : 0
+http://dbpedia.org/resource/Dolores_Hidalgo and http://dbpedia.org/resource/The_Cranberries and the value is : 0
+http://dbpedia.org/resource/Dolores_Hidalgo and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Bassist and http://dbpedia.org/resource/The_Cranberries and the value is : 0
+http://dbpedia.org/resource/Bassist and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/The_Cranberries and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Nucleotide and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Single_skating and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Nucleotide and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Single_skating and the value is : 0
+http://dbpedia.org/resource/Nucleotide and http://dbpedia.org/resource/Single_skating and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Hatchet and http://dbpedia.org/resource/Coffee and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Wiki and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Mono_Band and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Wiki and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Mono_Band and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Mono_Band and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Mono_Band and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Cranberry and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Moyross and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Limerick and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Moyross and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Limerick and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Limerick and the value is : 0
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Cranberry and the value is : 1
+http://dbpedia.org/resource/Limerick and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Limerick and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Limerick and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Guitarist and the value is : 1
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Wiki and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Dolores_Hidalgo and the value is : 0
+http://dbpedia.org/resource/Mono_Band and http://dbpedia.org/resource/Wiki and the value is : 0
+http://dbpedia.org/resource/Mono_Band and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Slick_Rick and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Alexandra_of_Denmark and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Kate_Havnevik and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Wiki and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Stephen_Street and the value is : 1
+http://dbpedia.org/resource/Slick_Rick and http://dbpedia.org/resource/Alexandra_of_Denmark and the value is : 0
+http://dbpedia.org/resource/Slick_Rick and http://dbpedia.org/resource/Kate_Havnevik and the value is : 0
+http://dbpedia.org/resource/Slick_Rick and http://dbpedia.org/resource/Wiki and the value is : 0
+http://dbpedia.org/resource/Slick_Rick and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Slick_Rick and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Slick_Rick and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Slick_Rick and http://dbpedia.org/resource/Stephen_Street and the value is : 0
+http://dbpedia.org/resource/Alexandra_of_Denmark and http://dbpedia.org/resource/Kate_Havnevik and the value is : 0
+http://dbpedia.org/resource/Alexandra_of_Denmark and http://dbpedia.org/resource/Wiki and the value is : 0
+http://dbpedia.org/resource/Alexandra_of_Denmark and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Alexandra_of_Denmark and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Alexandra_of_Denmark and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Alexandra_of_Denmark and http://dbpedia.org/resource/Stephen_Street and the value is : 0
+http://dbpedia.org/resource/Kate_Havnevik and http://dbpedia.org/resource/Wiki and the value is : 0
+http://dbpedia.org/resource/Kate_Havnevik and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Kate_Havnevik and http://dbpedia.org/resource/Cranberry and the value is : 1
+http://dbpedia.org/resource/Kate_Havnevik and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Kate_Havnevik and http://dbpedia.org/resource/Stephen_Street and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Stephen_Street and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Record_producer and the value is : 1
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Stephen_Street and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Stephen_Street and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Stephen_Street and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Hogan and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Mono_Band and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Slick_Rick and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Mono_Band and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Slick_Rick and the value is : 0
+http://dbpedia.org/resource/Mono_Band and http://dbpedia.org/resource/Slick_Rick and the value is : 0
+http://dbpedia.org/resource/Independent_music and http://dbpedia.org/resource/Cranberry and the value is : 0
+http://dbpedia.org/resource/Independent_music and http://dbpedia.org/resource/Gohan and the value is : 0
+http://dbpedia.org/resource/Independent_music and http://dbpedia.org/resource/Fairwood_(restaurant) and the value is : 0
+http://dbpedia.org/resource/Independent_music and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Gohan and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Fairwood_(restaurant) and the value is : 0
+http://dbpedia.org/resource/Cranberry and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Gohan and http://dbpedia.org/resource/Fairwood_(restaurant) and the value is : 0
+http://dbpedia.org/resource/Gohan and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Fairwood_(restaurant) and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Hogan and the value is : 1
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Limerick and the value is : 0
+http://dbpedia.org/resource/Wiki and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Limerick and the value is : 0
+http://dbpedia.org/resource/Hogan and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Limerick and the value is : 0
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Limerick and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Gohan and http://dbpedia.org/resource/Limerick and the value is : 0
+http://dbpedia.org/resource/Gohan and http://dbpedia.org/resource/Ireland_Live and the value is : 0
+http://dbpedia.org/resource/Gohan and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Gohan and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Limerick and http://dbpedia.org/resource/Ireland_Live and the value is : 0
+http://dbpedia.org/resource/Limerick and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Limerick and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Ireland_Live and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Ireland_Live and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Music_industry and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+noel anthony hogan born 25 december 1971 irish musician singersongwriter record producer . best known lead guitarist cosongwriter alternative rock band cranberries . hogan formed band 1989 vocalist dolores oriordan bassist mike hogan drummer fergal lawler . band achieved international success 1990s debut album everybody nt hit singles linger zombie . hogan wrote cowrote majority bands material including biggest hits . produced bands albums bury hatchet 1999 wake smell coffee 2001 . cranberries disbanded 2003 hogan formed band mono band released albums mono band 2005 mono band 2 2008 . released solo albums sky road 2009 songs 2013 . hogan produced albums artists including cranberries 2017 noel gallaghers high 
+
+Coref Resolved : 
+noel anthony hogan born 25 december 1971 irish musician singersongwriter record producer . best known lead guitarist cosongwriter alternative rock band cranberries . noel anthony hogan formed band 1989 vocalist dolores oriordan bassist mike hogan drummer fergal lawler . alternative rock band cranberries achieved international success 1990s debut album everybody nt hit singles linger zombie . noel anthony hogan wrote cowrote majority bands material including biggest hits . produced bands albums bury hatchet 1999 wake smell coffee 2001 . alternative rock band cranberries disbanded 2003 noel anthony hogan formed band mono band released albums mono band 2005 mono band 2 2008 . released solo albums sky road 2009 songs 2013 . noel anthony hogan produced albums artists including alternative rock band cranberries 2017 noel gallaghers high
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+noel anthony hogan born 25 december 1971 moyross limerick ireland current guitarist cosongwriter recent tracks cranberries . cranberries hiatus 2003 2009 hogan turned focus music . began working programmer matt vaughan work unreleased cranberries songs dolores oriordans solo material . mono band born noel sole band member . vocals supplied richard walters alexandra hamnede kate havnevik guest artists noel worked cranberries veteran producer stephen street compile mix tracks . working project time saw resulting debut album mono band released 20 2005 . hogan mono band vocalist richard walters went form arkitekt . arkitekt released eps time 2009 . working new material hogans work independent cranberries released label gohan records published fairwood music uk ltd . world . hogan producing bands local music scene limerick . gohan records recently released collaboration limerick live 95fms green live tonelist collection featuring betterknown upandcoming musicians limerick music scene . 
+
+Coref Resolved : 
+noel anthony hogan born 25 december 1971 moyross limerick ireland current guitarist cosongwriter recent tracks cranberries . cranberries hiatus 2003 2009 noel anthony hogan turned focus music . began working programmer matt vaughan work unreleased cranberries songs dolores oriordans solo material . mono band born noel anthony hogan sole band member . vocals supplied richard walters alexandra hamnede kate havnevik guest artists noel anthony hogan worked cranberries veteran producer stephen street compile mix tracks . working project time saw resulting debut album mono band released 20 2005 . noel anthony hogan mono band vocalist richard walters went form arkitekt . arkitekt released eps time 2009 . working new material hogans work independent cranberries released label gohan records published fairwood music uk ltd . world . noel anthony hogan producing bands local music scene limerick ireland . gohan records recently released collaboration limerick ireland live 95fms green live tonelist collection featuring betterknown upandcoming musicians limerick ireland music scene .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0 and for ground truth is : 0.06796116504854369
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate accurate accurate minor_inaccurate major_inaccurate accurate 
+

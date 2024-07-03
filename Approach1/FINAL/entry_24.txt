@@ -1,0 +1,206 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/The_Donnas and the value is : 1
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/The_Donnas and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco_Bay_Area and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/San_Francisco_Bay_Area and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/San_Francisco_Bay_Area and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Charity_supergroup and the value is : 0
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Punk_rock and the value is : 1
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Charity_supergroup and the value is : 0
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/Charity_supergroup and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Ellis_Paul_Torrance and http://dbpedia.org/resource/Torry_Castellano and the value is : 1
+http://dbpedia.org/resource/Ellis_Paul_Torrance and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Ellis_Paul_Torrance and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Ellis_Paul_Torrance and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Ellis_Paul_Torrance and http://dbpedia.org/resource/The_Donnas and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/The_Donnas and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/The_Donnas and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Laura_San_Giacomo and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Laura_San_Giacomo and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Laura_San_Giacomo and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Laura_San_Giacomo and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Battle_of_Palo_Alto and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Battle_of_Palo_Alto and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Battle_of_Palo_Alto and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Allison_Robertson and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Allison_Robertson and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Allison_Robertson and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/Allison_Robertson and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/Torry_Castellano and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/Garage_rock and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Garage_rock and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Garage_rock and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Garage_rock and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/Torry_Castellano and the value is : 1
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/Tendinopathy and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Torry_Castellano and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Tendinopathy and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Tendinopathy and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Tendinopathy and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Tendinopathy and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Surgery and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Tendinopathy and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Surgery and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Tendinopathy and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Surgery and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Tendinopathy and the value is : 1
+http://dbpedia.org/resource/Surgery and http://dbpedia.org/resource/Tendinopathy and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Drum_stick and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Drum_stick and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Drum_stick and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Drum_stick and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/Gold_medal and the value is : 1
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/Torry_Castellano and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Torry_Castellano and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/December_27 and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Los_Angeles_Angels and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/December_27 and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Los_Angeles_Angels and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/December_27 and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Los_Angeles_Angels and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/December_27 and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/Los_Angeles_Angels and the value is : 0
+http://dbpedia.org/resource/December_27 and http://dbpedia.org/resource/Los_Angeles_Angels and the value is : 0
+http://dbpedia.org/resource/July_9 and http://dbpedia.org/resource/Torry_Castellano and the value is : 0
+http://dbpedia.org/resource/July_9 and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/July_9 and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/July_9 and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Greatest_hits_album and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Greatest_hits_album and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/The_Donnas and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Greatest_hits_album and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/Greatest_hits_album and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Santa_Monica_Boulevard and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Political_science and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Santa_Monica_Boulevard and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Political_science and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Santa_Monica_Boulevard and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Stanford_University and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Political_science and the value is : 1
+http://dbpedia.org/resource/Santa_Monica_Boulevard and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/Santa_Monica_Boulevard and http://dbpedia.org/resource/Political_science and the value is : 0
+http://dbpedia.org/resource/Stanford_University and http://dbpedia.org/resource/Political_science and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Harvard_Law_School and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Stanford_University and the value is : 1
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Harvard_Law_School and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Harvard_Law_School and the value is : 0
+http://dbpedia.org/resource/Stanford_University and http://dbpedia.org/resource/Harvard_Law_School and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+torry castellano born august 21 1979 is an american musician best known as the drummer for the punk rock band the donnas. she was born in los angeles california and grew up in the san francisco bay area. castellano began playing drums at the age of 11 and joined the donnas in 1993 when she was 14. she has been the bands drummer ever since. castellano has also been involved in other musical projects including the allfemale punk band the frustrators and the punk rock supergroup the coverups. she has also done session work for other bands including the eyeliners and the dollyrots. 
+
+Coref Resolved : 
+torry castellano born august 21 1979 is an american musician best known as the drummer for the punk rock band the donnas. torry castellano born august 21 1979 was born in los angeles california and grew up in the san francisco bay area. torry castellano born august 21 1979 began playing drums at the age of 11 and joined the punk rock band the donnasin 1993 when torry castellano born august 21 1979 was 14. torry castellano born august 21 1979 has been the punk rock band the donnasdrummer ever since. torry castellano born august 21 1979 has also been involved in other musical projects including the allfemale punk band the frustrators and the punk rock supergroup the coverups. torry castellano born august 21 1979 has also done session work for other bands including the eyeliners and the dollyrots.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+torrance heather torry castellano born january 8 1979 in san francisco california is the former drummer of the donnas announcing her retirement in july 2010. she is the cousin of actress laura san giacomo. early in her childhood she moved to palo alto california where she met her bandmates. she was asked to be part of the band by allison robertson and agreed even though she did not have any experience. the band rehearsed every day in her garage. before the release of the donnas album gold medal castellano developed tendonitis. in october 2003 she had surgery for it. during her recovery she had to take drum lessons to relearn to hold drumsticks the correct way. for gold medal she recorded with her recovering wrists but could only play for short periods of time. a shoulder problem forced castellano to withdraw from the donnas tour following a show on december 27 2008 at the house of blues in anaheim ca. amy cesari of the band the demonics filled in on future tour dates. on july 9 2010 castellano announced on the bands website that due to her shoulder she would have to retire from drumming and performing with the donnas. castellano still attended events the band was involved with as well as promoted the last album she recorded with the band greatest hits volume 16. she attended santa monica college before transferring to stanford university where she was in the class of 2013 and majored in political science. castellano graduated from stanford with distinction and will attend harvard law school starting in the fall of 2013. 
+
+Coref Resolved : 
+torrance heather torry castellano born january 8 1979 in san francisco california is the former drummer of the donnas announcing heather torry castellano born january 8 1979 in san francisco california retirement in july 2010. heather torry castellano born january 8 1979 in san francisco california is the cousin of actress laura san giacomo. early in heather torry castellano born january 8 1979 in san francisco california childhood heather torry castellano born january 8 1979 in san francisco california moved to palo alto california where heather torry castellano born january 8 1979 in san francisco california met heather torry castellano born january 8 1979 in san francisco california bandmates. heather torry castellano born january 8 1979 in san francisco california was asked to be part of the donnas by allison robertson and agreed even though heather torry castellano born january 8 1979 in san francisco california did not have any experience. the donnas rehearsed every day in heather torry castellano born january 8 1979 in san francisco california garage. before the release of the the donnas album gold medal heather torry castellano born january 8 1979 in san francisco california developed tendonitis. in october 2003 heather torry castellano born january 8 1979 in san francisco california had surgery for tendonitis. during heather torry castellano born january 8 1979 in san francisco california recovery heather torry castellano born january 8 1979 in san francisco california had to take drum lessons to relearn to hold drumsticks the correct way. for the donnas album gold medal heather torry castellano born january 8 1979 in san francisco california recorded with heather torry castellano born january 8 1979 in san francisco california recovering wrists but could only play for short periods of time. a shoulder problem forced heather torry castellano born january 8 1979 in san francisco california to withdraw from the the donnas tour following a show on december 27 2008 at the house of blues in anaheim ca. amy cesari of the band the demonics filled in on future tour dates. on july 9 2010 heather torry castellano born january 8 1979 in san francisco california announced on the donnas website that due to heather torry castellano born january 8 1979 in san francisco california shoulder heather torry castellano born january 8 1979 in san francisco california would have to retire from drumming and performing with the donnas . heather torry castellano born january 8 1979 in san francisco california still attended events the donnas was involved with as well as promoted the last album heather torry castellano born january 8 1979 in san francisco california recorded with the donnas greatest hits volume 16. heather torry castellano born january 8 1979 in san francisco california attended santa monica college before transferring to stanford university where heather torry castellano born january 8 1979 in san francisco california was in the class of 2013 and majored in political science. heather torry castellano born january 8 1979 in san francisco california graduated from stanford university where she was in the class of 2013 and majored in political sciencewith distinction and will attend harvard law school starting in the fall of 2013.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.22727272727272727 and for ground truth is : 0.24358974358974358
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate minor_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,60 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Pennsylvania and the value is : 1
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Backing_vocalist and the value is : 1
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Percussion_instrument and the value is : 1
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Keyboard_instrument and the value is : 1
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Wards_of_Japan and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Bass_guitar and the value is : 1
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Percussion_instrument and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Wards_of_Japan and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Percussion_instrument and the value is : 1
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Wards_of_Japan and the value is : 1
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Percussion_instrument and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Wards_of_Japan and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Percussion_instrument and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Percussion_instrument and http://dbpedia.org/resource/Wards_of_Japan and the value is : 0
+http://dbpedia.org/resource/Percussion_instrument and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Keyboard_instrument and http://dbpedia.org/resource/Wards_of_Japan and the value is : 0
+http://dbpedia.org/resource/Keyboard_instrument and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Wards_of_Japan and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Soul_music and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Vocal_harmony and the value is : 0
+http://dbpedia.org/resource/Soul_music and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Soul_music and http://dbpedia.org/resource/Vocal_harmony and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Vocal_harmony and the value is : 0
+http://dbpedia.org/resource/African-American_music and http://dbpedia.org/resource/Indie_rock and the value is : 0
+http://dbpedia.org/resource/African-American_music and http://dbpedia.org/resource/Funk and the value is : 0
+http://dbpedia.org/resource/African-American_music and http://dbpedia.org/resource/Heart_sounds and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Funk and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Heart_sounds and the value is : 0
+http://dbpedia.org/resource/Funk and http://dbpedia.org/resource/Heart_sounds and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+pattern is movement is an american indie rock band from philadelphia pennsylvania. the band consists of andrew thiboldeaux vocals guitar drums percussion keyboards and chris ward vocals bass guitar keyboards. the band has released four fulllength albums two eps and several singles. the bands sound is a mix of indie rock soul and jazz with a focus on intricate vocal harmonies and complex rhythms. their music has been described as a mix of soulful jazzy indie rock with a hint of funk and a lot of heart. the band has toured extensively throughout the united states and europe and has shared the stage with acts such as the national the walkmen and the roots. 
+
+Coref Resolved : 
+pattern is movement is an american indie rock band from philadelphia pennsylvania. pattern is movement consists of andrew thiboldeaux vocals guitar drums percussion keyboards and chris ward vocals bass guitar keyboards. pattern is movement has released four fulllength albums two eps and several singles. pattern is movement sound is a mix of indie rock soul and jazz with a focus on intricate vocal harmonies and complex rhythms. pattern is movement music has been described as a mix of soulful jazzy indie rock with a hint of funk and a lot of heart. pattern is movement has toured extensively throughout the united states and europe and has shared the stage with acts such as the national the walkmen and the roots.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.18604651162790697
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

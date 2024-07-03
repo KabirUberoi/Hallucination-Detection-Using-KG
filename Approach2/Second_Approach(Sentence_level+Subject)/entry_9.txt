@@ -1,0 +1,134 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/England and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Motorcycle_sport and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/London and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Senior_TT and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/North_West_200 and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Ulster and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Fred_Frith and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Grimsby and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Lincolnshire and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/England and the value is : 1
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Road_racing and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Grimsby and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Lincolnshire and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/England and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Fred_Frith and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/World_War_II and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Over-the-counter_drug and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Velocette_KTT and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Norton_Motorcycle_Company and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Winning_Combination and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Junior_TT and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Senior_TT and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/UEFA_European_Championship and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Senior_TT and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Isle_of_Man_TT_Mountain_Course and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Birmingham_Small_Arms_Company and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Ariel_Motorcycles and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Matchless and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/World_War_II and the value is : 0
+http://dbpedia.org/resource/Fred_Frith and http://dbpedia.org/resource/Keswick_railway_station and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Norton_Motorcycle_Company and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Skiddaw and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Freddie Frith (1917 1994) was an English motorcycle racer who competed in the Isle of Man TT races and other international events.
+He was born in London and began racing in the 1930s.
+He won the Isle of Man TT in 1938 and 1939, and was the first rider to win the Senior TT twice in succession.
+He also won the North West 200 in 1938 and 1939, and the Ulster Grand Prix in 1938 and 1939.
+Frith was a popular figure in the racing world, and was known for his daring and aggressive riding style.
+He was also known for his willingness to help other riders, and was often seen helping to push other riders' bikes to the start line.
+He retired from racing in 1947, but continued to be involved in the sport, working as a mechanic and team manager.
+He died in 1994, aged 77.
+
+
+Coref Resolved: 
+
+Freddie Frith (1917 1994) was an English motorcycle racer who competed in the Isle of Man TT races and other international events.
+Freddie Frith was born in London and began racing in the 1930s.
+Freddie Frith won Isle of Man TT in 1938 and 1939, and was the first rider to win the Senior TT twice in succession.
+Freddie Frith also won the North West 200 in 1938 and 1939, and the Ulster Grand Prix in 1938 and 1939.
+Freddie Frith was a popular figure in the racing world, and was known for Freddie Frith daring and aggressive riding style.
+Freddie Frith was also known for Freddie Frith willingness to help other riders, and was often seen helping to push other riders' bikes to the start line.
+Freddie Frith retired from the sportin 1947, but continued to be involved in the sport, working as a mechanic and team manager.
+Freddie Frith died in 1994, aged 77.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Frederick Lee "Freddie" Frith OBE (born 30 May 1909 in Grimsby, Lincolnshire, England 24 May 1988) was a British former Grand Prix motorcycle road racing world champion.
+A former stonemason and later a motorcycle retailer in Grimsby, he was a stylish rider and five-time winner of the Isle of Man TT.
+Frith had the distinction of being one of the few to win TT races before and after the Second World War.
+He entered his first major race, the first Manx Grand Prix in 1930, riding an over-the-counter 350 cc Velocette KTT in the Junior event, finishing third at a speed of 60.34 mph.
+He retired from the 500 cc race with a blown engine, again riding his 350, when holding third place.
+He won the 1935 Junior Manx Grand Prix and then joined the Norton team for the 1936 TT races.
+It was a winning combination as he claimed the Junior TT and finished second in the Senior TT as well as winning the 350 cc European Championship.
+In 1937 he went one better in the Senior and took a brilliant win and setting the first 90 mph plus lap of the Snaefell Mountain Course.
+After finishing third in the 1939 Senior he missed the 1947 TT due to a practice spill on a 500 cc Moto Guzzi.
+Turning to Velocettes in 1948, he won the Junior race, repeating this success a year later.
+Freddie also has the distinction of being the first ever 350 cc World Champion in 1949 when he won all five events of the inaugural campaign.
+Frith, alongside other riders from BSA, Ariel and Matchless works teams, served in the army during World War II at the Infantry Driving Maintenance School stationed at Keswick, where officers and NCOs learned how to ride cross-country.
+Sgt.
+Freddie Frith taught teams of four on Norton 500s over Skiddaw in all weathers.
+A special treat on the last day was reserved for roadwork, following Frith's track-style fast cornering.
+ 
+
+Coref Resolved: 
+
+Frederick Lee "Freddie" Frith OBE (born 30 May 1909 in Grimsby, Lincolnshire, England 24 May 1988) was a British former Grand Prix motorcycle road racing world champion.
+A former stonemason and later a motorcycle retailer in Grimsby, Lincolnshire, England , Frederick Lee "Freddie" Frith was a stylish rider and five-time winner of the Isle of Man TT.
+Frederick Lee "Freddie" Frith had the distinction of being one of the few to win the Isle of Man TTraces before and after the Second World War.
+Frederick Lee "Freddie" Frith entered Frederick Lee "Freddie" Frith first major race, the first Manx Grand Prix in 1930, riding an over-the-counter 350 cc Velocette KTT in the Junior event, finishing third at a speed of 60.34 mph.
+Frederick Lee "Freddie" Frith retired from the 500 cc race with a blown engine, again riding Frederick Lee "Freddie" Frith 350, when holding third place.
+Frederick Lee "Freddie" Frith won the 1935 Junior Manx Grand Prix and then joined the Norton team for the 1936 the Isle of Man TTraces.
+It was a winning combination as Frederick Lee "Freddie" Frith claimed the Junior TT and finished second in the Senior TT as well as winning the 350 cc European Championship.
+In 1937 Frederick Lee "Freddie" Frith went one better in the Senior TT and took a brilliant win and setting the first 90 mph plus lap of the Snaefell Mountain Course.
+After finishing third in the 1939 Senior Frederick Lee "Freddie" Frith missed the 1947 TT due to a practice spill on a 500 cc Moto Guzzi.
+Turning to Velocettes in 1948, Frederick Lee "Freddie" Frith this success the Junior race, repeating this success a year later.
+Frederick Lee "Freddie" Frith also has the distinction of being the first ever 350 cc World Champion in 1949 when Frederick Lee "Freddie" Frith won all five events of the inaugural campaign.
+Frederick Lee "Freddie" Frith , alongside other riders from BSA, Ariel and Matchless works teams, served in the army during World War II at the Infantry Driving Maintenance School stationed at Keswick, where officers and NCOs learned how to ride cross-country.
+Sgt.
+Freddie Frith taught teams of four on Norton 500s over Skiddaw in all weathers.
+A special treat on the last day was reserved for roadwork, following Frederick Lee "Freddie" Frith track-style fast cornering.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.3333333333333333 0.0 1.0 0.3333333333333333 -1 -1 -1 -1 
+
+Value for ground truth is : 
+0.125 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -1 -1 0.0 0.0 0.5 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

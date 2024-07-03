@@ -1,0 +1,111 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/History_of_China and http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and the value is : 0
+http://dbpedia.org/resource/History_of_China and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/History_of_China and http://dbpedia.org/resource/Pinyin and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Gao_Wei and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Hou_Jing and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Military_intelligence and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Filial_piety and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Zhou and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Yuchi_Jiong and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Zijin_County and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Eastern_Wei and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Gao_Huan and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Eastern_Wei and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Gao_Cheng and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Regent and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Eastern_Wei and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Emperor_of_China and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Eastern_Wei and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Eastern_Wei and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Yang_Yin and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Alcoholism and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Emperor Wenxuan of Northern Qi (Chinese 北齊文宣帝 pinyin Běi Qí Wén Xuān Dì Wade Giles Pei Ch'i Wen-hsüan.
+Ti 539 557) was an emperor of the Chinese dynasty Northern Qi.
+He was the oldest son of Gao Wei, and he succeeded his father in 551 after Gao Wei was killed in a coup led by the general Hou Jing.
+Emperor Wenxuan was known for his intelligence and his literary talent, and he was also known for his cruelty and his lack of filial piety.
+He was also known for his campaigns against rival Northern Zhou, which were largely unsuccessful.
+He was eventually killed in a coup led by the general Yuchi Jiong in 557.
+
+
+Coref Resolved: 
+
+Emperor Wenxuan of Northern Qi (Chinese 北齊文宣帝 pinyin Běi QíWén Xuān Dì Wade Giles Pei Ch'i Wen-hsüan.
+Ti 539 557) was an emperor of Northern Qi .
+Emperor Wenxuan of Northern Qi was the oldest son of Gao Wei, and Emperor Wenxuan of Northern Qi succeeded Emperor Wenxuan of Northern Qi father in 551 after Gao Weiwas killed in a coup led by the general Hou Jing.
+Emperor Wenxuan of Northern Qi was known for Emperor Wenxuan of Northern Qi intelligence and Emperor Wenxuan of Northern Qi literary talent, and Emperor Wenxuan of Northern Qi was also known for Emperor Wenxuan of Northern Qi cruelty and Emperor Wenxuan of Northern Qi lack of filial piety.
+Emperor Wenxuan of Northern Qi was also known for Emperor Wenxuan of Northern Qi campaigns against rival Northern Zhou, which were largely unsuccessful.
+Emperor Wenxuan of Northern Qi was eventually killed in a coup led by the general Yuchi Jiong in 557.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Emperor Wenxuan of Northern Qi (526 559), personal name Gao Yang (高洋), courtesy name Zijin (子進), was the first emperor of the Northern Qi.
+He was the second son of Eastern Wei's paramount general Gao Huan, and after the death of his brother and Gao Huan's designated successor Gao Cheng in 549, he became the regent of Eastern Wei.
+In 550, he forced Emperor Xiaojing of Eastern Wei to yield the throne to him, ending Eastern Wei and starting Northern Qi. .
+Early in Emperor Wenxuan's reign, he was known for his attentiveness to military matters, and the strength of the Northern Qi military was at its prime.
+He also tried to equalize the tax burden and reduce corruption by offering officials sufficient salary.
+He entrusted most governmental matters to the capable Yang Yin, and for a while, the government was effective and the military was strong.
+However, Emperor Wenxuan eventually turned cruel, and his erratic behavior, fueled by alcoholism, plunged his administration into chaos.
+ 
+
+Coref Resolved: 
+
+Emperor Wenxuan of Northern Qi (526 559), personal name Gao Yang (高洋), courtesy name Zijin (子進), was the first emperor of Northern Qi .
+Emperor Wenxuan of Northern Qi was the second son of Eastern Wei's paramount general Gao Huan, and after the death of Emperor Wenxuan of Northern Qi brother and Eastern Wei's paramount general Gao Huandesignated successor Gao Cheng in 549, Emperor Wenxuan of Northern Qi became the regent of Eastern Wei's .
+In 550, Emperor Wenxuan of Northern Qi forced Emperor Xiaojing of Eastern Wei's to yield the throne to Emperor Wenxuan of Northern Qi , ending Eastern Wei's and starting Northern Qi ..
+Early in Emperor Wenxuan of Northern Qi reign, Emperor Wenxuan of Northern Qi was known for Emperor Wenxuan of Northern Qi attentiveness to military matters, and the strength of the Northern Qi military was at the strength of the Northern Qi military prime.
+Emperor Wenxuan of Northern Qi also tried to equalize the tax burden and reduce corruption by offering officials sufficient salary.
+Emperor Wenxuan of Northern Qi entrusted most governmental matters to the capable Yang Yin, and for a while, the government was effective and the military was strong.
+However, Emperor Wenxuan of Northern Qi eventually turned cruel, and Emperor Wenxuan of Northern Qi erratic behavior, fueled by alcoholism, plunged Emperor Wenxuan of Northern Qi administration into chaos.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.3333333333333333 -1 -1 1.0 0.75 0.6666666666666666 0.5 
+
+Value for ground truth is : 
+0.6666666666666666 1.0 1.0 -1 1.0 1.0 1.0 0.75 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

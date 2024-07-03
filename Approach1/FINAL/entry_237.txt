@@ -1,0 +1,223 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Computer_scientist and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Software_engineer and the value is : 1
+http://dbpedia.org/resource/Computer_scientist and http://dbpedia.org/resource/Software_engineer and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Operating_system and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/George_Berkeley and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Computer_science and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Computer_science and the value is : 0
+http://dbpedia.org/resource/George_Berkeley and http://dbpedia.org/resource/Computer_science and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Operating_system and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Linux_kernel and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Operating_system and the value is : 0
+http://dbpedia.org/resource/Linux_kernel and http://dbpedia.org/resource/Operating_system and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Windows_USER and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Graphical_user_interface and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Personal_computer and the value is : 0
+http://dbpedia.org/resource/Windows_USER and http://dbpedia.org/resource/Graphical_user_interface and the value is : 0
+http://dbpedia.org/resource/Windows_USER and http://dbpedia.org/resource/Personal_computer and the value is : 0
+http://dbpedia.org/resource/Graphical_user_interface and http://dbpedia.org/resource/Personal_computer and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Software and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Oracle and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Sun_Microsystems and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Apple_Inc. and the value is : 0
+http://dbpedia.org/resource/Software and http://dbpedia.org/resource/Oracle and the value is : 1
+http://dbpedia.org/resource/Software and http://dbpedia.org/resource/Sun_Microsystems and the value is : 0
+http://dbpedia.org/resource/Software and http://dbpedia.org/resource/Apple_Inc. and the value is : 1
+http://dbpedia.org/resource/Oracle and http://dbpedia.org/resource/Sun_Microsystems and the value is : 0
+http://dbpedia.org/resource/Oracle and http://dbpedia.org/resource/Apple_Inc. and the value is : 0
+http://dbpedia.org/resource/Sun_Microsystems and http://dbpedia.org/resource/Apple_Inc. and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Software_engineer and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Computer_programming and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Software_engineering and the value is : 0
+http://dbpedia.org/resource/Computer_programming and http://dbpedia.org/resource/Software_engineering and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/ABC_Weekend_TV and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Documentary_film and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/News and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Core_product and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/News and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Core_product and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/News and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/Core_product and the value is : 1
+http://dbpedia.org/resource/News and http://dbpedia.org/resource/Core_product and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Founding_Fathers_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Euston_Films and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Production_company and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Thames_Television and the value is : 0
+http://dbpedia.org/resource/Founding_Fathers_of_the_United_States and http://dbpedia.org/resource/Euston_Films and the value is : 0
+http://dbpedia.org/resource/Founding_Fathers_of_the_United_States and http://dbpedia.org/resource/Production_company and the value is : 0
+http://dbpedia.org/resource/Founding_Fathers_of_the_United_States and http://dbpedia.org/resource/Thames_Television and the value is : 0
+http://dbpedia.org/resource/Euston_Films and http://dbpedia.org/resource/Production_company and the value is : 0
+http://dbpedia.org/resource/Euston_Films and http://dbpedia.org/resource/Thames_Television and the value is : 1
+http://dbpedia.org/resource/Production_company and http://dbpedia.org/resource/Thames_Television and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/The_Quatermass_Experiment and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Television_director and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/The_Quatermass_Experiment and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/The_Quatermass_Experiment and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/The_Quatermass_Experiment and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Comptroller and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Drama and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/Comptroller and http://dbpedia.org/resource/Drama and the value is : 0
+http://dbpedia.org/resource/Comptroller and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Comptroller and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/Drama and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Drama and http://dbpedia.org/resource/Chief_executive_officer and the value is : 1
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Chief_executive_officer and the value is : 1
+http://dbpedia.org/resource/Dual_role and http://dbpedia.org/resource/Ted_Childs and the value is : 0
+http://dbpedia.org/resource/Dual_role and http://dbpedia.org/resource/Television_producer and the value is : 0
+http://dbpedia.org/resource/Dual_role and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Television_producer and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Television_producer and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Inspector_Morse and http://dbpedia.org/resource/Soldier_Soldier and the value is : 0
+http://dbpedia.org/resource/Inspector_Morse and http://dbpedia.org/resource/Peak_Practice and the value is : 0
+http://dbpedia.org/resource/Inspector_Morse and http://dbpedia.org/resource/Richard_Bowdler_Sharpe and the value is : 0
+http://dbpedia.org/resource/Inspector_Morse and http://dbpedia.org/resource/Cadfael and the value is : 0
+http://dbpedia.org/resource/Inspector_Morse and http://dbpedia.org/resource/Chancer and the value is : 0
+http://dbpedia.org/resource/Inspector_Morse and http://dbpedia.org/resource/Kavanagh_QC and the value is : 0
+http://dbpedia.org/resource/Soldier_Soldier and http://dbpedia.org/resource/Peak_Practice and the value is : 0
+http://dbpedia.org/resource/Soldier_Soldier and http://dbpedia.org/resource/Richard_Bowdler_Sharpe and the value is : 1
+http://dbpedia.org/resource/Soldier_Soldier and http://dbpedia.org/resource/Cadfael and the value is : 0
+http://dbpedia.org/resource/Soldier_Soldier and http://dbpedia.org/resource/Chancer and the value is : 0
+http://dbpedia.org/resource/Soldier_Soldier and http://dbpedia.org/resource/Kavanagh_QC and the value is : 0
+http://dbpedia.org/resource/Peak_Practice and http://dbpedia.org/resource/Richard_Bowdler_Sharpe and the value is : 0
+http://dbpedia.org/resource/Peak_Practice and http://dbpedia.org/resource/Cadfael and the value is : 0
+http://dbpedia.org/resource/Peak_Practice and http://dbpedia.org/resource/Chancer and the value is : 0
+http://dbpedia.org/resource/Peak_Practice and http://dbpedia.org/resource/Kavanagh_QC and the value is : 0
+http://dbpedia.org/resource/Richard_Bowdler_Sharpe and http://dbpedia.org/resource/Cadfael and the value is : 0
+http://dbpedia.org/resource/Richard_Bowdler_Sharpe and http://dbpedia.org/resource/Chancer and the value is : 0
+http://dbpedia.org/resource/Richard_Bowdler_Sharpe and http://dbpedia.org/resource/Kavanagh_QC and the value is : 0
+http://dbpedia.org/resource/Cadfael and http://dbpedia.org/resource/Chancer and the value is : 0
+http://dbpedia.org/resource/Cadfael and http://dbpedia.org/resource/Kavanagh_QC and the value is : 0
+http://dbpedia.org/resource/Chancer and http://dbpedia.org/resource/Kavanagh_QC and the value is : 1
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Carlton_Television and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Ted_Childs and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Freelancer and the value is : 0
+http://dbpedia.org/resource/Carlton_Television and http://dbpedia.org/resource/Ted_Childs and the value is : 0
+http://dbpedia.org/resource/Carlton_Television and http://dbpedia.org/resource/Freelancer and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Freelancer and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/BBC_television_drama and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Television_producer and the value is : 0
+http://dbpedia.org/resource/BBC_television_drama and http://dbpedia.org/resource/Television_producer and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Central_heating and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Sun and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Morse_code and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Charles_Goodnight and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Kavanagh_QC and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Monsignor_Renard and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Canon_law and the value is : 0
+http://dbpedia.org/resource/Central_heating and http://dbpedia.org/resource/Sun and the value is : 0
+http://dbpedia.org/resource/Central_heating and http://dbpedia.org/resource/Morse_code and the value is : 0
+http://dbpedia.org/resource/Central_heating and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Central_heating and http://dbpedia.org/resource/Charles_Goodnight and the value is : 0
+http://dbpedia.org/resource/Central_heating and http://dbpedia.org/resource/Kavanagh_QC and the value is : 0
+http://dbpedia.org/resource/Central_heating and http://dbpedia.org/resource/Monsignor_Renard and the value is : 1
+http://dbpedia.org/resource/Central_heating and http://dbpedia.org/resource/Canon_law and the value is : 0
+http://dbpedia.org/resource/Sun and http://dbpedia.org/resource/Morse_code and the value is : 0
+http://dbpedia.org/resource/Sun and http://dbpedia.org/resource/Television_director and the value is : 1
+http://dbpedia.org/resource/Sun and http://dbpedia.org/resource/Charles_Goodnight and the value is : 0
+http://dbpedia.org/resource/Sun and http://dbpedia.org/resource/Kavanagh_QC and the value is : 0
+http://dbpedia.org/resource/Sun and http://dbpedia.org/resource/Monsignor_Renard and the value is : 0
+http://dbpedia.org/resource/Sun and http://dbpedia.org/resource/Canon_law and the value is : 0
+http://dbpedia.org/resource/Morse_code and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Morse_code and http://dbpedia.org/resource/Charles_Goodnight and the value is : 0
+http://dbpedia.org/resource/Morse_code and http://dbpedia.org/resource/Kavanagh_QC and the value is : 0
+http://dbpedia.org/resource/Morse_code and http://dbpedia.org/resource/Monsignor_Renard and the value is : 0
+http://dbpedia.org/resource/Morse_code and http://dbpedia.org/resource/Canon_law and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Charles_Goodnight and the value is : 1
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Kavanagh_QC and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Monsignor_Renard and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Canon_law and the value is : 0
+http://dbpedia.org/resource/Charles_Goodnight and http://dbpedia.org/resource/Kavanagh_QC and the value is : 0
+http://dbpedia.org/resource/Charles_Goodnight and http://dbpedia.org/resource/Monsignor_Renard and the value is : 0
+http://dbpedia.org/resource/Charles_Goodnight and http://dbpedia.org/resource/Canon_law and the value is : 0
+http://dbpedia.org/resource/Kavanagh_QC and http://dbpedia.org/resource/Monsignor_Renard and the value is : 0
+http://dbpedia.org/resource/Kavanagh_QC and http://dbpedia.org/resource/Canon_law and the value is : 0
+http://dbpedia.org/resource/Monsignor_Renard and http://dbpedia.org/resource/Canon_law and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Television_producer and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Television_producer and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/TV_format and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Morse_code and the value is : 1
+http://dbpedia.org/resource/Television_producer and http://dbpedia.org/resource/TV_format and the value is : 0
+http://dbpedia.org/resource/Television_producer and http://dbpedia.org/resource/Morse_code and the value is : 0
+http://dbpedia.org/resource/TV_format and http://dbpedia.org/resource/Morse_code and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Royal_Television_Society and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Television_director and the value is : 1
+http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Royal_Television_Society and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Television_in_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Royal_Television_Society and http://dbpedia.org/resource/Television_in_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Royal_Television_Society and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/John_Logie_Baird and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Television_director and the value is : 1
+http://dbpedia.org/resource/Royal_Television_Society and http://dbpedia.org/resource/John_Logie_Baird and the value is : 0
+http://dbpedia.org/resource/Royal_Television_Society and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/John_Logie_Baird and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Birthday_Honours and http://dbpedia.org/resource/Ted_Childs and the value is : 1
+http://dbpedia.org/resource/Birthday_Honours and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/Birthday_Honours and http://dbpedia.org/resource/Terrestrial_television and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Terrestrial_television and the value is : 1
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Terrestrial_television and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Honorary_title_(academic) and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Film and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Cinematograph and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Honorary_title_(academic) and http://dbpedia.org/resource/Film and the value is : 0
+http://dbpedia.org/resource/Honorary_title_(academic) and http://dbpedia.org/resource/Cinematograph and the value is : 1
+http://dbpedia.org/resource/Honorary_title_(academic) and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Film and http://dbpedia.org/resource/Cinematograph and the value is : 0
+http://dbpedia.org/resource/Film and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Cinematograph and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Television_director and the value is : 1
+http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Guild and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Harvey_Lee and the value is : 0
+http://dbpedia.org/resource/Guild and http://dbpedia.org/resource/Harvey_Lee and the value is : 0
+http://dbpedia.org/resource/University_of_Nottingham and http://dbpedia.org/resource/Ted_Childs and the value is : 0
+http://dbpedia.org/resource/University_of_Nottingham and http://dbpedia.org/resource/Honorary_degree and the value is : 1
+http://dbpedia.org/resource/Ted_Childs and http://dbpedia.org/resource/Honorary_degree and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+ted childs born october 15 1956 is an american computer scientist and software engineer. he is best known for his work on the development of the windows operating system. childs was born in san francisco california. he attended the university of california berkeley where he earned a bachelor of science degree in computer science in 1978. after graduation he worked at microsoft where he was a key contributor to the development of the windows operating system. he was responsible for the development of the windows kernel the core of the operating system. he also worked on the development of the windows user interface which was the first graphical user interface for a personal computer. childs left microsoft in 1989 and went on to work at several other software companies including oracle sun microsystems and apple. he is currently a senior software engineer at google. he has also written several books on computer programming and software engineering. 
+
+Coref Resolved : 
+ted childs born october 15 1956 is an american computer scientist and software engineer. ted childs born october 15 1956 is best known for ted childs born october 15 1956 work on the development of the windows operating system. ted childs born october 15 1956 was born in san francisco california. ted childs born october 15 1956 attended the university of california berkeley where ted childs born october 15 1956 earned a bachelor of science degree in computer science in 1978. after graduation ted childs born october 15 1956 worked at microsoft where ted childs born october 15 1956 was a key contributor to the development of the windows operating system. ted childs born october 15 1956 was responsible for the development of the windows kernel the core of the windows operating system. ted childs born october 15 1956 also worked on the development of the windows user interface which was the first graphical user interface for a personal computer. ted childs born october 15 1956 left microsoft in 1989 and went on to work at several other software companies including oracle sun microsystems and apple. ted childs born october 15 1956 is currently a senior software engineer at google. ted childs born october 15 1956 has also written several books on computer programming and software engineering.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+ted childs commenced training as a programme director with abc television in 1962. he went on to produce and direct a wide variety of factual programmes and documentary films including episodes of this week then the itv current affairs flagship and also contributed to the acclaimed world at war series. he was one of the founding fathers of euston films the film production company established by thames television in the early 1970s. whilst there he produced the sweeney special branch and quatermass series together with a number of theatrical and television films as well as writing andor directing films and series episodes for both itv and the bbc. in 1984 he was appointed controller of drama at central television and subsequently managing director of central films. in this dual role he acted as executive producer on an extensive range of films and series for itv. these included inspector morse soldier soldier peak practice sharpe brother cadfael chancer gone to the dogs kavanagh qc and thieftakers. following the acquisition of central television by carlton communications he opted to assume a freelance role. he continued to write and develop new television drama and films as an executive producer. as such he was responsible for the heat of the sun series the morse film the wench is dead the television films into the blue goodnight mr. tom and the waiting time together with a kavanagh qc film special the monsignor renard series and the remorseful day the final episode in the morse canon. in 20045 he was responsible for developing the brief a legal series. he acted as executive producer on two series of the brief. he also acted as executive producer on lewis a television format derived from the morse series. in 1991 the production guild honoured him with its annual award of merit. he was elected a fellow of the royal television society rts in 1992. he was chairman of the british academy of film and television arts bafta in 1994 and 1995. he received the rts award for outstanding creative contribution to british television in 1995. in the same year he was awarded the rts baird medal for outstanding contribution to british regional television. in the 1997 new years honours list he was made an obe for services to broadcast television. also in 1997 he was elected an honorary fellow of the moving image society formerly the british kinematograph and television society. in may 1998 he received the bafta award for outstanding creative contribution to television. in 2000 he received the broadcasting press guilds harvey lee award for outstanding contribution to broadcasting. in july 2015 the university of nottingham awarded him the honorary degree of doctor of letters. 
+
+Coref Resolved : 
+ted childs commenced training as a programme director with abc television in 1962. ted childs went on to produce and direct a wide variety of factual programmes and documentary films including episodes of this week then the itv current affairs flagship and also contributed to the acclaimed world at war series. ted childs was one of the founding fathers of euston films the film production company established by thames television in the early 1970s. whilst there ted childs produced the sweeney special branch and quatermass series together with a number of theatrical and television films as well as writing andor directing films and series episodes for both itv and the bbc. in 1984 ted childs was appointed controller of drama at central television and subsequently managing director of central films. in this dual role ted childs acted as executive producer on an extensive range of films and series for itv . these included inspector morse soldier soldier peak practice sharpe brother cadfael chancer gone to the dogs kavanagh qc and thieftakers. following the acquisition of central television by carlton communications ted childs opted to assume a freelance role. ted childs continued to write and develop new television drama and films as an executive producer. as such ted childs was responsible for the heat of the sun series the morse film the wench is dead the television films into the blue goodnight mr. tom and the waiting time together with a kavanagh qc film special the monsignor renard series and the remorseful day the final episode in the morse canon. in 20045 ted childs was responsible for developing the brief a legal series. ted childs acted as executive producer on two series of the brief a legal series. ted childs also acted as executive producer on lewis a television format derived from the morse series. in 1991 the production guild honoured ted childs with the production guild annual award of merit. ted childs was elected a fellow of the royal television society rts in 1992. ted childs was chairman of the british academy of film and television arts bafta in 1994 and the same year . ted childs received the the royal television society rts award for outstanding creative contribution to british television in the same year . in the same year ted childs was awarded the the royal television society rts baird medal for outstanding contribution to british regional television. in the 1997 new years honours list ted childs was made an obe for services to broadcast television. also in 1997 ted childs was elected an honorary fellow of the moving image society formerly the british kinematograph and television society. in may 1998 ted childs received the bafta award for outstanding creative contribution to television. in 2000 ted childs received the broadcasting press guilds harvey lee award for outstanding contribution to broadcasting. in july 2015 the university of nottingham awarded ted childs the honorary degree of doctor of letters.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1891891891891892 and for ground truth is : 0.1962025316455696
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

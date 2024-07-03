@@ -1,0 +1,76 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Poles and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Underground_Resistance and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/World_War_II and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Warsaw_Ghetto and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Underground_Resistance and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Żegota and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Jews and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Jews and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Warsaw_Ghetto and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Jews and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Warsaw_Ghetto and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Nobel_Peace_Prize and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Polish_names and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Poland and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Pseudonym and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Poles and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Poles and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Warsaw_Ghetto and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/World_War_II and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Żegota and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Poles and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/History_of_the_Jews_in_Poland and the value is : 0
+http://dbpedia.org/resource/History_of_the_Jews_in_Poland and http://dbpedia.org/resource/German-occupied_Europe and the value is : 0
+http://dbpedia.org/resource/History_of_the_Jews_in_Poland and http://dbpedia.org/resource/The_Holocaust_in_Poland and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Irena Sendler (née Krzyżanowska 15 February 1910 12 May 2008) was a Polish nurse, social worker, and humanitarian who served in the Polish Underground Resistance during World War II in German-occupied Warsaw.
+She was part of the Polish Underground's Żegota resistance organization, and was responsible for saving the lives of 2,500 Jewish children by smuggling them out of the Warsaw Ghetto and providing them with false identity documents and shelter in individual and group children's homes in the city.
+She was nominated for the Nobel Peace Prize in 2007.
+
+
+Coref Resolved: 
+
+Irena Sendler (née Krzyżanowska 15 February 1910 12 May 2008) was a Polish nurse, social worker, and humanitarian who served in the Polish Underground Resistance during World War II in German-occupied Warsaw.
+Irena Sendler (née Krzyżanowska 15 February 1910 12 May 2008) was part of the Polish Underground Resistance Żegota resistance organization, and was responsible for saving the lives of 2,500 Jewish children by smuggling 2,500 Jewish children out of the Warsaw Ghetto and providing 2,500 Jewish children with false identity documents and shelter in individual and group children's homes in German-occupied Warsaw.
+Irena Sendler (née Krzyżanowska 15 February 1910 12 May 2008) was nominated for the Nobel Peace Prize in 2007.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Irena Sendler (née Krzyżanowska, also referred to as Irena Sendlerowa in Poland, nom de guerre Jolanta 15 February 1910 12 May 2008), was a Polish nurse and social worker who served in the Polish Underground in German-occupied Warsaw during World War II, and was head of the children's section of Żegota, the Polish Council to Aid Jews, which was active from 1942 to 1945.
+Assisted by some two dozen other Żegota members, Sendler smuggled approximately 2,500 Jewish children out of the Warsaw Ghetto and then provided them with false identity documents and shelter outside the ghetto, saving those children from the Holocaust.
+With the exception of diplomats who issued visas to help Jews flee Nazi-occupied Europe, Sendler saved more Jews than any other individual during the Holocaust.
+The German occupiers eventually discovered her activities and she was arrested by the Gestapo, tortured, and sentenced to death, but she managed to evade execution and survive the war.
+In 1965, Sendler was recognised by the State of Israel as Righteous Among the Nations.
+Late in life she was awarded the Order of the White Eagle, Poland's highest honor, for her wartime humanitarian efforts.
+ 
+
+Coref Resolved: 
+
+Irena Sendler (née Krzyżanowska, also referred to as Irena Sendlerowa in Poland, nom de guerre Jolanta 15 February 1910 12 May 2008), was a Polish nurse and social worker who served in the Polish Underground in German-occupied Warsaw during World War II, and was head of the children's section of Żegota, the Polish Council to Aid Jews, which was active from 1942 to 1945.
+Assisted by some two dozen other Żegota, the Polish Council to Aid Jews, which was active from 1942 to 1945members, Sendler smuggled approximately 2,500 Jewish children out of the Warsaw Ghetto and then provided approximately 2,500 Jewish children with false identity documents and shelter outside the Warsaw Ghetto , saving approximately 2,500 Jewish children from the Holocaust.
+With the exception of diplomats who issued visas to help Jews flee Nazi-occupied Europe, Sendler saved more Jews than any other individual during the Holocaust.
+The German occupiers eventually discovered Sendler activities and Sendler was arrested by the Gestapo, tortured, and sentenced to death, but Sendler managed to evade execution and survive World War II.
+In 1965, Sendler was recognised by the State of Israel as Righteous Among the Nations.
+Late in life Sendler was awarded the Order of the White Eagle, Polandhighest honor, for Sendler wartime humanitarian efforts.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5 0.8571428571428571 0.0 
+
+Value for ground truth is : 
+0.3 -1 0.0 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate 
+

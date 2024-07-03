@@ -1,0 +1,66 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Mayor_of_Chicago and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Illinois and the value is : 1
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Chicago and the value is : 1
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Mayor_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Carter_Harrison_Sr. and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Serbian_language and the value is : 1
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Mayor_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Carter_Harrison_Sr. and the value is : 1
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Carter_Harrison_Sr. and the value is : 1
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Serbian_language and the value is : 1
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Assassination_of_Abraham_Lincoln and http://dbpedia.org/resource/Spoils_system and the value is : 1
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 1
+http://dbpedia.org/resource/Lexington,_Kentucky and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Lexington,_Kentucky and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 1
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Trade_union and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Trade_union and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Carter_Harrison_Sr. and the value is : 0
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Serbian_language and the value is : 1
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 1
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 1
+http://dbpedia.org/resource/Civil_and_political_rights and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Civil_and_political_rights and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Civil_and_political_rights and http://dbpedia.org/resource/Political_machine and the value is : 1
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Political_machine and the value is : 1
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Political_machine and the value is : 0
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Assassination_of_Abraham_Lincoln and http://dbpedia.org/resource/Spoils_system and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+carter henry harrison sr. august 15 1825 october 28 1893 was an american politician who served five terms as the mayor of chicago illinois from 1879 to 1887 and again from 1889 to 1893. he was the son of the citys first mayor carter henry harrison i. harrison was a democrat and a strong supporter of labor unions. he was assassinated by a disgruntled office seeker in 1893. harrison was born in lexington kentucky and moved to chicago in 1853. he was elected to the illinois house of representatives in 1864 and served until 1872. he was elected mayor of chicago in 1879 and served until 1887. during his tenure he was a strong advocate for labor unions and was instrumental in the passage of the eighthour law in 1885. he was reelected in 1889 and served until his assassination in 1893. he was a popular mayor and was known for his support of the working class. he was also a strong advocate for civil rights and was a vocal opponent of the citys corrupt political machine. he was assassinated by a disgruntled office seeker in 1893. 
+
+Coref Resolved : 
+carter henry harrison sr. august 15 1825 october 28 1893 was an american politician who served five terms as the mayor of chicago illinois from 1879 to 1887 and again from 1889 to 1893. carter henry harrison sr. was the son of chicago illinois first mayor carter henry harrison i. carter henry harrison sr. was a democrat and a strong supporter of labor unions. carter henry harrison sr. was his assassination in 1893by a disgruntled office seeker in 1893. carter henry harrison sr. was born in lexington kentucky and moved to chicago illinois in 1853. carter henry harrison sr. was elected to the illinois house of representatives in 1864 and served until 1872. carter henry harrison sr. was elected mayor of chicago illinois in 1879 and served until 1887 . during carter henry harrison sr. tenure carter henry harrison sr. was a strong advocate for labor unions and was instrumental in the passage of the eighthour law in 1885. carter henry harrison sr. was reelected in 1889 and served until carter henry harrison sr. assassination in 1893. carter henry harrison sr. was a popular mayor and was known for carter henry harrison sr. support of the working class. carter henry harrison sr. was also a strong advocate for civil rights and was a vocal opponent of chicago illinois corrupt political machine. carter henry harrison sr. was assassinated by a disgruntled office seeker in 1893.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.32653061224489793
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate accurate minor_inaccurate accurate 
+

@@ -1,0 +1,155 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Trinidad_and_Tobago and http://dbpedia.org/resource/Paralympic_swimming and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Olympic_medal and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 1
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Paralympic_swimming and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Italy_national_athletics_team and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Italy_national_athletics_team and the value is : 0
+http://dbpedia.org/resource/Trinidad_and_Tobago and http://dbpedia.org/resource/Italy_national_athletics_team and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Auburn_Tigers and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Auburn_Tigers and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/2004_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Greece_national_basketball_team and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Medley_swimming and the value is : 1
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/2004_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Greece_national_basketball_team and the value is : 1
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/2004_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Greece_national_basketball_team and the value is : 1
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/2004_Summer_Olympics and http://dbpedia.org/resource/Greece_national_basketball_team and the value is : 1
+http://dbpedia.org/resource/2004_Summer_Olympics and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/2004_Summer_Olympics and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Greece_national_basketball_team and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Greece_national_basketball_team and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Silver_medal and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Bronze_medal and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Relay_race and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Relay_race and the value is : 1
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Relay_race and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Barcelona and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/George_Bovell and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Medley_swimming and the value is : 1
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Barcelona and http://dbpedia.org/resource/George_Bovell and the value is : 1
+http://dbpedia.org/resource/Barcelona and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Barcelona and http://dbpedia.org/resource/Freestyle_swimming and the value is : 1
+http://dbpedia.org/resource/Barcelona and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Barcelona and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Relay_race and the value is : 1
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Freestyle_swimming and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Freestyle_swimming and http://dbpedia.org/resource/Relay_race and the value is : 1
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Swimming and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Swimming and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 0
+http://dbpedia.org/resource/Swimming and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Olympic_Games and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Swimming and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Swimming and the value is : 0
+http://dbpedia.org/resource/Olympic_Games and http://dbpedia.org/resource/Swimming and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Swimming and the value is : 1
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Olympiad and the value is : 0
+http://dbpedia.org/resource/Swimming and http://dbpedia.org/resource/Olympiad and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Malaria and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Drowning and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Uganda and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Swimming and the value is : 0
+http://dbpedia.org/resource/Malaria and http://dbpedia.org/resource/Drowning and the value is : 1
+http://dbpedia.org/resource/Malaria and http://dbpedia.org/resource/Uganda and the value is : 0
+http://dbpedia.org/resource/Malaria and http://dbpedia.org/resource/Swimming and the value is : 0
+http://dbpedia.org/resource/Drowning and http://dbpedia.org/resource/Uganda and the value is : 0
+http://dbpedia.org/resource/Drowning and http://dbpedia.org/resource/Swimming and the value is : 0
+http://dbpedia.org/resource/Uganda and http://dbpedia.org/resource/Swimming and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/Trinidad_and_Tobago and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Columnist and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Trinidad_and_Tobago_Guardian and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Water and the value is : 1
+http://dbpedia.org/resource/Columnist and http://dbpedia.org/resource/Trinidad_and_Tobago_Guardian and the value is : 0
+http://dbpedia.org/resource/Columnist and http://dbpedia.org/resource/Water and the value is : 0
+http://dbpedia.org/resource/Trinidad_and_Tobago_Guardian and http://dbpedia.org/resource/Water and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/World_Economic_Forum and the value is : 0
+http://dbpedia.org/resource/Swimming and http://dbpedia.org/resource/George_(band) and the value is : 1
+http://dbpedia.org/resource/Swimming and http://dbpedia.org/resource/Freediving and the value is : 0
+http://dbpedia.org/resource/Swimming and http://dbpedia.org/resource/Underwater_photography and the value is : 0
+http://dbpedia.org/resource/Swimming and http://dbpedia.org/resource/Wildlife and the value is : 0
+http://dbpedia.org/resource/Swimming and http://dbpedia.org/resource/Videography and the value is : 0
+http://dbpedia.org/resource/Swimming and http://dbpedia.org/resource/Spearfishing and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Freediving and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Underwater_photography and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Wildlife and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Videography and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Spearfishing and the value is : 0
+http://dbpedia.org/resource/Freediving and http://dbpedia.org/resource/Underwater_photography and the value is : 0
+http://dbpedia.org/resource/Freediving and http://dbpedia.org/resource/Wildlife and the value is : 0
+http://dbpedia.org/resource/Freediving and http://dbpedia.org/resource/Videography and the value is : 0
+http://dbpedia.org/resource/Freediving and http://dbpedia.org/resource/Spearfishing and the value is : 0
+http://dbpedia.org/resource/Underwater_photography and http://dbpedia.org/resource/Wildlife and the value is : 0
+http://dbpedia.org/resource/Underwater_photography and http://dbpedia.org/resource/Videography and the value is : 0
+http://dbpedia.org/resource/Underwater_photography and http://dbpedia.org/resource/Spearfishing and the value is : 0
+http://dbpedia.org/resource/Wildlife and http://dbpedia.org/resource/Videography and the value is : 0
+http://dbpedia.org/resource/Wildlife and http://dbpedia.org/resource/Spearfishing and the value is : 0
+http://dbpedia.org/resource/Videography and http://dbpedia.org/resource/Spearfishing and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+george bovell iii born august 8 1982 is a trinidadian swimmer. he is a threetime olympic medalist a twotime world champion and a former world record holder in the 50meter freestyle. he is the first swimmer from trinidad and tobago to win an olympic medal. bovell began swimming at the age of seven and was a member of the trinidad and tobago national team by the age of 13. he attended auburn university in the united states where he was a fourtime ncaa champion. he won a bronze medal in the 200meter individual medley at the 2004 summer olympics in athens greece and a silver medal in the same event at the 2008 summer olympics in beijing china. he also won a bronze medal in the 4100meter medley relay at the 2012 summer olympics in london england. at the 2013 world aquatics championships in barcelona spain bovell won gold medals in the 50meter freestyle and the 4100meter medley relay. he also set a world record in the 50 
+
+Coref Resolved : 
+george bovell iii born august 8 1982 is a trinidadian swimmer. george bovell iii born august 8 1982 is a threetime olympic medalist a twotime world champion and a former world record holder in the 50meter freestyle. george bovell iii born august 8 1982 is the first swimmer from trinidad and tobago to win an olympic medal. george bovell iii born august 8 1982 began swimming at the age of seven and was a member of the trinidad and tobago national team by the age of 13. george bovell iii born august 8 1982 attended auburn university in the united states where george bovell iii born august 8 1982 was a fourtime ncaa champion. george bovell iii born august 8 1982 won a bronze medal in the 200meter individual medley at the 2004 summer olympics in athens greece and a silver medal in the 200meter individual medley at the 2008 summer olympics in beijing china. george bovell iii born august 8 1982 also won a bronze medal in the 4100meter medley relay at the 2012 summer olympics in london england. at the 2013 world aquatics championships in barcelona spain george bovell iii born august 8 1982 won gold medals in the 50meter freestyle and the 4100meter medley relay. george bovell iii born august 8 1982 also set a world record in the 50meter freestyle 
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+george richard lytcott bovell born 18 july 1983 is an olympic bronze medalist swimmer and former world record holder from trinidad and tobago. bovell is also a twotime world championship bronze medalist a fourtime olympian and is the caribbean regions most successful swimmer. george bovell is currently a professional swimmer and intends to compete in a record fifth olympiad. bovell is also respected for his voluntary giving back initiatives such as the world swim against malaria and drowning in uganda 2013 with his friend ugandan swimmer max kanyarezi. he is known for organizing and conducting the annual george bovell dive in free swim clinics which are free for the youth of trinidad and tobago who enjoy the privilege of being coached and mentored by renowned olympic medalist swimmers from around the world. bovell is also the writer of a popular inspirational newspaper column in the trinidad guardian entitled reflections off the water. he is also one of the world economic forums global shapers from the port of spain hub. in addition to being a swimmer bovell is also a renowned freediving specialist and enjoys underwater wildlife videography and spearfishing. 
+
+Coref Resolved : 
+george richard lytcott bovell born 18 july 1983 is an olympic bronze medalist swimmer and former world record holder from trinidad and tobago. george richard lytcott bovell is also a twotime world championship bronze medalist a fourtime olympian and is the caribbean regions most successful swimmer. george richard lytcott bovell is currently a professional swimmer and intends to compete in a record fifth olympiad. george richard lytcott bovell is also respected for george richard lytcott bovell voluntary giving back initiatives such as the world swim against malaria and drowning in uganda 2013 with george richard lytcott bovell friend ugandan swimmer max kanyarezi. george richard lytcott bovell is known for organizing and conducting the annual george richard lytcott bovell dive in free swim clinics which are free for the youth of trinidad and tobagowho enjoy the privilege of being coached and mentored by renowned olympic medalist swimmers from around the world. george richard lytcott bovell is also the writer of a popular inspirational newspaper column in the trinidad guardian entitled reflections off the water. george richard lytcott bovell is also one of the world economic forums global shapers from the port of spain hub. in addition to being a swimmer george richard lytcott bovell is also a renowned freediving specialist and enjoys underwater wildlife videography and spearfishing.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.23943661971830985 and for ground truth is : 0.07142857142857142
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

@@ -1,0 +1,99 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/College_soccer and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/OL_Reign and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Seattle_Sounders_FC and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/A-League_Women and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/OL_Reign and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Seattle and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Newport_High_School_(Bellevue,_Washington) and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Bellevue,_Washington and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/College_soccer and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/University_of_Washington and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Freedom and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/2010_WPS_Draft and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Atlanta_Beat_(WPS) and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Freedom and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Freedom and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Seattle_Sounders_FC and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/A-League_Women and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Seattle_Sounders_FC and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Seattle_Sounders_FC and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 1
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Kate Deines (born April 15, 1988) is an American professional soccer player who currently plays for Reign FC of the National Women's Soccer League (NWSL).
+She previously played for the Seattle Sounders Women of the W-League, the Washington Spirit of the NWSL, and the Seattle Reign FC of the NWSL.
+Deines was born in Seattle, Washington and attended Newport High School in Bellevue, Washington.
+She played college soccer at the University of Washington from 2006 to 2009.
+During her college career, she was named to the All-Pac-10 First Team in 2008 and 2009.
+Deines was drafted by the Washington Freedom in the 2010 WPS Draft.
+She made her professional debut on April 11, 2010, in a match against the Atlanta Beat.
+She played for the Freedom until the team folded in 2011.
+In 2012, Deines signed with the Seattle Sounders Women of the W-League.
+She played for the Sounders for two seasons, helping the team win the W-League Championship in 2013.
+In 2014, Deines signed with the Washington Spirit of the NWSL.
+She made her debut for the.
+
+
+Coref Resolved: 
+
+Kate Deines (born April 15, 1988) is an American professional soccer player who currently plays for Reign FC of the National Women's Soccer League (NWSL).
+Kate Deines previously played for the Seattle Sounders Women of the W-League, the Washington Spirit of the NWSL, and the Seattle Reign FC of the NWSL.
+Kate Deines was born in Seattle, Washington and attended Newport High School in Bellevue, Washington .
+Kate Deines played college soccer at the University of Washington from 2006 to 2009.
+During Kate Deines college career, Kate Deines was named to the All-Pac-10 First Team in 2008 and 2009.
+Kate Deines was drafted by the Washington Freedom in the 2010 WPS Draft.
+Kate Deines made Kate Deines professional debut on April 11, 2010, in a match against the Atlanta Beat.
+Kate Deines played for the Washington Freedom until the Washington Freedom folded in 2011.
+In 2012, Kate Deines signed with the Seattle Sounders Women of the W-League.
+Kate Deines played for the Seattle Sounders Women of the W-Leaguefor two seasons, helping the Seattle Sounders Women of the W-Leaguewin the the W-LeagueChampionship in 2013.
+In 2014, Kate Deines signed with the Washington Spirit of the NWSL.
+Kate Deines made Kate Deines debut for the Washington Spirit of the NWSL.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Kathleen "Kate" Ann Deines (born September 17, 1989) is an American soccer midfielder-defender.
+She most recently played for Turbine Potsdam in the German Bundesliga and Seattle Reign FC of the National Women's Soccer League.
+Deines was a fourth round pick (23rd overall) of the Atlanta Beat of Women's Professional Soccer in the 2012 WPS Draft of college seniors on January 13, 2012.
+The WPS Board of Governors voted to suspend the 2012 season on January 30, citing pending legal issues.
+Subsequently, she was free to sign with other teams and rejoined the Seattle Sounders Women, the organization she had previously played for from 2007 to 2009.
+After the formation of the National Women's Soccer League in late 2012, Deines played for the Seattle Reign during the league's first two seasons.
+She was traded to FC Kansas City in late 2014 but announced her retirement from professional soccer on March 31, 2015 before the 2015 season began.
+ 
+
+Coref Resolved: 
+
+Kathleen "Kate" Ann Deines (born September 17, 1989) is an American soccer midfielder-defender.
+Kathleen "Kate" Ann Deines (born September 17, 1989) most recently played for Turbine Potsdam in the German Bundesliga and Seattle Reign FC of the National Women's Soccer League.
+Kathleen "Kate" Ann Deines (born September 17, 1989) was a fourth round pick (23rd overall) of the Atlanta Beat of Women's Professional Soccer in the 2012 WPS Draft of college seniors on January 13, 2012.
+The WPS Board of Governors voted to suspend the 2012 season on January 30, citing pending legal issues.
+Subsequently, Kathleen "Kate" Ann Deines (born September 17, 1989) was free to sign with other teams and rejoined the Seattle Sounders Women, the organization Kathleen "Kate" Ann Deines (born September 17, 1989) had previously played for from 2007 to 2009.
+After the formation of the National Women's Soccer Leaguein late 2012, Kathleen "Kate" Ann Deines (born September 17, 1989) played for Seattle Reign FC of the National Women's Soccer Leagueduring the National Women's Soccer Leaguefirst two seasons.
+Kathleen "Kate" Ann Deines (born September 17, 1989) was traded to FC Kansas City in late 2014 but announced Kathleen "Kate" Ann Deines (born September 17, 1989) retirement from professional soccer on March 31, 2015 before the 2015 season began.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.6666666666666666 0.5 0.0 0.5 -1 0.0 1.0 0.0 0.0 0.0 0.5 0.5 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate 
+

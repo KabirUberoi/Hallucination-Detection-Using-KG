@@ -1,0 +1,71 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Sufjan_Stevens and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Oldham and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Wine and the value is : 0
+http://dbpedia.org/resource/Sufjan_Stevens and http://dbpedia.org/resource/Oldham and the value is : 0
+http://dbpedia.org/resource/Sufjan_Stevens and http://dbpedia.org/resource/Iron and the value is : 1
+http://dbpedia.org/resource/Sufjan_Stevens and http://dbpedia.org/resource/Wine and the value is : 1
+http://dbpedia.org/resource/Oldham and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Oldham and http://dbpedia.org/resource/Wine and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Wine and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Television and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Feature_film and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Cake and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Feature_film and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Cake and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Feature_film and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Cake and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Cake and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/University_of_Louisville and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Kentucky and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/University_of_Louisville and http://dbpedia.org/resource/Kentucky and the value is : 0
+http://dbpedia.org/resource/University_of_Louisville and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/University_of_Louisville and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Kentucky and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Kentucky and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Learning and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Piano and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Guitar and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Learning and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Piano and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Guitar and the value is : 0
+http://dbpedia.org/resource/Learning and http://dbpedia.org/resource/Piano and the value is : 0
+http://dbpedia.org/resource/Learning and http://dbpedia.org/resource/Guitar and the value is : 0
+http://dbpedia.org/resource/Piano and http://dbpedia.org/resource/Guitar and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Rodeo and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Fireproofing and the value is : 0
+http://dbpedia.org/resource/Rodeo and http://dbpedia.org/resource/Fireproofing and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+dawn landes born august 8 1979 is an american singersongwriter multiinstrumentalist and producer. she has released five solo albums and has collaborated with a variety of artists including sufjan stevens will oldham and iron wine. she has also composed music for film and television including the score for the feature film the cake eaters. landes was born in louisville kentucky and grew up in new york city. she began playing music at an early age learning to play the piano and guitar. she attended the university of north carolina at chapel hill where she studied music and theater. after college she moved to brooklyn new york and began performing in clubs and bars. she released her debut album dawns music in 2004. since then she has released four more albums including sweetheart rodeo 2008 dawn landes the hounds 2010 fireproof 2012 and meet me at the river 2018. 
+
+Coref Resolved : 
+dawn landes born august 8 1979 is an american singersongwriter multiinstrumentalist and producer. dawn landes born august 8 1979 has released five solo albums and has collaborated with a variety of artists including sufjan stevens will oldham and iron wine. dawn landes born august 8 1979 has also composed music for film and television including the score for the feature film the cake eaters. dawn landes born august 8 1979 was born in louisville kentucky and grew up in new york city. dawn landes born august 8 1979 began playing music at an early age learning to play the piano and guitar. dawn landes born august 8 1979 attended the university of north carolina at chapel hill where dawn landes born august 8 1979 studied music and theater. after college dawn landes born august 8 1979 moved to brooklyn new york and began performing in clubs and bars. dawn landes born august 8 1979 released dawn landes born august 8 1979 debut album dawns music in 2004. since then dawn landes born august 8 1979 has released four more albums including sweetheart rodeo 2008 dawn landes the hounds 2010 fireproof 2012 and meet me at the river 2018.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1111111111111111
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

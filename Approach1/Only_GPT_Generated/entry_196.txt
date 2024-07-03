@@ -1,0 +1,32 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Anand_district and http://dbpedia.org/resource/Economist and the value is : 0
+http://dbpedia.org/resource/Anand_district and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/Anand_district and http://dbpedia.org/resource/State_Bank_of_India and the value is : 0
+http://dbpedia.org/resource/Economist and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/Economist and http://dbpedia.org/resource/State_Bank_of_India and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/State_Bank_of_India and the value is : 0
+http://dbpedia.org/resource/Anand_district and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Anand_district and http://dbpedia.org/resource/Independent_Broadcasting_Authority and the value is : 0
+http://dbpedia.org/resource/Anand_district and http://dbpedia.org/resource/National_Advisory_Council and the value is : 0
+http://dbpedia.org/resource/Anand_district and http://dbpedia.org/resource/Prime_Minister_of_India and the value is : 0
+http://dbpedia.org/resource/Anand_district and http://dbpedia.org/resource/Bank_reserves and the value is : 0
+http://dbpedia.org/resource/National_Advisory_Council and http://dbpedia.org/resource/Prime_Minister_of_India and the value is : 0
+http://dbpedia.org/resource/National_Advisory_Council and http://dbpedia.org/resource/Bank_reserves and the value is : 0
+http://dbpedia.org/resource/Prime_Minister_of_India and http://dbpedia.org/resource/Bank_reserves and the value is : 0
+http://dbpedia.org/resource/Anand_district and http://dbpedia.org/resource/Ahmedabad and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+b. k. anand born 8 august 1940 is an indian economist and the former chairman and managing director of the state bank of india sbi. he was appointed to the post in april 2006 and retired in august 2011. he is a fellow of the institute of chartered accountants of india and a fellow of the institute of cost and works accountants of india. he has also served as the chairman of the indian banks association iba. he has been a member of the national advisory council of the prime minister of india and the central board of directors of the reserve bank of india. he has also served as a member of the board of governors of the indian institute of management ahmedabad. 
+
+Coref Resolved : 
+b. k. anand born 8 august 1940 is an indian economist and the former chairman and managing director of the state bank of india sbi. b. k. anand born 8 august 1940 was appointed to the post in april 2006 and retired in august 2011. b. k. anand born 8 august 1940 is a fellow of the institute of chartered accountants of india and a fellow of the institute of cost and works accountants of india. b. k. anand born 8 august 1940 has also served as the chairman of the indian banks association iba. b. k. anand born 8 august 1940 has been a member of the national advisory council of the prime minister of india and the central board of directors of the reserve bank of india. b. k. anand born 8 august 1940 has also served as a member of the board of governors of the indian institute of management ahmedabad.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,212 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Plant_taxonomy and the value is : 1
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Flora and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Western_Ghats and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Plant_taxonomy and the value is : 1
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Flora and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Western_Ghats and the value is : 0
+http://dbpedia.org/resource/Plant_taxonomy and http://dbpedia.org/resource/Flora and the value is : 0
+http://dbpedia.org/resource/Plant_taxonomy and http://dbpedia.org/resource/Western_Ghats and the value is : 0
+http://dbpedia.org/resource/Flora and http://dbpedia.org/resource/Western_Ghats and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Kozhikode and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Kozhikode and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Kozhikode and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Indian_National_Science_Academy and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Padma_Shri and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Civil_decorations_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Padma_Shri and http://dbpedia.org/resource/Civil_decorations_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Village and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Mukkulathor and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Kerala and the value is : 0
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Mukkulathor and the value is : 0
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Kerala and the value is : 0
+http://dbpedia.org/resource/Mukkulathor and http://dbpedia.org/resource/Kerala and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Bachelor_of_Science and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Chennai and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Kerala and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Chennai and the value is : 1
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Kerala and the value is : 0
+http://dbpedia.org/resource/Chennai and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/Chennai and http://dbpedia.org/resource/Kerala and the value is : 0
+http://dbpedia.org/resource/Master_of_Science and http://dbpedia.org/resource/Kerala and the value is : 1
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Kozhikode and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Lecturer and the value is : 1
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Kozhikode and http://dbpedia.org/resource/Lecturer and the value is : 0
+http://dbpedia.org/resource/Kozhikode and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Lecturer and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Professor and the value is : 1
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Kozhikode and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Kozhikode and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Manilal_Gandhi and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Kozhikode and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Linnaean_taxonomy and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Translation and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Annotation and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Kozhikode and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Botany and the value is : 1
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Linnaean_taxonomy and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Translation and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Annotation and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Kozhikode and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Botany and the value is : 1
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Linnaean_taxonomy and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Translation and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Annotation and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 0
+http://dbpedia.org/resource/Kozhikode and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Kozhikode and http://dbpedia.org/resource/Linnaean_taxonomy and the value is : 0
+http://dbpedia.org/resource/Kozhikode and http://dbpedia.org/resource/Translation and the value is : 1
+http://dbpedia.org/resource/Kozhikode and http://dbpedia.org/resource/Annotation and the value is : 0
+http://dbpedia.org/resource/Kozhikode and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Kozhikode and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Kozhikode and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Linnaean_taxonomy and the value is : 1
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Translation and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Annotation and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 0
+http://dbpedia.org/resource/Linnaean_taxonomy and http://dbpedia.org/resource/Translation and the value is : 1
+http://dbpedia.org/resource/Linnaean_taxonomy and http://dbpedia.org/resource/Annotation and the value is : 0
+http://dbpedia.org/resource/Linnaean_taxonomy and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Linnaean_taxonomy and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Linnaean_taxonomy and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 0
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Annotation and the value is : 0
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Latin and the value is : 1
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 1
+http://dbpedia.org/resource/Annotation and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Annotation and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Annotation and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 0
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 0
+http://dbpedia.org/resource/Treatise and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 1
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Annotation and the value is : 1
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Latin and the value is : 1
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Light and the value is : 0
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Malabar_Coast and the value is : 0
+http://dbpedia.org/resource/Annotation and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Annotation and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Annotation and http://dbpedia.org/resource/Light and the value is : 0
+http://dbpedia.org/resource/Annotation and http://dbpedia.org/resource/Malabar_Coast and the value is : 0
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Light and the value is : 1
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Malabar_Coast and the value is : 0
+http://dbpedia.org/resource/Treatise and http://dbpedia.org/resource/Light and the value is : 0
+http://dbpedia.org/resource/Treatise and http://dbpedia.org/resource/Malabar_Coast and the value is : 1
+http://dbpedia.org/resource/Light and http://dbpedia.org/resource/Malabar_Coast and the value is : 0
+http://dbpedia.org/resource/Hortus_Malabaricus and http://dbpedia.org/resource/Linnaean_taxonomy and the value is : 0
+http://dbpedia.org/resource/Hortus_Malabaricus and http://dbpedia.org/resource/Listed_building and the value is : 0
+http://dbpedia.org/resource/Hortus_Malabaricus and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Hortus_Malabaricus and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Hortus_Malabaricus and http://dbpedia.org/resource/Code_of_law and the value is : 0
+http://dbpedia.org/resource/Hortus_Malabaricus and http://dbpedia.org/resource/Manilal_Gandhi and the value is : 0
+http://dbpedia.org/resource/Linnaean_taxonomy and http://dbpedia.org/resource/Listed_building and the value is : 0
+http://dbpedia.org/resource/Linnaean_taxonomy and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Linnaean_taxonomy and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Linnaean_taxonomy and http://dbpedia.org/resource/Code_of_law and the value is : 1
+http://dbpedia.org/resource/Linnaean_taxonomy and http://dbpedia.org/resource/Manilal_Gandhi and the value is : 0
+http://dbpedia.org/resource/Listed_building and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Listed_building and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Listed_building and http://dbpedia.org/resource/Code_of_law and the value is : 0
+http://dbpedia.org/resource/Listed_building and http://dbpedia.org/resource/Manilal_Gandhi and the value is : 0
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Treatise and the value is : 1
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Code_of_law and the value is : 0
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Manilal_Gandhi and the value is : 0
+http://dbpedia.org/resource/Treatise and http://dbpedia.org/resource/Code_of_law and the value is : 0
+http://dbpedia.org/resource/Treatise and http://dbpedia.org/resource/Manilal_Gandhi and the value is : 0
+http://dbpedia.org/resource/Code_of_law and http://dbpedia.org/resource/Manilal_Gandhi and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Amsterdam and the value is : 0
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Amsterdam and the value is : 0
+http://dbpedia.org/resource/Treatise and http://dbpedia.org/resource/Amsterdam and the value is : 0
+http://dbpedia.org/resource/Hortus_Malabaricus and http://dbpedia.org/resource/Translation and the value is : 1
+http://dbpedia.org/resource/Hortus_Malabaricus and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Hortus_Malabaricus and http://dbpedia.org/resource/Treatise and the value is : 1
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Treatise and the value is : 1
+http://dbpedia.org/resource/International_Code_of_Nomenclature_for_algae,_fungi,_and_plants and http://dbpedia.org/resource/Synonym and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Latin and the value is : 1
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Linguistics and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Linguistics and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 0
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Treatise and the value is : 1
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Linguistics and the value is : 0
+http://dbpedia.org/resource/Latin and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 0
+http://dbpedia.org/resource/Treatise and http://dbpedia.org/resource/Linguistics and the value is : 0
+http://dbpedia.org/resource/Treatise and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 0
+http://dbpedia.org/resource/Linguistics and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Species_description and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Species and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Flowering_plant and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Subspecies and the value is : 1
+http://dbpedia.org/resource/Species and http://dbpedia.org/resource/Flowering_plant and the value is : 0
+http://dbpedia.org/resource/Species and http://dbpedia.org/resource/Subspecies and the value is : 0
+http://dbpedia.org/resource/Flowering_plant and http://dbpedia.org/resource/Subspecies and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Flowering_plant and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Linnaean_taxonomy and the value is : 1
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Iaat and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Flowering_plant and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Linnaean_taxonomy and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Iaat and the value is : 0
+http://dbpedia.org/resource/Flowering_plant and http://dbpedia.org/resource/Linnaean_taxonomy and the value is : 0
+http://dbpedia.org/resource/Flowering_plant and http://dbpedia.org/resource/Iaat and the value is : 0
+http://dbpedia.org/resource/Linnaean_taxonomy and http://dbpedia.org/resource/Iaat and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+k. s. manilal 19252006 was an indian botanist and plant taxonomist who specialized in the study of the flora of the western ghats. he was a professor at the university of calicut and the founder of the centre for advanced studies in botany at the university. he was a fellow of the indian academy of sciences and the indian national science academy. he was also a recipient of the padma shri the fourth highest civilian award in india. manilal was born in 1925 in the village of kallar in kerala. he obtained his b.sc. degree from the university of madras in 1945 and his m.sc. degree from the university of kerala in 1947. he then joined the university of calicut as a lecturer in botany in 1948. he was promoted to professor in 1962 and served as the head of the department of botany from 1965 to 1975. he was also the founder of the centre for advanced studies in botany at the university. manilal was a prolific researcher and published over 200 research papers in various journals. he was an 
+
+Coref Resolved : 
+k. s. manilal 19252006 was an indian botanist and plant taxonomist who specialized in the study of the flora of the western ghats. manilal was a professor at the university of calicut and the founder of the centre for advanced studies in botany at the university of calicut . manilal was a fellow of the indian academy of sciences and the indian national science academy. manilal was also a recipient of the padma shri the fourth highest civilian award in india. manilal was born in 1925 in the village of kallar in kerala. manilal obtained manilal b.sc. degree from the university of madras in 1945 and manilal m.sc. degree from the university of kerala in 1947. manilal then joined the university of calicut as a lecturer in botany in 1948. manilal was promoted to professor in 1962 and served as the head of the department of botany from 1965 to 1975. manilal was also the founder of the centre for advanced studies in botany at the university of calicut . manilal was a prolific researcher and published over 200 research papers in various journals. manilal was an
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+professor kattungal subramaniam manilal born 17 september 1938 is an emeritus of the university of calicut a botany scholar and taxonomist who devoted over 35 years of his life to research translation and annotation work of the latin botanical treatise hortus malabaricus. this epic effort brought to light the main contents of the book a wealth of botanical information on malabar that had largely remained inaccessible to englishspeaking scholars because the entire text was in the latin language. despite the existence of hendrik van rheedes hortus malabaricus over the last three centuries the correct taxonomic identity of many plants listed in hortus malabaricus their medicinal properties methods of use etc. as described and codified by renowned traditional medical authorities of 17th century india remained inaccessible to english languagebased scholars until manilal commenced publication of research papers and books on hortus malabaricus. manilals efforts ultimately resulted in an english edition of hortus malabaricus for the first time 325 years after its original publication from amsterdam. the english edition contains a wordbyword translation of all the twelve volumes of the book retaining the original style of language. medicinal properties of plants are translated and interpreted with commentaries on their malayalam names given by van rheede. in addition the correct scientific identity of all plants acceptable under icbn are set out along with their important synonyms and basionyms. whilst the scope of manilals contributions to botany extend far beyond the research and publications around hortus malabaricus his research work on hortus malabaricus alone are of botanical and sociohistoric significance and can be broadly classified under two heads botanical and medicinal aspects of hortus malabaricus and historical political social and linguistic aspects of hortus malabaricus. manilal has over 198 published research papers and 15 books to his credit as author and coauthor. he and his associates have credits to discovering over 14 species of flowering plants varieties and combinations new to science. manilal is the founder president of the indian association for angiosperm taxonomy iaat. 
+
+Coref Resolved : 
+professor kattungal subramaniam manilal born 17 september 1938 is an emeritus of the university of calicut a botany scholar and taxonomist who devoted over 35 years of manilal born 17 september 1938 life to research translation and annotation work of the latin botanical treatise hortus malabaricus. research translation and annotation work of the latin botanical treatise hortus malabaricusbrought to light the main contents of the latin botanical treatise hortus malabaricusa wealth of botanical information on malabar that had largely remained inaccessible to englishspeaking scholars because the latin botanical treatise hortus malabaricuswas in the latin language. despite the existence of hendrik van rheedes hortus malabaricus over the last three centuries the correct taxonomic identity of many plants listed in the latin botanical treatise hortus malabaricusmany plants listed in hortus malabaricus medicinal properties methods of use etc. as described and codified by renowned traditional medical authorities of 17th century india remained inaccessible to english languagebased scholars until manilal born 17 september 1938 commenced publication of research papers and books on the latin botanical treatise hortus malabaricus. manilal born 17 september 1938 efforts ultimately resulted in an english edition of the latin botanical treatise hortus malabaricusfor the first time 325 years after the latin botanical treatise hortus malabaricusoriginal publication from amsterdam. an english edition of hortus malabaricus for the first time 325 years after its original publication from amsterdamcontains a wordbyword translation of all the twelve volumes of the latin botanical treatise hortus malabaricusretaining the original style of language. medicinal properties of plants are translated and interpreted with commentaries on plants malayalam names given by hendrik van rheedes . in addition the correct scientific identity of all plants acceptable under icbn are set out along with all plants acceptable under icbn important synonyms and basionyms. whilst the scope of manilal born 17 september 1938 contributions to botany extend far beyond the research and publications around the latin botanical treatise hortus malabaricusmanilal born 17 september 1938 research work on the latin botanical treatise hortus malabaricusalone are of botanical and sociohistoric significance and can be broadly classified under two heads botanical and medicinal aspects of the latin botanical treatise hortus malabaricusand historical political social and linguistic aspects of the latin botanical treatise hortus malabaricus. manilal born 17 september 1938 has over 198 published research papers and 15 books to manilal born 17 september 1938 credit as author and coauthor. manilal born 17 september 1938 and manilal born 17 september 1938 associates have credits to discovering over 14 species of flowering plants varieties and combinations new to science. manilal born 17 september 1938 is the founder president of the indian association for angiosperm taxonomy iaat.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.125 and for ground truth is : 0.15441176470588236
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate accurate accurate 
+

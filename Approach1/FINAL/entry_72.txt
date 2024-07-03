@@ -1,0 +1,293 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Christian_mission and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Aircraft_pilot and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Evangelism and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Christian_mission and http://dbpedia.org/resource/Aircraft_pilot and the value is : 0
+http://dbpedia.org/resource/Christian_mission and http://dbpedia.org/resource/Evangelism and the value is : 1
+http://dbpedia.org/resource/Christian_mission and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Christian_mission and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Evangelism and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Huaorani_people and the value is : 1
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Evangelism and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Evangelism and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Fort_Wayne_Daisies and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Indiana and the value is : 0
+http://dbpedia.org/resource/Fort_Wayne_Daisies and http://dbpedia.org/resource/Indiana and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Wheaton_College_(Illinois) and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Illinois and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Aerospace_engineering and the value is : 1
+http://dbpedia.org/resource/Wheaton_College_(Illinois) and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Wheaton_College_(Illinois) and http://dbpedia.org/resource/Aerospace_engineering and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Aerospace_engineering and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Aircraft_pilot and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Mission_Aviation_Fellowship and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Belgian_Congo and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Mission_Aviation_Fellowship and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Belgian_Congo and the value is : 0
+http://dbpedia.org/resource/Mission_Aviation_Fellowship and http://dbpedia.org/resource/Belgian_Congo and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Marj and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Saint and the value is : 0
+http://dbpedia.org/resource/Marj and http://dbpedia.org/resource/Saint and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Pete_Fleming and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Newton_A._McCully and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Mission_Aviation_Fellowship and the value is : 0
+http://dbpedia.org/resource/Pete_Fleming and http://dbpedia.org/resource/Newton_A._McCully and the value is : 1
+http://dbpedia.org/resource/Pete_Fleming and http://dbpedia.org/resource/Mission_Aviation_Fellowship and the value is : 0
+http://dbpedia.org/resource/Newton_A._McCully and http://dbpedia.org/resource/Mission_Aviation_Fellowship and the value is : 1
+http://dbpedia.org/resource/Mission_Aviation_Fellowship and http://dbpedia.org/resource/Evangelism and the value is : 0
+http://dbpedia.org/resource/Mission_Aviation_Fellowship and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Mission_Aviation_Fellowship and http://dbpedia.org/resource/Ecuador and the value is : 1
+http://dbpedia.org/resource/Evangelism and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Evangelism and http://dbpedia.org/resource/Ecuador and the value is : 1
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Ecuador and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Pete_Fleming and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Newton_A._McCully and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Pete_Fleming and http://dbpedia.org/resource/Newton_A._McCully and the value is : 1
+http://dbpedia.org/resource/Pete_Fleming and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Pete_Fleming and http://dbpedia.org/resource/Ecuador and the value is : 1
+http://dbpedia.org/resource/Newton_A._McCully and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Newton_A._McCully and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Ecuador and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Evangelicalism and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Missionary and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Aircraft_pilot and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Ecuador and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Evangelism and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Operation_Auca and the value is : 0
+http://dbpedia.org/resource/Evangelicalism and http://dbpedia.org/resource/Missionary and the value is : 1
+http://dbpedia.org/resource/Evangelicalism and http://dbpedia.org/resource/Aircraft_pilot and the value is : 0
+http://dbpedia.org/resource/Evangelicalism and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Evangelicalism and http://dbpedia.org/resource/Evangelism and the value is : 0
+http://dbpedia.org/resource/Evangelicalism and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Evangelicalism and http://dbpedia.org/resource/Operation_Auca and the value is : 1
+http://dbpedia.org/resource/Missionary and http://dbpedia.org/resource/Aircraft_pilot and the value is : 1
+http://dbpedia.org/resource/Missionary and http://dbpedia.org/resource/Ecuador and the value is : 1
+http://dbpedia.org/resource/Missionary and http://dbpedia.org/resource/Evangelism and the value is : 0
+http://dbpedia.org/resource/Missionary and http://dbpedia.org/resource/Huaorani_people and the value is : 1
+http://dbpedia.org/resource/Missionary and http://dbpedia.org/resource/Operation_Auca and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Ecuador and the value is : 1
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Evangelism and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Huaorani_people and the value is : 1
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Operation_Auca and the value is : 0
+http://dbpedia.org/resource/Ecuador and http://dbpedia.org/resource/Evangelism and the value is : 1
+http://dbpedia.org/resource/Ecuador and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Ecuador and http://dbpedia.org/resource/Operation_Auca and the value is : 0
+http://dbpedia.org/resource/Evangelism and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Evangelism and http://dbpedia.org/resource/Operation_Auca and the value is : 1
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Operation_Auca and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Pilot_certification_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/American_Airlines and the value is : 0
+http://dbpedia.org/resource/Airplane and http://dbpedia.org/resource/Pilot_certification_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Airplane and http://dbpedia.org/resource/American_Airlines and the value is : 1
+http://dbpedia.org/resource/Pilot_certification_in_the_United_States and http://dbpedia.org/resource/American_Airlines and the value is : 0
+http://dbpedia.org/resource/Airplane and http://dbpedia.org/resource/Nate_Saint and the value is : 0
+http://dbpedia.org/resource/Airplane and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Patio and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Roller_coaster and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Patio and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Roller_coaster and the value is : 0
+http://dbpedia.org/resource/Patio and http://dbpedia.org/resource/Roller_coaster and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Las_Vegas and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Novella and the value is : 0
+http://dbpedia.org/resource/Las_Vegas and http://dbpedia.org/resource/Novella and the value is : 0
+http://dbpedia.org/resource/Sledding and http://dbpedia.org/resource/Nate_Saint and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Mountaineering and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Yosemite_National_Park and the value is : 1
+http://dbpedia.org/resource/Mountaineering and http://dbpedia.org/resource/Yosemite_National_Park and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Live_Life and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Jim_Halpert and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Newton_A._McCully and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Pete_Fleming and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Roger_Youderian and the value is : 0
+http://dbpedia.org/resource/Jim_Halpert and http://dbpedia.org/resource/Newton_A._McCully and the value is : 0
+http://dbpedia.org/resource/Jim_Halpert and http://dbpedia.org/resource/Pete_Fleming and the value is : 0
+http://dbpedia.org/resource/Jim_Halpert and http://dbpedia.org/resource/Roger_Youderian and the value is : 0
+http://dbpedia.org/resource/Newton_A._McCully and http://dbpedia.org/resource/Pete_Fleming and the value is : 0
+http://dbpedia.org/resource/Newton_A._McCully and http://dbpedia.org/resource/Roger_Youderian and the value is : 1
+http://dbpedia.org/resource/Pete_Fleming and http://dbpedia.org/resource/Roger_Youderian and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Settlement_movement and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/S.D._Aucas and the value is : 0
+http://dbpedia.org/resource/Settlement_movement and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Settlement_movement and http://dbpedia.org/resource/S.D._Aucas and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/S.D._Aucas and the value is : 0
+http://dbpedia.org/resource/Settlement_movement and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Settlement_movement and http://dbpedia.org/resource/S.D._Aucas and the value is : 0
+http://dbpedia.org/resource/Settlement_movement and http://dbpedia.org/resource/Nate_Saint and the value is : 0
+http://dbpedia.org/resource/Settlement_movement and http://dbpedia.org/resource/Helicopter_bucket and the value is : 0
+http://dbpedia.org/resource/Settlement_movement and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/S.D._Aucas and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Nate_Saint and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Helicopter_bucket and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/S.D._Aucas and http://dbpedia.org/resource/Nate_Saint and the value is : 0
+http://dbpedia.org/resource/S.D._Aucas and http://dbpedia.org/resource/Helicopter_bucket and the value is : 0
+http://dbpedia.org/resource/S.D._Aucas and http://dbpedia.org/resource/Airplane and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Helicopter_bucket and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/Helicopter_bucket and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Agent_provocateur and the value is : 0
+http://dbpedia.org/resource/Ecuador and http://dbpedia.org/resource/Agent_provocateur and the value is : 0
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/Settlement_movement and the value is : 0
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/S.D._Aucas and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Settlement_movement and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/S.D._Aucas and the value is : 0
+http://dbpedia.org/resource/Settlement_movement and http://dbpedia.org/resource/S.D._Aucas and the value is : 0
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/Spear and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Spear and the value is : 0
+http://dbpedia.org/resource/Life_(magazine) and http://dbpedia.org/resource/Photo-essay and the value is : 0
+http://dbpedia.org/resource/Missionary and http://dbpedia.org/resource/Seashell and the value is : 1
+http://dbpedia.org/resource/Missionary and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Missionary and http://dbpedia.org/resource/Nate_Saint and the value is : 1
+http://dbpedia.org/resource/Seashell and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Seashell and http://dbpedia.org/resource/Nate_Saint and the value is : 0
+http://dbpedia.org/resource/Ecuador and http://dbpedia.org/resource/Nate_Saint and the value is : 1
+http://dbpedia.org/resource/Rachel_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Rachel_Saint and http://dbpedia.org/resource/Fruition and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Fruition and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Nate_Saint and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Farris and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Canonization and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Grampa_Simpson and the value is : 1
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Le_Puy-en-Velay and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Mission_president and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/HCJB and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/Farris and http://dbpedia.org/resource/Canonization and the value is : 0
+http://dbpedia.org/resource/Farris and http://dbpedia.org/resource/Grampa_Simpson and the value is : 0
+http://dbpedia.org/resource/Farris and http://dbpedia.org/resource/Le_Puy-en-Velay and the value is : 0
+http://dbpedia.org/resource/Farris and http://dbpedia.org/resource/Mission_president and the value is : 0
+http://dbpedia.org/resource/Farris and http://dbpedia.org/resource/HCJB and the value is : 0
+http://dbpedia.org/resource/Farris and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/Grampa_Simpson and the value is : 0
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/Le_Puy-en-Velay and the value is : 0
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/Mission_president and the value is : 0
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/HCJB and the value is : 0
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/Grampa_Simpson and http://dbpedia.org/resource/Le_Puy-en-Velay and the value is : 0
+http://dbpedia.org/resource/Grampa_Simpson and http://dbpedia.org/resource/Mission_president and the value is : 0
+http://dbpedia.org/resource/Grampa_Simpson and http://dbpedia.org/resource/HCJB and the value is : 0
+http://dbpedia.org/resource/Grampa_Simpson and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/Mission_president and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/HCJB and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/Mission_president and http://dbpedia.org/resource/HCJB and the value is : 0
+http://dbpedia.org/resource/Mission_president and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/HCJB and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/Grampa_Simpson and http://dbpedia.org/resource/Le_Puy-en-Velay and the value is : 0
+http://dbpedia.org/resource/Grampa_Simpson and http://dbpedia.org/resource/Mission_president and the value is : 0
+http://dbpedia.org/resource/Grampa_Simpson and http://dbpedia.org/resource/HCJB and the value is : 0
+http://dbpedia.org/resource/Grampa_Simpson and http://dbpedia.org/resource/Marj_Brasch and the value is : 0
+http://dbpedia.org/resource/Grampa_Simpson and http://dbpedia.org/resource/Farris and the value is : 0
+http://dbpedia.org/resource/Grampa_Simpson and http://dbpedia.org/resource/Canonization and the value is : 0
+http://dbpedia.org/resource/Grampa_Simpson and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/Mission_president and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/HCJB and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/Marj_Brasch and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/Farris and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/Canonization and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/Mission_president and http://dbpedia.org/resource/HCJB and the value is : 0
+http://dbpedia.org/resource/Mission_president and http://dbpedia.org/resource/Marj_Brasch and the value is : 0
+http://dbpedia.org/resource/Mission_president and http://dbpedia.org/resource/Farris and the value is : 0
+http://dbpedia.org/resource/Mission_president and http://dbpedia.org/resource/Canonization and the value is : 0
+http://dbpedia.org/resource/Mission_president and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/HCJB and http://dbpedia.org/resource/Marj_Brasch and the value is : 0
+http://dbpedia.org/resource/HCJB and http://dbpedia.org/resource/Farris and the value is : 0
+http://dbpedia.org/resource/HCJB and http://dbpedia.org/resource/Canonization and the value is : 0
+http://dbpedia.org/resource/HCJB and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Farris and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Canonization and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/Farris and http://dbpedia.org/resource/Canonization and the value is : 0
+http://dbpedia.org/resource/Farris and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Farris and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Canonization and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Fresh_Meadows,_Queens and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Memorial and the value is : 0
+http://dbpedia.org/resource/Marj_Brasch and http://dbpedia.org/resource/Ocala_Stampede and the value is : 0
+http://dbpedia.org/resource/Farris and http://dbpedia.org/resource/Canonization and the value is : 0
+http://dbpedia.org/resource/Farris and http://dbpedia.org/resource/Fresh_Meadows,_Queens and the value is : 0
+http://dbpedia.org/resource/Farris and http://dbpedia.org/resource/Memorial and the value is : 1
+http://dbpedia.org/resource/Farris and http://dbpedia.org/resource/Ocala_Stampede and the value is : 1
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/Fresh_Meadows,_Queens and the value is : 0
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/Memorial and the value is : 0
+http://dbpedia.org/resource/Canonization and http://dbpedia.org/resource/Ocala_Stampede and the value is : 0
+http://dbpedia.org/resource/Fresh_Meadows,_Queens and http://dbpedia.org/resource/Memorial and the value is : 0
+http://dbpedia.org/resource/Fresh_Meadows,_Queens and http://dbpedia.org/resource/Ocala_Stampede and the value is : 0
+http://dbpedia.org/resource/Memorial and http://dbpedia.org/resource/Ocala_Stampede and the value is : 0
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Missionary and the value is : 0
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 1
+http://dbpedia.org/resource/Missionary and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Missionary and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Baptism_in_Mormonism and the value is : 0
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Mincaye and the value is : 1
+http://dbpedia.org/resource/Baptism_in_Mormonism and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Baptism_in_Mormonism and http://dbpedia.org/resource/Mincaye and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Mincaye and the value is : 0
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 1
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Mincaye and the value is : 0
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Mincaye and the value is : 1
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Jesus and the value is : 1
+http://dbpedia.org/resource/Mincaye and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/January_20 and the value is : 0
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Jungle and the value is : 0
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Aircraft_pilot and the value is : 0
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Diary and the value is : 1
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Ecuador and the value is : 1
+http://dbpedia.org/resource/Steve_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Jungle and http://dbpedia.org/resource/Aircraft_pilot and the value is : 0
+http://dbpedia.org/resource/Jungle and http://dbpedia.org/resource/Diary and the value is : 0
+http://dbpedia.org/resource/Jungle and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Jungle and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Diary and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Diary and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Diary and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Ecuador and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+nate saint august 28 1923 january 8 1956 was an american christian missionary pilot and one of five martyrs killed while attempting to evangelize the huaorani people of eastern ecuador. saint was born in fort wayne indiana and grew up in florida. he attended wheaton college in illinois where he studied aeronautical engineering and earned his pilots license. after graduating in 1947 he worked as a pilot for mission aviation fellowship maf in the belgian congo. in 1950 he returned to the united states and married marj saint. in 1953 saint and four other missionariesjim elliot peter fleming ed mccully and roger youderianformed the missionary aviation fellowships maf ecuadorian mission. the groups goal was to evangelize the huaorani people a tribe of huntergatherers living in the amazon rainforest. on january 8 1956 saint and the other four missionaries were killed by huaorani warriors while attempting to make contact with the tribe. 
+
+Coref Resolved : 
+nate saint august 28 1923 january 8 1956 was an american christian missionary pilot and one of five martyrs killed while attempting to evangelize the huaorani people of eastern ecuador. nate saint was born in fort wayne indiana and grew up in florida. nate saint attended wheaton college in illinois where nate saint studied aeronautical engineering and earned nate saint pilots license. after graduating in 1947 nate saint worked as a pilot for mission aviation fellowship maf in the belgian congo. in 1950 nate saint returned to the united states and married marj saint. in 1953 nate saint and four other missionariesjim elliot peter fleming ed mccully and roger youderianformed mission aviation fellowship maf . mission aviation fellowship maf goal was to evangelize the huaorani people of eastern ecuador. on january 8 1956 nate saint and four other missionariesjim elliot peter fleming ed mccully and roger youderianformed were killed by huaorani warriors while attempting to make contact with the huaorani people of eastern ecuador.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+nate saint august 30 1923 january 8 1956 was an evangelical christian missionary pilot to ecuador who along with four others was killed while attempting to evangelize the huaorani people through efforts known as operation auca. nate saint was born in 1923. when he was seven he took his first plane ride with his brother sam who would eventually become a commercial pilot for american airlines. while in the airplane he discovered a love of flying. his family was somewhat unusual his brothers made a sleeping patio on the roof of their home and his dad built a roller coaster in the backyard. when he joined the army he was stationed in las vegas nv but was transferred to several other locations over the years. a leg injury from a sledding accident caused him some problems while he was in the army. about a year before he was discharged he almost died while climbing a mountain in yosemite national park. after that incident he learned to live life to the fullest. in september 1955 nate was joined by his teammates jim elliot ed mccully pete fleming and roger youderian. saint finally found a settlement of the huaorani also known as aucas while searching by air. to reach the tribe saint and the team lowered gifts to the huaorani in a bucket tied to the plane. the huaorani were widely feared by other ecuadoreans because they combined a desire to be left alone with a willingness to use force they attacked and killed any intruders without provocation. nevertheless the tribe was excited on receiving the gifts and gave some gifts back. finally the missionaries decided to try to meet the huaorani on the ground and on january 3 1956 using the beach as a landing strip they set up camp four miles from the huaorani settlement. their initial contact was encouraging however on sunday january 8 1956 the entire team was killed on the beach known as palm beach when armed huaorani met and speared them. saint and the other four men became famous worldwide as a result. life magazine published a 10page photo essay on the story which was also covered in readers digest and many other publications. today a small school for missionary children in shell ecuador bears nate saints name. rachel saint nates sister continued the mission efforts to the huaorani which eventually came to fruition. this resulted in many of these natives becoming christians including those who had killed saint. in 1966 marjorie marj farris saint married abe van der puy president of hcjb world radio. abe died in 2003 and marj died in 2004 from cancer. she is buried in hillcrest memorial gardens south of ocala florida. nates older son steve saint spent time as a child visiting his missionary family members and friends and getting to know the huaorani. steve was baptized in the name of jesus christ by mincaye who was the very man who killed his father but later converted to christ. steve saint now works with the huaorani people and travels around the world preaching the gospel often accompanied by mincaye. a documentary based on the story through the gates of splendor was released in 2005. the following year a feature film end of the spear was released on january 20 a week and a half after the 50year anniversary of the killings. steve saint also helped write jungle pilot based on his fathers diary about his time in ecuador and work with the huaorani indians. 
+
+Coref Resolved : 
+nate saint august 30 1923 january 8 1956 was an evangelical christian missionary pilot to ecuador who along with four others was killed while attempting to evangelize the huaorani people through efforts known as operation auca. nate saint was born in 1923. when nate saint was seven nate saint took nate saint first plane ride with nate saint brother sam who would eventually become a commercial pilot for american airlines. while in the airplane nate saint discovered a love of flying. nate saint family was somewhat unusual nate saint brothers made a sleeping patio on the roof of his brothers home and nate saint dad built a roller coaster in the backyard. when nate saint joined the army nate saint was stationed in las vegas nv but was transferred to several other locations over the years. a leg injury from a sledding accident caused nate saint some problems while nate saint was in the army . about a year before nate saint was discharged nate saint almost died while climbing a mountain in yosemite national park. after that incident nate saint learned to live life to the fullest. in september 1955 nate saint was joined by nate saint teammates jim elliot ed mccully pete fleming and roger youderian. nate saint finally found a settlement of the huaorani people also known as aucas while searching by air. to reach a settlement of the huaorani also known as aucas nate saint and the team lowered gifts to the huaorani people in a bucket tied to the plane. the huaorani people were widely feared by other ecuadoreans because the huaorani people combined a desire to be left alone with a willingness to use force the huaorani people attacked and killed any intruders without provocation. nevertheless the huaorani people was excited on receiving gifts and gave some gifts back. finally saint and the team decided to try to meet the huaorani people on the ground and on january 3 1956 using the beach as a landing strip saint and the team set up camp four miles from a settlement of the huaorani also known as aucas . saint and the team initial contact was encouraging however on sunday january 8 1956 saint and the team was killed on the beach when armed huaorani met and speared saint and the team . nate saint and the other four men became famous worldwide as a result. life magazine published a 10page photo essay on the story which was also covered in readers digest and many other publications. today a small school for missionary children in shell ecuador bears nate saint name. rachel saint nates sister continued the mission efforts to the huaorani which eventually came to fruition. the mission efforts to the huaorani which eventually came to fruitionresulted in many of the huaorani becoming christians including those who had killed nate saint . in 1966 marjorie marj farris saint married abe van der puy president of hcjb world radio. abe van der puy president of hcjb world radiodied in 2003 and marjorie marj farris saint died in 2004 from cancer. marjorie marj farris saint is buried in hillcrest memorial gardens south of ocala florida. nates older son steve saint spent time as a child visiting nates older son steve saint missionary family members and friends and getting to know the huaorani. nates older son steve saint was baptized in the name of jesus christ by mincaye who was the very man who killed nates older son steve saint father but later converted to christ. nates older son steve saint now works with the huaorani people and travels around the world preaching the gospel often accompanied by mincaye who was the very man who killed his father but later converted to christ. a documentary based on the story through the gates of splendor was released in 2005. the following year a feature film end of the spear was released on january 20 a week and a half after the 50year anniversary of the killings. nates older son steve saint also helped write jungle pilot based on nates older son steve saint fathers diary about his fathers time in ecuador and work with the huaorani indians.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.32727272727272727 and for ground truth is : 0.16666666666666666
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate major_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate 
+

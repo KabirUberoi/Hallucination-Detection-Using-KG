@@ -1,0 +1,59 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Sandara_Park and http://dbpedia.org/resource/Grace_in_Christianity and the value is : 0
+http://dbpedia.org/resource/Sandara_Park and http://dbpedia.org/resource/Fernando_Torres and the value is : 0
+http://dbpedia.org/resource/Sandara_Park and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Sandara_Park and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Sandara_Park and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/Grace_in_Christianity and http://dbpedia.org/resource/Fernando_Torres and the value is : 0
+http://dbpedia.org/resource/Grace_in_Christianity and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Grace_in_Christianity and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Grace_in_Christianity and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/Fernando_Torres and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Fernando_Torres and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Fernando_Torres and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/Fernando_Torres and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Fernando_Torres and http://dbpedia.org/resource/2000_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Fernando_Torres and http://dbpedia.org/resource/United_States_at_the_Olympics and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/2000_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/United_States_at_the_Olympics and the value is : 0
+http://dbpedia.org/resource/2000_Summer_Olympics and http://dbpedia.org/resource/United_States_at_the_Olympics and the value is : 0
+http://dbpedia.org/resource/Swimming_at_the_2008_Summer_Olympics and http://dbpedia.org/resource/Fernando_Torres and the value is : 1
+http://dbpedia.org/resource/Swimming_at_the_2008_Summer_Olympics and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Swimming_at_the_2008_Summer_Olympics and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Swimming_at_the_2008_Summer_Olympics and http://dbpedia.org/resource/Relay_race and the value is : 1
+http://dbpedia.org/resource/Swimming_at_the_2008_Summer_Olympics and http://dbpedia.org/resource/Silver_medal and the value is : 1
+http://dbpedia.org/resource/Fernando_Torres and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Fernando_Torres and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Fernando_Torres and http://dbpedia.org/resource/Relay_race and the value is : 1
+http://dbpedia.org/resource/Fernando_Torres and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Freestyle_swimming and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Freestyle_swimming and http://dbpedia.org/resource/Relay_race and the value is : 1
+http://dbpedia.org/resource/Freestyle_swimming and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Relay_race and http://dbpedia.org/resource/Silver_medal and the value is : 1
+http://dbpedia.org/resource/Fernando_Torres and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/Fernando_Torres and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Fernando_Torres and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Olympic_medal and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Olympic_medal and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+dara grace torres born april 15 1967 is an american former competitive swimmer who is a twelvetime olympic medalist and former world recordholder in three events. torres is the first swimmer in history to represent the united states in five olympic games 1984 1988 1992 2000 and 2008 and at age 41 the oldest swimmer to earn a place on the u.s. olympic team. at the 2008 olympics she competed in the 50meter freestyle 4100meter medley relay and 4100meter freestyle relay and won silver medals in all three events. she won twelve olympic medals including four gold medals and at age 41 became the oldest swimmer to win an olympic medal. 
+
+Coref Resolved : 
+dara grace torres born april 15 1967 is an american former competitive swimmer who is a twelvetime olympic medalist and former world recordholder in three events. torres is the first swimmer in history to represent the united states in five olympic games 1984 1988 1992 2000 and 2008 and at age 41 the oldest swimmer to earn a place on the u.s. olympic team. at the 2008 olympics torres competed in the 50meter freestyle 4100meter medley relay and 4100meter freestyle relay and won silver medals in the 50meter freestyle 4100meter medley relay and 4100meter freestyle relay . torres won twelve olympic medals including four gold medals and at age 41 became the oldest swimmer to win an olympic medal.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16666666666666666
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate 
+

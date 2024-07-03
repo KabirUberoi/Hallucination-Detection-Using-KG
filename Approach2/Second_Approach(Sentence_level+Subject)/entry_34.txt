@@ -1,0 +1,99 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Jesus_in_Christianity and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Gothic_metal and the value is : 1
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Summer and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Paul_Allender and the value is : 1
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 1
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Paul_Allender and the value is : 1
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Benjamin and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Phonograph_record and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Roman_Empire and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Anathema and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Steve_Maloney and the value is : 1
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Peaceville_Records and the value is : 1
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Europe and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/My_Dying_Bride and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Early_Summer and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/UK_Albums_Chart and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Orange_Goblin and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Keyboardist and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 1
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Keyboardist and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+The Blood Divine is a term used to refer to the blood of Jesus Christ, which is believed to have been shed for the remission of sins.
+It is a central part of Christian theology, and is seen as a symbol of the sacrificial death of Jesus and the atonement of sins.
+The term is derived from the Latin sanguis divinus, which literally translates to "divine blood".
+The concept of the Blood Divine is closely related to the concept of the Eucharist, which is the ritual of consuming bread and wine in remembrance of Jesus' death.
+The Blood Divine is also seen as a symbol of the unity of the Church, as it is believed to be shared by all believers.
+
+
+Coref Resolved: 
+
+The Blood Divine is a term used to refer to the blood of Jesus Christ, which is believed to have been shed for the remission of sins.
+the blood of Jesus Christ, which is believed to have been shed for the remission of sinsis a central part of Christian theology, and is seen as a symbol of the sacrificial death of Jesus Christand the atonement of sins.
+The Blood Divine is derived from the Latin sanguis divinus, which literally translates to "divine blood".
+The concept of the blood of Jesus Christ, which is believed to have been shed for the remission of sinsis closely related to the concept of the Eucharist, which is the ritual of consuming bread and wine in remembrance of Jesus Christdeath.
+the blood of Jesus Christ, which is believed to have been shed for the remission of sinsis also seen as a symbol of the unity of the Church, as the blood of Jesus Christ, which is believed to have been shed for the remission of sinsis believed to be shared by all believers.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+The Blood Divine was a British gothic metal band, founded in the summer of 1995 by Paul Allender, brothers Paul and Benjamin Ryan, after the three left Cradle of Filth during the recording of the "V Empire (or Dark Faerytales in Phallustein)" EP and ousted Anathema singer Darren White.
+They recruited drummer William A. "W.A.S." Sarginson and bassist Steve Maloney and were quickly signed up by Peaceville Records.
+Their debut album "Awaken" was recorded in early 1996 and released through Peaceville Records later that year.
+At the end of 1996, they toured throughout Europe with Cathedral and label mates My Dying Bride.
+In the early summer of 1997, they recorded their second album, "Mystica", and guitarist Paul Allender left the band to spend more time with his family (however, he eventually rejoined Cradle of Filth).
+Mystica was released later that year, again through Peaceville Records.
+The album had less of a goth sound and more of a classic rock-influenced progressive sound.
+The band continued and toured as a five-piece, touring the UK with Orange Goblin supporting and then a short tour of Holland at the beginning of 1998.
+The band were looking to develop their sound and keyboard player Benjamin Ryan was told to leave the band in April 1998.
+However, this dismayed Paul Ryan, and shortly afterwards the band split up.
+In 2002, Peaceville released the Blood Divine compilation album "Rise Pantheon Dreams".
+The tracklist included songs from both "Awaken" and "Mystica", as well as two previously-unreleased tracks ("Revolt" and "Forever Belongs"), a live version of "Aureole", and a live cover of The Osmonds' "Crazy Horses".
+Allender later rejoined Cradle of Filth.
+Sarginson briefly joined Cradle of Filth before the band settled in with Swedish drummer Adrian Erlandsson, who was later replaced by Martin Škaroupka.
+In 2004, Darren White formed a new band, Serotonal.
+ 
+
+Coref Resolved: 
+
+The Blood Divine was a British gothic metal band, founded in the summer of 1995 by Paul Allender, brothers Paul and Benjamin Ryan, after Paul Allender, brothers Paul and Benjamin Ryanleft Cradle of Filth during the recording of the "V Empire (or Dark Faerytales in Phallustein)" EP and ousted Anathema singer Darren White.
+The Blood Divine recruited drummer William A. "W.A.S." Sarginson and bassist Steve Maloney and were quickly signed up by Peaceville Records.
+The Blood Divine debut album "Awaken" was recorded in early 1996 and released through Peaceville Recordslater that year.
+At the end of 1996 , The Blood Divine toured throughout Europe with Cathedral and label mates My Dying Bride.
+In the early summer of 1997, The Blood Divine recorded The Blood Divine second album, "Mystica", and Paul Allenderleft The Blood Divine to spend more time with Paul Allenderfamily (however, Paul Allendereventually rejoined Cradle of Filth ).
+their second album, "Mystica"was released later that year, again through Peaceville Records.
+their second album, "Mystica"had less of a goth sound and more of a classic rock-influenced progressive sound.
+The Blood Divine continued and toured as a five-piece, touring the UK with Orange Goblin supporting and then a short tour of Holland at the beginning of 1998.
+The Blood Divine were looking to develop The Blood Divine sound and keyboard player Benjamin Ryan was told to leave The Blood Divine in April 1998.
+However, leave dismayed keyboard player Benjamin Ryan , and shortly afterwards The Blood Divine split up.
+In 2002, Peaceville Recordsreleased the The Blood Divine compilation album "Rise Pantheon Dreams".
+The tracklist included songs from both "Awaken" and "Mystica", as well as two previously-unreleased tracks ("Revolt" and "Forever Belongs"), a live version of "Aureole", and a live cover of The Osmonds' "Crazy Horses".
+Paul Allenderlater rejoined Cradle of Filth .
+Sarginson briefly joined Cradle of Filth before Cradle of Filth settled in with Swedish drummer Adrian Erlandsson, who was later replaced by Martin Škaroupka.
+In 2004, Darren White formed a new band, Serotonal.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 -1 -1 -1 -1 
+
+Value for ground truth is : 
+0.36363636363636365 1.0 -1 0.0 0.0 -1 -1 0.0 0.5 0.5 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

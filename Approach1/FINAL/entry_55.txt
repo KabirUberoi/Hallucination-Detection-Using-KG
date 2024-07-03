@@ -1,0 +1,147 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Author and the value is : 1
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Cleveland and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/American_Physical_Society and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Cleveland and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/American_Physical_Society and the value is : 0
+http://dbpedia.org/resource/Cleveland and http://dbpedia.org/resource/American_Physical_Society and the value is : 0
+http://dbpedia.org/resource/Popular_science and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Popular_science and http://dbpedia.org/resource/Circus and the value is : 0
+http://dbpedia.org/resource/Popular_science and http://dbpedia.org/resource/Amateur_astronomy and the value is : 0
+http://dbpedia.org/resource/Popular_science and http://dbpedia.org/resource/Scientist and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Circus and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Amateur_astronomy and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Scientist and the value is : 0
+http://dbpedia.org/resource/Circus and http://dbpedia.org/resource/Amateur_astronomy and the value is : 1
+http://dbpedia.org/resource/Circus and http://dbpedia.org/resource/Scientist and the value is : 1
+http://dbpedia.org/resource/Amateur_astronomy and http://dbpedia.org/resource/Scientist and the value is : 1
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/PBS and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Scientific_American_Frontiers and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/Radio and http://dbpedia.org/resource/PBS and the value is : 1
+http://dbpedia.org/resource/Radio and http://dbpedia.org/resource/Scientific_American_Frontiers and the value is : 1
+http://dbpedia.org/resource/Radio and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/PBS and http://dbpedia.org/resource/Scientific_American_Frontiers and the value is : 1
+http://dbpedia.org/resource/PBS and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/Scientific_American_Frontiers and http://dbpedia.org/resource/BBC and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Circus and the value is : 0
+http://dbpedia.org/resource/Naval_Air_Station_Pensacola and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Naval_Air_Station_Pensacola and http://dbpedia.org/resource/Circus and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Circus and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Cleveland and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Cleveland and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Textbook and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/David and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Robert_Resnick and the value is : 0
+http://dbpedia.org/resource/Textbook and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Textbook and http://dbpedia.org/resource/David and the value is : 0
+http://dbpedia.org/resource/Textbook and http://dbpedia.org/resource/Robert_Resnick and the value is : 1
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/David and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Robert_Resnick and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Robert_Resnick and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/The_Tonight_Show and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Johnny_Carson and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/The_Tonight_Show and the value is : 1
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Johnny_Carson and the value is : 0
+http://dbpedia.org/resource/The_Tonight_Show and http://dbpedia.org/resource/Johnny_Carson and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Walking_Barefoot and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Onychomycosis and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Liquid_nitrogen and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/River_mouth and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Walking_Barefoot and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Onychomycosis and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Liquid_nitrogen and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/River_mouth and the value is : 0
+http://dbpedia.org/resource/Walking_Barefoot and http://dbpedia.org/resource/Onychomycosis and the value is : 0
+http://dbpedia.org/resource/Walking_Barefoot and http://dbpedia.org/resource/Liquid_nitrogen and the value is : 0
+http://dbpedia.org/resource/Walking_Barefoot and http://dbpedia.org/resource/River_mouth and the value is : 1
+http://dbpedia.org/resource/Onychomycosis and http://dbpedia.org/resource/Liquid_nitrogen and the value is : 0
+http://dbpedia.org/resource/Onychomycosis and http://dbpedia.org/resource/River_mouth and the value is : 1
+http://dbpedia.org/resource/Liquid_nitrogen and http://dbpedia.org/resource/River_mouth and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/PBS and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Chemical_kinetics and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/WVIZ and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Ohio_University and the value is : 0
+http://dbpedia.org/resource/PBS and http://dbpedia.org/resource/Chemical_kinetics and the value is : 1
+http://dbpedia.org/resource/PBS and http://dbpedia.org/resource/WVIZ and the value is : 0
+http://dbpedia.org/resource/PBS and http://dbpedia.org/resource/Ohio_University and the value is : 0
+http://dbpedia.org/resource/Chemical_kinetics and http://dbpedia.org/resource/WVIZ and the value is : 0
+http://dbpedia.org/resource/Chemical_kinetics and http://dbpedia.org/resource/Ohio_University and the value is : 0
+http://dbpedia.org/resource/WVIZ and http://dbpedia.org/resource/Ohio_University and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Amateur_sports and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Computer_science and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Columnist and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Scientific_American and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Amateur_sports and http://dbpedia.org/resource/Computer_science and the value is : 1
+http://dbpedia.org/resource/Amateur_sports and http://dbpedia.org/resource/Columnist and the value is : 0
+http://dbpedia.org/resource/Amateur_sports and http://dbpedia.org/resource/Scientific_American and the value is : 0
+http://dbpedia.org/resource/Amateur_sports and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Columnist and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Scientific_American and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Columnist and http://dbpedia.org/resource/Scientific_American and the value is : 1
+http://dbpedia.org/resource/Columnist and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Scientific_American and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Cleveland and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Cleveland and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/CBC_Radio and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Quark and the value is : 0
+http://dbpedia.org/resource/CBC_Radio and http://dbpedia.org/resource/Quark and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Cleveland and the value is : 0
+http://dbpedia.org/resource/Cleveland and http://dbpedia.org/resource/Committee and the value is : 1
+http://dbpedia.org/resource/Cleveland and http://dbpedia.org/resource/Jearl_Walker and the value is : 0
+http://dbpedia.org/resource/Cleveland and http://dbpedia.org/resource/Science_education and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Jearl_Walker and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Science_education and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Science_education and the value is : 0
+http://dbpedia.org/resource/Cleveland and http://dbpedia.org/resource/Jearl_Walker and the value is : 0
+http://dbpedia.org/resource/Cleveland and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Naval_Air_Station_Pensacola and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/University_of_Massachusetts_Amherst and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Food_technology and the value is : 1
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/University_of_Massachusetts_Amherst and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Food_technology and the value is : 0
+http://dbpedia.org/resource/University_of_Massachusetts_Amherst and http://dbpedia.org/resource/Food_technology and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+jearl walker born july 25 1945 is an american physicist and author. he is a professor emeritus of physics at cleveland state university and a fellow of the american physical society. he is best known for his popular science books on physics including the flying circus of physics the amateur scientist and the physics teacher. he has also written several textbooks on physics including fundamentals of physics and the physics of everyday phenomena. walker has appeared on television and radio programs including the pbs series scientific american frontiers and the bbc program horizon. he has also written articles for scientific american and other magazines. 
+
+Coref Resolved : 
+jearl walker born july 25 1945 is an american physicist and author. walker is a professor emeritus of physics at cleveland state university and a fellow of the american physical society. walker is best known for walker popular science books on physics including the flying circus of physics the amateur scientist and the physics teacher. walker has also written several textbooks on physics including fundamentals of physics and the physics of everyday phenomena. walker has appeared on television and radio programs including the pbs series scientific american frontiers and the bbc program horizon. walker has also written articles for scientific american and other magazines.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+jearl walker born 1945 in pensacola florida is a physicist noted for his book flying circus of physics first published in 1975 the second edition was published in june 2006. he teaches physics at cleveland state university. walker has also revised and edited the textbook fundamentals of physics with david halliday and robert resnick. walker is a wellknown popularizer of physics and appeared several times on the tonight show starring johnny carson. walker is known for his physics demonstrations which have included sticking his hand in molten lead walking barefoot over hot coals lying on a bed of nails and pouring freezingcold liquid nitrogen in his mouth to demonstrate various principles of physics. such demonstrations are included in his pbs series kinetic karnival produced by wviz in cleveland ohio. walker authored the amateur scientist column in scientific american magazine from 1978 to 1988. during the latter part of this period he had been the chairman of the physics department at cleveland state university. he appeared regularly around this time on the longrunning cbc radio science program quirks and quarks. he is the first recipient of the outstanding teaching award from cleveland states college of science. the colleges faculty affairs committee selected walker as the first honoree based on his contributions to science education over the last 30 years. in future years the award will be named the jearl walker outstanding teaching award. the award was presented in a ceremony on april 29 2005. walker was born in pensacola florida and grew up in fort worth texas. he graduated with a degree in physics from the massachusetts institute of technology in 1967. he received his ph.d. from the university of maryland in 1973. 
+
+Coref Resolved : 
+jearl walker born 1945 in pensacola florida is a physicist noted for jearl walker book flying circus of physics first published in 1975 the second edition was published in june 2006. jearl walker teaches physics at cleveland state university. jearl walker has also revised and edited the textbook fundamentals of physics with david halliday and robert resnick. jearl walker is a wellknown popularizer of physics and appeared several times on the tonight show starring johnny carson. jearl walker is known for jearl walker physics demonstrations which have included sticking jearl walker hand in molten lead walking barefoot over hot coals lying on a bed of nails and pouring freezingcold liquid nitrogen in jearl walker mouth to demonstrate various principles of physics. such demonstrations are included in jearl walker pbs series kinetic karnival produced by wviz in cleveland ohio. jearl walker authored the amateur scientist column in scientific american magazine from 1978 to this period . during the latter part of this period jearl walker had been the chairman of the physics department at cleveland state university. jearl walker appeared regularly around this time on the longrunning cbc radio science program quirks and quarks. jearl walker is the first recipient of the outstanding teaching award from cleveland states college of science. cleveland states college of sciencefaculty affairs committee selected jearl walker as the first honoree based on jearl walker contributions to science education over the last 30 years. in future years the outstanding teaching award from cleveland states college of sciencewill be named the jearl walker outstanding teaching award. the outstanding teaching award from cleveland states college of sciencewas presented in a ceremony on april 29 2005. jearl walker was born in pensacola florida and grew up in fort worth texas. jearl walker graduated with a degree in physics from the massachusetts institute of technology in 1967. jearl walker received jearl walker ph.d. from the university of maryland in 1973.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2413793103448276 and for ground truth is : 0.13333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate minor_inaccurate accurate 
+

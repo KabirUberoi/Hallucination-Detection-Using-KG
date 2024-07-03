@@ -1,0 +1,107 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Continental_Congress and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Colony_of_Virginia and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Mary_II_of_England and the value is : 1
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Kingdom_of_England and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Continental_Congress and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Siege_of_Charleston and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/United_States_House_of_Representatives and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Waxhaws and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Lancaster_County,_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Frederick_Douglass and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Duchy_of_Lancaster and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Democratic-Republican_Party and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/17th_United_States_Congress and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Jacksonian_democracy and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Washington_metropolitan_area and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/James_Blair_(clergyman) and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/Duff_Green and the value is : 1
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/United_States_congressional_delegations_from_New_York and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/Longman and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Duff_Green and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/James_Blair_(clergyman) and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/James_Blair_(clergyman) and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/James_Blair_(clergyman) and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/James_Blair_(clergyman) and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/Alabama and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/Legislative_chamber and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/James_Blair_(clergyman) and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/Op._cit. and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Congressional_Cemetery and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/General_officers_in_the_Confederate_States_Army and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Militia and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+James Blair (1732 1782) was an American lawyer and politician from South Carolina.
+He was a delegate to the Continental Congress from 1774 to 1776 and a signer of the Declaration of Independence.
+Blair was born in 1732 in Williamsburg, Virginia.
+He was educated at the College of William and Mary and studied law in England.
+He was admitted to the bar in 1760 and began practicing law in South Carolina.
+In 1774, Blair was elected to the Continental Congress, where he served until 1776.
+He was a signer of the Declaration of Independence and was a member of the committee that drafted the Articles of Confederation.
+After the Revolutionary War, Blair returned to South Carolina and served in the state legislature.
+He died in 1782 in Charleston, South Carolina.
+
+
+Coref Resolved: 
+
+James Blair (1732 1782) was an American lawyer and politician from South Carolina.
+James Blair was a delegate to the Continental Congress from 1774 to 1776 and a signer of the Declaration of Independence.
+James Blair was born in 1732 in Williamsburg, Virginia.
+James Blair was educated at the College of William and Mary and studied law in England.
+James Blair was admitted to the bar in 1760 and began practicing law in South Carolina.
+In 1774 , James Blair was elected to the Continental Congress, where James Blair served until 1776 .
+James Blair was a signer of the Declaration of Independenceand was a member of the committee that drafted the Articles of Confederation.
+After the Revolutionary War, James Blair returned to South Carolinaand served in the state legislature.
+James Blair died in 1782 in Charleston, South Carolina.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+James Blair (September 26, 1786 - April 1, 1834) was a United States Representative from South Carolina.
+He was born in the Waxhaw Settlement, Lancaster County, South Carolina to Sarah Douglass and William Blair.
+He engaged in planting and was also the Sheriff of Lancaster District.
+Blair was elected as a Democratic-Republican to the Seventeenth Congress and served from March 4, 1821, to May 8, 1822, when he resigned.
+He was elected as a Jacksonian to the Twenty-First through Twenty-Third Congresses and served from March 4, 1829, until his death in Washington, D.C. on April 1, 1834.
+Under date of December 24, 1833, John Quincy Adams records in his diary that Blair "had knocked down and very severely beaten Duff Green, editor of the 'Telegraph'..." ("Diary" - New York, Longmans, Green, 1929 - p. 434).
+He paid "three hundred dollars fine for beating and breaking the bones" of Green (op. cit., p. 450).
+Under date of April 2, 1834, John Quincy Adams records in his diary that Blair "shot himself last evening at his lodgings...after reading part of an affectionate letter from his wife, to Governor Murphy, of Alabama who was alone in the chamber with him, and a fellow-lodger at the same house" (op. cit.
+p. 434).
+He was buried in Congressional Cemetery his tombstone inscription includes his command as General of the South Carolina 5th Militia Brigade.
+ 
+
+Coref Resolved: 
+
+James Blair (September 26, 1786 - April 1, 1834) was a United States Representative from South Carolina.
+James Blair was born in the Waxhaw Settlement, Lancaster County, South Carolinato Sarah Douglass and William Blair.
+James Blair engaged in planting and was also the Sheriff of Lancaster District.
+James Blair was elected as a Democratic-Republican to the Seventeenth Congress and served from March 4, 1821, to May 8, 1822, when James Blair resigned.
+James Blair was elected as a Jacksonian to the Twenty-First through Twenty-Third Congresses and served from March 4, 1829, until James Blair death in Washington, D.C. on April 1, 1834.
+Under date of December 24, 1833, John Quincy Adams records in John Quincy Adams diary that James Blair "had knocked down and very severely beaten Duff Green, editor of the 'Telegraph'..." ("Diary" - New York, Longmans, Green, 1929 - p. 434).
+James Blair paid "three hundred dollars fine for beating and breaking the bones" of Duff Green, editor of the 'Telegraph'(op. cit., p. 450).
+Under date of April 2, 1834, John Quincy Adams records in John Quincy Adams diary that James Blair "shot James Blair last evening at James Blair lodgings...after reading part of an affectionate letter from James Blair wife, to Governor Murphy, of Alabama who was alone in the chamber with James Blair , and a fellow-lodger at the same house" (op. cit.
+p. 434).
+James Blair was buried in Congressional Cemetery James Blair tombstone inscription includes James Blair command as General of the South Carolina 5th Militia Brigade.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.5 0.0 0.0 -1 -1 0.0 
+
+Value for ground truth is : 
+0.0 0.0 0.0 0.0 0.0 0.25 0.0 0.0 -1 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,95 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/African_Anthropologist and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Johannesburg and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/South_Africa and the value is : 1
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/University_of_the_Witwatersrand and the value is : 1
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Bachelor_of_Arts and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/English_studies and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Anthropology and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/University_of_London and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Anthropology and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/South_Africa and the value is : 1
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Tanzania and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Zimbabwe and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Aristocracy and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Eswatini and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Anthropology and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Women_in_Africa and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Guggenheim_Fellowship and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Eswatini and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Hilda_of_Whitby and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Sobhuza_II and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Hilda_of_Whitby and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Village and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Lobamba and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Hilda_of_Whitby and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Hilda_of_Whitby and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Hilda_of_Whitby and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Eswatini and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Aristocracy and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Hilda Kuper (1908 2002) was a South African anthropologist and author.
+She was born in Johannesburg, South Africa, and studied at the University of the Witwatersrand, where she obtained a B.A. in English and History in 1929.
+She then went on to study anthropology at the London School of Economics, where she obtained a Ph.D. in 1936.
+Kuper was a pioneer in the field of African anthropology, and her work focused on the study of African cultures and societies.
+She conducted fieldwork in South Africa, Tanzania, and Zimbabwe, and wrote extensively on the topics of race, gender, and identity in African societies.
+Her most famous work, An African Aristocracy Rank Among the Swazi (1944), is considered a classic in the field of anthropology.
+Kuper was also a strong advocate for the rights of African women, and she was a founding member of the International Council of Women of the Darker Races.
+
+
+Coref Resolved: 
+
+Hilda Kuper (1908 2002) was a South African anthropologist and author.
+Hilda Kuper was born in Johannesburg, South Africa, and studied at the University of the Witwatersrand, where Hilda Kuper obtained a B.A. in English and History in 1929.
+Hilda Kuper then went on to study anthropology at the London School of Economics, where Hilda Kuper obtained a Ph.D. in 1936.
+Hilda Kuper was a pioneer in the field of African anthropology, and Hilda Kuper work focused on the study of African cultures and societies.
+Hilda Kuper conducted fieldwork in South Africa, Tanzania, and Zimbabwe, and wrote extensively on the topics of race, gender, and identity in African societies.
+Hilda Kuper most famous work, An African Aristocracy Rank Among the Swazi (1944), is considered a classic in the field of anthropology.
+Hilda Kuper was also a strong advocate for the rights of African women, and Hilda Kuper was a founding member of the International Council of Women of the Darker Races.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992), was a social anthropologist most notable for her extensive work on Swazi culture.
+Born to Lithuanian Jewish and Austrian Jewish parents in Bulawayo, she moved to South Africa after the death of her father.
+She studied at the University of the Witwatersrand and, afterwards, at the London School of Economics under Malinowski.
+In 1934, after winning a fellowship to study in Swaziland, Kuper befriended King Sobhuza II, who, together with Malinowski, helped to settle her into place at the royal village of Lobamba, where she would pursue her research.
+Her publications on Swazi culture would include the two-part dissertation, "An African Aristocracy .
+Rank Among the Swazi" (1947) and "The Uniform of Colour A Study of White--Black Relationships in Swaziland" (1947), and "The Swazi A South African Kingdom" (1963).
+Some years later, in Durban, Kuper became a founder member of the Liberal Party in Natal, as well as authoring "Indian People in Natal" (1960).
+In 1961 Kuper moved to Los Angeles, where she took up a teaching post at UCLA.
+In 1969 she won a Guggenheim Fellowship, and in 1978 published an extensive, official biography of Sobhuza II, "King Sobhuza II, Ngwenyama and King of Swaziland".
+ 
+
+Coref Resolved: 
+
+Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992), was a social anthropologist most notable for Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992)extensive work on Swazi culture.
+Born to Lithuanian Jewish and Austrian Jewish parents in Bulawayo, Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992)moved to South Africa after the death of Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992)father.
+Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992)studied at the University of the Witwatersrand and, afterwards, at the London School of Economics under Malinowski.
+In 1934, after winning a fellowship to study in Swaziland, Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992)befriended King Sobhuza II, who, together with Malinowski, helped to settle Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992)into place at the royal village of Lobamba, where Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992)would pursue Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992)research.
+Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992)publications on Swazi culturewould include the two-part dissertation, "An African Aristocracy .
+Rank Among the Swazi" (1947) and "The Uniform of Colour A Study of White--Black Relationships in Swaziland" (1947), and "The Swazi A South African Kingdom" (1963).
+Some years later, in Durban, Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992)became a founder member of the Liberal Party in Natal, as well as authoring "Indian People in Natal" (1960).
+In 1961 Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992)moved to Los Angeles, where Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992)took up a teaching post at UCLA.
+In 1969 Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992)won a Guggenheim Fellowship, and in 1978 published an extensive, official biography of Sobhuza II, "King Sobhuza II, Ngwenyama and King of Swaziland".
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.4 0.0 0.0 0.3333333333333333 0.0 0.0 
+
+Value for ground truth is : 
+-1 -1 0.0 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate 
+

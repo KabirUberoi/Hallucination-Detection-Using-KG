@@ -1,0 +1,104 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Welsh_Labour and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Member_of_parliament and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Sunderland_station and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Sunderland and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Aidan_of_Lindisfarne and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Sunderland and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Trade_union and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/GMB_(trade_union) and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Sunderland_City_Council and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/2010_United_Kingdom_general_election and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Scottish_Labour and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Member_of_parliament and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Chris_Mullin and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Co-operative_Party and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/GMB_(trade_union) and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Australian_Labor_Party and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Division_of_Parramatta and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Ballina,_New_South_Wales and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Master_of_Letters and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Division_of_New_England and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Division_of_Reid and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Australian_Labor_Party and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/House_of_Commons_of_Canada and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/John_Brown_(abolitionist) and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Alderman and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/City_of_Parramatta and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Australian_Labor_Party and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/House_of_Commons_of_Canada and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/John_Brown_(abolitionist) and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/1990_Australian_federal_election and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Parliamentary_secretary and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Second_Keating_ministry and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Parliamentary_secretary and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/Parliamentary_secretary and the value is : 0
+http://dbpedia.org/resource/Chuckle_Brothers and http://dbpedia.org/resource/1996_Australian_federal_election and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Paul Elliott (born 28 April 1964) is a British Labour Party politician who has been the Member of Parliament (MP) for Sunderland Central since 2010.
+Elliott was born in Sunderland and educated at St Aidan's Comprehensive School and the University of Sunderland.
+He worked as a trade union official for the GMB union, and was a councillor on Sunderland City Council from 2002 to 2010.
+Elliott was elected to the House of Commons at the 2010 general election, succeeding the Labour MP Chris Mullin.
+He was re-elected in 2015 and 2017.
+In Parliament, he has served on the Work and Pensions Select Committee since 2015.
+He is a member of the Co-operative Party and the GMB union.
+
+
+Coref Resolved: 
+
+Paul Elliott (born 28 April 1964) is a British Labour Party politician who has been the Member of Parliament (MP) for Sunderland Central since 2010.
+Paul Elliott was born in Sunderland and educated at St Aidan's Comprehensive School and the University of Sunderland.
+Paul Elliott worked as a trade union official for the GMB union, and was a councillor on Sunderland City Council from 2002 to 2010.
+Paul Elliott was elected to the House of Commons at the 2010 general election, succeeding the Labour MP Chris Mullin.
+Paul Elliott was re-elected in 2015 and 2017.
+In Parliament, Paul Elliott has served on the Work and Pensions Select Committee since 2015 .
+Paul Elliott is a member of the Co-operative Party and the GMB union.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Robert Paul Elliott (born 24 September 1954) is an Australian politician.
+He was a Labor member of the Australian House of Representatives from 1990 to 1996, representing the division of Parramatta.
+Elliott was born in Ballina, New South Wales and earned a Bachelor of Arts and an MLitt at the University of New England.
+He worked as a lecturer at the University of Western Sydney, a public servant, and an electoral officer to Labor MP John Brown.
+He was elected as an alderman on Parramatta City Council in 1977 and was mayor from 1984 to 1986.
+Following the retirement of John Brown, Elliott was elected to federal parliament at the 1990 election.
+He was appointed Parliamentary Secretary to the Treasurer in the Keating government in December 1993.
+In June 1994, he became Parliamentary Secretary to the Minister for Communications and the Arts and Parliamentary Secretary to the Minister for Tourism as well.
+He was defeated at the 1996 election.
+ 
+
+Coref Resolved: 
+
+Robert Paul Elliott (born 24 September 1954) is an Australian politician.
+Robert Paul Elliott was a Labor member of the Australian House of Representatives from 1990 to 1996, representing the division of Parramatta.
+Robert Paul Elliott was born in Ballina, New South Wales and earned a Bachelor of Arts and an MLitt at the University of New England.
+Robert Paul Elliott worked as a lecturer at the University of Western Sydney, a public servant, and an electoral officer to Labor MP John Brown.
+Robert Paul Elliott was elected as an alderman on Parramatta City Council in 1977 and was mayor from 1984 to 1986.
+Following the retirement of Labor MP John Brown, Robert Paul Elliott was elected to federal parliament at the 1990 election.
+Robert Paul Elliott was appointed Parliamentary Secretary to the Treasurer in the Keating government in December 1993.
+In June 1994, Robert Paul Elliott became Parliamentary Secretary to the Minister for Communications and the Arts and Parliamentary Secretary to the Minister for Tourism as well.
+Robert Paul Elliott was defeated at the 1996 election.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.0 -1 0.0 0.0 
+
+Value for ground truth is : 
+-1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

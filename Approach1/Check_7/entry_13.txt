@@ -1,0 +1,200 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Indie_rock and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Matt_Schulz and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/Matt_Schulz and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Matt_Schulz and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Post-punk and the value is : 1
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Psychedelic_rock and the value is : 0
+http://dbpedia.org/resource/Post-punk and http://dbpedia.org/resource/Psychedelic_rock and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/South_by_Southwest and http://dbpedia.org/resource/CMJ and the value is : 0
+http://dbpedia.org/resource/South_by_Southwest and http://dbpedia.org/resource/Pitchfork_Music_Festival and the value is : 0
+http://dbpedia.org/resource/CMJ and http://dbpedia.org/resource/Pitchfork_Music_Festival and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Biellmann_spin and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Biellmann_spin and http://dbpedia.org/resource/York and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Oxford_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Music_industry and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Oxford_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Oxford_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Bartholomew_School_Eynsham and http://dbpedia.org/resource/Eynsham and the value is : 0
+http://dbpedia.org/resource/Bartholomew_School_Eynsham and http://dbpedia.org/resource/Winnebago_Deal and the value is : 0
+http://dbpedia.org/resource/Bartholomew_School_Eynsham and http://dbpedia.org/resource/Lead_vocalist and the value is : 0
+http://dbpedia.org/resource/Bartholomew_School_Eynsham and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/Bartholomew_School_Eynsham and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Bartholomew_School_Eynsham and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Eynsham and http://dbpedia.org/resource/Winnebago_Deal and the value is : 0
+http://dbpedia.org/resource/Eynsham and http://dbpedia.org/resource/Lead_vocalist and the value is : 0
+http://dbpedia.org/resource/Eynsham and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/Eynsham and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Eynsham and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Lead_vocalist and the value is : 1
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Rhythm_guitar and the value is : 1
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Rhythm_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/Rhythm_guitar and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Winnebago_Deal and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Perrier and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/THOMAS and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Winnebago_Deal and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Perrier and http://dbpedia.org/resource/THOMAS and the value is : 0
+http://dbpedia.org/resource/Perrier and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Perrier and http://dbpedia.org/resource/Winnebago_Deal and the value is : 0
+http://dbpedia.org/resource/Perrier and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/THOMAS and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/THOMAS and http://dbpedia.org/resource/Winnebago_Deal and the value is : 0
+http://dbpedia.org/resource/THOMAS and http://dbpedia.org/resource/Bass_guitar and the value is : 1
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Winnebago_Deal and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Lead_vocalist and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Rhythm_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Oxford_shoe and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Zodiac and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Fugazi and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Internet_forum and the value is : 1
+http://dbpedia.org/resource/Oxford_shoe and http://dbpedia.org/resource/Zodiac and the value is : 0
+http://dbpedia.org/resource/Oxford_shoe and http://dbpedia.org/resource/Fugazi and the value is : 0
+http://dbpedia.org/resource/Oxford_shoe and http://dbpedia.org/resource/Internet_forum and the value is : 1
+http://dbpedia.org/resource/Zodiac and http://dbpedia.org/resource/Fugazi and the value is : 0
+http://dbpedia.org/resource/Zodiac and http://dbpedia.org/resource/Internet_forum and the value is : 0
+http://dbpedia.org/resource/Fugazi and http://dbpedia.org/resource/Internet_forum and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Oxford_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Recording_contract and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Double_Dragon and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Jack_Endino and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Nirvana and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Bleach and the value is : 0
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Oxford_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Recording_contract and the value is : 0
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Double_Dragon and the value is : 0
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Jack_Endino and the value is : 0
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Nirvana and the value is : 0
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Bleach and the value is : 0
+http://dbpedia.org/resource/Oxford_United_F.C. and http://dbpedia.org/resource/Recording_contract and the value is : 0
+http://dbpedia.org/resource/Oxford_United_F.C. and http://dbpedia.org/resource/Double_Dragon and the value is : 0
+http://dbpedia.org/resource/Oxford_United_F.C. and http://dbpedia.org/resource/Jack_Endino and the value is : 0
+http://dbpedia.org/resource/Oxford_United_F.C. and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Oxford_United_F.C. and http://dbpedia.org/resource/Nirvana and the value is : 0
+http://dbpedia.org/resource/Oxford_United_F.C. and http://dbpedia.org/resource/Bleach and the value is : 0
+http://dbpedia.org/resource/Recording_contract and http://dbpedia.org/resource/Double_Dragon and the value is : 0
+http://dbpedia.org/resource/Recording_contract and http://dbpedia.org/resource/Jack_Endino and the value is : 0
+http://dbpedia.org/resource/Recording_contract and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Recording_contract and http://dbpedia.org/resource/Nirvana and the value is : 0
+http://dbpedia.org/resource/Recording_contract and http://dbpedia.org/resource/Bleach and the value is : 0
+http://dbpedia.org/resource/Double_Dragon and http://dbpedia.org/resource/Jack_Endino and the value is : 0
+http://dbpedia.org/resource/Double_Dragon and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Double_Dragon and http://dbpedia.org/resource/Nirvana and the value is : 0
+http://dbpedia.org/resource/Double_Dragon and http://dbpedia.org/resource/Bleach and the value is : 0
+http://dbpedia.org/resource/Jack_Endino and http://dbpedia.org/resource/Record_producer and the value is : 1
+http://dbpedia.org/resource/Jack_Endino and http://dbpedia.org/resource/Nirvana and the value is : 0
+http://dbpedia.org/resource/Jack_Endino and http://dbpedia.org/resource/Bleach and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Nirvana and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Bleach and the value is : 0
+http://dbpedia.org/resource/Nirvana and http://dbpedia.org/resource/Bleach and the value is : 0
+http://dbpedia.org/resource/Mondo_Generator and http://dbpedia.org/resource/Nick_Oliveri and the value is : 0
+http://dbpedia.org/resource/Mondo_Generator and http://dbpedia.org/resource/Drag_queen and the value is : 0
+http://dbpedia.org/resource/Mondo_Generator and http://dbpedia.org/resource/Stone_Age and the value is : 0
+http://dbpedia.org/resource/Nick_Oliveri and http://dbpedia.org/resource/Drag_queen and the value is : 0
+http://dbpedia.org/resource/Nick_Oliveri and http://dbpedia.org/resource/Stone_Age and the value is : 0
+http://dbpedia.org/resource/Drag_queen and http://dbpedia.org/resource/Stone_Age and the value is : 0
+http://dbpedia.org/resource/Mondo_Generator and http://dbpedia.org/resource/Winnebago_Deal and the value is : 0
+http://dbpedia.org/resource/Mondo_Generator and http://dbpedia.org/resource/Winnebago_Industries and the value is : 0
+http://dbpedia.org/resource/Mondo_Generator and http://dbpedia.org/resource/Electric_generator and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Winnebago_Industries and the value is : 1
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Electric_generator and the value is : 0
+http://dbpedia.org/resource/Winnebago_Industries and http://dbpedia.org/resource/Electric_generator and the value is : 0
+http://dbpedia.org/resource/Foo_Fighters and http://dbpedia.org/resource/Mondo_Generator and the value is : 0
+http://dbpedia.org/resource/Foo_Fighters and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Foo_Fighters and http://dbpedia.org/resource/Nick_Raskulinecz and the value is : 0
+http://dbpedia.org/resource/Foo_Fighters and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Mondo_Generator and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Mondo_Generator and http://dbpedia.org/resource/Nick_Raskulinecz and the value is : 0
+http://dbpedia.org/resource/Mondo_Generator and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Nick_Raskulinecz and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Midfielder and the value is : 1
+http://dbpedia.org/resource/Nick_Raskulinecz and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/The_Raven and http://dbpedia.org/resource/Jack_Endino and the value is : 0
+http://dbpedia.org/resource/Nick_Oliveri and http://dbpedia.org/resource/Jack_Endino and the value is : 0
+http://dbpedia.org/resource/Nick_Oliveri and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Nick_Oliveri and http://dbpedia.org/resource/The_Raven and the value is : 0
+http://dbpedia.org/resource/Nick_Oliveri and http://dbpedia.org/resource/Paul_Heaton and the value is : 1
+http://dbpedia.org/resource/Nick_Oliveri and http://dbpedia.org/resource/Contract_killing and the value is : 0
+http://dbpedia.org/resource/Nick_Oliveri and http://dbpedia.org/resource/Kerrang! and the value is : 0
+http://dbpedia.org/resource/Jack_Endino and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Jack_Endino and http://dbpedia.org/resource/The_Raven and the value is : 1
+http://dbpedia.org/resource/Jack_Endino and http://dbpedia.org/resource/Paul_Heaton and the value is : 0
+http://dbpedia.org/resource/Jack_Endino and http://dbpedia.org/resource/Contract_killing and the value is : 0
+http://dbpedia.org/resource/Jack_Endino and http://dbpedia.org/resource/Kerrang! and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/The_Raven and the value is : 1
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Paul_Heaton and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Contract_killing and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Kerrang! and the value is : 0
+http://dbpedia.org/resource/The_Raven and http://dbpedia.org/resource/Paul_Heaton and the value is : 0
+http://dbpedia.org/resource/The_Raven and http://dbpedia.org/resource/Contract_killing and the value is : 0
+http://dbpedia.org/resource/The_Raven and http://dbpedia.org/resource/Kerrang! and the value is : 0
+http://dbpedia.org/resource/Paul_Heaton and http://dbpedia.org/resource/Contract_killing and the value is : 0
+http://dbpedia.org/resource/Paul_Heaton and http://dbpedia.org/resource/Kerrang! and the value is : 0
+http://dbpedia.org/resource/Contract_killing and http://dbpedia.org/resource/Kerrang! and the value is : 0
+http://dbpedia.org/resource/Winnebago_Industries and http://dbpedia.org/resource/Career_Suicide and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+winnebago deal american indie rock band brooklyn new york . band formed 2006 singerguitaristsongwriterproducer chris diken drummerproducerengineersongwritermultiinstrumentalist matt schulz . band released fulllength albums eps handful singles . sound described mix indie rock postpunk psychedelic rock . band toured extensively united states europe playing shows acts national walkmen hold steady black keys war drugs . performed festivals sxsw cmj pitchfork music festival . winnebago deal featured publications rolling stone spin new york times . 
+
+Coref Resolved : 
+winnebago deal american indie rock band brooklyn new york . american indie rock band brooklyn new york formed 2006 singerguitaristsongwriterproducer chris diken drummerproducerengineersongwritermultiinstrumentalist matt schulz . american indie rock band brooklyn new york released fulllength albums eps handful singles . sound described mix indie rock postpunk psychedelic rock . american indie rock band brooklyn new york toured extensively united states europe playing shows acts national walkmen hold steady black keys war drugs . performed festivals sxsw cmj pitchfork music festival . winnebago deal featured publications rolling stone spin new york times .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+winnebago deal rock music band oxford united kingdom . started life late 1990s bartholomew school eynsham ben perrier vocals guitar ben thomas guitar writing songs recruiting drummer bass player ad . played gig early 1999 fired bass player months later ben thomas switching guitar bass . summer 2000 perrier thomas dissatisfaction drummer led departure thomas switching bass drums band continue twopiece . winnebago deal consists bens ben perrier vocals guitar ben thomas drums . winnebago deal generated strong support appearances oxfords zodiac club eventually supporting fugazi londons forum led record plata o plomo ep 2003 . nominated kerrang awards best british newcomer year . soon band signed recording contract double dragon music produced debut album dead gone jack endino producer nirvana album bleach . dead gone released september 2004 . plata o plomo reissued australia later year expanded track listing . bens went play mondo generator nick oliveri queens stone age bassistvocalist . playing mondo generator gigs toured winnebago deal supported mondo generator earning moniker winnebago generator fans . recording tracks dave grohls studio 606 mondo generator album producer nick raskulinecz announced july 2006 left band undisclosed reasons . month released second fulllength album flight raven band choosing record producer jack endino . album features guest appearances artists including band partner nick oliveri endino paul morrill edward raven heaton band sicarios rusty needles oxford band deguello cited sixth best album 2006 kerrang writer raziq rauf . winnebago deals fulllength album career suicide recorded november 2009 released year later . 
+
+Coref Resolved : 
+winnebago deal rock music band oxford united kingdom . started life late 1990s bartholomew school eynsham ben perrier vocals guitar ben thomas guitar writing songs recruiting drummer bass player ad . played gig early 1999 fired bass player months later ben thomas switching guitar bass . summer 2000 perrier thomas dissatisfaction drummer led departure ben thomas switching bass drums band continue twopiece . winnebago deal consists bens ben perrier vocals guitar ben thomas drums . winnebago deal generated strong support appearances oxfords zodiac club eventually supporting fugazi londons forum led record plata o plomo ep 2003 . nominated kerrang awards best british newcomer year . soon rock music band oxford united kingdom signed recording contract double dragon music produced debut album dead gone jack endino producer nirvana album bleach . dead gone released september 2004 . plata o plomo reissued australia later year expanded track listing . bens went play mondo generator nick oliveri queens stone age bassistvocalist . playing mondo generator gigs toured winnebago deal supported mondo generator earning moniker winnebago generator fans . recording tracks dave grohls studio 606 mondo generator album producer nick raskulinecz announced july 2006 left band undisclosed reasons . month released second fulllength album flight raven band choosing jack endino . second fulllength album features guest appearances artists including band partner nick oliveri jack endino paul morrill edward raven heaton band sicarios rusty needles oxford band deguello cited sixth best album 2006 kerrang writer raziq rauf . winnebago deals fulllength album career suicide recorded november 2009 released year later .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1 and for ground truth is : 0.09859154929577464
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate accurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

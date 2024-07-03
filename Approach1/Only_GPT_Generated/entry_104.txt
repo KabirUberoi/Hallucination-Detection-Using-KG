@@ -1,0 +1,44 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Bass_guitar and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Guitarist and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Session_musician and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Eric_Clapton and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/John_Mayer and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Rh_blood_group_system and the value is : 0
+http://dbpedia.org/resource/Eric_Clapton and http://dbpedia.org/resource/John_Mayer and the value is : 0
+http://dbpedia.org/resource/Eric_Clapton and http://dbpedia.org/resource/Rh_blood_group_system and the value is : 0
+http://dbpedia.org/resource/John_Mayer and http://dbpedia.org/resource/Rh_blood_group_system and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/John_Mayer_Trio and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Paul_McCartney and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Winery and the value is : 1
+http://dbpedia.org/resource/John_Mayer_Trio and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/John_Mayer_Trio and http://dbpedia.org/resource/Winery and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Winery and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Timbre and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Funk and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Music and the value is : 1
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Timbre and the value is : 1
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Funk and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Timbre and http://dbpedia.org/resource/Funk and the value is : 1
+http://dbpedia.org/resource/Timbre and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Funk and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+pino palladino born 24 october 1957 is a welsh bass guitarist. he is a prolific session musician who has recorded and performed with many wellknown artists and groups since the mid1970s. he is best known for his longtime collaboration with the who and his work with dangelo eric clapton john mayer and the rh factor. he has also been a member of the john mayer trio paul rodgers band and the winery dogs. palladinos signature bass sound is characterized by a deep warm tone and a slap technique that is heavily influenced by funk music. he is widely regarded as one of the most influential bass players of the modern era. 
+
+Coref Resolved : 
+pino palladino born 24 october 1957 is a welsh bass guitarist. pino palladino born 24 october 1957 is a prolific session musician who has recorded and performed with many wellknown artists and groups since the mid1970s. pino palladino born 24 october 1957 is best known for pino palladino born 24 october 1957 longtime collaboration with the who and pino palladino born 24 october 1957 work with dangelo eric clapton john mayer and the rh factor. pino palladino born 24 october 1957 has also been a member of the john mayer trio paul rodgers band and the winery dogs. pino palladino born 24 october 1957 signature bass sound is characterized by a deep warm tone and a slap technique that is heavily influenced by funk music. pino palladino born 24 october 1957 is widely regarded as one of the most influential bass players of the modern era.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.4074074074074074
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate accurate accurate 
+

@@ -1,0 +1,148 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/PGA_Tour and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/University_of_Washington and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Walter_Reed_National_Military_Medical_Center and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Walter_Reed_National_Military_Medical_Center and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/Direct_current and http://dbpedia.org/resource/Walter_Reed_National_Military_Medical_Center and the value is : 1
+http://dbpedia.org/resource/Direct_current and http://dbpedia.org/resource/Maryland and the value is : 1
+http://dbpedia.org/resource/Walter_Reed_National_Military_Medical_Center and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Maryland and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Bachelor_of_Business_Administration and the value is : 0
+http://dbpedia.org/resource/Maryland and http://dbpedia.org/resource/Bachelor_of_Business_Administration and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/PGA_Tour_on_CBS and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/FedEx_Cup and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Jay_Monahan and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/PGA_Tour_on_CBS and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Ottawa and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ottawa and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Ottawa and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Deane_Beman and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Deane_Beman and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Vice_president and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Chief_operating_officer and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Vice_president and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Chief_operating_officer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Vice_president and http://dbpedia.org/resource/Chief_operating_officer and the value is : 0
+http://dbpedia.org/resource/Vice_president and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Chief_operating_officer and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Princess_Anne_High_School and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Virginia_Beach,_Virginia and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Princess_Anne_High_School and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Virginia_Beach,_Virginia and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Princess_Anne_High_School and http://dbpedia.org/resource/Virginia_Beach,_Virginia and the value is : 0
+http://dbpedia.org/resource/Princess_Anne_High_School and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Virginia_Beach,_Virginia and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Richmond_Football_Club and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Richmond_Football_Club and the value is : 1
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Virginia_Beach,_Virginia and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Timothy-grass and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Business_administration and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Jimmy_Carter and the value is : 1
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Virginia_Beach,_Virginia and http://dbpedia.org/resource/Timothy-grass and the value is : 0
+http://dbpedia.org/resource/Virginia_Beach,_Virginia and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Virginia_Beach,_Virginia and http://dbpedia.org/resource/Business_administration and the value is : 0
+http://dbpedia.org/resource/Virginia_Beach,_Virginia and http://dbpedia.org/resource/Jimmy_Carter and the value is : 0
+http://dbpedia.org/resource/Virginia_Beach,_Virginia and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Business_administration and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Jimmy_Carter and the value is : 1
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Business_administration and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Jimmy_Carter and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Business_administration and http://dbpedia.org/resource/Jimmy_Carter and the value is : 0
+http://dbpedia.org/resource/Business_administration and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Jimmy_Carter and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Marketing and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Marketing and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Marketing and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Marketing and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Broadcasting and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Golf_Channel and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Broadcasting and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Golf_Channel and the value is : 0
+http://dbpedia.org/resource/Broadcasting and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Broadcasting and http://dbpedia.org/resource/Golf_Channel and the value is : 0
+http://dbpedia.org/resource/ESPN and http://dbpedia.org/resource/Golf_Channel and the value is : 0
+http://dbpedia.org/resource/ReMarkable and http://dbpedia.org/resource/Tiger_Woods and the value is : 0
+http://dbpedia.org/resource/ReMarkable and http://dbpedia.org/resource/Timothy-grass and the value is : 0
+http://dbpedia.org/resource/ReMarkable and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tiger_Woods and http://dbpedia.org/resource/Timothy-grass and the value is : 0
+http://dbpedia.org/resource/Tiger_Woods and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Old_Tom_Morris and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Old_Tom_Morris and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Old_Tom_Morris and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tim finchem born august 24 1947 is an american businessman and former commissioner of the pga tour. he served as commissioner from 1994 to 2016. finchem was born in washington d.c. and grew up in bethesda maryland. he graduated from the university of maryland in 1969 with a degree in business administration. he then attended the university of virginia school of law where he earned his juris doctor degree in 1972. finchem began his career in the golf industry in 1975 when he joined the pga tour as its first fulltime legal counsel. he was promoted to deputy commissioner in 1988 and commissioner in 1994. during his tenure the pga tour grew from a domestic tour to an international tour with events in more than 30 countries. he also oversaw the introduction of the fedex cup a seasonlong points competition that culminates in a fourtournament playoff. finchem retired as commissioner in 2016 and was succeeded by jay monahan. he was inducted into the world golf hall of fame in 2017. 
+
+Coref Resolved : 
+tim finchem born august 24 1947 is an american businessman and former commissioner of the pga tour. tim finchem born august 24 1947 served as commissioner from 1994 to 2016. tim finchem born august 24 1947 was born in washington d.c. and grew up in bethesda maryland. tim finchem born august 24 1947 graduated from the university of maryland in 1969 with a degree in business administration. tim finchem born august 24 1947 then attended the university of virginia school of law where tim finchem born august 24 1947 earned tim finchem born august 24 1947 juris doctor degree in 1972. tim finchem born august 24 1947 began tim finchem born august 24 1947 career in the golf industry in 1975 when tim finchem born august 24 1947 joined the pga touras the pga tourfirst fulltime legal counsel. tim finchem born august 24 1947 was promoted to deputy commissioner in 1988 and commissioner in 1994 . during tim finchem born august 24 1947 tenure the pga tourgrew from a domestic tour to an international tour with events in more than 30 countries. tim finchem born august 24 1947 also oversaw the introduction of the fedex cup a seasonlong points competition that culminates in a fourtournament playoff. tim finchem born august 24 1947 retired as commissioner in 2016and was succeeded by jay monahan. tim finchem born august 24 1947 was inducted into the world golf hall of fame in 2017.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+timothy w. finchem born april 19 1947 is the current commissioner of golfs pga tour. finchem was born in ottawa illinois. he took the position on june 1 1994 succeeding deane beman who retired after nearly 20 years in the post. finchem had previously served as vice president of business affairs deputy commissioner and chief operating officer of the tour. finchem graduated from princess anne high school in virginia beach virginia. he attended the university of richmond on a debate scholarship receiving his bachelor of arts degree in 1969. he graduated from the university of virginia school of law in 1973. after practicing law in virginia beach for three years finchem served in the white house during the administration of jimmy carter as deputy advisor to the president in the office of economic affairs in 1978 and 1979. in the early 1980s finchem cofounded the national marketing and strategies group in washington d.c. as commissioner finchem has greatly expanded the earnings opportunities for pga tour players both domestically and internationally. he has presided over the last three television broadcasting deals 1997 2001 and 2005 and has maximized the earnings potential of the tour and perhaps none was as bold as the most recent deal that excludes abc and espn and challenges the golf channel to get better. in 2006 the total pga tour purse was 256.8 million up from 56.4 million in 1994. that remarkable growth has a lot to do with tiger woods but finchems supporters also give him some of the credit. finchem received the 2001 old tom morris award from the golf course superintendents association of america gcsaas highest honor. he is a singlefigure handicap golfer. 
+
+Coref Resolved : 
+timothy w. finchem born april 19 1947 is the current commissioner of golfs pga tour. timothy w. finchem born april 19 1947 was born in ottawa illinois. timothy w. finchem born april 19 1947 took the position on june 1 1994 succeeding deane beman who retired after nearly 20 years in the position . timothy w. finchem born april 19 1947 had previously served as vice president of business affairs deputy commissioner and chief operating officer of golfs pga tour. timothy w. finchem born april 19 1947 graduated from princess anne high school in virginia beach virginia. timothy w. finchem born april 19 1947 attended the university of richmond on a debate scholarship receiving timothy w. finchem born april 19 1947 bachelor of arts degree in 1969. timothy w. finchem born april 19 1947 graduated from the university of virginia school of law in 1973. after practicing law in virginia beach virginiafor three years timothy w. finchem born april 19 1947 served in the white house during the administration of jimmy carter as deputy advisor to the president in the office of economic affairs in 1978 and 1979. in the early 1980s timothy w. finchem born april 19 1947 cofounded the national marketing and strategies group in washington d.c. as commissioner timothy w. finchem born april 19 1947 has greatly expanded the earnings opportunities for golfs pga tourplayers both domestically and internationally. timothy w. finchem born april 19 1947 has presided over the last three television broadcasting deals 1997 2001 and 2005 and has maximized the earnings potential of golfs pga tourand perhaps none was as bold as the most recent deal that excludes abc and espn and challenges the golf channel to get better. in 2006 the total golfs pga tourpurse that remarkable growth 256.8 million up from 56.4 million in 1994. that remarkable growth has a lot to do with tiger woods but timothy w. finchem born april 19 1947 supporters also give timothy w. finchem born april 19 1947 some of the credit. timothy w. finchem born april 19 1947 received the 2001 old tom morris award from the golf course superintendents association of america gcsaas highest honor. timothy w. finchem born april 19 1947 is a singlefigure handicap golfer.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.25 and for ground truth is : 0.052083333333333336
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate accurate minor_inaccurate accurate accurate major_inaccurate 
+

@@ -1,0 +1,73 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/British_Railways_Board and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/British_Railways_Board and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Transcontinental_railroad and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Montreal and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Vancouver and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Winnipeg and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Montreal and the value is : 0
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 1
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Winnipeg and the value is : 0
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and the value is : 0
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/British_Columbia and the value is : 1
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 1
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Winnipeg and the value is : 0
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and the value is : 1
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/British_Columbia and the value is : 1
+http://dbpedia.org/resource/Vancouver and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 1
+http://dbpedia.org/resource/Vancouver and http://dbpedia.org/resource/Winnipeg and the value is : 0
+http://dbpedia.org/resource/Vancouver and http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and the value is : 0
+http://dbpedia.org/resource/Vancouver and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/Winnipeg and the value is : 1
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/British_Columbia and the value is : 1
+http://dbpedia.org/resource/Winnipeg and http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and the value is : 0
+http://dbpedia.org/resource/Winnipeg and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and http://dbpedia.org/resource/British_Columbia and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Château_Laurier and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Ottawa and the value is : 0
+http://dbpedia.org/resource/Château_Laurier and http://dbpedia.org/resource/Ottawa and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Rural_Municipality_of_Rockwood and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Rural_Municipality_of_Rockwood and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/General_manager and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Railway and http://dbpedia.org/resource/General_manager and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Railway and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Transcontinental_railroad and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Canadian_Confederation and the value is : 0
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Canadian_Confederation and the value is : 1
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/Canadian_Confederation and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Château_Laurier and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Ottawa and the value is : 1
+http://dbpedia.org/resource/Château_Laurier and http://dbpedia.org/resource/Ottawa and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+charles melville hays 1856 15 april 1912 was a canadian railway executive. he was the president of the grand trunk railway gtr from 1899 until his death in 1912. he was responsible for the construction of the gtrs transcontinental line from montreal to vancouver and for the construction of the grand trunk pacific railway gtpr from winnipeg to prince rupert british columbia. he was also responsible for the construction of the gtrs network of hotels including the château laurier in ottawa. hays was born in rockwood ontario and began his career as a railway clerk in 1872. he rose through the ranks of the gtr becoming general manager in 1892 and president in 1899. he was a strong advocate of the transcontinental railway and was instrumental in securing the necessary funding from the canadian government. he was also responsible for the construction of the gtrs network of hotels including the château laurier in ottawa. hays was a visionary leader who was determined to make the gtr a success. he was a strong advocate of 
+
+Coref Resolved : 
+charles melville hays 1856 15 april 1912 was a canadian railway executive. charles melville hays was the president of the grand trunk railway gtr from 1899 until charles melville hays death in 1912 . charles melville hays was responsible for the construction of the gtrs transcontinental line from montreal to vancouver and for the construction of the grand trunk pacific railway gtpr from winnipeg to prince rupert british columbia. charles melville hays was also responsible for the construction of the gtrs network of hotels including the château laurier in ottawa. charles melville hays was born in rockwood ontario and began charles melville hays career as a railway clerk in 1872. charles melville hays rose through the ranks of the grand trunk railway gtr becoming general manager in 1892 and president in 1899 . charles melville hays was a strong advocate of the gtrs transcontinental line and was instrumental in securing the necessary funding from the canadian government. charles melville hays was also responsible for the construction of the gtrs network of hotels including the château laurier in ottawa. charles melville hays was a visionary leader who was determined to make the grand trunk railway gtr a success. charles melville hays was a strong advocate of
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.375
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate accurate accurate accurate minor_inaccurate 
+

@@ -1,0 +1,121 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Akila_Dananjaya and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Off_spin and http://dbpedia.org/resource/Batting_(cricket) and the value is : 0
+http://dbpedia.org/resource/Akila_Dananjaya and http://dbpedia.org/resource/FirstClass and the value is : 1
+http://dbpedia.org/resource/Akila_Dananjaya and http://dbpedia.org/resource/Sri_Lanka_Army and the value is : 0
+http://dbpedia.org/resource/Akila_Dananjaya and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Sri_Lanka_Army and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Sri_Lanka_Army and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Sri_Lanka_Army and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Sri_Lanka_Army and http://dbpedia.org/resource/Premier_Limited_Overs_Tournament and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Premier_Limited_Overs_Tournament and the value is : 0
+http://dbpedia.org/resource/One_Day_International and http://dbpedia.org/resource/Sri_Lanka and the value is : 0
+http://dbpedia.org/resource/One_Day_International and http://dbpedia.org/resource/Bangladesh_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Sri_Lanka and http://dbpedia.org/resource/Bangladesh_national_cricket_team and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Akila_Dananjaya and http://dbpedia.org/resource/Born_4 and the value is : 1
+http://dbpedia.org/resource/Akila_Dananjaya and http://dbpedia.org/resource/Panadura and the value is : 1
+http://dbpedia.org/resource/Akila_Dananjaya and http://dbpedia.org/resource/Cricket and the value is : 1
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Panadura and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Panadura and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Panadura and http://dbpedia.org/resource/Left-arm_orthodox_spin and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Off_break and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Leg_break and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Googly and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Carrom_ball and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Doosra and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Stock and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Off_spin and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/England_national_football_team and the value is : 1
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Mahela_Jayawardene and the value is : 0
+http://dbpedia.org/resource/Off_break and http://dbpedia.org/resource/Cricket and the value is : 1
+http://dbpedia.org/resource/Off_break and http://dbpedia.org/resource/Leg_break and the value is : 1
+http://dbpedia.org/resource/Off_break and http://dbpedia.org/resource/Googly and the value is : 0
+http://dbpedia.org/resource/Off_break and http://dbpedia.org/resource/Carrom_ball and the value is : 0
+http://dbpedia.org/resource/Off_break and http://dbpedia.org/resource/Doosra and the value is : 0
+http://dbpedia.org/resource/Off_break and http://dbpedia.org/resource/Stock and the value is : 0
+http://dbpedia.org/resource/Off_break and http://dbpedia.org/resource/Off_spin and the value is : 0
+http://dbpedia.org/resource/Off_break and http://dbpedia.org/resource/England_national_football_team and the value is : 1
+http://dbpedia.org/resource/Off_break and http://dbpedia.org/resource/Sea_captain and the value is : 1
+http://dbpedia.org/resource/Off_break and http://dbpedia.org/resource/Mahela_Jayawardene and the value is : 0
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Leg_break and the value is : 0
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Googly and the value is : 0
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Carrom_ball and the value is : 1
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Doosra and the value is : 0
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Stock and the value is : 0
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Off_spin and the value is : 0
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/England_national_football_team and the value is : 1
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Mahela_Jayawardene and the value is : 0
+http://dbpedia.org/resource/Leg_break and http://dbpedia.org/resource/Googly and the value is : 1
+http://dbpedia.org/resource/Leg_break and http://dbpedia.org/resource/Carrom_ball and the value is : 1
+http://dbpedia.org/resource/Leg_break and http://dbpedia.org/resource/Doosra and the value is : 1
+http://dbpedia.org/resource/Leg_break and http://dbpedia.org/resource/Stock and the value is : 1
+http://dbpedia.org/resource/Leg_break and http://dbpedia.org/resource/Off_spin and the value is : 1
+http://dbpedia.org/resource/Leg_break and http://dbpedia.org/resource/England_national_football_team and the value is : 0
+http://dbpedia.org/resource/Leg_break and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Leg_break and http://dbpedia.org/resource/Mahela_Jayawardene and the value is : 0
+http://dbpedia.org/resource/Googly and http://dbpedia.org/resource/Carrom_ball and the value is : 0
+http://dbpedia.org/resource/Googly and http://dbpedia.org/resource/Doosra and the value is : 0
+http://dbpedia.org/resource/Googly and http://dbpedia.org/resource/Stock and the value is : 1
+http://dbpedia.org/resource/Googly and http://dbpedia.org/resource/Off_spin and the value is : 1
+http://dbpedia.org/resource/Googly and http://dbpedia.org/resource/England_national_football_team and the value is : 0
+http://dbpedia.org/resource/Googly and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Googly and http://dbpedia.org/resource/Mahela_Jayawardene and the value is : 0
+http://dbpedia.org/resource/Carrom_ball and http://dbpedia.org/resource/Doosra and the value is : 0
+http://dbpedia.org/resource/Carrom_ball and http://dbpedia.org/resource/Stock and the value is : 0
+http://dbpedia.org/resource/Carrom_ball and http://dbpedia.org/resource/Off_spin and the value is : 0
+http://dbpedia.org/resource/Carrom_ball and http://dbpedia.org/resource/England_national_football_team and the value is : 1
+http://dbpedia.org/resource/Carrom_ball and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Carrom_ball and http://dbpedia.org/resource/Mahela_Jayawardene and the value is : 0
+http://dbpedia.org/resource/Doosra and http://dbpedia.org/resource/Stock and the value is : 0
+http://dbpedia.org/resource/Doosra and http://dbpedia.org/resource/Off_spin and the value is : 1
+http://dbpedia.org/resource/Doosra and http://dbpedia.org/resource/England_national_football_team and the value is : 0
+http://dbpedia.org/resource/Doosra and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Doosra and http://dbpedia.org/resource/Mahela_Jayawardene and the value is : 0
+http://dbpedia.org/resource/Stock and http://dbpedia.org/resource/Off_spin and the value is : 0
+http://dbpedia.org/resource/Stock and http://dbpedia.org/resource/England_national_football_team and the value is : 0
+http://dbpedia.org/resource/Stock and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Stock and http://dbpedia.org/resource/Mahela_Jayawardene and the value is : 1
+http://dbpedia.org/resource/Off_spin and http://dbpedia.org/resource/England_national_football_team and the value is : 0
+http://dbpedia.org/resource/Off_spin and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Off_spin and http://dbpedia.org/resource/Mahela_Jayawardene and the value is : 0
+http://dbpedia.org/resource/England_national_football_team and http://dbpedia.org/resource/Sea_captain and the value is : 1
+http://dbpedia.org/resource/England_national_football_team and http://dbpedia.org/resource/Mahela_Jayawardene and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Mahela_Jayawardene and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/England_national_under-19_football_team and the value is : 1
+http://dbpedia.org/resource/Wayamba_United and http://dbpedia.org/resource/Sri_Lanka_Premier_League and the value is : 0
+http://dbpedia.org/resource/Professional_sports_league_organization and http://dbpedia.org/resource/Nagenahira_Nagas and the value is : 0
+http://dbpedia.org/resource/Professional_sports_league_organization and http://dbpedia.org/resource/Googly and the value is : 0
+http://dbpedia.org/resource/Nagenahira_Nagas and http://dbpedia.org/resource/Googly and the value is : 0
+http://dbpedia.org/resource/2013_Indian_Premier_League and http://dbpedia.org/resource/Chennai_Super_Kings and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+akila dananjaya born 2 august 1995 sri lankan cricketer . international debut sri lankan cricket team august 2018 . rightarm offspinner righthanded batsman . dananjaya firstclass debut sri lanka army sports club 201314 premier league tournament . leading wickettaker tournament taking 32 wickets seven matches . list debut sri lanka army sports club 201415 premier limited overs tournament . august 2018 named sri lankan squad 2018 asia cup . day international odi debut sri lanka bangladesh 15 september 2018 . october 2018 named sri lankas test squad series england play . december 2018 named sri lankas team 2018 acc emerging teams asia cup . leading wickettaker sri lanka tournament dismiss 
+
+Coref Resolved : 
+akila dananjaya born 2 august 1995 sri lankan cricketer . international debut sri lankan cricket team august 2018 . rightarm offspinner righthanded batsman . akila dananjaya firstclass debut sri lanka army sports club 201314 premier league tournament . leading wickettaker tournament taking 32 wickets seven matches . list debut sri lanka army sports club 201415 premier limited overs tournament . august 2018 named sri lankan squad 2018 asia cup . day international odi debut sri lanka bangladesh 15 september 2018 . october 2018 named sri lankas test squad series england play . december 2018 named sri lankas team 2018 acc emerging teams asia cup . leading wickettaker sri lankas tournament dismiss
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+mahamarakkala kurukulasooriya patabendige akila dananjaya perera born 4 october 1993 panadura western province sri lankan cricketer . son carpenter panadura dananjaya installment sri lankas long line unorthodox spinners . officially lefthand batsman offbreak bowler said seven variations including legbreak googly carrom ball doosra stock offspinner impressed national team captain mahela jayawardene nets jayawardene request fasttracked national squad . dananjaya point played firstclass list t20 u19 cricket . turn led controversy selection questioned media basis net performance . selected play wayamba united inaugural sri lanka premier league . second match franchise took 318 nagenahira nagas consistently disturbing batsmen flight googly variations . turn led place final squad 2012 icc world twenty20 . 2013 ipl auctions dananjaya sold chennai super kings base price 20000 . 
+
+Coref Resolved : 
+mahamarakkala kurukulasooriya patabendige akila dananjaya perera born 4 october 1993 panadura western province sri lankan cricketer . son carpenter panadura dananjaya perera installment sri lankas long line unorthodox spinners . officially lefthand batsman offbreak bowler said seven variations including legbreak googly carrom ball doosra stock offspinner impressed national team captain mahela jayawardene nets national team captain mahela jayawardene request fasttracked national squad . dananjaya perera point played firstclass list t20 u19 cricket . turn led controversy selection questioned media basis net performance . selected play wayamba united inaugural sri lanka premier league . second match franchise took 318 nagenahira nagas consistently disturbing batsmen flight googly variations . turn led place final squad 2012 icc world twenty20 . 2013 ipl auctions dananjaya perera sold chennai super kings base price 20000 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.14285714285714285 and for ground truth is : 0.27848101265822783
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate accurate major_inaccurate accurate major_inaccurate major_inaccurate 
+

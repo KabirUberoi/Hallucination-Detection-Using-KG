@@ -1,0 +1,71 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Riga and http://dbpedia.org/resource/Latvia and the value is : 1
+http://dbpedia.org/resource/Riga and http://dbpedia.org/resource/Fine_art and the value is : 0
+http://dbpedia.org/resource/Latvia and http://dbpedia.org/resource/Fine_art and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Sculpture and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Photography and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Printmaking and the value is : 0
+http://dbpedia.org/resource/Sculpture and http://dbpedia.org/resource/Photography and the value is : 0
+http://dbpedia.org/resource/Sculpture and http://dbpedia.org/resource/Printmaking and the value is : 0
+http://dbpedia.org/resource/Photography and http://dbpedia.org/resource/Printmaking and the value is : 1
+http://dbpedia.org/resource/Furniture and http://dbpedia.org/resource/Textile_arts and the value is : 0
+http://dbpedia.org/resource/Furniture and http://dbpedia.org/resource/Jewellery_design and the value is : 1
+http://dbpedia.org/resource/Textile_arts and http://dbpedia.org/resource/Jewellery_design and the value is : 1
+http://dbpedia.org/resource/Abstract_art and http://dbpedia.org/resource/Geometric_abstraction and the value is : 0
+http://dbpedia.org/resource/Abstract_art and http://dbpedia.org/resource/Op_art and the value is : 0
+http://dbpedia.org/resource/Geometric_abstraction and http://dbpedia.org/resource/Op_art and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Pratt_Institute and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Pratt_Institute and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Pratt_Institute and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Pratt_Institute and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Adja_Yunkers and http://dbpedia.org/resource/Abstract_art and the value is : 0
+http://dbpedia.org/resource/Adja_Yunkers and http://dbpedia.org/resource/Printmaking and the value is : 0
+http://dbpedia.org/resource/Abstract_art and http://dbpedia.org/resource/Printmaking and the value is : 0
+http://dbpedia.org/resource/Governorate_of_Livonia and http://dbpedia.org/resource/Russian_Empire and the value is : 0
+http://dbpedia.org/resource/Saint_Petersburg and http://dbpedia.org/resource/Berlin and the value is : 0
+http://dbpedia.org/resource/Saint_Petersburg and http://dbpedia.org/resource/Paris and the value is : 1
+http://dbpedia.org/resource/Berlin and http://dbpedia.org/resource/Paris and the value is : 1
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Stockholm and the value is : 0
+http://dbpedia.org/resource/Stockholm and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Woodcut and http://dbpedia.org/resource/Genre_art and the value is : 0
+http://dbpedia.org/resource/Lithography and http://dbpedia.org/resource/Tamarind_Institute and the value is : 1
+http://dbpedia.org/resource/Lithography and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Lithography and http://dbpedia.org/resource/Venice and the value is : 0
+http://dbpedia.org/resource/Tamarind_Institute and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Tamarind_Institute and http://dbpedia.org/resource/Venice and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Venice and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+adja yunkers 19211983 latvianborn american artist designer . born riga latvia studied academy fine arts riga . moved united states 1949 settled new york city . yunkers prolific artist working variety media including painting sculpture photography printmaking . noted designer creating furniture textiles jewelry . work abstract geometric pioneer op art movement . yunkers member american abstract artists group exhibited widely united states europe . professor art pratt institute brooklyn new york . 
+
+Coref Resolved : 
+adja yunkers 19211983 latvianborn american artist designer . born riga latvia studied academy fine arts riga . moved united states 1949 settled new york city . yunkers prolific artist working variety media including painting sculpture photography printmaking . noted designer creating furniture textiles jewelry . work abstract geometric pioneer op art movement . yunkers member american abstract artists group exhibited widely united states europe . professor art pratt institute brooklyn new york city .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+adja yunkers 19001983 american abstract painter printmaker . born riga governorate livonia russian empire 1900 . studied art leningrad berlin paris london . lived paris 14 years moved stockholm 1939 . stockholm published edited art magazines ars magazine creation magazine . 1947 moved united states lived rest life . 1949 received guggenheim fellowship . 1950s primarily worked color woodcuts introducing brushwork genre . 1960 began producing lithographs . produced important series lithographs tamarind lithography workshop los angeles salt lithographs skies venice lithographs . yunkers died new york city 1983 . 
+
+Coref Resolved : 
+adja yunkers 19001983 american abstract painter printmaker . born riga governorate livonia russian empire 1900 . studied art leningrad berlin paris london . lived paris 14 years moved stockholm 1939 . stockholm published edited art magazines ars magazine creation magazine . 1947 moved united states lived rest life . 1949 received guggenheim fellowship . 1950s primarily worked color woodcuts introducing brushwork genre . 1960 began producing lithographs . produced important series lithographs tamarind lithography workshop los angeles salt lithographs skies venice lithographs . yunkers died new york city 1983 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2692307692307692 and for ground truth is : 0.35294117647058826
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

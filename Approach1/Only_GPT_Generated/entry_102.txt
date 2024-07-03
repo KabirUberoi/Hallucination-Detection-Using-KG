@@ -1,0 +1,43 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/National_Assembly and the value is : 0
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/National_Assembly and http://dbpedia.org/resource/Quebec and the value is : 1
+http://dbpedia.org/resource/National_Assembly and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/Quebec and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/Parti_Québécois and the value is : 0
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/Head_teacher and the value is : 0
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/2003_Quebec_general_election and the value is : 0
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/Liberalism and the value is : 0
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/Incumbent and the value is : 0
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/Yves_Séguin and the value is : 0
+http://dbpedia.org/resource/2003_Quebec_general_election and http://dbpedia.org/resource/Liberalism and the value is : 1
+http://dbpedia.org/resource/2003_Quebec_general_election and http://dbpedia.org/resource/Incumbent and the value is : 0
+http://dbpedia.org/resource/2003_Quebec_general_election and http://dbpedia.org/resource/Yves_Séguin and the value is : 0
+http://dbpedia.org/resource/Liberalism and http://dbpedia.org/resource/Incumbent and the value is : 0
+http://dbpedia.org/resource/Liberalism and http://dbpedia.org/resource/Yves_Séguin and the value is : 0
+http://dbpedia.org/resource/Incumbent and http://dbpedia.org/resource/Yves_Séguin and the value is : 0
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/2007_Quebec_general_election and the value is : 0
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/Liberalism and the value is : 0
+http://dbpedia.org/resource/Michel_Mathieu_(French_politician) and http://dbpedia.org/resource/2008_Quebec_general_election and the value is : 0
+http://dbpedia.org/resource/2007_Quebec_general_election and http://dbpedia.org/resource/Liberalism and the value is : 0
+http://dbpedia.org/resource/2007_Quebec_general_election and http://dbpedia.org/resource/2008_Quebec_general_election and the value is : 0
+http://dbpedia.org/resource/Liberalism and http://dbpedia.org/resource/2008_Quebec_general_election and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+michel mathieu born october 28 1945 is a canadian politician. he was a member of the national assembly of quebec for the riding of lassomption from 2003 to 2007. he was a member of the parti québécois. mathieu was born in lassomption quebec. he was a teacher and school principal before entering politics. he was first elected in the 2003 provincial election defeating liberal incumbent yves séguin. he was reelected in the 2007 election but was defeated by liberal candidate yves stdenis in the 2008 election. 
+
+Coref Resolved : 
+michel mathieu born october 28 1945 is a canadian politician. michel mathieu born october 28 1945 was a member of the national assembly of quebec for the riding of lassomption from 2003 to 2007. michel mathieu born october 28 1945 was a member of the parti québécois. michel mathieu born october 28 1945 was born in the riding of lassomption . michel mathieu born october 28 1945 was a teacher and school principal before entering politics. michel mathieu born october 28 1945 was first elected in the 2003 provincial election defeating liberal incumbent yves séguin. michel mathieu born october 28 1945 was reelected in the 2007 election but was defeated by liberal candidate yves stdenis in the 2008 election.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.11538461538461539
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate accurate major_inaccurate major_inaccurate major_inaccurate 
+

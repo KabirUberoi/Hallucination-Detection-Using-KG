@@ -1,0 +1,82 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Stowaway and http://dbpedia.org/resource/Remix and the value is : 0
+http://dbpedia.org/resource/Stowaway and http://dbpedia.org/resource/Scott_Solter and the value is : 0
+http://dbpedia.org/resource/Stowaway and http://dbpedia.org/resource/John_Vanderslice and the value is : 0
+http://dbpedia.org/resource/Stowaway and http://dbpedia.org/resource/The_Mountain_Goats and the value is : 0
+http://dbpedia.org/resource/Remix and http://dbpedia.org/resource/Scott_Solter and the value is : 0
+http://dbpedia.org/resource/Remix and http://dbpedia.org/resource/John_Vanderslice and the value is : 0
+http://dbpedia.org/resource/Remix and http://dbpedia.org/resource/The_Mountain_Goats and the value is : 0
+http://dbpedia.org/resource/Remix and http://dbpedia.org/resource/Stowaway and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Pattern is Movement is an American indie rock band from Philadelphia, Pennsylvania.
+The band consists of Andrew Thiboldeaux (vocals, guitar, drums, percussion, keyboards) and Chris Ward (vocals, bass, guitar, keyboards).
+The band has released four full-length albums, two EPs, and several singles.
+The band's sound is a mix of indie rock, soul, and jazz, with a focus on intricate vocal harmonies and complex rhythms.
+Their music has been described as "a mix of soulful, jazzy indie rock, with a hint of funk and a lot of heart.".
+The band has toured extensively throughout the United States and Europe, and has shared the stage with acts such as The National, The Walkmen, and The Roots.
+
+
+Coref Resolved: 
+
+Pattern is Movement is an American indie rock band from Philadelphia, Pennsylvania.
+Pattern is Movement consists of Andrew Thiboldeaux (vocals, guitar, drums, percussion, keyboards) and Chris Ward (vocals, bass, guitar, keyboards).
+Pattern is Movement has released four full-length albums, two EPs, and several singles.
+Pattern is Movement sound is a mix of indie rock, soul, and jazz, with a focus on intricate vocal harmonies and complex rhythms.
+Pattern is Movement music has been described as "a mix of soulful, jazzy indie rock, with a hint of funk and a lot of heart.".
+Pattern is Movement has toured extensively throughout the United States and Europe, and has shared the stage with acts such as The National, The Walkmen, and The Roots.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Pattern is Movement (often stylized as Pattern is Movement) is an American indie rock band from Philadelphia, Pennsylvania that was established in 2001.
+They have been categorized by some reviewers as a math rock group and compared to groups such as Don Caballero, Sunny Day Real Estate, and Pinback.
+However, as the band moved from a five-piece to a two-piece, their sound moved away from the angular sound of previous records and closer to a more melodic heavy composition structure with sing-a-long choruses.
+The current two-piece sound can be attributed to influences such as Dirty Projectors, Beirut, and Grizzly Bear.
+In an interview with Baeble Music, Ward coined the band with the term "indie cabaret".
+In 2006, producer and engineer Scott Solter (who has worked with John Vanderslice and The Mountain Goats) remixed the 2005 album Stowaway, which he had also recorded.
+This remix was considered unique due to its exclusivity to analog processes.
+Solter is credited on the album with "machines, razors, tape".
+Since 2008, Pattern is Movement have been performing as a two-piece.
+On the January 2008 issue of Philadelphia Weekly, they were featured in a cover story citing "four indie bands that can expect a big year".
+The band emerged with a new album, All Together, documenting the lineup in the spring of 2008, also recorded with Solter.
+In his favorable review, Pitchfork Media writer Joe Tangari described it as "an accessible album that nonetheless sounds unlike what any other band is doing".
+In April 2009, they became one of Limewire's featured artists.
+In 2015, after releasing their self-titled fourth album, Pattern is Movement announced their farewell tour.
+ 
+
+Coref Resolved: 
+
+Pattern is Movement (often stylized as Pattern is Movement) is an American indie rock band from Philadelphia, Pennsylvania that was established in 2001.
+Pattern is Movement have been categorized by some reviewers as a math rock group and compared to groups such as Don Caballero, Sunny Day Real Estate, and Pinback.
+However, as Pattern is Movement moved from a five-piece to a two-piece, Pattern is Movement sound moved away from the angular sound of previous records and closer to a more melodic heavy composition structure with sing-a-long choruses.
+The current two-piece sound can be attributed to influences such as Dirty Projectors, Beirut, and Grizzly Bear.
+In an interview with Baeble Music, Ward coined Pattern is Movement with the term "indie cabaret".
+In 2006, producer and engineer Scott Solter (who has worked with John Vanderslice and The Mountain Goats)This remix the 2005 album Stowaway, which producer and engineer Scott Solter (who has worked with John Vanderslice and The Mountain Goats) had also recorded.
+This remix was considered unique due to This remix exclusivity to analog processes.
+producer and engineer Scott Solter (who has worked with John Vanderslice and The Mountain Goats) is credited on the 2005 album Stowaway, which he had also recordedwith "machines, razors, tape".
+Since 2008, Pattern is Movement have been performing as a two-piece.
+On the January 2008issue of Philadelphia Weekly, Pattern is Movement were featured in a cover story citing "four indie bands that can expect a big year".
+Pattern is Movement emerged with a new album, All Together, documenting the lineup in the spring of 2008, also recorded with producer and engineer Scott Solter (who has worked with John Vanderslice and The Mountain Goats) .
+In Pitchfork Media writer Joe Tangari favorable review, Pitchfork Media writer Joe Tangari described a new album, All Together, documenting the lineup in the spring of 2008as "an accessible album that nonetheless sounds unlike what any other band is doing".
+In April 2009, Pattern is Movement became one of Limewire's featured artists.
+In 2015, after releasing Pattern is Movement self-titled fourth album, Pattern is Movement announced Pattern is Movement farewell tour.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 -1 -1 -1 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 0.0 0.0 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

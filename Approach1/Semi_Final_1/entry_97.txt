@@ -1,0 +1,126 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/American_Cinematographer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/American_Cinematographer and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Film_industry and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Film_industry and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Film_industry and the value is : 1
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Ten_Commandments and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Parade and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Public_enemy and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Middle-earth_peoples and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Ounce and the value is : 1
+http://dbpedia.org/resource/Ten_Commandments and http://dbpedia.org/resource/Parade and the value is : 0
+http://dbpedia.org/resource/Ten_Commandments and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Ten_Commandments and http://dbpedia.org/resource/Public_enemy and the value is : 0
+http://dbpedia.org/resource/Ten_Commandments and http://dbpedia.org/resource/Middle-earth_peoples and the value is : 0
+http://dbpedia.org/resource/Ten_Commandments and http://dbpedia.org/resource/Ounce and the value is : 0
+http://dbpedia.org/resource/Parade and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Parade and http://dbpedia.org/resource/Public_enemy and the value is : 0
+http://dbpedia.org/resource/Parade and http://dbpedia.org/resource/Middle-earth_peoples and the value is : 0
+http://dbpedia.org/resource/Parade and http://dbpedia.org/resource/Ounce and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Public_enemy and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Middle-earth_peoples and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Ounce and the value is : 1
+http://dbpedia.org/resource/Public_enemy and http://dbpedia.org/resource/Middle-earth_peoples and the value is : 0
+http://dbpedia.org/resource/Public_enemy and http://dbpedia.org/resource/Ounce and the value is : 0
+http://dbpedia.org/resource/Middle-earth_peoples and http://dbpedia.org/resource/Ounce and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Academy_Award_for_Best_Cinematography and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Parade and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/Academy_Award_for_Best_Cinematography and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/Parade and the value is : 0
+http://dbpedia.org/resource/Academy_Award_for_Best_Cinematography and http://dbpedia.org/resource/Parade and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/April_23 and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/American_Cinematographer and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Oscar_(fish) and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Academy_Award_for_Best_Cinematography and the value is : 0
+http://dbpedia.org/resource/April_23 and http://dbpedia.org/resource/American_Cinematographer and the value is : 0
+http://dbpedia.org/resource/April_23 and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/April_23 and http://dbpedia.org/resource/Oscar_(fish) and the value is : 0
+http://dbpedia.org/resource/April_23 and http://dbpedia.org/resource/Academy_Award_for_Best_Cinematography and the value is : 0
+http://dbpedia.org/resource/American_Cinematographer and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/American_Cinematographer and http://dbpedia.org/resource/Oscar_(fish) and the value is : 0
+http://dbpedia.org/resource/American_Cinematographer and http://dbpedia.org/resource/Academy_Award_for_Best_Cinematography and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/Oscar_(fish) and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/Academy_Award_for_Best_Cinematography and the value is : 0
+http://dbpedia.org/resource/Oscar_(fish) and http://dbpedia.org/resource/Academy_Award_for_Best_Cinematography and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Western_fiction and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Gunsmoke and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Western_fiction and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Gunsmoke and the value is : 0
+http://dbpedia.org/resource/Western_fiction and http://dbpedia.org/resource/Gunsmoke and the value is : 0
+http://dbpedia.org/resource/Movie_ranch and http://dbpedia.org/resource/Chatsworth_House and the value is : 0
+http://dbpedia.org/resource/Movie_ranch and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Movie_ranch and http://dbpedia.org/resource/Ernest_Miller and the value is : 1
+http://dbpedia.org/resource/Movie_ranch and http://dbpedia.org/resource/Tooth and the value is : 0
+http://dbpedia.org/resource/Chatsworth_House and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Chatsworth_House and http://dbpedia.org/resource/Ernest_Miller and the value is : 0
+http://dbpedia.org/resource/Chatsworth_House and http://dbpedia.org/resource/Tooth and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Ernest_Miller and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Tooth and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Tooth and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Movie_camera and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Movie_ranch and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Charisma and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Sandstone and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Frame_story and the value is : 0
+http://dbpedia.org/resource/Movie_camera and http://dbpedia.org/resource/Movie_ranch and the value is : 0
+http://dbpedia.org/resource/Movie_camera and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/Movie_camera and http://dbpedia.org/resource/Charisma and the value is : 0
+http://dbpedia.org/resource/Movie_camera and http://dbpedia.org/resource/Sandstone and the value is : 0
+http://dbpedia.org/resource/Movie_camera and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Movie_camera and http://dbpedia.org/resource/Frame_story and the value is : 0
+http://dbpedia.org/resource/Movie_ranch and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/Movie_ranch and http://dbpedia.org/resource/Charisma and the value is : 0
+http://dbpedia.org/resource/Movie_ranch and http://dbpedia.org/resource/Sandstone and the value is : 0
+http://dbpedia.org/resource/Movie_ranch and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Movie_ranch and http://dbpedia.org/resource/Frame_story and the value is : 0
+http://dbpedia.org/resource/Trademark and http://dbpedia.org/resource/Charisma and the value is : 0
+http://dbpedia.org/resource/Trademark and http://dbpedia.org/resource/Sandstone and the value is : 0
+http://dbpedia.org/resource/Trademark and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Trademark and http://dbpedia.org/resource/Frame_story and the value is : 0
+http://dbpedia.org/resource/Charisma and http://dbpedia.org/resource/Sandstone and the value is : 0
+http://dbpedia.org/resource/Charisma and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Charisma and http://dbpedia.org/resource/Frame_story and the value is : 0
+http://dbpedia.org/resource/Sandstone and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Sandstone and http://dbpedia.org/resource/Frame_story and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Frame_story and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+ernest miller born october 28 1891 died april 28 1967 was an american cinematographer. he was born in new york city and began his career in the film industry in 1912. he worked on over 200 films during his career including the ten commandments 1923 the big parade 1925 the jazz singer 1927 the public enemy 1931 and the wizard of oz 1939. he was nominated for an academy award for best cinematography for the big parade. he was also a member of the american society of cinematographers. miller died in 1967 in los angeles california. 
+
+Coref Resolved : 
+ernest miller born october 28 1891 died april 28 1967 was an american cinematographer. ernest miller was born in new york city and began ernest miller career in the film industry in 1912. ernest miller worked on over 200 films during ernest miller career including the ten commandments 1923 the big parade 1925 the jazz singer 1927 the public enemy 1931 and the wizard of oz 1939. ernest miller was nominated for an academy award for best cinematography for the big parade . ernest miller was also a member of the american society of cinematographers. ernest miller died in 1967 in los angeles california.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+ernest miller march 7 1885 april 23 1957 was an american cinematographer who was nominated for an academy award at the 1939 oscars for best cinematography for the film army girl sharing the nomination with harry j. wild. he had nearly 350 film and television credits to his name mostly westerns including some of the early episodes of gunsmoke. location work on army girl was done primarily at the iverson movie ranch in chatsworth california where miller cut his teeth in bwesterns and became one of the most prolific and one of the best of the sites shooters during the course of his career. his camera work at iverson became identifiable for millers trademark use of the sites charismatic sandstone rock features as framing devices as he incorporated the giant boulders into the artistry of the outdoor action shots in ways that few cinematographers could match. 
+
+Coref Resolved : 
+ernest miller march 7 1885 april 23 1957 was an american cinematographer who was the nomination for an academy award at the 1939 oscars for best cinematography for the film army girl sharing the nomination with harry j. wild. ernest miller had nearly 350 film and television credits to ernest miller name mostly westerns including some of the early episodes of gunsmoke. location work on the film army girl was done primarily at the iverson movie ranch in chatsworth california where ernest miller cut ernest miller teeth in bwesterns and became one of the most prolific and one of the best of the sites shooters during the course of ernest miller career. ernest miller camera work at iverson became identifiable for ernest miller trademark use of the sites charismatic sandstone rock features as framing devices as ernest miller incorporated the sites charismatic sandstone rock features into the artistry of the outdoor action shots in ways that few cinematographers could match.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.07692307692307693 and for ground truth is : 0.03389830508474576
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

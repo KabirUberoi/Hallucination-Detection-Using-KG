@@ -1,0 +1,58 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Utility_player and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Pittsburgh_Pirates and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Utility_player and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Utility_player and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 1
+http://dbpedia.org/resource/Utility_player and http://dbpedia.org/resource/Pittsburgh_Pirates and the value is : 1
+http://dbpedia.org/resource/Utility_player and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Pittsburgh_Pirates and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 1
+http://dbpedia.org/resource/St._Louis_Cardinals and http://dbpedia.org/resource/Pittsburgh_Pirates and the value is : 1
+http://dbpedia.org/resource/St._Louis_Cardinals and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Pittsburgh_Pirates and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Shortstop and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Outfielder and the value is : 0
+http://dbpedia.org/resource/Shortstop and http://dbpedia.org/resource/Outfielder and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Missouri_Tigers_football and the value is : 1
+http://dbpedia.org/resource/St._Louis_Cardinals and http://dbpedia.org/resource/Missouri_Tigers_football and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Professional_baseball and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/At_bat and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Run_batted_in and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/At_bat and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/At_bat and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Infielder and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Outfielder and the value is : 0
+http://dbpedia.org/resource/Infielder and http://dbpedia.org/resource/Outfielder and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Outfielder and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+joe brown born october 28 1883 died october 28 1957 was a utility player in major league baseball who played for the st. louis cardinals 19081909 pittsburgh pirates 19101911 and cincinnati reds 19121913. he was primarily a third baseman but also played shortstop second base and the outfield. brown was born in st. louis missouri. he began his professional baseball career in 1906 with the st. louis cardinals of the national league. he played in the minor leagues for two years before making his major league debut in 1908. he played in a total of 441 major league games batting .239 with two home runs and 111 runs batted in. brown was known for his versatility playing all four infield positions as well as the outfield. he was also known for his strong arm which allowed him to make long throws from the outfield. after his major league career ended brown continued to play in the minor leagues until 1915. he died in st. louis in 1957. 
+
+Coref Resolved : 
+joe brown born october 28 1883 died october 28 1957 was a utility player in major league baseball who played for the st. louis cardinals 19081909 pittsburgh pirates 19101911 and cincinnati reds 19121913. joe brown was primarily a third baseman but also played shortstop second base and the outfield. joe brown was born in st. louis missouri. joe brown began joe brown professional baseball career in 1906 with the st. louis cardinals of the national league. joe brown played in the minor leagues for two years before making joe brown major league debut in 1908. joe brown played in a total of 441 major league games batting .239 with two home runs and 111 runs batted in. joe brown was known for joe brown versatility playing all four infield positions as well as the outfield. joe brown was also known for joe brown strong arm which allowed joe brown to make long throws from the outfield. after joe brown major league career ended joe brown continued to play in the minor leagues until 1915. joe brown died in st. louis missouriin 1957.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.4634146341463415
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

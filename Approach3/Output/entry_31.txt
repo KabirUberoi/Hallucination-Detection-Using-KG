@@ -1,0 +1,125 @@
+#############SENTENCE_PAIRS############
+
+Archie Baird and Scottish and the value is : 1
+Archie Baird and footballer and the value is : 0
+Archie Baird and Rangers and the value is : 1
+Archie Baird and St Mirren and the value is : 1
+Archie Baird and Scotland and the value is : 1
+Archie Baird and Glasgow and the value is : 1
+Archie Baird and Rangers and the value is : 1
+Archie Baird and Rangers and the value is : 1
+Archie Baird and Scottish Cup and the value is : 1
+Archie Baird and St Mirren and the value is : 1
+Archie Baird and Rangers and the value is : 1
+Archie Baird and Scottish and the value is : 1
+Archie Baird and Scotland and the value is : 1
+Archie Baird and England and the value is : 0
+Archie Baird and Scottish League XI and the value is : 1
+Archie Baird and Rangers and the value is : 1
+Archie Baird and St Mirren and the value is : 1
+
+#############GROUND_PAIRS############
+
+Archie Baird and Scottish and the value is : 0
+Archie Baird and football and the value is : 1
+Archie Baird and Aberdeen and the value is : 1
+Archie Baird and football and the value is : 1
+Archie Baird and Rutherglen and the value is : 1
+Archie Baird and Aberdeen and the value is : 1
+Archie Baird and Second World War and the value is : 1
+Archie Baird and Second World War and the value is : 1
+Archie Baird and British Army and the value is : 0
+Archie Baird and Aberdeen and the value is : 1
+Archie Baird and Second World War and the value is : 1
+form and Scotland and the value is : 0
+form and friendly match and the value is : 1
+form and Belgium and the value is : 0
+Archie Baird and Scotland and the value is : 0
+Archie Baird and Scotland and the value is : 0
+Archie Baird and friendly match and the value is : 1
+Archie Baird and Belgium and the value is : 0
+Archie Baird and Jimmy Delaney and the value is : 1
+players and Scotland and the value is : 0
+Archie Baird and Aberdeen and the value is : 1
+Archie Baird and Southern League Cup and the value is : 1
+Archie Baird and Scottish League Cup and the value is : 1
+Archie Baird and 1947 Scottish Cup and the value is : 1
+Archie Baird and Aberdeen and the value is : 1
+Archie Baird and sports journalist and the value is : 1
+Archie Baird and sleep and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Archie Baird (1890 1962) was a Scottish footballer who played for Rangers, St Mirren, and Scotland.
+He was born in Glasgow and began his career with Rangers in 1910.
+He made his debut for the club in a Scottish Cup tie against St Mirren in 1911.
+He went on to make over 200 appearances for the club, winning two Scottish League titles and two Scottish Cups.
+Baird was capped seven times by Scotland, making his debut against England in 1912.
+He also represented the Scottish League XI on four occasions.
+He left Rangers in 1923 and joined St Mirren, where he made over 100 appearances before retiring in 1927.
+He died in 1962.
+
+
+Coref Resolved: 
+
+0. Archie Baird (1890 1962) was a Scottish footballer who played for Rangers , St Mirren , and Scotland .
+1. Archie Baird was born in Glasgow and began Archie Baird career with Rangers in 1910.
+2. Archie Baird made Archie Baird debut for Rangers in a Scottish Cup tie against St Mirren in 1911.
+3. Archie Baird went on to make over 200 appearances for Rangers , winning two Scottish League titles and two Scottish Cups.
+4. Archie Baird was capped seven times by Scotland , making Archie Baird debut against England in 1912.
+5. Archie Baird also represented the Scottish League XI on four occasions.
+6. Archie Baird left Rangers in 1923 and joined St Mirren , where Archie Baird made over 100 appearances before retiring in 1927.
+7. Archie Baird died in 1962.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Archie Baird (8 May 1919 3 November 2009) was a Scottish association football player who played for Aberdeen and St. Johnstone.
+He was also capped once by the Scotland national football team.
+Baird was born in Rutherglen.
+Baird signed for Aberdeen before the Second World War, but the war started before he had made the first team.
+He joined the British Army, but was captured and held as a prisoner of war.
+He escaped and lived with an Italian family as their "son".
+In 1989, he published an autobiography, "Family of Four", which described these experiences.
+Baird returned to Aberdeen before the end of the war.
+His good form in this period earned him selection for Scotland in a friendly match against Belgium in early 1946.
+Baird was one of nine Scotland players making their international debut in the match, with only Jimmy Delaney having significant experience.
+Of those nine debutants, five players did not make another international appearance, including Baird.
+Baird helped Aberdeen win the Southern League Cup (a forerunner of the Scottish League Cup) in 1946 and the 1947 Scottish Cup, but his appearances were restricted by injuries.
+In all, he made 104 league appearances for Aberdeen, scoring 26 goals in those matches.
+He was transferred in 1953 to St. Johnstone, where he played for three seasons before retiring in 1956.
+After retiring as a player, Baird worked as a teacher and a sports journalist.
+Baird celebrated his 90th birthday in May 2009, and died quietly in his sleep on 3 November 2009. 
+
+Coref Resolved: 
+
+0. Archie Baird (8 May 1919 3 November 2009) was a Scottish association football player who played for Aberdeen and St. Johnstone .
+1. Archie Baird was also capped once by the Scotland national football team.
+2. Archie Baird was born in Rutherglen.
+3. Archie Baird signed for Aberdeen before the Second World War , but the Second World War started before Archie Baird had made the first team.
+4. Archie Baird joined the British Army, but was captured and held as a prisoner of war.
+5. Archie Baird escaped and lived with an Italian family as an Italian family "son".
+6. In 1989, Archie Baird published an autobiography, "Family of Four", which described these experiences.
+7. Archie Baird returned to Aberdeen before the end of the Second World War .
+8. Archie Baird good form in this period earned Archie Baird selection for Scotland in a friendly match against Belgium in early 1946.
+9. Archie Baird was one of nine Scotland players making their international debut in the match nine Scotland players making their international debut in the match a friendly match against Belgium , with only Jimmy Delaney having significant experience.
+10. Of nine Scotland players making their international debut in the match , five players did not make another international appearance, including Archie Baird .
+11. Archie Baird helped Aberdeen win the Southern League Cup (a forerunner of the Scottish League Cup) in 1946 and the 1947 Scottish Cup, but Archie Baird appearances were restricted by injuries.
+12. In all, Archie Baird made 104 league appearances for Aberdeen , scoring 26 goals in 104 league appearances .
+13. Archie Baird was transferred in 1953 to St. Johnstone .
+14. After retiring as a player, Archie Baird worked as a teacher and a sports journalist.
+15. Archie Baird celebrated Archie Baird 90th birthday in May 2009, and died quietly in Archie Baird sleep on 3 November 2009.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.8 1.0 1.0 1.0 0.5 1.0 1.0 -1 
+
+Value for ground truth is : 
+0.6666666666666666 1.0 1.0 1.0 0.0 -1 -1 1.0 0.3333333333333333 0.4 0.0 1.0 1.0 -1 1.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

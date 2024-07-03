@@ -1,0 +1,151 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/December_28 and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Emeritus and the value is : 1
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Library_science and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Information_retrieval and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Citation_analysis and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Bibliometrics and the value is : 0
+http://dbpedia.org/resource/Information_retrieval and http://dbpedia.org/resource/Citation_analysis and the value is : 0
+http://dbpedia.org/resource/Information_retrieval and http://dbpedia.org/resource/Bibliometrics and the value is : 0
+http://dbpedia.org/resource/Citation_analysis and http://dbpedia.org/resource/Bibliometrics and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Bachelor_of_Arts and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/University_of_Minnesota and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Master_of_Arts and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Arts and http://dbpedia.org/resource/University_of_Minnesota and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Arts and http://dbpedia.org/resource/Master_of_Arts and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Arts and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/University_of_Minnesota and http://dbpedia.org/resource/Master_of_Arts and the value is : 0
+http://dbpedia.org/resource/University_of_Minnesota and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Master_of_Arts and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Library_science and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Illinois and the value is : 1
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Graduate_school and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Library_science and the value is : 1
+http://dbpedia.org/resource/Graduate_school and http://dbpedia.org/resource/Library_science and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Computer_science and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Biomedical_engineering and the value is : 1
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Biomedical_engineering and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Arrowsmith_System and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/MEDLINE and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Undiscovered and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Public_Knowledge and the value is : 0
+http://dbpedia.org/resource/Arrowsmith_System and http://dbpedia.org/resource/MEDLINE and the value is : 0
+http://dbpedia.org/resource/Arrowsmith_System and http://dbpedia.org/resource/Undiscovered and the value is : 0
+http://dbpedia.org/resource/Arrowsmith_System and http://dbpedia.org/resource/Public_Knowledge and the value is : 0
+http://dbpedia.org/resource/MEDLINE and http://dbpedia.org/resource/Undiscovered and the value is : 0
+http://dbpedia.org/resource/MEDLINE and http://dbpedia.org/resource/Public_Knowledge and the value is : 0
+http://dbpedia.org/resource/Undiscovered and http://dbpedia.org/resource/Public_Knowledge and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Health_informatics and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Health_informatics and the value is : 0
+http://dbpedia.org/resource/University_of_Chicago and http://dbpedia.org/resource/Health_informatics and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Bachelor_of_Science and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/California_Institute_of_Technology and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Rice and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/University_of_Houston and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Texas and the value is : 1
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Physics and the value is : 1
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/California_Institute_of_Technology and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Rice and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/University_of_Houston and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/California_Institute_of_Technology and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Rice and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/University_of_Houston and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Texas and the value is : 1
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/California_Institute_of_Technology and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/California_Institute_of_Technology and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/California_Institute_of_Technology and http://dbpedia.org/resource/Rice and the value is : 0
+http://dbpedia.org/resource/California_Institute_of_Technology and http://dbpedia.org/resource/University_of_Houston and the value is : 0
+http://dbpedia.org/resource/California_Institute_of_Technology and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/California_Institute_of_Technology and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Rice and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/University_of_Houston and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 1
+http://dbpedia.org/resource/Master_of_Science and http://dbpedia.org/resource/Rice and the value is : 0
+http://dbpedia.org/resource/Master_of_Science and http://dbpedia.org/resource/University_of_Houston and the value is : 0
+http://dbpedia.org/resource/Master_of_Science and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Master_of_Science and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Rice and http://dbpedia.org/resource/University_of_Houston and the value is : 0
+http://dbpedia.org/resource/Rice and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Rice and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/University_of_Houston and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/University_of_Houston and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Physics and the value is : 1
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Professors_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Academic_administration and the value is : 1
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Graduate_school and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Professors_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Academic_administration and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Graduate_school and the value is : 1
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Academic_administration and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Graduate_school and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Academic_administration and http://dbpedia.org/resource/Graduate_school and the value is : 0
+http://dbpedia.org/resource/Academic_administration and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Academic_administration and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Graduate_school and http://dbpedia.org/resource/Library_science and the value is : 1
+http://dbpedia.org/resource/Graduate_school and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Library_science and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Association_for_Information_Science_and_Technology and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+don r. swanson born december 28 1932 is an american professor emeritus of library and information science at the university of illinois at urbanachampaign. he is known for his work in information science particularly in the areas of information retrieval citation analysis and bibliometrics. swanson received his b.a. in english from the university of minnesota in 1954 and his m.a. in library science from the university of minnesota in 1956. he received his ph.d. in library science from the university of chicago in 1962. swanson was a professor at the university of illinois at urbanachampaign from 1962 to 1998. he was the founding director of the graduate school of library and information science from 1975 to 1985. he was also the founding director of the center for informatics research in science and scholarship from 1985 to 1998. swanson has authored or coauthored over 200 publications including books journal articles and conference papers. he has received numerous awards and honors including the american society for information science award of merit in 1988 the american society 
+
+Coref Resolved : 
+don r. swanson born december 28 1932 is an american professor emeritus of library and information science at the university of illinois at urbanachampaign. don r. swanson is known for don r. swanson work in information science particularly in the areas of information retrieval citation analysis and bibliometrics. don r. swanson received don r. swanson b.a. in english from the university of minnesota in 1954 and don r. swanson m.a. in library science from the university of minnesota in 1956. don r. swanson received don r. swanson ph.d. in library science from the university of chicago in 1962. don r. swanson was a professor at the university of illinois at urbanachampaignfrom 1962to 1998. don r. swanson was the founding director of the graduate school of library and information science from 1975 to 1985. don r. swanson was also the founding director of the center for informatics research in science and scholarship from 1985to 1998. don r. swanson has authored or coauthored over 200 publications including books journal articles and conference papers. don r. swanson has received numerous awards and honors including the american society for information science award of merit in 1988 the american society
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+don r. swanson october 10 1924 november 18 2012 was an american information scientist most known for his work in literaturebased discovery in the biomedical domain. his particular method has been used as a model for further work and is often referred to as swanson linking. he was an investigator in the arrowsmith system project which seeks to determine meaningful links between medline articles to identify previously undiscovered public knowledge. he had been professor emeritus of the university of chicago since 1996 and remained active in a postretirement appointment until his health began to decline in 2009. swanson received his b.s. in physics at caltech pasadena california in 1945 followed by an m.a. at rice institute houston texas two years later and then a ph.d. in theoretical physics from the university of california at berkeley in 1952. he worked as a physicist at various laboratories until 1963 when he was made a professor and served as dean of the graduate school of library science at the university of chicago until 1972 and again from 197779 and 198789. in 2000 he was awarded the asist award of merit the highest honor of the society for his lifetime achievements in research and scholarship. 
+
+Coref Resolved : 
+don r. swanson october 10 1924 november 18 2012 was an american information scientist most known for don r. swanson work in literaturebased discovery in the biomedical domain. don r. swanson particular method has been used as a model for further work and is often referred to as don r. swanson linking. don r. swanson was an investigator in the arrowsmith system project which seeks to determine meaningful links between medline articles to identify previously undiscovered public knowledge. don r. swanson had been professor emeritus of the university of chicago since 1996 and remained active in a postretirement appointment until don r. swanson health began to decline in 2009. don r. swanson received don r. swanson b.s. in physics at caltech pasadena california in 1945 followed by an m.a. at rice institute houston texas two years later and then a ph.d. in theoretical physics from the university of california at berkeley in 1952. don r. swanson worked as a physicist at various laboratories until 1963 when don r. swanson was made a professor and served as dean of the graduate school of library science at the university of chicago until 1972 and again from 197779 and 198789. in 2000 don r. swanson was awarded the asist award of merit the highest honor of the society for don r. swanson lifetime achievements in research and scholarship.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.08823529411764706 and for ground truth is : 0.11235955056179775
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

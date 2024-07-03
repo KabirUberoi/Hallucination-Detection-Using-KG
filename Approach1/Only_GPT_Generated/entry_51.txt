@@ -1,0 +1,58 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/Australia_national_soccer_team and the value is : 0
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/Melbourne_Victory_FC and the value is : 0
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/FC_Bayern_Munich and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australia_national_soccer_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Melbourne_Victory_FC and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/FC_Bayern_Munich and the value is : 0
+http://dbpedia.org/resource/Australia_national_soccer_team and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Australia_national_soccer_team and http://dbpedia.org/resource/Melbourne_Victory_FC and the value is : 0
+http://dbpedia.org/resource/Australia_national_soccer_team and http://dbpedia.org/resource/FC_Bayern_Munich and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Melbourne_Victory_FC and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/FC_Bayern_Munich and the value is : 1
+http://dbpedia.org/resource/Melbourne_Victory_FC and http://dbpedia.org/resource/FC_Bayern_Munich and the value is : 0
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/Brisbane_Roar_FC_NPL_and_Youth and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Brisbane_Roar_FC_NPL_and_Youth and the value is : 0
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/Western_Sydney_Wanderers_FC and the value is : 1
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/Melbourne_Victory_FC and the value is : 0
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/FC_Bayern_Munich and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Western_Sydney_Wanderers_FC and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Melbourne_Victory_FC and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/FC_Bayern_Munich and the value is : 0
+http://dbpedia.org/resource/Western_Sydney_Wanderers_FC and http://dbpedia.org/resource/Melbourne_Victory_FC and the value is : 1
+http://dbpedia.org/resource/Western_Sydney_Wanderers_FC and http://dbpedia.org/resource/FC_Bayern_Munich and the value is : 0
+http://dbpedia.org/resource/Melbourne_Victory_FC and http://dbpedia.org/resource/FC_Bayern_Munich and the value is : 0
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/FIFA_International_Referees_List and the value is : 0
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/2016_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/FIFA_International_Referees_List and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/2016_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/FIFA_International_Referees_List and http://dbpedia.org/resource/2016_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/Asian_Football_Confederation and the value is : 0
+http://dbpedia.org/resource/Emily_Gielnik and http://dbpedia.org/resource/2014_AFC_Women's_Asian_Cup and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Asian_Football_Confederation and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/2014_AFC_Women's_Asian_Cup and the value is : 0
+http://dbpedia.org/resource/Asian_Football_Confederation and http://dbpedia.org/resource/2014_AFC_Women's_Asian_Cup and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+emily gielnik born 8 april 1991 is an australian professional footballer who plays as a forward for melbourne victory in the wleague and for bayern munich in the frauenbundesliga. gielnik began her career in the brisbane roar youth system before making her senior debut in the wleague in 2010. she has since played for the western sydney wanderers melbourne victory and bayern munich. gielnik has represented australia at the senior international level since 2011 making her debut against new zealand. she has since represented australia at the 2015 fifa womens world cup the 2016 summer olympics and the 2019 fifa womens world cup. she has also represented australia at the 2018 afc womens asian cup where she scored the winning goal in the final against japan. 
+
+Coref Resolved : 
+emily gielnik born 8 april 1991 is an australian professional footballer who plays as a forward for melbourne victory in the wleague and for bayern munich in the frauenbundesliga. emily gielnik born 8 april 1991 began emily gielnik born 8 april 1991 career in the brisbane roar youth system before making emily gielnik born 8 april 1991 senior debut in the wleague in 2010. emily gielnik born 8 april 1991 has since played for the western sydney wanderers melbourne victory and bayern munich . emily gielnik born 8 april 1991 has represented australia at the senior international level since 2011 making emily gielnik born 8 april 1991 debut against new zealand. emily gielnik born 8 april 1991 has since represented australia at the 2015 fifa womens world cup the 2016 summer olympics and the 2019 fifa womens world cup. emily gielnik born 8 april 1991 has also represented australia at the 2018 afc womens asian cup where emily gielnik born 8 april 1991 scored the winning goal in the final against japan.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1951219512195122
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

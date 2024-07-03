@@ -1,0 +1,120 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/Basketball and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/Santa_Cruz_Warriors and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Basketball and http://dbpedia.org/resource/Santa_Cruz_Warriors and the value is : 0
+http://dbpedia.org/resource/Basketball and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Santa_Cruz_Warriors and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/San_Francisco_Dons_men's_basketball and the value is : 1
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/San_Francisco_Dons_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/Archbishop_Mitty_High_School and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/San_Jose,_California and the value is : 1
+http://dbpedia.org/resource/Archbishop_Mitty_High_School and http://dbpedia.org/resource/San_Jose,_California and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/West_Catholic_Athletic_League and the value is : 1
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/San_Francisco_Dons_men's_basketball and the value is : 1
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/San_Francisco_Dons_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/West_Coast_Conference and the value is : 0
+http://dbpedia.org/resource/NBA_draft and http://dbpedia.org/resource/2011_NBA_draft and the value is : 0
+http://dbpedia.org/resource/NBA_draft and http://dbpedia.org/resource/Joseph_H._Holland and the value is : 0
+http://dbpedia.org/resource/NBA_draft and http://dbpedia.org/resource/Santa_Cruz_Warriors and the value is : 1
+http://dbpedia.org/resource/NBA_draft and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/2011_NBA_draft and http://dbpedia.org/resource/Joseph_H._Holland and the value is : 1
+http://dbpedia.org/resource/2011_NBA_draft and http://dbpedia.org/resource/Santa_Cruz_Warriors and the value is : 0
+http://dbpedia.org/resource/2011_NBA_draft and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/Santa_Cruz_Warriors and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Santa_Cruz_Warriors and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/Germany_national_football_team and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Netherlands_national_football_team and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Netherlands_national_football_team and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Kentucky_Wildcats_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 1
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Kentucky_Wildcats_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/Kentucky_Wildcats_men's_basketball and the value is : 1
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Kentucky_Wildcats_men's_basketball and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Netherlands_national_football_team and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Kentucky_Wildcats_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Kentucky_Wildcats_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Netherlands_national_football_team and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Kentucky_Wildcats_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Adolph_Rupp and the value is : 1
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Wildcat_cartridge and the value is : 1
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Kentucky_Wildcats_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Adolph_Rupp and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Wildcat_cartridge and the value is : 0
+http://dbpedia.org/resource/Kentucky_Wildcats_men's_basketball and http://dbpedia.org/resource/Adolph_Rupp and the value is : 0
+http://dbpedia.org/resource/Kentucky_Wildcats_men's_basketball and http://dbpedia.org/resource/Wildcat_cartridge and the value is : 0
+http://dbpedia.org/resource/Adolph_Rupp and http://dbpedia.org/resource/Wildcat_cartridge and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Netherlands_national_football_team and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Washington_Wizards and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Washington_Wizards and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/Washington_Wizards and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Netherlands_national_football_team and the value is : 1
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Indianapolis_Olympians and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Cliff_Barker and the value is : 1
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Ralph_Beard and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Wallace_Jones and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Jack_Parkinson_(footballer,_born_1869) and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Indianapolis_Olympians and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Cliff_Barker and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Ralph_Beard and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Wallace_Jones and the value is : 1
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Jack_Parkinson_(footballer,_born_1869) and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Olympians and http://dbpedia.org/resource/Cliff_Barker and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Olympians and http://dbpedia.org/resource/Ralph_Beard and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Olympians and http://dbpedia.org/resource/Wallace_Jones and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Olympians and http://dbpedia.org/resource/Jack_Parkinson_(footballer,_born_1869) and the value is : 0
+http://dbpedia.org/resource/Cliff_Barker and http://dbpedia.org/resource/Ralph_Beard and the value is : 0
+http://dbpedia.org/resource/Cliff_Barker and http://dbpedia.org/resource/Wallace_Jones and the value is : 0
+http://dbpedia.org/resource/Cliff_Barker and http://dbpedia.org/resource/Jack_Parkinson_(footballer,_born_1869) and the value is : 0
+http://dbpedia.org/resource/Ralph_Beard and http://dbpedia.org/resource/Wallace_Jones and the value is : 0
+http://dbpedia.org/resource/Ralph_Beard and http://dbpedia.org/resource/Jack_Parkinson_(footballer,_born_1869) and the value is : 0
+http://dbpedia.org/resource/Wallace_Jones and http://dbpedia.org/resource/Jack_Parkinson_(footballer,_born_1869) and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Netherlands_national_football_team and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Indianapolis_Olympians and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 1
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Volleyball and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Indianapolis_Olympians and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 0
+http://dbpedia.org/resource/Netherlands_national_football_team and http://dbpedia.org/resource/Volleyball and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Olympians and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Olympians and http://dbpedia.org/resource/Volleyball and the value is : 0
+http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and http://dbpedia.org/resource/Volleyball and the value is : 0
+http://dbpedia.org/resource/Joseph_Burnett and http://dbpedia.org/resource/Netherlands_national_football_team and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+joe holland born october 28 1988 is an american professional basketball player for the santa cruz warriors of the nba g league. he played college basketball for the university of san francisco. holland attended archbishop mitty high school in san jose california where he was a threetime allwcal selection. he was named the wcal player of the year as a senior in 200607. holland played college basketball at the university of san francisco where he was a fouryear starter. he was named the west coast conference freshman of the year in 200708 and was a twotime allwcc selection. he finished his college career with 1541 points which ranks sixth in school history. after going undrafted in the 2011 nba draft holland joined the santa cruz warriors of the nba development league. he has also played professionally in france germany and japan. 
+
+Coref Resolved : 
+joe holland born october 28 1988 is an american professional basketball player for the santa cruz warriors of the nba g league. joe holland born october 28 1988 played college basketball for the university of san francisco. joe holland born october 28 1988 attended archbishop mitty high school in san jose california where joe holland born october 28 1988 was a threetime allwcal selection. joe holland born october 28 1988 was named the wcal player of the year as a senior in 200607. joe holland born october 28 1988 played college basketball at the university of san francisco where joe holland born october 28 1988 was a fouryear starter. joe holland born october 28 1988 was named the west coast conference freshman of the year in 200708 and was a twotime allwcc selection. joe holland born october 28 1988 finished joe holland born october 28 1988 college career with 1541 points which ranks sixth in school history. after going undrafted in the 2011 nba draft joe holland born october 28 1988 joined the santa cruz warriors of the nba g league. joe holland born october 28 1988 has also played professionally in france germany and japan.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+joseph burnett holland sr. september 26 1925 september 18 2010 was an american basketball player. he won an ncaa championship at the university of kentucky and played three years in the national basketball association from 1949 to 1952. holland a 64 forward from benton kentucky played for kentucky from 1945 to 1948. he was a key player for the wildcats earning first team allsoutheastern conference in 1947 and playing a key role in helping adolph rupp win his first championship as a part of the 194748 wildcats team. after graduating from uk in 1949 holland was drafted by the baltimore bullets in the 1948 baa draft. holland played three seasons with the indianapolis olympians where he was reunited with college teammates cliff barker ralph beard wah wah jones and jack parkinson. holland played three seasons for the olympians averaging 5.8 points 4.2 rebounds and 2.1 assists per game in 186 total games. holland died on september 18 2010. 
+
+Coref Resolved : 
+joseph burnett holland sr. september 26 1925 september 18 2010 was an american basketball player. joseph burnett holland won an ncaa championship at the university of kentucky and played three years in the national basketball association from 1949 to 1952. joseph burnett holland played for the university of kentucky from 1945 to 1948. joseph burnett holland was a key player for the university of kentucky earning first team allsoutheastern conference in 1947 and playing a key role in helping adolph rupp win adolph rupp first championship as a part of the 194748 wildcats team. after graduating from uk in 1949 joseph burnett holland was drafted by the baltimore bullets in the 1948baa draft. joseph burnett holland played three seasons with the indianapolis olympians where joseph burnett holland was reunited with college teammates cliff barker ralph beard wah wah jones and jack parkinson. joseph burnett holland played three seasons for the indianapolis olympians averaging 5.8 points 4.2 rebounds and 2.1 assists per game in 186 total games. joseph burnett holland died on september 18 2010 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.35714285714285715 and for ground truth is : 0.125
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

@@ -1,0 +1,43 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Riga and http://dbpedia.org/resource/Latvia and the value is : 1
+http://dbpedia.org/resource/Riga and http://dbpedia.org/resource/Fine_art and the value is : 0
+http://dbpedia.org/resource/Latvia and http://dbpedia.org/resource/Fine_art and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Sculpture and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Photography and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Printmaking and the value is : 0
+http://dbpedia.org/resource/Sculpture and http://dbpedia.org/resource/Photography and the value is : 0
+http://dbpedia.org/resource/Sculpture and http://dbpedia.org/resource/Printmaking and the value is : 1
+http://dbpedia.org/resource/Photography and http://dbpedia.org/resource/Printmaking and the value is : 1
+http://dbpedia.org/resource/Furniture and http://dbpedia.org/resource/Textile_arts and the value is : 0
+http://dbpedia.org/resource/Furniture and http://dbpedia.org/resource/Jewellery_design and the value is : 1
+http://dbpedia.org/resource/Textile_arts and http://dbpedia.org/resource/Jewellery_design and the value is : 1
+http://dbpedia.org/resource/Abstract_art and http://dbpedia.org/resource/Geometric_abstraction and the value is : 0
+http://dbpedia.org/resource/Abstract_art and http://dbpedia.org/resource/Op_art and the value is : 0
+http://dbpedia.org/resource/Geometric_abstraction and http://dbpedia.org/resource/Op_art and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Pratt_Institute and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Brooklyn and the value is : 1
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Pratt_Institute and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Pratt_Institute and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Pratt_Institute and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+adja yunkers 19211983 was a latvianborn american artist and designer. he was born in riga latvia and studied at the academy of fine arts in riga. he moved to the united states in 1949 and settled in new york city. yunkers was a prolific artist working in a variety of media including painting sculpture photography and printmaking. he was also a noted designer creating furniture textiles and jewelry. his work was often abstract and geometric and he was a pioneer of the op art movement. yunkers was a member of the american abstract artists group and exhibited widely in the united states and europe. he was also a professor of art at the pratt institute in brooklyn new york. 
+
+Coref Resolved : 
+adja yunkers 19211983 was a latvianborn american artist and designer. a latvianborn american artist and designerwas born in riga latvia and studied at the academy of fine arts in riga latvia . a latvianborn american artist and designermoved to the united states in 1949 and settled in new york city. a latvianborn american artist and designerwas a prolific artist working in a variety of media including painting sculpture photography and printmaking. a latvianborn american artist and designerwas also a noted designer creating furniture textiles and jewelry. a latvianborn american artist and designerwork was often abstract and geometric and a latvianborn american artist and designerwas a pioneer of the op art movement. a latvianborn american artist and designerwas a member of the american abstract artists group and exhibited widely in the united states and europe. a latvianborn american artist and designerwas also a professor of art at the pratt institute in brooklyn new york city.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2692307692307692
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

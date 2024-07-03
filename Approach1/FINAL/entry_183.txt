@@ -1,0 +1,80 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Novelist and the value is : 1
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Novella and the value is : 0
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/Novella and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Rhapsode and the value is : 1
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Impressionism and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Prose and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Autobiographical_novel and the value is : 0
+http://dbpedia.org/resource/Rhapsode and http://dbpedia.org/resource/Impressionism and the value is : 0
+http://dbpedia.org/resource/Rhapsode and http://dbpedia.org/resource/Prose and the value is : 0
+http://dbpedia.org/resource/Rhapsode and http://dbpedia.org/resource/Autobiographical_novel and the value is : 0
+http://dbpedia.org/resource/Impressionism and http://dbpedia.org/resource/Prose and the value is : 0
+http://dbpedia.org/resource/Impressionism and http://dbpedia.org/resource/Autobiographical_novel and the value is : 0
+http://dbpedia.org/resource/Prose and http://dbpedia.org/resource/Autobiographical_novel and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Culture_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Mores and the value is : 0
+http://dbpedia.org/resource/Culture_of_the_United_States and http://dbpedia.org/resource/Mores and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Angel and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/American_modernism and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Novelist and the value is : 1
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Novella and the value is : 1
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/Novella and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Rhapsode and the value is : 1
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Impressionism and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Prose and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Autobiographical_novel and the value is : 0
+http://dbpedia.org/resource/Rhapsode and http://dbpedia.org/resource/Impressionism and the value is : 1
+http://dbpedia.org/resource/Rhapsode and http://dbpedia.org/resource/Prose and the value is : 0
+http://dbpedia.org/resource/Rhapsode and http://dbpedia.org/resource/Autobiographical_novel and the value is : 0
+http://dbpedia.org/resource/Impressionism and http://dbpedia.org/resource/Prose and the value is : 0
+http://dbpedia.org/resource/Impressionism and http://dbpedia.org/resource/Autobiographical_novel and the value is : 0
+http://dbpedia.org/resource/Prose and http://dbpedia.org/resource/Autobiographical_novel and the value is : 1
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Culture_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Mores and the value is : 0
+http://dbpedia.org/resource/Culture_of_the_United_States and http://dbpedia.org/resource/Mores and the value is : 1
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/William_Faulkner and the value is : 1
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Beat_reporting and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Jack_Kerouac and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Ray_Bradbury and the value is : 1
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Philip_Roth and the value is : 0
+http://dbpedia.org/resource/Beat_reporting and http://dbpedia.org/resource/Jack_Kerouac and the value is : 0
+http://dbpedia.org/resource/Beat_reporting and http://dbpedia.org/resource/Ray_Bradbury and the value is : 0
+http://dbpedia.org/resource/Beat_reporting and http://dbpedia.org/resource/Philip_Roth and the value is : 0
+http://dbpedia.org/resource/Jack_Kerouac and http://dbpedia.org/resource/Ray_Bradbury and the value is : 0
+http://dbpedia.org/resource/Jack_Kerouac and http://dbpedia.org/resource/Philip_Roth and the value is : 0
+http://dbpedia.org/resource/Ray_Bradbury and http://dbpedia.org/resource/Philip_Roth and the value is : 1
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/American_literature and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Autobiographical_novel and the value is : 0
+http://dbpedia.org/resource/American_literature and http://dbpedia.org/resource/Autobiographical_novel and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/The_Carolinas and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+thomas clayton wolfe october 3 1900 september 15 1938 was an american novelist of the early twentieth century. wolfe wrote four lengthy novels plus many short stories dramatic works and novellas. he is known for mixing highly original poetic rhapsodic and impressionistic prose with autobiographical writing. his books written and published from the 1920s to the 1940s vividly reflect on american culture and the mores of that period. his first novel look homeward angel 1929 was a success. wolfes other novelsof time and the river 1935 the web and the rock 1939 and you cant go home again 1940were less successful but remain highly regarded. he is considered a major american modernist writer. 
+
+Coref Resolved : 
+thomas clayton wolfe october 3 1900 september 15 1938 was an american novelist of the early twentieth century. thomas clayton wolfe wrote four lengthy novels plus many short stories dramatic works and novellas. thomas clayton wolfe is known for mixing highly original poetic rhapsodic and impressionistic prose with autobiographical writing. thomas clayton wolfe books written and published from the 1920s to the 1940s vividly reflect on american culture and the mores of the 1920s to the 1940s . thomas clayton wolfe first novel look homeward angel 1929 was a success. thomas clayton wolfe other novelsof time and the river 1935 the web and the rock 1939 and you cant go home again 1940were less successful but remain highly regarded. thomas clayton wolfe is considered a major american modernist writer.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+thomas clayton wolfe october 3 1900 september 15 1938 was a major american novelist of the early twentieth century. wolfe wrote four lengthy novels plus many short stories dramatic works and novellas. he is known for mixing highly original poetic rhapsodic and impressionistic prose with autobiographical writing. his books written and published from the 1920s to the 1940s vividly reflect on american culture and mores of the period albeit filtered through wolfes sensitive sophisticated and hyperanalytical perspective. he became very famous during his own lifetime. after wolfes death his contemporary william faulkner said that wolfe may have had the best talent of their generation. wolfes influence extends to the writings of famous beat writer jack kerouac authors ray bradbury and philip roth among others. he remains one of the most important writers in modern american literature as he was one of the first masters of autobiographical fiction. he is considered north carolinas most famous writer. 
+
+Coref Resolved : 
+thomas clayton wolfe october 3 1900 september 15 1938 was a major american novelist of the early twentieth century. thomas clayton wolfe wrote four lengthy novels plus many short stories dramatic works and novellas. thomas clayton wolfe is known for mixing highly original poetic rhapsodic and impressionistic prose with autobiographical writing. thomas clayton wolfe books written and published from the 1920s to the 1940s vividly reflect on american culture and mores of the 1920s to the 1940s albeit filtered through thomas clayton wolfe sensitive sophisticated and hyperanalytical perspective. thomas clayton wolfe became very famous during thomas clayton wolfe own lifetime. after thomas clayton wolfe death thomas clayton wolfe contemporary william faulkner said that thomas clayton wolfe may have had the best talent of their generation. thomas clayton wolfe influence extends to the writings of famous beat writer jack kerouac authors ray bradbury and philip roth among others. thomas clayton wolfe remains one of the most important writers in modern american literature as thomas clayton wolfe was one of the first masters of autobiographical fiction. thomas clayton wolfe is considered north carolinas most famous writer.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.15 and for ground truth is : 0.28125
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate accurate accurate 
+

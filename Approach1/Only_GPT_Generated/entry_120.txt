@@ -1,0 +1,91 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Unionism_in_Ireland and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Legislative_assembly and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Unionism_in_Ireland and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Legislative_assembly and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Unionism_in_Ireland and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Unionism_in_Ireland and http://dbpedia.org/resource/Legislative_assembly and the value is : 0
+http://dbpedia.org/resource/Unionism_in_Ireland and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Unionism_in_Ireland and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Legislative_assembly and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Larne_Borough_Council and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/County_Antrim and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Antrim_Grammar_School and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Larne_Borough_Council and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/County_Antrim and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Antrim_Grammar_School and the value is : 1
+http://dbpedia.org/resource/Larne_Borough_Council and http://dbpedia.org/resource/County_Antrim and the value is : 0
+http://dbpedia.org/resource/Larne_Borough_Council and http://dbpedia.org/resource/Antrim_Grammar_School and the value is : 0
+http://dbpedia.org/resource/County_Antrim and http://dbpedia.org/resource/Antrim_Grammar_School and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Civil_service and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Civil_service and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Northern_Ireland_Forum and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Northern_Ireland_Forum and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 1
+http://dbpedia.org/resource/Northern_Ireland_Forum and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 1
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Ulster_Unionist_Party and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Ulster_Unionist_Party and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Orange_Order and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Grand_Master_of_the_Teutonic_Order and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/County_Antrim and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Orange_Order and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Grand_Master_of_the_Teutonic_Order and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/County_Antrim and the value is : 0
+http://dbpedia.org/resource/Orange_Order and http://dbpedia.org/resource/Grand_Master_of_the_Teutonic_Order and the value is : 0
+http://dbpedia.org/resource/Orange_Order and http://dbpedia.org/resource/County_Antrim and the value is : 0
+http://dbpedia.org/resource/Grand_Master_of_the_Teutonic_Order and http://dbpedia.org/resource/County_Antrim and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Royal_Black_Institution and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Royal_Black_Institution and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+roy beggs jr. born 28 april 1956 is a northern irish politician who has been a member of the legislative assembly mla for east antrim since 1998. he is a member of the ulster unionist party uup. beggs was born in larne county antrim and was educated at larne grammar school and the university of ulster. he worked as a civil servant before entering politics. beggs was first elected to the northern ireland forum in 1996 representing east antrim. he was reelected to the northern ireland assembly in 1998 and has held the seat ever since. he was appointed as the uups spokesperson on the environment in the assembly in 2007. in 2011 he was appointed as the uups spokesperson on health. beggs is a member of the orange order and a former grand master of the county antrim grand orange lodge. he is also a member of the royal black institution. 
+
+Coref Resolved : 
+roy beggs jr. born 28 april 1956 is a northern irish politician who has been a member of the legislative assembly mla for east antrim since 1998. roy beggs jr. born 28 april 1956 is a member of the ulster unionist party uup. roy beggs jr. born 28 april 1956 was born in larne county antrim and was educated at larne county antrim grammar school and the university of ulster. roy beggs jr. born 28 april 1956 worked as a civil servant before entering politics. roy beggs jr. born 28 april 1956 was first elected to the northern ireland forum in 1996 representing east antrim . roy beggs jr. born 28 april 1956 was reelected to the northern ireland assembly in 1998and has held east antrim ever since. roy beggs jr. born 28 april 1956 was appointed as the the ulster unionist party uupspokesperson on the environment in the northern ireland assembly in 2007. in 2011 roy beggs jr. born 28 april 1956 was appointed as the the ulster unionist party uupspokesperson on health. roy beggs jr. born 28 april 1956 is a member of the orange order and a former grand master of the county antrim grand orange lodge. roy beggs jr. born 28 april 1956 is also a member of the royal black institution.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21621621621621623
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate major_inaccurate 
+

@@ -1,0 +1,47 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Hardcore_punk and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Death_growl and the value is : 1
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Aaron_Dalbec and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Joe_Trohman and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Damian_Marley and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Death_growl and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Death_growl and http://dbpedia.org/resource/Aaron_Dalbec and the value is : 0
+http://dbpedia.org/resource/Death_growl and http://dbpedia.org/resource/Joe_Trohman and the value is : 0
+http://dbpedia.org/resource/Death_growl and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Death_growl and http://dbpedia.org/resource/Damian_Marley and the value is : 0
+http://dbpedia.org/resource/Death_growl and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Aaron_Dalbec and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Joe_Trohman and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Damian_Marley and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Joe_Trohman and the value is : 0
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Damian_Marley and the value is : 0
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Joe_Trohman and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Joe_Trohman and http://dbpedia.org/resource/Damian_Marley and the value is : 0
+http://dbpedia.org/resource/Joe_Trohman and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Damian_Marley and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Damian_Marley and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Hellfest_(French_music_festival) and http://dbpedia.org/resource/Groezrock and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+bane is a hardcore punk band from washington d.c. formed in 1995. the band consists of aaron bedard vocals zach jordan guitar aaron dalbec guitar joe trohman bass and damian genuardi drums. bane is known for their intense live shows and their positive lyrics. they have released five fulllength albums as well as several eps and splits. their most recent album dont wait up was released in 2014. the band has toured extensively throughout the united states europe and japan. they have also performed at festivals such as hellfest groezrock and sound and fury. 
+
+Coref Resolved : 
+bane is a hardcore punk band from washington d.c. formed in 1995. bane consists of aaron bedard vocals zach jordan guitar aaron dalbec guitar joe trohman bass and damian genuardi drums. bane is known for bane intense live shows and bane positive lyrics. bane have released five fulllength albums as well as several eps and splits. bane most recent album dont wait up was released in 2014. bane has toured extensively throughout the united states europe and japan. bane have also performed at festivals such as hellfest groezrock and sound and fury.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.06666666666666667
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate accurate accurate 
+

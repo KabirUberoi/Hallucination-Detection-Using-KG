@@ -1,0 +1,30 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Playwright and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Novelist and the value is : 0
+http://dbpedia.org/resource/Playwright and http://dbpedia.org/resource/Novelist and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Alicante and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Roman_law and the value is : 0
+http://dbpedia.org/resource/Alicante and http://dbpedia.org/resource/Roman_law and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Primero and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Cinema_of_Argentina and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Short_story and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Spanish_literature and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Romanticism and the value is : 0
+http://dbpedia.org/resource/Spanish_literature and http://dbpedia.org/resource/Romanticism and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Royal_Spanish_Academy and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+carlos arniches y barrera 18661943 was a spanish dramatist and novelist. he was born in alicante spain and studied law in madrid. he began writing plays in 1891 and his first success was el cabo primero 1893. he wrote more than fifty plays many of which were adapted for the cinema. he also wrote novels short stories and essays. he was a member of the generation of 98 a group of spanish writers who sought to revive spanish literature after the decline of romanticism. he was also a member of the royal spanish academy. he died in madrid in 1943. 
+
+Coref Resolved : 
+carlos arniches y barrera 18661943 was a spanish dramatist and novelist. carlos arniches y barrera 18661943 was born in alicante spain and studied law in madrid. carlos arniches y barrera 18661943 began writing plays in 1891 and carlos arniches y barrera 18661943 first success was el cabo primero 1893. carlos arniches y barrera 18661943 wrote more than fifty plays many of which were adapted for the cinema. carlos arniches y barrera 18661943 also wrote novels short stories and essays. carlos arniches y barrera 18661943 was a member of the generation of 98 a group of spanish writers who sought to revive spanish literature after the decline of romanticism. carlos arniches y barrera 18661943 was also a member of the royal spanish academy. carlos arniches y barrera 18661943 died in madridin 1943.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.23076923076923078
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate major_inaccurate major_inaccurate accurate accurate major_inaccurate accurate 
+

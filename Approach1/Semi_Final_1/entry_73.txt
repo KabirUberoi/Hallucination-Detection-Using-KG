@@ -1,0 +1,100 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Pharaoh and the value is : 1
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Eighteenth_Dynasty_of_Egypt and the value is : 1
+http://dbpedia.org/resource/Pharaoh and http://dbpedia.org/resource/Eighteenth_Dynasty_of_Egypt and the value is : 0
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Monarch and the value is : 1
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/History_of_ancient_Egypt and the value is : 0
+http://dbpedia.org/resource/Monarch and http://dbpedia.org/resource/History_of_ancient_Egypt and the value is : 0
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Pharaoh and the value is : 0
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Euphrates and the value is : 0
+http://dbpedia.org/resource/Pharaoh and http://dbpedia.org/resource/Euphrates and the value is : 0
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Nubia and the value is : 1
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Beit and the value is : 1
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/New_Kalabsha and the value is : 1
+http://dbpedia.org/resource/Nubia and http://dbpedia.org/resource/Beit and the value is : 1
+http://dbpedia.org/resource/Nubia and http://dbpedia.org/resource/New_Kalabsha and the value is : 1
+http://dbpedia.org/resource/Beit and http://dbpedia.org/resource/New_Kalabsha and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Thoth and the value is : 1
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Pharaoh and the value is : 0
+http://dbpedia.org/resource/Thutmose_III and http://dbpedia.org/resource/Eighteenth_Dynasty_of_Egypt and the value is : 0
+http://dbpedia.org/resource/Thoth and http://dbpedia.org/resource/Pharaoh and the value is : 0
+http://dbpedia.org/resource/Thoth and http://dbpedia.org/resource/Eighteenth_Dynasty_of_Egypt and the value is : 0
+http://dbpedia.org/resource/Pharaoh and http://dbpedia.org/resource/Eighteenth_Dynasty_of_Egypt and the value is : 1
+http://dbpedia.org/resource/Coregency and http://dbpedia.org/resource/Stepmother and the value is : 0
+http://dbpedia.org/resource/Coregency and http://dbpedia.org/resource/Hatshepsut and the value is : 0
+http://dbpedia.org/resource/Coregency and http://dbpedia.org/resource/Pharaoh and the value is : 1
+http://dbpedia.org/resource/Stepmother and http://dbpedia.org/resource/Hatshepsut and the value is : 1
+http://dbpedia.org/resource/Stepmother and http://dbpedia.org/resource/Pharaoh and the value is : 0
+http://dbpedia.org/resource/Hatshepsut and http://dbpedia.org/resource/Pharaoh and the value is : 0
+http://dbpedia.org/resource/Stepmother and http://dbpedia.org/resource/Hatshepsut and the value is : 0
+http://dbpedia.org/resource/Stepmother and http://dbpedia.org/resource/Hatshepsut and the value is : 0
+http://dbpedia.org/resource/Stepmother and http://dbpedia.org/resource/Pharaoh and the value is : 0
+http://dbpedia.org/resource/Stepmother and http://dbpedia.org/resource/Niya_Kingdom and the value is : 0
+http://dbpedia.org/resource/Stepmother and http://dbpedia.org/resource/Rojava and the value is : 1
+http://dbpedia.org/resource/Stepmother and http://dbpedia.org/resource/Cataracts_of_the_Nile and the value is : 0
+http://dbpedia.org/resource/Stepmother and http://dbpedia.org/resource/Nile_Delta and the value is : 0
+http://dbpedia.org/resource/Stepmother and http://dbpedia.org/resource/Nubia and the value is : 1
+http://dbpedia.org/resource/Hatshepsut and http://dbpedia.org/resource/Pharaoh and the value is : 0
+http://dbpedia.org/resource/Hatshepsut and http://dbpedia.org/resource/Niya_Kingdom and the value is : 1
+http://dbpedia.org/resource/Hatshepsut and http://dbpedia.org/resource/Rojava and the value is : 0
+http://dbpedia.org/resource/Hatshepsut and http://dbpedia.org/resource/Cataracts_of_the_Nile and the value is : 0
+http://dbpedia.org/resource/Hatshepsut and http://dbpedia.org/resource/Nile_Delta and the value is : 0
+http://dbpedia.org/resource/Hatshepsut and http://dbpedia.org/resource/Nubia and the value is : 0
+http://dbpedia.org/resource/Pharaoh and http://dbpedia.org/resource/Niya_Kingdom and the value is : 0
+http://dbpedia.org/resource/Pharaoh and http://dbpedia.org/resource/Rojava and the value is : 1
+http://dbpedia.org/resource/Pharaoh and http://dbpedia.org/resource/Cataracts_of_the_Nile and the value is : 0
+http://dbpedia.org/resource/Pharaoh and http://dbpedia.org/resource/Nile_Delta and the value is : 0
+http://dbpedia.org/resource/Pharaoh and http://dbpedia.org/resource/Nubia and the value is : 1
+http://dbpedia.org/resource/Niya_Kingdom and http://dbpedia.org/resource/Rojava and the value is : 0
+http://dbpedia.org/resource/Niya_Kingdom and http://dbpedia.org/resource/Cataracts_of_the_Nile and the value is : 1
+http://dbpedia.org/resource/Niya_Kingdom and http://dbpedia.org/resource/Nile_Delta and the value is : 0
+http://dbpedia.org/resource/Niya_Kingdom and http://dbpedia.org/resource/Nubia and the value is : 1
+http://dbpedia.org/resource/Rojava and http://dbpedia.org/resource/Cataracts_of_the_Nile and the value is : 0
+http://dbpedia.org/resource/Rojava and http://dbpedia.org/resource/Nile_Delta and the value is : 1
+http://dbpedia.org/resource/Rojava and http://dbpedia.org/resource/Nubia and the value is : 1
+http://dbpedia.org/resource/Cataracts_of_the_Nile and http://dbpedia.org/resource/Nile_Delta and the value is : 0
+http://dbpedia.org/resource/Cataracts_of_the_Nile and http://dbpedia.org/resource/Nubia and the value is : 0
+http://dbpedia.org/resource/Nile_Delta and http://dbpedia.org/resource/Nubia and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/1470s_BC and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Coregency and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Stepmother and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Hatshepsut and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Pharaoh and the value is : 0
+http://dbpedia.org/resource/1470s_BC and http://dbpedia.org/resource/Coregency and the value is : 0
+http://dbpedia.org/resource/1470s_BC and http://dbpedia.org/resource/Stepmother and the value is : 0
+http://dbpedia.org/resource/1470s_BC and http://dbpedia.org/resource/Hatshepsut and the value is : 1
+http://dbpedia.org/resource/1470s_BC and http://dbpedia.org/resource/Pharaoh and the value is : 0
+http://dbpedia.org/resource/Coregency and http://dbpedia.org/resource/Stepmother and the value is : 0
+http://dbpedia.org/resource/Coregency and http://dbpedia.org/resource/Hatshepsut and the value is : 1
+http://dbpedia.org/resource/Coregency and http://dbpedia.org/resource/Pharaoh and the value is : 1
+http://dbpedia.org/resource/Stepmother and http://dbpedia.org/resource/Hatshepsut and the value is : 0
+http://dbpedia.org/resource/Stepmother and http://dbpedia.org/resource/Pharaoh and the value is : 1
+http://dbpedia.org/resource/Hatshepsut and http://dbpedia.org/resource/Pharaoh and the value is : 0
+http://dbpedia.org/resource/Amenhotep_II and http://dbpedia.org/resource/Coregency and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes in older history works c. 14791425 bc was the sixth pharaoh of the eighteenth dynasty. he is generally regarded as the greatest monarch of the new kingdom of egypt and was one of the most powerful figures in egyptian history. he was a strong and ambitious ruler who reigned for 54 years. he expanded egypts army and wielded it with great success to consolidate the empire created by his predecessors. he conducted a number of successful campaigns in the near east and is generally accepted as the first pharaoh to have crossed the euphrates river. he also led campaigns into nubia commemorated in inscriptions at beit elwali and gerf hussein. 
+
+Coref Resolved : 
+thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes in older history works c. 14791425 bc was the sixth pharaoh of the eighteenth dynasty. thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes is generally regarded as the greatest monarch of the new kingdom of egypt and was one of the most powerful figures in egyptian history. thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes was a strong and ambitious ruler who reigned for 54 years. thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes expanded the new kingdom of egypt army and wielded egypts army with great success to consolidate the empire created by thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes predecessors. thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes conducted a number of successful campaigns in the near east and is generally accepted as the first pharaoh to have crossed the euphrates river. thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes also led campaigns into nubia commemorated in inscriptions at beit elwali and gerf hussein.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes in older history works and meaning thoth is born was the sixth pharaoh of the eighteenth dynasty. during the first twentytwo years of thutmoses reign he was coregent with his stepmother and aunt hatshepsut who was named the pharaoh. while he was shown first on surviving monuments both were assigned the usual royal names and insignia and neither is given any obvious seniority over the other. he served as the head of her armies. after her death and his later rise to pharaoh of the kingdom he created the largest empire egypt had ever seen no fewer than seventeen campaigns were conducted and he conquered from niya in north syria to the fourth cataract of the nile in nubia. officially thutmose iii ruled egypt for almost fiftyfour years and his reign is usually dated from april 24 1479 bc to march 11 1425 bc however this includes the twentytwo years he was coregent to hatshepsut. during the final two years of his reign he appointed his son and successor amenhotep ii as his junior coregent. his firstborn son and heir to the throne amenemhat predeceased thutmose iii. when thutmose iii died he was buried in the valley of the kings as were the rest of the kings from this period in egypt. 
+
+Coref Resolved : 
+thutmose iii sometimes read as thutmosis or tuthmosis iii thothmes in older history works and meaning thoth is born was the sixth pharaoh of the eighteenth dynasty. during the first twentytwo years of thutmoses reign thutmoses was coregent with thutmoses stepmother and aunt hatshepsut who was named the pharaoh. while thutmoses was shown first on surviving monuments both were assigned the usual royal names and insignia and neither is given any obvious seniority over the other. thutmoses served as the head of his stepmother and aunt hatshepsut who was named the pharaoharmies. after his stepmother and aunt hatshepsut who was named the pharaohdeath and thutmoses later rise to pharaoh of the kingdom thutmoses created the largest empire egypt had ever seen no fewer than seventeen campaigns were conducted and thutmoses conquered from niya in north syria to the fourth cataract of the nile in nubia. officially thutmoses ruled egypt for almost fiftyfour years and thutmoses reign is usually dated from april 24 1479 bc to march 11 1425 bc however dated includes the twentytwo years thutmoses was coregent to his stepmother and aunt hatshepsut who was named the pharaoh. during the final two years of thutmoses reign thutmoses appointed thutmoses son and successor amenhotep ii as thutmoses junior coregent. thutmoses firstborn son and heir to the throne amenemhat predeceased thutmoses . when thutmoses died thutmoses was buried in the valley of the kings as were the rest of the kings from this period in egypt .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.5333333333333333 and for ground truth is : 0.3333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate minor_inaccurate 
+

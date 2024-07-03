@@ -1,0 +1,28 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Véra_Korène and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Moscow and http://dbpedia.org/resource/Russia and the value is : 0
+http://dbpedia.org/resource/Moscow and http://dbpedia.org/resource/Paris and the value is : 1
+http://dbpedia.org/resource/Russia and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Montmartre and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Montmartre and http://dbpedia.org/resource/Theatre_of_France and the value is : 1
+http://dbpedia.org/resource/Montmartre and http://dbpedia.org/resource/Cinema_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Theatre_of_France and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Cinema_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/Theatre_of_France and http://dbpedia.org/resource/Cinema_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/La_Grande_Illusion and http://dbpedia.org/resource/The_Rules_of_the_Game and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+véra korène 18901956 was a russianborn french actress and singer. she was born in moscow russia and moved to paris in 1912. she began her career as a singer in the cabarets of montmartre and later became a successful actress in the french theater and cinema. she was best known for her roles in the films la grande illusion 1937 and la règle du jeu 1939. she was also a popular recording artist releasing several albums of popular songs. she died in paris in 1956. 
+
+Coref Resolved : 
+véra korène 18901956 was a russianborn french actress and singer. she was born in moscow russia and moved to paris in 1912. she began she career as a singer in the cabarets of montmartre and later became a successful actress in the french theater and cinema. she was best known for she roles in the films la grande illusion 1937 and la règle du jeu 1939. she was also a popular recording artist releasing several albums of popular songs. she died in paris in 1956.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.45454545454545453
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate accurate major_inaccurate 
+

@@ -1,0 +1,106 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Nigeria and the value is : 0
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Historian and the value is : 0
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Professors_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/History_of_Africa and the value is : 0
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Nsukka and the value is : 1
+http://dbpedia.org/resource/Nigeria and http://dbpedia.org/resource/Historian and the value is : 0
+http://dbpedia.org/resource/Nigeria and http://dbpedia.org/resource/Professors_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Nigeria and http://dbpedia.org/resource/History_of_Africa and the value is : 1
+http://dbpedia.org/resource/Nigeria and http://dbpedia.org/resource/Nsukka and the value is : 0
+http://dbpedia.org/resource/Historian and http://dbpedia.org/resource/Professors_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/Historian and http://dbpedia.org/resource/History_of_Africa and the value is : 1
+http://dbpedia.org/resource/Historian and http://dbpedia.org/resource/Nsukka and the value is : 1
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/History_of_Africa and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Nsukka and the value is : 0
+http://dbpedia.org/resource/History_of_Africa and http://dbpedia.org/resource/Nsukka and the value is : 0
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/History_of_Africa and the value is : 1
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Igbo_people and the value is : 0
+http://dbpedia.org/resource/History_of_Africa and http://dbpedia.org/resource/Igbo_people and the value is : 1
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Historiography and the value is : 0
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Abiriba and the value is : 0
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Abia_State and the value is : 1
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Abiriba and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Abia_State and the value is : 0
+http://dbpedia.org/resource/Abiriba and http://dbpedia.org/resource/Abia_State and the value is : 0
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/University_of_Ibadan and the value is : 0
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Indirect_rule and the value is : 1
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Igboland and the value is : 0
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Sand and the value is : 1
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Igbo_people and the value is : 0
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Adiele_Afigbo and http://dbpedia.org/resource/History_of_slavery and the value is : 0
+http://dbpedia.org/resource/Indirect_rule and http://dbpedia.org/resource/Igboland and the value is : 1
+http://dbpedia.org/resource/Indirect_rule and http://dbpedia.org/resource/Sand and the value is : 0
+http://dbpedia.org/resource/Indirect_rule and http://dbpedia.org/resource/Igbo_people and the value is : 0
+http://dbpedia.org/resource/Indirect_rule and http://dbpedia.org/resource/Culture and the value is : 1
+http://dbpedia.org/resource/Indirect_rule and http://dbpedia.org/resource/History_of_slavery and the value is : 0
+http://dbpedia.org/resource/Igboland and http://dbpedia.org/resource/Sand and the value is : 1
+http://dbpedia.org/resource/Igboland and http://dbpedia.org/resource/Igbo_people and the value is : 0
+http://dbpedia.org/resource/Igboland and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Igboland and http://dbpedia.org/resource/History_of_slavery and the value is : 1
+http://dbpedia.org/resource/Sand and http://dbpedia.org/resource/Igbo_people and the value is : 0
+http://dbpedia.org/resource/Sand and http://dbpedia.org/resource/Culture and the value is : 1
+http://dbpedia.org/resource/Sand and http://dbpedia.org/resource/History_of_slavery and the value is : 0
+http://dbpedia.org/resource/Igbo_people and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Igbo_people and http://dbpedia.org/resource/History_of_slavery and the value is : 0
+http://dbpedia.org/resource/Culture and http://dbpedia.org/resource/History_of_slavery and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Nigeria and http://dbpedia.org/resource/Historian and the value is : 1
+http://dbpedia.org/resource/Nigeria and http://dbpedia.org/resource/Historiography and the value is : 0
+http://dbpedia.org/resource/Nigeria and http://dbpedia.org/resource/Igbo_people and the value is : 0
+http://dbpedia.org/resource/Nigeria and http://dbpedia.org/resource/Igboland and the value is : 0
+http://dbpedia.org/resource/Historian and http://dbpedia.org/resource/Historiography and the value is : 0
+http://dbpedia.org/resource/Historian and http://dbpedia.org/resource/Igbo_people and the value is : 0
+http://dbpedia.org/resource/Historian and http://dbpedia.org/resource/Igboland and the value is : 0
+http://dbpedia.org/resource/Historiography and http://dbpedia.org/resource/Igbo_people and the value is : 0
+http://dbpedia.org/resource/Historiography and http://dbpedia.org/resource/Igboland and the value is : 0
+http://dbpedia.org/resource/Igbo_people and http://dbpedia.org/resource/Igboland and the value is : 0
+http://dbpedia.org/resource/Racial_integration and http://dbpedia.org/resource/Aro_people and the value is : 0
+http://dbpedia.org/resource/Racial_integration and http://dbpedia.org/resource/History_of_slavery and the value is : 1
+http://dbpedia.org/resource/Aro_people and http://dbpedia.org/resource/History_of_slavery and the value is : 0
+http://dbpedia.org/resource/Historian and http://dbpedia.org/resource/Ibadan_School and the value is : 1
+http://dbpedia.org/resource/Ibadan_School and http://dbpedia.org/resource/History_of_Africa and the value is : 1
+http://dbpedia.org/resource/Ibadan_School and http://dbpedia.org/resource/Historiography and the value is : 0
+http://dbpedia.org/resource/History_of_Africa and http://dbpedia.org/resource/Historiography and the value is : 0
+http://dbpedia.org/resource/Ibadan_School and http://dbpedia.org/resource/Polytheistic_reconstructionism and the value is : 0
+http://dbpedia.org/resource/Ibadan_School and http://dbpedia.org/resource/Public_administration and the value is : 0
+http://dbpedia.org/resource/Polytheistic_reconstructionism and http://dbpedia.org/resource/Public_administration and the value is : 1
+http://dbpedia.org/resource/Rein and http://dbpedia.org/resource/Eclecticism and the value is : 0
+http://dbpedia.org/resource/Rein and http://dbpedia.org/resource/Myth and the value is : 1
+http://dbpedia.org/resource/Rein and http://dbpedia.org/resource/Oral_tradition and the value is : 0
+http://dbpedia.org/resource/Rein and http://dbpedia.org/resource/Linguistics and the value is : 0
+http://dbpedia.org/resource/Eclecticism and http://dbpedia.org/resource/Myth and the value is : 0
+http://dbpedia.org/resource/Eclecticism and http://dbpedia.org/resource/Oral_tradition and the value is : 0
+http://dbpedia.org/resource/Eclecticism and http://dbpedia.org/resource/Linguistics and the value is : 0
+http://dbpedia.org/resource/Myth and http://dbpedia.org/resource/Oral_tradition and the value is : 0
+http://dbpedia.org/resource/Myth and http://dbpedia.org/resource/Linguistics and the value is : 0
+http://dbpedia.org/resource/Oral_tradition and http://dbpedia.org/resource/Linguistics and the value is : 0
+http://dbpedia.org/resource/Historian and http://dbpedia.org/resource/Human and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+adiele afigbo 19412006 was a nigerian historian and professor of african history at the university of nigeria nsukka. he was a pioneer in the field of african history and was known for his work on the history of the igbo people of nigeria. he was also a major contributor to the development of african historiography. afigbo was born in 1941 in the town of abiriba in abia state nigeria. he attended the university of ibadan where he obtained a bachelor of arts degree in history in 1965. he then went on to pursue a master of arts degree in history at the university of london in 1967. he returned to nigeria in 1968 and joined the faculty of the university of nigeria nsukka where he taught until his death in 2006. afigbo was a prolific writer and researcher and his works include the warrant chiefs indirect rule in southeastern nigeria 18911929 1972 ropes of sand studies in igbo history and culture 1981 and the abolition of the slave trade in s 
+
+Coref Resolved : 
+adiele afigbo 19412006 was a nigerian historian and professor of african history at the university of nigeria nsukka. adiele afigbo 19412006 was a pioneer in the field of african history and was known for adiele afigbo 19412006 work on the history of the igbo people of nigeria. adiele afigbo 19412006 was also a major contributor to the development of african historiography. adiele afigbo 19412006 was born in 1941 in the town of abiriba in abia state nigeria. adiele afigbo 19412006 attended the university of ibadan where adiele afigbo 19412006 obtained a bachelor of arts degree in history in 1965. adiele afigbo 19412006 then went on to pursue a master of arts degree in history at the university of london in 1967. adiele afigbo 19412006 returned to nigeriain 1968 and joined the faculty of the university of nigeria nsukkawhere adiele afigbo 19412006 taught until adiele afigbo 19412006 death in 2006. adiele afigbo 19412006 was a prolific writer and researcher and adiele afigbo 19412006 works include the warrant chiefs indirect rule in southeastern nigeria 18911929 1972 ropes of sand studies in igbo history and culture 1981 and the abolition of the slave trade in s
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+adiele eberechukwu afigbo 22 november 1937 9 march 2009 was a nigerian historian known for the history and historiography of africa more particularly igbo history and the history of southeastern nigeria. themes emphasised include precolonial and colonial history intergroup relations the aro and the slave trade the art and science of history in africa and nationbuilding. afigbo took up his career as a historian in the 1950s with the celebrated ibadan school of history which for about three decades was the most prominent school of history in africa. he became a prominent member of that school which devoted its time to demonstrating the need for african history and historiography as specific genres of world history. in pursuing the mission of this school through teaching and scholarly work afigbo produced works that established reconstructionist history african historical methodologies and links between history and statecraft. he gave rein to eclecticism of sources and methods using as the occasion demands and warrants elements from myth oral sources archaeology linguistics material artefacts and written sources. in the last analysis he defined a historian as a clinical student of human experience who seeks to tell the story as it is and to explain it. 
+
+Coref Resolved : 
+adiele eberechukwu afigbo 22 november 1937 9 march 2009 was a nigerian historian known for the history and historiography of africa more particularly igbo history and the history of southeastern nigeria. themes emphasised include precolonial and colonial history intergroup relations the aro and the slave trade the art and science of history in africa and nationbuilding. adiele eberechukwu afigbo took up adiele eberechukwu afigbo career as a historian in the 1950s with the celebrated ibadan school of history which for about three decades was the most prominent school of history in africa . adiele eberechukwu afigbo became a prominent member of that school which devoted the celebrated ibadan school of history which for about three decades was the most prominent school of history in africatime to demonstrating the need for african history and historiography as specific genres of world history. in pursuing the mission of the celebrated ibadan school of history which for about three decades was the most prominent school of history in africathrough teaching and scholarly work adiele eberechukwu afigbo produced works that established reconstructionist history african historical methodologies and links between history and statecraft. adiele eberechukwu afigbo gave rein to eclecticism of sources and methods using as the occasion demands and warrants elements from myth oral sources archaeology linguistics material artefacts and written sources. in the last analysis adiele eberechukwu afigbo defined a historian as a clinical student of human experience who seeks to tell the story as the story is and to explain the story .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3191489361702128 and for ground truth is : 0.1935483870967742
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate 
+

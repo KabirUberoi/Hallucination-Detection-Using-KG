@@ -1,0 +1,41 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/Firsthand_(TV_series) and http://dbpedia.org/resource/October_Revolution and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/University_of_Oregon and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Chicago_Outfit and the value is : 0
+http://dbpedia.org/resource/University_of_Oregon and http://dbpedia.org/resource/Chicago_Outfit and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Harvard_University and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Political_radicalism and the value is : 1
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Communist_party and the value is : 0
+http://dbpedia.org/resource/Harvard_University and http://dbpedia.org/resource/Political_radicalism and the value is : 0
+http://dbpedia.org/resource/Harvard_University and http://dbpedia.org/resource/Communist_party and the value is : 0
+http://dbpedia.org/resource/Political_radicalism and http://dbpedia.org/resource/Communist_party and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Soviet_Union and the value is : 0
+http://dbpedia.org/resource/Eastern_Europe and http://dbpedia.org/resource/Insurgency and the value is : 1
+http://dbpedia.org/resource/Eastern_Europe and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Insurgency and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Communist_party and http://dbpedia.org/resource/Prison and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Communism and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Soviet_Union and the value is : 0
+http://dbpedia.org/resource/Communism and http://dbpedia.org/resource/Soviet_Union and the value is : 0
+http://dbpedia.org/resource/Communist_International and http://dbpedia.org/resource/Moscow and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Moscow and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john reed jr. 19051980 was an american journalist author and communist activist. he is best remembered for his firsthand account of the russian revolution ten days that shook the world 1919. reed was born in portland oregon to a wealthy family. he attended harvard university where he became involved in radical politics and joined the communist party of america in 1920. he traveled to the soviet union in 1921 and wrote several books about his experiences there including the war in eastern europe 1922 and insurgent mexico 1914. he also wrote for the new masses a communist magazine and was a founding member of the american writers congress. reed was arrested in 1923 for his involvement in the communist party and served a year in prison. after his release he continued to write and speak about communism and the soviet union and he was a delegate to the seventh world congress of the communist international in moscow in 1935. he died in moscow in 1980. 
+
+Coref Resolved : 
+john reed jr. 19051980 was an american journalist author and communist activist. john reed jr. 19051980 is best remembered for john reed jr. 19051980 firsthand account of the russian revolution ten days that shook the world 1919. john reed jr. 19051980 was born in portland oregon to a wealthy family. john reed jr. 19051980 attended harvard university where john reed jr. 19051980 became involved in radical politics and joined the communist party of america in 1920. john reed jr. 19051980 traveled to the soviet union in 1921 and wrote several books about john reed jr. 19051980 experiences there including the war in eastern europe 1922 and insurgent mexico 1914. john reed jr. 19051980 also wrote for the new masses a communist magazine and was a founding member of the american writers congress. john reed jr. 19051980 was arrested in 1923 for john reed jr. 19051980 involvement in the communist party of america and served a year in prison. after john reed jr. 19051980 release john reed jr. 19051980 continued to write and speak about communism and the soviet union and john reed jr. 19051980 was a delegate to the seventh world congress of the communist international in moscow in 1935. john reed jr. 19051980 died in moscow in 1980.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.08333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

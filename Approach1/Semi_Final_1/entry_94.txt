@@ -1,0 +1,99 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Pinyin and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Ki_(cuneiform) and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Chinese_cash_(currency_unit) and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Pinyin and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Ki_(cuneiform) and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Chinese_cash_(currency_unit) and the value is : 0
+http://dbpedia.org/resource/Pinyin and http://dbpedia.org/resource/Ki_(cuneiform) and the value is : 0
+http://dbpedia.org/resource/Pinyin and http://dbpedia.org/resource/Chinese_cash_(currency_unit) and the value is : 1
+http://dbpedia.org/resource/Ki_(cuneiform) and http://dbpedia.org/resource/Chinese_cash_(currency_unit) and the value is : 0
+http://dbpedia.org/resource/Emperor and http://dbpedia.org/resource/Northern_Qi and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Gao_Wei and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/1963_South_Vietnamese_coup and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Hou_Jing and the value is : 1
+http://dbpedia.org/resource/Gao_Wei and http://dbpedia.org/resource/1963_South_Vietnamese_coup and the value is : 0
+http://dbpedia.org/resource/Gao_Wei and http://dbpedia.org/resource/Hou_Jing and the value is : 0
+http://dbpedia.org/resource/1963_South_Vietnamese_coup and http://dbpedia.org/resource/Hou_Jing and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Intelligence and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Filial_piety and the value is : 0
+http://dbpedia.org/resource/Intelligence and http://dbpedia.org/resource/Filial_piety and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Zhou and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/1963_South_Vietnamese_coup and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Yuchi_Jiong and the value is : 0
+http://dbpedia.org/resource/1963_South_Vietnamese_coup and http://dbpedia.org/resource/Yuchi_Jiong and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Zijin_County and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Emperor and the value is : 1
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Zijin_County and the value is : 1
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Emperor and the value is : 1
+http://dbpedia.org/resource/Zijin_County and http://dbpedia.org/resource/Emperor and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Gao_Huan and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Gao_Cheng and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Regent and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Eastern_Wei and the value is : 1
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Gao_Huan and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Gao_Cheng and the value is : 1
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Regent and the value is : 1
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Eastern_Wei and the value is : 0
+http://dbpedia.org/resource/Gao_Huan and http://dbpedia.org/resource/Gao_Cheng and the value is : 1
+http://dbpedia.org/resource/Gao_Huan and http://dbpedia.org/resource/Regent and the value is : 1
+http://dbpedia.org/resource/Gao_Huan and http://dbpedia.org/resource/Eastern_Wei and the value is : 1
+http://dbpedia.org/resource/Gao_Cheng and http://dbpedia.org/resource/Regent and the value is : 0
+http://dbpedia.org/resource/Gao_Cheng and http://dbpedia.org/resource/Eastern_Wei and the value is : 0
+http://dbpedia.org/resource/Regent and http://dbpedia.org/resource/Eastern_Wei and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Emperor_Xiaojing_of_Eastern_Wei and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Nuclear_weapon_yield and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Holley_Performance_Products and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Emperor_Xiaojing_of_Eastern_Wei and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Nuclear_weapon_yield and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Holley_Performance_Products and the value is : 1
+http://dbpedia.org/resource/Emperor_Xiaojing_of_Eastern_Wei and http://dbpedia.org/resource/Nuclear_weapon_yield and the value is : 1
+http://dbpedia.org/resource/Emperor_Xiaojing_of_Eastern_Wei and http://dbpedia.org/resource/Holley_Performance_Products and the value is : 1
+http://dbpedia.org/resource/Nuclear_weapon_yield and http://dbpedia.org/resource/Holley_Performance_Products and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Tax and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Political_corruption and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Tax and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Political_corruption and the value is : 0
+http://dbpedia.org/resource/Tax and http://dbpedia.org/resource/Political_corruption and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Yang_Yin and the value is : 1
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Yang_Yin and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Alcoholism and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Public_administration and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Alcoholism and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Public_administration and the value is : 0
+http://dbpedia.org/resource/Alcoholism and http://dbpedia.org/resource/Public_administration and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+emperor wenxuan of northern qi chinese 北齊文宣帝 pinyin běi qí wén xuān dì wadegiles pei chi wenhsüan ti 539557 was an emperor of the chinese dynasty northern qi. he was the oldest son of gao wei and he succeeded his father in 551 after gao wei was killed in a coup led by the general hou jing. emperor wenxuan was known for his intelligence and his literary talent and he was also known for his cruelty and his lack of filial piety. he was also known for his campaigns against rival northern zhou which were largely unsuccessful. he was eventually killed in a coup led by the general yuchi jiong in 557. 
+
+Coref Resolved : 
+emperor wenxuan of northern qi chinese 北齊文宣帝 pinyin běi qí wén xuān dì wadegiles pei chi wenhsüan ti 539557 was an emperor of northern qi . emperor wenxuan was the oldest son of gao wei and emperor wenxuan succeeded emperor wenxuan father in 551 after gao wei was killed in a coup led by the general hou jing. emperor wenxuan was known for emperor wenxuan intelligence and emperor wenxuan literary talent and emperor wenxuan was also known for emperor wenxuan cruelty and emperor wenxuan lack of filial piety. emperor wenxuan was also known for emperor wenxuan campaigns against rival northern zhou which were largely unsuccessful. emperor wenxuan was eventually killed in a coup led by the general yuchi jiong in 557.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+emperor wenxuan of northern qi 526559 personal name gao yang 高洋 courtesy name zijin 子進 was the first emperor of the northern qi. he was the second son of eastern weis paramount general gao huan and after the death of his brother and gao huans designated successor gao cheng in 549 he became the regent of eastern wei. in 550 he forced emperor xiaojing of eastern wei to yield the throne to him ending eastern wei and starting northern qi. early in emperor wenxuans reign he was known for his attentiveness to military matters and the strength of the northern qi military was at its prime. he also tried to equalize the tax burden and reduce corruption by offering officials sufficient salary. he entrusted most governmental matters to the capable yang yin and for a while the government was effective and the military was strong. however emperor wenxuan eventually turned cruel and his erratic behavior fueled by alcoholism plunged his administration into chaos. 
+
+Coref Resolved : 
+emperor wenxuan of northern qi 526559 personal name gao yang 高洋 courtesy name zijin 子進 was the first emperor of northern qi . emperor wenxuan of northern qi was the second son of eastern weis paramount general gao huan and after the death of emperor wenxuan of northern qi brother and eastern weis paramount general gao huan designated successor gao cheng in 549 emperor wenxuan of northern qi became the regent of eastern wei. in 550 emperor wenxuan of northern qi forced emperor xiaojing of eastern weito yield the throne to emperor wenxuan of northern qi ending eastern weiand starting northern qi . early in emperor wenxuan of northern qi reign emperor wenxuan of northern qi was known for emperor wenxuan of northern qi attentiveness to military matters and the strength of the northern qi military was at the strength of the northern qi military prime. emperor wenxuan of northern qi also tried to equalize the tax burden and reduce corruption by offering officials sufficient salary. emperor wenxuan of northern qi entrusted most governmental matters to the capable yang yin and for a while the government was effective and the military was strong. however emperor wenxuan of northern qi eventually turned cruel and emperor wenxuan of northern qi erratic behavior fueled by alcoholism plunged emperor wenxuan of northern qi administration into chaos.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.125 and for ground truth is : 0.46808510638297873
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

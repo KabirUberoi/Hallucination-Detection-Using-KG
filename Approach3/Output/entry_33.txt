@@ -1,0 +1,120 @@
+#############SENTENCE_PAIRS############
+
+Adja Yunkers and Adja and the value is : -1
+Adja Yunkers and Riga and the value is : -1
+Adja Yunkers and Latvia and the value is : -1
+Adja Yunkers and Riga and the value is : -1
+Adja Yunkers and Latvia and the value is : -1
+Adja Yunkers and Adja and the value is : -1
+Adja Yunkers and United States and the value is : -1
+Adja Yunkers and New York City and the value is : -1
+Adja Yunkers and Adja and the value is : -1
+Adja Yunkers and printmaking and the value is : -1
+Adja Yunkers work and Adja and the value is : -1
+Adja Yunkers work and Adja and the value is : -1
+Adja Yunkers work and Op Art and the value is : -1
+Adja Yunkers and Adja and the value is : -1
+Adja Yunkers and American Abstract Artists and the value is : -1
+Adja Yunkers and United States and the value is : -1
+Adja Yunkers and Europe and the value is : -1
+Adja Yunkers and Adja and the value is : -1
+Adja Yunkers and Pratt Institute and the value is : -1
+Adja Yunkers and Brooklyn and the value is : -1
+Adja Yunkers and New York and the value is : -1
+
+#############GROUND_PAIRS############
+
+Adja Yunkers and Adja and the value is : 0
+Adja Yunkers and printmaker and the value is : 0
+Adja Yunkers and Adja and the value is : 0
+Adja Yunkers and Riga and the value is : 1
+Adja Yunkers and Livonia and the value is : 1
+Adja Yunkers and Russian Empire and the value is : 1
+Adja Yunkers and Adja and the value is : 0
+Adja Yunkers and Leningrad and the value is : 1
+Adja Yunkers and Berlin and the value is : 1
+Adja Yunkers and Paris and the value is : 1
+Adja Yunkers and London and the value is : 1
+Adja Yunkers and Adja and the value is : 0
+Adja Yunkers and Paris and the value is : 1
+Adja Yunkers and Stockholm and the value is : 1
+Adja Yunkers and Stockholm and the value is : 1
+Adja Yunkers and Adja and the value is : 0
+Adja Yunkers and Adja and the value is : 0
+Adja Yunkers and United States and the value is : 1
+Adja Yunkers and Adja and the value is : 0
+Adja Yunkers and Adja and the value is : 0
+Adja Yunkers and Adja and the value is : 0
+Adja Yunkers and Guggenheim Fellowship and the value is : 1
+Adja Yunkers and Adja and the value is : 0
+Adja Yunkers and Tamarind Lithography Workshop and the value is : 0
+Adja Yunkers and Los Angeles and the value is : 1
+Adja Yunkers and Venice and the value is : 0
+Adja Yunkers and Adja and the value is : 0
+Adja Yunkers and New York City and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Adja Yunkers (1921 1983) was a Latvian-born American artist and designer.
+He was born in Riga, Latvia, and studied at the Academy of Fine Arts in Riga.
+He moved to the United States in 1949 and settled in New York City.
+Yunkers was a prolific artist, working in a variety of media including painting, sculpture, photography, and printmaking.
+He was also a noted designer, creating furniture, textiles, and jewelry.
+His work was often abstract and geometric, and he was a pioneer of the Op Art movement.
+Yunkers was a member of the American Abstract Artists group and exhibited widely in the United States and Europe.
+He was also a professor of art at the Pratt Institute in Brooklyn, New York.
+
+
+Coref Resolved: 
+
+0. Adja Yunkers (1921 1983) was a Latvian-born American artist and designer.
+1. Adja Yunkers was born in Riga, Latvia , and studied at the Academy of Fine Arts in Riga, Latvia .
+2. Adja Yunkers moved to the United States in 1949 and settled in New York City.
+3. Adja Yunkers was a prolific artist, working in a variety of media including painting, sculpture, photography, and printmaking.
+4. Adja Yunkers was also a noted designer, creating furniture, textiles, and jewelry.
+5. Adja Yunkers work was often abstract and geometric, and Adja Yunkers was a pioneer of the Op Art movement.
+6. Adja Yunkers was a member of the American Abstract Artists group and exhibited widely in the United States and Europe.
+7. Adja Yunkers was also a professor of art at the Pratt Institute in Brooklyn, New York.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Adja Yunkers (1900 1983) was an American abstract painter and printmaker.
+He was born in Riga, Governorate of Livonia, Russian Empire in 1900.
+He studied art in Leningrad, Berlin, Paris, and London.
+He lived in Paris for 14 years, and then moved to Stockholm in 1939.
+In Stockholm, he published and edited the art magazines Ars Magazine and Creation Magazine.
+In 1947, he moved to the United States, where he lived for the rest of his life.
+In 1949, he received a Guggenheim Fellowship.
+During the 1950s, he primarily worked in color woodcuts, introducing brushwork into the genre.
+In 1960, he began producing lithographs.
+He produced two important series of lithographs at the Tamarind Lithography Workshop in Los Angeles "Salt" (five lithographs) and "Skies of Venice" (ten lithographs).
+Yunkers died in New York City in 1983. 
+
+Coref Resolved: 
+
+0. Adja Yunkers (1900 1983) was an American abstract painter and printmaker.
+1. Adja Yunkers was born in Riga, Governorate of Livonia, Russian Empire in 1900.
+2. Adja Yunkers studied art in Leningrad, Berlin, Paris , and London.
+3. Adja Yunkers lived in Paris for 14 years, and then moved to Stockholm in 1939.
+4. In Stockholm , Adja Yunkers published and edited the art magazines Ars Magazine and Creation Magazine.
+5. In 1947, Adja Yunkers moved to the United States, where Adja Yunkers lived for the rest of Adja Yunkers life.
+6. In 1949, Adja Yunkers received a Guggenheim Fellowship.
+7. During the 1950s, Adja Yunkers primarily worked in color woodcuts, introducing brushwork into the genre.
+8. In 1960, Adja Yunkers began producing lithographs.
+9. Adja Yunkers produced two important series of lithographs at the Tamarind Lithography Workshop in Los Angeles "Salt" (five lithographs) and "Skies of Venice" (ten lithographs).
+10. Adja Yunkers died in New York City in 1983.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1.0 -1.0 -1.0 -1 -1.0 -1.0 -1.0 
+
+Value for ground truth is : 
+0.0 0.75 0.8 0.6666666666666666 0.5 0.25 0.5 -1 -1 0.25 0.5 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

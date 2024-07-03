@@ -1,0 +1,141 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Basketball and the value is : 1
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 1
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/1998_NBA_draft and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/1998_NBA_draft and the value is : 0
+http://dbpedia.org/resource/Pennsylvania and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 1
+http://dbpedia.org/resource/Pennsylvania and http://dbpedia.org/resource/1998_NBA_draft and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/1998_NBA_draft and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Toronto_Raptors and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/New_York_Knicks and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Toronto_Raptors and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/New_York_Knicks and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Toronto_Raptors and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/New_York_Knicks and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 1
+http://dbpedia.org/resource/Toronto_Raptors and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Toronto_Raptors and http://dbpedia.org/resource/New_York_Knicks and the value is : 0
+http://dbpedia.org/resource/Toronto_Raptors and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/New_York_Knicks and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 1
+http://dbpedia.org/resource/New_York_Knicks and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Continental_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/International_Basketball_League and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/American_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Continental_Basketball_Association and http://dbpedia.org/resource/International_Basketball_League and the value is : 0
+http://dbpedia.org/resource/Continental_Basketball_Association and http://dbpedia.org/resource/American_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/International_Basketball_League and http://dbpedia.org/resource/American_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Bird_of_prey and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/NBA_playoffs and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Professional_sports_league_organization and the value is : 1
+http://dbpedia.org/resource/Bird_of_prey and http://dbpedia.org/resource/NBA_playoffs and the value is : 0
+http://dbpedia.org/resource/Bird_of_prey and http://dbpedia.org/resource/Professional_sports_league_organization and the value is : 1
+http://dbpedia.org/resource/NBA_playoffs and http://dbpedia.org/resource/Professional_sports_league_organization and the value is : 1
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/NBA_G_League and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Basketball and the value is : 1
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 1
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Basketball and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 0
+http://dbpedia.org/resource/Basketball and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Atlanta_Hawks and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Charles_L._Feinberg and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Kingdom_of_Lindsey and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Windward_and_leeward and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Basketball and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Bucknell_University and the value is : 1
+http://dbpedia.org/resource/Kingdom_of_Lindsey and http://dbpedia.org/resource/Windward_and_leeward and the value is : 0
+http://dbpedia.org/resource/Kingdom_of_Lindsey and http://dbpedia.org/resource/Basketball and the value is : 0
+http://dbpedia.org/resource/Kingdom_of_Lindsey and http://dbpedia.org/resource/Bucknell_University and the value is : 0
+http://dbpedia.org/resource/Windward_and_leeward and http://dbpedia.org/resource/Basketball and the value is : 0
+http://dbpedia.org/resource/Windward_and_leeward and http://dbpedia.org/resource/Bucknell_University and the value is : 0
+http://dbpedia.org/resource/Basketball and http://dbpedia.org/resource/Bucknell_University and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Bucknell_University and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Patriot_League and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Patriot_League and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 1
+http://dbpedia.org/resource/Patriot_League and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Charles_L._Feinberg and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Bucknell_University and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Stolen_base and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/United_Society_Partners_in_the_Gospel and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Stolen_base and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/United_Society_Partners_in_the_Gospel and the value is : 0
+http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and http://dbpedia.org/resource/Stolen_base and the value is : 0
+http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and http://dbpedia.org/resource/United_Society_Partners_in_the_Gospel and the value is : 0
+http://dbpedia.org/resource/Stolen_base and http://dbpedia.org/resource/United_Society_Partners_in_the_Gospel and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Bucknell_University and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Athletic_scholarship and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Bursary and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Athletic_scholarship and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Bursary and the value is : 0
+http://dbpedia.org/resource/Athletic_scholarship and http://dbpedia.org/resource/Bursary and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Charles_L._Feinberg and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Basketball_(ball) and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Basketball_(ball) and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Charles_L._Feinberg and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/San_Antonio_Spurs and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/San_Antonio_Spurs and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Belgium and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Meg_Griffin and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Göttingen and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Artland_Dragons and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Germany_women's_national_football_team and the value is : 0
+http://dbpedia.org/resource/Belgium and http://dbpedia.org/resource/Meg_Griffin and the value is : 0
+http://dbpedia.org/resource/Belgium and http://dbpedia.org/resource/Göttingen and the value is : 0
+http://dbpedia.org/resource/Belgium and http://dbpedia.org/resource/Artland_Dragons and the value is : 0
+http://dbpedia.org/resource/Belgium and http://dbpedia.org/resource/Germany_women's_national_football_team and the value is : 0
+http://dbpedia.org/resource/Meg_Griffin and http://dbpedia.org/resource/Göttingen and the value is : 0
+http://dbpedia.org/resource/Meg_Griffin and http://dbpedia.org/resource/Artland_Dragons and the value is : 0
+http://dbpedia.org/resource/Meg_Griffin and http://dbpedia.org/resource/Germany_women's_national_football_team and the value is : 0
+http://dbpedia.org/resource/Göttingen and http://dbpedia.org/resource/Artland_Dragons and the value is : 0
+http://dbpedia.org/resource/Göttingen and http://dbpedia.org/resource/Germany_women's_national_football_team and the value is : 0
+http://dbpedia.org/resource/Artland_Dragons and http://dbpedia.org/resource/Germany_women's_national_football_team and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Charles_L._Feinberg and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Alma_mater and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Basketball and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Alma_mater and the value is : 0
+http://dbpedia.org/resource/Charles_L._Feinberg and http://dbpedia.org/resource/Basketball and the value is : 0
+http://dbpedia.org/resource/Alma_mater and http://dbpedia.org/resource/Basketball and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+charles lee born october 28 1975 is an american former professional basketball player. he played college basketball for the university of pennsylvania and was drafted by the los angeles lakers in the second round of the 1998 nba draft. lee played in the nba for the lakers the toronto raptors the new york knicks and the atlanta hawks. he also played in the continental basketball association the international basketball league and the american basketball association. lee was a member of the 200102 raptors team that made the playoffs for the first time in franchise history. he also played in the nba development league and in europe. 
+
+Coref Resolved : 
+charles lee born october 28 1975 is an american former professional basketball player. charles lee born october 28 1975 played college basketball for the university of pennsylvania and was drafted by the los angeles lakers in the second round of the 1998 nba draft. charles lee born october 28 1975 played in nba for the los angeles lakers the toronto raptors the new york knicks and the atlanta hawks. charles lee born october 28 1975 also played in the continental basketball association the international basketball league and the american basketball association. charles lee born october 28 1975 was a member of the 200102 raptors team that made the playoffs for the first time in franchise history. charles lee born october 28 1975 also played in the nba development league and in europe.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+charles lee born november 11 1984 is an american former professional basketball player and current assistant coach for the atlanta hawks of the nba. a 63 guard from bucknell university he has spent most of his professional career in israel and europe. charles chuckles is married to his college sweetheart lindsey lee who also played basketball at bucknell. the 2006 patriot league player of the year lee helped guide bucknell to two straight patriot league championships and two straight ncaa tournament secondround appearances. in four seasons with the bison he earned first team allpatriot league honors twice 2004 2005 and second team allpatriot league honors once 2003. he finished his career at bucknell with 1147 career points 11.0 ppg 568 rebounds 5.5 rpg and 167 steals 1.61 spg. lee enrolled at bucknell a year before the school started offering athletic scholarships and never received anything more than partial financial aid. the new york times called him one of college basketballs best nonscholarship players. at bucknell lee majored in business. after graduating in 2006 lee played with the san antonio spurs during the nbas summer league and preseason but he did not make the regular season roster. he has since played for hapoel gilboaafula in israel vervierspepinster in belgium and meg göttingen and artland dragons in germany. on june 25 2012 bucknell announced that lee is returning to his alma mater as an assistant mens basketball coach. 
+
+Coref Resolved : 
+charles lee born november 11 1984 is an american former professional basketball player and current assistant coach for the atlanta hawks of the nba. a 63 guard from bucknell university charles lee has spent most of charles lee professional career in israel and europe. charles lee is married to charles lee college sweetheart lindsey lee who also played basketball at bucknell university . charles lee helped guide bucknell university to two straight patriot league championships and two straight ncaa tournament secondround appearances. in four seasons with bucknell university charles lee earned first team allpatriot league honors twice 2004 2005 and second team allpatriot league honors once 2003. charles lee finished charles lee career at bucknell university with 1147 career points 11.0 ppg 568 rebounds 5.5 rpg and 167 steals 1.61 spg. charles lee enrolled at bucknell university a year before bucknell university started offering athletic scholarships and never received anything more than partial financial aid. the new york times called charles lee one of college basketballs best nonscholarship players. at bucknell university charles lee majored in business. after graduating in 2006 charles lee played with the san antonio spurs during the nbas summer league and preseason but charles lee did not make the regular season roster. charles lee has since played for hapoel gilboaafula in israel vervierspepinster in belgium and meg göttingen and artland dragons in germany. on june 25 2012 bucknell university announced that charles lee is returning to charles lee alma mater as an assistant mens basketball coach.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.28888888888888886 and for ground truth is : 0.058823529411764705
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate 
+

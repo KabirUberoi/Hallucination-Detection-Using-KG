@@ -1,0 +1,180 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/National_Football_League and the value is : 1
+http://dbpedia.org/resource/Vice_president and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Scouting and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/Scouting and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 1
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/Super_Bowl_XLI and the value is : 0
+http://dbpedia.org/resource/Arizona_Cardinals and http://dbpedia.org/resource/Vice_president and the value is : 0
+http://dbpedia.org/resource/Arizona_Cardinals and http://dbpedia.org/resource/NFL_playoffs and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Colts and http://dbpedia.org/resource/Vice_president and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Colts and http://dbpedia.org/resource/Super_Bowl_XLI and the value is : 0
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/Super_Bowl and the value is : 1
+http://dbpedia.org/resource/Indianapolis_Colts and http://dbpedia.org/resource/Super_Bowl and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Football_Association_of_Malaysia and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/February_16 and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Houston_Cougars_football and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Replenishment_oiler and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Houston_Cougars_football and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Replenishment_oiler and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Houston_Cougars_football and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Replenishment_oiler and the value is : 0
+http://dbpedia.org/resource/Houston_Cougars_football and http://dbpedia.org/resource/Replenishment_oiler and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/February_16 and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/General_manager and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/General_manager and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/February_16 and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Detroit_Lions and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Detroit_Lions and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/February_16 and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Missouri_Tigers_football and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Bengal_tiger and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Glossary_of_American_football and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Quarterback and the value is : 1
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Missouri_Tigers_football and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Bengal_tiger and the value is : 1
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Glossary_of_American_football and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Missouri_Tigers_football and http://dbpedia.org/resource/Bengal_tiger and the value is : 0
+http://dbpedia.org/resource/Missouri_Tigers_football and http://dbpedia.org/resource/Glossary_of_American_football and the value is : 0
+http://dbpedia.org/resource/Missouri_Tigers_football and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/Missouri_Tigers_football and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Bengal_tiger and http://dbpedia.org/resource/Glossary_of_American_football and the value is : 0
+http://dbpedia.org/resource/Bengal_tiger and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/Bengal_tiger and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Glossary_of_American_football and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/Glossary_of_American_football and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Quarterback and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/February_16 and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Marshall_Faulk and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Marvin_Harrison and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Marshall_Faulk and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Marvin_Harrison and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Colts and http://dbpedia.org/resource/Marshall_Faulk and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Colts and http://dbpedia.org/resource/Marvin_Harrison and the value is : 1
+http://dbpedia.org/resource/Marshall_Faulk and http://dbpedia.org/resource/Marvin_Harrison and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/February_16 and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Ken_Dilger and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Tarik_Glenn and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Adam_Meadows and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Cornerstones_F.C. and the value is : 1
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Ken_Dilger and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Tarik_Glenn and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Adam_Meadows and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Cornerstones_F.C. and the value is : 1
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/Ken_Dilger and http://dbpedia.org/resource/Tarik_Glenn and the value is : 0
+http://dbpedia.org/resource/Ken_Dilger and http://dbpedia.org/resource/Adam_Meadows and the value is : 0
+http://dbpedia.org/resource/Ken_Dilger and http://dbpedia.org/resource/Cornerstones_F.C. and the value is : 1
+http://dbpedia.org/resource/Ken_Dilger and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/Tarik_Glenn and http://dbpedia.org/resource/Adam_Meadows and the value is : 0
+http://dbpedia.org/resource/Tarik_Glenn and http://dbpedia.org/resource/Cornerstones_F.C. and the value is : 0
+http://dbpedia.org/resource/Tarik_Glenn and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/Adam_Meadows and http://dbpedia.org/resource/Cornerstones_F.C. and the value is : 0
+http://dbpedia.org/resource/Adam_Meadows and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/Cornerstones_F.C. and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/February_16 and the value is : 1
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/NFL_playoffs and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Super_Bowl_XLI and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/NFL_playoffs and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Super_Bowl_XLI and the value is : 1
+http://dbpedia.org/resource/Indianapolis_Colts and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Colts and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Colts and http://dbpedia.org/resource/NFL_playoffs and the value is : 1
+http://dbpedia.org/resource/Indianapolis_Colts and http://dbpedia.org/resource/Super_Bowl_XLI and the value is : 0
+http://dbpedia.org/resource/Jim_Henson and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Jim_Henson and http://dbpedia.org/resource/NFL_playoffs and the value is : 1
+http://dbpedia.org/resource/Jim_Henson and http://dbpedia.org/resource/Super_Bowl_XLI and the value is : 0
+http://dbpedia.org/resource/National_Football_League and http://dbpedia.org/resource/NFL_playoffs and the value is : 0
+http://dbpedia.org/resource/National_Football_League and http://dbpedia.org/resource/Super_Bowl_XLI and the value is : 0
+http://dbpedia.org/resource/NFL_playoffs and http://dbpedia.org/resource/Super_Bowl_XLI and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/February_16 and the value is : 1
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Ray_Buchanan and the value is : 1
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Ashley_Ambrose and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Super_Bowl_XLI and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Ray_Buchanan and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Ashley_Ambrose and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Super_Bowl_XLI and the value is : 0
+http://dbpedia.org/resource/Ray_Buchanan and http://dbpedia.org/resource/Ashley_Ambrose and the value is : 0
+http://dbpedia.org/resource/Ray_Buchanan and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Ray_Buchanan and http://dbpedia.org/resource/Super_Bowl_XLI and the value is : 0
+http://dbpedia.org/resource/Ashley_Ambrose and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Ashley_Ambrose and http://dbpedia.org/resource/Super_Bowl_XLI and the value is : 0
+http://dbpedia.org/resource/National_Football_League and http://dbpedia.org/resource/Super_Bowl_XLI and the value is : 1
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/February_16 and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Peyton_Manning and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Peyton_Manning and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/February_16 and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 1
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Bill_Polian and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Indianapolis_Colts and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Bill_Polian and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Colts and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Indianapolis_Colts and http://dbpedia.org/resource/Bill_Polian and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Bill_Polian and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/February_16 and the value is : 1
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Vince_Tobin and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Vince_Tobin and the value is : 0
+http://dbpedia.org/resource/National_Football_League and http://dbpedia.org/resource/Vince_Tobin and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/February_16 and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Scouting and the value is : 0
+http://dbpedia.org/resource/Bill_Tobin_(ice_hockey) and http://dbpedia.org/resource/Cincinnati_Bengals and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Scouting and the value is : 0
+http://dbpedia.org/resource/February_16 and http://dbpedia.org/resource/Cincinnati_Bengals and the value is : 1
+http://dbpedia.org/resource/Scouting and http://dbpedia.org/resource/Cincinnati_Bengals and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+bill tobin born october 28 1945 is an american football executive who has served in various capacities in the national football league nfl. he is currently the vice president of player personnel for the indianapolis colts. tobin began his nfl career in 1975 as a scout for the chicago bears. he was promoted to director of player personnel in 1979 and held that position until 1987. during his tenure with the bears the team won super bowl xx. in 1988 tobin joined the phoenix cardinals as vice president of player personnel. he was promoted to general manager in 1989 and held that position until 1993. during his time with the cardinals the team made the playoffs in 1998. in 1994 tobin joined the indianapolis colts as vice president of player personnel. he has held that position ever since. during his tenure with the colts the team won super bowl xli. tobin has been credited with helping to build the bears and colts teams that won super bowls. he has also been credited with helping to develop the careers of many nfl players including hall of fam 
+
+Coref Resolved : 
+bill tobin born october 28 1945 is an american football executive who has served in various capacities in the national football league nfl. tobin is currently the vice president of player personnel for the indianapolis colts. tobin began tobin the national football league nflcareer in 1975 as a scout for the chicago bears. tobin was promoted to director of player personnel in 1979 and held director of player personnel until 1987. during tobin tenure with the chicago bearsthe chicago bearswon super bowl xx. in 1988 tobin joined the phoenix cardinals as vice president of player personnel. tobin was promoted to general manager in 1989 and held general manager until 1993. during tobin time with the phoenix cardinals the phoenix cardinals made the playoffs in 1998. in 1994 tobin joined the indianapolis coltsas vice president of player personnel. tobin has held vice president of player personnelever since. during tobin tenure with the indianapolis coltsthe indianapolis coltswon super bowl xli. tobin has been credited with helping to build the the chicago bearsand the indianapolis coltsteams that won super bowls. tobin has also been credited with helping to develop the careers of many the national football league nflplayers including hall of fam
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+bill tobin born february 16 1941 is a former professional american football player who played running back for one season for the houston oilers. he would later become the general manager of the chicago bears and indianapolis colts. he also was director of player personnel for the detroit lions in 2001. tobin attended the university of missouri where he played in the tigers backfield next to quarterback jim johnson. during his time with the indianapolis colts he drafted hall of famer marshall faulk and future hall of famer marvin harrison. he also drafted ken dilger tarik glenn and adam meadows who would be cornerstones of the colts offensive line. he also built a team in indianapolis with jim harbaugh who in 1995 led the nfl in passing and had a very successful run in the 1995 nfl playoffs including the first playoff win for the colts since super bowl v a span of thirty years. he drafted ray buchanan and ashley ambrose who came to be tremendous players in the league and eventually started for the falcons in the super bowl. it could be argued that bill tobin laid the foundation for the peyton manning era because of the quality players he drafted. tobin was replaced as colts general manager in 1997 by bill polian. tobin is the brother of former nfl coach vince tobin. tobin is currently working as a scout for the cincinnati bengals. 
+
+Coref Resolved : 
+bill tobin born february 16 1941 is a former professional american football player who played running back for one season for the houston oilers. bill tobin born february 16 1941 would later become the general manager of the chicago bears and indianapolis colts. bill tobin born february 16 1941 also was director of player personnel for the detroit lions in 2001. bill tobin born february 16 1941 attended the university of missouri where bill tobin born february 16 1941 played in the tigers backfield next to quarterback jim johnson. during bill tobin born february 16 1941 time with indianapolis coltsbill tobin born february 16 1941 drafted hall of famer marshall faulk and future hall of famer marvin harrison. bill tobin born february 16 1941 also drafted ken dilger tarik glenn and adam meadows who would be cornerstones of indianapolis coltsoffensive line. bill tobin born february 16 1941 also built a team in indianapolis coltswith jim harbaugh who in 1995 led the nfl in passing and had a very successful run in the 1995 the nfl playoffs including the first playoff win for indianapolis coltssince super bowl v a span of thirty years. bill tobin born february 16 1941 drafted ray buchanan and ashley ambrose who came to be tremendous players in the nfl and eventually started for the falcons in the super bowl. it could be argued that bill tobin born february 16 1941 laid the foundation for the peyton manning era because of the quality players bill tobin born february 16 1941 drafted. bill tobin born february 16 1941 was replaced as indianapolis coltsgeneral manager in 1997 by bill polian. bill tobin born february 16 1941 is the brother of former the nfl coach vince tobin. bill tobin born february 16 1941 is currently working as a scout for the cincinnati bengals.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3125 and for ground truth is : 0.11764705882352941
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate accurate 
+

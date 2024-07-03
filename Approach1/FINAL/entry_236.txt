@@ -1,0 +1,93 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/Professional_golfer and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/PGA_Championship and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Professional_golfer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/PGA_Championship and the value is : 1
+http://dbpedia.org/resource/Professional_golfer and http://dbpedia.org/resource/PGA_Championship and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/St._Louis and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/University_of_Missouri and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/Professional_golfer and the value is : 0
+http://dbpedia.org/resource/St._Louis and http://dbpedia.org/resource/University_of_Missouri and the value is : 0
+http://dbpedia.org/resource/St._Louis and http://dbpedia.org/resource/Professional_golfer and the value is : 0
+http://dbpedia.org/resource/University_of_Missouri and http://dbpedia.org/resource/Professional_golfer and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/University_of_Missouri and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/PGA_Championship and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/Pomonok_Country_Club and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/Flush_toilet and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/York_Wasps and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/Denny_Shute and the value is : 0
+http://dbpedia.org/resource/PGA_Championship and http://dbpedia.org/resource/Pomonok_Country_Club and the value is : 0
+http://dbpedia.org/resource/PGA_Championship and http://dbpedia.org/resource/Flush_toilet and the value is : 1
+http://dbpedia.org/resource/PGA_Championship and http://dbpedia.org/resource/York_Wasps and the value is : 0
+http://dbpedia.org/resource/PGA_Championship and http://dbpedia.org/resource/Denny_Shute and the value is : 0
+http://dbpedia.org/resource/Pomonok_Country_Club and http://dbpedia.org/resource/Flush_toilet and the value is : 0
+http://dbpedia.org/resource/Pomonok_Country_Club and http://dbpedia.org/resource/York_Wasps and the value is : 1
+http://dbpedia.org/resource/Pomonok_Country_Club and http://dbpedia.org/resource/Denny_Shute and the value is : 0
+http://dbpedia.org/resource/Flush_toilet and http://dbpedia.org/resource/York_Wasps and the value is : 0
+http://dbpedia.org/resource/Flush_toilet and http://dbpedia.org/resource/Denny_Shute and the value is : 0
+http://dbpedia.org/resource/York_Wasps and http://dbpedia.org/resource/Denny_Shute and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/PGA_Championship and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/Match_play and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/Jim_Bakker and the value is : 0
+http://dbpedia.org/resource/PGA_Championship and http://dbpedia.org/resource/Match_play and the value is : 0
+http://dbpedia.org/resource/PGA_Championship and http://dbpedia.org/resource/Jim_Bakker and the value is : 0
+http://dbpedia.org/resource/Match_play and http://dbpedia.org/resource/Jim_Bakker and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/St._Louis and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/Ryder_Cup and the value is : 0
+http://dbpedia.org/resource/Billy_Burke_(actor) and http://dbpedia.org/resource/The_Amateur_Championship and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/Polonization and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/Professional_golfer and the value is : 0
+http://dbpedia.org/resource/Polonization and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Polonization and http://dbpedia.org/resource/Professional_golfer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Professional_golfer and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/Naugatuck_River and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/Connecticut and the value is : 0
+http://dbpedia.org/resource/Naugatuck_River and http://dbpedia.org/resource/Connecticut and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/U.S._Open_Chess_Championship and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/PGA_Championship and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/Race_track and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/Ryder_Cup and the value is : 0
+http://dbpedia.org/resource/U.S._Open_Chess_Championship and http://dbpedia.org/resource/PGA_Championship and the value is : 0
+http://dbpedia.org/resource/U.S._Open_Chess_Championship and http://dbpedia.org/resource/Race_track and the value is : 1
+http://dbpedia.org/resource/U.S._Open_Chess_Championship and http://dbpedia.org/resource/Ryder_Cup and the value is : 0
+http://dbpedia.org/resource/PGA_Championship and http://dbpedia.org/resource/Race_track and the value is : 1
+http://dbpedia.org/resource/PGA_Championship and http://dbpedia.org/resource/Ryder_Cup and the value is : 0
+http://dbpedia.org/resource/Race_track and http://dbpedia.org/resource/Ryder_Cup and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/Ryder_Cup and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/Gene_Sarazen and the value is : 0
+http://dbpedia.org/resource/Ryder_Cup and http://dbpedia.org/resource/Gene_Sarazen and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/1931_U.S._Open_(golf) and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/George_Von_Elm and the value is : 1
+http://dbpedia.org/resource/George_Von_Elm and http://dbpedia.org/resource/John_Burke_(genealogist) and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/Sport and the value is : 0
+http://dbpedia.org/resource/John_Burke_(genealogist) and http://dbpedia.org/resource/Clearwater_river_(river_type) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+billy burke born october 28 1894 died april 11 1981 was an american professional golfer who won the pga championship in 1938. he was born in st. louis missouri and was the son of a professional golfer. burke turned professional in 1915 and won the missouri open in 1916. he won the pga championship in 1938 at the pomonok country club in flushing new york defeating denny shute in the final match. burke was the first golfer to win the pga championship in match play since jim barnes in 1916. burke was a member of the pga of america for more than 50 years and was the head professional at the st. louis country club from 1921 to 1965. he was inducted into the pga hall of fame in 1978. burke was also a member of the united states ryder cup team in 1927 and 1937. he was the first american to win the british amateur in 1930. burke died in 1981 at the age of 86. 
+
+Coref Resolved : 
+billy burke born october 28 1894 died april 11 1981 was an american professional golfer who won the pga championship in 1938. billy burke was born in st. louis missouri and was the son of a professional golfer. billy burke turned professional in 1915 and won the missouri open in 1916. billy burke won the pga championship in 1938at the pomonok country club in flushing new york defeating denny shute in the final match. billy burke was the first golfer to win the pga championship in match play since jim barnes in 1916. billy burke was a member of the pga of america for more than 50 years and was the head professional at the st. louis country club from 1921 to 1965. billy burke was inducted into the pga hall of fame in 1978. billy burke was also a member of the united states ryder cup team in 1927 and 1937. billy burke was the first american to win the british amateur in 1930. billy burke died in 1981 at the age of 86.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+william john burke polonized as burkeauskas december 14 1902 april 19 1972 was a prominent lithuanianamerican professional golfer of the 1920s and 1930s. burke was born in naugatuck connecticut. his greatest season was 1931 when he won the u.s. open reached the semifinals of the pga championship and won four events on the professional circuit plus appeared on the ryder cup team where he was undefeated in two matches. he was also selected for the 1933 ryder cup team but not before some agitation by gene sarazen was done on his behalf. burke won his only match in the 1933 competition. burkes 1931 u.s. open win came in a marathon playoff. he and george von elm were tied at 292 8overpar after regulation play. they played a 36hole playoff the next day and tied again at 149 7overpar. the following day they played 36 more holes and burke emerged victorious 148 to 149. throughout burkes golf career he used an unorthodox grip due to the loss of two fingers on his left hand. in 2005 burke was inducted into the national polishamerican sports hall of fame. burke died in clearwater florida. 
+
+Coref Resolved : 
+william john burke polonized as burkeauskas december 14 1902 april 19 1972 was a prominent lithuanianamerican professional golfer of the 1920s and 1930s. william john burke was born in naugatuck connecticut. william john burke greatest season was 1931 when william john burke won the u.s. open reached the semifinals of the pga championship and won four events on the professional circuit plus appeared on the ryder cup team where william john burke was undefeated in two matches. william john burke was also selected for the 1933 ryder cup team but not before some agitation by gene sarazen was done on william john burke behalf. william john burke won william john burke only match in the 1933 competition. william john burke 1931 u.s. open win came in a marathon playoff. william john burke and george von elm were tied at 292 8overpar after regulation play. he and george von elm played a 36hole playoff the next day and tied again at 149 7overpar. the following day he and george von elm played 36 more holes and william john burke emerged victorious 148 to 149. throughout william john burke golf career william john burke used an unorthodox grip due to the loss of two fingers on william john burke left hand. in 2005 william john burke was inducted into the national polishamerican sports hall of fame. william john burke died in clearwater florida.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10810810810810811 and for ground truth is : 0.10714285714285714
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

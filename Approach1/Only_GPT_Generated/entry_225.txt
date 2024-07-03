@@ -1,0 +1,64 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Fat_Mike and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Eric_Melvin and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Rhythm_guitar and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/El_Hefe and the value is : 0
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Erik_Sandin and the value is : 0
+http://dbpedia.org/resource/Fat_Mike and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Fat_Mike and http://dbpedia.org/resource/Eric_Melvin and the value is : 0
+http://dbpedia.org/resource/Fat_Mike and http://dbpedia.org/resource/Rhythm_guitar and the value is : 1
+http://dbpedia.org/resource/Fat_Mike and http://dbpedia.org/resource/El_Hefe and the value is : 0
+http://dbpedia.org/resource/Fat_Mike and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Fat_Mike and http://dbpedia.org/resource/Erik_Sandin and the value is : 1
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Eric_Melvin and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/El_Hefe and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Erik_Sandin and the value is : 1
+http://dbpedia.org/resource/Eric_Melvin and http://dbpedia.org/resource/Rhythm_guitar and the value is : 1
+http://dbpedia.org/resource/Eric_Melvin and http://dbpedia.org/resource/El_Hefe and the value is : 0
+http://dbpedia.org/resource/Eric_Melvin and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Eric_Melvin and http://dbpedia.org/resource/Erik_Sandin and the value is : 1
+http://dbpedia.org/resource/Rhythm_guitar and http://dbpedia.org/resource/El_Hefe and the value is : 1
+http://dbpedia.org/resource/Rhythm_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Rhythm_guitar and http://dbpedia.org/resource/Erik_Sandin and the value is : 0
+http://dbpedia.org/resource/El_Hefe and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/El_Hefe and http://dbpedia.org/resource/Erik_Sandin and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Erik_Sandin and the value is : 0
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Independent_music and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Popular_culture and the value is : 0
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/Popular_culture and the value is : 0
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Extended_play and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Split_album and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Fat_Wreck_Chords and the value is : 0
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Compilation_album and the value is : 0
+http://dbpedia.org/resource/Split_album and http://dbpedia.org/resource/Fat_Wreck_Chords and the value is : 0
+http://dbpedia.org/resource/Split_album and http://dbpedia.org/resource/Compilation_album and the value is : 1
+http://dbpedia.org/resource/Fat_Wreck_Chords and http://dbpedia.org/resource/Compilation_album and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+nofx is an american punk rock band from los angeles california. formed in 1983 the band is currently composed of vocalistbassist fat mike lead guitarist eric melvin rhythm guitarist el hefe and drummer erik sandin. they are often credited as one of the most successful independent bands of all time having sold over 8 million records worldwide. nofxs sound is often characterized by irreverent and humorous lyrics catchy melodies and a fast energetic sound. their lyrics often focus on punk politics humor and pop culture. the band has released twelve studio albums fifteen extended plays four live albums and numerous 7 singles. they have also collaborated with other artists including nofxrancid split albums and the fat wreck chords compilation albums. 
+
+Coref Resolved : 
+nofx is an american punk rock band from los angeles california. formed in 1983 nofx is currently composed of vocalistbassist fat mike lead guitarist eric melvin rhythm guitarist el hefe and drummer erik sandin. nofx are often credited as one of the most successful independent bands of all time having sold over 8 million records worldwide. nofx sound is often characterized by irreverent and humorous lyrics catchy melodies and a fast energetic sound. nofx lyrics often focus on punk politics humor and pop culture. nofx has released twelve studio albums fifteen extended plays four live albums and numerous 7 singles. nofx have also collaborated with other artists including nofxrancid split albums and the fat wreck chords compilation albums.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3404255319148936
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate accurate accurate accurate 
+

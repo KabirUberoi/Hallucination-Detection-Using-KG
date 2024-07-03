@@ -1,0 +1,125 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/First-class_cricket and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/First-class_cricket and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Derby and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Lace and the value is : 1
+http://dbpedia.org/resource/Derby and http://dbpedia.org/resource/Lace and the value is : 1
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Repton_School and the value is : 1
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Trinity_College,_Cambridge and the value is : 0
+http://dbpedia.org/resource/Repton_School and http://dbpedia.org/resource/Trinity_College,_Cambridge and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1871 and the value is : 1
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1871 and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1871 and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/FirstClass and the value is : 1
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Batting_(cricket) and the value is : 1
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Innings and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Innings and the value is : 1
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Innings and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Roundarm_bowling and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Wicket and the value is : 0
+http://dbpedia.org/resource/Roundarm_bowling and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Roundarm_bowling and http://dbpedia.org/resource/Wicket and the value is : 0
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Wicket and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Derby and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/First-class_cricket and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/First-class_cricket and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/First-class_cricket and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 1
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Trent_Bridge and the value is : 1
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Joiner and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Catherine_of_Aragon and the value is : 0
+http://dbpedia.org/resource/Trent_Bridge and http://dbpedia.org/resource/Joiner and the value is : 1
+http://dbpedia.org/resource/Trent_Bridge and http://dbpedia.org/resource/Catherine_of_Aragon and the value is : 1
+http://dbpedia.org/resource/Joiner and http://dbpedia.org/resource/Catherine_of_Aragon and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Suffolk_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Non-international_England_cricket_teams and the value is : 0
+http://dbpedia.org/resource/Suffolk_County_Cricket_Club and http://dbpedia.org/resource/Non-international_England_cricket_teams and the value is : 1
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Burnley_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1871 and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Innings and the value is : 1
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 1
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1871 and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Innings and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1871 and http://dbpedia.org/resource/Innings and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1871 and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Innings and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 1
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1872 and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1872 and the value is : 1
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1872 and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1873 and http://dbpedia.org/resource/Burnham-on-Sea and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1873 and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1873 and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 1
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Kent_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Bowled and the value is : 1
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/First-class_cricket and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Charlie_Absolom and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Kent_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Bowled and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/First-class_cricket and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Charlie_Absolom and the value is : 0
+http://dbpedia.org/resource/Kent_County_Cricket_Club and http://dbpedia.org/resource/Bowled and the value is : 0
+http://dbpedia.org/resource/Kent_County_Cricket_Club and http://dbpedia.org/resource/First-class_cricket and the value is : 0
+http://dbpedia.org/resource/Kent_County_Cricket_Club and http://dbpedia.org/resource/Charlie_Absolom and the value is : 1
+http://dbpedia.org/resource/Bowled and http://dbpedia.org/resource/First-class_cricket and the value is : 1
+http://dbpedia.org/resource/Bowled and http://dbpedia.org/resource/Charlie_Absolom and the value is : 0
+http://dbpedia.org/resource/First-class_cricket and http://dbpedia.org/resource/Charlie_Absolom and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Batting_(cricket) and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Innings and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Innings and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Innings and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Litchurch and the value is : 1
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1879 and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1879 and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Burnham-on-Sea and http://dbpedia.org/resource/Derby and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john burnham born 28 august 1845 was an english cricketer who played for derbyshire between 1871 and 1876. burnham was born in derby the son of john burnham a lace manufacturer. he was educated at repton school and at trinity college cambridge. he made his debut for derbyshire in the 1871 season against lancashire. he played for the county in 1871 and 1872 and then again in 1875 and 1876. in 1871 he scored his highest firstclass score of 73 against lancashire. burnham was a righthanded batsman and played 24 innings in 14 firstclass matches with an average of 11.50 and a top score of 73. he was a rightarm roundarm fast bowler and took 4 wickets at an average of 28.50 and a best performance of 2 for 11. burnham died in derby at the age of 30. 
+
+Coref Resolved : 
+john burnham born 28 august 1845 was an english cricketer who played for derbyshire between 1871 and 1876. john burnham born 28 august 1845 was born in derby the son of john burnham a lace manufacturer. john burnham born 28 august 1845 was educated at repton school and at trinity college cambridge. john burnham born 28 august 1845 made john burnham born 28 august 1845 debut for derbyshire in the 1871 season against lancashire. john burnham born 28 august 1845 played for derbyshire in 1871 and 1872 and then again in 1875 and 1876. in 1871 john burnham born 28 august 1845 scored john burnham born 28 august 1845 highest firstclass score of 73 against lancashire. john burnham born 28 august 1845 was a righthanded batsman and played 24 innings in 14 firstclass matches with an average of 11.50 and a top score of 73. john burnham born 28 august 1845 was a rightarm roundarm fast bowler and took 4 wickets at an average of 28.50 and a best performance of 2 for 11. john burnham born 28 august 1845 died in derby at the age of 30.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+john william burnham 6 june 1839 20 april 1914 was an english cricketer who played for derbyshire between 1871 and 1876. he was a member of the team that played derbyshires first match in may 1871. burnham was born in nottingham the son of william burnham a joiner and his wife catherine. he became a clerk and in 1863 he was playing for suffolk and in one match for an all england xi. in 1870 he played several club games for burnley. he joined derbyshire in the 1871 season and took part in derbyshires firstever match as a county side an innings victory over lancashire. he played the return game later in the season and played again for derbyshire in the 1872 season in both fixtures between derbyshire and lancashire. also in 1872 he played some games for princes club in london. in the 1873 season he only played one match for derbyshire against lancashire. he did not play again until the 1876 season when his final match as a firstclass player was against kent in which he was bowled out by test cricketer charlie absolom. burnham was a righthanded batsman and played eleven innings in six firstclass matches with an average of 5.00 and a top score of 31. in 1881 he was living in litchurch. burnham umpired one game during the 1879 season three years after giving up the firstclass game. burnham died in derby. 
+
+Coref Resolved : 
+john william burnham 6 june 1839 20 april 1914 was an english cricketer who played for derbyshire between 1871 and 1876. john william burnham was a member of the team that played derbyshire first match in may 1871. john william burnham was born in nottingham the son of william burnham a joiner and william burnham a joiner wife catherine. john william burnham became a clerk and in 1863 john william burnham was playing for suffolk and in one match for an all england xi. in 1870 john william burnham played several club games for burnley. john william burnham joined derbyshire in the 1871 season and took part in derbyshire firstever match as a county side an innings victory over lancashire. john william burnham played the return game later in the season and played again for derbyshire in the 1872 season in both fixtures between derbyshire and lancashire. also in 1872 john william burnham played some games for princes club in london. in the 1873 season john william burnham only played one match for derbyshire against lancashire. john william burnham did not play again until the 1876season when john william burnham final match as a firstclass player was against kent in which john william burnham was bowled out by test cricketer charlie absolom. john william burnham was a righthanded batsman and played eleven innings in six firstclass matches with an average of 5.00 and a top score of 31. in 1881 john william burnham was living in litchurch. john william burnham umpired one game during the 1879 season three years after giving up the firstclass game. john william burnham died in derby.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21875 and for ground truth is : 0.2153846153846154
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

@@ -1,0 +1,222 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Stand-up_comedy and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Stand-up_comedy and the value is : 1
+http://dbpedia.org/resource/Cable_television and http://dbpedia.org/resource/Wedding and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Drag_queen and the value is : 0
+http://dbpedia.org/resource/Seinfeld and http://dbpedia.org/resource/Drag_queen and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Stand-up_comedy and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/Stand-up_comedy and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Stand-up_comedy and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Cable_television and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Wedding and the value is : 0
+http://dbpedia.org/resource/Cable_television and http://dbpedia.org/resource/Wedding and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/Improvisational_theatre and http://dbpedia.org/resource/The_Groundlings and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Stand-up_comedy and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Stand-up_comedy and the value is : 1
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Comedy_film and the value is : 1
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/2_Headed_Dog and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Machinist and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Dave_Allen_(actor) and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Craig_Anton and the value is : 1
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/2_Headed_Dog and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/Machinist and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/Dave_Allen_(actor) and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/Craig_Anton and the value is : 0
+http://dbpedia.org/resource/2_Headed_Dog and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/2_Headed_Dog and http://dbpedia.org/resource/Machinist and the value is : 0
+http://dbpedia.org/resource/2_Headed_Dog and http://dbpedia.org/resource/Dave_Allen_(actor) and the value is : 1
+http://dbpedia.org/resource/2_Headed_Dog and http://dbpedia.org/resource/Craig_Anton and the value is : 0
+http://dbpedia.org/resource/Jim_Henson and http://dbpedia.org/resource/Machinist and the value is : 0
+http://dbpedia.org/resource/Jim_Henson and http://dbpedia.org/resource/Dave_Allen_(actor) and the value is : 1
+http://dbpedia.org/resource/Jim_Henson and http://dbpedia.org/resource/Craig_Anton and the value is : 0
+http://dbpedia.org/resource/Machinist and http://dbpedia.org/resource/Dave_Allen_(actor) and the value is : 0
+http://dbpedia.org/resource/Machinist and http://dbpedia.org/resource/Craig_Anton and the value is : 0
+http://dbpedia.org/resource/Dave_Allen_(actor) and http://dbpedia.org/resource/Craig_Anton and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Office_Party and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Rudy_Sarzo and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/City_limits and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/Office_Party and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/Rudy_Sarzo and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/City_limits and the value is : 0
+http://dbpedia.org/resource/Office_Party and http://dbpedia.org/resource/Rudy_Sarzo and the value is : 0
+http://dbpedia.org/resource/Office_Party and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Office_Party and http://dbpedia.org/resource/City_limits and the value is : 1
+http://dbpedia.org/resource/Rudy_Sarzo and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Rudy_Sarzo and http://dbpedia.org/resource/City_limits and the value is : 0
+http://dbpedia.org/resource/Magazine and http://dbpedia.org/resource/City_limits and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/The_Actors'_Gang and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/University_of_Padua and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Murray_Mednick and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/LEON and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Rich_Martell and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Marlane_Meyer and the value is : 1
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/John_Steppling and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/The_Actors'_Gang and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/University_of_Padua and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Murray_Mednick and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/LEON and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Rich_Martell and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Marlane_Meyer and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/John_Steppling and the value is : 0
+http://dbpedia.org/resource/The_Actors'_Gang and http://dbpedia.org/resource/University_of_Padua and the value is : 0
+http://dbpedia.org/resource/The_Actors'_Gang and http://dbpedia.org/resource/Murray_Mednick and the value is : 0
+http://dbpedia.org/resource/The_Actors'_Gang and http://dbpedia.org/resource/LEON and the value is : 0
+http://dbpedia.org/resource/The_Actors'_Gang and http://dbpedia.org/resource/Rich_Martell and the value is : 0
+http://dbpedia.org/resource/The_Actors'_Gang and http://dbpedia.org/resource/Marlane_Meyer and the value is : 0
+http://dbpedia.org/resource/The_Actors'_Gang and http://dbpedia.org/resource/John_Steppling and the value is : 0
+http://dbpedia.org/resource/University_of_Padua and http://dbpedia.org/resource/Murray_Mednick and the value is : 0
+http://dbpedia.org/resource/University_of_Padua and http://dbpedia.org/resource/LEON and the value is : 0
+http://dbpedia.org/resource/University_of_Padua and http://dbpedia.org/resource/Rich_Martell and the value is : 0
+http://dbpedia.org/resource/University_of_Padua and http://dbpedia.org/resource/Marlane_Meyer and the value is : 0
+http://dbpedia.org/resource/University_of_Padua and http://dbpedia.org/resource/John_Steppling and the value is : 0
+http://dbpedia.org/resource/Murray_Mednick and http://dbpedia.org/resource/LEON and the value is : 0
+http://dbpedia.org/resource/Murray_Mednick and http://dbpedia.org/resource/Rich_Martell and the value is : 1
+http://dbpedia.org/resource/Murray_Mednick and http://dbpedia.org/resource/Marlane_Meyer and the value is : 1
+http://dbpedia.org/resource/Murray_Mednick and http://dbpedia.org/resource/John_Steppling and the value is : 0
+http://dbpedia.org/resource/LEON and http://dbpedia.org/resource/Rich_Martell and the value is : 0
+http://dbpedia.org/resource/LEON and http://dbpedia.org/resource/Marlane_Meyer and the value is : 0
+http://dbpedia.org/resource/LEON and http://dbpedia.org/resource/John_Steppling and the value is : 0
+http://dbpedia.org/resource/Rich_Martell and http://dbpedia.org/resource/Marlane_Meyer and the value is : 0
+http://dbpedia.org/resource/Rich_Martell and http://dbpedia.org/resource/John_Steppling and the value is : 0
+http://dbpedia.org/resource/Marlane_Meyer and http://dbpedia.org/resource/John_Steppling and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/SpongeBob_SquarePants and the value is : 1
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Anatomy and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/NewsRadio and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/SpongeBob_SquarePants and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Anatomy and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/NewsRadio and the value is : 1
+http://dbpedia.org/resource/SpongeBob_SquarePants and http://dbpedia.org/resource/Anatomy and the value is : 0
+http://dbpedia.org/resource/SpongeBob_SquarePants and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/SpongeBob_SquarePants and http://dbpedia.org/resource/NewsRadio and the value is : 0
+http://dbpedia.org/resource/Anatomy and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/Anatomy and http://dbpedia.org/resource/NewsRadio and the value is : 1
+http://dbpedia.org/resource/Seinfeld and http://dbpedia.org/resource/NewsRadio and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Partition_of_India and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Godzilla and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Gastropod_shell and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Elephant and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Short_film and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Christian_Dior_(fashion_house) and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Marion_Cotillard and the value is : 1
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/John_Cameron_Mitchell and the value is : 0
+http://dbpedia.org/resource/Partition_of_India and http://dbpedia.org/resource/Godzilla and the value is : 0
+http://dbpedia.org/resource/Partition_of_India and http://dbpedia.org/resource/Gastropod_shell and the value is : 0
+http://dbpedia.org/resource/Partition_of_India and http://dbpedia.org/resource/Elephant and the value is : 0
+http://dbpedia.org/resource/Partition_of_India and http://dbpedia.org/resource/Short_film and the value is : 0
+http://dbpedia.org/resource/Partition_of_India and http://dbpedia.org/resource/Christian_Dior_(fashion_house) and the value is : 0
+http://dbpedia.org/resource/Partition_of_India and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Partition_of_India and http://dbpedia.org/resource/Marion_Cotillard and the value is : 0
+http://dbpedia.org/resource/Partition_of_India and http://dbpedia.org/resource/John_Cameron_Mitchell and the value is : 0
+http://dbpedia.org/resource/Godzilla and http://dbpedia.org/resource/Gastropod_shell and the value is : 0
+http://dbpedia.org/resource/Godzilla and http://dbpedia.org/resource/Elephant and the value is : 0
+http://dbpedia.org/resource/Godzilla and http://dbpedia.org/resource/Short_film and the value is : 0
+http://dbpedia.org/resource/Godzilla and http://dbpedia.org/resource/Christian_Dior_(fashion_house) and the value is : 0
+http://dbpedia.org/resource/Godzilla and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Godzilla and http://dbpedia.org/resource/Marion_Cotillard and the value is : 0
+http://dbpedia.org/resource/Godzilla and http://dbpedia.org/resource/John_Cameron_Mitchell and the value is : 0
+http://dbpedia.org/resource/Gastropod_shell and http://dbpedia.org/resource/Elephant and the value is : 0
+http://dbpedia.org/resource/Gastropod_shell and http://dbpedia.org/resource/Short_film and the value is : 0
+http://dbpedia.org/resource/Gastropod_shell and http://dbpedia.org/resource/Christian_Dior_(fashion_house) and the value is : 0
+http://dbpedia.org/resource/Gastropod_shell and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Gastropod_shell and http://dbpedia.org/resource/Marion_Cotillard and the value is : 0
+http://dbpedia.org/resource/Gastropod_shell and http://dbpedia.org/resource/John_Cameron_Mitchell and the value is : 1
+http://dbpedia.org/resource/Elephant and http://dbpedia.org/resource/Short_film and the value is : 0
+http://dbpedia.org/resource/Elephant and http://dbpedia.org/resource/Christian_Dior_(fashion_house) and the value is : 0
+http://dbpedia.org/resource/Elephant and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Elephant and http://dbpedia.org/resource/Marion_Cotillard and the value is : 1
+http://dbpedia.org/resource/Elephant and http://dbpedia.org/resource/John_Cameron_Mitchell and the value is : 1
+http://dbpedia.org/resource/Short_film and http://dbpedia.org/resource/Christian_Dior_(fashion_house) and the value is : 1
+http://dbpedia.org/resource/Short_film and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Short_film and http://dbpedia.org/resource/Marion_Cotillard and the value is : 0
+http://dbpedia.org/resource/Short_film and http://dbpedia.org/resource/John_Cameron_Mitchell and the value is : 1
+http://dbpedia.org/resource/Christian_Dior_(fashion_house) and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Christian_Dior_(fashion_house) and http://dbpedia.org/resource/Marion_Cotillard and the value is : 0
+http://dbpedia.org/resource/Christian_Dior_(fashion_house) and http://dbpedia.org/resource/John_Cameron_Mitchell and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Marion_Cotillard and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/John_Cameron_Mitchell and the value is : 0
+http://dbpedia.org/resource/Marion_Cotillard and http://dbpedia.org/resource/John_Cameron_Mitchell and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Matthew_Modine and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Alpaca and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/French_Stewart and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Geffen_Playhouse and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/Matthew_Modine and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/Alpaca and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/French_Stewart and the value is : 1
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/Geffen_Playhouse and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Matthew_Modine and http://dbpedia.org/resource/Alpaca and the value is : 1
+http://dbpedia.org/resource/Matthew_Modine and http://dbpedia.org/resource/French_Stewart and the value is : 0
+http://dbpedia.org/resource/Matthew_Modine and http://dbpedia.org/resource/Geffen_Playhouse and the value is : 0
+http://dbpedia.org/resource/Matthew_Modine and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Matthew_Modine and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Alpaca and http://dbpedia.org/resource/French_Stewart and the value is : 0
+http://dbpedia.org/resource/Alpaca and http://dbpedia.org/resource/Geffen_Playhouse and the value is : 0
+http://dbpedia.org/resource/Alpaca and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Alpaca and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/French_Stewart and http://dbpedia.org/resource/Geffen_Playhouse and the value is : 0
+http://dbpedia.org/resource/French_Stewart and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/French_Stewart and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Geffen_Playhouse and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/Geffen_Playhouse and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/University_of_Iowa and the value is : 0
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/University_of_Iowa and http://dbpedia.org/resource/Theatre and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+mark fite born october 28 1965 is an american actor comedian and writer. he is best known for his roles in the films the big lebowski 1998 the cable guy 1996 and the wedding singer 1998. he has also appeared in numerous television shows including seinfeld friends and the king of queens. fite was born in los angeles california. he attended the university of california los angeles where he studied theater and film. after graduating he began performing standup comedy in los angeles and new york city. he has appeared in numerous television shows and films including the big lebowski the cable guy and the wedding singer. he has also written for television shows including seinfeld and friends. fite currently resides in los angeles where he continues to act and write. he is also a member of the improvisational comedy troupe the groundlings. 
+
+Coref Resolved : 
+mark fite born october 28 1965 is an american actor comedian and writer. fite is best known for fite roles in the films the big lebowski 1998 the cable guy 1996 and the wedding singer 1998. fite has also appeared in numerous television shows including seinfeld friends and the king of queens. fite was born in los angeles california. fite attended the university of california los angeles where fite studied theater and film. after graduating fite began performing standup comedy in los angeles californiaand new york city. fite has appeared in numerous television shows and films including the big lebowski 1998 the cable guy 1996 and the wedding singer . fite has also written for television shows including seinfeld and friends. fite currently resides in los angeles californiawhere fite continues to act and write. fite is also a member of the improvisational comedy troupe the groundlings.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+mark fite is an american actor and comedian. he has appeared in a number of movies and television shows and lives in los angeles california. fite is a founding member of the comedy group 2 headed dog with comedians jim turner dave gruber allen and craig anton. he is wellknown for creating roles and performing in many hit comedy shows including bobs office party the rudy casoni show girly magazine party clowntown city limits and wife swappers. fite has worked with several prestigious theatre companies in los angeles including the actors gang theatre of note and padua hills playwrights festival where he worked with acclaimed writers murray mednick leon martell marlane meyer and john steppling. fite has appeared in numerous television shows including spongebob squarepants greys anatomy rules of engagement the naked trucker and tbones show friends seinfeld and newsradio. fites varied film credits include fight club independence day godzilla off the lip elephant sighs with ed asner and in 2011 a short film for dior l.a.dy dior opposite academy awardwinning actress marion cotillard directed by john cameron mitchell. in 2009 fite performed in the world premiere comedy matthew modine saves the alpacas alongside matthew modine and french stewart at the geffen playhouse in los angeles ca. fite graduated from the university of iowa with a bachelor of arts in communications and theatre arts. 
+
+Coref Resolved : 
+mark fite is an american actor and comedian. mark fite has appeared in a number of movies and television shows and lives in los angeles california. mark fite is a founding member of the comedy group 2 headed dog with comedians jim turner dave gruber allen and craig anton. mark fite is wellknown for creating roles and performing in many hit comedy shows including bobs office party the rudy casoni show girly magazine party clowntown city limits and wife swappers. mark fite has worked with several prestigious theatre companies in los angeles californiaincluding the actors gang theatre of note and padua hills playwrights festival where mark fite worked with acclaimed writers murray mednick leon martell marlane meyer and john steppling. mark fite has appeared in numerous television shows including spongebob squarepants greys anatomy rules of engagement the naked trucker and tbones show friends seinfeld and newsradio. mark fite varied film credits include fight club independence day godzilla off the lip elephant sighs with ed asner and in 2011 a short film for dior l.a.dy dior opposite academy awardwinning actress marion cotillard directed by john cameron mitchell. in 2009 mark fite performed in the world premiere comedy matthew modine saves the alpacas alongside matthew modine and french stewart at the geffen playhouse in los angeles california. mark fite graduated from the university of iowa with a bachelor of arts in communications and theatre arts.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2727272727272727 and for ground truth is : 0.16279069767441862
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

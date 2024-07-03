@@ -1,0 +1,113 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Wight and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Wight and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Wight and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Wight and the value is : 1
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/UK_Independence_Party and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Independent_politician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/UK_Independence_Party and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Independent_politician and the value is : 0
+http://dbpedia.org/resource/UK_Independence_Party and http://dbpedia.org/resource/Independent_politician and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/University_of_East_Anglia and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_of_East_Anglia and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Financial_adviser and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Financial_adviser and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Financial_adviser and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/UK_Independence_Party and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/False_accounting and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Money_laundering and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/UK_Independence_Party and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/False_accounting and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Money_laundering and the value is : 0
+http://dbpedia.org/resource/UK_Independence_Party and http://dbpedia.org/resource/False_accounting and the value is : 0
+http://dbpedia.org/resource/UK_Independence_Party and http://dbpedia.org/resource/Money_laundering and the value is : 0
+http://dbpedia.org/resource/False_accounting and http://dbpedia.org/resource/Money_laundering and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Prison and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Prison and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Wight and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Financial_adviser and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Wight and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Financial_adviser and the value is : 0
+http://dbpedia.org/resource/Wight and http://dbpedia.org/resource/Financial_adviser and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/THOMAS and http://dbpedia.org/resource/Harold_Wise and the value is : 1
+http://dbpedia.org/resource/THOMAS and http://dbpedia.org/resource/Bournemouth and the value is : 0
+http://dbpedia.org/resource/THOMAS and http://dbpedia.org/resource/Independent_politician and the value is : 0
+http://dbpedia.org/resource/THOMAS and http://dbpedia.org/resource/UK_Independence_Party and the value is : 0
+http://dbpedia.org/resource/THOMAS and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/THOMAS and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 1
+http://dbpedia.org/resource/Harold_Wise and http://dbpedia.org/resource/Bournemouth and the value is : 0
+http://dbpedia.org/resource/Harold_Wise and http://dbpedia.org/resource/Independent_politician and the value is : 1
+http://dbpedia.org/resource/Harold_Wise and http://dbpedia.org/resource/UK_Independence_Party and the value is : 0
+http://dbpedia.org/resource/Harold_Wise and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Harold_Wise and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 1
+http://dbpedia.org/resource/Bournemouth and http://dbpedia.org/resource/Independent_politician and the value is : 0
+http://dbpedia.org/resource/Bournemouth and http://dbpedia.org/resource/UK_Independence_Party and the value is : 0
+http://dbpedia.org/resource/Bournemouth and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Bournemouth and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 1
+http://dbpedia.org/resource/Independent_politician and http://dbpedia.org/resource/UK_Independence_Party and the value is : 0
+http://dbpedia.org/resource/Independent_politician and http://dbpedia.org/resource/European_Parliament and the value is : 1
+http://dbpedia.org/resource/Independent_politician and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 0
+http://dbpedia.org/resource/UK_Independence_Party and http://dbpedia.org/resource/European_Parliament and the value is : 1
+http://dbpedia.org/resource/UK_Independence_Party and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 0
+http://dbpedia.org/resource/European_Parliament and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 0
+http://dbpedia.org/resource/Police_officer and http://dbpedia.org/resource/UK_Independence_Party and the value is : 0
+http://dbpedia.org/resource/Police_officer and http://dbpedia.org/resource/Chief_Whip and the value is : 0
+http://dbpedia.org/resource/Police_officer and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Police_officer and http://dbpedia.org/resource/The_Sunday_Telegraph and the value is : 0
+http://dbpedia.org/resource/UK_Independence_Party and http://dbpedia.org/resource/Chief_Whip and the value is : 0
+http://dbpedia.org/resource/UK_Independence_Party and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/UK_Independence_Party and http://dbpedia.org/resource/The_Sunday_Telegraph and the value is : 0
+http://dbpedia.org/resource/Chief_Whip and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Chief_Whip and http://dbpedia.org/resource/The_Sunday_Telegraph and the value is : 0
+http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and http://dbpedia.org/resource/The_Sunday_Telegraph and the value is : 0
+http://dbpedia.org/resource/False_accounting and http://dbpedia.org/resource/Money_laundering and the value is : 0
+http://dbpedia.org/resource/False_accounting and http://dbpedia.org/resource/Bedfordshire_Police and the value is : 0
+http://dbpedia.org/resource/Money_laundering and http://dbpedia.org/resource/Bedfordshire_Police and the value is : 0
+http://dbpedia.org/resource/False_accounting and http://dbpedia.org/resource/Money_laundering and the value is : 0
+http://dbpedia.org/resource/False_accounting and http://dbpedia.org/resource/Southwark_Crown_Court and the value is : 0
+http://dbpedia.org/resource/Money_laundering and http://dbpedia.org/resource/Southwark_Crown_Court and the value is : 1
+http://dbpedia.org/resource/Member_of_the_European_Parliament and http://dbpedia.org/resource/Fraud and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Fraud and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Fraud and http://dbpedia.org/resource/European_Parliament and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tom wise born 28 april 1962 is a former british politician who was the member of parliament mp for the isle of wight from 2001 to 2005. he was elected as a member of the uk independence party ukip but later sat as an independent. wise was born in london and educated at the university of east anglia where he gained a degree in economics. he worked as a financial adviser before being elected to parliament in 2001. he was reelected in 2005 but resigned from ukip in 2006 after being charged with false accounting and money laundering. he was found guilty and sentenced to two years in prison in 2008. after his release he returned to the isle of wight and worked as a financial adviser. 
+
+Coref Resolved : 
+tom wise born 28 april 1962 is a former british politician who was the member of parliament mp for the isle of wight from 2001 to 2005. tom wise born 28 april 1962 was elected as a member of the uk independence party ukip but later sat as an independent. tom wise born 28 april 1962 was born in london and educated at the university of east anglia where tom wise born 28 april 1962 gained a degree in economics. tom wise born 28 april 1962 worked as a financial adviser before being elected to parliament in 2001 . tom wise born 28 april 1962 was reelected in 2005but resigned from the uk independence party ukip in 2006 after being charged with false accounting and money laundering. tom wise born 28 april 1962 was found guilty and sentenced to two years in prison in 2008. after tom wise born 28 april 1962 release tom wise born 28 april 1962 returned to the isle of wight and worked as a financial adviser.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+thomas harold wise born 13 may 1948 in bournemouth was an independent and ukip member of the european parliament mep for the east of england. a former police officer he was elected in 2004 as a member of the uk independence party but later had the whip withdrawn when allegations of misuse of parliamentary expenses surfaced in the sunday telegraph. following an inquiry carried out by the european antifraud office wise was formally charged with false accounting and money laundering by bedfordshire police. after initially pleading not guilty he admitted the charges and was sentenced in november 2009 at southwark crown court to a twoyear term of imprisonment. he is thought to be the first mep to be jailed for expenses fraud. sentencing him the judge said that wise had engaged in deliberate and blatant dishonesty and had set about to defraud the european parliament almost as soon as he was elected. 
+
+Coref Resolved : 
+thomas harold wise born 13 may 1948 in bournemouth was an independent and ukip member of the european parliament mep for the east of england. a former police officer wise was elected in 2004 as a member of the uk independence party but later had the whip withdrawn when allegations of misuse of parliamentary expenses surfaced in the sunday telegraph. following an inquiry carried out by the european antifraud office wise was formally charged with false accounting and money laundering by bedfordshire police. after initially pleading not guilty wise admitted false accounting and money laundering and was sentenced in november 2009 at southwark crown court to a twoyear term of imprisonment. wise is thought to be the first mep to be jailed for expenses fraud. sentencing wise the judge said that wise had engaged in deliberate and blatant dishonesty and had set about to defraud european parliament almost as soon as wise was elected.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.045454545454545456 and for ground truth is : 0.21951219512195122
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

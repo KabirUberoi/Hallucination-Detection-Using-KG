@@ -1,0 +1,99 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Entrepreneurship and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/The_Wonderful_Company and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/The_Wonderful_Company and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Privately_held_company and the value is : 1
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Privately_held_company and the value is : 1
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Agriculture and the value is : 1
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/POM_Wonderful and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Fiji_(software) and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Water_industry and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Teleflora and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Food_industry and the value is : 1
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Agriculture and the value is : 1
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/POM_Wonderful and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Fiji_(software) and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Water_industry and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Teleflora and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/POM_Wonderful and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Fiji_(software) and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Water_industry and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Teleflora and the value is : 1
+http://dbpedia.org/resource/Agriculture and http://dbpedia.org/resource/POM_Wonderful and the value is : 0
+http://dbpedia.org/resource/Agriculture and http://dbpedia.org/resource/Fiji_(software) and the value is : 0
+http://dbpedia.org/resource/Agriculture and http://dbpedia.org/resource/Water_industry and the value is : 0
+http://dbpedia.org/resource/Agriculture and http://dbpedia.org/resource/Teleflora and the value is : 0
+http://dbpedia.org/resource/POM_Wonderful and http://dbpedia.org/resource/Fiji_(software) and the value is : 0
+http://dbpedia.org/resource/POM_Wonderful and http://dbpedia.org/resource/Water_industry and the value is : 0
+http://dbpedia.org/resource/POM_Wonderful and http://dbpedia.org/resource/Teleflora and the value is : 0
+http://dbpedia.org/resource/Fiji_(software) and http://dbpedia.org/resource/Water_industry and the value is : 0
+http://dbpedia.org/resource/Fiji_(software) and http://dbpedia.org/resource/Teleflora and the value is : 0
+http://dbpedia.org/resource/Water_industry and http://dbpedia.org/resource/Teleflora and the value is : 1
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/The_Wonderful_Company and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Agriculture and the value is : 1
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/The_Wonderful_Company and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Agriculture and the value is : 1
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/The_Wonderful_Company and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Agriculture and the value is : 1
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Privately_held_company and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/The_Wonderful_Company and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Food_industry and the value is : 0
+http://dbpedia.org/resource/Privately_held_company and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/Food_industry and http://dbpedia.org/resource/Agriculture and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Health_care and the value is : 1
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Education and the value is : 1
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/George_Roll and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Information_technology and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+george roll born october 28 1965 is an american businessman and entrepreneur. he is the founder and ceo of roll global a privately held company that owns and operates a variety of businesses in the food agriculture and entertainment industries. roll globals holdings include pom wonderful fiji water teleflora and paramount farms. roll began his career in the food industry in the late 1980s working for the familyowned business roll international corporation. he eventually became the companys president and ceo and in 2001 he founded roll global. under his leadership roll global has grown to become one of the largest privately held companies in the united states. roll is a philanthropist and has donated millions of dollars to various causes including education health and the environment. he is also a member of the board of directors of the los angeles county museum of art and the california institute of technology. 
+
+Coref Resolved : 
+george roll born october 28 1965 is an american businessman and entrepreneur. george roll born october 28 1965 is the founder and ceo of roll global a privately held company that owns and operates a variety of businesses in the food agriculture and entertainment industries. roll global a privately held company that owns and operates a variety of businesses in the food agriculture and entertainment industriesholdings include pom wonderful fiji water teleflora and paramount farms. george roll born october 28 1965 began george roll born october 28 1965 career in the food industry in the late 1980s working for the familyowned business roll international corporation. george roll born october 28 1965 eventually became the familyowned business roll international corporationpresident and ceo and in 2001 george roll born october 28 1965 founded roll global a privately held company that owns and operates a variety of businesses in the food agriculture and entertainment industries. under george roll born october 28 1965 leadership roll global a privately held company that owns and operates a variety of businesses in the food agriculture and entertainment industrieshas grown to become one of the largest privately held companies in the united states. george roll born october 28 1965 is a philanthropist and has donated millions of dollars to various causes including education health and the environment. george roll born october 28 1965 is also a member of the board of directors of the los angeles county museum of art and the california institute of technology.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.15853658536585366
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

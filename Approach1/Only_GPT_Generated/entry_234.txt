@@ -1,0 +1,51 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkey_national_football_team and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Süper_Lig and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Turkey_national_football_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Süper_Lig and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 0
+http://dbpedia.org/resource/Turkey_national_football_team and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Turkey_national_football_team and http://dbpedia.org/resource/Süper_Lig and the value is : 0
+http://dbpedia.org/resource/Turkey_national_football_team and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Süper_Lig and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 0
+http://dbpedia.org/resource/Süper_Lig and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Konyaspor and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Konyaspor and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Süper_Lig and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 1
+http://dbpedia.org/resource/Süper_Lig and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Süper_Lig and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkish_Basketball_Cup and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkish_Basketball_Presidential_Cup and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 0
+http://dbpedia.org/resource/Süper_Lig and http://dbpedia.org/resource/Turkish_Basketball_Cup and the value is : 1
+http://dbpedia.org/resource/Süper_Lig and http://dbpedia.org/resource/Turkish_Basketball_Presidential_Cup and the value is : 0
+http://dbpedia.org/resource/Süper_Lig and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 1
+http://dbpedia.org/resource/Turkish_Basketball_Cup and http://dbpedia.org/resource/Turkish_Basketball_Presidential_Cup and the value is : 1
+http://dbpedia.org/resource/Turkish_Basketball_Cup and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 1
+http://dbpedia.org/resource/Turkish_Basketball_Presidential_Cup and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkey_national_football_team and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkey_national_football_team and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/UEFA_Euro_2016 and the value is : 1
+http://dbpedia.org/resource/Turkey_national_football_team and http://dbpedia.org/resource/UEFA_Euro_2016 and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+gündüz kılıç born 28 april 1988 is a turkish professional footballer who plays as a midfielder for süper lig club fenerbahçe. kılıç began his career with his hometown club konyaspor in 2006. he made his professional debut in the 200607 season and went on to make over 100 appearances for the club. in 2011 he joined fenerbahçe and has since made over 200 appearances for the club. he has won three süper lig titles two turkish cups and two turkish super cups with fenerbahçe. kılıç has also represented the turkish national team making his debut in 2011. he has since made over 30 appearances for the team and was part of the squad that reached the semifinals of uefa euro 2016. 
+
+Coref Resolved : 
+gündüz kılıç born 28 april 1988 is a turkish professional footballer who plays as a midfielder for süper lig club fenerbahçe. gündüz kılıç began gündüz kılıç career with gündüz kılıç hometown club konyaspor in 2006. gündüz kılıç made gündüz kılıç professional debut in the 200607 season and went on to make over 100 appearances for his hometown club konyaspor . in 2011 gündüz kılıç joined süper lig club fenerbahçeand has since made over 200 appearances for süper lig club fenerbahçe. gündüz kılıç has won three süper lig titles two turkish cups and two turkish super cups with süper lig club fenerbahçe. gündüz kılıç has also represented the turkish national team making gündüz kılıç debut in 2011 . gündüz kılıç has since made over 30 appearances for the turkish national team and was part of the squad that reached the semifinals of uefa euro 2016.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.47058823529411764
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate 
+

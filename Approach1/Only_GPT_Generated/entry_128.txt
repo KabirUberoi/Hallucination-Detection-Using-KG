@@ -1,0 +1,62 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Songwriter and the value is : 1
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Indie_pop and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Dragonette and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Indie_pop and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Dragonette and the value is : 0
+http://dbpedia.org/resource/Indie_pop and http://dbpedia.org/resource/Dragonette and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Wildlife and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Toronto and the value is : 1
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Classical_music and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Piano and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Classical_music and http://dbpedia.org/resource/Piano and the value is : 0
+http://dbpedia.org/resource/Classical_music and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Classical_music and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Piano and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Piano and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Kaskade and the value is : 1
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Martin_Solveig and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Basement_Jaxx and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Kaskade and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Martin_Solveig and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Basement_Jaxx and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Kaskade and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Martin_Solveig and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Basement_Jaxx and the value is : 1
+http://dbpedia.org/resource/Kaskade and http://dbpedia.org/resource/Martin_Solveig and the value is : 0
+http://dbpedia.org/resource/Kaskade and http://dbpedia.org/resource/Basement_Jaxx and the value is : 0
+http://dbpedia.org/resource/Martin_Solveig and http://dbpedia.org/resource/Basement_Jaxx and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/Coca-Cola and the value is : 0
+http://dbpedia.org/resource/Martina_Sorbara and http://dbpedia.org/resource/McDonald's and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Coca-Cola and the value is : 1
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/McDonald's and the value is : 1
+http://dbpedia.org/resource/Coca-Cola and http://dbpedia.org/resource/McDonald's and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+martina sorbara is a canadian singersongwriter and multiinstrumentalist. she is best known as the lead singer and songwriter of the indie pop band dragonette. she has released two solo albums little wild life 2011 and colours 2015. sorbara was born in toronto ontario and began playing music at a young age. she studied classical piano and voice and later attended the university of toronto where she studied jazz and composition. she has also studied at the royal conservatory of music. she has written and produced music for film and television and has collaborated with artists such as kaskade martin solveig and basement jaxx. she has also written and produced music for commercials including for cocacola microsoft and mcdonalds. 
+
+Coref Resolved : 
+martina sorbara is a canadian singersongwriter and multiinstrumentalist. martina sorbara is best known as the lead singer and songwriter of the indie pop band dragonette. martina sorbara has released two solo albums little wild life 2011 and colours 2015. martina sorbara was born in toronto ontario and began playing music at a young age. martina sorbara studied classical piano and voice and later attended the university of toronto where martina sorbara studied jazz and composition. martina sorbara has also studied at the royal conservatory of music. martina sorbara has written and produced music for film and television and has collaborated with artists such as kaskade martin solveig and basement jaxx. martina sorbara has also written and produced music for commercials including for cocacola microsoft and mcdonalds.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.17777777777777778
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate accurate minor_inaccurate major_inaccurate accurate major_inaccurate 
+

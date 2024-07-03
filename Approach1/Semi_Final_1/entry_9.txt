@@ -1,0 +1,132 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Motorcycle_sport and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Motorcycle_sport and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Senior_TT and the value is : 1
+http://dbpedia.org/resource/Isle_of_Man_TT and http://dbpedia.org/resource/Senior_TT and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/North_West_200 and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Ulster_Grand_Prix and the value is : 1
+http://dbpedia.org/resource/North_West_200 and http://dbpedia.org/resource/Ulster_Grand_Prix and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Equestrianism and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Mechanic and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Mechanic and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Freddie_Frith and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Grimsby and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Lincolnshire and the value is : 1
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Grimsby and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Lincolnshire and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Grimsby and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Lincolnshire and the value is : 1
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 1
+http://dbpedia.org/resource/Grimsby and http://dbpedia.org/resource/Lincolnshire and the value is : 0
+http://dbpedia.org/resource/Grimsby and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 1
+http://dbpedia.org/resource/Lincolnshire and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Retail and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Grimsby and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Lincolnshire and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 1
+http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and http://dbpedia.org/resource/Retail and the value is : 1
+http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and http://dbpedia.org/resource/Grimsby and the value is : 0
+http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and http://dbpedia.org/resource/Lincolnshire and the value is : 0
+http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 1
+http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Retail and http://dbpedia.org/resource/Grimsby and the value is : 0
+http://dbpedia.org/resource/Retail and http://dbpedia.org/resource/Lincolnshire and the value is : 1
+http://dbpedia.org/resource/Retail and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Retail and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Grimsby and http://dbpedia.org/resource/Lincolnshire and the value is : 0
+http://dbpedia.org/resource/Grimsby and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Grimsby and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 1
+http://dbpedia.org/resource/Lincolnshire and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+http://dbpedia.org/resource/Lincolnshire and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Racing and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Manx_Grand_Prix and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Velocette_KTT and the value is : 0
+http://dbpedia.org/resource/Racing and http://dbpedia.org/resource/Manx_Grand_Prix and the value is : 0
+http://dbpedia.org/resource/Racing and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Racing and http://dbpedia.org/resource/Velocette_KTT and the value is : 0
+http://dbpedia.org/resource/Manx_Grand_Prix and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Manx_Grand_Prix and http://dbpedia.org/resource/Velocette_KTT and the value is : 0
+http://dbpedia.org/resource/Equestrianism and http://dbpedia.org/resource/Velocette_KTT and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Racing and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Motorcycle_engine and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Racing and http://dbpedia.org/resource/Motorcycle_engine and the value is : 0
+http://dbpedia.org/resource/Racing and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Motorcycle_engine and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Manx_Grand_Prix and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Norton_Motorcycle_Company and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Manx_Grand_Prix and http://dbpedia.org/resource/Norton_Motorcycle_Company and the value is : 0
+http://dbpedia.org/resource/Manx_Grand_Prix and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Norton_Motorcycle_Company and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 1
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Junior_TT and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Senior_TT and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/2009_European_Championship_of_Ski_Mountaineering and the value is : 0
+http://dbpedia.org/resource/Junior_TT and http://dbpedia.org/resource/Senior_TT and the value is : 0
+http://dbpedia.org/resource/Junior_TT and http://dbpedia.org/resource/2009_European_Championship_of_Ski_Mountaineering and the value is : 0
+http://dbpedia.org/resource/Senior_TT and http://dbpedia.org/resource/2009_European_Championship_of_Ski_Mountaineering and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Senior_TT and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Snaefell and the value is : 1
+http://dbpedia.org/resource/Senior_TT and http://dbpedia.org/resource/Snaefell and the value is : 1
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Moto_Guzzi and the value is : 0
+http://dbpedia.org/resource/Isle_of_Man_TT and http://dbpedia.org/resource/Moto_Guzzi and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Racing and the value is : 1
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Birmingham_Small_Arms_Company and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Matchless and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Keswick_Convention and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Non-commissioned_officer and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/CrossCountry and the value is : 0
+http://dbpedia.org/resource/Birmingham_Small_Arms_Company and http://dbpedia.org/resource/Matchless and the value is : 0
+http://dbpedia.org/resource/Birmingham_Small_Arms_Company and http://dbpedia.org/resource/Keswick_Convention and the value is : 0
+http://dbpedia.org/resource/Birmingham_Small_Arms_Company and http://dbpedia.org/resource/Non-commissioned_officer and the value is : 0
+http://dbpedia.org/resource/Birmingham_Small_Arms_Company and http://dbpedia.org/resource/CrossCountry and the value is : 0
+http://dbpedia.org/resource/Matchless and http://dbpedia.org/resource/Keswick_Convention and the value is : 0
+http://dbpedia.org/resource/Matchless and http://dbpedia.org/resource/Non-commissioned_officer and the value is : 0
+http://dbpedia.org/resource/Matchless and http://dbpedia.org/resource/CrossCountry and the value is : 1
+http://dbpedia.org/resource/Keswick_Convention and http://dbpedia.org/resource/Non-commissioned_officer and the value is : 0
+http://dbpedia.org/resource/Keswick_Convention and http://dbpedia.org/resource/CrossCountry and the value is : 0
+http://dbpedia.org/resource/Non-commissioned_officer and http://dbpedia.org/resource/CrossCountry and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Norton_Motorcycle_Company and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Skiddaw and the value is : 0
+http://dbpedia.org/resource/Norton_Motorcycle_Company and http://dbpedia.org/resource/Skiddaw and the value is : 0
+http://dbpedia.org/resource/Roadwork and http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+freddie frith 19171994 was an english motorcycle racer who competed in the isle of man tt races and other international events. he was born in london and began racing in the 1930s. he won the isle of man tt in 1938 and 1939 and was the first rider to win the senior tt twice in succession. he also won the north west 200 in 1938 and 1939 and the ulster grand prix in 1938 and 1939. frith was a popular figure in the racing world and was known for his daring and aggressive riding style. he was also known for his willingness to help other riders and was often seen helping to push other riders bikes to the start line. he retired from racing in 1947 but continued to be involved in the sport working as a mechanic and team manager. he died in 1994 aged 77. 
+
+Coref Resolved : 
+freddie frith 19171994 was an english motorcycle racer who competed in the isle of man tt races and other international events. freddie frith was born in london and began racing in the 1930s. freddie frith won the isle of man tt in 1938 and 1939 and was the first rider to win the senior tt twice in succession. freddie frith also won the north west 200 in 1938 and 1939 and the ulster grand prix in 1938 and 1939 . freddie frith was a popular figure in the racing world and was known for freddie frith daring and aggressive riding style. freddie frith was also known for freddie frith willingness to help other riders and was often seen helping to push other riders bikes to the start line. freddie frith retired from the sport in 1947 but continued to be involved in the sport working as a mechanic and team manager. freddie frith died in 1994 aged 77.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+frederick lee freddie frith obe born 30 may 1909 in grimsby lincolnshire england 24 may 1988 was a british former grand prix motorcycle road racing world champion. a former stonemason and later a motorcycle retailer in grimsby he was a stylish rider and fivetime winner of the isle of man tt. frith had the distinction of being one of the few to win tt races before and after the second world war. he entered his first major race the first manx grand prix in 1930 riding an overthecounter 350 cc velocette ktt in the junior event finishing third at a speed of 60.34 mph. he retired from the 500 cc race with a blown engine again riding his 350 when holding third place. he won the 1935 junior manx grand prix and then joined the norton team for the 1936 tt races. it was a winning combination as he claimed the junior tt and finished second in the senior tt as well as winning the 350 cc european championship. in 1937 he went one better in the senior and took a brilliant win and setting the first 90 mph plus lap of the snaefell mountain course. after finishing third in the 1939 senior he missed the 1947 tt due to a practice spill on a 500 cc moto guzzi. turning to velocettes in 1948 he won the junior race repeating this success a year later. freddie also has the distinction of being the first ever 350 cc world champion in 1949 when he won all five events of the inaugural campaign. frith alongside other riders from bsa ariel and matchless works teams served in the army during world war ii at the infantry driving maintenance school stationed at keswick where officers and ncos learned how to ride crosscountry. sgt. freddie frith taught teams of four on norton 500s over skiddaw in all weathers. a special treat on the last day was reserved for roadwork following friths trackstyle fast cornering. 
+
+Coref Resolved : 
+frederick lee freddie frith obe born 30 may 1909 in grimsby lincolnshire england 24 may 1988 was a british former grand prix motorcycle road racing world champion. a former stonemason and later a motorcycle retailer in grimsby lincolnshire england frederick lee was a stylish rider and fivetime winner of the isle of man tt. frederick lee had the distinction of being one of the few to win tt races before and after the second world war. frederick lee entered frederick lee first major race the first manx grand prix in 1930 riding an overthecounter 350 cc velocette ktt in the junior event finishing third at a speed of 60.34 mph. frederick lee retired from the 500 cc race with a blown engine again riding frederick lee 350 when holding third place. frederick lee won the 1935 junior manx grand prix and then joined the norton team for the 1936 tt races. it was a winning combination as frederick lee claimed the junior tt and finished second in the senior tt as well as winning the 350 cc european championship. in 1937 frederick lee went one better in the senior tt and took a brilliant win and setting the first 90 mph plus lap of the snaefell mountain course. after finishing third in the 1939 senior frederick lee missed the 1947 tt due to a practice spill on a 500 cc moto guzzi. turning to velocettes in 1948 frederick lee this success the junior race repeating this success a year later. frederick lee also has the distinction of being the first ever 350 cc world champion in 1949 when frederick lee won all five events of the inaugural campaign. frederick lee alongside other riders from bsa ariel and matchless works teams served in the army during the second world warat the infantry driving maintenance school stationed at keswick where officers and ncos learned how to ride crosscountry. frederick lee taught teams of four on norton 500s over skiddaw in all weathers. a special treat on the last day was reserved for roadwork following frederick lee trackstyle fast cornering.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.46153846153846156 and for ground truth is : 0.15384615384615385
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

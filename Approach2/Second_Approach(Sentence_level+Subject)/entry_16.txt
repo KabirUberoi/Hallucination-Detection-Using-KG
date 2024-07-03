@@ -1,0 +1,81 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/The_Man_Who_Shot_Liberty_Valance and http://dbpedia.org/resource/The_Music_Man and the value is : 0
+http://dbpedia.org/resource/The_Man_Who_Shot_Liberty_Valance and http://dbpedia.org/resource/The_Sting and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Silent_film and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Archie_Bunker and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Frasier and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Archie_Bunker and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/The_Odd_Couple_(1970_TV_series) and the value is : 1
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Physician and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/The_Rifleman and the value is : 1
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/United_States_Navy and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Mary_II_of_England and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/The_Mary_Tyler_Moore_Show and the value is : 1
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Universal_Pictures and the value is : 1
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Don_Draper and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Bob_Weinstein and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Bob_Weinstein and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Virginia and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+William "Bill" Quinn (April 28, 1912 April 22, 1994) was an American actor, best known for his role as Ralph Hourback on the CBS television series The Rifleman.
+Quinn was born in New York City and began his career in the 1930s as a radio actor.
+He appeared in numerous films, including The Man Who Shot Liberty Valance (1962), The Music Man (1962), and The Sting (1973).
+He also appeared in television series such as The Andy Griffith Show, The Untouchables, and The Twilight Zone.
+Quinn was a regular on The Rifleman, appearing in all 168 episodes of the series.
+He also directed several episodes of the show.
+Quinn died in 1994 at the age of 81.
+
+
+Coref Resolved: 
+
+William "Bill" Quinn (April 28, 1912 April 22, 1994) was an American actor, best known for William "Bill" Quinn role as Ralph Hourback on the CBS television series The Rifleman.
+William "Bill" Quinn was born in New York City and began William "Bill" Quinn career in the 1930s as a radio actor.
+William "Bill" Quinn appeared in numerous films, including The Man Who Shot Liberty Valance (1962), The Music Man (1962), and The Sting (1973).
+William "Bill" Quinn also appeared in television series such as The Andy Griffith Show, The Untouchables, and The Twilight Zone.
+William "Bill" Quinn was a regular on the CBS television series The Rifleman, appearing in all 168 episodes of the CBS television series The Rifleman.
+William "Bill" Quinn also directed several episodes of the CBS television series The Rifleman.
+William "Bill" Quinn died in 1994 at the age of 81.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Bill Quinn (May 6, 1912 April 29, 1994) was an American actor.
+Quinn appeared in more than 150 acting roles over seven decades, starting in the 1920s in silent films and ending in 1989 in "All in the Family".
+He is best remembered as Archie's blind friend, Mr. Van Ranseleer, in "All in the Family", and later as a regular in the spin-off "Archie Bunker's Place".
+His other television roles include "The Odd Couple", in which he played the recurring role of the roommates' physician, Dr. Melnitz "The Rifleman" as Sweeney, the bartender "Mchale's Navy" and Mary's father in "The Mary Tyler Moore Show".
+In 1971, he was featured in the Universal Pictures movie "How to Frame a Figg" starring Don Knotts.
+Quinn was also the father-in-law of Bob Newhart.
+He is the father of Newhart's wife, Virginia Quinn Newhart.
+Quinn died at the age of 81 in Camarillo, California of natural causes.
+ 
+
+Coref Resolved: 
+
+Bill Quinn (May 6, 1912 April 29, 1994) was an American actor.
+Bill Quinn appeared in more than 150 acting roles over seven decades, starting in the 1920s in silent films and ending in 1989 in "All in the Family".
+Bill Quinn is best remembered as Archie's blind friend, Mr. Van Ranseleer, in "All in the Family", and later as a regular in the spin-off "Archie Bunker's Place".
+Bill Quinn other television roles include "The Odd Couple", in which Bill Quinn played the recurring role of the roommates' physician, Dr. Melnitz "The Rifleman" as Sweeney, the bartender "Mchale's Navy" and Mary's father in "The Mary Tyler Moore Show".
+In 1971, Bill Quinn was featured in the Universal Pictures movie "How to Frame a Figg" starring Don Knotts.
+Bill Quinn was also the father-in-law of Bob Newhart.
+Bill Quinn is the father of Bob Newhartwife, Virginia Quinn Newhart.
+Quinn died at the age of 81 in Camarillo, California of natural causes.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 0.0 -1 -1 -1 -1 
+
+Value for ground truth is : 
+-1 0.0 0.0 0.5 0.5 0.0 0.0 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate accurate 
+

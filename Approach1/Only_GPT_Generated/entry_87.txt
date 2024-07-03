@@ -1,0 +1,56 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Ole_Miss_Rebels_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ole_Miss_Rebels_football and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Ole_Miss_Rebels_football and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Ole_Miss_Rebels_football and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Michigan_Wolverines_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Michigan_Wolverines_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and http://dbpedia.org/resource/Michigan_Wolverines_men's_basketball and the value is : 0
+http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and http://dbpedia.org/resource/Michigan_Wolverines_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Conference_USA and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Conference_USA and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and http://dbpedia.org/resource/Texas and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+kermit davis born april 28 1959 is an american college basketball coach and the current head coach of the mississippi state bulldogs mens basketball team. he was previously the head coach of the middle tennessee blue raiders mens basketball team from 2002 to 2018. during his tenure at middle tennessee davis led the blue raiders to five ncaa tournament appearances including a firstround upset of michigan state in 2016. he was named conference usa coach of the year in 2013 and 2017. davis was also the head coach at idaho from 1998 to 2002 and at texas am from 1988 to 1990. 
+
+Coref Resolved : 
+kermit davis born april 28 1959 is an american college basketball coach and the current head coach of the mississippi state bulldogs mens basketball team. kermit davis born april 28 1959 was previously the head coach of the middle tennessee blue raiders mens basketball team from 2002 to 2018. during kermit davis born april 28 1959 tenure at the middle tennessee blue raiders mens basketball team kermit davis born april 28 1959 led the middle tennessee blue raiders mens basketball team to five ncaa tournament appearances including a firstround upset of michigan state in 2016. kermit davis born april 28 1959 was named conference usa coach of the year in 2013 and 2017. kermit davis born april 28 1959 was also the head coach at idaho from 1998 to 2002 and at texas am from 1988 to 1990.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.02564102564102564
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

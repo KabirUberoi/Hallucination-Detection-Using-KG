@@ -1,0 +1,117 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/October_5 and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Child_actor and the value is : 1
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Child_actor and the value is : 0
+http://dbpedia.org/resource/Larry_Mondello and http://dbpedia.org/resource/Television_show and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Serbian_language and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Dorothy_Gale and http://dbpedia.org/resource/Metalsmith and the value is : 0
+http://dbpedia.org/resource/Dark_Victory and http://dbpedia.org/resource/Alexander_Graham_Bell and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Phragmites and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/The_Many_Loves_of_Dobie_Gillis and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/The_Monkees and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/The_Many_Loves_of_Dobie_Gillis and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/The_Monkees and the value is : 1
+http://dbpedia.org/resource/The_Many_Loves_of_Dobie_Gillis and http://dbpedia.org/resource/The_Monkees and the value is : 0
+http://dbpedia.org/resource/Larry_Mondello and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Television_film and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Child_actor and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Larry_Mondello and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Cleaver and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Child_actor and http://dbpedia.org/resource/Larry_Mondello and the value is : 0
+http://dbpedia.org/resource/Child_actor and http://dbpedia.org/resource/Cleaver and the value is : 0
+http://dbpedia.org/resource/Child_actor and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Larry_Mondello and http://dbpedia.org/resource/Cleaver and the value is : 1
+http://dbpedia.org/resource/Larry_Mondello and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Cleaver and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Television_film and the value is : 1
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Television_film and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Children's_film and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Hollywood_Burbank_Airport and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Barbara_Billingsley and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/June_Cleaver and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Grief and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Children's_film and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Hollywood_Burbank_Airport and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Barbara_Billingsley and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/June_Cleaver and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Grief and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Children's_film and http://dbpedia.org/resource/Hollywood_Burbank_Airport and the value is : 0
+http://dbpedia.org/resource/Children's_film and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/Children's_film and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Children's_film and http://dbpedia.org/resource/Barbara_Billingsley and the value is : 0
+http://dbpedia.org/resource/Children's_film and http://dbpedia.org/resource/June_Cleaver and the value is : 0
+http://dbpedia.org/resource/Children's_film and http://dbpedia.org/resource/Grief and the value is : 1
+http://dbpedia.org/resource/Children's_film and http://dbpedia.org/resource/Television_show and the value is : 1
+http://dbpedia.org/resource/Hollywood_Burbank_Airport and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/Hollywood_Burbank_Airport and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Hollywood_Burbank_Airport and http://dbpedia.org/resource/Barbara_Billingsley and the value is : 0
+http://dbpedia.org/resource/Hollywood_Burbank_Airport and http://dbpedia.org/resource/June_Cleaver and the value is : 0
+http://dbpedia.org/resource/Hollywood_Burbank_Airport and http://dbpedia.org/resource/Grief and the value is : 0
+http://dbpedia.org/resource/Hollywood_Burbank_Airport and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Barbara_Billingsley and the value is : 1
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/June_Cleaver and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Grief and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Pennsylvania and http://dbpedia.org/resource/Barbara_Billingsley and the value is : 1
+http://dbpedia.org/resource/Pennsylvania and http://dbpedia.org/resource/June_Cleaver and the value is : 0
+http://dbpedia.org/resource/Pennsylvania and http://dbpedia.org/resource/Grief and the value is : 0
+http://dbpedia.org/resource/Pennsylvania and http://dbpedia.org/resource/Television_show and the value is : 1
+http://dbpedia.org/resource/Barbara_Billingsley and http://dbpedia.org/resource/June_Cleaver and the value is : 0
+http://dbpedia.org/resource/Barbara_Billingsley and http://dbpedia.org/resource/Grief and the value is : 0
+http://dbpedia.org/resource/Barbara_Billingsley and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/June_Cleaver and http://dbpedia.org/resource/Grief and the value is : 0
+http://dbpedia.org/resource/June_Cleaver and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Grief and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Television_film and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/NBC and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Drama and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/National_Velvet and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/NBC and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Drama and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/National_Velvet and the value is : 0
+http://dbpedia.org/resource/NBC and http://dbpedia.org/resource/Drama and the value is : 1
+http://dbpedia.org/resource/NBC and http://dbpedia.org/resource/National_Velvet and the value is : 0
+http://dbpedia.org/resource/Drama and http://dbpedia.org/resource/National_Velvet and the value is : 1
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Bullying and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Bullying and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Larry_Mondello and the value is : 0
+http://dbpedia.org/resource/Rusty_Stevens and http://dbpedia.org/resource/Cleaver and the value is : 1
+http://dbpedia.org/resource/Larry_Mondello and http://dbpedia.org/resource/Cleaver and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+rusty stevens born russell stevens jr. october 5 1932 october 24 2000 was an american actor. he is best known for his role as larry mondello on the television series leave it to beaver. stevens was born in los angeles california the son of russell stevens sr. and his wife the former dorothy m. smith. he began his acting career at the age of seven appearing in the 1939 film the story of alexander graham bell. he went on to appear in numerous films and television shows including the adventures of ozzie and harriet the donna reed show the many loves of dobie gillis and the monkees. in 1957 stevens was cast as larry mondello the beavers best friend on leave it to beaver. he appeared in all 234 episodes of the series which ran until 1963. after the show ended stevens continued to act in films and television appearing in such shows as the munsters the monkees and the brady bunch. he retired from acting in the late 1970s. 
+
+Coref Resolved : 
+rusty stevens born russell stevens jr. october 5 1932 october 24 2000 was an american actor. stevens is best known for stevens role as larry mondello on the television series leave it to beaver. stevens was born in los angeles california the son of russell stevens sr. and russell stevens sr. wife the former dorothy m. smith. stevens began stevens acting career at the age of seven appearing in the 1939 film the story of alexander graham bell. stevens went on to appear in numerous films and television shows including the adventures of ozzie and harriet the donna reed show the many loves of dobie gillis and the monkees. in 1957 stevens was cast as larry mondello on the television series leave it to beaver. stevens appeared in all 234 episodes of the series which ran until 1963. after the television series leave it to beaverended stevens continued to act in films and television appearing in such shows as the munsters the monkeesand the brady bunch. stevens retired from acting in the late 1970s.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+robert rusty stevens born november 25 1948 is an american former child actor best remembered for his role as larry mondello theodore beaver cleavers young friend in the original leave it to beaver television series. stevens appeared in 68 of the shows 235 episodes between 1957 and 1960. stevens was reported to have left the show in 1960 because his family moved from burbank to philadelphia pennsylvania although barbara billingsley who played june cleaver on the series said in a tv archive interview that stevens was dropped because his overbearing mother caused grief for the producers of the series. after 1960 stevens appeared in a handful of television episodes on other shows including the nbc family drama national velvet. he was also cast as a schoolboy bully on an episode of abcs the rifleman. stevens briefly returned to the screen when he reprised his role as larry mondello in the 1983 madefortelevision reunion movie still the beaver and for three episodes of the new leave it to beaver. 
+
+Coref Resolved : 
+robert rusty stevens born november 25 1948 is an american former child actor best remembered for robert rusty stevens born november 25 1948 role as larry mondello theodore beaver cleavers young friend in the original leave it to beaver television series. robert rusty stevens born november 25 1948 appeared in 68 of the original leave it to beaver television series235 episodes between 1957 and 1960. robert rusty stevens born november 25 1948 was reported to have left the original leave it to beaver television seriesin 1960because robert rusty stevens born november 25 1948 family moved from burbank to philadelphia pennsylvania although barbara billingsley who played june cleaver on the original leave it to beaver television seriessaid in a tv archive interview that robert rusty stevens born november 25 1948 was dropped because robert rusty stevens born november 25 1948 overbearing mother caused grief for the producers of the original leave it to beaver television series. after 1960robert rusty stevens born november 25 1948 appeared in a handful of television episodes on other shows including the nbc family drama national velvet. robert rusty stevens born november 25 1948 was also cast as a schoolboy bully on an episode of abcs the rifleman. robert rusty stevens born november 25 1948 briefly returned to the screen when robert rusty stevens born november 25 1948 reprised robert rusty stevens born november 25 1948 role as larry mondello theodore beaver cleavers young friend in the 1983 madefortelevision reunion movie still the beaver and for three episodes of the new leave it to beaver.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.23529411764705882 and for ground truth is : 0.1527777777777778
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate major_inaccurate major_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate 
+

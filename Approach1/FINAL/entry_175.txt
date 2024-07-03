@@ -1,0 +1,192 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Outlaw_motorcycle_club and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/San_Bernardino_Mountains and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Outlaw_motorcycle_club and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Outlaw_motorcycle_club and http://dbpedia.org/resource/San_Bernardino_Mountains and the value is : 0
+http://dbpedia.org/resource/Outlaw_motorcycle_club and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Motorcycle and http://dbpedia.org/resource/San_Bernardino_Mountains and the value is : 0
+http://dbpedia.org/resource/Motorcycle and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Bernardino_Mountains and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Illegal_drug_trade and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Extortion and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Murder and the value is : 0
+http://dbpedia.org/resource/Illegal_drug_trade and http://dbpedia.org/resource/Extortion and the value is : 0
+http://dbpedia.org/resource/Illegal_drug_trade and http://dbpedia.org/resource/Murder and the value is : 0
+http://dbpedia.org/resource/Extortion and http://dbpedia.org/resource/Murder and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/College_rivalry and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Hells_Angels and the value is : 0
+http://dbpedia.org/resource/College_rivalry and http://dbpedia.org/resource/Hells_Angels and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/San_Bernardino_Mountains and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Bernardino_Mountains and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Social_club and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Illegal_drug_trade and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Extortion and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Murder and the value is : 0
+http://dbpedia.org/resource/Social_club and http://dbpedia.org/resource/Illegal_drug_trade and the value is : 0
+http://dbpedia.org/resource/Social_club and http://dbpedia.org/resource/Extortion and the value is : 0
+http://dbpedia.org/resource/Social_club and http://dbpedia.org/resource/Murder and the value is : 0
+http://dbpedia.org/resource/Illegal_drug_trade and http://dbpedia.org/resource/Extortion and the value is : 0
+http://dbpedia.org/resource/Illegal_drug_trade and http://dbpedia.org/resource/Murder and the value is : 0
+http://dbpedia.org/resource/Extortion and http://dbpedia.org/resource/Murder and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/College_rivalry and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Hells_Angels and the value is : 1
+http://dbpedia.org/resource/College_rivalry and http://dbpedia.org/resource/Hells_Angels and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Hells_Angels and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Shootout and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Laughlin_Air_Force_Base and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Nevada and the value is : 0
+http://dbpedia.org/resource/Hells_Angels and http://dbpedia.org/resource/Motorcycle and the value is : 1
+http://dbpedia.org/resource/Hells_Angels and http://dbpedia.org/resource/Shootout and the value is : 0
+http://dbpedia.org/resource/Hells_Angels and http://dbpedia.org/resource/Laughlin_Air_Force_Base and the value is : 0
+http://dbpedia.org/resource/Hells_Angels and http://dbpedia.org/resource/Nevada and the value is : 0
+http://dbpedia.org/resource/Motorcycle and http://dbpedia.org/resource/Shootout and the value is : 1
+http://dbpedia.org/resource/Motorcycle and http://dbpedia.org/resource/Laughlin_Air_Force_Base and the value is : 0
+http://dbpedia.org/resource/Motorcycle and http://dbpedia.org/resource/Nevada and the value is : 0
+http://dbpedia.org/resource/Shootout and http://dbpedia.org/resource/Laughlin_Air_Force_Base and the value is : 0
+http://dbpedia.org/resource/Shootout and http://dbpedia.org/resource/Nevada and the value is : 0
+http://dbpedia.org/resource/Laughlin_Air_Force_Base and http://dbpedia.org/resource/Nevada and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Unincorporated_area and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/San_Bernardino_Mountains and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Motorcycle and http://dbpedia.org/resource/Unincorporated_area and the value is : 0
+http://dbpedia.org/resource/Motorcycle and http://dbpedia.org/resource/San_Bernardino_Mountains and the value is : 0
+http://dbpedia.org/resource/Motorcycle and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Unincorporated_area and http://dbpedia.org/resource/San_Bernardino_Mountains and the value is : 1
+http://dbpedia.org/resource/Unincorporated_area and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Bernardino_Mountains and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Psychos_(TV_series) and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Loki and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Norse_mythology and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Loki and http://dbpedia.org/resource/Norse_mythology and the value is : 0
+http://dbpedia.org/resource/Loki and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Loki and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Norse_mythology and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Norse_mythology and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Equestrianism and http://dbpedia.org/resource/Motorcycle and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Hawaii and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Nevada and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Oregon and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Utah and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Missouri and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Peterborough and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Baja_California and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Jalisco and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Mexico_City and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Hawaii and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Nevada and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Oregon and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Utah and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Missouri and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Peterborough and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Baja_California and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Jalisco and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Mexico_City and the value is : 0
+http://dbpedia.org/resource/Hawaii and http://dbpedia.org/resource/Nevada and the value is : 0
+http://dbpedia.org/resource/Hawaii and http://dbpedia.org/resource/Oregon and the value is : 0
+http://dbpedia.org/resource/Hawaii and http://dbpedia.org/resource/Utah and the value is : 1
+http://dbpedia.org/resource/Hawaii and http://dbpedia.org/resource/Missouri and the value is : 0
+http://dbpedia.org/resource/Hawaii and http://dbpedia.org/resource/Peterborough and the value is : 0
+http://dbpedia.org/resource/Hawaii and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Hawaii and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Hawaii and http://dbpedia.org/resource/Baja_California and the value is : 0
+http://dbpedia.org/resource/Hawaii and http://dbpedia.org/resource/Jalisco and the value is : 0
+http://dbpedia.org/resource/Hawaii and http://dbpedia.org/resource/Mexico_City and the value is : 1
+http://dbpedia.org/resource/Nevada and http://dbpedia.org/resource/Oregon and the value is : 1
+http://dbpedia.org/resource/Nevada and http://dbpedia.org/resource/Utah and the value is : 0
+http://dbpedia.org/resource/Nevada and http://dbpedia.org/resource/Missouri and the value is : 0
+http://dbpedia.org/resource/Nevada and http://dbpedia.org/resource/Peterborough and the value is : 0
+http://dbpedia.org/resource/Nevada and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Nevada and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Nevada and http://dbpedia.org/resource/Baja_California and the value is : 0
+http://dbpedia.org/resource/Nevada and http://dbpedia.org/resource/Jalisco and the value is : 0
+http://dbpedia.org/resource/Nevada and http://dbpedia.org/resource/Mexico_City and the value is : 0
+http://dbpedia.org/resource/Oregon and http://dbpedia.org/resource/Utah and the value is : 0
+http://dbpedia.org/resource/Oregon and http://dbpedia.org/resource/Missouri and the value is : 1
+http://dbpedia.org/resource/Oregon and http://dbpedia.org/resource/Peterborough and the value is : 0
+http://dbpedia.org/resource/Oregon and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Oregon and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Oregon and http://dbpedia.org/resource/Baja_California and the value is : 0
+http://dbpedia.org/resource/Oregon and http://dbpedia.org/resource/Jalisco and the value is : 0
+http://dbpedia.org/resource/Oregon and http://dbpedia.org/resource/Mexico_City and the value is : 1
+http://dbpedia.org/resource/Utah and http://dbpedia.org/resource/Missouri and the value is : 1
+http://dbpedia.org/resource/Utah and http://dbpedia.org/resource/Peterborough and the value is : 0
+http://dbpedia.org/resource/Utah and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Utah and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Utah and http://dbpedia.org/resource/Baja_California and the value is : 0
+http://dbpedia.org/resource/Utah and http://dbpedia.org/resource/Jalisco and the value is : 0
+http://dbpedia.org/resource/Utah and http://dbpedia.org/resource/Mexico_City and the value is : 1
+http://dbpedia.org/resource/Missouri and http://dbpedia.org/resource/Peterborough and the value is : 1
+http://dbpedia.org/resource/Missouri and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Missouri and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Missouri and http://dbpedia.org/resource/Baja_California and the value is : 0
+http://dbpedia.org/resource/Missouri and http://dbpedia.org/resource/Jalisco and the value is : 0
+http://dbpedia.org/resource/Missouri and http://dbpedia.org/resource/Mexico_City and the value is : 0
+http://dbpedia.org/resource/Peterborough and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Peterborough and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Peterborough and http://dbpedia.org/resource/Baja_California and the value is : 0
+http://dbpedia.org/resource/Peterborough and http://dbpedia.org/resource/Jalisco and the value is : 1
+http://dbpedia.org/resource/Peterborough and http://dbpedia.org/resource/Mexico_City and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Mexico and the value is : 1
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Baja_California and the value is : 1
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Jalisco and the value is : 1
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Mexico_City and the value is : 1
+http://dbpedia.org/resource/Mexico and http://dbpedia.org/resource/Baja_California and the value is : 0
+http://dbpedia.org/resource/Mexico and http://dbpedia.org/resource/Jalisco and the value is : 1
+http://dbpedia.org/resource/Mexico and http://dbpedia.org/resource/Mexico_City and the value is : 0
+http://dbpedia.org/resource/Baja_California and http://dbpedia.org/resource/Jalisco and the value is : 0
+http://dbpedia.org/resource/Baja_California and http://dbpedia.org/resource/Mexico_City and the value is : 0
+http://dbpedia.org/resource/Jalisco and http://dbpedia.org/resource/Mexico_City and the value is : 0
+http://dbpedia.org/resource/Inland_Empire and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Inland_Empire and http://dbpedia.org/resource/Vagos_Motorcycle_Club and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Vagos_Motorcycle_Club and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Pomona_Valley and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Detective and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Contract_killing and the value is : 0
+http://dbpedia.org/resource/Pomona_Valley and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Pomona_Valley and http://dbpedia.org/resource/Detective and the value is : 0
+http://dbpedia.org/resource/Pomona_Valley and http://dbpedia.org/resource/Contract_killing and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Detective and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Contract_killing and the value is : 0
+http://dbpedia.org/resource/Detective and http://dbpedia.org/resource/Contract_killing and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+vagos motorcycle club vagos is an outlaw motorcycle club that was formed in san bernardino california in 1965. the club is known for its involvement in criminal activities such as drug trafficking extortion and murder. the vagos have a presence in the united states mexico and canada and are estimated to have over 2000 members. the club is also known for its rivalry with the hells angels motorcycle club. the vagos motorcycle club was founded in 1965 by a group of mexicanamerican war veterans in san bernardino california. the club was originally formed as a social club for mexicanamerican bikers but soon began to engage in criminal activities such as drug trafficking extortion and murder. the vagos have a presence in the united states mexico and canada and are estimated to have over 2000 members. the club is also known for its rivalry with the hells angels motorcycle club. the vagos have been involved in numerous violent incidents with the hells angels including a shootout in laughlin nevada in 2002. 
+
+Coref Resolved : 
+vagos motorcycle club vagos is an outlaw motorcycle club that was formed in san bernardino california in 1965. vagos is known for vagos involvement in criminal activities such as drug trafficking extortion and murder. vagos have a presence in the united states mexico and canada and are estimated to have over 2000 members. vagos is also known for vagos rivalry with the hells angels motorcycle club. vagos was founded in 1965by a group of mexicanamerican war veterans in san bernardino california . vagos was originally formed as a social club for mexicanamerican bikers but soon began to engage in criminal activities such as drug trafficking extortion and murder. vagos have a presence in the united states mexico and canada and are estimated to have over 2000 members. vagos is also known for vagos rivalry with the hells angels motorcycle club. vagos have been involved in numerous violent incidents with the hells angels motorcycle clubincluding a shootout in laughlin nevada in 2002.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+the vagos motorcycle club also known as the green nation is a onepercenter motorcycle club formed in 1965 in the unincorporated community of san bernardino california. the club was originally called the psychos. their insignia is loki the norse god of mischief riding a motorcycle and members typically wear green. the vagos have approximately 4000 members among 47 chapters located in the states of arizona california hawaii nevada oregon utah missouri and several canadian chapters in peterborough ontario as well as chapters throughout europe and ten chapters located in mexico baja california jalisco and mexico city. two hundred members are in the inland empire california where the club was started in the late 1960s. in 2013 the vagos expanded to sweden and australia. in 2002 members of the vagos turned in the estranged wife of a pomona california police detective after she attempted to hire a hitman from the vagos to kill her husband. 
+
+Coref Resolved : 
+the vagos motorcycle club also known as the green nation is a onepercenter motorcycle club formed in 1965 in the unincorporated community of san bernardino california. the vagos motorcycle club also known as the green nation was originally called the psychos. the vagos motorcycle club also known as the green nation insignia is loki the norse god of mischief riding a motorcycle and members typically wear green. the vagos motorcycle club also known as the green nation have approximately 4000 members among 47 chapters located in the states of arizona california hawaii nevada oregon utah missouri and several canadian chapters in peterborough ontario as well as chapters throughout europe and ten chapters located in mexico baja california jalisco and mexico city. two hundred members are in the inland empire california where the vagos motorcycle club also known as the green nation was started in the late 1960s. in 2013 the vagos motorcycle club also known as the green nation expanded to sweden and australia. in 2002 members of the vagos motorcycle club also known as the green nation turned in the estranged wife of a pomona california police detective after the estranged wife of a pomona california police detective attempted to hire a hitman from the vagos motorcycle club also known as the green nation to kill the estranged wife of a pomona california police detective husband.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.15384615384615385 and for ground truth is : 0.2767857142857143
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate major_inaccurate accurate accurate minor_inaccurate 
+

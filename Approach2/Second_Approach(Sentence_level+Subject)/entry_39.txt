@@ -1,0 +1,96 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Deborah and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Joshua_21 and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Nigerians and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Shay_locomotive and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Yolo_County,_California and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Yolo_County,_California and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Right_Now_(Atomic_Kitten_album) and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Gimme_Love_(Alexia_song) and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Wizkid and the value is : 1
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Olamide and the value is : 1
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Runtown and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Deborah and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Shay_locomotive and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Seyi_Shay and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Shay_locomotive and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/English_language and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Sound_recording_and_reproduction and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Shay_locomotive and http://dbpedia.org/resource/Konami and the value is : 0
+http://dbpedia.org/resource/Shay_locomotive and http://dbpedia.org/resource/Video_game and the value is : 0
+http://dbpedia.org/resource/Shay_locomotive and http://dbpedia.org/resource/Melanie_C and the value is : 0
+http://dbpedia.org/resource/Shay_locomotive and http://dbpedia.org/resource/Beautiful_Intentions and the value is : 0
+http://dbpedia.org/resource/Shay_locomotive and http://dbpedia.org/resource/The_White_Liars and the value is : 0
+http://dbpedia.org/resource/Shay_locomotive and http://dbpedia.org/resource/Girl_group and the value is : 0
+http://dbpedia.org/resource/Girl_group and http://dbpedia.org/resource/Sound_recording_and_reproduction and the value is : 0
+http://dbpedia.org/resource/Girl_group and http://dbpedia.org/resource/Sony_Music and the value is : 0
+http://dbpedia.org/resource/Girl_group and http://dbpedia.org/resource/Mathew_Knowles and the value is : 0
+http://dbpedia.org/resource/Girl_group and http://dbpedia.org/resource/Mathew_Knowles and the value is : 0
+http://dbpedia.org/resource/Shay_locomotive and http://dbpedia.org/resource/Telephone_company and the value is : 0
+http://dbpedia.org/resource/Shay_locomotive and http://dbpedia.org/resource/Etisalat and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Seyi Shay (born Deborah Oluwaseyi Joshua 21 December 1985) is a Nigerian singer, songwriter, and actress.
+She started her career as a backup singer for various artists, and released her debut studio album, Seyi or Shay, in 2014.
+The album spawned the hit single "Irawo", which earned her two nominations at the 2015 Nigeria Entertainment Awards.
+She has since released several singles, including "Yolo Yolo", "Right Now", and "Gimme Love".
+She has collaborated with several artists, including Wizkid, Olamide, and Runtown.
+In 2017, she released her second studio album, Electric Package.
+The album featured the singles "Gimme Love" and "Weekend Vibes".
+
+
+Coref Resolved: 
+
+Seyi Shay (born Deborah Oluwaseyi Joshua 21 December 1985) is a Nigerian singer, songwriter, and actress.
+Seyi Shay started Seyi Shay career as a backup singer for various artists, and released Seyi Shay debut studio album, Seyi or Shay, in 2014.
+her debut studio album, Seyi or Shayspawned the hit single "Irawo", which earned Seyi Shay two nominations at the 2015 Nigeria Entertainment Awards.
+Seyi Shay has since released several singles, including "Yolo Yolo", "Right Now", and "Gimme Love".
+Seyi Shay has collaborated with several artists, including Wizkid, Olamide, and Runtown.
+In 2017, Seyi Shay released Seyi Shay second studio album, Electric Package.
+her second studio album, Electric Packagefeatured the singles "Gimme Love" and "Weekend Vibes".
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Deborah Oluwaseyi Joshua (born 21 December 1985), professionally known by her stage name Seyi Shay, (pronounced Shay-yee Shay), is a Nigerian-based English singer-songwriter, recording artist, performer, and record producer.
+She wrote and produced three songs for the soundtrack to Konami's video game (2005).
+She also wrote "You Will See", a song that was included on Melanie C's third studio album "Beautiful Intentions" (2005).
+Shay wrote "White Lies", a song from Chip's "Transition" album.
+In 2008, she became the lead singer for the now-defunct pop girl group From Above.
+The group signed a recording deal with Sony Columbia and was managed by Mathew Knowles' Music World Entertainment company.
+Shay is currently working on her debut studio project.
+She has released the singles "Irawo", "Ragga Ragga", and "Chairman" to support the upcoming album.
+In November 2013, she signed an endorsement deal with telecommunications service provider Etisalat.
+ 
+
+Coref Resolved: 
+
+Deborah Oluwaseyi Joshua (born 21 December 1985), professionally known by Shay stage name Seyi Shay, (pronounced Shay-yee Shay), is a Nigerian-based English singer-songwriter, recording artist, performer, and record producer.
+Shay wrote and produced three songs for the soundtrack to Konami's video game (2005).
+Shay also wrote "You Will See", a song that was included on Melanie C's third studio album "Beautiful Intentions" (2005).
+Shay wrote "White Lies", a song from Chip's "Transition" album.
+In 2008, Shay became the lead singer for the now-defunct pop girl group From Above.
+the now-defunct pop girl group From Abovesigned a recording deal with Sony Columbia and was managed by Mathew Knowles' Music World Entertainment company.
+Shay is currently working on Shay debut studio project.
+Shay has released the singles "Irawo", "Ragga Ragga", and "Chairman" to support her debut studio project.
+In November 2013, Shay signed an endorsement deal with telecommunications service provider Etisalat.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 -1 0.0 1.0 -1 -1 
+
+Value for ground truth is : 
+0.0 0.0 0.0 0.0 0.0 0.0 -1 -1 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate 
+

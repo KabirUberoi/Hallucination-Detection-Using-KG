@@ -1,0 +1,272 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Sufjan_Stevens and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Oldham and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Wine and the value is : 0
+http://dbpedia.org/resource/Sufjan_Stevens and http://dbpedia.org/resource/Oldham and the value is : 0
+http://dbpedia.org/resource/Sufjan_Stevens and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Sufjan_Stevens and http://dbpedia.org/resource/Wine and the value is : 0
+http://dbpedia.org/resource/Oldham and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Oldham and http://dbpedia.org/resource/Wine and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Wine and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Feature_film and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Cake and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Feature_film and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Cake and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Feature_film and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Cake and the value is : 1
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Cake and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/University_of_Louisville and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Kentucky and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/University_of_Louisville and http://dbpedia.org/resource/Kentucky and the value is : 0
+http://dbpedia.org/resource/University_of_Louisville and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/University_of_Louisville and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Kentucky and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Kentucky and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Learning and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Piano and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Guitar and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Learning and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Piano and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Guitar and the value is : 0
+http://dbpedia.org/resource/Learning and http://dbpedia.org/resource/Piano and the value is : 0
+http://dbpedia.org/resource/Learning and http://dbpedia.org/resource/Guitar and the value is : 0
+http://dbpedia.org/resource/Piano and http://dbpedia.org/resource/Guitar and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Brooklyn and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Rodeo and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Fireproofing and the value is : 0
+http://dbpedia.org/resource/Rodeo and http://dbpedia.org/resource/Fireproofing and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/University_of_Louisville and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Kentucky and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Southern_Indiana and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Heart_transplantation and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Undergraduate_education and the value is : 0
+http://dbpedia.org/resource/University_of_Louisville and http://dbpedia.org/resource/Kentucky and the value is : 0
+http://dbpedia.org/resource/University_of_Louisville and http://dbpedia.org/resource/Southern_Indiana and the value is : 0
+http://dbpedia.org/resource/University_of_Louisville and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/University_of_Louisville and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/University_of_Louisville and http://dbpedia.org/resource/Heart_transplantation and the value is : 0
+http://dbpedia.org/resource/University_of_Louisville and http://dbpedia.org/resource/Undergraduate_education and the value is : 0
+http://dbpedia.org/resource/Kentucky and http://dbpedia.org/resource/Southern_Indiana and the value is : 0
+http://dbpedia.org/resource/Kentucky and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Kentucky and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Kentucky and http://dbpedia.org/resource/Heart_transplantation and the value is : 0
+http://dbpedia.org/resource/Kentucky and http://dbpedia.org/resource/Undergraduate_education and the value is : 0
+http://dbpedia.org/resource/Southern_Indiana and http://dbpedia.org/resource/Brooklyn and the value is : 1
+http://dbpedia.org/resource/Southern_Indiana and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Southern_Indiana and http://dbpedia.org/resource/Heart_transplantation and the value is : 0
+http://dbpedia.org/resource/Southern_Indiana and http://dbpedia.org/resource/Undergraduate_education and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/Heart_transplantation and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/Undergraduate_education and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Heart_transplantation and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Undergraduate_education and the value is : 0
+http://dbpedia.org/resource/Heart_transplantation and http://dbpedia.org/resource/Undergraduate_education and the value is : 0
+http://dbpedia.org/resource/Musician and http://dbpedia.org/resource/Dawn_Landes and the value is : 1
+http://dbpedia.org/resource/Musician and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Musician and http://dbpedia.org/resource/Fireproofing and the value is : 0
+http://dbpedia.org/resource/Musician and http://dbpedia.org/resource/Rodeo and the value is : 0
+http://dbpedia.org/resource/Musician and http://dbpedia.org/resource/Bluebird and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Fireproofing and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Rodeo and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Bluebird and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Fireproofing and the value is : 1
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Rodeo and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Bluebird and the value is : 0
+http://dbpedia.org/resource/Fireproofing and http://dbpedia.org/resource/Rodeo and the value is : 0
+http://dbpedia.org/resource/Fireproofing and http://dbpedia.org/resource/Bluebird and the value is : 0
+http://dbpedia.org/resource/Rodeo and http://dbpedia.org/resource/Bluebird and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Ray_LaMontagne and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Feist_(dog) and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Andrew_Bird and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/José_González_(singer) and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Midlake and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Suzanne_Vega and the value is : 0
+http://dbpedia.org/resource/Ray_LaMontagne and http://dbpedia.org/resource/Feist_(dog) and the value is : 0
+http://dbpedia.org/resource/Ray_LaMontagne and http://dbpedia.org/resource/Andrew_Bird and the value is : 0
+http://dbpedia.org/resource/Ray_LaMontagne and http://dbpedia.org/resource/José_González_(singer) and the value is : 0
+http://dbpedia.org/resource/Ray_LaMontagne and http://dbpedia.org/resource/Midlake and the value is : 0
+http://dbpedia.org/resource/Ray_LaMontagne and http://dbpedia.org/resource/Suzanne_Vega and the value is : 0
+http://dbpedia.org/resource/Feist_(dog) and http://dbpedia.org/resource/Andrew_Bird and the value is : 0
+http://dbpedia.org/resource/Feist_(dog) and http://dbpedia.org/resource/José_González_(singer) and the value is : 0
+http://dbpedia.org/resource/Feist_(dog) and http://dbpedia.org/resource/Midlake and the value is : 0
+http://dbpedia.org/resource/Feist_(dog) and http://dbpedia.org/resource/Suzanne_Vega and the value is : 0
+http://dbpedia.org/resource/Andrew_Bird and http://dbpedia.org/resource/José_González_(singer) and the value is : 0
+http://dbpedia.org/resource/Andrew_Bird and http://dbpedia.org/resource/Midlake and the value is : 0
+http://dbpedia.org/resource/Andrew_Bird and http://dbpedia.org/resource/Suzanne_Vega and the value is : 0
+http://dbpedia.org/resource/José_González_(singer) and http://dbpedia.org/resource/Midlake and the value is : 0
+http://dbpedia.org/resource/José_González_(singer) and http://dbpedia.org/resource/Suzanne_Vega and the value is : 0
+http://dbpedia.org/resource/Midlake and http://dbpedia.org/resource/Suzanne_Vega and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Glockenspiel and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/American_folk_music and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Hem and the value is : 0
+http://dbpedia.org/resource/Glockenspiel and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Glockenspiel and http://dbpedia.org/resource/American_folk_music and the value is : 1
+http://dbpedia.org/resource/Glockenspiel and http://dbpedia.org/resource/Hem and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/American_folk_music and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Hem and the value is : 0
+http://dbpedia.org/resource/American_folk_music and http://dbpedia.org/resource/Hem and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Dawn_Landes and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Stratosphere_Sound and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Philip_Glass and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Recording_studio and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Dawn_Landes and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Stratosphere_Sound and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Philip_Glass and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Recording_studio and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Stratosphere_Sound and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Philip_Glass and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Recording_studio and the value is : 0
+http://dbpedia.org/resource/Stratosphere_Sound and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Stratosphere_Sound and http://dbpedia.org/resource/Philip_Glass and the value is : 1
+http://dbpedia.org/resource/Stratosphere_Sound and http://dbpedia.org/resource/Recording_studio and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Philip_Glass and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Recording_studio and the value is : 0
+http://dbpedia.org/resource/Philip_Glass and http://dbpedia.org/resource/Recording_studio and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Saltlands_Studio and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Saltlands_Studio and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Saltlands_Studio and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Justin_Townes_Earle and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Oldham and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Josh_Ritter and the value is : 0
+http://dbpedia.org/resource/Justin_Townes_Earle and http://dbpedia.org/resource/Oldham and the value is : 0
+http://dbpedia.org/resource/Justin_Townes_Earle and http://dbpedia.org/resource/Josh_Ritter and the value is : 0
+http://dbpedia.org/resource/Oldham and http://dbpedia.org/resource/Josh_Ritter and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Glossary_of_video_game_terms and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Gossip_Girl and the value is : 1
+http://dbpedia.org/resource/Glossary_of_video_game_terms and http://dbpedia.org/resource/Gossip_Girl and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Common_blackbird and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Familiar_Strangers and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Savage_Grace and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Julianne_Moore and the value is : 0
+http://dbpedia.org/resource/Common_blackbird and http://dbpedia.org/resource/Familiar_Strangers and the value is : 0
+http://dbpedia.org/resource/Common_blackbird and http://dbpedia.org/resource/Savage_Grace and the value is : 1
+http://dbpedia.org/resource/Common_blackbird and http://dbpedia.org/resource/Julianne_Moore and the value is : 0
+http://dbpedia.org/resource/Familiar_Strangers and http://dbpedia.org/resource/Savage_Grace and the value is : 0
+http://dbpedia.org/resource/Familiar_Strangers and http://dbpedia.org/resource/Julianne_Moore and the value is : 0
+http://dbpedia.org/resource/Savage_Grace and http://dbpedia.org/resource/Julianne_Moore and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Great_American_Songbook and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Boston_Pops_Orchestra and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Abraham_Lincoln and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Benjamin_Millepied and the value is : 1
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Ballad and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Nico and the value is : 0
+http://dbpedia.org/resource/Great_American_Songbook and http://dbpedia.org/resource/Boston_Pops_Orchestra and the value is : 0
+http://dbpedia.org/resource/Great_American_Songbook and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Great_American_Songbook and http://dbpedia.org/resource/Abraham_Lincoln and the value is : 0
+http://dbpedia.org/resource/Great_American_Songbook and http://dbpedia.org/resource/Benjamin_Millepied and the value is : 0
+http://dbpedia.org/resource/Great_American_Songbook and http://dbpedia.org/resource/Ballad and the value is : 0
+http://dbpedia.org/resource/Great_American_Songbook and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Great_American_Songbook and http://dbpedia.org/resource/Nico and the value is : 0
+http://dbpedia.org/resource/Boston_Pops_Orchestra and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Boston_Pops_Orchestra and http://dbpedia.org/resource/Abraham_Lincoln and the value is : 0
+http://dbpedia.org/resource/Boston_Pops_Orchestra and http://dbpedia.org/resource/Benjamin_Millepied and the value is : 0
+http://dbpedia.org/resource/Boston_Pops_Orchestra and http://dbpedia.org/resource/Ballad and the value is : 0
+http://dbpedia.org/resource/Boston_Pops_Orchestra and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Boston_Pops_Orchestra and http://dbpedia.org/resource/Nico and the value is : 0
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Abraham_Lincoln and the value is : 0
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Benjamin_Millepied and the value is : 0
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Ballad and the value is : 0
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Nico and the value is : 1
+http://dbpedia.org/resource/Abraham_Lincoln and http://dbpedia.org/resource/Benjamin_Millepied and the value is : 0
+http://dbpedia.org/resource/Abraham_Lincoln and http://dbpedia.org/resource/Ballad and the value is : 0
+http://dbpedia.org/resource/Abraham_Lincoln and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Abraham_Lincoln and http://dbpedia.org/resource/Nico and the value is : 0
+http://dbpedia.org/resource/Benjamin_Millepied and http://dbpedia.org/resource/Ballad and the value is : 0
+http://dbpedia.org/resource/Benjamin_Millepied and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Benjamin_Millepied and http://dbpedia.org/resource/Nico and the value is : 0
+http://dbpedia.org/resource/Ballad and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Ballad and http://dbpedia.org/resource/Nico and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Nico and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Polar_(musician) and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Yé-yé and the value is : 0
+http://dbpedia.org/resource/Polar_(musician) and http://dbpedia.org/resource/Yé-yé and the value is : 0
+http://dbpedia.org/resource/Polar_(musician) and http://dbpedia.org/resource/Singing and the value is : 0
+http://dbpedia.org/resource/Polar_(musician) and http://dbpedia.org/resource/Matthew_Caws and the value is : 0
+http://dbpedia.org/resource/Polar_(musician) and http://dbpedia.org/resource/Nada_Surf and the value is : 0
+http://dbpedia.org/resource/Polar_(musician) and http://dbpedia.org/resource/Tunde_Adebimpe and the value is : 0
+http://dbpedia.org/resource/Polar_(musician) and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Polar_(musician) and http://dbpedia.org/resource/E-book and the value is : 0
+http://dbpedia.org/resource/Polar_(musician) and http://dbpedia.org/resource/Danica_Novgorodoff and the value is : 0
+http://dbpedia.org/resource/Singing and http://dbpedia.org/resource/Matthew_Caws and the value is : 0
+http://dbpedia.org/resource/Singing and http://dbpedia.org/resource/Nada_Surf and the value is : 1
+http://dbpedia.org/resource/Singing and http://dbpedia.org/resource/Tunde_Adebimpe and the value is : 0
+http://dbpedia.org/resource/Singing and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Singing and http://dbpedia.org/resource/E-book and the value is : 0
+http://dbpedia.org/resource/Singing and http://dbpedia.org/resource/Danica_Novgorodoff and the value is : 0
+http://dbpedia.org/resource/Matthew_Caws and http://dbpedia.org/resource/Nada_Surf and the value is : 0
+http://dbpedia.org/resource/Matthew_Caws and http://dbpedia.org/resource/Tunde_Adebimpe and the value is : 0
+http://dbpedia.org/resource/Matthew_Caws and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Matthew_Caws and http://dbpedia.org/resource/E-book and the value is : 0
+http://dbpedia.org/resource/Matthew_Caws and http://dbpedia.org/resource/Danica_Novgorodoff and the value is : 0
+http://dbpedia.org/resource/Nada_Surf and http://dbpedia.org/resource/Tunde_Adebimpe and the value is : 0
+http://dbpedia.org/resource/Nada_Surf and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Nada_Surf and http://dbpedia.org/resource/E-book and the value is : 0
+http://dbpedia.org/resource/Nada_Surf and http://dbpedia.org/resource/Danica_Novgorodoff and the value is : 0
+http://dbpedia.org/resource/Tunde_Adebimpe and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Tunde_Adebimpe and http://dbpedia.org/resource/E-book and the value is : 0
+http://dbpedia.org/resource/Tunde_Adebimpe and http://dbpedia.org/resource/Danica_Novgorodoff and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/E-book and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Danica_Novgorodoff and the value is : 1
+http://dbpedia.org/resource/E-book and http://dbpedia.org/resource/Danica_Novgorodoff and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Bluebird and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Kerchief and the value is : 0
+http://dbpedia.org/resource/Dawn_Landes and http://dbpedia.org/resource/Josh_Ritter and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+dawn landes born august 8 1979 is an american singersongwriter multiinstrumentalist and producer. she has released five solo albums and has collaborated with a variety of artists including sufjan stevens will oldham and iron wine. she has also composed music for film and television including the score for the feature film the cake eaters. landes was born in louisville kentucky and grew up in new york city. she began playing music at an early age learning to play the piano and guitar. she attended the university of north carolina at chapel hill where she studied music and theater. after college she moved to brooklyn new york and began performing in clubs and bars. she released her debut album dawns music in 2004. since then she has released four more albums including sweetheart rodeo 2008 dawn landes the hounds 2010 fireproof 2012 and meet me at the river 2018. 
+
+Coref Resolved : 
+dawn landes born august 8 1979 is an american singersongwriter multiinstrumentalist and producer. dawn landes born august 8 1979 has released five solo albums and has collaborated with a variety of artists including sufjan stevens will oldham and iron wine. dawn landes born august 8 1979 has also composed music for film and television including the score for the feature film the cake eaters. dawn landes born august 8 1979 was born in louisville kentucky and grew up in new york city. dawn landes born august 8 1979 began playing music at an early age learning to play the piano and guitar. dawn landes born august 8 1979 attended the university of north carolina at chapel hill where dawn landes born august 8 1979 studied music and theater. after college dawn landes born august 8 1979 moved to brooklyn new york and began performing in clubs and bars. dawn landes born august 8 1979 released dawn landes born august 8 1979 debut album dawns music in 2004. since then dawn landes born august 8 1979 has released four more albums including sweetheart rodeo 2008 dawn landes the hounds 2010 fireproof 2012 and meet me at the river 2018.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+dawn landes born december 5 1980 is an american singersongwriter and musician. she is originally from around louisville kentucky having claimed on stage as having been born in southern indiana but has been for many years a brooklyn new york transplant having arrived as a new york university undergraduate student. as a recording artist she has released five fulllength albums dawns music 2005 two three four 2006 fireproof 2008 sweetheart rodeo 2010 and bluebird 2014 and two eps straight lines 2006 and mal habillée 2012. in support of her releases landes has toured extensively in the us europe and around the world often sharing the stage with artists such as ray lamontagne feist andrew bird josé gonzález the weakerthans midlake and suzanne vega. as an instrumentalist she plays the glockenspiel with the new york city american roots music band hem. a producer and engineer she has worked at stratosphere sound in new york city and at philip glass own personal recording studio. in 2009 landes helped found saltlands studio in brooklyn ny. she has collaborated with contemporaries like justin townes earle will oldham and josh ritter in the studio. her songs have been featured in popular films and tv shows including bored to death skins house gossip girl and united states of tara. she composed original scores for two feature films blackbird and familiar strangers and wrote the end credit song for savage grace starring julianne moore. landes has appeared with the american songbook series boston pops and in 2012 with the nyc ballet at the lincoln center for the new benjamin millepied ballet two hearts singing a ballad entitled the brown girl as part of composer nico muhlys score. in june 2012 she released mal habillée a collection of original french songs in the style of yeye. it features guest vocals by matthew caws nada surf and tunde adebimpe tv on the radio and an interactive ebook with illustrations by the artist danica novgorodoff to accompany the text. in february 2014 she released bluebird. landes is a member of allgirl trio the bandana splits. landes was married to musician josh ritter with whom she also toured. 
+
+Coref Resolved : 
+dawn landes born december 5 1980 is an american singersongwriter and musician. dawn landes is originally from around louisville kentucky having claimed on stage as having been born in southern indiana but has been for many years a brooklyn new york transplant having arrived as a new york university undergraduate student. as a recording artist dawn landes has released five fulllength albums dawns music 2005 two three four 2006 fireproof 2008 sweetheart rodeo 2010 and bluebird 2014 and two eps straight lines 2006 and mal habillée 2012. in support of dawn landes releases dawn landes has toured extensively in the us europe and around the world often sharing the stage with artists such as ray lamontagne feist andrew bird josé gonzález the weakerthans midlake and suzanne vega. as an instrumentalist dawn landes plays the glockenspiel with the new york american roots music band hem. a producer and engineer dawn landes has worked at stratosphere sound in new york and at philip glass own personal recording studio. in 2009 dawn landes helped found saltlands studio in brooklyn new york . dawn landes has collaborated with contemporaries like justin townes earle will oldham and josh ritter in the studio. dawn landes songs have been featured in popular films and tv shows including bored to death skins house gossip girl and united states of tara. dawn landes composed original scores for two feature films blackbird and familiar strangers and wrote the end credit song for savage grace starring julianne moore. dawn landes has appeared with the american songbook series boston pops and in 2012 with the nyc ballet at the lincoln center for the new benjamin millepied ballet two hearts singing a ballad entitled the brown girl as part of composer nico muhlys score. in june 2012 dawn landes released mal habillée a collection of original french songs in the style of yeye. mal habillée a collection of original french songs in the style of yeyefeatures guest vocals by matthew caws nada surf and tunde adebimpe tv on the radio and an interactive ebook with illustrations by the artist danica novgorodoff to accompany the text. in february 2014 dawn landes released bluebird. dawn landes is a member of allgirl trio the bandana splits. dawn landes was married to musician josh ritter with whom dawn landes also toured.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1111111111111111 and for ground truth is : 0.13157894736842105
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

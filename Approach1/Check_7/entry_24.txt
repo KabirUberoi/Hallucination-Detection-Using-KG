@@ -1,0 +1,78 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/The_Donnas and the value is : 1
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/The_Donnas and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/San_Francisco_Bay_Area and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/San_Francisco_Bay_Area and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Punk_rock and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Charity_supergroup and the value is : 1
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Punk_rock and the value is : 1
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Charity_supergroup and the value is : 0
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/Charity_supergroup and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Ellis_Paul_Torrance and http://dbpedia.org/resource/Torry_Castellano and the value is : 0
+http://dbpedia.org/resource/Ellis_Paul_Torrance and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Ellis_Paul_Torrance and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Ellis_Paul_Torrance and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Ellis_Paul_Torrance and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Laura_San_Giacomo and the value is : 0
+http://dbpedia.org/resource/Palo_Alto_station and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/Tendinopathy and the value is : 1
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Tendinopathy and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Drum_stick and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/December_27 and the value is : 0
+http://dbpedia.org/resource/The_Donnas and http://dbpedia.org/resource/Los_Angeles_Angels and the value is : 1
+http://dbpedia.org/resource/December_27 and http://dbpedia.org/resource/Los_Angeles_Angels and the value is : 0
+http://dbpedia.org/resource/July_9 and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Santa_Monica_Boulevard and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/Santa_Monica_Boulevard and http://dbpedia.org/resource/Political_science and the value is : 0
+http://dbpedia.org/resource/Stanford_University and http://dbpedia.org/resource/Political_science and the value is : 0
+http://dbpedia.org/resource/Stanford_University and http://dbpedia.org/resource/Harvard_Law_School and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+torry castellano born august 21 1979 american musician best known drummer punk rock band donnas . born los angeles california grew san francisco bay area . castellano began playing drums age 11 joined donnas 1993 14 . bands drummer . castellano involved musical projects including allfemale punk band frustrators punk rock supergroup coverups . session work bands including eyeliners dollyrots . 
+
+Coref Resolved : 
+torry castellano born august 21 1979 american musician best known drummer punk rock band donnas . born los angeles california grew san francisco bay area . torry castellano began playing drums age 11 joined punk rock band donnas 1993 14 . bands drummer . torry castellano involved musical projects including allfemale punk band frustrators punk rock supergroup coverups . session work bands including eyeliners dollyrots .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+torrance heather torry castellano born january 8 1979 san francisco california drummer donnas announcing retirement july 2010 . cousin actress laura san giacomo . early childhood moved palo alto california met bandmates . asked band allison robertson agreed experience . band rehearsed day garage . release donnas album gold medal castellano developed tendonitis . october 2003 surgery . recovery drum lessons relearn hold drumsticks correct way . gold medal recorded recovering wrists play short periods time . shoulder problem forced castellano withdraw donnas tour following december 27 2008 house blues anaheim . amy cesari band demonics filled future tour dates . july 9 2010 castellano announced bands website shoulder retire drumming performing donnas . castellano attended events band involved promoted album recorded band greatest hits volume 16 . attended santa monica college transferring stanford university class 2013 majored political science . castellano graduated stanford distinction attend harvard law school starting fall 2013 . 
+
+Coref Resolved : 
+torrance heather torry castellano born january 8 1979 san francisco california drummer donnas announcing retirement july 2010 . cousin actress laura san giacomo . early childhood moved palo alto california met bandmates . asked band allison robertson agreed experience . band rehearsed day garage . release donnas album gold medal castellano developed tendonitis . october 2003 surgery . recovery drum lessons relearn hold drumsticks correct way . gold medal recorded recovering wrists play short periods time . shoulder problem forced castellano withdraw donnas tour following december 27 2008 house blues anaheim . amy cesari band demonics filled future tour dates . july 9 2010 castellano announced bands website shoulder retire drumming performing donnas . castellano attended events band involved promoted album recorded band greatest hits volume 16 . attended santa monica college transferring stanford university class 2013 majored political science . castellano graduated stanford university distinction attend harvard law school starting fall 2013 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3333333333333333 and for ground truth is : 0.10344827586206896
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate minor_inaccurate major_inaccurate major_inaccurate 
+

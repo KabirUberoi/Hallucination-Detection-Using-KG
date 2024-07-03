@@ -1,0 +1,99 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/Massachusetts and the value is : 1
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/United_States_House_of_Representatives and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/Maine_Republican_Party and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/George_Cabot and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/Healthcare_reform_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/Civil_rights_movement and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Maine_Democratic_Party and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Missouri_Senate and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Missouri and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Lou_Reed and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Maine_Democratic_Party and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Civil_parish and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Mary_Magdalene and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Missouri and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Missouri_Senate and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/By-election and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Redistricting_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Missouri_Senate and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Term_limit and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Lou_Reed and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/Missouri_Senate and the value is : 0
+http://dbpedia.org/resource/Harry_Kennedy_(songwriter) and http://dbpedia.org/resource/General_officer and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Harry S. Kennedy (born May 29, 1925) is an American politician who served as a United States Senator from Massachusetts from 1962 to 2009.
+He was the second-longest-serving senator in American history, and the third-longest-serving member of Congress.
+Kennedy was a member of the Democratic Party and was the brother of President John F. Kennedy and Senator Robert F. Kennedy.
+Kennedy was first elected to the Senate in 1962, defeating Republican incumbent George Cabot Lodge, Jr.
+He was re-elected seven times, and served in the Senate for almost 47 years, the fourth-longest tenure in Senate history.
+Kennedy was the most senior member of the Senate when he retired in 2009.
+During his time in the Senate, Kennedy was known as a leader in health care reform and as a strong advocate for the rights of the disabled.
+He was also a strong supporter of the civil rights movement and was a key figure in the passage of the Immigration and Nationality Act of 1965.
+
+
+Coref Resolved: 
+
+Harry S. Kennedy (born May 29, 1925) is an American politician who served as a United States Senator from Massachusetts from 1962 to 2009.
+Harry S. Kennedy was the second-longest-serving senator in American history, and the third-longest-serving member of Congress.
+Harry S. Kennedy was a member of the Democratic Party and was the brother of President John F. Kennedy and Senator Robert F. Kennedy.
+Harry S. Kennedy was first elected to the Senate in 1962 , defeating Republican incumbent George Cabot Lodge, Jr.
+Harry S. Kennedy was re-elected seven times, and served in the Senate for almost 47 years, the fourth-longest tenure in the Senate history.
+Harry S. Kennedy was the most senior member of the Senate when Harry S. Kennedy retired in 2009.
+During Harry S. Kennedy time in the Senate , Harry S. Kennedy was known as a leader in health care reform and as a strong advocate for the rights of the disabled.
+Harry S. Kennedy was also a strong supporter of the civil rights movement and was a key figure in the passage of the Immigration and Nationality Act of 1965.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Harry Kennedy (born February 21, 1952) is an American Democratic politician who has been a member of the Missouri Senate and Missouri House of Representatives.
+He is currently a staffer for the St. Louis Board of Aldermen President Lewis Reed and a Democratic Committeeman for St. Louis' 14th Ward.
+He graduated from the University of Missouri-St. Louis in 1984 with a Bachelor of Arts degree in Speech Communication.
+He is a member of the Catholic parish of St. Mary Magdalene in St. Louis.
+Kennedy was a member of the Missouri House of Representatives from 1997 through 2001.
+He won election to the Missouri Senate from the Third District in a special election in 2001.
+He was re-elected from the First District in 2004, changing districts due to redistricting.
+Kennedy would have been forced out of the Senate in 2009 due to term limits, but resigned in October 2008 to take his current position with Lewis Reed's office.
+During his Senate tenure, he was a member of the following committees Aging, Families, and Mental Health Economic Development, Tourism, and Local Government Financial and Governmental Organizations and Elections Pensions, Veteran's Affairs, and General Laws.
+ 
+
+Coref Resolved: 
+
+Harry Kennedy (born February 21, 1952) is an American Democratic politician who has been a member of the Missouri Senate and Missouri House of Representatives.
+Harry Kennedy is currently a staffer for the St. Louis Board of Aldermen President Lewis Reed and a Democratic Committeeman for St. Louis' 14th Ward.
+Harry Kennedy graduated from the University of Missouri-St. Louis in 1984 with a Bachelor of Arts degree in Speech Communication.
+Harry Kennedy is a member of the Catholic parish of St. Mary Magdalene in St. Louis' .
+Harry Kennedy was a member of Missouri House of Representativesfrom 1997 through 2001.
+Harry Kennedy won election to Missouri Senate from the Third District in a special election in 2001.
+Harry Kennedy was re-elected from the First District in 2004, changing districts due to redistricting.
+Harry Kennedy would have been forced out of Missouri Senate in 2009 due to term limits, but resigned in October 2008 to take Harry Kennedy current position with the St. Louis Board of Aldermen President Lewis Reed office.
+During Harry Kennedy Missouri Senate tenure, Harry Kennedy was a member of the following committees Aging, Families, and Mental Health Economic Development, Tourism, and Local Government Financial and Governmental Organizations and Elections Pensions, Veteran's Affairs, and General Laws.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5 0.0 1.0 0.0 0.0 0.0 1.0 
+
+Value for ground truth is : 
+0.0 0.0 -1 0.0 0.0 0.0 0.0 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

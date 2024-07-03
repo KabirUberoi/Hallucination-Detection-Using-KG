@@ -1,0 +1,224 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Artistic_gymnastics and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Naperville_station and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Illinois_Fighting_Illini_football and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Naperville_station and http://dbpedia.org/resource/Illinois_Fighting_Illini_football and the value is : 0
+http://dbpedia.org/resource/Naperville_station and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Jaime_Brooks and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Aurora and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Illinois_Fighting_Illini_football and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Kristen_Maloney and the value is : 0
+http://dbpedia.org/resource/Jaime_Brooks and http://dbpedia.org/resource/Aurora and the value is : 0
+http://dbpedia.org/resource/Jaime_Brooks and http://dbpedia.org/resource/Illinois_Fighting_Illini_football and the value is : 0
+http://dbpedia.org/resource/Jaime_Brooks and http://dbpedia.org/resource/Kristen_Maloney and the value is : 0
+http://dbpedia.org/resource/Aurora and http://dbpedia.org/resource/Illinois_Fighting_Illini_football and the value is : 0
+http://dbpedia.org/resource/Aurora and http://dbpedia.org/resource/Kristen_Maloney and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Kristen_Maloney and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/United_States_women's_national_volleyball_team and the value is : 0
+http://dbpedia.org/resource/2012_United_States_Olympic_Trials_(swimming) and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 0
+http://dbpedia.org/resource/2012_United_States_Olympic_Trials_(swimming) and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/Uneven_bars and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Gold_medal and the value is : 1
+http://dbpedia.org/resource/Artistic_gymnastics and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Jaime_Brooks and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Florida_Gators and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Jaime_Brooks and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 0
+http://dbpedia.org/resource/Jaime_Brooks and http://dbpedia.org/resource/Florida_Gators and the value is : 0
+http://dbpedia.org/resource/Jaime_Brooks and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Florida_Gators and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Florida_Gators and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/Uneven_bars and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/National_sports_team and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Bridgette_Caquatto and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/National_sports_team and the value is : 0
+http://dbpedia.org/resource/Bridgette_Caquatto and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Bridgette_Caquatto and http://dbpedia.org/resource/National_sports_team and the value is : 1
+http://dbpedia.org/resource/Artistic_gymnastics and http://dbpedia.org/resource/National_sports_team and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Artistic_gymnastics and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and the value is : 0
+http://dbpedia.org/resource/Artistic_gymnastics and http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/National_sports_team and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/National_sports_team and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Anterior_cruciate_ligament and the value is : 1
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and the value is : 0
+http://dbpedia.org/resource/Anterior_cruciate_ligament and http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/National_sports_team and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Toyota and the value is : 1
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Toyota,_Aichi and the value is : 0
+http://dbpedia.org/resource/Toyota and http://dbpedia.org/resource/Toyota,_Aichi and the value is : 0
+http://dbpedia.org/resource/Toyota and http://dbpedia.org/resource/Toyota,_Aichi and the value is : 0
+http://dbpedia.org/resource/Toyota and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/Toyota and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/Toyota and http://dbpedia.org/resource/Floor_(gymnastics) and the value is : 0
+http://dbpedia.org/resource/Toyota and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Toyota and http://dbpedia.org/resource/Kōko_Tsurumi and the value is : 0
+http://dbpedia.org/resource/Toyota,_Aichi and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/Toyota,_Aichi and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/Toyota,_Aichi and http://dbpedia.org/resource/Floor_(gymnastics) and the value is : 0
+http://dbpedia.org/resource/Toyota,_Aichi and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Toyota,_Aichi and http://dbpedia.org/resource/Kōko_Tsurumi and the value is : 0
+http://dbpedia.org/resource/Uneven_bars and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/Uneven_bars and http://dbpedia.org/resource/Floor_(gymnastics) and the value is : 0
+http://dbpedia.org/resource/Uneven_bars and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Uneven_bars and http://dbpedia.org/resource/Kōko_Tsurumi and the value is : 0
+http://dbpedia.org/resource/Balance_beam and http://dbpedia.org/resource/Floor_(gymnastics) and the value is : 0
+http://dbpedia.org/resource/Balance_beam and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Balance_beam and http://dbpedia.org/resource/Kōko_Tsurumi and the value is : 0
+http://dbpedia.org/resource/Floor_(gymnastics) and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Floor_(gymnastics) and http://dbpedia.org/resource/Kōko_Tsurumi and the value is : 0
+http://dbpedia.org/resource/Silver_medal and http://dbpedia.org/resource/Kōko_Tsurumi and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/2010_NFL_season and the value is : 1
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Cities_of_Japan and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Jesolo and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/2010_NFL_season and http://dbpedia.org/resource/Cities_of_Japan and the value is : 0
+http://dbpedia.org/resource/2010_NFL_season and http://dbpedia.org/resource/Jesolo and the value is : 0
+http://dbpedia.org/resource/2010_NFL_season and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/Cities_of_Japan and http://dbpedia.org/resource/Jesolo and the value is : 1
+http://dbpedia.org/resource/Cities_of_Japan and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/Jesolo and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/U.S._Classic and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Bank_vault and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/U.S._Classic and http://dbpedia.org/resource/Bank_vault and the value is : 1
+http://dbpedia.org/resource/U.S._Classic and http://dbpedia.org/resource/Uneven_bars and the value is : 1
+http://dbpedia.org/resource/U.S._Classic and http://dbpedia.org/resource/Balance_beam and the value is : 1
+http://dbpedia.org/resource/Bank_vault and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/Bank_vault and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/Uneven_bars and http://dbpedia.org/resource/Balance_beam and the value is : 1
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Uneven_bars and the value is : 1
+http://dbpedia.org/resource/UEFA_Euro_2012_qualifying and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 1
+http://dbpedia.org/resource/UEFA_Euro_2012_qualifying and http://dbpedia.org/resource/Aly_Raisman and the value is : 0
+http://dbpedia.org/resource/UEFA_Euro_2012_qualifying and http://dbpedia.org/resource/Rebecca_Bross and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Aly_Raisman and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Rebecca_Bross and the value is : 0
+http://dbpedia.org/resource/Aly_Raisman and http://dbpedia.org/resource/Rebecca_Bross and the value is : 1
+http://dbpedia.org/resource/Uneven_bars and http://dbpedia.org/resource/Bank_vault and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Bank_vault and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Russia and the value is : 0
+http://dbpedia.org/resource/Uneven_bars and http://dbpedia.org/resource/Bank_vault and the value is : 0
+http://dbpedia.org/resource/Uneven_bars and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Uneven_bars and http://dbpedia.org/resource/Russia and the value is : 0
+http://dbpedia.org/resource/Bank_vault and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Bank_vault and http://dbpedia.org/resource/Russia and the value is : 1
+http://dbpedia.org/resource/Silver_medal and http://dbpedia.org/resource/Russia and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Florida_Gators and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/NCAA_Women's_Gymnastics_Championships and the value is : 1
+http://dbpedia.org/resource/Florida_Gators and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Florida_Gators and http://dbpedia.org/resource/NCAA_Women's_Gymnastics_Championships and the value is : 0
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/NCAA_Women's_Gymnastics_Championships and the value is : 1
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 0
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/Train and the value is : 0
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/Jaime_Brooks and the value is : 0
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/2011_NFL_season and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Train and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Jaime_Brooks and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/2011_NFL_season and the value is : 0
+http://dbpedia.org/resource/Train and http://dbpedia.org/resource/Jaime_Brooks and the value is : 1
+http://dbpedia.org/resource/Train and http://dbpedia.org/resource/2011_NFL_season and the value is : 0
+http://dbpedia.org/resource/Jaime_Brooks and http://dbpedia.org/resource/2011_NFL_season and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/U.S._Classic and the value is : 1
+http://dbpedia.org/resource/Balance_beam and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/Travel_visa and http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and the value is : 0
+http://dbpedia.org/resource/Travel_visa and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 0
+http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 0
+http://dbpedia.org/resource/Travel_visa and http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and the value is : 1
+http://dbpedia.org/resource/Travel_visa and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 0
+http://dbpedia.org/resource/Travel_visa and http://dbpedia.org/resource/Bank_vault and the value is : 0
+http://dbpedia.org/resource/Travel_visa and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 0
+http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and http://dbpedia.org/resource/Bank_vault and the value is : 0
+http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Bank_vault and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/Bank_vault and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/Floor_(gymnastics) and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 0
+http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and http://dbpedia.org/resource/Rebecca_Bross and the value is : 0
+http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and http://dbpedia.org/resource/Chellsie_Memmel and the value is : 0
+http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 0
+http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and http://dbpedia.org/resource/Travel_visa and the value is : 0
+http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and http://dbpedia.org/resource/Aly_Raisman and the value is : 0
+http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and http://dbpedia.org/resource/McKayla_Maroney and the value is : 1
+http://dbpedia.org/resource/USA_Outdoor_Track_and_Field_Championships and http://dbpedia.org/resource/Jordyn_Wieber and the value is : 1
+http://dbpedia.org/resource/Rebecca_Bross and http://dbpedia.org/resource/Chellsie_Memmel and the value is : 1
+http://dbpedia.org/resource/Rebecca_Bross and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 1
+http://dbpedia.org/resource/Rebecca_Bross and http://dbpedia.org/resource/Travel_visa and the value is : 1
+http://dbpedia.org/resource/Rebecca_Bross and http://dbpedia.org/resource/Aly_Raisman and the value is : 0
+http://dbpedia.org/resource/Rebecca_Bross and http://dbpedia.org/resource/McKayla_Maroney and the value is : 0
+http://dbpedia.org/resource/Rebecca_Bross and http://dbpedia.org/resource/Jordyn_Wieber and the value is : 0
+http://dbpedia.org/resource/Chellsie_Memmel and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 1
+http://dbpedia.org/resource/Chellsie_Memmel and http://dbpedia.org/resource/Travel_visa and the value is : 0
+http://dbpedia.org/resource/Chellsie_Memmel and http://dbpedia.org/resource/Aly_Raisman and the value is : 0
+http://dbpedia.org/resource/Chellsie_Memmel and http://dbpedia.org/resource/McKayla_Maroney and the value is : 0
+http://dbpedia.org/resource/Chellsie_Memmel and http://dbpedia.org/resource/Jordyn_Wieber and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Travel_visa and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Aly_Raisman and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/McKayla_Maroney and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Jordyn_Wieber and the value is : 1
+http://dbpedia.org/resource/Travel_visa and http://dbpedia.org/resource/Aly_Raisman and the value is : 1
+http://dbpedia.org/resource/Travel_visa and http://dbpedia.org/resource/McKayla_Maroney and the value is : 1
+http://dbpedia.org/resource/Travel_visa and http://dbpedia.org/resource/Jordyn_Wieber and the value is : 0
+http://dbpedia.org/resource/Aly_Raisman and http://dbpedia.org/resource/McKayla_Maroney and the value is : 0
+http://dbpedia.org/resource/Aly_Raisman and http://dbpedia.org/resource/Jordyn_Wieber and the value is : 1
+http://dbpedia.org/resource/McKayla_Maroney and http://dbpedia.org/resource/Jordyn_Wieber and the value is : 1
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/National_sports_team and the value is : 1
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Tokyo and the value is : 1
+http://dbpedia.org/resource/Balance_beam and http://dbpedia.org/resource/Tokyo and the value is : 0
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/Mackenzie_Caquatto and the value is : 1
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/Uneven_bars and the value is : 1
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/Balance_beam and the value is : 1
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Uneven_bars and the value is : 0
+http://dbpedia.org/resource/Mackenzie_Caquatto and http://dbpedia.org/resource/Balance_beam and the value is : 0
+http://dbpedia.org/resource/Uneven_bars and http://dbpedia.org/resource/Balance_beam and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+mackenzie caquatto born august 20 1994 is an american former artistic gymnast. she was a member of the u.s. womens gymnastics team and competed at the 2012 summer olympics in london. caquatto was born in naperville illinois and began gymnastics at the age of three. she trained at legacy elite gymnastics in aurora illinois under coaches mike and kristen maloney. she was a member of the u.s. national team from 2009 to 2012. at the 2012 u.s. olympic trials caquatto placed fourth in the allaround and qualified to the olympic team. at the 2012 summer olympics she competed on the uneven bars and balance beam. she helped the u.s. team win the gold medal in the team competition. after the olympics caquatto retired from elite gymnastics and enrolled at the university of florida where she competed for the gators gymnastics team. she was a fourtime allamerican and won the ncaa uneven bars title in 2016. she graduated from the university of florida in 2017 with 
+
+Coref Resolved : 
+mackenzie caquatto born august 20 1994 is an american former artistic gymnast. mackenzie caquatto born august 20 1994 was a member of the u.s. womens gymnastics team and competed at the 2012 summer olympics in london. mackenzie caquatto born august 20 1994 was born in naperville illinois and began gymnastics at the age of three. mackenzie caquatto born august 20 1994 trained at legacy elite gymnastics in aurora illinois under coaches mike and kristen maloney. mackenzie caquatto born august 20 1994 was a member of the u.s. national team from 2009 to 2012. at the 2012 u.s. olympic trials mackenzie caquatto born august 20 1994 placed fourth in the allaround and qualified to the u.s. womens gymnastics team . at the 2012 summer olympics in londonmackenzie caquatto born august 20 1994 competed on the uneven bars and balance beam. mackenzie caquatto born august 20 1994 helped the u.s. womens gymnastics team win the gold medal in the team competition. after the 2012 summer olympics in londonmackenzie caquatto born august 20 1994 retired from elite gymnastics and enrolled at the university of florida where mackenzie caquatto born august 20 1994 competed for the gators gymnastics team. mackenzie caquatto born august 20 1994 was a fourtime allamerican and won the ncaa uneven bars title in 2016. mackenzie caquatto born august 20 1994 graduated from the university of florida in 2017 with
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+mackenzie caquatto born march 26 1992 is an american artistic gymnast. she was formerly on the us national team. her younger sister bridgette caquatto was also an elite gymnast on the senior us national team. she first qualified as an elite gymnast in 2007 and competed at the 2007 us national championships where she finished 17th. mackenzie competed as a senior for the first time at the 2008 us national championships and placed 10th overall. she was selected to be a member of her first national team and qualified for the 2008 us olympic team trials but competed only on the first day of competition placing 12th in the allaround on that day. in 2009 caquatto competed at her first international meets as a member of the national team. caquatto suffered a knee injury shortly after but managed to place 5th at the 2009 us national championships. she was then invited to the world championships selection camp and was named as the first alternate for the team. in addition to her status as an alternate she was sent to the toyota international in toyota city japan. at this competition she competed on the uneven bars balance beam and floor exercise winning the silver medal on the uneven bars with a score of 14.675 only behind world silver medalist on the event koko tsurumi of japan. caquatto started her 2010 season by competing at the city of jesolo trophy where she had the highest beam score but made mistakes on the floor which kept her from medaling in the allaround. caquatto competed at the 2010 covergirl classic and placed 3rd in the allaround scoring the second highest on vault and the uneven bars but falling from the balance beam. she had qualified to compete at the 2010 us national championships. at the 2010 us national championships mackenzie placed 5th in the allaround. she fell on a simple change grip skill on the uneven bars her best event placing 4th. after the us nationals mackenzie was selected to attend a selection camp for the 2010 world championships. from there she advanced to the second camp where she won the allaround competition. she was eventually selected to compete. at the world championships mackenzie competed in the allaround in the qualifying round. after hitting all her routines without major error she placed 9th individually and 3rd with the team. although the top 24 qualifiers advance to the individual allaround final she was left out because fellow american athletes aly raisman and rebecca bross had qualified ahead of her and only two athletes from each country can qualify to a final. after the qualifying round mackenzie was selected to compete on the uneven bars and the vault during the team finals. she contributed a 14.666 on the bars and a 15.000 on the vault to help the team win the silver medal behind russia and ahead of china. she competed as a florida gator at the ncaa level for the 20102011 season where she became injured but still competed in the allaround for her team at the ncaa championships. after finishing the ncaa season mackenzie decided to train for a comeback to elite gymnastics for the 2011 season. mackenzie began her 2011 elite season by competing at the covergirl classic. at the classic she competed a slightly watered down balance beam routine and a solid uneven bars routine scoring 14.100 and 14.750 respectively. at the 2011 us visa national championships mackenzie surprised many by competing in the allaround. on day 1 of the competition mackenzie was in second place after the two rotations after scoring a 14.700 and 15.000 on vault and uneven bars respectively. unfortunately she counted her first fall on the balance beam. after having a solid floor exercise she finished her night in sixth place with an allaround score of 56.000. on the final day of competition mackenzie competed solidly on all her events. taking advantage of injuries to defending national champion rebecca bross and chellsie memmel mackenzie went on to finish the championships in fourth place behind aly raisman mckayla maroney and champion jordyn wieber. she also took second place on the uneven bars just behind wieber by 0.050. mackenzie was given a spot on her fourth national team and was invited to compete at the first world team selection camp. she was considered to be a likely pick for the world team but injured her ankles when dismounting the beam at the selection camp and therefore lost her chance of going to tokyo. after sitting out the beginning of the ncaa season she competed on the uneven bars in early 2012 and is expected to reintroduce her beam routine soon. 
+
+Coref Resolved : 
+mackenzie caquatto born march 26 1992 is an american artistic gymnast. mackenzie caquatto born march 26 1992 was formerly on the us national team. mackenzie caquatto born march 26 1992 younger sister bridgette caquatto was also an elite gymnast on the senior us national team. mackenzie caquatto born march 26 1992 first qualified as an elite gymnast in 2007 and competed at the 2007 us national championships where mackenzie caquatto born march 26 1992 finished 17th. mackenzie caquatto born march 26 1992 competed as a senior for the first time at the 2008 us national championships and placed 10th overall. mackenzie caquatto born march 26 1992 was selected to be a member of mackenzie caquatto born march 26 1992 first national team and qualified for the 2008 us olympic team trials but competed only on the first day of competition placing 12th in the allaround on the first day of competition . in 2009 mackenzie caquatto born march 26 1992 competed at mackenzie caquatto born march 26 1992 first international meets as a member of the us national team. mackenzie caquatto born march 26 1992 suffered a knee injury shortly after but managed to place 5th at the 2009 us national championships. mackenzie caquatto born march 26 1992 was then invited to the world championships selection camp and was named as the first alternate for the us national team. in addition to mackenzie caquatto born march 26 1992 status as an alternate mackenzie caquatto born march 26 1992 was sent to the toyota international in toyota city japan. at the toyota international in toyota city japanmackenzie caquatto born march 26 1992 competed on the uneven bars balance beam and floor exercise winning the silver medal on the uneven bars with a score of 14.675 only behind world silver medalist on the event koko tsurumi of japan. mackenzie caquatto born march 26 1992 started mackenzie caquatto born march 26 1992 2010 season by competing at the city of jesolo trophy where mackenzie caquatto born march 26 1992 had the highest beam score but made mistakes on the floor which kept mackenzie caquatto born march 26 1992 from medaling in the allaround. mackenzie caquatto born march 26 1992 competed at the 2010 covergirl classic and placed 3rd in the allaround scoring the second highest on vault and the uneven bars but falling from the balance beam. mackenzie caquatto born march 26 1992 had qualified to compete at the 2010 us national championships. at the 2010 us national championshipsmackenzie caquatto born march 26 1992 placed 5th in the allaround. mackenzie caquatto born march 26 1992 fell on a simple change grip skill on the uneven bars mackenzie caquatto born march 26 1992 best event placing 4th. after the 2010 us national championshipsmackenzie caquatto born march 26 1992 was selected to attend a selection camp for the 2010 world championships. from there mackenzie caquatto born march 26 1992 advanced to the second camp where mackenzie caquatto born march 26 1992 won the allaround competition. mackenzie caquatto born march 26 1992 was eventually selected to compete. at the 2010 world championshipsmackenzie caquatto born march 26 1992 competed in the allaround in the qualifying round. after hitting all mackenzie caquatto born march 26 1992 routines without major error mackenzie caquatto born march 26 1992 placed 9th individually and 3rd with the team. although the top 24 qualifiers advance to the individual allaround final mackenzie caquatto born march 26 1992 was left out because fellow american athletes aly raisman and rebecca bross had qualified ahead of mackenzie caquatto born march 26 1992 and only two athletes from each country can qualify to a final. after the qualifying roundmackenzie caquatto born march 26 1992 was selected to compete on the uneven bars and the vault during the team finals. mackenzie caquatto born march 26 1992 contributed a 14.666 on the uneven bars and a 15.000 on the vault to help the teamwin the silver medal behind russia and ahead of china. mackenzie caquatto born march 26 1992 competed as a florida gator at the ncaa level for the 20102011 season where mackenzie caquatto born march 26 1992 became injured but still competed in the allaround for mackenzie caquatto born march 26 1992 team at the ncaa championships. after finishing the ncaa season mackenzie caquatto born march 26 1992 decided to train for a comeback to elite gymnastics for the 2011 season. mackenzie caquatto born march 26 1992 began mackenzie caquatto born march 26 1992 2011 elite season by competing at the covergirl classic. at the covergirl classicmackenzie caquatto born march 26 1992 competed a slightly watered down balance beam routine and a solid uneven bars routine scoring 14.100 and 14.750 respectively. at the 2011 us visa national championships mackenzie caquatto born march 26 1992 surprised many by competing in the allaround. on day 1 of the 2011 us visa national championships mackenzie caquatto born march 26 1992 was in second place after the two rotations after scoring a 14.700 and 15.000 on vault and uneven bars respectively. unfortunately mackenzie caquatto born march 26 1992 counted mackenzie caquatto born march 26 1992 first fall on the balance beam. after having a solid floor exercise mackenzie caquatto born march 26 1992 finished mackenzie caquatto born march 26 1992 night in sixth place with an allaround score of 56.000. on the final day of competition mackenzie caquatto born march 26 1992 competed solidly on all mackenzie caquatto born march 26 1992 events. taking advantage of injuries to defending national champion rebecca bross and chellsie memmel mackenzie caquatto born march 26 1992 went on to finish the 2011 us visa national championships in fourth place behind aly raisman mckayla maroney and champion jordyn wieber. mackenzie caquatto born march 26 1992 also took second place on the uneven bars just behind champion jordyn wieberby 0.050. mackenzie caquatto born march 26 1992 was given a spot on mackenzie caquatto born march 26 1992 fourth national team and was invited to compete at the first world team selection camp. mackenzie caquatto born march 26 1992 was considered to be a likely pick for world team but injured mackenzie caquatto born march 26 1992 ankles when dismounting the beam at the first world team selection campand therefore lost mackenzie caquatto born march 26 1992 chance of going to tokyo. after sitting out the beginning of the ncaa season mackenzie caquatto born march 26 1992 competed on the uneven bars in early 2012 and is expected to reintroduce mackenzie caquatto born march 26 1992 beam routine soon.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.046511627906976744 and for ground truth is : 0.22875816993464052
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

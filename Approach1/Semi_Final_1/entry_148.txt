@@ -1,0 +1,98 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Mummy and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Mummy and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Swedish_Royal_Academies and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Swedish_Royal_Academies and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Holby_City and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Holby_City and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Holby_City and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Mummy and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Mummy and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/House_of_Tudor and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Emma_Frost and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/House_of_Tudor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Emma_Frost and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/House_of_Tudor and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Emma_Frost and the value is : 0
+http://dbpedia.org/resource/House_of_Tudor and http://dbpedia.org/resource/Emma_Frost and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Television_director and the value is : 1
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Neil_Morrissey and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/1999_Korean_League_Cup_(Supplementary_Cup) and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Neil_Morrissey and http://dbpedia.org/resource/1999_Korean_League_Cup_(Supplementary_Cup) and the value is : 0
+http://dbpedia.org/resource/Neil_Morrissey and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/1999_Korean_League_Cup_(Supplementary_Cup) and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Timeless_(gene) and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Peggs,_Oklahoma and the value is : 1
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Comedy and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Edgar_Award and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Timeless_(gene) and http://dbpedia.org/resource/Peggs,_Oklahoma and the value is : 0
+http://dbpedia.org/resource/Timeless_(gene) and http://dbpedia.org/resource/Comedy and the value is : 1
+http://dbpedia.org/resource/Timeless_(gene) and http://dbpedia.org/resource/Edgar_Award and the value is : 0
+http://dbpedia.org/resource/Timeless_(gene) and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Peggs,_Oklahoma and http://dbpedia.org/resource/Comedy and the value is : 0
+http://dbpedia.org/resource/Peggs,_Oklahoma and http://dbpedia.org/resource/Edgar_Award and the value is : 0
+http://dbpedia.org/resource/Peggs,_Oklahoma and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Comedy and http://dbpedia.org/resource/Edgar_Award and the value is : 0
+http://dbpedia.org/resource/Comedy and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Edgar_Award and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Glen and the value is : 0
+http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom and http://dbpedia.org/resource/Glen and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Short_film and the value is : 1
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Oldham and the value is : 0
+http://dbpedia.org/resource/Independent_film and http://dbpedia.org/resource/Oldham and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Historicity_of_Jesus and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Oldham and the value is : 0
+http://dbpedia.org/resource/Historicity_of_Jesus and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Historicity_of_Jesus and http://dbpedia.org/resource/Oldham and the value is : 0
+http://dbpedia.org/resource/Independent_film and http://dbpedia.org/resource/Oldham and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/EastEnders and the value is : 1
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Mitchell_family and the value is : 0
+http://dbpedia.org/resource/EastEnders and http://dbpedia.org/resource/Mitchell_family and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+lucy akhurst born 28 april 1971 is an english actress. she is best known for her roles in the films the mummy returns 2001 the libertine 2004 and the descent 2005. akhurst was born in london england. she attended the royal academy of dramatic art graduating in 1993. she has appeared in numerous television series including the bill casualty and holby city. she has also appeared in the films the mummy returns 2001 the libertine 2004 and the descent 2005. akhurst has also appeared in the stage productions of the seagull the cherry orchard and the taming of the shrew. she has also appeared in the television series the tudors the shadow line and the white queen. 
+
+Coref Resolved : 
+lucy akhurst born 28 april 1971 is an english actress. lucy akhurst born 28 april 1971 is best known for lucy akhurst born 28 april 1971 roles in the films the mummy returns 2001 the libertine 2004 and the descent 2005. lucy akhurst born 28 april 1971 was born in london england. lucy akhurst born 28 april 1971 attended the royal academy of dramatic art graduating in 1993. lucy akhurst born 28 april 1971 has appeared in numerous television series including the bill casualty and holby city. lucy akhurst born 28 april 1971 has also appeared in the films the mummy returns 2001 the libertine 2004 and the descent 2005. lucy akhurst born 28 april 1971 has also appeared in the stage productions of the seagull the cherry orchard and the taming of the shrew. lucy akhurst born 28 april 1971 has also appeared in the television series the tudors the shadow line and the white queen.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+lucy akhurst b. 18 november 1975 in london is an english actress writer and director who has been working mainly in television since the 1990s. she starred alongside neil morrissey in the vanishing man and then came to prominence in a lead role in 1999s itv sevenpart drama wonderful you. she appeared as tim simon peggs girlfriend for four episodes of the uk comedy spaced and also gueststarred as a zombie in simon pegg and edgar wrights comedy film shaun of the dead. she also appeared in the 2004 series of the bbcs monarch of the glen. more recently she wrote produced and starred in every seven years a short film that has won several awards. she also directed coproduced and had a small part in the independent british film written coproduced by and starring her husband chaz oldham. she wrote an article in the daily mail about her experiences in making the film. akhurst provided the voiceovers for eastenders in march 2009 for the mitchell family storyline. 
+
+Coref Resolved : 
+lucy akhurst b. 18 november 1975 in london is an english actress writer and director who has been working mainly in television since the 1990s. lucy akhurst starred alongside neil morrissey in the vanishing man and then came to prominence in a lead role in 1999s itv sevenpart drama wonderful you. lucy akhurst appeared as tim simon peggs girlfriend for four episodes of the uk comedy spaced and also gueststarred as a zombie in tim simon peggs and edgar wrights comedy film shaun of the dead. lucy akhurst also appeared in the 2004 series of the bbcs monarch of the glen. more recently lucy akhurst wrote produced and starred in every seven years a short film that has won several awards. lucy akhurst also directed coproduced and had a small part in the independent british film written coproduced by and starring lucy akhurst husband chaz oldham. lucy akhurst wrote an article in the daily mail about lucy akhurst experiences in making the independent british film written coproduced by and starring her husband chaz oldham. lucy akhurst provided the voiceovers for eastenders in march 2009 for the mitchell family storyline.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.03333333333333333 and for ground truth is : 0.125
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

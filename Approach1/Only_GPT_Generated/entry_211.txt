@@ -1,0 +1,45 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/Basketball and the value is : 1
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/Santa_Cruz_Warriors and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Basketball and http://dbpedia.org/resource/Santa_Cruz_Warriors and the value is : 0
+http://dbpedia.org/resource/Basketball and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Santa_Cruz_Warriors and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/San_Francisco_Dons_men's_basketball and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/San_Francisco_Dons_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/Archbishop_Mitty_High_School and the value is : 1
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/San_Jose,_California and the value is : 0
+http://dbpedia.org/resource/Archbishop_Mitty_High_School and http://dbpedia.org/resource/San_Jose,_California and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/West_Catholic_Athletic_League and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/San_Francisco_Dons_men's_basketball and the value is : 1
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/San_Francisco_Dons_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/West_Coast_Conference and the value is : 0
+http://dbpedia.org/resource/NBA_draft and http://dbpedia.org/resource/2011_NBA_draft and the value is : 0
+http://dbpedia.org/resource/NBA_draft and http://dbpedia.org/resource/Joseph_H._Holland and the value is : 0
+http://dbpedia.org/resource/NBA_draft and http://dbpedia.org/resource/Santa_Cruz_Warriors and the value is : 0
+http://dbpedia.org/resource/NBA_draft and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/2011_NBA_draft and http://dbpedia.org/resource/Joseph_H._Holland and the value is : 1
+http://dbpedia.org/resource/2011_NBA_draft and http://dbpedia.org/resource/Santa_Cruz_Warriors and the value is : 1
+http://dbpedia.org/resource/2011_NBA_draft and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/Santa_Cruz_Warriors and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Santa_Cruz_Warriors and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Joseph_H._Holland and http://dbpedia.org/resource/Germany_national_football_team and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+joe holland born october 28 1988 is an american professional basketball player for the santa cruz warriors of the nba g league. he played college basketball for the university of san francisco. holland attended archbishop mitty high school in san jose california where he was a threetime allwcal selection. he was named the wcal player of the year as a senior in 200607. holland played college basketball at the university of san francisco where he was a fouryear starter. he was named the west coast conference freshman of the year in 200708 and was a twotime allwcc selection. he finished his college career with 1541 points which ranks sixth in school history. after going undrafted in the 2011 nba draft holland joined the santa cruz warriors of the nba development league. he has also played professionally in france germany and japan. 
+
+Coref Resolved : 
+joe holland born october 28 1988 is an american professional basketball player for the santa cruz warriors of the nba g league. joe holland born october 28 1988 played college basketball for the university of san francisco. joe holland born october 28 1988 attended archbishop mitty high school in san jose california where joe holland born october 28 1988 was a threetime allwcal selection. joe holland born october 28 1988 was named the wcal player of the year as a senior in 200607. joe holland born october 28 1988 played college basketball at the university of san francisco where joe holland born october 28 1988 was a fouryear starter. joe holland born october 28 1988 was named the west coast conference freshman of the year in 200708 and was a twotime allwcc selection. joe holland born october 28 1988 finished joe holland born october 28 1988 college career with 1541 points which ranks sixth in school history. after going undrafted in the 2011 nba draft joe holland born october 28 1988 joined the santa cruz warriors of the nba g league. joe holland born october 28 1988 has also played professionally in france germany and japan.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.35714285714285715
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

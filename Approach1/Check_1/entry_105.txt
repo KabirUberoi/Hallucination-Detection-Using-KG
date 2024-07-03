@@ -1,0 +1,174 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Head_coach and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Arizona_Diamondbacks and the value is : 1
+http://dbpedia.org/resource/Arizona_Diamondbacks and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Arizona_Diamondbacks and the value is : 0
+http://dbpedia.org/resource/Arizona_Diamondbacks and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Arizona_Diamondbacks and the value is : 0
+http://dbpedia.org/resource/Arizona_Diamondbacks and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Arizona_Diamondbacks and the value is : 1
+http://dbpedia.org/resource/Arizona_Diamondbacks and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Arizona_Diamondbacks and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Arizona_Diamondbacks and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Chicago_White_Sox and the value is : 0
+http://dbpedia.org/resource/Chicago_White_Sox and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Oakland_Athletics and the value is : 0
+http://dbpedia.org/resource/Oakland_Athletics and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/2011_St._Louis_Cardinals_season and the value is : 1
+http://dbpedia.org/resource/2011_St._Louis_Cardinals_season and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Head_coach and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Chicago_White_Sox and the value is : 1
+http://dbpedia.org/resource/Chicago_White_Sox and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Oakland_Athletics and the value is : 1
+http://dbpedia.org/resource/Oakland_Athletics and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/2011_St._Louis_Cardinals_season and the value is : 0
+http://dbpedia.org/resource/2011_St._Louis_Cardinals_season and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Chicago_White_Sox and the value is : 1
+http://dbpedia.org/resource/Chicago_White_Sox and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Oakland_Athletics and the value is : 0
+http://dbpedia.org/resource/Oakland_Athletics and http://dbpedia.org/resource/Head_coach and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/2011_St._Louis_Cardinals_season and the value is : 0
+http://dbpedia.org/resource/2011_St._Louis_Cardinals_season and http://dbpedia.org/resource/Head_coach and the value is : 1
+http://dbpedia.org/resource/Chicago_White_Sox and http://dbpedia.org/resource/Oakland_Athletics and the value is : 1
+http://dbpedia.org/resource/Oakland_Athletics and http://dbpedia.org/resource/Chicago_White_Sox and the value is : 0
+http://dbpedia.org/resource/Chicago_White_Sox and http://dbpedia.org/resource/2011_St._Louis_Cardinals_season and the value is : 1
+http://dbpedia.org/resource/2011_St._Louis_Cardinals_season and http://dbpedia.org/resource/Chicago_White_Sox and the value is : 0
+http://dbpedia.org/resource/Oakland_Athletics and http://dbpedia.org/resource/2011_St._Louis_Cardinals_season and the value is : 0
+http://dbpedia.org/resource/2011_St._Louis_Cardinals_season and http://dbpedia.org/resource/Oakland_Athletics and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Hurricane_Connie and the value is : 1
+http://dbpedia.org/resource/Hurricane_Connie and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Mack_Trucks and the value is : 0
+http://dbpedia.org/resource/Mack_Trucks and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/John_McGraw and the value is : 1
+http://dbpedia.org/resource/John_McGraw and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Hurricane_Connie and the value is : 0
+http://dbpedia.org/resource/Hurricane_Connie and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Mack_Trucks and the value is : 0
+http://dbpedia.org/resource/Mack_Trucks and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/John_McGraw and the value is : 0
+http://dbpedia.org/resource/John_McGraw and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Hurricane_Connie and the value is : 0
+http://dbpedia.org/resource/Hurricane_Connie and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Mack_Trucks and the value is : 0
+http://dbpedia.org/resource/Mack_Trucks and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/John_McGraw and the value is : 0
+http://dbpedia.org/resource/John_McGraw and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Hurricane_Connie and http://dbpedia.org/resource/Mack_Trucks and the value is : 0
+http://dbpedia.org/resource/Mack_Trucks and http://dbpedia.org/resource/Hurricane_Connie and the value is : 0
+http://dbpedia.org/resource/Hurricane_Connie and http://dbpedia.org/resource/John_McGraw and the value is : 1
+http://dbpedia.org/resource/John_McGraw and http://dbpedia.org/resource/Hurricane_Connie and the value is : 1
+http://dbpedia.org/resource/Mack_Trucks and http://dbpedia.org/resource/John_McGraw and the value is : 0
+http://dbpedia.org/resource/John_McGraw and http://dbpedia.org/resource/Mack_Trucks and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/World_Series and the value is : 0
+http://dbpedia.org/resource/World_Series and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/World_Series and the value is : 0
+http://dbpedia.org/resource/World_Series and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/BAFA_National_Leagues and the value is : 0
+http://dbpedia.org/resource/BAFA_National_Leagues and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/World_Series and the value is : 0
+http://dbpedia.org/resource/World_Series and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/World_Series and the value is : 0
+http://dbpedia.org/resource/World_Series and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/BAFA_National_Leagues and the value is : 0
+http://dbpedia.org/resource/BAFA_National_Leagues and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/World_Series and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/World_Series and the value is : 0
+http://dbpedia.org/resource/World_Series and http://dbpedia.org/resource/World_Series and the value is : 0
+http://dbpedia.org/resource/World_Series and http://dbpedia.org/resource/World_Series and the value is : 0
+http://dbpedia.org/resource/World_Series and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/World_Series and the value is : 0
+http://dbpedia.org/resource/World_Series and http://dbpedia.org/resource/BAFA_National_Leagues and the value is : 0
+http://dbpedia.org/resource/BAFA_National_Leagues and http://dbpedia.org/resource/World_Series and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/World_Series and the value is : 0
+http://dbpedia.org/resource/World_Series and http://dbpedia.org/resource/Head_coach and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Head_coach and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/BAFA_National_Leagues and the value is : 0
+http://dbpedia.org/resource/BAFA_National_Leagues and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/World_Series and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/World_Series and the value is : 0
+http://dbpedia.org/resource/World_Series and http://dbpedia.org/resource/BAFA_National_Leagues and the value is : 1
+http://dbpedia.org/resource/BAFA_National_Leagues and http://dbpedia.org/resource/World_Series and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/BAFA_National_Leagues and the value is : 1
+http://dbpedia.org/resource/BAFA_National_Leagues and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/National_League_Championship_Series and the value is : 0
+http://dbpedia.org/resource/National_League_Championship_Series and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/National_League_Championship_Series and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/National_League_Championship_Series and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Tony_La_Russa and the value is : 0
+http://dbpedia.org/resource/Tony_La_Russa and http://dbpedia.org/resource/Pheme and the value is : 0
+http://dbpedia.org/resource/Pheme and http://dbpedia.org/resource/Tony_La_Russa and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Pheme and the value is : 0
+http://dbpedia.org/resource/Pheme and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+#############GROUND_PAIRS############
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Tony La Russa Jr. (born October 4, 1944) is an American professional baseball manager and executive currently serving as the chief baseball analyst and advisor for the Arizona Diamondbacks of Major League Baseball (MLB). He is best known for his tenures as manager of the Chicago White Sox (1979–1986), Oakland Athletics (1986–1995), and St. Louis Cardinals (1996–2011). His MLB career has spanned from 1963 to the present, in several roles.
+
+La Russa ranks third all-time in major league wins as a manager, trailing only Connie Mack and John McGraw. He led his teams to six World Series titles, and is the only manager to win the World Series in both the American and National Leagues. His 2,728 wins are the sixth-most by any manager in major league history. He also won three pennants and six division titles with the three teams for which he managed. La Russa was named Manager of the Year in 1983, 1988, and 1992. He was elected to the Baseball Hall of Fame in 2014.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Anthony "Tony" La Russa Jr. (born October 4, 1944) is an American professional baseball player, manager, and executive currently serving as Chief Baseball Officer for the Arizona Diamondbacks. He is best known for his tenures as manager of the Chicago White Sox, Oakland Athletics, and St. Louis Cardinals of Major League Baseball (MLB). His MLB career has spanned from 1963 to the present. As a manager, La Russa guided his teams to three World Series titles, six league championships, and twelve division titles in 33 seasons. His 2,728 wins as a manager ranks third all-time in Major League history, behind Connie Mack and John McGraw.
+
+As a player, La Russa made his Major League debut in 1963 and spent parts of five Major League seasons with the Kansas City/Oakland Athletics, Atlanta Braves, and Chicago Cubs. After a shoulder injury during the 1964–65 offseason, he played much of the remainder of his career in the minor leagues until retiring in 1977. Following his playing career, he earned a Juris Doctor degree from Florida State University.
+
+La Russa was named manager of the White Sox in the middle of the 1979 season and guided the White Sox to an American League West Division title four seasons later. Despite being fired in the middle of the 1986 season, the Athletics hired him less than three weeks later, and La Russa led the A's to three consecutive American League championships from 1988 to 1990 and the 1989 World Series title. He left Oakland following the 1995 season to manage the Cardinals, and led the team to three National League championships and the 2011 World Series title. La Russa retired after winning the 2011 title and 33 seasons as a Major League manager. Three months later, he accepted a position assisting fellow former manager, Joe Torre, the Executive Vice President for MLB Operations. In 2014, he became the Chief Baseball Officer for the Arizona Diamondbacks.
+
+On December 9, 2013, he was unanimously elected to the Hall of Fame by the 16-member Veterans Committee. The induction ceremony was held at Cooperstown, New York, on July 27, 2014. On August 16, 2014, he was inducted into the St. Louis Cardinals Hall of Fame Museum.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.31333333333333335 and for ground truth is : -1
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate 
+

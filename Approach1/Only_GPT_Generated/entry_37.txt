@@ -1,0 +1,65 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Plant_taxonomy and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Flora and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Western_Ghats and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Plant_taxonomy and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Flora and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Western_Ghats and the value is : 0
+http://dbpedia.org/resource/Plant_taxonomy and http://dbpedia.org/resource/Flora and the value is : 0
+http://dbpedia.org/resource/Plant_taxonomy and http://dbpedia.org/resource/Western_Ghats and the value is : 1
+http://dbpedia.org/resource/Flora and http://dbpedia.org/resource/Western_Ghats and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Kozhikode and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Kozhikode and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Botany and the value is : 1
+http://dbpedia.org/resource/Kozhikode and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Indian_National_Science_Academy and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Padma_Shri and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Civil_decorations_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Padma_Shri and http://dbpedia.org/resource/Civil_decorations_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Village and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Mukkulathor and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Kerala and the value is : 0
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Mukkulathor and the value is : 0
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Kerala and the value is : 0
+http://dbpedia.org/resource/Mukkulathor and http://dbpedia.org/resource/Kerala and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Bachelor_of_Science and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Chennai and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Kerala and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Chennai and the value is : 1
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Master_of_Science and the value is : 1
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Kerala and the value is : 0
+http://dbpedia.org/resource/Chennai and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/Chennai and http://dbpedia.org/resource/Kerala and the value is : 1
+http://dbpedia.org/resource/Master_of_Science and http://dbpedia.org/resource/Kerala and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Kozhikode and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Lecturer and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Kozhikode and http://dbpedia.org/resource/Lecturer and the value is : 0
+http://dbpedia.org/resource/Kozhikode and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Lecturer and http://dbpedia.org/resource/Botany and the value is : 1
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Manilal_Gandhi and http://dbpedia.org/resource/Kozhikode and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Kozhikode and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+k. s. manilal 19252006 was an indian botanist and plant taxonomist who specialized in the study of the flora of the western ghats. he was a professor at the university of calicut and the founder of the centre for advanced studies in botany at the university. he was a fellow of the indian academy of sciences and the indian national science academy. he was also a recipient of the padma shri the fourth highest civilian award in india. manilal was born in 1925 in the village of kallar in kerala. he obtained his b.sc. degree from the university of madras in 1945 and his m.sc. degree from the university of kerala in 1947. he then joined the university of calicut as a lecturer in botany in 1948. he was promoted to professor in 1962 and served as the head of the department of botany from 1965 to 1975. he was also the founder of the centre for advanced studies in botany at the university. manilal was a prolific researcher and published over 200 research papers in various journals. he was an 
+
+Coref Resolved : 
+k. s. manilal 19252006 was an indian botanist and plant taxonomist who specialized in the study of the flora of the western ghats. manilal was a professor at the university of calicut and the founder of the centre for advanced studies in botany at the university of calicut . manilal was a fellow of the indian academy of sciences and the indian national science academy. manilal was also a recipient of the padma shri the fourth highest civilian award in india. manilal was born in 1925 in the village of kallar in kerala. manilal obtained manilal b.sc. degree from the university of madras in 1945 and manilal m.sc. degree from the university of kerala in 1947. manilal then joined the university of calicut as a lecturer in botany in 1948. manilal was promoted to professor in 1962 and served as the head of the department of botany from 1965 to 1975. manilal was also the founder of the centre for advanced studies in botany at the university of calicut . manilal was a prolific researcher and published over 200 research papers in various journals. manilal was an
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.125
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate accurate accurate 
+

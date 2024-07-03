@@ -1,0 +1,91 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Nomothetic_and_idiographic and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Nomothetic_and_idiographic and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Psychology and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Neo-Kantianism and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Psychologism and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Neo-Kantianism and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Neo-Kantianism and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Kuno_Fischer and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Franz_Brentano and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Philosopher and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Neo-Kantianism and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Nomothetic_and_idiographic and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Nomothetic_and_idiographic and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Neo-Kantianism and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Immanuel_Kant and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Immanuel_Kant and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Positivism and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Immanuel_Kant and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Johann_Bernoulli and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Johann_Friedrich_Herbart and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Hermann_Lotze and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Wilhelm Windelband (15 March 1848 18 September 1915) was a German philosopher of the late 19th and early 20th centuries.
+He is now remembered mainly for the terms "nomothetic" and "idiographic," which he introduced.
+He also wrote on history, psychology, the philosophy of religion, values, and other topics.
+He was a neo-Kantian who protested other neo-Kantians of his time and maintained a critical position towards psychologism.
+Windelband is known as one of the founders of the "Baden School" of neo-Kantianism.
+He was a student of Kuno Fischer and Franz Brentano.
+His students included Edmund Husserl, Adolf Reinach, Carl Stumpf, and Richard von Mises.
+
+
+Coref Resolved: 
+
+Wilhelm Windelband (15 March 1848 18 September 1915) was a German philosopher of the late 19th and early 20th centuries.
+Wilhelm Windelband is now remembered mainly for the terms "nomothetic" and "idiographic," which Wilhelm Windelband introduced.
+Wilhelm Windelband also wrote on history, psychology, the philosophy of religion, values, and other topics.
+Wilhelm Windelband was a neo-Kantian who protested other neo-Kantians of Wilhelm Windelband time and maintained a critical position towards psychologism.
+Wilhelm Windelband is known as one of the founders of the "Baden School" of neo-Kantianism.
+Wilhelm Windelband was a student of Kuno Fischer and Franz Brentano.
+Wilhelm Windelband students included Edmund Husserl, Adolf Reinach, Carl Stumpf, and Richard von Mises.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Wilhelm Windelband (May 11, 1848 - October 22, 1915) was a German philosopher of the Baden School.
+Windelband is now mainly remembered for the terms "nomothetic" and "idiographic", which he introduced.
+These have currency in psychology and other areas, though not necessarily in line with his original meanings.
+Windelband was a Neo-Kantian who protested other Neo-Kantians of his time and maintained that "to understand Kant rightly means to go beyond him".
+Against his positivist contemporaries, Windelband argued that philosophy should engage in humanistic dialogue with the natural sciences rather than uncritically appropriating its methodologies.
+His interests in psychology and cultural sciences represented an opposition to psychologism and historicism schools by a critical philosophic system.
+Windelband relied in his effort to reach beyond Kant on such philosophers as Georg Wilhelm Friedrich Hegel, Johann Friedrich Herbart, and Hermann Lotze.
+Closely associated with Windelband was Heinrich Rickert.
+Windelband's disciples were not only noted philosophers, but sociologists like Max Weber and theologians like Ernst Troeltsch and Albert Schweitzer.
+ 
+
+Coref Resolved: 
+
+Wilhelm Windelband (May 11, 1848 - October 22, 1915) was a German philosopher of the Baden School.
+Wilhelm Windelband is now mainly remembered for the terms "nomothetic" and "idiographic", which Wilhelm Windelband introduced.
+the terms "nomothetic" and "idiographic", which he introducedhave currency in psychology and other areas, though not necessarily in line with Wilhelm Windelband original meanings.
+Wilhelm Windelband was a Neo-Kantian who protested other Neo-Kantians of Wilhelm Windelband time and maintained that "to understand Kant rightly means to go beyond Kant ".
+Against Wilhelm Windelband positivist contemporaries, Wilhelm Windelband argued that philosophy should engage in humanistic dialogue with the natural sciences rather than uncritically appropriating the natural sciences methodologies.
+Wilhelm Windelband interests in psychology and cultural sciences represented an opposition to psychologism and historicism schools by a critical philosophic system.
+Wilhelm Windelband relied in Wilhelm Windelband effort to reach beyond Kant on such philosophers as Georg Wilhelm Friedrich Hegel, Johann Friedrich Herbart, and Hermann Lotze.
+Closely associated with Wilhelm Windelband was Heinrich Rickert.
+Wilhelm Windelband disciples were not only noted philosophers, but sociologists like Max Weber and theologians like Ernst Troeltsch and Albert Schweitzer.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 1.0 0.5 1.0 1.0 0.5 -1 
+
+Value for ground truth is : 
+1.0 1.0 -1 1.0 0.0 -1 0.8 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate accurate major_inaccurate major_inaccurate 
+

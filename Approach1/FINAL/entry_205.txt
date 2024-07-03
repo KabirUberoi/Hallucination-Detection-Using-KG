@@ -1,0 +1,296 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Quakers and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Quakers and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Quakers and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Merchant and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Tottenham and the value is : 0
+http://dbpedia.org/resource/Quakers and http://dbpedia.org/resource/Merchant and the value is : 0
+http://dbpedia.org/resource/Quakers and http://dbpedia.org/resource/Tottenham and the value is : 0
+http://dbpedia.org/resource/Merchant and http://dbpedia.org/resource/Tottenham and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Quakers and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/History_of_slavery and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Humanitarian_aid and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Musical_instrument and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Dispensary and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Charitable_organization and the value is : 0
+http://dbpedia.org/resource/Humanitarian_aid and http://dbpedia.org/resource/Musical_instrument and the value is : 0
+http://dbpedia.org/resource/Humanitarian_aid and http://dbpedia.org/resource/Dispensary and the value is : 0
+http://dbpedia.org/resource/Humanitarian_aid and http://dbpedia.org/resource/Charitable_organization and the value is : 0
+http://dbpedia.org/resource/Musical_instrument and http://dbpedia.org/resource/Dispensary and the value is : 0
+http://dbpedia.org/resource/Musical_instrument and http://dbpedia.org/resource/Charitable_organization and the value is : 0
+http://dbpedia.org/resource/Dispensary and http://dbpedia.org/resource/Charitable_organization and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Quakers and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Cemetery and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Tottenham and the value is : 0
+http://dbpedia.org/resource/Quakers and http://dbpedia.org/resource/Cemetery and the value is : 0
+http://dbpedia.org/resource/Quakers and http://dbpedia.org/resource/Tottenham and the value is : 0
+http://dbpedia.org/resource/Cemetery and http://dbpedia.org/resource/Tottenham and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/United_States_Army and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/War_crime and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Austria and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Nazi_Germany and the value is : 1
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Interrogation and the value is : 0
+http://dbpedia.org/resource/United_States_Army and http://dbpedia.org/resource/War_crime and the value is : 0
+http://dbpedia.org/resource/United_States_Army and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/United_States_Army and http://dbpedia.org/resource/Austria and the value is : 1
+http://dbpedia.org/resource/United_States_Army and http://dbpedia.org/resource/Nazi_Germany and the value is : 1
+http://dbpedia.org/resource/United_States_Army and http://dbpedia.org/resource/Interrogation and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Austria and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Interrogation and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Austria and the value is : 1
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Interrogation and the value is : 0
+http://dbpedia.org/resource/Austria and http://dbpedia.org/resource/Nazi_Germany and the value is : 1
+http://dbpedia.org/resource/Austria and http://dbpedia.org/resource/Interrogation and the value is : 0
+http://dbpedia.org/resource/Nazi_Germany and http://dbpedia.org/resource/Interrogation and the value is : 1
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Silversmith and the value is : 1
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Allies_of_World_War_II and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Bavarian_Alps and the value is : 1
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Allies_of_World_War_II and the value is : 1
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Bavarian_Alps and the value is : 0
+http://dbpedia.org/resource/Allies_of_World_War_II and http://dbpedia.org/resource/Bavarian_Alps and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/War_crime and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Hermann_Göring and the value is : 1
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/OTO_Melara_Mod_56 and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Inline-four_engine and the value is : 1
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Hermann_Göring and the value is : 1
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/OTO_Melara_Mod_56 and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/OTO_Melara_Mod_56 and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/Nazi_Germany and http://dbpedia.org/resource/OTO_Melara_Mod_56 and the value is : 0
+http://dbpedia.org/resource/Nazi_Germany and http://dbpedia.org/resource/Airplane and the value is : 1
+http://dbpedia.org/resource/Nazi_Germany and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/OTO_Melara_Mod_56 and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/OTO_Melara_Mod_56 and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/Airplane and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/China_Daily and http://dbpedia.org/resource/Ficus_religiosa and the value is : 0
+http://dbpedia.org/resource/China_Daily and http://dbpedia.org/resource/Virginia and the value is : 0
+http://dbpedia.org/resource/China_Daily and http://dbpedia.org/resource/War_crime and the value is : 0
+http://dbpedia.org/resource/China_Daily and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/China_Daily and http://dbpedia.org/resource/Effeminacy and the value is : 0
+http://dbpedia.org/resource/China_Daily and http://dbpedia.org/resource/Impulsivity and the value is : 0
+http://dbpedia.org/resource/China_Daily and http://dbpedia.org/resource/OTO_Melara_Mod_56 and the value is : 0
+http://dbpedia.org/resource/China_Daily and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/China_Daily and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/China_Daily and http://dbpedia.org/resource/Champagne and the value is : 0
+http://dbpedia.org/resource/China_Daily and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Virginia and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/War_crime and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Effeminacy and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Impulsivity and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/OTO_Melara_Mod_56 and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Champagne and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/War_crime and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/Effeminacy and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/Impulsivity and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/OTO_Melara_Mod_56 and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/Champagne and the value is : 1
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Effeminacy and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Impulsivity and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/OTO_Melara_Mod_56 and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Champagne and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Effeminacy and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Impulsivity and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/OTO_Melara_Mod_56 and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Champagne and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Effeminacy and http://dbpedia.org/resource/Impulsivity and the value is : 0
+http://dbpedia.org/resource/Effeminacy and http://dbpedia.org/resource/OTO_Melara_Mod_56 and the value is : 0
+http://dbpedia.org/resource/Effeminacy and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/Effeminacy and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/Effeminacy and http://dbpedia.org/resource/Champagne and the value is : 0
+http://dbpedia.org/resource/Effeminacy and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Impulsivity and http://dbpedia.org/resource/OTO_Melara_Mod_56 and the value is : 0
+http://dbpedia.org/resource/Impulsivity and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/Impulsivity and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/Impulsivity and http://dbpedia.org/resource/Champagne and the value is : 0
+http://dbpedia.org/resource/Impulsivity and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/OTO_Melara_Mod_56 and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/OTO_Melara_Mod_56 and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/OTO_Melara_Mod_56 and http://dbpedia.org/resource/Champagne and the value is : 0
+http://dbpedia.org/resource/OTO_Melara_Mod_56 and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Airplane and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/Airplane and http://dbpedia.org/resource/Champagne and the value is : 0
+http://dbpedia.org/resource/Airplane and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Inline-four_engine and http://dbpedia.org/resource/Champagne and the value is : 1
+http://dbpedia.org/resource/Inline-four_engine and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Champagne and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/War_crime and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Adolf_Hitler and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Luftwaffe and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Adolf_Hitler and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Luftwaffe and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Adolf_Hitler and the value is : 1
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Luftwaffe and the value is : 1
+http://dbpedia.org/resource/Adolf_Hitler and http://dbpedia.org/resource/Luftwaffe and the value is : 1
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Ficus_religiosa and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Ficus_religiosa and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/.45_ACP and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Handgun_holster and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/War_crime and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Hermann_Göring and the value is : 1
+http://dbpedia.org/resource/.45_ACP and http://dbpedia.org/resource/Handgun_holster and the value is : 0
+http://dbpedia.org/resource/.45_ACP and http://dbpedia.org/resource/War_crime and the value is : 0
+http://dbpedia.org/resource/.45_ACP and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/Handgun_holster and http://dbpedia.org/resource/War_crime and the value is : 0
+http://dbpedia.org/resource/Handgun_holster and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Hermann_Göring and the value is : 1
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/OTO_Melara_Mod_56 and the value is : 1
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/OTO_Melara_Mod_56 and http://dbpedia.org/resource/Airplane and the value is : 0
+http://dbpedia.org/resource/OTO_Melara_Mod_56 and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/Airplane and http://dbpedia.org/resource/Inline-four_engine and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/War_crime and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Friendly_fire and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Manufacturing and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Friendly_fire and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Manufacturing and the value is : 1
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Friendly_fire and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Manufacturing and the value is : 1
+http://dbpedia.org/resource/Friendly_fire and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Friendly_fire and http://dbpedia.org/resource/Manufacturing and the value is : 0
+http://dbpedia.org/resource/Nazi_Germany and http://dbpedia.org/resource/Manufacturing and the value is : 1
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Hermann_Göring and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/War_crime and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Hermann_Göring and the value is : 1
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Hermann_Göring and the value is : 1
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Sid_Vicious and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Hermann_Göring and the value is : 1
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Suicide and the value is : 1
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Potassium_cyanide and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Space_capsule and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Hanging and the value is : 0
+http://dbpedia.org/resource/War_crime and http://dbpedia.org/resource/Nuremberg_trials and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Suicide and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Potassium_cyanide and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Space_capsule and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Hanging and the value is : 0
+http://dbpedia.org/resource/Hermann_Göring and http://dbpedia.org/resource/Nuremberg_trials and the value is : 0
+http://dbpedia.org/resource/Suicide and http://dbpedia.org/resource/Potassium_cyanide and the value is : 0
+http://dbpedia.org/resource/Suicide and http://dbpedia.org/resource/Space_capsule and the value is : 0
+http://dbpedia.org/resource/Suicide and http://dbpedia.org/resource/Hanging and the value is : 1
+http://dbpedia.org/resource/Suicide and http://dbpedia.org/resource/Nuremberg_trials and the value is : 0
+http://dbpedia.org/resource/Potassium_cyanide and http://dbpedia.org/resource/Space_capsule and the value is : 1
+http://dbpedia.org/resource/Potassium_cyanide and http://dbpedia.org/resource/Hanging and the value is : 0
+http://dbpedia.org/resource/Potassium_cyanide and http://dbpedia.org/resource/Nuremberg_trials and the value is : 1
+http://dbpedia.org/resource/Space_capsule and http://dbpedia.org/resource/Hanging and the value is : 0
+http://dbpedia.org/resource/Space_capsule and http://dbpedia.org/resource/Nuremberg_trials and the value is : 0
+http://dbpedia.org/resource/Hanging and http://dbpedia.org/resource/Nuremberg_trials and the value is : 1
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Aerial_reconnaissance and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Oberstleutnant and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Montana_Army_National_Guard and the value is : 0
+http://dbpedia.org/resource/Oberstleutnant and http://dbpedia.org/resource/Montana_Army_National_Guard and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Brigadier_general and the value is : 1
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Yale_University and the value is : 1
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Connecticut and the value is : 0
+http://dbpedia.org/resource/Yale_University and http://dbpedia.org/resource/Connecticut and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Virginia and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Lyon_OU and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/February_15 and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/Lyon_OU and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/February_15 and the value is : 0
+http://dbpedia.org/resource/Lyon_OU and http://dbpedia.org/resource/February_15 and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/Lyon_OU and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/February_15 and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/Susan_Foreman and the value is : 0
+http://dbpedia.org/resource/Virginia and http://dbpedia.org/resource/Christmas_carol and the value is : 0
+http://dbpedia.org/resource/Lyon_OU and http://dbpedia.org/resource/February_15 and the value is : 0
+http://dbpedia.org/resource/Lyon_OU and http://dbpedia.org/resource/Susan_Foreman and the value is : 0
+http://dbpedia.org/resource/Lyon_OU and http://dbpedia.org/resource/Christmas_carol and the value is : 0
+http://dbpedia.org/resource/February_15 and http://dbpedia.org/resource/Susan_Foreman and the value is : 0
+http://dbpedia.org/resource/February_15 and http://dbpedia.org/resource/Christmas_carol and the value is : 0
+http://dbpedia.org/resource/Susan_Foreman and http://dbpedia.org/resource/Christmas_carol and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Silversmith and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Battle_of_France and the value is : 0
+http://dbpedia.org/resource/Silversmith and http://dbpedia.org/resource/Battle_of_France and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/French_Foreign_Legion and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Pierre_Vimont and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Ambassador and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/French_Foreign_Legion and http://dbpedia.org/resource/Pierre_Vimont and the value is : 0
+http://dbpedia.org/resource/French_Foreign_Legion and http://dbpedia.org/resource/Ambassador and the value is : 0
+http://dbpedia.org/resource/French_Foreign_Legion and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Pierre_Vimont and http://dbpedia.org/resource/Ambassador and the value is : 0
+http://dbpedia.org/resource/Pierre_Vimont and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Ambassador and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Ninetynine and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Nursing and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Missoula,_Montana and the value is : 0
+http://dbpedia.org/resource/Ninetynine and http://dbpedia.org/resource/Nursing and the value is : 0
+http://dbpedia.org/resource/Ninetynine and http://dbpedia.org/resource/Missoula,_Montana and the value is : 0
+http://dbpedia.org/resource/Nursing and http://dbpedia.org/resource/Missoula,_Montana and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/J._Livingston and the value is : 0
+http://dbpedia.org/resource/Ficus_religiosa and http://dbpedia.org/resource/Park_County,_Colorado and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/J._Livingston and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Park_County,_Colorado and the value is : 0
+http://dbpedia.org/resource/J._Livingston and http://dbpedia.org/resource/Park_County,_Colorado and the value is : 0
+http://dbpedia.org/resource/J._Livingston and http://dbpedia.org/resource/Park_County,_Colorado and the value is : 0
+http://dbpedia.org/resource/J._Livingston and http://dbpedia.org/resource/Priscilla_Presley and the value is : 0
+http://dbpedia.org/resource/J._Livingston and http://dbpedia.org/resource/Edwin_C._Howell and the value is : 0
+http://dbpedia.org/resource/Park_County,_Colorado and http://dbpedia.org/resource/Priscilla_Presley and the value is : 0
+http://dbpedia.org/resource/Park_County,_Colorado and http://dbpedia.org/resource/Edwin_C._Howell and the value is : 0
+http://dbpedia.org/resource/Priscilla_Presley and http://dbpedia.org/resource/Edwin_C._Howell and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+mayhew foster 17451823 was an english quaker minister and philanthropist. he was born in london the son of a quaker merchant and was educated at the quaker school in tottenham. he became a minister in 1768 and was a prominent figure in the quaker movement in england. he was a strong advocate of the abolition of slavery and was a leader in the campaign to abolish the slave trade. he was also a leader in the campaign for the relief of the poor and was instrumental in the founding of the london dispensary a charitable organization that provided medical care to the poor. he was also a strong advocate of education and was involved in the founding of several schools. he was a prolific writer and published several books on religious and social topics. he died in 1823 and is buried in the quaker burial ground in tottenham. 
+
+Coref Resolved : 
+mayhew foster 17451823 was an english quaker minister and philanthropist. mayhew foster was born in london the son of a quaker merchant and was educated at the quaker school in tottenham. mayhew foster became a minister in 1768 and was a prominent figure in the quaker movement in england. mayhew foster was a strong advocate of the abolition of slavery and was a leader in the campaign to abolish the slave trade. mayhew foster was also a leader in the campaign for the relief of the poor and was instrumental in the founding of the london dispensary a charitable organization that provided medical care to the poor. mayhew foster was also a strong advocate of education and was involved in the founding of several schools. mayhew foster was a prolific writer and published several books on religious and social topics. mayhew foster died in 1823 and is buried in the quaker burial ground in tottenham.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+mayhew y. bo foster october 9 1911 march 21 2011 was an american soldier who flew captured nazi war criminal hermann göring from austria to germany for interrogation by the 7th army. for his actions in world war ii foster was awarded both the silver star and the légion dhonneur. at the end of the war göring surrendered to the allied powers in the bavarian alps. on may 9 1945 foster transported göring back to germany on a 55minute flight in an unescorted unarmed l5 a larger plane than the l4 he normally piloted because göring weighed more than. according to china daily in a letter to his wife virginia written at the time foster describes his first impression of göring as effeminate gave me the creeps...several times i had the impulse to turn the plane over and see if i could shake him out but he was wedged in like a champagne cork. foster said that göring who spoke some english avoided any talk of adolf hitler with whom göring as the commander of the luftwaffe had fallen out of favor as the total german defeat neared. he acted as though he was going on a sightseeing tour or really as though i was going on a sightseeing tour and he was showing me where he grew up. i had a .45 in a shoulder holster but he couldnt reach that. but neither could i because i had two hands controlling the plane. foster further recalled göring as having been sharp friendly and witty having joked when foster asked him when germany began manufacturing jets. too late göring was said to have answered. foster continued i could see that he was like one of our officers if hed been picked up. i questioned all that we knew about these vicious people. göring was convicted of war crimes and committed suicide in october 1946 by taking a cyanide capsule before he could be hanged by the nuremberg authorities. by october 1945 foster was back in the united states having flown seventy reconnaissance combat missions during his wartime service. he returned to his adopted home state of montana where he was appointed lieutenant colonel in the montana army national guard. he was thereafter promoted to brigadier general a rank that he held from 1963 until 1971. a native of richmond virginia foster graduated in 1937 with a degree in english from yale university in new haven connecticut. he and his wife virginia lou foster february 15 1916 may 7 1993 were married in 1940. the couple had one daughter susan carol foster korkalo 1944 2007. foster received the silver star for his wartime service in southern france in 1944. it was not until 2009 that he received the french legion of honor when pierre vimont the french ambassador to the united states released a letter hailing foster for his personal precious contribution to the united states decisive role in the liberation of our country during world war ii. foster died at the age of ninetynine in a nursing home in missoula montana. his last city of residence was livingston in park county montana. survivors included soninlaw roy e. korkalo of livingston grandson chris korkalo and a sister priscilla f. howell. 
+
+Coref Resolved : 
+mayhew y. bo foster october 9 1911 march 21 2011 was an american soldier who flew captured nazi war criminal hermann göring from austria to germany for interrogation by the 7th army. for mayhew y. bo foster actions in world war ii mayhew y. bo foster was awarded both the silver star and the légion dhonneur. at the end of world war ii captured nazi war criminal hermann göring surrendered to the allied powers in the bavarian alps. on may 9 1945 mayhew y. bo foster transported captured nazi war criminal hermann göring back to germany on a 55minute flight in an unescorted unarmed l5 a larger plane than the l4 mayhew y. bo foster normally piloted because captured nazi war criminal hermann göring weighed more than. according to china daily in a letter to mayhew y. bo foster wife virginia written at the time mayhew y. bo foster describes mayhew y. bo foster first impression of captured nazi war criminal hermann göring as effeminate gave mayhew y. bo foster the creeps...several times mayhew y. bo foster had the impulse to turn an unescorted unarmed l5 a larger plane than the l4 he normally piloted over and see if mayhew y. bo foster could shake captured nazi war criminal hermann göring out but captured nazi war criminal hermann göring was wedged in like a champagne cork. mayhew y. bo foster said that captured nazi war criminal hermann göring avoided any talk of adolf hitler with whom captured nazi war criminal hermann göring as the commander of the luftwaffe had fallen out of favor as the total german defeat neared. captured nazi war criminal hermann göring acted as though captured nazi war criminal hermann göring was going on a sightseeing tour or really as though mayhew y. bo foster was going on a sightseeing tour and captured nazi war criminal hermann göring was showing mayhew y. bo foster where captured nazi war criminal hermann göring grew up. mayhew y. bo foster had a .45 in a shoulder holster but captured nazi war criminal hermann göring couldnt reach a .45 in a shoulder holster . but neither could mayhew y. bo foster because mayhew y. bo foster had two hands controlling an unescorted unarmed l5 a larger plane than the l4 he normally piloted . mayhew y. bo foster further recalled captured nazi war criminal hermann göring as having been sharp friendly and witty having joked when mayhew y. bo foster asked captured nazi war criminal hermann göring when germany began manufacturing jets. too late captured nazi war criminal hermann göring was said to have answered. mayhew y. bo foster continued mayhew y. bo foster could see that captured nazi war criminal hermann göring was like one of our officers if captured nazi war criminal hermann göring d been picked up. mayhew y. bo foster questioned all that we knew about these vicious people. captured nazi war criminal hermann göring was convicted of war crimes and committed suicide in october 1946 by taking a cyanide capsule before captured nazi war criminal hermann göring could be hanged by the nuremberg authorities. by october 1945 mayhew y. bo foster was back in the united states having flown seventy reconnaissance combat missions during mayhew y. bo foster wartime service. mayhew y. bo foster returned to mayhew y. bo foster adopted home state of montana where mayhew y. bo foster was appointed lieutenant colonel in the montana army national guard. mayhew y. bo foster was thereafter promoted to brigadier general a rank that mayhew y. bo foster held from 1963 until 1971. mayhew y. bo foster graduated in 1937 with a degree in english from yale university in new haven connecticut. mayhew y. bo foster and mayhew y. bo foster wife virginia lou foster february 15 1916 may 7 1993 were married in 1940. he and his wife virginia lou foster february 15 1916 may 7 1993 had one daughter susan carol foster korkalo 1944 2007. mayhew y. bo foster received the silver star for mayhew y. bo foster wartime service in southern france in 1944. it was not until 2009 that mayhew y. bo foster received the french legion of honor when pierre vimont the french ambassador to the united states released a letter hailing mayhew y. bo foster for mayhew y. bo foster personal precious contribution to the united states decisive role in the liberation of germany during world war ii . mayhew y. bo foster died at the age of ninetynine in a nursing home in missoula montana . mayhew y. bo foster last city of residence was livingston in park county montana . survivors included soninlaw roy e. korkalo of livingston in park county montanagrandson chris korkalo and a sister priscilla f. howell.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0 and for ground truth is : 0.14166666666666666
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

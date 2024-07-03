@@ -1,0 +1,55 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Engraving and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Sculpture and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Engraving and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Sculpture and the value is : 0
+http://dbpedia.org/resource/Engraving and http://dbpedia.org/resource/Sculpture and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Victor_Hugo and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Juliette_Drouet and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Victor_Hugo and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Juliette_Drouet and the value is : 1
+http://dbpedia.org/resource/Victor_Hugo and http://dbpedia.org/resource/Juliette_Drouet and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Victor_Hugo and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Lithography and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Tapestry and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Ceramic_art and the value is : 0
+http://dbpedia.org/resource/Lithography and http://dbpedia.org/resource/Tapestry and the value is : 1
+http://dbpedia.org/resource/Lithography and http://dbpedia.org/resource/Ceramic_art and the value is : 0
+http://dbpedia.org/resource/Tapestry and http://dbpedia.org/resource/Ceramic_art and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Fauvism and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Cubism and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Surrealism and the value is : 0
+http://dbpedia.org/resource/Fauvism and http://dbpedia.org/resource/Cubism and the value is : 1
+http://dbpedia.org/resource/Fauvism and http://dbpedia.org/resource/Surrealism and the value is : 0
+http://dbpedia.org/resource/Cubism and http://dbpedia.org/resource/Surrealism and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Charles_Baudelaire and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paul_I_of_Russia and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paul_Verlaine and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Jean_Cocteau and the value is : 0
+http://dbpedia.org/resource/Charles_Baudelaire and http://dbpedia.org/resource/Paul_I_of_Russia and the value is : 1
+http://dbpedia.org/resource/Charles_Baudelaire and http://dbpedia.org/resource/Paul_Verlaine and the value is : 0
+http://dbpedia.org/resource/Charles_Baudelaire and http://dbpedia.org/resource/Jean_Cocteau and the value is : 0
+http://dbpedia.org/resource/Paul_I_of_Russia and http://dbpedia.org/resource/Paul_Verlaine and the value is : 0
+http://dbpedia.org/resource/Paul_I_of_Russia and http://dbpedia.org/resource/Jean_Cocteau and the value is : 0
+http://dbpedia.org/resource/Paul_Verlaine and http://dbpedia.org/resource/Jean_Cocteau and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paul_I_of_Russia and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paul_Claudel and the value is : 1
+http://dbpedia.org/resource/Paul_I_of_Russia and http://dbpedia.org/resource/Paul_Claudel and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+jean hugo 18941984 was a french painter illustrator engraver and sculptor. he was born in paris the son of the writer victor hugo and his wife juliette drouet. he was the grandson of the poet novelist and dramatist victor hugo. jean hugo was a prolific artist best known for his drawings and engravings. he also produced paintings lithographs sculptures tapestries and ceramics. he was associated with the art movements of fauvism cubism and surrealism. he illustrated books by authors such as charles baudelaire paul verlaine and jean cocteau. he also designed sets and costumes for the theatre including works by jean cocteau maurice maeterlinck and paul claudel. 
+
+Coref Resolved : 
+jean hugo 18941984 was a french painter illustrator engraver and sculptor. jean hugo was born in paris the son of the writer victor hugo and the writer victor hugo wife juliette drouet. jean hugo was the grandson of the writer victor hugo . jean hugo was a prolific artist best known for jean hugo drawings and engravings. jean hugo also produced paintings lithographs sculptures tapestries and ceramics. jean hugo was associated with the art movements of fauvism cubism and surrealism. jean hugo illustrated books by authors such as charles baudelaire paul verlaine and jean cocteau. jean hugo also designed sets and costumes for the theatre including works by jean cocteaumaurice maeterlinck and paul claudel.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2631578947368421
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate accurate accurate accurate accurate minor_inaccurate minor_inaccurate 
+

@@ -1,0 +1,40 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Charlotte_Rae and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Charlotte_Rae and http://dbpedia.org/resource/Character_actor and the value is : 1
+http://dbpedia.org/resource/Charlotte_Rae and http://dbpedia.org/resource/Comedian and the value is : 0
+http://dbpedia.org/resource/Charlotte_Rae and http://dbpedia.org/resource/Dance and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Comedian and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Dance and the value is : 1
+http://dbpedia.org/resource/Character_actor and http://dbpedia.org/resource/Comedian and the value is : 0
+http://dbpedia.org/resource/Character_actor and http://dbpedia.org/resource/Dance and the value is : 0
+http://dbpedia.org/resource/Comedian and http://dbpedia.org/resource/Dance and the value is : 1
+http://dbpedia.org/resource/Charlotte_Rae and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/Charlotte_Rae and http://dbpedia.org/resource/Primetime_Emmy_Award and the value is : 1
+http://dbpedia.org/resource/Charlotte_Rae and http://dbpedia.org/resource/ABC_Afterschool_Special and the value is : 0
+http://dbpedia.org/resource/Charlotte_Rae and http://dbpedia.org/resource/Running and the value is : 0
+http://dbpedia.org/resource/Primetime_Emmy_Award and http://dbpedia.org/resource/ABC_Afterschool_Special and the value is : 0
+http://dbpedia.org/resource/Primetime_Emmy_Award and http://dbpedia.org/resource/Running and the value is : 0
+http://dbpedia.org/resource/ABC_Afterschool_Special and http://dbpedia.org/resource/Running and the value is : 0
+http://dbpedia.org/resource/Charlotte_Rae and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Charlotte_Rae and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Charlotte_Rae and http://dbpedia.org/resource/Liars_(band) and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Liars_(band) and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Liars_(band) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+charlotte rae born charlotte rae lubotsky april 22 1926 august 5 2018 was an american character actress comedian singer and dancer whose career spanned seven decades. she was known for her portrayal of edna garrett in the sitcoms diffrent strokes and the facts of life. she received a primetime emmy award nomination for her performance in the abc afterschool special the loneliest runner 1976. she also appeared in many other television shows and films including car 54 where are you all in the family pretty little liars and you again. 
+
+Coref Resolved : 
+charlotte rae born charlotte rae lubotsky april 22 1926 august 5 2018 was an american character actress comedian singer and dancer whose career spanned seven decades. charlotte rae was known for charlotte rae portrayal of edna garrett in the sitcoms diffrent strokes and the facts of life. charlotte rae received a primetime emmy award nomination for charlotte rae performance in the abc afterschool special the loneliest runner 1976. charlotte rae also appeared in many other television shows and films including car 54 where are you all in the family pretty little liars and you again.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.17391304347826086
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate accurate 
+

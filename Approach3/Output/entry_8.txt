@@ -1,0 +1,105 @@
+#############SENTENCE_PAIRS############
+
+Wilhelm Windelband and philosopher and the value is : 0
+Wilhelm Windelband and nomothetic and the value is : 0
+Wilhelm Windelband and idiographic and the value is : 0
+Wilhelm Windelband and psychology and the value is : 0
+Wilhelm Windelband and philosophy and the value is : 0
+Wilhelm Windelband and neo-Kantian and the value is : 0
+Wilhelm Windelband and psychologism and the value is : 0
+Wilhelm Windelband and Baden School and the value is : 0
+Wilhelm Windelband and neo-Kantianism and the value is : 0
+Wilhelm Windelband and Kuno Fischer and the value is : 0
+Wilhelm Windelband and Franz Brentano and the value is : 0
+Wilhelm Windelband students and Edmund Husserl and the value is : -1
+Wilhelm Windelband students and Adolf Reinach and the value is : -1
+Wilhelm Windelband students and Carl Stumpf and the value is : -1
+Wilhelm Windelband students and Richard von Mises and the value is : -1
+
+#############GROUND_PAIRS############
+
+Wilhelm Windelband and philosopher and the value is : 1
+Wilhelm Windelband and Baden School and the value is : 1
+Wilhelm Windelband and nomothetic and the value is : 1
+Wilhelm Windelband and idiographic and the value is : 1
+terms and nomothetic and the value is : 1
+terms and idiographic and the value is : 1
+terms and psychology and the value is : 1
+Wilhelm Windelband and Neo-Kantian and the value is : 1
+Wilhelm Windelband and Kant and the value is : 1
+Wilhelm Windelband and Kant and the value is : 1
+Wilhelm Windelband and positivist and the value is : 1
+Wilhelm Windelband and philosophy and the value is : 1
+Wilhelm Windelband interests and psychology and the value is : 1
+Wilhelm Windelband interests and psychologism and the value is : 1
+Wilhelm Windelband interests and historicism and the value is : 1
+Wilhelm Windelband and Kant and the value is : 1
+Wilhelm Windelband and Georg Wilhelm Friedrich Hegel and the value is : 1
+Wilhelm Windelband and Johann and the value is : 0
+Wilhelm Windelband and Herbart and the value is : 0
+Wilhelm Windelband and Hermann Lotze and the value is : 1
+Wilhelm Windelband and Heinrich Rickert and the value is : 1
+Wilhelm Windelband disciples and Max Weber and the value is : 1
+Wilhelm Windelband disciples and Ernst Troeltsch and the value is : 1
+Wilhelm Windelband disciples and Albert and the value is : 0
+Wilhelm Windelband disciples and Schweitzer and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Wilhelm Windelband (15 March 1848 18 September 1915) was a German philosopher of the late 19th and early 20th centuries.
+He is now remembered mainly for the terms "nomothetic" and "idiographic," which he introduced.
+He also wrote on history, psychology, the philosophy of religion, values, and other topics.
+He was a neo-Kantian who protested other neo-Kantians of his time and maintained a critical position towards psychologism.
+Windelband is known as one of the founders of the "Baden School" of neo-Kantianism.
+He was a student of Kuno Fischer and Franz Brentano.
+His students included Edmund Husserl, Adolf Reinach, Carl Stumpf, and Richard von Mises.
+
+
+Coref Resolved: 
+
+0. Wilhelm Windelband (15 March 1848 18 September 1915) was a German philosopher of the late 19th and early 20th centuries.
+1. Wilhelm Windelband is now remembered mainly for the terms "nomothetic" and "idiographic," which Wilhelm Windelband introduced.
+2. Wilhelm Windelband also wrote on history, psychology, the philosophy of religion, values, and other topics.
+3. Wilhelm Windelband was a neo-Kantian who protested other neo-Kantians of Wilhelm Windelband time and maintained a critical position towards psychologism.
+4. Wilhelm Windelband is known as one of the founders of the "Baden School" of neo-Kantianism.
+5. Wilhelm Windelband was a student of Kuno Fischer and Franz Brentano.
+6. Wilhelm Windelband students included Edmund Husserl, Adolf Reinach, Carl Stumpf, and Richard von Mises.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Wilhelm Windelband (May 11, 1848 - October 22, 1915) was a German philosopher of the Baden School.
+Windelband is now mainly remembered for the terms "nomothetic" and "idiographic", which he introduced.
+These have currency in psychology and other areas, though not necessarily in line with his original meanings.
+Windelband was a Neo-Kantian who protested other Neo-Kantians of his time and maintained that "to understand Kant rightly means to go beyond him".
+Against his positivist contemporaries, Windelband argued that philosophy should engage in humanistic dialogue with the natural sciences rather than uncritically appropriating its methodologies.
+His interests in psychology and cultural sciences represented an opposition to psychologism and historicism schools by a critical philosophic system.
+Windelband relied in his effort to reach beyond Kant on such philosophers as Georg Wilhelm Friedrich Hegel, Johann Friedrich Herbart, and Hermann Lotze.
+Closely associated with Windelband was Heinrich Rickert.
+Windelband's disciples were not only noted philosophers, but sociologists like Max Weber and theologians like Ernst Troeltsch and Albert Schweitzer. 
+
+Coref Resolved: 
+
+0. Wilhelm Windelband (May 11, 1848 - October 22, 1915) was a German philosopher of the Baden School.
+1. Wilhelm Windelband is now mainly remembered for the terms "nomothetic" and "idiographic", which he introduced .
+2. the terms "nomothetic" and "idiographic", which he introduced have currency in psychology and other areas, though not necessarily in line with Wilhelm Windelband original meanings.
+3. Wilhelm Windelband was a Neo-Kantian who protested other Neo-Kantians of Wilhelm Windelband time and maintained that "to understand Kant rightly means to go beyond Kant ".
+4. Against Wilhelm Windelband positivist contemporaries, Wilhelm Windelband argued that philosophy should engage in humanistic dialogue with the natural sciences rather than uncritically appropriating the natural sciences methodologies.
+5. Wilhelm Windelband interests in psychology and cultural sciences represented an opposition to psychologism and historicism schools by a critical philosophic system.
+6. Wilhelm Windelband relied in Wilhelm Windelband effort to reach beyond Kant on such philosophers as Georg Wilhelm Friedrich Hegel, Johann Friedrich Herbart, and Hermann Lotze.
+7. Closely associated with Wilhelm Windelband was Heinrich Rickert.
+8. Wilhelm Windelband disciples were not only noted philosophers, but sociologists like Max Weber and theologians like Ernst Troeltsch and Albert Schweitzer.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.0 0.0 0.0 -1.0 
+
+Value for ground truth is : 
+1.0 1.0 1.0 1.0 1.0 1.0 0.6 1.0 0.75 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate accurate major_inaccurate major_inaccurate 
+

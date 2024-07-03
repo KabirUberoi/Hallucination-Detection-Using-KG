@@ -1,0 +1,42 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Environmentalist and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Transportation_planning and the value is : 0
+http://dbpedia.org/resource/Environmentalist and http://dbpedia.org/resource/Transportation_planning and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Nonprofit_organization and the value is : 1
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Sustainable_transport and the value is : 0
+http://dbpedia.org/resource/Nonprofit_organization and http://dbpedia.org/resource/Sustainable_transport and the value is : 1
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Sustainable_transport and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Urban_planning and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Landscape_design and the value is : 0
+http://dbpedia.org/resource/Sustainable_transport and http://dbpedia.org/resource/Urban_planning and the value is : 1
+http://dbpedia.org/resource/Sustainable_transport and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Sustainable_transport and http://dbpedia.org/resource/Landscape_design and the value is : 0
+http://dbpedia.org/resource/Urban_planning and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Urban_planning and http://dbpedia.org/resource/Landscape_design and the value is : 1
+http://dbpedia.org/resource/Transport and http://dbpedia.org/resource/Landscape_design and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Sustainable_transport and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Bus_rapid_transit and the value is : 0
+http://dbpedia.org/resource/Sustainable_transport and http://dbpedia.org/resource/Bus_rapid_transit and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Water_pricing and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Traffic_congestion and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Air_pollution and the value is : 0
+http://dbpedia.org/resource/Water_pricing and http://dbpedia.org/resource/Traffic_congestion and the value is : 0
+http://dbpedia.org/resource/Water_pricing and http://dbpedia.org/resource/Air_pollution and the value is : 0
+http://dbpedia.org/resource/Traffic_congestion and http://dbpedia.org/resource/Air_pollution and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+michael replogle born 1951 is an american environmentalist and transportation planner. he is the founder and director of the institute for transportation and development policy itdp a global nonprofit organization that works to promote sustainable transport solutions in cities around the world. replogle has been a leader in the field of sustainable transportation for more than four decades and has been credited with helping to shape the modern urban transport landscape. he has worked with cities in more than 40 countries to develop and implement sustainable transport policies and projects including bus rapid transit bikesharing and pedestrianfriendly streets. he has also been a vocal advocate for the use of pricing mechanisms to reduce traffic congestion and air pollution. 
+
+Coref Resolved : 
+michael replogle born 1951 is an american environmentalist and transportation planner. replogle is the founder and director of the institute for transportation and development policy the institute for transportation and development policy a global nonprofit organization that works to promote sustainable transport solutions in cities around the world. replogle has been a leader in the field of sustainable transportation for more than four decades and has been credited with helping to shape the modern urban transport landscape. replogle has worked with cities in more than 40 countries to develop and implement sustainable transport policies and projects including bus rapid transit bikesharing and pedestrianfriendly streets. replogle has also been a vocal advocate for the use of pricing mechanisms to reduce traffic congestion and air pollution.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate 
+

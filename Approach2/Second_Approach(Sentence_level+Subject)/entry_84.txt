@@ -1,0 +1,92 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Georgian_language and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Georgian_language and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Danish_language and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Cycle_sport and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Knud_Enemark_Jensen and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/1960_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Bakuriani and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Georgia_national_rugby_union_team and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Georgian_language and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Whistler_Sliding_Centre and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Sled and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Georgian_Soviet_Socialist_Republic and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Whistler_Sliding_Centre and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Olympic_Games_ceremony and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Kazimierz_Kay-Skrzypecki and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Ross_Milne_(alpine_skier) and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/1964_Winter_Olympics and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Switzerland and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Speed_skiing and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Nicolas_Bochatay and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/1992_Winter_Olympics and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Winter_Olympic_Games and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Georgia_national_football_team and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Georgian_Soviet_Socialist_Republic and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Luge_World_Cup and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Georgian_Technical_University and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Nodar Kumaritashvili (Georgian ნოდარ ქუმარითაშვილი 12 December 1988 12 February 2010) was a Georgian luger who died during a training run prior to the 2010 Winter Olympics in Vancouver.
+He was the first athlete to die in competition at the Olympic Games since the death of Danish cyclist Knud Enemark Jensen at the 1960 Summer Olympics.
+Kumaritashvili was born in Bakuriani, Georgia, and began competing in luge in 2003.
+He was the Georgian national champion in 2008 and 2009, and was the 2009 Junior World Champion.
+He was considered a medal contender for the 2010 Winter Olympics.
+On 12 February 2010, Kumaritashvili was killed during a training run at the Whistler Sliding Centre, the venue for the luge events at the 2010 Winter Olympics.
+He lost control of his sled at.
+
+
+Coref Resolved: 
+
+Nodar Kumaritashvili (Georgian ნოდარ ქუმარითაშვილი 12 December 1988 12 February 2010) was a Georgian luger who died during a training run prior to the 2010 Winter Olympics in Vancouver.
+Nodar Kumaritashvili was the first athlete to die in competition at the Olympic Games since the death of Danish cyclist Knud Enemark Jensen at the 1960 Summer Olympics.
+Nodar Kumaritashvili was born in Bakuriani, Georgia, and began competing in luge in 2003.
+Nodar Kumaritashvili was the Georgian national champion in 2008 and 2009, and was the 2009Junior World Champion.
+Nodar Kumaritashvili was considered a medal contender for the 2010 Winter Olympics in Vancouver.
+On 12 February 2010, Nodar Kumaritashvili was killed during a training run at the Whistler Sliding Centre, the venue for the luge events at the 2010 Winter Olympics in Vancouver.
+Nodar Kumaritashvili lost control of Nodar Kumaritashvili sled at.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Nodar Kumaritashvili (25 November 1988 12 February 2010) was a Georgian luger who suffered a fatal crash during a training run for the 2010 Winter Olympics competition in Whistler, Canada, on the day of the opening ceremony.
+He became the fourth athlete to have died during Winter Olympics preparations, after British luger Kazimierz Kay-Skrzypeski, Australian skier Ross Milne (both Innsbruck 1964), and Swiss speed skier Nicolas Bochatay (Albertville 1992), and the seventh athlete to die in either a Summer or Winter Olympic Games.
+Kumaritashvili, who first began to luge when he was 13, came from a family of seasoned lugers a relative of his was the founder of organised sledding in Georgia, and his father competed when he was younger.
+A cousin of Kumaritashvili on his father's side was the head of the Georgian Luge Federation Kumaritashvili himself began competing in the 2008 09 Luge World Cup, where he finished 55th out of 62 racers.
+Outside of luge, Kumaritashvili had been a student at the Georgian Technical University, where he earned an economics degree in 2009.
+ 
+
+Coref Resolved: 
+
+Nodar Kumaritashvili (25 November 1988 12 February 2010) was a Georgian luger who suffered a fatal crash during a training run for the 2010 Winter Olympics competition in Whistler, Canada, on the day of the opening ceremony.
+Nodar Kumaritashvili (25 November 1988 12 February 2010) became the fourth athlete to have died during Winter Olympics preparations, after British luger Kazimierz Kay-Skrzypeski, Australian skier Ross Milne (both Innsbruck 1964), and Swiss speed skier Nicolas Bochatay (Albertville 1992), and the seventh athlete to die in either a Summer or Winter Olympic Games.
+Kumaritashvili, who first began to luge when Nodar Kumaritashvili (25 November 1988 12 February 2010) was 13, came from a family of seasoned lugers a relative of Nodar Kumaritashvili (25 November 1988 12 February 2010) was the founder of organised sledding in Georgia, and Nodar Kumaritashvili (25 November 1988 12 February 2010) father competed when Nodar Kumaritashvili (25 November 1988 12 February 2010) was younger.
+A cousin of Nodar Kumaritashvili (25 November 1988 12 February 2010) on Nodar Kumaritashvili (25 November 1988 12 February 2010) father's side was the head of the Georgian Luge Federation Kumaritashvili Nodar Kumaritashvili (25 November 1988 12 February 2010) began competing in the 2008 09 Luge World Cup, where Nodar Kumaritashvili (25 November 1988 12 February 2010) finished 55th out of 62 racers.
+Outside of luge, Nodar Kumaritashvili (25 November 1988 12 February 2010) had been a student at the Georgian Technical University, where Nodar Kumaritashvili (25 November 1988 12 February 2010) earned an economics degree in 2009.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.25 0.0 0.5 0.0 0.5 0.6666666666666666 0.0 
+
+Value for ground truth is : 
+0.75 0.625 0.0 0.5 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate 
+

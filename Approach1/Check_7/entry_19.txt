@@ -1,0 +1,157 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Australians and the value is : 0
+http://dbpedia.org/resource/Art_museum and http://dbpedia.org/resource/South_Wales and the value is : 0
+http://dbpedia.org/resource/Art_museum and http://dbpedia.org/resource/Australian_Museum and the value is : 0
+http://dbpedia.org/resource/Art_museum and http://dbpedia.org/resource/Australian_art and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/Australian_Museum and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/Australian_art and the value is : 0
+http://dbpedia.org/resource/Australian_Museum and http://dbpedia.org/resource/Australian_art and the value is : 0
+http://dbpedia.org/resource/National_Art_School and http://dbpedia.org/resource/Electoral_district_of_Darlinghurst and the value is : 0
+http://dbpedia.org/resource/Archibald_Prize and http://dbpedia.org/resource/Sir_John_Sulman_Prize and the value is : 1
+http://dbpedia.org/resource/Archibald_Prize and http://dbpedia.org/resource/Doug_Moran_National_Portrait_Prize and the value is : 0
+http://dbpedia.org/resource/Sir_John_Sulman_Prize and http://dbpedia.org/resource/Doug_Moran_National_Portrait_Prize and the value is : 0
+http://dbpedia.org/resource/Wynne_Prize and http://dbpedia.org/resource/Blake_Prize and the value is : 0
+http://dbpedia.org/resource/Wynne_Prize and http://dbpedia.org/resource/Brett_Whiteley_Travelling_Art_Scholarship and the value is : 0
+http://dbpedia.org/resource/Blake_Prize and http://dbpedia.org/resource/Brett_Whiteley_Travelling_Art_Scholarship and the value is : 0
+http://dbpedia.org/resource/Australian_art and http://dbpedia.org/resource/Guggenheim_Fellowship and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Australians and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Australians and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/City_status_in_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/Albury and the value is : 0
+http://dbpedia.org/resource/City_status_in_the_United_Kingdom and http://dbpedia.org/resource/Albury and the value is : 1
+http://dbpedia.org/resource/Australian_art and http://dbpedia.org/resource/City_of_Newcastle and the value is : 0
+http://dbpedia.org/resource/Australian_art and http://dbpedia.org/resource/1998_Masters_Tournament and the value is : 0
+http://dbpedia.org/resource/Australian_art and http://dbpedia.org/resource/Fine_Arts_College and the value is : 0
+http://dbpedia.org/resource/Australian_art and http://dbpedia.org/resource/Fine_art and the value is : 0
+http://dbpedia.org/resource/Australian_art and http://dbpedia.org/resource/South_Wales and the value is : 0
+http://dbpedia.org/resource/City_of_Newcastle and http://dbpedia.org/resource/1998_Masters_Tournament and the value is : 0
+http://dbpedia.org/resource/City_of_Newcastle and http://dbpedia.org/resource/Fine_Arts_College and the value is : 0
+http://dbpedia.org/resource/City_of_Newcastle and http://dbpedia.org/resource/Fine_art and the value is : 0
+http://dbpedia.org/resource/City_of_Newcastle and http://dbpedia.org/resource/South_Wales and the value is : 0
+http://dbpedia.org/resource/1998_Masters_Tournament and http://dbpedia.org/resource/Fine_Arts_College and the value is : 0
+http://dbpedia.org/resource/1998_Masters_Tournament and http://dbpedia.org/resource/Fine_art and the value is : 0
+http://dbpedia.org/resource/1998_Masters_Tournament and http://dbpedia.org/resource/South_Wales and the value is : 0
+http://dbpedia.org/resource/Fine_Arts_College and http://dbpedia.org/resource/Fine_art and the value is : 0
+http://dbpedia.org/resource/Fine_Arts_College and http://dbpedia.org/resource/South_Wales and the value is : 0
+http://dbpedia.org/resource/Fine_art and http://dbpedia.org/resource/South_Wales and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Judo and the value is : 1
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/White_Bird_(Native_American_leader) and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Portrait and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Barrister and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Charles_Waterstreet and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Archibald_Prize and the value is : 0
+http://dbpedia.org/resource/Judo and http://dbpedia.org/resource/White_Bird_(Native_American_leader) and the value is : 0
+http://dbpedia.org/resource/Judo and http://dbpedia.org/resource/Portrait and the value is : 0
+http://dbpedia.org/resource/Judo and http://dbpedia.org/resource/Barrister and the value is : 1
+http://dbpedia.org/resource/Judo and http://dbpedia.org/resource/Charles_Waterstreet and the value is : 0
+http://dbpedia.org/resource/Judo and http://dbpedia.org/resource/Archibald_Prize and the value is : 0
+http://dbpedia.org/resource/White_Bird_(Native_American_leader) and http://dbpedia.org/resource/Portrait and the value is : 1
+http://dbpedia.org/resource/White_Bird_(Native_American_leader) and http://dbpedia.org/resource/Barrister and the value is : 0
+http://dbpedia.org/resource/White_Bird_(Native_American_leader) and http://dbpedia.org/resource/Charles_Waterstreet and the value is : 0
+http://dbpedia.org/resource/White_Bird_(Native_American_leader) and http://dbpedia.org/resource/Archibald_Prize and the value is : 0
+http://dbpedia.org/resource/Portrait and http://dbpedia.org/resource/Barrister and the value is : 1
+http://dbpedia.org/resource/Portrait and http://dbpedia.org/resource/Charles_Waterstreet and the value is : 0
+http://dbpedia.org/resource/Portrait and http://dbpedia.org/resource/Archibald_Prize and the value is : 0
+http://dbpedia.org/resource/Barrister and http://dbpedia.org/resource/Charles_Waterstreet and the value is : 0
+http://dbpedia.org/resource/Barrister and http://dbpedia.org/resource/Archibald_Prize and the value is : 0
+http://dbpedia.org/resource/Charles_Waterstreet and http://dbpedia.org/resource/Archibald_Prize and the value is : 0
+http://dbpedia.org/resource/Doug_Moran_National_Portrait_Prize and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Doug_Moran_National_Portrait_Prize and http://dbpedia.org/resource/Sir_John_Sulman_Prize and the value is : 0
+http://dbpedia.org/resource/Doug_Moran_National_Portrait_Prize and http://dbpedia.org/resource/Judo and the value is : 0
+http://dbpedia.org/resource/Doug_Moran_National_Portrait_Prize and http://dbpedia.org/resource/Mud and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Sir_John_Sulman_Prize and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Judo and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Mud and the value is : 0
+http://dbpedia.org/resource/Sir_John_Sulman_Prize and http://dbpedia.org/resource/Judo and the value is : 0
+http://dbpedia.org/resource/Sir_John_Sulman_Prize and http://dbpedia.org/resource/Mud and the value is : 0
+http://dbpedia.org/resource/Judo and http://dbpedia.org/resource/Mud and the value is : 0
+http://dbpedia.org/resource/Art_dealer and http://dbpedia.org/resource/Kerry_GAA and the value is : 0
+http://dbpedia.org/resource/Art_dealer and http://dbpedia.org/resource/Aleister_Crowley and the value is : 0
+http://dbpedia.org/resource/Art_dealer and http://dbpedia.org/resource/Hokusai and the value is : 0
+http://dbpedia.org/resource/Art_dealer and http://dbpedia.org/resource/Edward_Hopper and the value is : 0
+http://dbpedia.org/resource/Art_dealer and http://dbpedia.org/resource/Abstract_art and the value is : 0
+http://dbpedia.org/resource/Art_dealer and http://dbpedia.org/resource/Robert_Ryman and the value is : 0
+http://dbpedia.org/resource/Art_dealer and http://dbpedia.org/resource/Gerhard_Richter and the value is : 0
+http://dbpedia.org/resource/Art_dealer and http://dbpedia.org/resource/Pop_art and the value is : 1
+http://dbpedia.org/resource/Art_dealer and http://dbpedia.org/resource/Figurative_art and the value is : 0
+http://dbpedia.org/resource/Art_dealer and http://dbpedia.org/resource/Alex_Katz and the value is : 0
+http://dbpedia.org/resource/Kerry_GAA and http://dbpedia.org/resource/Aleister_Crowley and the value is : 0
+http://dbpedia.org/resource/Kerry_GAA and http://dbpedia.org/resource/Hokusai and the value is : 0
+http://dbpedia.org/resource/Kerry_GAA and http://dbpedia.org/resource/Edward_Hopper and the value is : 0
+http://dbpedia.org/resource/Kerry_GAA and http://dbpedia.org/resource/Abstract_art and the value is : 0
+http://dbpedia.org/resource/Kerry_GAA and http://dbpedia.org/resource/Robert_Ryman and the value is : 0
+http://dbpedia.org/resource/Kerry_GAA and http://dbpedia.org/resource/Gerhard_Richter and the value is : 0
+http://dbpedia.org/resource/Kerry_GAA and http://dbpedia.org/resource/Pop_art and the value is : 0
+http://dbpedia.org/resource/Kerry_GAA and http://dbpedia.org/resource/Figurative_art and the value is : 0
+http://dbpedia.org/resource/Kerry_GAA and http://dbpedia.org/resource/Alex_Katz and the value is : 0
+http://dbpedia.org/resource/Aleister_Crowley and http://dbpedia.org/resource/Hokusai and the value is : 0
+http://dbpedia.org/resource/Aleister_Crowley and http://dbpedia.org/resource/Edward_Hopper and the value is : 0
+http://dbpedia.org/resource/Aleister_Crowley and http://dbpedia.org/resource/Abstract_art and the value is : 0
+http://dbpedia.org/resource/Aleister_Crowley and http://dbpedia.org/resource/Robert_Ryman and the value is : 0
+http://dbpedia.org/resource/Aleister_Crowley and http://dbpedia.org/resource/Gerhard_Richter and the value is : 0
+http://dbpedia.org/resource/Aleister_Crowley and http://dbpedia.org/resource/Pop_art and the value is : 0
+http://dbpedia.org/resource/Aleister_Crowley and http://dbpedia.org/resource/Figurative_art and the value is : 0
+http://dbpedia.org/resource/Aleister_Crowley and http://dbpedia.org/resource/Alex_Katz and the value is : 1
+http://dbpedia.org/resource/Hokusai and http://dbpedia.org/resource/Edward_Hopper and the value is : 0
+http://dbpedia.org/resource/Hokusai and http://dbpedia.org/resource/Abstract_art and the value is : 0
+http://dbpedia.org/resource/Hokusai and http://dbpedia.org/resource/Robert_Ryman and the value is : 0
+http://dbpedia.org/resource/Hokusai and http://dbpedia.org/resource/Gerhard_Richter and the value is : 0
+http://dbpedia.org/resource/Hokusai and http://dbpedia.org/resource/Pop_art and the value is : 0
+http://dbpedia.org/resource/Hokusai and http://dbpedia.org/resource/Figurative_art and the value is : 0
+http://dbpedia.org/resource/Hokusai and http://dbpedia.org/resource/Alex_Katz and the value is : 0
+http://dbpedia.org/resource/Edward_Hopper and http://dbpedia.org/resource/Abstract_art and the value is : 0
+http://dbpedia.org/resource/Edward_Hopper and http://dbpedia.org/resource/Robert_Ryman and the value is : 0
+http://dbpedia.org/resource/Edward_Hopper and http://dbpedia.org/resource/Gerhard_Richter and the value is : 0
+http://dbpedia.org/resource/Edward_Hopper and http://dbpedia.org/resource/Pop_art and the value is : 0
+http://dbpedia.org/resource/Edward_Hopper and http://dbpedia.org/resource/Figurative_art and the value is : 0
+http://dbpedia.org/resource/Edward_Hopper and http://dbpedia.org/resource/Alex_Katz and the value is : 0
+http://dbpedia.org/resource/Abstract_art and http://dbpedia.org/resource/Robert_Ryman and the value is : 0
+http://dbpedia.org/resource/Abstract_art and http://dbpedia.org/resource/Gerhard_Richter and the value is : 0
+http://dbpedia.org/resource/Abstract_art and http://dbpedia.org/resource/Pop_art and the value is : 1
+http://dbpedia.org/resource/Abstract_art and http://dbpedia.org/resource/Figurative_art and the value is : 0
+http://dbpedia.org/resource/Abstract_art and http://dbpedia.org/resource/Alex_Katz and the value is : 0
+http://dbpedia.org/resource/Robert_Ryman and http://dbpedia.org/resource/Gerhard_Richter and the value is : 0
+http://dbpedia.org/resource/Robert_Ryman and http://dbpedia.org/resource/Pop_art and the value is : 0
+http://dbpedia.org/resource/Robert_Ryman and http://dbpedia.org/resource/Figurative_art and the value is : 0
+http://dbpedia.org/resource/Robert_Ryman and http://dbpedia.org/resource/Alex_Katz and the value is : 0
+http://dbpedia.org/resource/Gerhard_Richter and http://dbpedia.org/resource/Pop_art and the value is : 1
+http://dbpedia.org/resource/Gerhard_Richter and http://dbpedia.org/resource/Figurative_art and the value is : 0
+http://dbpedia.org/resource/Gerhard_Richter and http://dbpedia.org/resource/Alex_Katz and the value is : 0
+http://dbpedia.org/resource/Pop_art and http://dbpedia.org/resource/Figurative_art and the value is : 0
+http://dbpedia.org/resource/Pop_art and http://dbpedia.org/resource/Alex_Katz and the value is : 0
+http://dbpedia.org/resource/Figurative_art and http://dbpedia.org/resource/Alex_Katz and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Robbery and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Alcoholism and the value is : 0
+http://dbpedia.org/resource/Robbery and http://dbpedia.org/resource/Alcoholism and the value is : 0
+http://dbpedia.org/resource/Glebe and http://dbpedia.org/resource/Neighbourhood and the value is : 0
+http://dbpedia.org/resource/Cessnock_Correctional_Centre and http://dbpedia.org/resource/Parole and the value is : 0
+http://dbpedia.org/resource/Cessnock_Correctional_Centre and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Parole and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+nigel milsom born 1979 australian artist . known largescale figurative paintings depict people local area sydneys western suburbs . works held collections art gallery new south wales national gallery australia museum contemporary art australia . milsom born sydney studied national art school darlinghurst . recipient numerous awards including archibald prize 2013 sulman prize 2014 doug moran national portrait prize 2016 . finalist wynne prize blake prize brett whiteley travelling art scholarship . 2017 awarded australia councils visual arts fellowship . 
+
+Coref Resolved : 
+nigel milsom born 1979 australian artist . known largescale figurative paintings depict people local area sydney western suburbs . works held collections art gallery new south wales national gallery australia museum contemporary art australia . milsom born sydney studied national art school darlinghurst . recipient numerous awards including archibald prize 2013 sulman prize 2014 doug moran national portrait prize 2016 . finalist wynne prize blake prize brett whiteley travelling art scholarship . 2017 awarded australia councils visual arts fellowship .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+nigel milsom australian painter . born 1975 southern new south wales city albury . completed bachelors degree visual arts university newcastle 1998 masters degree fine arts college fine arts university new south wales 2002 . painting judo house pt 6 white bird portrait barrister charles waterstreet won 2015 archibald prize . 2014 milsom won doug moran national portrait prize painting uncle paddy 2012 won sulman prize painting judo house pt 4 golden mud . gallery owner art dealer kerry crowley described milsoms work influenced nineteenthcentury japanese master hokusai edward hopper whiteonwhite abstractionist robert ryman gerhard richter pop figurative painter alex katz . 2014 milsom convicted sentenced maximum sixandahalf years imprisonment april 2012 armed robbery influence drugs alcohol 7eleven glebe inner neighbourhood sydney . sentence reduced appeal years months imprisonment . milsom released cessnock correctional centre parole april 2015 . 
+
+Coref Resolved : 
+nigel milsom australian painter . born 1975 southern new south wales city albury . completed bachelors degree visual arts university newcastle 1998 masters degree fine arts college fine arts university new south wales 2002 . painting judo house pt 6 white bird portrait barrister charles waterstreet won 2015 archibald prize . 2014 milsom won doug moran national portrait prize painting uncle paddy 2012 won sulman prize painting judo house pt 4 golden mud . gallery owner art dealer kerry crowley described milsoms work influenced nineteenthcentury japanese master hokusai edward hopper whiteonwhite abstractionist robert ryman gerhard richter pop figurative painter alex katz . 2014 milsom convicted sentenced maximum sixandahalf years imprisonment april 2012 armed robbery influence drugs alcohol 7eleven glebe inner neighbourhood sydney . sentence reduced appeal years months imprisonment . milsoms released cessnock correctional centre parole april 2015 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.13333333333333333 and for ground truth is : 0.07894736842105263
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

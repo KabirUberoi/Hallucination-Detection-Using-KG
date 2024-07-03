@@ -1,0 +1,35 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Hit_song and the value is : 1
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/32_Flavors and the value is : 1
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Billboard_Hot_100 and the value is : 1
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/32_Flavors and the value is : 0
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/Billboard_Hot_100 and the value is : 1
+http://dbpedia.org/resource/32_Flavors and http://dbpedia.org/resource/Billboard_Hot_100 and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Fortune_cookie and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Surrender_Dorothy and the value is : 0
+http://dbpedia.org/resource/Fortune_cookie and http://dbpedia.org/resource/Surrender_Dorothy and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Acoustic_Soul and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Love_Life_(musical) and the value is : 1
+http://dbpedia.org/resource/Acoustic_Soul and http://dbpedia.org/resource/Love_Life_(musical) and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Sheryl_Crow and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Ani_DiFranco and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Indigo_Girls and the value is : 0
+http://dbpedia.org/resource/Sheryl_Crow and http://dbpedia.org/resource/Ani_DiFranco and the value is : 0
+http://dbpedia.org/resource/Sheryl_Crow and http://dbpedia.org/resource/Indigo_Girls and the value is : 1
+http://dbpedia.org/resource/Ani_DiFranco and http://dbpedia.org/resource/Indigo_Girls and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+alana davis born october 3 1968 is an american singersongwriter and musician. she is best known for her hit single 32 flavors which was released in 1997 and reached number 28 on the billboard hot 100. davis has released four studio albums blame it on me 1996 fortune cookies 1998 surrender dorothy 2002 and fortune cookies the best of alana davis 2004. she has also released two eps acoustic soul 2005 and love life 2008. davis has toured extensively throughout the united states and europe and has performed with such artists as sheryl crow ani difranco and the indigo girls. 
+
+Coref Resolved : 
+alana davis born october 3 1968 is an american singersongwriter and musician. alana davis born october 3 1968 is best known for alana davis born october 3 1968 hit single 32 flavors which was released in 1997 and reached number 28 on the billboard hot 100. alana davis born october 3 1968 has released four studio albums blame it on me 1996 fortune cookies 1998 surrender dorothy 2002 and fortune cookies the best of alana davis born october 3 1968 2004. alana davis born october 3 1968 has also released two eps acoustic soul 2005 and love life 2008. alana davis born october 3 1968 has toured extensively throughout the united states and europe and has performed with such artists as sheryl crow ani difranco and the indigo girls.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate 
+

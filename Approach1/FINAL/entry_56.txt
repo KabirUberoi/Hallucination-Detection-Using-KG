@@ -1,0 +1,204 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Entrepreneurship and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Angel_investor and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Entrepreneurship and http://dbpedia.org/resource/Angel_investor and the value is : 1
+http://dbpedia.org/resource/Entrepreneurship and http://dbpedia.org/resource/Philanthropy and the value is : 1
+http://dbpedia.org/resource/Angel_investor and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Venture_capital and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Venture_capital and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Venture_capital and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Economic_development and the value is : 0
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Economic_development and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Economic_development and the value is : 0
+http://dbpedia.org/resource/Health_care and http://dbpedia.org/resource/Economic_development and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Software_engineer and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Venture_capital and the value is : 1
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Venture_capital and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Global_education and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Nonprofit_organization and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Developing_country and the value is : 0
+http://dbpedia.org/resource/Global_education and http://dbpedia.org/resource/Nonprofit_organization and the value is : 0
+http://dbpedia.org/resource/Global_education and http://dbpedia.org/resource/Developing_country and the value is : 0
+http://dbpedia.org/resource/Nonprofit_organization and http://dbpedia.org/resource/Developing_country and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Learning_disability and the value is : 1
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Nonprofit_organization and the value is : 0
+http://dbpedia.org/resource/Learning_disability and http://dbpedia.org/resource/Nonprofit_organization and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Pitcher and the value is : 1
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 1
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Pitcher and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 0
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Minnesota_Twins and the value is : 1
+http://dbpedia.org/resource/Philadelphia_Phillies and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Yonkers_station and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Yonkers_station and http://dbpedia.org/resource/Stephen_George_(musician) and the value is : 0
+http://dbpedia.org/resource/Yonkers_station and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 0
+http://dbpedia.org/resource/Yonkers_station and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Yonkers_station and http://dbpedia.org/resource/Relief_pitcher and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Stephen_George_(musician) and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Relief_pitcher and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Relief_pitcher and the value is : 1
+http://dbpedia.org/resource/Philadelphia_Phillies and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Phillies and http://dbpedia.org/resource/Relief_pitcher and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Relief_pitcher and the value is : 1
+http://dbpedia.org/resource/Philadelphia_Phillies and http://dbpedia.org/resource/Stephen_George_(musician) and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Phillies and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Phillies and http://dbpedia.org/resource/Smoky_Burgess and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Phillies and http://dbpedia.org/resource/Stan_Palys and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Phillies and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 1
+http://dbpedia.org/resource/Philadelphia_Phillies and http://dbpedia.org/resource/Andy_Seminick and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Phillies and http://dbpedia.org/resource/Glen_Gorbous and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Phillies and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Smoky_Burgess and the value is : 1
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Stan_Palys and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 1
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Andy_Seminick and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Glen_Gorbous and the value is : 1
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Jim_Henson and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Smoky_Burgess and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Stan_Palys and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Andy_Seminick and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Glen_Gorbous and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Smoky_Burgess and http://dbpedia.org/resource/Stan_Palys and the value is : 0
+http://dbpedia.org/resource/Smoky_Burgess and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Smoky_Burgess and http://dbpedia.org/resource/Andy_Seminick and the value is : 0
+http://dbpedia.org/resource/Smoky_Burgess and http://dbpedia.org/resource/Glen_Gorbous and the value is : 0
+http://dbpedia.org/resource/Smoky_Burgess and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Stan_Palys and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Stan_Palys and http://dbpedia.org/resource/Andy_Seminick and the value is : 1
+http://dbpedia.org/resource/Stan_Palys and http://dbpedia.org/resource/Glen_Gorbous and the value is : 0
+http://dbpedia.org/resource/Stan_Palys and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Cincinnati_Reds and http://dbpedia.org/resource/Andy_Seminick and the value is : 0
+http://dbpedia.org/resource/Cincinnati_Reds and http://dbpedia.org/resource/Glen_Gorbous and the value is : 0
+http://dbpedia.org/resource/Cincinnati_Reds and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Andy_Seminick and http://dbpedia.org/resource/Glen_Gorbous and the value is : 0
+http://dbpedia.org/resource/Andy_Seminick and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Glen_Gorbous and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Seattle_Mariners and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Pacific_Coast_League and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Rule_5_draft and the value is : 0
+http://dbpedia.org/resource/Seattle_Mariners and http://dbpedia.org/resource/Pacific_Coast_League and the value is : 0
+http://dbpedia.org/resource/Seattle_Mariners and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Seattle_Mariners and http://dbpedia.org/resource/Rule_5_draft and the value is : 0
+http://dbpedia.org/resource/Pacific_Coast_League and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Pacific_Coast_League and http://dbpedia.org/resource/Rule_5_draft and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Rule_5_draft and the value is : 1
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Stephen_George_(musician) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Cleveland_Indians and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Cricket_pitch and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Stephen_George_(musician) and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Cleveland_Indians and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Cricket_pitch and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Cleveland_Indians and the value is : 1
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Cricket_pitch and the value is : 1
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/Cleveland_Indians and http://dbpedia.org/resource/Cricket_pitch and the value is : 0
+http://dbpedia.org/resource/Cleveland_Indians and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/Cricket_pitch and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Cricket_pitch and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Toronto_Maple_Leafs and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/International_League and the value is : 0
+http://dbpedia.org/resource/Cricket_pitch and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Cricket_pitch and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/Cricket_pitch and http://dbpedia.org/resource/Toronto_Maple_Leafs and the value is : 0
+http://dbpedia.org/resource/Cricket_pitch and http://dbpedia.org/resource/International_League and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Toronto_Maple_Leafs and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/International_League and the value is : 0
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/Toronto_Maple_Leafs and the value is : 0
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/International_League and the value is : 0
+http://dbpedia.org/resource/Toronto_Maple_Leafs and http://dbpedia.org/resource/International_League and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Washington_Wizards and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Knuckleball and the value is : 0
+http://dbpedia.org/resource/Washington_Wizards and http://dbpedia.org/resource/Knuckleball and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Relief_pitcher and the value is : 1
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Relief_pitcher and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Stephen_George_(musician) and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 1
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Washington_Wizards and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Index_of_military_food_articles and the value is : 1
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Film_distributor and the value is : 0
+http://dbpedia.org/resource/Washington_Wizards and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Washington_Wizards and http://dbpedia.org/resource/Index_of_military_food_articles and the value is : 0
+http://dbpedia.org/resource/Washington_Wizards and http://dbpedia.org/resource/Film_distributor and the value is : 0
+http://dbpedia.org/resource/Direct_current and http://dbpedia.org/resource/Index_of_military_food_articles and the value is : 0
+http://dbpedia.org/resource/Direct_current and http://dbpedia.org/resource/Film_distributor and the value is : 0
+http://dbpedia.org/resource/Index_of_military_food_articles and http://dbpedia.org/resource/Film_distributor and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Charitable_organization and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Charitable_organization and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Major_League_Baseball_Players_Alumni_Association and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Washington_Wizards and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Chuck_Hinton and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball_Players_Alumni_Association and http://dbpedia.org/resource/Washington_Wizards and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball_Players_Alumni_Association and http://dbpedia.org/resource/Chuck_Hinton and the value is : 0
+http://dbpedia.org/resource/Washington_Wizards and http://dbpedia.org/resource/Chuck_Hinton and the value is : 0
+http://dbpedia.org/resource/Stephen_George_(musician) and http://dbpedia.org/resource/Cardiovascular_disease and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+steve ridzik born october 28 1965 is an american entrepreneur investor and philanthropist. he is the founder and ceo of ridzik enterprises a venture capital firm that invests in earlystage technology companies. he is also the founder of the ridzik foundation a philanthropic organization that supports education health and economic development initiatives in the united states and abroad. ridzik began his career as a software engineer at microsoft in the early 1990s. he left microsoft in 1997 to pursue his own entrepreneurial ventures. he founded ridzik enterprises in 2000 and has since invested in over 50 technology companies. he has also served as a board member for several technology companies including microsoft amazon and google. ridzik is a passionate advocate for education and has been involved in numerous philanthropic initiatives. he is a founding member of the global education fund a nonprofit organization that provides educational opportunities to children in developing countries. he is also a board member of the national center for learning disabilities a nonprofit organization that works to improve the lives of individuals with learning disabilities. 
+
+Coref Resolved : 
+steve ridzik born october 28 1965 is an american entrepreneur investor and philanthropist. steve ridzik born october 28 1965 is the founder and ceo of ridzik enterprises a venture capital firm that invests in earlystage technology companies. steve ridzik born october 28 1965 is also the founder of the ridzik foundation a philanthropic organization that supports education health and economic development initiatives in the united states and abroad. steve ridzik born october 28 1965 began steve ridzik born october 28 1965 career as a software engineer at microsoft in the early 1990s. steve ridzik born october 28 1965 left microsoft in 1997 to pursue steve ridzik born october 28 1965 own entrepreneurial ventures. steve ridzik born october 28 1965 founded ridzik enterprises a venture capital firm that invests in earlystage technology companiesin 2000 and has since invested in over 50 technology companies. steve ridzik born october 28 1965 has also served as a board member for several technology companies including microsoft amazon and google. steve ridzik born october 28 1965 is a passionate advocate for education and has been involved in numerous philanthropic initiatives. steve ridzik born october 28 1965 is a founding member of the global education fund a nonprofit organization that provides educational opportunities to children in developing countries. steve ridzik born october 28 1965 is also a board member of the national center for learning disabilities a nonprofit organization that works to improve the lives of individuals with learning disabilities.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+stephen george ridzik april 29 1929 january 8 2008 was an american righthanded pitcher in major league baseball who played for five teams from 1950 to 1963 primarily the philadelphia phillies and washington senators. born in yonkers new york ridzik was signed by the phillies at the age of 16 and made his major league debut on september 4 1950 pitching in relief. in 1951 ridzik started 12 games and relieved in 30 more going 96 with an earned run average of 3.77. the phillies traded him on april 30 1952 along with smoky burgess and stan palys to the cincinnati redlegs for andy seminick glen gorbous and jim greengrass. after having his contract sold to seattle of the pacific coast league that same year the new york giants claimed him the next month in the rule 5 draft. ridzik pitched for the giants from 1952 to 1957 appearing in 56 games including 5 starts. on april 8 1958 the giants sold his contract to the cleveland indians where he would pitch in six more games before his contract was sold again to the chicago cubs. he would not pitch a major league game with the cubs before his contract was sold to the toronto maple leafs of the international league. ridzik signed with the washington senators three years later in 1961 after developing a knuckleball. he would appear in 132 games mostly in relief over the next three years for the senators. on april 13 1964 his contract was sold back to his original team the phillies. he would appear in two games with the phillies that year before calling it a career. after life as a baseball player ridzik worked in the washington d.c. area for a military food distributor until moving to florida in the late 1980s. in florida he helped with the organizing of charity events featuring former major league players. he also helped establish the major league baseball players alumni association with former senators teammate chuck hinton. he died on january 8 2008 after fighting heart disease for several years. 
+
+Coref Resolved : 
+stephen george ridzik april 29 1929 january 8 2008 was an american righthanded pitcher in major league baseball who played for five teams from 1950 to 1963 primarily the philadelphia phillies and washington senators. born in yonkers new york stephen george ridzik was signed by philadelphia phillies at the age of 16 and made stephen george ridzik major league debut on september 4 1950 pitching in relief. in 1951 stephen george ridzik started 12 games and relieved in 30 more going 96 with an earned run average of 3.77. philadelphia phillies traded stephen george ridzik on april 30 that same year along with smoky burgess and stan palys to the cincinnati redlegs for andy seminick glen gorbous and jim greengrass. after having stephen george ridzik contract sold to seattle of the pacific coast league that same year the new york giants claimed stephen george ridzik the next month in the rule 5 draft. stephen george ridzik pitched for the new york giants from that same year to 1957 appearing in 56 games including 5 starts. on april 8 1958 the new york giants sold stephen george ridzik contract to the cleveland indians where stephen george ridzik would pitch in six more games before stephen george ridzik contract was sold again to the chicago cubs. stephen george ridzik would not pitch a major league game with the chicago cubsbefore stephen george ridzik contract was sold to the toronto maple leafs of the international league. stephen george ridzik signed with washington senatorsthree years later in 1961 after developing a knuckleball. stephen george ridzik would appear in 132 games mostly in relief over the next three years for washington senators. on april 13 that year stephen george ridzik contract was sold back to stephen george ridzik original team the phillies. stephen george ridzik would appear in two games with philadelphia phillies that year before calling it a career. after life as a baseball player stephen george ridzik worked in the washington d.c. area for a military food distributor until moving to florida in the late 1980s. in florida stephen george ridzik helped with the organizing of charity events featuring former major league players. stephen george ridzik also helped establish the major league baseball players alumni association with former washington senatorsteammate chuck hinton. stephen george ridzik died on january 8 2008 after fighting heart disease for several years.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10256410256410256 and for ground truth is : 0.17518248175182483
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

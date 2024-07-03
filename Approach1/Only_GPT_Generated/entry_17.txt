@@ -1,0 +1,60 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Dance and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Dance and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Misfits_Gaming and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Unforgiven and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Ocean_sunfish and the value is : 0
+http://dbpedia.org/resource/Misfits_Gaming and http://dbpedia.org/resource/Unforgiven and the value is : 0
+http://dbpedia.org/resource/Misfits_Gaming and http://dbpedia.org/resource/Ocean_sunfish and the value is : 1
+http://dbpedia.org/resource/Unforgiven and http://dbpedia.org/resource/Ocean_sunfish and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Dance and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Broadway_theatre and the value is : 0
+http://dbpedia.org/resource/Dance and http://dbpedia.org/resource/Broadway_theatre and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/1934_in_film and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Misfits_Gaming and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Clark_Gable and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Marilyn_Monroe and the value is : 0
+http://dbpedia.org/resource/1934_in_film and http://dbpedia.org/resource/Misfits_Gaming and the value is : 0
+http://dbpedia.org/resource/1934_in_film and http://dbpedia.org/resource/Clark_Gable and the value is : 0
+http://dbpedia.org/resource/1934_in_film and http://dbpedia.org/resource/Marilyn_Monroe and the value is : 0
+http://dbpedia.org/resource/Misfits_Gaming and http://dbpedia.org/resource/Clark_Gable and the value is : 0
+http://dbpedia.org/resource/Misfits_Gaming and http://dbpedia.org/resource/Marilyn_Monroe and the value is : 0
+http://dbpedia.org/resource/Clark_Gable and http://dbpedia.org/resource/Marilyn_Monroe and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Unforgiven and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Ocean_sunfish and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Rockford and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/The_Waltons and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/The_Golden_Girls and the value is : 0
+http://dbpedia.org/resource/Unforgiven and http://dbpedia.org/resource/Ocean_sunfish and the value is : 0
+http://dbpedia.org/resource/Unforgiven and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Unforgiven and http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Rockford and the value is : 0
+http://dbpedia.org/resource/Unforgiven and http://dbpedia.org/resource/The_Waltons and the value is : 1
+http://dbpedia.org/resource/Unforgiven and http://dbpedia.org/resource/The_Golden_Girls and the value is : 0
+http://dbpedia.org/resource/Ocean_sunfish and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Ocean_sunfish and http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Rockford and the value is : 0
+http://dbpedia.org/resource/Ocean_sunfish and http://dbpedia.org/resource/The_Waltons and the value is : 0
+http://dbpedia.org/resource/Ocean_sunfish and http://dbpedia.org/resource/The_Golden_Girls and the value is : 1
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Rockford and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/The_Waltons and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/The_Golden_Girls and the value is : 0
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Rockford and http://dbpedia.org/resource/The_Waltons and the value is : 0
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Rockford and http://dbpedia.org/resource/The_Golden_Girls and the value is : 0
+http://dbpedia.org/resource/The_Waltons and http://dbpedia.org/resource/The_Golden_Girls and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+carol huston born october 17 1934 is an american actress singer and dancer. she is best known for her roles in the films the misfits 1961 the unforgiven 1960 and the mambo kings 1992. huston began her career as a dancer in the 1950s performing in broadway musicals such as guys and dolls and cancan. she made her film debut in the misfits starring alongside clark gable and marilyn monroe. she went on to appear in several other films including the unforgiven the mambo kings and the godfather part iii. she has also appeared in television series such as the rockford files the waltons and the golden girls. 
+
+Coref Resolved : 
+carol huston born october 17 1934 is an american actress singer and dancer. carol huston born october 17 1934 is best known for carol huston born october 17 1934 roles in the films the misfits 1961 the unforgiven 1960 and the mambo kings 1992. carol huston born october 17 1934 began carol huston born october 17 1934 career as a dancer in the 1950s performing in broadway musicals such as guys and dolls and cancan. carol huston born october 17 1934 made carol huston born october 17 1934 film debut in the misfits 1961 starring alongside clark gable and marilyn monroe. carol huston born october 17 1934 went on to appear in several other films including the unforgiven the mambo kings 1992and the godfather part iii. carol huston born october 17 1934 has also appeared in television series such as the rockford files the waltons and the golden girls.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.06976744186046512
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

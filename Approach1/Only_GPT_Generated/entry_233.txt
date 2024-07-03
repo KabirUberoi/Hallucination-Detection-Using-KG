@@ -1,0 +1,38 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Micky_Moody and http://dbpedia.org/resource/Robert_Moody and the value is : 0
+http://dbpedia.org/resource/Micky_Moody and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Micky_Moody and http://dbpedia.org/resource/Whitesnake and the value is : 0
+http://dbpedia.org/resource/Micky_Moody and http://dbpedia.org/resource/Jucy_Lucy and the value is : 0
+http://dbpedia.org/resource/Micky_Moody and http://dbpedia.org/resource/Snake and the value is : 0
+http://dbpedia.org/resource/Robert_Moody and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Robert_Moody and http://dbpedia.org/resource/Whitesnake and the value is : 0
+http://dbpedia.org/resource/Robert_Moody and http://dbpedia.org/resource/Jucy_Lucy and the value is : 1
+http://dbpedia.org/resource/Robert_Moody and http://dbpedia.org/resource/Snake and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Whitesnake and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Jucy_Lucy and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Snake and the value is : 0
+http://dbpedia.org/resource/Whitesnake and http://dbpedia.org/resource/Jucy_Lucy and the value is : 1
+http://dbpedia.org/resource/Whitesnake and http://dbpedia.org/resource/Snake and the value is : 0
+http://dbpedia.org/resource/Jucy_Lucy and http://dbpedia.org/resource/Snake and the value is : 0
+http://dbpedia.org/resource/Micky_Moody and http://dbpedia.org/resource/Guitar and the value is : 1
+http://dbpedia.org/resource/Micky_Moody and http://dbpedia.org/resource/Jucy_Lucy and the value is : 0
+http://dbpedia.org/resource/Micky_Moody and http://dbpedia.org/resource/Whitesnake and the value is : 0
+http://dbpedia.org/resource/Micky_Moody and http://dbpedia.org/resource/Whitesnake and the value is : 0
+http://dbpedia.org/resource/Micky_Moody and http://dbpedia.org/resource/Snake and the value is : 0
+http://dbpedia.org/resource/Whitesnake and http://dbpedia.org/resource/Snake and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+micky moody born michael robert moody 28 august 1950 is an english guitarist best known for his work with whitesnake juicy lucy snafu and the snakes. he has also released several solo albums. moody was born in london england. he began playing guitar at the age of 12 and by the age of 15 he was playing in local bands. he joined juicy lucy in 1969 and played on their first two albums. he then joined snafu in 1974 and played on their first three albums. in 1978 he joined whitesnake and played on their first five albums. he left the band in 1982 and went on to form the snakes with whom he released two albums. he has also released several solo albums and has collaborated with many other artists. 
+
+Coref Resolved : 
+micky moody born michael robert moody 28 august 1950 is an english guitarist best known for micky moody work with whitesnake juicy lucy snafu and the snakes. micky moody has also released several solo albums. micky moody was born in london england. micky moody began playing guitar at the age of 12 and by the age of 15 micky moody was playing in local bands. micky moody joined juicy lucy in 1969 and played on juicy lucy first two albums. micky moody then joined snafu in 1974 and played on snafu first three albums. in 1978 micky moody joined whitesnake and played on whitesnake first five albums. micky moody left whitesnake in 1982 and went on to form the snakes with whom micky moody released two albums. micky moody has also released several solo albums and has collaborated with many other artists.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.19047619047619047
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate major_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate 
+

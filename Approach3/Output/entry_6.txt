@@ -1,0 +1,120 @@
+#############SENTENCE_PAIRS############
+
+Akila Dananjaya and Sri and the value is : 0
+Akila Dananjaya and off-spinner and the value is : 0
+Akila Dananjaya and batsman and the value is : 1
+Akila Dananjaya and first-class and the value is : 0
+Akila Dananjaya and Sri Lanka Army Sports Club and the value is : 1
+Akila Dananjaya and Premier League and the value is : 1
+Akila Dananjaya and Premier League and the value is : 1
+Akila Dananjaya and List A and the value is : 0
+Akila Dananjaya and Sri Lanka Army Sports Club and the value is : 1
+Akila Dananjaya and Premier Limited Overs Tournament and the value is : 1
+Akila Dananjaya and Sri and the value is : 0
+Akila Dananjaya and 2018 Asia Cup and the value is : 1
+Sri Lankan cricket team and One Day International (ODI) and the value is : 1
+Sri Lankan cricket team and Bangladesh and the value is : 1
+Akila Dananjaya and Test and the value is : 0
+Akila Dananjaya and England and the value is : 0
+Akila Dananjaya and 2018 ACC Emerging Teams Asia Cup and the value is : 0
+Akila Dananjaya and 2018 ACC Emerging Teams Asia Cup and the value is : 0
+
+#############GROUND_PAIRS############
+
+Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera and Akila Dananjaya and the value is : 0
+Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera and Panadura and the value is : 1
+Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera and Western Province and the value is : 0
+Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera and Sri and the value is : 0
+son and Panadura and the value is : -1
+son and Western Province and the value is : -1
+son and Sri Lanka and the value is : -1
+Dananjaya and batsman and the value is : -1
+Dananjaya and off-break and the value is : -1
+Dananjaya and bowler and the value is : -1
+Dananjaya and googly and the value is : -1
+Dananjaya and carrom ball and the value is : -1
+Dananjaya and doosra and the value is : -1
+Dananjaya and off-spinner and the value is : -1
+Dananjaya and captain and the value is : -1
+Dananjaya and Mahela Jayawardene and the value is : -1
+Dananjaya and captain and the value is : -1
+Dananjaya and Mahela Jayawardene and the value is : -1
+Dananjaya and first-class and the value is : -1
+Dananjaya and List A and the value is : -1
+Dananjaya and T20 and the value is : -1
+Dananjaya and Wayamba United and the value is : -1
+Dananjaya and Lanka Premier League and the value is : -1
+Dananjaya and Wayamba United and the value is : -1
+Dananjaya and Nagenahira Nagas and the value is : -1
+Dananjaya and googly and the value is : -1
+Dananjaya and 2013 IPL and the value is : -1
+Dananjaya and Chennai Super Kings and the value is : -1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Akila Dananjaya (born 2 August 1995) is a Sri Lankan cricketer.
+He made his international debut for the Sri Lankan cricket team in August 2018.
+He is a right-arm off-spinner and right-handed batsman.
+Dananjaya made his first-class debut for Sri Lanka Army Sports Club in the 2013 14 Premier League Tournament.
+He was the leading wicket-taker in the tournament, taking 32 wickets in seven matches.
+He made his List A debut for Sri Lanka Army Sports Club in the 2014 15 Premier Limited Overs Tournament.
+In August 2018, he was named in the Sri Lankan squad for the 2018 Asia Cup.
+He made his One Day International (ODI) debut for Sri Lanka against Bangladesh on 15 September 2018.
+In October 2018, he was named in Sri Lanka's Test squad for their series against England, but he did not play.
+In December 2018, he was named in Sri Lanka's team for the 2018 ACC Emerging Teams Asia Cup.
+He was the leading wicket-taker for Sri Lanka in the tournament, with nine dismiss.
+
+
+Coref Resolved: 
+
+0. Akila Dananjaya (born 2 August 1995) is a Sri Lankan cricketer.
+1. Akila Dananjaya made Akila Dananjaya international debut for the Sri Lankan cricket team in August 2018 .
+2. Akila Dananjaya is a right-arm off-spinner and right-handed batsman.
+3. Akila Dananjaya made Akila Dananjaya first-class debut for Sri Lanka Army Sports Club in the 2013 14 Premier League Tournament .
+4. Akila Dananjaya was the leading wicket-taker in the 2013 14 Premier League Tournament , taking 32 wickets in seven matches.
+5. Akila Dananjaya made Akila Dananjaya List A debut for Sri Lanka Army Sports Club in the 2014 15 Premier Limited Overs Tournament.
+6. In August 2018 , Akila Dananjaya was named in the Sri Lankan squad for the 2018 Asia Cup.
+7. Akila Dananjaya made Akila Dananjaya
+8. One Day International (ODI) debut for the Sri Lankan cricket team against Bangladesh on 15 September 2018.
+9. In October 2018, Akila Dananjaya was named in the Sri Lankan cricket team Test squad for the Sri Lankan cricket team series against England, but Akila Dananjaya did not play.
+10. In December 2018, Akila Dananjaya was named in the Sri Lankan cricket team team for the 2018 ACC Emerging Teams Asia Cup .
+11. Akila Dananjaya was the leading wicket-taker for the Sri Lankan cricket team in the 2018 ACC Emerging Teams Asia Cup , with nine dismiss.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera (born 4 October 1993 in Panadura, Western Province) is a Sri Lankan cricketer.
+The son of a carpenter from Panadura, Dananjaya is another installment of Sri Lanka's long line of unorthodox spinners.
+Officially a left-hand batsman and an off-break bowler, he is said to have seven variations, including the leg-break, googly, carrom ball, doosra, and his stock off-spinner that had impressed national team captain Mahela Jayawardene so much in the nets as to make Jayawardene request him to be fast-tracked into the national squad.
+Dananjaya had at that point played no first-class, List A, T20, or even U-19 cricket.
+This in turn led to controversy as his selection was questioned by the media on the basis of a net performance.
+He was selected to play for Wayamba United in the inaugural Sri Lanka Premier League.
+In only his second match for the franchise, he took 3-18 against Nagenahira Nagas, consistently disturbing the batsmen with his flight, googly, and other variations.
+This in turn led to a place in the final squad for the 2012 ICC World Twenty20.
+In the 2013 IPL auctions, Dananjaya was sold to the Chennai Super Kings for his base price of 20,000. 
+
+Coref Resolved: 
+
+0. Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera (born 4 October 1993 in Panadura, Western Province ) is a Sri Lankan cricketer.
+1. The son of a carpenter from Panadura, Western Province , Dananjaya is another installment of Sri Lanka's long line of unorthodox spinners.
+2. Officially a left-hand batsman and an off-break bowler, Dananjaya is said to have seven variations, including the leg-break, googly, carrom ball, doosra, and Dananjaya stock off-spinner that had impressed national team captain Mahela Jayawardene so much in the nets as to make national team captain Mahela Jayawardene request Dananjaya to be fast-tracked into the national squad.
+3. Dananjaya had at that point played no first-class, List A, T20, or even U-19 cricket.
+4. played in turn led to controversy as Dananjaya selection was questioned by the media on the basis of a net performance.
+5. Dananjaya was selected to play for Wayamba United in the inaugural Sri Lanka Premier League.
+6. In only Dananjaya second match for Wayamba United , Dananjaya took 3-18 against Nagenahira Nagas, consistently disturbing the batsmen with Dananjaya flight, googly, and other variations.
+7. took in turn led to a place in the final squad for the 2012 ICC World Twenty20.
+8. In the 2013 IPL auctions, Dananjaya was sold to the Chennai Super Kings for Dananjaya base price of 20,000.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 -1 0.5 0.6666666666666666 1.0 0.6666666666666666 0.5 -1 1.0 0.0 0.0 0.0 
+
+Value for ground truth is : 
+0.25 -1.0 -1.0 -1.0 -1 -1.0 -1.0 -1 -1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate accurate major_inaccurate accurate major_inaccurate major_inaccurate 
+

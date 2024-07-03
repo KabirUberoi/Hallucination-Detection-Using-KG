@@ -1,0 +1,232 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Football_in_Scotland and the value is : 1
+http://dbpedia.org/resource/Football_in_Scotland and http://dbpedia.org/resource/Paul_Caddis and the value is : 1
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Paul_Caddis and the value is : 0
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/EFL_League_One and the value is : 0
+http://dbpedia.org/resource/EFL_League_One and http://dbpedia.org/resource/Paul_Caddis and the value is : 0
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 0
+http://dbpedia.org/resource/Burton_Albion_F.C. and http://dbpedia.org/resource/Paul_Caddis and the value is : 1
+http://dbpedia.org/resource/Football_in_Scotland and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Football_in_Scotland and the value is : 0
+http://dbpedia.org/resource/Football_in_Scotland and http://dbpedia.org/resource/EFL_League_One and the value is : 0
+http://dbpedia.org/resource/EFL_League_One and http://dbpedia.org/resource/Football_in_Scotland and the value is : 1
+http://dbpedia.org/resource/Football_in_Scotland and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 0
+http://dbpedia.org/resource/Burton_Albion_F.C. and http://dbpedia.org/resource/Football_in_Scotland and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/EFL_League_One and the value is : 1
+http://dbpedia.org/resource/EFL_League_One and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 0
+http://dbpedia.org/resource/Burton_Albion_F.C. and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/EFL_League_One and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 0
+http://dbpedia.org/resource/Burton_Albion_F.C. and http://dbpedia.org/resource/EFL_League_One and the value is : 0
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Paul_Caddis and the value is : 0
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Paul_Caddis and the value is : 0
+http://dbpedia.org/resource/Celtic_F.C. and http://dbpedia.org/resource/Paul_Caddis and the value is : 1
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Celtic_F.C. and the value is : 1
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/Paul_Caddis and the value is : 0
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Dundee_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_F.C. and http://dbpedia.org/resource/Paul_Caddis and the value is : 0
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Dundee_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_United_F.C. and http://dbpedia.org/resource/Paul_Caddis and the value is : 0
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/Paul_Caddis and the value is : 1
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/Dundee_F.C. and the value is : 1
+http://dbpedia.org/resource/Dundee_F.C. and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/Dundee_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_United_F.C. and http://dbpedia.org/resource/Loan and the value is : 1
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Dundee_F.C. and http://dbpedia.org/resource/Dundee_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_United_F.C. and http://dbpedia.org/resource/Dundee_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_F.C. and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/Dundee_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_United_F.C. and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/Dundee_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Professional_Footballers'_Association and the value is : 1
+http://dbpedia.org/resource/Professional_Footballers'_Association and http://dbpedia.org/resource/Paul_Caddis and the value is : 0
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/EFL_League_One and the value is : 0
+http://dbpedia.org/resource/EFL_League_One and http://dbpedia.org/resource/Paul_Caddis and the value is : 1
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Paul_Caddis and the value is : 0
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/Paul_Caddis and the value is : 1
+http://dbpedia.org/resource/Professional_Footballers'_Association and http://dbpedia.org/resource/EFL_League_One and the value is : 0
+http://dbpedia.org/resource/EFL_League_One and http://dbpedia.org/resource/Professional_Footballers'_Association and the value is : 0
+http://dbpedia.org/resource/Professional_Footballers'_Association and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Professional_Footballers'_Association and the value is : 0
+http://dbpedia.org/resource/Professional_Footballers'_Association and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/Professional_Footballers'_Association and the value is : 0
+http://dbpedia.org/resource/EFL_League_One and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/EFL_League_One and the value is : 1
+http://dbpedia.org/resource/EFL_League_One and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/EFL_League_One and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 1
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 1
+http://dbpedia.org/resource/Birmingham_City_F.C. and http://dbpedia.org/resource/Paul_Caddis and the value is : 1
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/EFL_Trophy and the value is : 0
+http://dbpedia.org/resource/EFL_Trophy and http://dbpedia.org/resource/Paul_Caddis and the value is : 1
+http://dbpedia.org/resource/Birmingham_City_F.C. and http://dbpedia.org/resource/EFL_Trophy and the value is : 0
+http://dbpedia.org/resource/EFL_Trophy and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 1
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Blackburn_Rovers_F.C. and the value is : 1
+http://dbpedia.org/resource/Blackburn_Rovers_F.C. and http://dbpedia.org/resource/Paul_Caddis and the value is : 1
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/EFL_League_One and the value is : 0
+http://dbpedia.org/resource/EFL_League_One and http://dbpedia.org/resource/Paul_Caddis and the value is : 1
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 1
+http://dbpedia.org/resource/Burton_Albion_F.C. and http://dbpedia.org/resource/Paul_Caddis and the value is : 1
+http://dbpedia.org/resource/Blackburn_Rovers_F.C. and http://dbpedia.org/resource/EFL_League_One and the value is : 0
+http://dbpedia.org/resource/EFL_League_One and http://dbpedia.org/resource/Blackburn_Rovers_F.C. and the value is : 0
+http://dbpedia.org/resource/Blackburn_Rovers_F.C. and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 0
+http://dbpedia.org/resource/Burton_Albion_F.C. and http://dbpedia.org/resource/Blackburn_Rovers_F.C. and the value is : 0
+http://dbpedia.org/resource/EFL_League_One and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 0
+http://dbpedia.org/resource/Burton_Albion_F.C. and http://dbpedia.org/resource/EFL_League_One and the value is : 1
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/EFL_League_One and the value is : 0
+http://dbpedia.org/resource/EFL_League_One and http://dbpedia.org/resource/Paul_Caddis and the value is : 1
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 1
+http://dbpedia.org/resource/Burton_Albion_F.C. and http://dbpedia.org/resource/Paul_Caddis and the value is : 1
+http://dbpedia.org/resource/EFL_League_One and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 0
+http://dbpedia.org/resource/Burton_Albion_F.C. and http://dbpedia.org/resource/EFL_League_One and the value is : 1
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Paul_Caddis and the value is : 0
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Football_in_Scotland and the value is : 0
+http://dbpedia.org/resource/Football_in_Scotland and http://dbpedia.org/resource/McLean_family and the value is : 1
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/EFL_Championship and the value is : 0
+http://dbpedia.org/resource/EFL_Championship and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Birmingham_City_F.C. and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/Football_in_Scotland and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Football_in_Scotland and the value is : 0
+http://dbpedia.org/resource/Football_in_Scotland and http://dbpedia.org/resource/EFL_Championship and the value is : 0
+http://dbpedia.org/resource/EFL_Championship and http://dbpedia.org/resource/Football_in_Scotland and the value is : 0
+http://dbpedia.org/resource/Football_in_Scotland and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Birmingham_City_F.C. and http://dbpedia.org/resource/Football_in_Scotland and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/EFL_Championship and the value is : 1
+http://dbpedia.org/resource/EFL_Championship and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Birmingham_City_F.C. and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/EFL_Championship and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 1
+http://dbpedia.org/resource/Birmingham_City_F.C. and http://dbpedia.org/resource/EFL_Championship and the value is : 1
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Midfielder and the value is : 1
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Midfield and the value is : 0
+http://dbpedia.org/resource/Midfield and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/Midfield and the value is : 0
+http://dbpedia.org/resource/Midfield and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Midfield and the value is : 1
+http://dbpedia.org/resource/Midfield and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Midfield and the value is : 0
+http://dbpedia.org/resource/Midfield and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Celtic_F.C. and the value is : 0
+http://dbpedia.org/resource/Celtic_F.C. and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/Celtic_F.C. and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/Celtic_F.C. and the value is : 0
+http://dbpedia.org/resource/Celtic_F.C. and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/Celtic_F.C. and the value is : 0
+http://dbpedia.org/resource/Celtic_F.C. and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Celtic_F.C. and the value is : 1
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 1
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/2007–08_NHL_season and the value is : 1
+http://dbpedia.org/resource/2007–08_NHL_season and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/2008–09_NHL_season and the value is : 0
+http://dbpedia.org/resource/2008–09_NHL_season and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Dundee_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_United_F.C. and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/2008–09_NHL_season and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/2008–09_NHL_season and the value is : 0
+http://dbpedia.org/resource/2008–09_NHL_season and http://dbpedia.org/resource/Dundee_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_United_F.C. and http://dbpedia.org/resource/2008–09_NHL_season and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/Dundee_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_United_F.C. and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/2012–13_NHL_season and the value is : 0
+http://dbpedia.org/resource/2012–13_NHL_season and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/EFL_Championship and the value is : 0
+http://dbpedia.org/resource/EFL_Championship and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Birmingham_City_F.C. and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/2012–13_NHL_season and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/2012–13_NHL_season and the value is : 0
+http://dbpedia.org/resource/2012–13_NHL_season and http://dbpedia.org/resource/EFL_Championship and the value is : 0
+http://dbpedia.org/resource/EFL_Championship and http://dbpedia.org/resource/2012–13_NHL_season and the value is : 0
+http://dbpedia.org/resource/2012–13_NHL_season and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Birmingham_City_F.C. and http://dbpedia.org/resource/2012–13_NHL_season and the value is : 0
+http://dbpedia.org/resource/2012–13_NHL_season and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/2012–13_NHL_season and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/EFL_Championship and the value is : 0
+http://dbpedia.org/resource/EFL_Championship and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Birmingham_City_F.C. and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/EFL_Championship and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Birmingham_City_F.C. and http://dbpedia.org/resource/EFL_Championship and the value is : 1
+http://dbpedia.org/resource/EFL_Championship and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 1
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/EFL_Championship and the value is : 0
+http://dbpedia.org/resource/Birmingham_City_F.C. and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 1
+http://dbpedia.org/resource/Swindon_Town_F.C. and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Coventry_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Coventry_City_F.C. and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/McLean_family and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/McLean_family and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Coventry_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Coventry_City_F.C. and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Coventry_City_F.C. and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Coventry_City_F.C. and the value is : 0
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Paul Caddis (born 28 October 1988) is a Scottish professional footballer who plays as a right back for League One club Burton Albion.
+
+Caddis began his career with Celtic, making his debut in 2006. He spent time on loan at Dundee and Dundee United before joining Swindon Town in 2010. He was named in the PFA League One Team of the Year in 2012–13, and was appointed captain of Swindon in 2013. He joined Birmingham City in 2014, and was part of the team that won the Football League Trophy in the same year. He joined Blackburn Rovers in 2016, and was loaned to Burton Albion in 2017. He signed permanently for Burton in 2018.
+
+Caddis has represented Scotland at under-19 and under-21 level.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Paul McLean Caddis (born 19 April 1988) is a Scottish footballer who plays for English Championship club Birmingham City. He predominantly plays as either a right back or right winger, but due to his versatility and having two good feet, he can also play at left back and anywhere across the midfield. He has played for both Celtic and Swindon Town in all positions apart from striker and goalkeeper.
+
+Caddis started his career with Scottish Premier League club Celtic. He broke into the first team during the 2007–08 season, but never managed to hold down a starting place over the next few years. He spent the second half of the 2008–09 season on loan to Dundee United. Caddis was sold to English League One club Swindon Town in August 2010. He spent the 2012–13 season on loan to Birmingham City, and joined the club on a permanent contract in September 2013.
+
+Caddis played regularly for the Scotland under-21 team and also captained the side.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3333333333333333 and for ground truth is : 0.11016949152542373
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate accurate 
+

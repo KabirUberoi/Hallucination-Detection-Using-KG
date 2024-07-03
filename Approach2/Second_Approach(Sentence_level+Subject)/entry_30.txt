@@ -1,0 +1,97 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/College_football and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Quarterback and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/College_football and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Arizona_State_Sun_Devils_football and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Quarterback and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Arizona_State_Sun_Devils_football and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Arizona_State_Sun_Devils_football and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Arizona_State_Sun_Devils_football and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Guaranteed_Rate_Bowl and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/2010_NFL_Draft and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Pittsburgh_Steelers and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Free_agent and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Pittsburgh_Steelers and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/National_Football_League and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Dennis_Erickson and http://dbpedia.org/resource/Arizona_Wildcats_football and the value is : 1
+http://dbpedia.org/resource/Dennis_Erickson and http://dbpedia.org/resource/Charles_I_of_England and the value is : 0
+http://dbpedia.org/resource/Dennis_Erickson and http://dbpedia.org/resource/Quarterback and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Steven Threet (born August 8, 1985) is a former American football quarterback.
+He played college football at the University of Michigan and Arizona State University.
+Threet began his college career at Michigan in 2004.
+He was the starting quarterback for the Wolverines in 2007, leading the team to a 3 9 record.
+He was injured during the 2008 season and transferred to Arizona State for his final year of eligibility.
+He started all 12 games for the Sun Devils in 2009, leading the team to a 6 6 record and a berth in the Insight Bowl.
+Threet went undrafted in the 2010 NFL Draft and signed with the Pittsburgh Steelers as an undrafted free agent.
+He was released by the Steelers in August 2010 and did not play in the NFL.
+
+
+Coref Resolved: 
+
+Steven Threet (born August 8, 1985) is a former American football quarterback.
+Steven Threet played college football at the University of Michigan and Arizona State University.
+Steven Threet began Steven Threet college career at the University of Michigan in 2004.
+Steven Threet was the starting quarterback for the University of Michigan in 2007, leading the University of Michigan to a 3 9 record.
+Steven Threet was injured during the 2008 season and transferred to Arizona State Universityfor Steven Threet final year of eligibility.
+Steven Threet started all 12 games for Arizona State Universityin 2009, leading Arizona State Universityto a 6 6 record and a berth in the Insight Bowl.
+Steven Threet went undrafted in the 2010 NFL Draft and signed with the Pittsburgh Steelers as an undrafted free agent.
+Steven Threet was released by the Pittsburgh Steelers in August 2010 and did not play in the NFL.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Steven Charles Threet (born January 2, 1989) is a former American football quarterback who played for both Michigan and Arizona State.
+After finishing his playing career, he became a student assistant on the Arizona State football team's staff.
+He was the starting quarterback for the Arizona State Sun Devils.
+During the 2010 season, Threet completed 208 of 336 passes for 2,553 yards, 18 touchdowns, and 16 interceptions.
+He passed for a career-high 391 yards and three touchdowns against Northern Arizona in September 2010.
+He threw for 4,824 yards and 49 touchdowns as a high school player in Adrian, Michigan, and was ranked by Rivals.com as the No. 9 quarterback prospect in the nation in the class of 2006.
+Threet committed to Georgia Tech and enrolled early there in January 2007.
+After the coaches who had recruited him left the program, Threet announced in July 2007 that he was transferring to the University of Michigan under head coach Lloyd Carr.
+Carr was replaced before the 2008 season by Rich Rodriguez.
+After sitting out the 2007 season under NCAA transfer rules, the redshirt freshman Threet would go on to start at quarterback in eight of Michigan's 12 games.
+Later that same year, Threet transferred to Arizona State University, citing the incompatibility of his playing style as a traditional pro-style dropback passer with the spread offense of Rodriguez.
+After sitting out the 2009 season, Threet had two years of eligibility remaining with Arizona State.
+On August 30, 2010, Arizona State head coach Dennis Erickson announced that Threet would be the starting quarterback for the coming season.
+ 
+
+Coref Resolved: 
+
+Steven Charles Threet (born January 2, 1989) is a former American football quarterback who played for both Michigan and Arizona State.
+After finishing Steven Charles Threet (born January 2, 1989) playing career, Steven Charles Threet (born January 2, 1989) became a student assistant on the Arizona Statefootball team's staff.
+Steven Charles Threet (born January 2, 1989) was the starting quarterback for the Arizona StateSun Devils.
+During the 2010 season, Steven Charles Threet (born January 2, 1989) completed 208 of 336 passes for 2,553 yards, 18 touchdowns, and 16 interceptions.
+Steven Charles Threet (born January 2, 1989) passed for a career-high 391 yards and three touchdowns against Northern Arizona in September 2010.
+Steven Charles Threet (born January 2, 1989) threw for 4,824 yards and 49 touchdowns as a high school player in Adrian, Michigan , and was ranked by Rivals.com as the No. 9 quarterback prospect in the nation in the class of 2006.
+Steven Charles Threet (born January 2, 1989) committed to Georgia Tech and enrolled early there in January 2007.
+After the coaches who had recruited Steven Charles Threet (born January 2, 1989) left Georgia Tech , Steven Charles Threet (born January 2, 1989) announced in July 2007 that Steven Charles Threet (born January 2, 1989) was transferring to Michigan under head coach Lloyd Carr.
+head coach Lloyd Carrwas replaced before the 2008 season by Rich Rodriguez.
+After sitting out the 2007 season under NCAA transfer rules, Steven Charles Threet (born January 2, 1989) would go on to start at quarterback in eight of Michigan 12 games.
+Later that same year, Steven Charles Threet (born January 2, 1989) transferred to Arizona State, citing the incompatibility of Steven Charles Threet (born January 2, 1989) playing style as a traditional pro-style dropback passer with the spread offense of Rich Rodriguez.
+After sitting out the 2009 season, Steven Charles Threet (born January 2, 1989) had two years of eligibility remaining with Arizona State.
+On August 30, 2010, Arizona Statehead coach Dennis Erickson announced that Steven Charles Threet (born January 2, 1989) would be the starting quarterback for the coming season.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5 0.6666666666666666 1.0 1.0 1.0 0.6666666666666666 0.0 0.0 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 0.6666666666666666 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

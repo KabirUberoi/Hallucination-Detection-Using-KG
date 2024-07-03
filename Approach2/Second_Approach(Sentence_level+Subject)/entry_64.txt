@@ -1,0 +1,97 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Canadians and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Montreal and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Quebec and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Université_Laval and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Montreal and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Quebec and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Legislative_Assembly_of_the_Province_of_Canada and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Quebec and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Superior_Court_of_Quebec and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Royal_commission and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Royal_commission and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Constitution_of_the_United_States and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Quebec and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Canadians and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Trois-Rivières and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Quebec and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Ernest_Pacaud and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Joseph-Édouard_Perrault and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Pierre_Laval and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Quebec_City and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Thetford_Mines and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Elizabeth_II and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Canadians and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/High_commissioner and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/University_of_London and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Canadians and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/High_commissioner and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Peter_Charles_Larkin and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Lucien Turcotte Pacaud (1890 1962) was a Canadian lawyer, politician, and judge.
+He was born in Montreal, Quebec, and studied law at Université Laval.
+He was called to the Bar of Quebec in 1914 and practiced law in Montreal.
+He was elected to the Legislative Assembly of Quebec in 1923 as a Liberal and served until 1936.
+He was appointed to the Quebec Superior Court in 1936 and served until his death in 1962.
+He was a member of the Royal Commission on Dominion-Provincial Relations from 1937 to 1940.
+He was also a member of the Royal Commission on the Constitution of Canada from 1940 to 1942.
+
+
+Coref Resolved: 
+
+Lucien Turcotte Pacaud (1890 1962) was a Canadian lawyer, politician, and judge.
+Lucien Turcotte Pacaud was born in Montreal, Quebec, and studied law at Université Laval.
+Lucien Turcotte Pacaud was called to the Bar of Quebecin 1914 and practiced law in Montreal, Quebec.
+Lucien Turcotte Pacaud was elected to the Legislative Assembly of Quebec in 1923 as a Liberal and served until 1936.
+Lucien Turcotte Pacaud was appointed to the Quebec Superior Court in 1936and served until Lucien Turcotte Pacaud death in 1962.
+Lucien Turcotte Pacaud was a member of the Royal Commission on Dominion-Provincial Relations from 1937 to 1940.
+Lucien Turcotte Pacaud was also a member of the Royal Commission on the Constitution of Canada from 1940to 1942.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Lucien Turcotte Pacaud (September 21, 1879 - March 5, 1960) was a Quebec lawyer and political figure.
+He represented Mégantic in the Canadian House of Commons from 1911 to 1922 as a Liberal member.
+He was born in Trois-Rivières, Quebec in 1879, the son of Ernest Pacaud and the grandson of Joseph-Édouard Turcotte.
+He was educated at Bishop's College and the University of Laval.
+Pacaud was admitted to the bar in 1904 and practiced at Quebec City and then at Thetford Mines.
+In 1908, he married Helen Elizabeth Buckmall.
+Pacaud served as Police Commissioner for the Transcontinental Railway from 1907 to 1911.
+He was Parliamentary Under Secretary of State for External Affairs, a non-cabinet post, from 1921 to 1922.
+He served as Secretary to the Canadian High Commissioner at London from 1922 to 1931.
+In 1930, Pacaud served as Acting Canadian High Commissioner to the United Kingdom after the death of Peter Charles Larkin.
+ 
+
+Coref Resolved: 
+
+Lucien Turcotte Pacaud (September 21, 1879 - March 5, 1960) was a Quebec lawyer and political figure.
+Lucien Turcotte Pacaud represented Mégantic in the Canadian House of Commons from 1911 to 1922 as a Liberal member.
+Lucien Turcotte Pacaud was born in Trois-Rivières, Quebec in 1879, the son of Ernest Pacaud and the grandson of Joseph-Édouard Turcotte.
+Lucien Turcotte Pacaud was educated at Bishop's College and the University of Laval.
+Lucien Turcotte Pacaud was admitted to the bar in 1904 and practiced at Quebec City and then at Thetford Mines.
+In 1908, Lucien Turcotte Pacaud married Helen Elizabeth Buckmall.
+Lucien Turcotte Pacaud served as Police Commissioner for the Transcontinental Railway from 1907 to 1911 .
+Lucien Turcotte Pacaud was Parliamentary Under Secretary of State for External Affairs, a non-cabinet post, from 1921 to 1922 .
+Lucien Turcotte Pacaud served as Secretary to the Canadian High Commissioner at London from 1922 to 1931.
+In 1930, Lucien Turcotte Pacaud served as Acting Canadian High Commissioner to the United Kingdom after the death of Peter Charles Larkin.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.3333333333333333 0.5 0.5 0.0 0.0 0.0 
+
+Value for ground truth is : 
+1.0 1.0 0.75 0.0 1.0 0.0 -1 -1 0.3333333333333333 0.5 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

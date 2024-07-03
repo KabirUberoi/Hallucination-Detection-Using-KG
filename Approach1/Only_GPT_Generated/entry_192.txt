@@ -1,0 +1,62 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Film_producer and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Film_producer and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Social_network and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Amazing_Stories and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Spider-Man and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Electrical_fault and the value is : 1
+http://dbpedia.org/resource/Social_network and http://dbpedia.org/resource/Amazing_Stories and the value is : 0
+http://dbpedia.org/resource/Social_network and http://dbpedia.org/resource/Spider-Man and the value is : 0
+http://dbpedia.org/resource/Social_network and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Amazing_Stories and http://dbpedia.org/resource/Spider-Man and the value is : 0
+http://dbpedia.org/resource/Amazing_Stories and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Spider-Man and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Southern_California and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Southern_California and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Special_Victims_Unit and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Hollywood_blacklist and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Special_Victims_Unit and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Hollywood_blacklist and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Special_Victims_Unit and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Hollywood_blacklist and the value is : 0
+http://dbpedia.org/resource/Special_Victims_Unit and http://dbpedia.org/resource/Hollywood_blacklist and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Social_network and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Amazing_Stories and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Spider-Man and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Social_network and http://dbpedia.org/resource/Amazing_Stories and the value is : 0
+http://dbpedia.org/resource/Social_network and http://dbpedia.org/resource/Spider-Man and the value is : 0
+http://dbpedia.org/resource/Social_network and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Amazing_Stories and http://dbpedia.org/resource/Spider-Man and the value is : 0
+http://dbpedia.org/resource/Amazing_Stories and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Spider-Man and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Summer and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+adam collis born october 28 1983 is an american actor writer and producer. he is best known for his roles in the films the social network 2010 the amazing spiderman 2012 and the fault in our stars 2014. collis was born in los angeles california. he attended the university of southern california where he studied theater and film. after graduating he moved to new york city to pursue an acting career. he has appeared in numerous television shows including law order special victims unit the good wife and the blacklist. collis has also appeared in several films including the social network the amazing spiderman and the fault in our stars. he has also written and produced several short films including the last day of summer 2012 and the last goodbye 2014. collis is currently based in los angeles where he continues to pursue his acting career. he is also a member of the los angelesbased theater company the actors gang. 
+
+Coref Resolved : 
+adam collis born october 28 1983 is an american actor writer and producer. adam collis born october 28 1983 is best known for adam collis born october 28 1983 roles in the films the social network 2010 the amazing spiderman 2012 and the fault in our stars 2014. adam collis born october 28 1983 was born in los angeles california. adam collis born october 28 1983 attended the university of southern california where adam collis born october 28 1983 studied theater and film. after graduating adam collis born october 28 1983 moved to new york city to pursue an acting career. adam collis born october 28 1983 has appeared in numerous television shows including law order special victims unit the good wife and the blacklist. adam collis born october 28 1983 has also appeared in several films including the social network 2010 the amazing spiderman 2012 and the fault in our stars 2014. adam collis born october 28 1983 has also written and produced several short films including the last day of summer 2012 and the last goodbye 2014. adam collis born october 28 1983 is currently based in los angeles californiawhere adam collis born october 28 1983 continues to pursue adam collis born october 28 1983 acting career. adam collis born october 28 1983 is also a member of the los angeles californiatheater company the actors gang.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.13333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

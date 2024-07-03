@@ -1,0 +1,61 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Wight and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Wight and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Wight and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Wight and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/UK_Independence_Party and the value is : 1
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Independent_politician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/UK_Independence_Party and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Independent_politician and the value is : 0
+http://dbpedia.org/resource/UK_Independence_Party and http://dbpedia.org/resource/Independent_politician and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/University_of_East_Anglia and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_of_East_Anglia and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Financial_adviser and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Financial_adviser and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Financial_adviser and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/UK_Independence_Party and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/False_accounting and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Money_laundering and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/UK_Independence_Party and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/False_accounting and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Money_laundering and the value is : 0
+http://dbpedia.org/resource/UK_Independence_Party and http://dbpedia.org/resource/False_accounting and the value is : 0
+http://dbpedia.org/resource/UK_Independence_Party and http://dbpedia.org/resource/Money_laundering and the value is : 0
+http://dbpedia.org/resource/False_accounting and http://dbpedia.org/resource/Money_laundering and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Prison and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Prison and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Wight and the value is : 0
+http://dbpedia.org/resource/Tom_Wise and http://dbpedia.org/resource/Financial_adviser and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Wight and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Financial_adviser and the value is : 0
+http://dbpedia.org/resource/Wight and http://dbpedia.org/resource/Financial_adviser and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tom wise born 28 april 1962 is a former british politician who was the member of parliament mp for the isle of wight from 2001 to 2005. he was elected as a member of the uk independence party ukip but later sat as an independent. wise was born in london and educated at the university of east anglia where he gained a degree in economics. he worked as a financial adviser before being elected to parliament in 2001. he was reelected in 2005 but resigned from ukip in 2006 after being charged with false accounting and money laundering. he was found guilty and sentenced to two years in prison in 2008. after his release he returned to the isle of wight and worked as a financial adviser. 
+
+Coref Resolved : 
+tom wise born 28 april 1962 is a former british politician who was the member of parliament mp for the isle of wight from 2001 to 2005. tom wise born 28 april 1962 was elected as a member of the uk independence party ukip but later sat as an independent. tom wise born 28 april 1962 was born in london and educated at the university of east anglia where tom wise born 28 april 1962 gained a degree in economics. tom wise born 28 april 1962 worked as a financial adviser before being elected to parliament in 2001 . tom wise born 28 april 1962 was reelected in 2005but resigned from the uk independence party ukip in 2006 after being charged with false accounting and money laundering. tom wise born 28 april 1962 was found guilty and sentenced to two years in prison in 2008. after tom wise born 28 april 1962 release tom wise born 28 april 1962 returned to the isle of wight and worked as a financial adviser.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.045454545454545456
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

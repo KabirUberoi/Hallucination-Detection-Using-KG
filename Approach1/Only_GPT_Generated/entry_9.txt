@@ -1,0 +1,30 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Motorcycle_sport and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 1
+http://dbpedia.org/resource/Motorcycle_sport and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Senior_TT and the value is : 1
+http://dbpedia.org/resource/Isle_of_Man_TT and http://dbpedia.org/resource/Senior_TT and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/North_West_200 and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Ulster_Grand_Prix and the value is : 0
+http://dbpedia.org/resource/North_West_200 and http://dbpedia.org/resource/Ulster_Grand_Prix and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Mechanic and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 1
+http://dbpedia.org/resource/Mechanic and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+freddie frith 19171994 was an english motorcycle racer who competed in the isle of man tt races and other international events. he was born in london and began racing in the 1930s. he won the isle of man tt in 1938 and 1939 and was the first rider to win the senior tt twice in succession. he also won the north west 200 in 1938 and 1939 and the ulster grand prix in 1938 and 1939. frith was a popular figure in the racing world and was known for his daring and aggressive riding style. he was also known for his willingness to help other riders and was often seen helping to push other riders bikes to the start line. he retired from racing in 1947 but continued to be involved in the sport working as a mechanic and team manager. he died in 1994 aged 77. 
+
+Coref Resolved : 
+freddie frith 19171994 was an english motorcycle racer who competed in the isle of man tt races and other international events. freddie frith was born in london and began racing in the 1930s. freddie frith won the isle of man tt in 1938 and 1939 and was the first rider to win the senior tt twice in succession. freddie frith also won the north west 200 in 1938 and 1939 and the ulster grand prix in 1938 and 1939 . freddie frith was a popular figure in the racing world and was known for freddie frith daring and aggressive riding style. freddie frith was also known for freddie frith willingness to help other riders and was often seen helping to push other riders bikes to the start line. freddie frith retired from the sport in 1947 but continued to be involved in the sport working as a mechanic and team manager. freddie frith died in 1994 aged 77.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.46153846153846156
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

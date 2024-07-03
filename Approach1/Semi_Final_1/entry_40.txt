@@ -1,0 +1,124 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/African_Anthropologist and the value is : 1
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/African_Anthropologist and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Johannesburg and the value is : 1
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/South_Africa and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/University_of_the_Witwatersrand and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Bachelor_of_Arts and the value is : 0
+http://dbpedia.org/resource/Johannesburg and http://dbpedia.org/resource/South_Africa and the value is : 1
+http://dbpedia.org/resource/Johannesburg and http://dbpedia.org/resource/University_of_the_Witwatersrand and the value is : 1
+http://dbpedia.org/resource/Johannesburg and http://dbpedia.org/resource/Bachelor_of_Arts and the value is : 0
+http://dbpedia.org/resource/South_Africa and http://dbpedia.org/resource/University_of_the_Witwatersrand and the value is : 0
+http://dbpedia.org/resource/South_Africa and http://dbpedia.org/resource/Bachelor_of_Arts and the value is : 0
+http://dbpedia.org/resource/University_of_the_Witwatersrand and http://dbpedia.org/resource/Bachelor_of_Arts and the value is : 1
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Anthropology and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Anthropology and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Anthropology and the value is : 1
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Field_research and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/South_Africa and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Tanzania and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Zimbabwe and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Racing and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Gender_studies and the value is : 0
+http://dbpedia.org/resource/Field_research and http://dbpedia.org/resource/South_Africa and the value is : 0
+http://dbpedia.org/resource/Field_research and http://dbpedia.org/resource/Tanzania and the value is : 0
+http://dbpedia.org/resource/Field_research and http://dbpedia.org/resource/Zimbabwe and the value is : 1
+http://dbpedia.org/resource/Field_research and http://dbpedia.org/resource/Racing and the value is : 0
+http://dbpedia.org/resource/Field_research and http://dbpedia.org/resource/Gender_studies and the value is : 0
+http://dbpedia.org/resource/South_Africa and http://dbpedia.org/resource/Tanzania and the value is : 0
+http://dbpedia.org/resource/South_Africa and http://dbpedia.org/resource/Zimbabwe and the value is : 1
+http://dbpedia.org/resource/South_Africa and http://dbpedia.org/resource/Racing and the value is : 0
+http://dbpedia.org/resource/South_Africa and http://dbpedia.org/resource/Gender_studies and the value is : 1
+http://dbpedia.org/resource/Tanzania and http://dbpedia.org/resource/Zimbabwe and the value is : 0
+http://dbpedia.org/resource/Tanzania and http://dbpedia.org/resource/Racing and the value is : 0
+http://dbpedia.org/resource/Tanzania and http://dbpedia.org/resource/Gender_studies and the value is : 0
+http://dbpedia.org/resource/Zimbabwe and http://dbpedia.org/resource/Racing and the value is : 0
+http://dbpedia.org/resource/Zimbabwe and http://dbpedia.org/resource/Gender_studies and the value is : 0
+http://dbpedia.org/resource/Racing and http://dbpedia.org/resource/Gender_studies and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Aristocracy and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Eswatini and the value is : 0
+http://dbpedia.org/resource/Hilda_Kuper and http://dbpedia.org/resource/Anthropology and the value is : 0
+http://dbpedia.org/resource/Aristocracy and http://dbpedia.org/resource/Eswatini and the value is : 1
+http://dbpedia.org/resource/Aristocracy and http://dbpedia.org/resource/Anthropology and the value is : 0
+http://dbpedia.org/resource/Eswatini and http://dbpedia.org/resource/Anthropology and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Hilda_of_Whitby and http://dbpedia.org/resource/BMW and the value is : 0
+http://dbpedia.org/resource/Hilda_of_Whitby and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/Hilda_of_Whitby and http://dbpedia.org/resource/Social_anthropology and the value is : 0
+http://dbpedia.org/resource/Hilda_of_Whitby and http://dbpedia.org/resource/Eswatini and the value is : 0
+http://dbpedia.org/resource/Hilda_of_Whitby and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Social_anthropology and the value is : 0
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Eswatini and the value is : 1
+http://dbpedia.org/resource/BMW and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Social_anthropology and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Eswatini and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Social_anthropology and http://dbpedia.org/resource/Eswatini and the value is : 1
+http://dbpedia.org/resource/Social_anthropology and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Eswatini and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Lithuanian_Jews and http://dbpedia.org/resource/History_of_the_Jews_in_Austria and the value is : 0
+http://dbpedia.org/resource/Lithuanian_Jews and http://dbpedia.org/resource/Bulawayo and the value is : 0
+http://dbpedia.org/resource/Lithuanian_Jews and http://dbpedia.org/resource/South_Africa and the value is : 0
+http://dbpedia.org/resource/History_of_the_Jews_in_Austria and http://dbpedia.org/resource/Bulawayo and the value is : 0
+http://dbpedia.org/resource/History_of_the_Jews_in_Austria and http://dbpedia.org/resource/South_Africa and the value is : 0
+http://dbpedia.org/resource/Bulawayo and http://dbpedia.org/resource/South_Africa and the value is : 0
+http://dbpedia.org/resource/University_of_the_Witwatersrand and http://dbpedia.org/resource/Bronislaw_Malinowski_Award and the value is : 0
+http://dbpedia.org/resource/Guggenheim_Fellowship and http://dbpedia.org/resource/Eswatini and the value is : 0
+http://dbpedia.org/resource/Guggenheim_Fellowship and http://dbpedia.org/resource/Befriended and the value is : 0
+http://dbpedia.org/resource/Guggenheim_Fellowship and http://dbpedia.org/resource/Sobhuza_II and the value is : 0
+http://dbpedia.org/resource/Guggenheim_Fellowship and http://dbpedia.org/resource/Village and the value is : 0
+http://dbpedia.org/resource/Guggenheim_Fellowship and http://dbpedia.org/resource/Lobamba and the value is : 0
+http://dbpedia.org/resource/Eswatini and http://dbpedia.org/resource/Befriended and the value is : 0
+http://dbpedia.org/resource/Eswatini and http://dbpedia.org/resource/Sobhuza_II and the value is : 0
+http://dbpedia.org/resource/Eswatini and http://dbpedia.org/resource/Village and the value is : 0
+http://dbpedia.org/resource/Eswatini and http://dbpedia.org/resource/Lobamba and the value is : 1
+http://dbpedia.org/resource/Befriended and http://dbpedia.org/resource/Sobhuza_II and the value is : 1
+http://dbpedia.org/resource/Befriended and http://dbpedia.org/resource/Village and the value is : 1
+http://dbpedia.org/resource/Befriended and http://dbpedia.org/resource/Lobamba and the value is : 1
+http://dbpedia.org/resource/Sobhuza_II and http://dbpedia.org/resource/Village and the value is : 0
+http://dbpedia.org/resource/Sobhuza_II and http://dbpedia.org/resource/Lobamba and the value is : 0
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Lobamba and the value is : 0
+http://dbpedia.org/resource/Eswatini and http://dbpedia.org/resource/Thesis and the value is : 0
+http://dbpedia.org/resource/Eswatini and http://dbpedia.org/resource/Aristocracy and the value is : 0
+http://dbpedia.org/resource/Eswatini and http://dbpedia.org/resource/South_Africa and the value is : 1
+http://dbpedia.org/resource/Thesis and http://dbpedia.org/resource/Aristocracy and the value is : 0
+http://dbpedia.org/resource/Thesis and http://dbpedia.org/resource/South_Africa and the value is : 0
+http://dbpedia.org/resource/Aristocracy and http://dbpedia.org/resource/South_Africa and the value is : 1
+http://dbpedia.org/resource/Durban and http://dbpedia.org/resource/Liberal_Party and the value is : 1
+http://dbpedia.org/resource/Durban and http://dbpedia.org/resource/Indian_South_Africans and the value is : 0
+http://dbpedia.org/resource/Liberal_Party and http://dbpedia.org/resource/Indian_South_Africans and the value is : 0
+http://dbpedia.org/resource/Guggenheim_Fellowship and http://dbpedia.org/resource/Sobhuza_II and the value is : 0
+http://dbpedia.org/resource/Guggenheim_Fellowship and http://dbpedia.org/resource/Ngwenyama and the value is : 0
+http://dbpedia.org/resource/Guggenheim_Fellowship and http://dbpedia.org/resource/Eswatini and the value is : 0
+http://dbpedia.org/resource/Sobhuza_II and http://dbpedia.org/resource/Ngwenyama and the value is : 0
+http://dbpedia.org/resource/Sobhuza_II and http://dbpedia.org/resource/Eswatini and the value is : 1
+http://dbpedia.org/resource/Ngwenyama and http://dbpedia.org/resource/Eswatini and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+hilda kuper 19082002 was a south african anthropologist and author. she was born in johannesburg south africa and studied at the university of the witwatersrand where she obtained a b.a. in english and history in 1929. she then went on to study anthropology at the london school of economics where she obtained a ph.d. in 1936. kuper was a pioneer in the field of african anthropology and her work focused on the study of african cultures and societies. she conducted fieldwork in south africa tanzania and zimbabwe and wrote extensively on the topics of race gender and identity in african societies. her most famous work an african aristocracy rank among the swazi 1944 is considered a classic in the field of anthropology. kuper was also a strong advocate for the rights of african women and she was a founding member of the international council of women of the darker races. 
+
+Coref Resolved : 
+hilda kuper 19082002 was a south african anthropologist and author. hilda kuper was born in johannesburg south africa and studied at the university of the witwatersrand where hilda kuper obtained a b.a. in english and history in 1929. hilda kuper then went on to study anthropology at the london school of economics where hilda kuper obtained a ph.d. in 1936. hilda kuper was a pioneer in the field of african anthropology and hilda kuper work focused on the study of african cultures and societies. hilda kuper conducted fieldwork in south africa tanzania and zimbabwe and wrote extensively on the topics of race gender and identity in african societies. hilda kuper most famous work an african aristocracy rank among the swazi 1944 is considered a classic in the field of anthropology. hilda kuper was also a strong advocate for the rights of african women and hilda kuper was a founding member of the international council of women of the darker races.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+hilda beemer kuper née beemer 23 august 19111992 was a social anthropologist most notable for her extensive work on swazi culture. born to lithuanian jewish and austrian jewish parents in bulawayo she moved to south africa after the death of her father. she studied at the university of the witwatersrand and afterwards at the london school of economics under malinowski. in 1934 after winning a fellowship to study in swaziland kuper befriended king sobhuza ii who together with malinowski helped to settle her into place at the royal village of lobamba where she would pursue her research. her publications on swazi culture would include the twopart dissertation an african aristocracy rank among the swazi 1947 and the uniform of colour a study of whiteblack relationships in swaziland 1947 and the swazi a south african kingdom 1963. some years later in durban kuper became a founder member of the liberal party in natal as well as authoring indian people in natal 1960. in 1961 kuper moved to los angeles where she took up a teaching post at ucla. in 1969 she won a guggenheim fellowship and in 1978 published an extensive official biography of sobhuza ii king sobhuza ii ngwenyama and king of swaziland. 
+
+Coref Resolved : 
+hilda beemer kuper née beemer 23 august 19111992 was a social anthropologist most notable for kuper extensive work on swazi culture. born to lithuanian jewish and austrian jewish parents in bulawayo kuper moved to south africa after the death of kuper father. kuper studied at the university of the witwatersrand and afterwards at the london school of economics under malinowski. in 1934 after winning a fellowship to study in swaziland kuper befriended king sobhuza ii who together with malinowskihelped to settle kuper into place at the royal village of lobamba where kuper would pursue kuper research. kuper publications on swazi culturewould include the twopart dissertation an african aristocracy rank among the swazi 1947 and the uniform of colour a study of whiteblack relationships in swaziland 1947 and the swazi a south african kingdom 1963. some years later in durban kuper became a founder member of the liberal party in natal as well as authoring indian people in natal 1960. in 1961 kuper moved to los angeles where kuper took up a teaching post at ucla. in 1969 kuper won a guggenheim fellowship and in 1978 published an extensive official biography of sobhuza ii king sobhuza ii ngwenyama and king of swaziland .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.22727272727272727 and for ground truth is : 0.21153846153846154
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate 
+

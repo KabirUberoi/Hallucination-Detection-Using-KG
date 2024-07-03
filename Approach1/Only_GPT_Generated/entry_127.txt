@@ -1,0 +1,109 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/White_nationalism and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Neo-Nazism and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Neo-Nazism and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Author and the value is : 1
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/White_nationalism and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Neo-Nazism and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/National_Iraqi_Alliance and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Neo-Nazism and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/National_Iraqi_Alliance and the value is : 0
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/National_Iraqi_Alliance and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/White_nationalism and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Neo-Nazism and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Author and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Machinist and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/October_Revolution and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Federal_government_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Neo-Nazism and the value is : 1
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Machinist and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/October_Revolution and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Federal_government_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/Author and the value is : 1
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/Machinist and the value is : 1
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/October_Revolution and the value is : 0
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/Federal_government_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Machinist and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/October_Revolution and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Federal_government_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Machinist and http://dbpedia.org/resource/October_Revolution and the value is : 0
+http://dbpedia.org/resource/Machinist and http://dbpedia.org/resource/Federal_government_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/October_Revolution and http://dbpedia.org/resource/Federal_government_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/White_nationalism and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Neo-Nazism and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Atlanta and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/University_of_Georgia and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Rice_University and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/University_of_Colorado_Boulder and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Boulder and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Neo-Nazism and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Atlanta and the value is : 1
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/University_of_Georgia and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Rice_University and the value is : 1
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/University_of_Colorado_Boulder and the value is : 1
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Boulder and the value is : 0
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/Atlanta and the value is : 0
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/University_of_Georgia and the value is : 0
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/Rice_University and the value is : 0
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/University_of_Colorado_Boulder and the value is : 1
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/Boulder and the value is : 1
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/University_of_Georgia and the value is : 1
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/Rice_University and the value is : 0
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/University_of_Colorado_Boulder and the value is : 1
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/Boulder and the value is : 0
+http://dbpedia.org/resource/University_of_Georgia and http://dbpedia.org/resource/Rice_University and the value is : 0
+http://dbpedia.org/resource/University_of_Georgia and http://dbpedia.org/resource/University_of_Colorado_Boulder and the value is : 0
+http://dbpedia.org/resource/University_of_Georgia and http://dbpedia.org/resource/Boulder and the value is : 0
+http://dbpedia.org/resource/Rice_University and http://dbpedia.org/resource/University_of_Colorado_Boulder and the value is : 0
+http://dbpedia.org/resource/Rice_University and http://dbpedia.org/resource/Boulder and the value is : 0
+http://dbpedia.org/resource/University_of_Colorado_Boulder and http://dbpedia.org/resource/Boulder and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/White_nationalism and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Neo-Nazism and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Physicist and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/George_Washington_University and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Neo-Nazism and the value is : 1
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Physicist and the value is : 1
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Physics and the value is : 1
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/George_Washington_University and the value is : 0
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/Physicist and the value is : 0
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/Physics and the value is : 1
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/George_Washington_University and the value is : 0
+http://dbpedia.org/resource/Physicist and http://dbpedia.org/resource/Physics and the value is : 1
+http://dbpedia.org/resource/Physicist and http://dbpedia.org/resource/George_Washington_University and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/George_Washington_University and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/White_nationalism and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Neo-Nazism and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/American_Nazi_Party and the value is : 1
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Neo-Nazism and the value is : 1
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/American_Nazi_Party and the value is : 1
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/American_Nazi_Party and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/White_nationalism and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Neo-Nazism and the value is : 1
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/White_supremacy and the value is : 0
+http://dbpedia.org/resource/William_Luther_Pierce and http://dbpedia.org/resource/Holocaust_denial and the value is : 1
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Neo-Nazism and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/White_supremacy and the value is : 0
+http://dbpedia.org/resource/White_nationalism and http://dbpedia.org/resource/Holocaust_denial and the value is : 1
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/White_supremacy and the value is : 1
+http://dbpedia.org/resource/Neo-Nazism and http://dbpedia.org/resource/Holocaust_denial and the value is : 1
+http://dbpedia.org/resource/White_supremacy and http://dbpedia.org/resource/Holocaust_denial and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+william luther pierce iii september 11 1933 july 23 2002 was an american white nationalist neonazi and author. he was the founder and chairman of the national alliance a white nationalist group from 1970 until his death in 2002. he was also the primary author of the turner diaries a novel which depicts a violent revolution in the united states leading to the overthrow of the federal government and the extermination of nonwhites and jews. pierce was born in atlanta georgia and attended rice university and the university of colorado boulder. he was a physicist and worked on the staff of the american institute of physics and the george washington university. he was also a member of the national socialist white peoples party and the american nazi party. he was a vocal advocate of white separatism and white supremacy and was a holocaust denier. 
+
+Coref Resolved : 
+william luther pierce iii september 11 1933 july 23 2002 was an american white nationalist neonazi and author. william luther pierce iii september 11 1933 july 23 2002 was an american white nationalist neonazi and authorwas the founder and chairman of the national alliance a white nationalist group from 1970 until william luther pierce iii september 11 1933 july 23 2002 was an american white nationalist neonazi and authordeath in 2002. william luther pierce iii september 11 1933 july 23 2002 was an american white nationalist neonazi and authorwas also the primary author of the turner diaries a novel which depicts a violent revolution in the united states leading to the overthrow of the federal government and the extermination of nonwhites and jews. william luther pierce iii september 11 1933 july 23 2002 was an american white nationalist neonazi and authorwas born in atlanta georgia and attended rice university and the university of colorado boulder. william luther pierce iii september 11 1933 july 23 2002 was an american white nationalist neonazi and authorwas a physicist and worked on the staff of the american institute of physics and the george washington university. william luther pierce iii september 11 1933 july 23 2002 was an american white nationalist neonazi and authorwas also a member of the national socialist white peoples party and the american nazi party. william luther pierce iii september 11 1933 july 23 2002 was an american white nationalist neonazi and authorwas a vocal advocate of white separatism and white supremacy and was a holocaust denier.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.41304347826086957
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate accurate accurate 
+

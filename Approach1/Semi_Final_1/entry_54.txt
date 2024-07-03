@@ -1,0 +1,186 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Tailor and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Fashion and the value is : 1
+http://dbpedia.org/resource/Tailor and http://dbpedia.org/resource/Fashion and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/The_Rolling_Stones and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Elton_John and the value is : 0
+http://dbpedia.org/resource/The_Rolling_Stones and http://dbpedia.org/resource/Elton_John and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Apprenticeship and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Tailor and the value is : 0
+http://dbpedia.org/resource/Apprenticeship and http://dbpedia.org/resource/Tailor and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Savile_Row and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Fashion and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Denim and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Wave and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Fashion and the value is : 0
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/Wave and the value is : 1
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/Fashion and the value is : 1
+http://dbpedia.org/resource/Wave and http://dbpedia.org/resource/Fashion and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Tailor and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Savile_Row and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Tailor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Savile_Row and the value is : 0
+http://dbpedia.org/resource/Tailor and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Barmouth and http://dbpedia.org/resource/Merionethshire and the value is : 0
+http://dbpedia.org/resource/Barmouth and http://dbpedia.org/resource/Tommy_Nutter and the value is : 0
+http://dbpedia.org/resource/Barmouth and http://dbpedia.org/resource/Edgware and the value is : 0
+http://dbpedia.org/resource/Barmouth and http://dbpedia.org/resource/Middlesex and the value is : 0
+http://dbpedia.org/resource/Barmouth and http://dbpedia.org/resource/High_Street and the value is : 0
+http://dbpedia.org/resource/Barmouth and http://dbpedia.org/resource/Coffeehouse and the value is : 0
+http://dbpedia.org/resource/Merionethshire and http://dbpedia.org/resource/Tommy_Nutter and the value is : 0
+http://dbpedia.org/resource/Merionethshire and http://dbpedia.org/resource/Edgware and the value is : 0
+http://dbpedia.org/resource/Merionethshire and http://dbpedia.org/resource/Middlesex and the value is : 0
+http://dbpedia.org/resource/Merionethshire and http://dbpedia.org/resource/High_Street and the value is : 0
+http://dbpedia.org/resource/Merionethshire and http://dbpedia.org/resource/Coffeehouse and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Edgware and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Middlesex and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/High_Street and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Coffeehouse and the value is : 0
+http://dbpedia.org/resource/Edgware and http://dbpedia.org/resource/Middlesex and the value is : 1
+http://dbpedia.org/resource/Edgware and http://dbpedia.org/resource/High_Street and the value is : 0
+http://dbpedia.org/resource/Edgware and http://dbpedia.org/resource/Coffeehouse and the value is : 0
+http://dbpedia.org/resource/Middlesex and http://dbpedia.org/resource/High_Street and the value is : 1
+http://dbpedia.org/resource/Middlesex and http://dbpedia.org/resource/Coffeehouse and the value is : 0
+http://dbpedia.org/resource/High_Street and http://dbpedia.org/resource/Coffeehouse and the value is : 1
+http://dbpedia.org/resource/Crime_family and http://dbpedia.org/resource/Kilburn_tube_station and the value is : 1
+http://dbpedia.org/resource/Crime_family and http://dbpedia.org/resource/Tommy_Nutter and the value is : 0
+http://dbpedia.org/resource/Crime_family and http://dbpedia.org/resource/David_Beckham and the value is : 1
+http://dbpedia.org/resource/Crime_family and http://dbpedia.org/resource/College_of_North_West_London and the value is : 0
+http://dbpedia.org/resource/Kilburn_tube_station and http://dbpedia.org/resource/Tommy_Nutter and the value is : 0
+http://dbpedia.org/resource/Kilburn_tube_station and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Kilburn_tube_station and http://dbpedia.org/resource/College_of_North_West_London and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/College_of_North_West_London and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/College_of_North_West_London and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Plumber and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Architecture and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Tailor and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Stonemasonry and the value is : 1
+http://dbpedia.org/resource/Plumber and http://dbpedia.org/resource/Architecture and the value is : 0
+http://dbpedia.org/resource/Plumber and http://dbpedia.org/resource/Tailor and the value is : 0
+http://dbpedia.org/resource/Plumber and http://dbpedia.org/resource/Stonemasonry and the value is : 0
+http://dbpedia.org/resource/Architecture and http://dbpedia.org/resource/Tailor and the value is : 0
+http://dbpedia.org/resource/Architecture and http://dbpedia.org/resource/Stonemasonry and the value is : 1
+http://dbpedia.org/resource/Tailor and http://dbpedia.org/resource/Stonemasonry and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Edward_Sexton and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Savile_Row and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Cilla_Black and http://dbpedia.org/resource/Bobby_Willis and the value is : 0
+http://dbpedia.org/resource/Cilla_Black and http://dbpedia.org/resource/Chief_executive_officer and the value is : 1
+http://dbpedia.org/resource/Cilla_Black and http://dbpedia.org/resource/The_Beatles and the value is : 1
+http://dbpedia.org/resource/Cilla_Black and http://dbpedia.org/resource/Apple_Corps and the value is : 1
+http://dbpedia.org/resource/Cilla_Black and http://dbpedia.org/resource/Peter_Hoyt_Brown and the value is : 0
+http://dbpedia.org/resource/Cilla_Black and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Bobby_Willis and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/Bobby_Willis and http://dbpedia.org/resource/The_Beatles and the value is : 0
+http://dbpedia.org/resource/Bobby_Willis and http://dbpedia.org/resource/Apple_Corps and the value is : 0
+http://dbpedia.org/resource/Bobby_Willis and http://dbpedia.org/resource/Peter_Hoyt_Brown and the value is : 0
+http://dbpedia.org/resource/Bobby_Willis and http://dbpedia.org/resource/Lawyer and the value is : 1
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/The_Beatles and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Apple_Corps and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Peter_Hoyt_Brown and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Lawyer and the value is : 1
+http://dbpedia.org/resource/The_Beatles and http://dbpedia.org/resource/Apple_Corps and the value is : 1
+http://dbpedia.org/resource/The_Beatles and http://dbpedia.org/resource/Peter_Hoyt_Brown and the value is : 0
+http://dbpedia.org/resource/The_Beatles and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Apple_Corps and http://dbpedia.org/resource/Peter_Hoyt_Brown and the value is : 1
+http://dbpedia.org/resource/Apple_Corps and http://dbpedia.org/resource/Lawyer and the value is : 1
+http://dbpedia.org/resource/Peter_Hoyt_Brown and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Savile_Row and http://dbpedia.org/resource/Tommy_Nutter and the value is : 0
+http://dbpedia.org/resource/Savile_Row and http://dbpedia.org/resource/Tailor and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Tailor and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Hardy_Amies and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Roy_Strong and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Mick_Jagger and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Bianca_Jagger and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Elton_John and the value is : 0
+http://dbpedia.org/resource/Roy_Strong and http://dbpedia.org/resource/Mick_Jagger and the value is : 1
+http://dbpedia.org/resource/Roy_Strong and http://dbpedia.org/resource/Bianca_Jagger and the value is : 0
+http://dbpedia.org/resource/Roy_Strong and http://dbpedia.org/resource/Elton_John and the value is : 1
+http://dbpedia.org/resource/Mick_Jagger and http://dbpedia.org/resource/Bianca_Jagger and the value is : 1
+http://dbpedia.org/resource/Mick_Jagger and http://dbpedia.org/resource/Elton_John and the value is : 0
+http://dbpedia.org/resource/Bianca_Jagger and http://dbpedia.org/resource/Elton_John and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/The_Beatles and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Abbey_Road and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/George_Harrison and the value is : 0
+http://dbpedia.org/resource/The_Beatles and http://dbpedia.org/resource/Abbey_Road and the value is : 1
+http://dbpedia.org/resource/The_Beatles and http://dbpedia.org/resource/George_Harrison and the value is : 1
+http://dbpedia.org/resource/Abbey_Road and http://dbpedia.org/resource/George_Harrison and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Bespoke and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Clothing and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Phragmites and the value is : 0
+http://dbpedia.org/resource/Bespoke and http://dbpedia.org/resource/Clothing and the value is : 0
+http://dbpedia.org/resource/Bespoke and http://dbpedia.org/resource/Phragmites and the value is : 0
+http://dbpedia.org/resource/Clothing and http://dbpedia.org/resource/Phragmites and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/East_Asia and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Savile_Row and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Brand and the value is : 0
+http://dbpedia.org/resource/East_Asia and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/East_Asia and http://dbpedia.org/resource/Brand and the value is : 1
+http://dbpedia.org/resource/Savile_Row and http://dbpedia.org/resource/Brand and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Tommy_Nutter and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Savile_Row and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Stanbury and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Tommy_Nutter and the value is : 1
+http://dbpedia.org/resource/Savile_Row and http://dbpedia.org/resource/Tommy_Nutter and the value is : 1
+http://dbpedia.org/resource/Savile_Row and http://dbpedia.org/resource/Tommy_Nutter and the value is : 0
+http://dbpedia.org/resource/Savile_Row and http://dbpedia.org/resource/JJ_(Swedish_band) and the value is : 0
+http://dbpedia.org/resource/Savile_Row and http://dbpedia.org/resource/Crombie_(clothing) and the value is : 1
+http://dbpedia.org/resource/Savile_Row and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/JJ_(Swedish_band) and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Crombie_(clothing) and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/JJ_(Swedish_band) and http://dbpedia.org/resource/Crombie_(clothing) and the value is : 1
+http://dbpedia.org/resource/JJ_(Swedish_band) and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/Crombie_(clothing) and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Miami_Vice and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Savile_Row and the value is : 0
+http://dbpedia.org/resource/Miami_Vice and http://dbpedia.org/resource/Savile_Row and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Clothing and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Jester and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Jack_Nicholson and the value is : 1
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/1989_in_film and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Batman and the value is : 0
+http://dbpedia.org/resource/Clothing and http://dbpedia.org/resource/Jester and the value is : 0
+http://dbpedia.org/resource/Clothing and http://dbpedia.org/resource/Jack_Nicholson and the value is : 0
+http://dbpedia.org/resource/Clothing and http://dbpedia.org/resource/1989_in_film and the value is : 0
+http://dbpedia.org/resource/Clothing and http://dbpedia.org/resource/Batman and the value is : 1
+http://dbpedia.org/resource/Jester and http://dbpedia.org/resource/Jack_Nicholson and the value is : 0
+http://dbpedia.org/resource/Jester and http://dbpedia.org/resource/1989_in_film and the value is : 0
+http://dbpedia.org/resource/Jester and http://dbpedia.org/resource/Batman and the value is : 0
+http://dbpedia.org/resource/Jack_Nicholson and http://dbpedia.org/resource/1989_in_film and the value is : 0
+http://dbpedia.org/resource/Jack_Nicholson and http://dbpedia.org/resource/Batman and the value is : 0
+http://dbpedia.org/resource/1989_in_film and http://dbpedia.org/resource/Batman and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Cromwell_Hospital and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tommy nutter 19431992 was a british tailor who was a major figure in the fashion world of the late 1960s and early 1970s. he was known for his flamboyant style and his work with the rolling stones elton john and other celebrities. he was born in london and began his career as an apprentice tailor at the age of 15. he opened his own shop nutters of savile row in 1969. his designs were known for their bold colors and patterns and he was one of the first to introduce the peacock look to mens fashion. he was also one of the first to use denim in mens suits. he was a major influence on the punk and new wave fashion movements of the late 1970s and early 1980s. he died of aidsrelated complications in 1992. 
+
+Coref Resolved : 
+tommy nutter 19431992 was a british tailor who was a major figure in the fashion world of the late 1960s and early 1970s. tommy nutter 19431992 was known for tommy nutter 19431992 flamboyant style and tommy nutter 19431992 work with the rolling stones elton john and other celebrities. tommy nutter 19431992 was born in london and began tommy nutter 19431992 career as an apprentice tailor at the age of 15. tommy nutter 19431992 opened tommy nutter 19431992 own shop nutters of savile row in 1969. tommy nutter 19431992 designs were known for his designs bold colors and patterns and tommy nutter 19431992 was one of the first to introduce the peacock look to mens fashion. tommy nutter 19431992 was also one of the first to use denim in mens suits. tommy nutter 19431992 was a major influence on the punk and new wave fashion movements of the late 1970s and early 1980s. tommy nutter 19431992 died of aidsrelated complications in 1992.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+tommy nutter 17 april 1943 17 august 1992 was a british tailor famous for reinventing the savile row suit in the 1960s. born in barmouth merioneth to christopher nutter and dorothy formerly banister he was raised in edgware middlesex where his father owned a local high street café. after the family moved to kilburn nutter and his brother david attended willesden technical college. nutter initially studied plumbing and then architecture but he abandoned both aged 19 to study tailoring at the tailor and cutter academy. in the early 1960s he joined traditional tailors donaldson williamson ward. after seven years in 1969 he joined up with edward sexton to open nutters of savile row at no. 35a savile row. they were financially backed by cilla black and her husband bobby willis managing director of the beatles apple corps peter brown and lawyer james vallancewhite. the business was an immediate success as nutter combined traditional tailoring skills with innovative design. he designed for the hardy amies range and then for the man himself. his clients included his investors plus sir roy strong mick jagger bianca jagger and elton john. nutter himself was most proud of the fact that for the cover of the beatles album abbey road in 1969 he dressed three out of the four george harrison elected to be photographed on the roadcrossing in denims. in the 1970s his bespoke business became less successful but he branched out into readytowear clothing marketed through austin reed. he also successfully expanded into east asia establishing the savile row brand in japan. in 1976 sexton bought nutter out of the business. nutter went to work for kilgour french and stanbury managing his own workroom. sexton continued to run nutters of savile row until 1983 when nutter returned to the row with a readytowear shop tommy nutter savile row. this new venture which traded at no. 19 savile row until tommys death was backed by jj crombie limited who continue to own the tommy nutter trademark. at this time sexton set up a business in his own name. in the 1980s he described his suits as a cross between the bigshouldered miami vice look and the authentic savile row. he created the clothing of the joker worn by jack nicholson in the 1989 film batman. nutter died in 1992 at the cromwell hospital in london of complications from aids. 
+
+Coref Resolved : 
+tommy nutter 17 april 1943 17 august 1992 was a british tailor famous for reinventing the savile row suit in the 1960s. born in barmouth merioneth to christopher nutter and dorothy formerly banister tommy nutter was raised in edgware middlesex where tommy nutter father owned a local high street café. after the family moved to kilburn tommy nutter and tommy nutter brother david attended willesden technical college. tommy nutter initially studied plumbing and then architecture but tommy nutter abandoned plumbing and then architecture aged 19 to study tailoring at the tailor and cutter academy. in the early 1960s tommy nutter joined traditional tailors donaldson williamson ward. after seven years in 1969 tommy nutter joined up with edward sexton to open nutters of savile row at no. 35a savile row. they were financially backed by cilla black and cilla black husband bobby willis managing director of the beatles apple corps peter brown and lawyer james vallancewhite. nutters of savile row at no. 35a savile rowwas an immediate success as tommy nutter combined traditional tailoring skills with innovative design. tommy nutter designed for the hardy amies range and then for the man the man himself. tommy nutter clients included tommy nutter investors plus sir roy strong mick jagger bianca jagger and elton john. nutter tommy nutter was most proud of the fact that for the cover of the beatles album abbey road in 1969 tommy nutter dressed three out of the four george harrison elected to be photographed on the roadcrossing in denims. in the 1970s tommy nutter bespoke business became less successful but tommy nutter branched out into readytowear clothing marketed through austin reed. tommy nutter also successfully expanded into east asia establishing the savile row brand in japan. in 1976 edward sexton bought tommy nutter out of nutters of savile row at no. 35a savile row. tommy nutter went to work for kilgour french and stanbury managing tommy nutter own workroom. edward sexton continued to run nutters of savile row at no. 35a savile rowuntil 1983 when tommy nutter returned to savile row with a readytowear shop tommy nutter savile row. this new venture which traded at no. 19 savile row until tommy nutter death was backed by jj crombie limited who continue to own the tommy nutter trademark. at this time edward sexton set up a business in edward sexton own name. in the 1980s edward sexton described edward sexton suits as a cross between the bigshouldered miami vice look and the authentic savile row. edward sexton created the clothing of the joker worn by jack nicholson in the 1989 film batman. tommy nutter died in 1992 at the cromwell hospital in london of complications from aids.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3888888888888889 and for ground truth is : 0.3142857142857143
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate major_inaccurate accurate accurate accurate minor_inaccurate accurate 
+

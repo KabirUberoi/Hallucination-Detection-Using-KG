@@ -1,0 +1,52 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Novelist and the value is : 0
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Screenwriter and the value is : 1
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Novelist and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Novelist and http://dbpedia.org/resource/Screenwriter and the value is : 1
+http://dbpedia.org/resource/Novelist and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Playwright and http://dbpedia.org/resource/Screenwriter and the value is : 0
+http://dbpedia.org/resource/Playwright and http://dbpedia.org/resource/Journalist and the value is : 1
+http://dbpedia.org/resource/Screenwriter and http://dbpedia.org/resource/Journalist and the value is : 1
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Pachino and the value is : 0
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Sicily and the value is : 0
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Catania and the value is : 0
+http://dbpedia.org/resource/Pachino and http://dbpedia.org/resource/Sicily and the value is : 0
+http://dbpedia.org/resource/Pachino and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/Pachino and http://dbpedia.org/resource/Catania and the value is : 0
+http://dbpedia.org/resource/Sicily and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Sicily and http://dbpedia.org/resource/Catania and the value is : 1
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Catania and the value is : 1
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Literary_realism and the value is : 1
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Fantasy and the value is : 0
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Satire and the value is : 0
+http://dbpedia.org/resource/Literary_realism and http://dbpedia.org/resource/Fantasy and the value is : 0
+http://dbpedia.org/resource/Literary_realism and http://dbpedia.org/resource/Satire and the value is : 0
+http://dbpedia.org/resource/Fantasy and http://dbpedia.org/resource/Satire and the value is : 1
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Don_Camillo and the value is : 0
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Fernandel and the value is : 0
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Gino_Cervi and the value is : 0
+http://dbpedia.org/resource/Don_Camillo and http://dbpedia.org/resource/Fernandel and the value is : 0
+http://dbpedia.org/resource/Don_Camillo and http://dbpedia.org/resource/Gino_Cervi and the value is : 1
+http://dbpedia.org/resource/Fernandel and http://dbpedia.org/resource/Gino_Cervi and the value is : 1
+http://dbpedia.org/resource/La_provinciale_(1981_film) and http://dbpedia.org/resource/To_Bed_or_Not_to_Bed and the value is : 0
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/La_Terra_Trema and the value is : 1
+http://dbpedia.org/resource/Vitaliano_Brancati and http://dbpedia.org/resource/Rome and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+vitaliano brancati 19071954 was an italian novelist playwright screenwriter and journalist. he was born in pachino sicily and studied law at the university of catania. he was a major figure in the italian literary scene of the 1940s and 1950s and is considered one of the most important italian writers of the twentieth century. brancatis works are characterized by a combination of realism and fantasy often with a satirical edge. his most famous novel is don camillo e lonorevole peppone 1947 which was adapted into a popular film series starring fernandel and gino cervi. other notable works include il bellantonio 1950 la provinciale 1951 and il diavolo al pontelungo 1953. he also wrote several plays and screenplays including the script for the film la terra trema 1948. brancati died in rome in 1954. 
+
+Coref Resolved : 
+vitaliano brancati 19071954 was an italian novelist playwright screenwriter and journalist. vitaliano brancati was born in pachino sicily and studied law at the university of catania. vitaliano brancati was a major figure in the italian literary scene of the 1940s and 1950s and is considered one of the most important italian writers of the twentieth century. vitaliano brancati works are characterized by a combination of realism and fantasy often with a satirical edge. vitaliano brancati most famous novel is don camillo e lonorevole peppone 1947 which was adapted into a popular film series starring fernandel and gino cervi. other notable works include il bellantonio 1950 la provinciale 1951 and il diavolo al pontelungo 1953. vitaliano brancati also wrote several plays and screenplays including the script for the film la terra trema 1948. vitaliano brancati died in rome in 1954.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.34285714285714286
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

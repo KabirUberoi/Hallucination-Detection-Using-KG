@@ -1,0 +1,129 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/32_Flavors and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Billboard_Hot_100 and the value is : 1
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/32_Flavors and the value is : 0
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/Billboard_Hot_100 and the value is : 1
+http://dbpedia.org/resource/32_Flavors and http://dbpedia.org/resource/Billboard_Hot_100 and the value is : 1
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Fortune_cookie and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Surrender_Dorothy and the value is : 1
+http://dbpedia.org/resource/Fortune_cookie and http://dbpedia.org/resource/Surrender_Dorothy and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Acoustic_Soul and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Love_Life_(musical) and the value is : 0
+http://dbpedia.org/resource/Acoustic_Soul and http://dbpedia.org/resource/Love_Life_(musical) and the value is : 1
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Sheryl_Crow and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Ani_DiFranco and the value is : 1
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Indigo_Girls and the value is : 0
+http://dbpedia.org/resource/Sheryl_Crow and http://dbpedia.org/resource/Ani_DiFranco and the value is : 0
+http://dbpedia.org/resource/Sheryl_Crow and http://dbpedia.org/resource/Indigo_Girls and the value is : 0
+http://dbpedia.org/resource/Ani_DiFranco and http://dbpedia.org/resource/Indigo_Girls and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Walter_Davis_Jr. and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Pianist and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Charlie_Parker and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Dizzy_Gillespie and the value is : 0
+http://dbpedia.org/resource/Walter_Davis_Jr. and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Walter_Davis_Jr. and http://dbpedia.org/resource/Pianist and the value is : 0
+http://dbpedia.org/resource/Walter_Davis_Jr. and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Walter_Davis_Jr. and http://dbpedia.org/resource/Charlie_Parker and the value is : 0
+http://dbpedia.org/resource/Walter_Davis_Jr. and http://dbpedia.org/resource/Dizzy_Gillespie and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Pianist and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Charlie_Parker and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Dizzy_Gillespie and the value is : 0
+http://dbpedia.org/resource/Pianist and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Pianist and http://dbpedia.org/resource/Charlie_Parker and the value is : 1
+http://dbpedia.org/resource/Pianist and http://dbpedia.org/resource/Dizzy_Gillespie and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Charlie_Parker and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Dizzy_Gillespie and the value is : 0
+http://dbpedia.org/resource/Charlie_Parker and http://dbpedia.org/resource/Dizzy_Gillespie and the value is : 0
+http://dbpedia.org/resource/Elektra_Records and http://dbpedia.org/resource/Summer and the value is : 1
+http://dbpedia.org/resource/Elektra_Records and http://dbpedia.org/resource/Fortune_cookie and the value is : 0
+http://dbpedia.org/resource/Elektra_Records and http://dbpedia.org/resource/The_Neptunes and the value is : 1
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Fortune_cookie and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/The_Neptunes and the value is : 1
+http://dbpedia.org/resource/Fortune_cookie and http://dbpedia.org/resource/The_Neptunes and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/32_Flavors and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Radio_broadcasting and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/32_Flavors and the value is : 0
+http://dbpedia.org/resource/Radio_broadcasting and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/Radio_broadcasting and http://dbpedia.org/resource/32_Flavors and the value is : 0
+http://dbpedia.org/resource/Extended_play and http://dbpedia.org/resource/32_Flavors and the value is : 0
+http://dbpedia.org/resource/Extended_play and http://dbpedia.org/resource/32_Flavors and the value is : 0
+http://dbpedia.org/resource/Extended_play and http://dbpedia.org/resource/Cover_version and the value is : 1
+http://dbpedia.org/resource/Extended_play and http://dbpedia.org/resource/Ani_DiFranco and the value is : 0
+http://dbpedia.org/resource/32_Flavors and http://dbpedia.org/resource/Cover_version and the value is : 0
+http://dbpedia.org/resource/32_Flavors and http://dbpedia.org/resource/Ani_DiFranco and the value is : 0
+http://dbpedia.org/resource/Cover_version and http://dbpedia.org/resource/Ani_DiFranco and the value is : 0
+http://dbpedia.org/resource/Murder_of_John_Lennon and http://dbpedia.org/resource/Digital_audio and the value is : 0
+http://dbpedia.org/resource/Guest_appearance and http://dbpedia.org/resource/Soundtrack and the value is : 1
+http://dbpedia.org/resource/Guest_appearance and http://dbpedia.org/resource/The_Mod_Squad and the value is : 0
+http://dbpedia.org/resource/Guest_appearance and http://dbpedia.org/resource/Summer and the value is : 0
+http://dbpedia.org/resource/Guest_appearance and http://dbpedia.org/resource/Elektra_Records and the value is : 1
+http://dbpedia.org/resource/Guest_appearance and http://dbpedia.org/resource/Extended_play and the value is : 1
+http://dbpedia.org/resource/Guest_appearance and http://dbpedia.org/resource/Sony_Music and the value is : 0
+http://dbpedia.org/resource/Soundtrack and http://dbpedia.org/resource/The_Mod_Squad and the value is : 0
+http://dbpedia.org/resource/Soundtrack and http://dbpedia.org/resource/Summer and the value is : 0
+http://dbpedia.org/resource/Soundtrack and http://dbpedia.org/resource/Elektra_Records and the value is : 0
+http://dbpedia.org/resource/Soundtrack and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/Soundtrack and http://dbpedia.org/resource/Sony_Music and the value is : 0
+http://dbpedia.org/resource/The_Mod_Squad and http://dbpedia.org/resource/Summer and the value is : 0
+http://dbpedia.org/resource/The_Mod_Squad and http://dbpedia.org/resource/Elektra_Records and the value is : 0
+http://dbpedia.org/resource/The_Mod_Squad and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/The_Mod_Squad and http://dbpedia.org/resource/Sony_Music and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Elektra_Records and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Sony_Music and the value is : 0
+http://dbpedia.org/resource/Elektra_Records and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/Elektra_Records and http://dbpedia.org/resource/Sony_Music and the value is : 0
+http://dbpedia.org/resource/Extended_play and http://dbpedia.org/resource/Sony_Music and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Sony_Music and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Super_Bowl and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Electronic_music and the value is : 0
+http://dbpedia.org/resource/Extended_play and http://dbpedia.org/resource/Sony_Music and the value is : 0
+http://dbpedia.org/resource/Extended_play and http://dbpedia.org/resource/Super_Bowl and the value is : 0
+http://dbpedia.org/resource/Extended_play and http://dbpedia.org/resource/Electronic_music and the value is : 0
+http://dbpedia.org/resource/Sony_Music and http://dbpedia.org/resource/Super_Bowl and the value is : 0
+http://dbpedia.org/resource/Sony_Music and http://dbpedia.org/resource/Electronic_music and the value is : 0
+http://dbpedia.org/resource/Super_Bowl and http://dbpedia.org/resource/Electronic_music and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Independent_music and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Alana_Davis and the value is : 0
+http://dbpedia.org/resource/Independent_music and http://dbpedia.org/resource/Alana_Davis and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Surrender_Dorothy and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Tiger and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/Surrender_Dorothy and http://dbpedia.org/resource/Tiger and the value is : 0
+http://dbpedia.org/resource/Surrender_Dorothy and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/Tiger and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Thievery_Corporation and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+alana davis born october 3 1968 is an american singersongwriter and musician. she is best known for her hit single 32 flavors which was released in 1997 and reached number 28 on the billboard hot 100. davis has released four studio albums blame it on me 1996 fortune cookies 1998 surrender dorothy 2002 and fortune cookies the best of alana davis 2004. she has also released two eps acoustic soul 2005 and love life 2008. davis has toured extensively throughout the united states and europe and has performed with such artists as sheryl crow ani difranco and the indigo girls. 
+
+Coref Resolved : 
+alana davis born october 3 1968 is an american singersongwriter and musician. alana davis born october 3 1968 is best known for alana davis born october 3 1968 hit single 32 flavors which was released in 1997 and reached number 28 on the billboard hot 100. alana davis born october 3 1968 has released four studio albums blame it on me 1996 fortune cookies 1998 surrender dorothy 2002 and fortune cookies the best of alana davis born october 3 1968 2004. alana davis born october 3 1968 has also released two eps acoustic soul 2005 and love life 2008. alana davis born october 3 1968 has toured extensively throughout the united states and europe and has performed with such artists as sheryl crow ani difranco and the indigo girls.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+alana summer davis born may 6 1974 in new york city is an american singersongwriter. her father walter davis jr. was an africanamerican pianist who played alongside such jazz greats as charlie parker and dizzy gillespie. a record deal with elektra records produced davis first two albums blame it on me which was chosen as one of times five best albums of 1997 and 2001s fortune cookies which featured production by the neptunes and ed tuton. she released videos of the songs 32 flavors and crazy. davis achieved a radio hit with the single 32 flavors from her debut album. the song is a cover version of a track written and previously recorded by ani difranco. blame it on me stayed on the billboard top 200 for seven weeks peaking at 157 in february 1998 and reaching sales of over 240000 in the united states. murder also from blame it on me was sampled on jayzs vol. 3... life and times of s. carter. after a guest appearance on the 1999 soundtrack to the mod squad davis left elektra and signed a single deal with sme records. she released the single carry on on this label and the song was featured in a super bowl commercial for sony electronics. tired of major record labels davis went independent in 2005 and formed her own label tigress records. she released a third album surrender dorothy on this label which featured the single wide open. in 2006 davis toured with thievery corporation for a couple of dates as a guest vocalist. 
+
+Coref Resolved : 
+alana summer davis born may 6 1974 in new york city is an american singersongwriter. alana summer davis father walter davis jr. was an africanamerican pianist who played alongside such jazz greats as charlie parker and dizzy gillespie. a record deal with elektra records produced alana summer davis first two albums blame it on me which was chosen as one of times five best albums of 1997 and 2001s fortune cookies which featured production by the neptunes and ed tuton. alana summer davis released videos of the songs 32 flavors and crazy. alana summer davis achieved a radio hit with the single 32 flavors from alana summer davis debut album. the single 32 flavors from her debut albumis a cover version of a track written and previously recorded by ani difranco. blame it on me stayed on the billboard top 200 for seven weeks peaking at 157 in february 1998 and reaching sales of over 240000 in the united states. murder also from blame it on me was sampled on jayzs vol. 3... life and times of s. carter. after a guest appearance on the 1999 soundtrack to the mod squad alana summer davis left elektra records and signed a single deal with sme records. alana summer davis released the single carry on on sme recordsand the single carry on was featured in a super bowl commercial for sony electronics. tired of major record labels alana summer davis went independent in 2005 and formed alana summer davis own label tigress records. alana summer davis released a third album surrender dorothy on her own label tigress recordswhich featured the single wide open. in 2006 alana summer davis toured with thievery corporation for a couple of dates as a guest vocalist.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3333333333333333 and for ground truth is : 0.0963855421686747
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate 
+

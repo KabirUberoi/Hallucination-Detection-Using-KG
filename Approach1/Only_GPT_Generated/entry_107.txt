@@ -1,0 +1,37 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Indiana_Pacers and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Indiana_Pacers and the value is : 1
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Indiana_Pacers and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Virginia_Cavaliers_men's_basketball and the value is : 1
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Virginia_Cavaliers_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Milwaukee_Bucks and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Milwaukee_Bucks and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Indiana_Pacers and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Indiana_Pacers and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Social_justice and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Racial_equality and the value is : 1
+http://dbpedia.org/resource/Social_justice and http://dbpedia.org/resource/Racial_equality and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+malcolm brogdon born december 11 1992 is an american professional basketball player for the indiana pacers of the national basketball association nba. he played college basketball for the virginia cavaliers where he was the acc player of the year and an allamerican in 2016. he was selected in the second round of the 2016 nba draft by the milwaukee bucks with the 36th overall pick. brogdon was named the nba rookie of the year in 2017. he was traded to the pacers in 2019. brogdon is a twotime nba allstar and was named to the alldefensive second team in 2019. he is known for his defensive prowess and his ability to shoot from long range. he is also an advocate for social justice and has been involved in several initiatives to promote racial equality. 
+
+Coref Resolved : 
+malcolm brogdon born december 11 1992 is an american professional basketball player for the indiana pacers of the national basketball association nba. brogdon played college basketball for the virginia cavaliers where brogdon was the acc player of the year and an allamerican in 2016. brogdon was selected in the second round of the 2016 the national basketball association nbadraft by the milwaukee bucks with the 36th overall pick. brogdon was named the the national basketball association nbarookie of the year in 2017. brogdon was traded to the indiana pacers of the national basketball association nbain 2019. brogdon is a twotime the national basketball association nbaallstar and was named to the alldefensive second team in 2019. brogdon is known for brogdon defensive prowess and brogdon ability to shoot from long range. brogdon is also an advocate for social justice and has been involved in several initiatives to promote racial equality.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.8
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate minor_inaccurate accurate major_inaccurate 
+

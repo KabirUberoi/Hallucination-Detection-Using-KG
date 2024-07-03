@@ -1,0 +1,106 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Billy_Barnie and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Billy_Barnie and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Billy_Barnie and http://dbpedia.org/resource/Catcher and the value is : 0
+http://dbpedia.org/resource/Billy_Barnie and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Catcher and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Billy_Barnie and http://dbpedia.org/resource/Baseball_glove and the value is : 0
+http://dbpedia.org/resource/Billy_Barnie and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Billy_Barnie and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Billy_Barnie and http://dbpedia.org/resource/American_Association_(19th_century) and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/American_Association_(19th_century) and the value is : 0
+http://dbpedia.org/resource/Baltimore_Orioles and http://dbpedia.org/resource/American_Association_(19th_century) and the value is : 1
+http://dbpedia.org/resource/Billy_Barnie and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Billy_Barnie and http://dbpedia.org/resource/History_of_the_Boston_Braves and the value is : 1
+http://dbpedia.org/resource/Billy_Barnie and http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and the value is : 0
+http://dbpedia.org/resource/Minnesota_Twins and http://dbpedia.org/resource/History_of_the_Boston_Braves and the value is : 1
+http://dbpedia.org/resource/Minnesota_Twins and http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and the value is : 0
+http://dbpedia.org/resource/History_of_the_Boston_Braves and http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and the value is : 0
+http://dbpedia.org/resource/Billy_Barnie and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/William_Henry_Harrison and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/William_Henry_Harrison and http://dbpedia.org/resource/Catcher and the value is : 0
+http://dbpedia.org/resource/William_Henry_Harrison and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Catcher and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Catcher and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Infielder and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Infielder and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Catcher and the value is : 0
+http://dbpedia.org/resource/Baltimore_Orioles and http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/Baltimore_Orioles and http://dbpedia.org/resource/Catcher and the value is : 0
+http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and http://dbpedia.org/resource/Catcher and the value is : 0
+http://dbpedia.org/resource/Baltimore_Orioles and http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/Baltimore_Orioles and http://dbpedia.org/resource/1891_in_baseball and the value is : 0
+http://dbpedia.org/resource/Baltimore_Orioles and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Baltimore_Orioles and http://dbpedia.org/resource/Louisville_Colonels and the value is : 0
+http://dbpedia.org/resource/Baltimore_Orioles and http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and the value is : 0
+http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and http://dbpedia.org/resource/1891_in_baseball and the value is : 0
+http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and http://dbpedia.org/resource/Minnesota_Twins and the value is : 1
+http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and http://dbpedia.org/resource/Louisville_Colonels and the value is : 1
+http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and the value is : 0
+http://dbpedia.org/resource/1891_in_baseball and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/1891_in_baseball and http://dbpedia.org/resource/Louisville_Colonels and the value is : 1
+http://dbpedia.org/resource/1891_in_baseball and http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and the value is : 0
+http://dbpedia.org/resource/Minnesota_Twins and http://dbpedia.org/resource/Louisville_Colonels and the value is : 0
+http://dbpedia.org/resource/Minnesota_Twins and http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and the value is : 1
+http://dbpedia.org/resource/Louisville_Colonels and http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Pneumonia and the value is : 1
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Asthma and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Bronchitis and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Green-Wood_Cemetery and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Pneumonia and http://dbpedia.org/resource/Asthma and the value is : 0
+http://dbpedia.org/resource/Pneumonia and http://dbpedia.org/resource/Bronchitis and the value is : 0
+http://dbpedia.org/resource/Pneumonia and http://dbpedia.org/resource/Green-Wood_Cemetery and the value is : 0
+http://dbpedia.org/resource/Pneumonia and http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and the value is : 0
+http://dbpedia.org/resource/Pneumonia and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Pneumonia and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/Asthma and http://dbpedia.org/resource/Bronchitis and the value is : 0
+http://dbpedia.org/resource/Asthma and http://dbpedia.org/resource/Green-Wood_Cemetery and the value is : 0
+http://dbpedia.org/resource/Asthma and http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and the value is : 0
+http://dbpedia.org/resource/Asthma and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Asthma and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Bronchitis and http://dbpedia.org/resource/Green-Wood_Cemetery and the value is : 0
+http://dbpedia.org/resource/Bronchitis and http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and the value is : 0
+http://dbpedia.org/resource/Bronchitis and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Bronchitis and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Green-Wood_Cemetery and http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and the value is : 0
+http://dbpedia.org/resource/Green-Wood_Cemetery and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Green-Wood_Cemetery and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+billy barnie 18501925 was an american professional baseball player and manager. he played as a catcher and third baseman in major league baseball from 1875 to 1892. he is credited with inventing the modern catchers mitt. barnie was the first manager of the baltimore orioles leading the team to four consecutive american association pennants from 1894 to 1897. he also managed the washington senators boston beaneaters and brooklyn superbas. barnie was known for being a colorful and outspoken character. he was nicknamed the father of the baltimore orioles and was inducted into the baseball hall of fame in 1945. 
+
+Coref Resolved : 
+billy barnie 18501925 was an american professional baseball player and manager. billy barnie 18501925 played as a catcher and third baseman in major league baseball from 1875 to 1892. billy barnie 18501925 is credited with inventing the modern catchers mitt. billy barnie 18501925 was the first manager of the baltimore orioles leading the baltimore orioles to four consecutive american association pennants from 1894 to 1897. billy barnie 18501925 also managed the washington senators boston beaneaters and brooklyn superbas. billy barnie 18501925 was known for being a colorful and outspoken character. billy barnie 18501925 was nicknamed the father of the baltimore orioles and was inducted into the baseball hall of fame in 1945.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+william harrison barnie january 26 1853 july 15 1900 nicknamed bald billy was an american manager and catcher in major league baseball. born in new york city he played as a right fielder in the national association in 18741875. in 1883 he became manager of the baltimore orioles of the american association he appeared as a backup catcher that season and also played two games in 1886 but otherwise did not take the field. after leaving the orioles following the 1891 season he managed the washington senators 1892 louisville colonels 18931894 and brooklyn bridegrooms 18971898. his career managerial record consists of 632 wins and 810 losses. his best finish was third place with the 1887 orioles. barnie died in hartford connecticut at the age of 47 of pneumonia complicated by asthmatic bronchitis and was buried at greenwood cemetery in brooklyn new york. 
+
+Coref Resolved : 
+william harrison barnie january 26 1853 july 15 1900 nicknamed bald billy was an american manager and catcher in major league baseball. born in new york city barnie played as a right fielder in the national association in 18741875. in 1883 barnie became manager of the baltimore orioles of the american association barnie appeared as a backup catcher that season and also played two games in 1886 but otherwise did not take the field. after leaving the baltimore orioles of the american association following the 1891 season barnie managed the washington senators 1892 louisville colonels 18931894 and brooklyn bridegrooms 18971898. barnie career managerial record consists of 632 wins and 810 losses. barnie best finish was third place with the 1887 orioles. barnie died in hartford connecticut at the age of 47 of pneumonia complicated by asthmatic bronchitis and was buried at greenwood cemetery in brooklyn new york city .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2 and for ground truth is : 0.1724137931034483
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

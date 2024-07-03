@@ -1,0 +1,127 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 1
+http://dbpedia.org/resource/St._Louis_Cardinals and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball_Most_Valuable_Player_Award and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Illinois_Fighting_Illini_football and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Decatur_Commodores and the value is : 0
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/Illinois_Fighting_Illini_football and the value is : 1
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/Decatur_Commodores and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Decatur_Commodores and the value is : 1
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Decatur_Commodores and the value is : 0
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Decatur_Commodores and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 1
+http://dbpedia.org/resource/Run_batted_in and http://dbpedia.org/resource/At_bat and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/At_bat and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Batting_average and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Games_played and the value is : 0
+http://dbpedia.org/resource/Batting_average and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Batting_average and http://dbpedia.org/resource/Games_played and the value is : 0
+http://dbpedia.org/resource/Run_batted_in and http://dbpedia.org/resource/Games_played and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Nickname and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Hair and the value is : 0
+http://dbpedia.org/resource/Nickname and http://dbpedia.org/resource/Hair and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Osteomyelitis and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Forearm and the value is : 0
+http://dbpedia.org/resource/Osteomyelitis and http://dbpedia.org/resource/Forearm and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Myocardial_infarction and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Spring_training and the value is : 0
+http://dbpedia.org/resource/Myocardial_infarction and http://dbpedia.org/resource/Spring_training and the value is : 1
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 1
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Slugging_percentage and the value is : 0
+http://dbpedia.org/resource/Run_batted_in and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Run_batted_in and http://dbpedia.org/resource/Slugging_percentage and the value is : 1
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Slugging_percentage and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Putout and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Fielding_percentage and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Double_play and the value is : 0
+http://dbpedia.org/resource/Putout and http://dbpedia.org/resource/Fielding_percentage and the value is : 0
+http://dbpedia.org/resource/Putout and http://dbpedia.org/resource/Double_play and the value is : 0
+http://dbpedia.org/resource/Fielding_percentage and http://dbpedia.org/resource/Double_play and the value is : 0
+http://dbpedia.org/resource/Run_batted_in and http://dbpedia.org/resource/Northern_cardinal and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Red_Ruffing and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Inning and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Northern_cardinal and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/New_York_Yankees and the value is : 0
+http://dbpedia.org/resource/Red_Ruffing and http://dbpedia.org/resource/Inning and the value is : 0
+http://dbpedia.org/resource/Red_Ruffing and http://dbpedia.org/resource/Northern_cardinal and the value is : 0
+http://dbpedia.org/resource/Red_Ruffing and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Red_Ruffing and http://dbpedia.org/resource/New_York_Yankees and the value is : 0
+http://dbpedia.org/resource/Inning and http://dbpedia.org/resource/Northern_cardinal and the value is : 0
+http://dbpedia.org/resource/Inning and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Inning and http://dbpedia.org/resource/New_York_Yankees and the value is : 0
+http://dbpedia.org/resource/Northern_cardinal and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Northern_cardinal and http://dbpedia.org/resource/New_York_Yankees and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/New_York_Yankees and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Major_League_Baseball_Most_Valuable_Player_Award and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Ballot and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball_Most_Valuable_Player_Award and http://dbpedia.org/resource/Ballot and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Elbow and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Mathematical_induction and the value is : 0
+http://dbpedia.org/resource/Bratislava and http://dbpedia.org/resource/Esquire_(magazine) and the value is : 0
+http://dbpedia.org/resource/Bratislava and http://dbpedia.org/resource/Sports_journalism and the value is : 0
+http://dbpedia.org/resource/Bratislava and http://dbpedia.org/resource/Harry_Stein_(author) and the value is : 0
+http://dbpedia.org/resource/Esquire_(magazine) and http://dbpedia.org/resource/Sports_journalism and the value is : 1
+http://dbpedia.org/resource/Esquire_(magazine) and http://dbpedia.org/resource/Harry_Stein_(author) and the value is : 0
+http://dbpedia.org/resource/Sports_journalism and http://dbpedia.org/resource/Harry_Stein_(author) and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Sports_journalism and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Harry_Stein_(author) and the value is : 0
+http://dbpedia.org/resource/Sports_journalism and http://dbpedia.org/resource/Harry_Stein_(author) and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Sinking_Spring,_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/George_John_(soccer) and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Sinking_Spring,_Pennsylvania and http://dbpedia.org/resource/Pennsylvania and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+whitey kurowski april 4 1916 october 15 1999 was an american professional baseball player. he played in major league baseball as a third baseman for the st. louis cardinals 19381948 and philadelphia phillies 19491951. kurowski was a fivetime allstar and was the national league mvp in 1943. he was known for his strong throwing arm and his ability to hit for power and average. kurowski was born in chicago illinois and began his professional baseball career in 1934 with the minor league decatur commodores. he made his major league debut with the cardinals in 1938 and was a regular starter by 1940. he was selected to the allstar team in 1941 1942 1943 1945 and 1947. in 1943 he led the national league in runs batted in rbis with 120 and was named the leagues most valuable player. he also led the league in rbis in 1945 with 108. kurowski was traded to the phillies in 1949 and played two seasons with them before retiring in 
+
+Coref Resolved : 
+whitey kurowski april 4 1916 october 15 1999 was an american professional baseball player. whitey kurowski played in major league baseball as a third baseman for the st. louis cardinals 19381948 and philadelphia phillies 19491951. whitey kurowski was a fivetime allstar and was the national league mvp in 1943. whitey kurowski was known for whitey kurowski strong throwing arm and whitey kurowski ability to hit for power and average. whitey kurowski was born in chicago illinois and began whitey kurowski professional baseball career in 1934 with the minor league decatur commodores. whitey kurowski made whitey kurowski major league debut with the st. louis cardinals in 1938 and was a regular starter by 1940. whitey kurowski was selected to the allstar team in 1941 1942 1943 1945 and 1947. in 1943whitey kurowski led national league in runs batted in rbis with 120 and was named the leagues most valuable player. whitey kurowski also led national league in rbis in 1945 with 108. whitey kurowski was traded to philadelphia phillies in 1949 and played two seasons with philadelphia phillies before retiring in
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+george john kurowski april 19 1918 december 9 1999 was a third baseman in major league baseball who played his entire career for the st. louis cardinals 1949. kurowski batted and threw righthanded. he debuted on september 23 1941 and played his final game on october 1 1949. in a nineseason career kurowski posted a .286 batting average with 106 home runs and 529 rbi in 916 games played. kurowskis childhood nickname came from his already white hair. a native of reading pennsylvania kurowski overcame several personal problems. he overcame childhood osteomyelitis which made him miss a part of a bone on his right forearm. before he started his baseball career his older brother died in a mine accident and his father died from a heart attack during spring training in 1942. his most productive season came in 1945 when he posted careerhighs in average .310 home runs 27 rbi 104 runs 108 doubles 27 slugging percentage .544 and onbase percentage .420. an allstar during five consecutive seasons 194347 kurowski exceeded the 20 home run mark three times to set a major league record for a third baseman 194445 1947 and hit over .300 three times 194547. he also led the national league three times in putouts twice in fielding percentage and once in double plays. in four world series appearances kurowski hit .253 21for83 with one home run and nine rbi in 23 games as the cardinals were world champions in 1942 1944 and 1946. his only home run in the series in 1942 off red ruffing broke a 22 tie in the ninth inning of game five to clinch the title for st. louis over the new york yankees. he also appeared five times in the mvp ballot in 1942 and from 1944 through 1947. in 1949 kurowski developed arm and elbow problems and his playing career ended. after that he coached and managed in the minor leagues for 18 years until 1972. he gained induction into the national polishamerican hall of fame in 1988. in an article in 1976 in esquire magazine sportswriter harry stein published an alltime allstar argument starter consisting of five ethnic baseball teams. kurowski was the third baseman on steins polish team. kurowski died in sinking spring pennsylvania at age 81. 
+
+Coref Resolved : 
+george john kurowski april 19 1918 december 9 1999 was a third baseman in major league baseball who played george john kurowski entire career for the st. louis cardinals 1949. george john kurowski batted and threw righthanded. george john kurowski debuted on september 23 1941 and played george john kurowski final game on october 1 1949. in a nineseason career george john kurowski posted a .286 batting average with 106 home runs and 529 rbi in 916 games played. george john kurowski childhood nickname came from george john kurowski already white hair. george john kurowski overcame several personal problems. george john kurowski overcame childhood osteomyelitis which made george john kurowski miss a part of a bone on george john kurowski right forearm. before george john kurowski started george john kurowski baseball career george john kurowski older brother died in a mine accident and george john kurowski father died from a heart attack during spring training in 1942. george john kurowski most productive season came in 1945 when george john kurowski posted careerhighs in average .310 home runs 27 rbi 104 runs 108 doubles 27 slugging percentage .544 and onbase percentage .420. an allstar during five consecutive seasons 194347 george john kurowski exceeded the 20 home run mark three times to set a major league record for a third baseman 194445 1947 and hit over .300 three times 194547. george john kurowski also led the national league three times in putouts twice in fielding percentage and once in double plays. in four world series appearances george john kurowski hit .253 21for83 with one home run and nine rbi in 23 games as the cardinals were world champions in 19421944 and 1946. george john kurowski only home run in the series in 1942off red ruffing broke a 22 tie in the ninth inning of game five to clinch the title for the cardinals over the new york yankees. george john kurowski also appeared five times in the mvp ballot in 1942and from 1944 through 1947 . in 1949 george john kurowski developed arm and elbow problems and george john kurowski playing career ended. after endedgeorge john kurowski coached and managed in the minor leagues for 18 years until 1972. george john kurowski gained induction into the national polishamerican hall of fame in 1988. in an article in 1976 in esquire magazine sportswriter harry stein published an alltime allstar argument starter consisting of five ethnic baseball teams. george john kurowski was the third baseman on sportswriter harry stein polish team. george john kurowski died in sinking spring pennsylvania at age 81.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3225806451612903 and for ground truth is : 0.07352941176470588
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

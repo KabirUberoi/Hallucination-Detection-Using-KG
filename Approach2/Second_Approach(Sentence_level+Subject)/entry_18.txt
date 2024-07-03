@@ -1,0 +1,76 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Supermodel and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Vogue_France and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Cosmopolitan_of_Las_Vegas and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Armani and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Dior and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Versace and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/HIV and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Vogue_France and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Armani and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Dior and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Versace and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Supermodel and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Heroin and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/HIV and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/HIV and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Gia Marie Carangi (January 29, 1960 November 18, 1986) was an American model during the late 1970s and early 1980s.
+Considered by some to be the first supermodel, she was featured on the cover of fashion magazines, including multiple editions of Vogue and Cosmopolitan, and appeared in advertising campaigns for such fashion houses as Armani, Christian Dior, Versace, and Yves Saint Laurent.
+Carangi's life was marred by drug addiction and depression, leading to her death from AIDS-related complications at the age of 26.
+She is considered to be one of the first famous women to die of the disease.
+Her life was the subject of the 1998 biographical television film Gia, starring Angelina Jolie in the title role.
+
+
+Coref Resolved: 
+
+Gia Marie Carangi (January 29, 1960 November 18, 1986) was an American model during the late 1970s and early 1980s.
+Considered by some to be the first supermodel, Gia Marie Carangi was featured on the cover of fashion magazines, including multiple editions of Vogue and Cosmopolitan, and appeared in advertising campaigns for such fashion houses as Armani, Christian Dior, Versace, and Yves Saint Laurent.
+Gia Marie Carangi life was marred by drug addiction and depression, leading to Gia Marie Carangi death from AIDS-related complications at the age of 26.
+Gia Marie Carangi is considered to be one of the first famous women to die of AIDS.
+Gia Marie Carangi life was the subject of the 1998 biographical television film Gia, starring Angelina Jolie in the title role.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Gia Marie Carangi (January 29, 1960 November 18, 1986) was an American fashion model during the late 1970s and early 1980s.
+She was featured on the cover of fashion magazines, including four international editions of Vogue and multiple issues of Cosmopolitan between 1979 and 1982.
+During these years, she also appeared in advertising campaigns for fashion houses, including Armani, Christian Dior, Versace, and Yves Saint Laurent.
+Carangi is considered to be the first supermodel, although that title has also been applied to others.
+After she became addicted to heroin, Carangi's modeling career rapidly declined.
+She later contracted HIV and died of AIDS-related complications at the age of 26 she is thought to be one of the first famous women to die of the disease.
+Carangi's life was dramatized in the television film Gia, starring Angelina Jolie, which debuted on HBO in 1998.
+ 
+
+Coref Resolved: 
+
+Gia Marie Carangi (January 29, 1960 November 18, 1986) was an American fashion model during the late 1970s and early 1980s.
+Gia Marie Carangi was featured on the cover of fashion magazines, including four international editions of Vogue and multiple issues of Cosmopolitan between 1979 and 1982.
+During the late 1970s and early 1980s, Gia Marie Carangi also appeared in advertising campaigns for fashion houses, including Armani, Christian Dior, Versace, and Yves Saint Laurent.
+Gia Marie Carangi is considered to be the first supermodel, although that title has also been applied to others.
+After Gia Marie Carangi became addicted to heroin, Gia Marie Carangi modeling career rapidly declined.
+Gia Marie Carangi later contracted HIV and died of AIDS-related complications at the age of 26 Gia Marie Carangi is thought to be one of the first famous women to die of AIDS.
+Gia Marie Carangi life was dramatized in the television film Gia, starring Angelina Jolie, which debuted on HBO in 1998.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 0.7142857142857143 -1 0.0 -1 
+
+Value for ground truth is : 
+0.0 0.0 1.0 1.0 1.0 0.0 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate 
+

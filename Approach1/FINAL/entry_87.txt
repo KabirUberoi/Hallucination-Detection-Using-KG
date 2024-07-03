@@ -1,0 +1,110 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Ole_Miss_Rebels_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ole_Miss_Rebels_football and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Ole_Miss_Rebels_football and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Ole_Miss_Rebels_football and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Michigan_Wolverines_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Michigan_Wolverines_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_men's_basketball and http://dbpedia.org/resource/Michigan_Wolverines_men's_basketball and the value is : 0
+http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and http://dbpedia.org/resource/Michigan_Wolverines_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Conference_USA and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Conference_USA and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and http://dbpedia.org/resource/Texas and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/DJ_Froggy and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Kermit_the_Frog and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_football and the value is : 0
+http://dbpedia.org/resource/DJ_Froggy and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/DJ_Froggy and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/DJ_Froggy and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_football and the value is : 1
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_football and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Middle_Tennessee_Blue_Raiders_football and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/LSU_Tigers_basketball and the value is : 1
+http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Tim_Floyd and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/New_Orleans and the value is : 0
+http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and http://dbpedia.org/resource/Tim_Floyd and the value is : 0
+http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and http://dbpedia.org/resource/New_Orleans and the value is : 1
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/Tim_Floyd and the value is : 0
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/New_Orleans and the value is : 0
+http://dbpedia.org/resource/Tim_Floyd and http://dbpedia.org/resource/New_Orleans and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Tim_Floyd and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Big_Sky_Conference and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Tim_Floyd and http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Tim_Floyd and http://dbpedia.org/resource/Big_Sky_Conference and the value is : 0
+http://dbpedia.org/resource/Tim_Floyd and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 1
+http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and http://dbpedia.org/resource/Big_Sky_Conference and the value is : 0
+http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Big_Sky_Conference and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Palouse and http://dbpedia.org/resource/Texas and the value is : 1
+http://dbpedia.org/resource/Utah_Utes_football and http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Utah_Utes_football and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Utah_Utes_football and http://dbpedia.org/resource/John_Brady_(basketball) and the value is : 0
+http://dbpedia.org/resource/Utah_Utes_football and http://dbpedia.org/resource/LSU_Tigers_basketball and the value is : 0
+http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and http://dbpedia.org/resource/John_Brady_(basketball) and the value is : 1
+http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and http://dbpedia.org/resource/LSU_Tigers_basketball and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/John_Brady_(basketball) and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/LSU_Tigers_basketball and the value is : 0
+http://dbpedia.org/resource/John_Brady_(basketball) and http://dbpedia.org/resource/LSU_Tigers_basketball and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+kermit davis born april 28 1959 is an american college basketball coach and the current head coach of the mississippi state bulldogs mens basketball team. he was previously the head coach of the middle tennessee blue raiders mens basketball team from 2002 to 2018. during his tenure at middle tennessee davis led the blue raiders to five ncaa tournament appearances including a firstround upset of michigan state in 2016. he was named conference usa coach of the year in 2013 and 2017. davis was also the head coach at idaho from 1998 to 2002 and at texas am from 1988 to 1990. 
+
+Coref Resolved : 
+kermit davis born april 28 1959 is an american college basketball coach and the current head coach of the mississippi state bulldogs mens basketball team. kermit davis born april 28 1959 was previously the head coach of the middle tennessee blue raiders mens basketball team from 2002 to 2018. during kermit davis born april 28 1959 tenure at the middle tennessee blue raiders mens basketball team kermit davis born april 28 1959 led the middle tennessee blue raiders mens basketball team to five ncaa tournament appearances including a firstround upset of michigan state in 2016. kermit davis born april 28 1959 was named conference usa coach of the year in 2013 and 2017. kermit davis born april 28 1959 was also the head coach at idaho from 1998 to 2002 and at texas am from 1988 to 1990.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+kermit froggy davis jr. born december 14 1959 is an american college basketball coach and the mens head coach at middle tennessee state university since 2002. davis was previously the associate head coach at lsu for five seasons. his head coaching experience included brief stops at idaho twice and texas am. when promoted from assistant to head coach at idaho in 1988 at age 28 davis was the youngest head coach in ncaa division i. he had been an assistant for two seasons with the vandals under new and firsttime head coach tim floyd who left for new orleans. floyd had rejuvenated the program and under davis idaho had consecutive 256 seasons in 1989 and 1990 winning the big sky regular season and tournament titles to make the ncaa tournament both years. he left the palouse for texas am of the southwest conference in march 1990 but resigned a year later after an 821 first season. after three years at a junior college in florida and two seasons as an assistant at utah state davis returned to idaho as head coach in march 1996 then left a year later to become associate head coach under john brady at lsu. 
+
+Coref Resolved : 
+kermit froggy davis jr. born december 14 1959 is an american college basketball coach and the mens head coach at middle tennessee state university since 2002. davis was previously the associate head coach at lsu for five seasons. davis head coaching experience included brief stops at idaho twice and texas am. when promoted from assistant to head coach at idaho in 1988 at age 28 davis was the youngest head coach in ncaa division i. davis had been an assistant for two seasons with idaho under new and firsttime head coach tim floyd who left for new orleans. new and firsttime head coach tim floyd who left for new orleanshad rejuvenated the program and under davis idaho had consecutive 256 seasons in 1989 and 1990 winning the big sky regular season and tournament titles to make the ncaa tournament both years. davis left the palouse for texas amin march 1990 but resigned a year later after an 821 first season. after three years at a junior college in florida and two seasons as an assistant at utah state davis returned to idaho as head coach in march 1996 then left a year later to become associate head coach under john brady at lsu .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.02564102564102564 and for ground truth is : 0.18604651162790697
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

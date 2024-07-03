@@ -1,0 +1,44 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Labour_Party_(UK) and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/1984_Portsmouth_South_by-election and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Labour_Party_(UK) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/1984_Portsmouth_South_by-election and the value is : 0
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/1984_Portsmouth_South_by-election and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/1984_Portsmouth_South_by-election and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/1984_Portsmouth_South_by-election and the value is : 1
+http://dbpedia.org/resource/1984_Portsmouth_South_by-election and http://dbpedia.org/resource/Grammar_school and the value is : 1
+http://dbpedia.org/resource/1984_Portsmouth_South_by-election and http://dbpedia.org/resource/University_of_Southampton and the value is : 0
+http://dbpedia.org/resource/Grammar_school and http://dbpedia.org/resource/University_of_Southampton and the value is : 0
+http://dbpedia.org/resource/Councillor and http://dbpedia.org/resource/Portsmouth_City_Council and the value is : 1
+http://dbpedia.org/resource/1997_United_Kingdom_general_election and http://dbpedia.org/resource/2010_United_Kingdom_general_election and the value is : 0
+http://dbpedia.org/resource/Defence_Select_Committee and http://dbpedia.org/resource/Parliamentary_Labour_Party and the value is : 0
+http://dbpedia.org/resource/Defence_Select_Committee and http://dbpedia.org/resource/Defence_minister and the value is : 0
+http://dbpedia.org/resource/Defence_Select_Committee and http://dbpedia.org/resource/Parliamentary_committees_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Parliamentary_Labour_Party and http://dbpedia.org/resource/Defence_minister and the value is : 0
+http://dbpedia.org/resource/Parliamentary_Labour_Party and http://dbpedia.org/resource/Parliamentary_committees_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Defence_minister and http://dbpedia.org/resource/Parliamentary_committees_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Parliamentary_Labour_Party and http://dbpedia.org/resource/Parliamentary_committees_of_the_United_Kingdom and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+syd rapson born sydney rapson 28 april 1932 28 april 2017 was an english labour party politician who served as member of parliament mp for portsmouth south from 1997 to 2010. rapson was born in portsmouth and educated at portsmouth grammar school and the university of southampton. he worked as a teacher and a lecturer before entering politics. he was a councillor on portsmouth city council from 1973 to 1997 and was leader of the council from 1983 to 1997. rapson was elected to the house of commons at the 1997 general election and held the seat until he stood down at the 2010 general election. he was a member of the defence select committee from 1997 to 2010 and was a member of the parliamentary labour party defence committee from 1997 to 2005. he was also a member of the parliamentary labour party home affairs committee from 2005 to 2010. 
+
+Coref Resolved : 
+syd rapson born sydney rapson 28 april 1932 28 april 2017 was an english labour party politician who served as member of parliament mp for portsmouth south from 1997 to 2010. sydney rapson was born in portsmouth south and educated at portsmouth south grammar school and the university of southampton. sydney rapson worked as a teacher and a lecturer before entering politics. sydney rapson was a councillor on portsmouth city council from 1973 to 1997 and was leader of portsmouth city council from 1983 to 1997 . sydney rapson was elected to the house of commons at the 1997 general election and held the seat until sydney rapson stood down at the 2010 general election. sydney rapson was a member of the defence select committee from 1997 to 2010and was a member of the parliamentary labour party defence committee from 1997 to 2005. sydney rapson was also a member of the parliamentary labour party home affairs committee from 2005to 2010.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.18518518518518517
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate accurate minor_inaccurate minor_inaccurate major_inaccurate 
+

@@ -1,0 +1,126 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/CBS and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Ravi_Kapoor and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Dharma and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Ravi_Kapoor and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Dharma and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Ravi_Kapoor and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Dharma and the value is : 0
+http://dbpedia.org/resource/Ravi_Kapoor and http://dbpedia.org/resource/Dharma and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Tehran and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Iran and the value is : 0
+http://dbpedia.org/resource/Tehran and http://dbpedia.org/resource/Iran and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/L.A._Law and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/L.A._Law and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/L.A._Law and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Wedding_planner and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Shohreh_Aghdashloo and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Shohreh_Aghdashloo and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Mashhad and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Iran and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Mashhad and http://dbpedia.org/resource/Iran and the value is : 0
+http://dbpedia.org/resource/Mashhad and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Iran and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Charites and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Shrubland and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Andy_Barker,_P.I. and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Cleveland_Brown and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Boston_Legal and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Cinema_of_Bangladesh and the value is : 0
+http://dbpedia.org/resource/Charites and http://dbpedia.org/resource/Shrubland and the value is : 0
+http://dbpedia.org/resource/Charites and http://dbpedia.org/resource/Andy_Barker,_P.I. and the value is : 0
+http://dbpedia.org/resource/Charites and http://dbpedia.org/resource/Cleveland_Brown and the value is : 0
+http://dbpedia.org/resource/Charites and http://dbpedia.org/resource/Boston_Legal and the value is : 0
+http://dbpedia.org/resource/Charites and http://dbpedia.org/resource/Cinema_of_Bangladesh and the value is : 0
+http://dbpedia.org/resource/Shrubland and http://dbpedia.org/resource/Andy_Barker,_P.I. and the value is : 0
+http://dbpedia.org/resource/Shrubland and http://dbpedia.org/resource/Cleveland_Brown and the value is : 0
+http://dbpedia.org/resource/Shrubland and http://dbpedia.org/resource/Boston_Legal and the value is : 0
+http://dbpedia.org/resource/Shrubland and http://dbpedia.org/resource/Cinema_of_Bangladesh and the value is : 0
+http://dbpedia.org/resource/Andy_Barker,_P.I. and http://dbpedia.org/resource/Cleveland_Brown and the value is : 0
+http://dbpedia.org/resource/Andy_Barker,_P.I. and http://dbpedia.org/resource/Boston_Legal and the value is : 0
+http://dbpedia.org/resource/Andy_Barker,_P.I. and http://dbpedia.org/resource/Cinema_of_Bangladesh and the value is : 0
+http://dbpedia.org/resource/Cleveland_Brown and http://dbpedia.org/resource/Boston_Legal and the value is : 0
+http://dbpedia.org/resource/Cleveland_Brown and http://dbpedia.org/resource/Cinema_of_Bangladesh and the value is : 0
+http://dbpedia.org/resource/Boston_Legal and http://dbpedia.org/resource/Cinema_of_Bangladesh and the value is : 0
+http://dbpedia.org/resource/Burn_notice_(document) and http://dbpedia.org/resource/Persons_Unknown_(TV_series) and the value is : 1
+http://dbpedia.org/resource/Burn_notice_(document) and http://dbpedia.org/resource/Shrubland and the value is : 0
+http://dbpedia.org/resource/Burn_notice_(document) and http://dbpedia.org/resource/Judge_Advocate_General's_Corps and the value is : 0
+http://dbpedia.org/resource/Burn_notice_(document) and http://dbpedia.org/resource/NYPD_Blue and the value is : 0
+http://dbpedia.org/resource/Burn_notice_(document) and http://dbpedia.org/resource/Prison_Break and the value is : 0
+http://dbpedia.org/resource/Burn_notice_(document) and http://dbpedia.org/resource/Prime_Minister_of_India and the value is : 0
+http://dbpedia.org/resource/Burn_notice_(document) and http://dbpedia.org/resource/Dibakar_Banerjee and the value is : 0
+http://dbpedia.org/resource/Persons_Unknown_(TV_series) and http://dbpedia.org/resource/Shrubland and the value is : 0
+http://dbpedia.org/resource/Persons_Unknown_(TV_series) and http://dbpedia.org/resource/Judge_Advocate_General's_Corps and the value is : 0
+http://dbpedia.org/resource/Persons_Unknown_(TV_series) and http://dbpedia.org/resource/NYPD_Blue and the value is : 0
+http://dbpedia.org/resource/Persons_Unknown_(TV_series) and http://dbpedia.org/resource/Prison_Break and the value is : 0
+http://dbpedia.org/resource/Persons_Unknown_(TV_series) and http://dbpedia.org/resource/Prime_Minister_of_India and the value is : 0
+http://dbpedia.org/resource/Persons_Unknown_(TV_series) and http://dbpedia.org/resource/Dibakar_Banerjee and the value is : 0
+http://dbpedia.org/resource/Shrubland and http://dbpedia.org/resource/Judge_Advocate_General's_Corps and the value is : 0
+http://dbpedia.org/resource/Shrubland and http://dbpedia.org/resource/NYPD_Blue and the value is : 0
+http://dbpedia.org/resource/Shrubland and http://dbpedia.org/resource/Prison_Break and the value is : 0
+http://dbpedia.org/resource/Shrubland and http://dbpedia.org/resource/Prime_Minister_of_India and the value is : 0
+http://dbpedia.org/resource/Shrubland and http://dbpedia.org/resource/Dibakar_Banerjee and the value is : 0
+http://dbpedia.org/resource/Judge_Advocate_General's_Corps and http://dbpedia.org/resource/NYPD_Blue and the value is : 0
+http://dbpedia.org/resource/Judge_Advocate_General's_Corps and http://dbpedia.org/resource/Prison_Break and the value is : 0
+http://dbpedia.org/resource/Judge_Advocate_General's_Corps and http://dbpedia.org/resource/Prime_Minister_of_India and the value is : 0
+http://dbpedia.org/resource/Judge_Advocate_General's_Corps and http://dbpedia.org/resource/Dibakar_Banerjee and the value is : 0
+http://dbpedia.org/resource/NYPD_Blue and http://dbpedia.org/resource/Prison_Break and the value is : 0
+http://dbpedia.org/resource/NYPD_Blue and http://dbpedia.org/resource/Prime_Minister_of_India and the value is : 0
+http://dbpedia.org/resource/NYPD_Blue and http://dbpedia.org/resource/Dibakar_Banerjee and the value is : 0
+http://dbpedia.org/resource/Prison_Break and http://dbpedia.org/resource/Prime_Minister_of_India and the value is : 0
+http://dbpedia.org/resource/Prison_Break and http://dbpedia.org/resource/Dibakar_Banerjee and the value is : 0
+http://dbpedia.org/resource/Prime_Minister_of_India and http://dbpedia.org/resource/Dibakar_Banerjee and the value is : 0
+http://dbpedia.org/resource/True_Lies and http://dbpedia.org/resource/Stealing_Harvard and the value is : 0
+http://dbpedia.org/resource/True_Lies and http://dbpedia.org/resource/Kazaam and the value is : 0
+http://dbpedia.org/resource/True_Lies and http://dbpedia.org/resource/Poseidon and the value is : 0
+http://dbpedia.org/resource/Stealing_Harvard and http://dbpedia.org/resource/Kazaam and the value is : 0
+http://dbpedia.org/resource/Stealing_Harvard and http://dbpedia.org/resource/Poseidon and the value is : 0
+http://dbpedia.org/resource/Kazaam and http://dbpedia.org/resource/Poseidon and the value is : 0
+http://dbpedia.org/resource/Cameo_appearance and http://dbpedia.org/resource/Taxicab and the value is : 0
+http://dbpedia.org/resource/Cameo_appearance and http://dbpedia.org/resource/Madonna_(art) and the value is : 0
+http://dbpedia.org/resource/Taxicab and http://dbpedia.org/resource/Madonna_(art) and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Noor_Iranian_Film_Festival and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+marshall manesh born october 24 1956 is an american actor. he is best known for his roles as ranjit on the cbs sitcom how i met your mother and as dr. ravi kapoor on the abc sitcom dharma greg. manesh was born in tehran iran and moved to the united states in 1975. he attended the university of california los angeles where he earned a degree in theater. he began his acting career in the late 1980s appearing in television shows such as l.a. law cheers and seinfeld. he has also appeared in films such as the big lebowski and the wedding planner. manesh has been married to actress shohreh aghdashloo since 1992. they have two children. he currently resides in los angeles california. 
+
+Coref Resolved : 
+marshall manesh born october 24 1956 is an american actor. marshall manesh born october 24 1956 is best known for marshall manesh born october 24 1956 roles as ranjit on the cbs sitcom how i met your mother and as dr. ravi kapoor on the abc sitcom dharma greg. marshall manesh born october 24 1956 was born in tehran iran and moved to the united states in 1975. marshall manesh born october 24 1956 attended the university of california los angeles where marshall manesh born october 24 1956 earned a degree in theater. marshall manesh born october 24 1956 began marshall manesh born october 24 1956 acting career in the late 1980s appearing in television shows such as l.a. law cheers and seinfeld. marshall manesh born october 24 1956 has also appeared in films such as the big lebowski and the wedding planner. marshall manesh born october 24 1956 has been married to actress shohreh aghdashloo since 1992. they have two children. marshall manesh born october 24 1956 currently resides in los angeles california.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+marshall manesh born august 16 1950 in mashhad iran is an iranianamerican actor. manesh has appeared in recurring roles on the television shows will grace scrubs andy barker p.i. hot in cleveland boston legal and most notably how i met your mother where he plays the bangladeshi taxitown carlimo driver ranjit. he has also guest starred on many shows including burn notice persons unknown the xfiles scrubs er jag nypd blue and prison break as the indian prime minister nandu banerjee. manesh has acted in several movies including true lies his debut stealing harvard the big lebowski kazaam the poseidon adventure seeking a friend for the end of the world as sri sumbhajee one of the pirate lords and as hossein in the vampire western a girl walks home alone at night. he has also had a cameo appearance as the cab driver on madonnas 2005 video for hung up. he served as a judge at the 6th annual noor iranian film festival. 
+
+Coref Resolved : 
+marshall manesh born august 16 1950 in mashhad iran is an iranianamerican actor. manesh has appeared in recurring roles on the television shows will grace scrubs andy barker p.i. hot in cleveland boston legal and most notably how i met your mother where manesh plays the bangladeshi taxitown carlimo driver ranjit. manesh has also guest starred on many shows including burn notice persons unknown the xfiles scrubs er jag nypd blue and prison break as the indian prime minister nandu banerjee. manesh has acted in several movies including true lies manesh debut stealing harvard the big lebowski kazaam the poseidon adventure seeking a friend for the end of the world as sri sumbhajee one of the pirate lords and as hossein in the vampire western a girl walks home alone at night. manesh has also had a cameo appearance as the cab driver on madonnas 2005 video for hung up. manesh served as a judge at the 6th annual noor iranian film festival.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.09090909090909091 and for ground truth is : 0.03076923076923077
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate accurate 
+

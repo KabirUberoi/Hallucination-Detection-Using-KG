@@ -1,0 +1,101 @@
+#############SENTENCE_PAIRS############
+
+Sirið Stenberg and Faroese and the value is : -1
+Sirið Stenberg and Faroese and the value is : -1
+Sirið Stenberg and Týr and the value is : -1
+Sirið Stenberg and violin and the value is : -1
+Sirið Stenberg and Faroese and the value is : -1
+Sirið Stenberg and international artists and the value is : -1
+Sirið Stenberg and Tórshavn and the value is : -1
+Sirið Stenberg and Faroe Islands and the value is : -1
+Sirið Stenberg and violin and the value is : -1
+Sirið Stenberg and Faroese and the value is : -1
+Sirið Stenberg and National Youth Orchestra and the value is : -1
+Sirið Stenberg and Faroese and the value is : -1
+Sirið Stenberg and Týr and the value is : -1
+Sirið Stenberg and violin and the value is : -1
+Sirið Stenberg and integral and the value is : -1
+Sirið Stenberg and Faroese and the value is : -1
+Sirið Stenberg and Týr and the value is : -1
+Sirið Stenberg and violin and the value is : -1
+Sirið Stenberg and Faroe Islands and the value is : -1
+she and Faroese and the value is : -1
+she and Týr and the value is : -1
+she and violin and the value is : -1
+she and Faroese and the value is : -1
+she and international artists and the value is : -1
+
+#############GROUND_PAIRS############
+
+Sirið Stenberg and Vágur and the value is : 1
+Sirið Stenberg and Faroese and the value is : 0
+Sirið Stenberg and Faroese and the value is : 0
+Sirið Stenberg and Danish and the value is : 1
+Sirið Stenberg and Suðuroy and the value is : 1
+Sirið Stenberg and Faroese Parliament and the value is : 1
+Sirið Stenberg and Tórshavn and the value is : 0
+Sirið Stenberg and ferry and the value is : 0
+Sirið Stenberg and Suðuroy and the value is : 1
+Sirið Stenberg and Faroe Islands and the value is : 1
+Sirið Stenberg and Suðuroy and the value is : 1
+Sirið Stenberg and Jón Pauli Olsen and the value is : 1
+Sirið Stenberg and football and the value is : 0
+Sirið Stenberg and manager and the value is : 0
+Sirið Stenberg and Faroese and the value is : 0
+Sirið Stenberg and football and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Sirið Stenberg (born 28 April 1988) is a Faroese singer and songwriter.
+She is best known for her work with the Faroese band Týr, in which she is the lead vocalist and plays the violin.
+Stenberg has also released two solo albums, and has collaborated with various other Faroese and international artists.
+Stenberg was born in Tórshavn, the capital of the Faroe Islands.
+She began playing the violin at the age of five, and was a member of the Faroese National Youth Orchestra from the age of nine.
+She joined Týr in 2004, and has since become an integral part of the band's sound.
+Her powerful and emotive vocal style has been praised by critics, and she has been described as one of the most talented singers in the Faroe Islands.
+In addition to her work with Týr, Stenberg has released two solo albums, and has collaborated with various other Faroese and international artists.
+
+
+Coref Resolved: 
+
+0. Sirið Stenberg (born 28 April 1988) is a Faroese singer and songwriter.
+1. Sirið Stenberg is best known for Sirið Stenberg work with the Faroese band Týr, in which she is the lead vocalist and plays the violin .
+2. Sirið Stenberg has also released two solo albums, and has collaborated with various other Faroese and international artists.
+3. Sirið Stenberg was born in Tórshavn, the capital of the Faroe Islands .
+4. Sirið Stenberg began playing the violin at the age of five, and was a member of the Faroese National Youth Orchestra from the age of nine.
+5. Sirið Stenberg joined the Faroese band Týr, in which she is the lead vocalist and plays the violin in 2004, and has since become an integral part of the Faroese band Týr, in which she is the lead vocalist and plays the violin sound.
+6. Sirið Stenberg powerful and emotive vocal style has been praised by critics, and Sirið Stenberg has been described as one of the most talented singers in the Faroe Islands .
+7. In addition to Sirið Stenberg work with the Faroese band Týr, in which she is the lead vocalist and plays the violin , Sirið Stenberg has released two solo albums, and has collaborated with various other Faroese and international artists.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Sirið Stenberg (born 26 May 1968 in Vágur) is a Faroese politician.
+She finished her education as a nurse in 1994 and as a nurse in neonatalalogy in 1998 and as a nurse with special knowledge of children from 0-7 ("Heilsufrøðingur" in Faroese, "Sundhedsplejerske" in Danish, a health care visitor who attends to and gives advice to the mothers and their small children in their homes).
+Since 2001, she has worked in the children's health care in Suðuroy.
+She took leave from this employment shortly after assuming office as a member of the Faroese Parliament, which is located in Tórshavn, two hours away by ferry from Suðuroy.
+From 2006-08, she was headmaster of the Health School of the Faroe Islands, which is located in Suðuroy.
+She is married to Jón Pauli Olsen, who is football manager of the Faroese women's national football team and social and health assistant together, they have three children. 
+
+Coref Resolved: 
+
+0. Sirið Stenberg (born 26 May 1968 in Vágur) is a Faroese politician.
+1. Sirið Stenberg finished Sirið Stenberg education as a nurse in 1994 and as a nurse in neonatalalogy in 1998 and as a nurse with special knowledge of children from 0-7 ("Heilsufrøðingur" in Faroese, "Sundhedsplejerske" in Danish, a health care visitor who attends to and gives advice to the mothers and their small children in their homes the mothers and their small children in their homes ).
+2. Since 2001, Sirið Stenberg has this employment in the children's health care in Suðuroy .
+3. Sirið Stenberg took leave from this employment shortly after assuming office as a member of the Faroese Parliament, which is located in Tórshavn, two hours away by ferry from Suðuroy .
+4. From 2006-08, Sirið Stenberg was headmaster of the Health School of the Faroe Islands, which is located in Suðuroy .
+5. Sirið Stenberg is married to Jón Pauli Olsen, who is football manager of the Faroese women's national football team and social and health assistant together, they have three children.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 
+
+Value for ground truth is : 
+0.5 0.5 1.0 0.5 1.0 0.2 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

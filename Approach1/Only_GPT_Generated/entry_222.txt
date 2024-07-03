@@ -1,0 +1,45 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Hughes_(archbishop_of_New_York) and http://dbpedia.org/resource/Prelate and the value is : 1
+http://dbpedia.org/resource/John_Hughes_(archbishop_of_New_York) and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Prelate and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Ireland and http://dbpedia.org/resource/Farmer and the value is : 0
+http://dbpedia.org/resource/Saint_Patrick and http://dbpedia.org/resource/Maynooth and the value is : 1
+http://dbpedia.org/resource/Saint_Patrick and http://dbpedia.org/resource/Holy_orders and the value is : 0
+http://dbpedia.org/resource/Saint_Patrick and http://dbpedia.org/resource/Priesthood_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Maynooth and http://dbpedia.org/resource/Holy_orders and the value is : 1
+http://dbpedia.org/resource/Maynooth and http://dbpedia.org/resource/Priesthood_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Holy_orders and http://dbpedia.org/resource/Priesthood_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Curate and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/Curate and http://dbpedia.org/resource/Duchy_of_Lancaster and the value is : 0
+http://dbpedia.org/resource/Curate and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Duchy_of_Lancaster and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Duchy_of_Lancaster and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/St_John's_College,_Cambridge and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Fordham_University and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/St_John's_College,_Cambridge and http://dbpedia.org/resource/Fordham_University and the value is : 0
+http://dbpedia.org/resource/St_John's_College,_Cambridge and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Fordham_University and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/John_Hughes_(archbishop_of_New_York) and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/York and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john joseph hughes july 19 1797 january 3 1864 was an irishborn prelate of the roman catholic church in the united states. he served as the fourth archbishop of new york from 1842 until his death in 1864. he was created a cardinal in 1842. hughes was born in ireland the son of a farmer. he was educated at the royal college of st. patrick in maynooth and was ordained a priest in 1819. he emigrated to the united states in 1817 and served as a pastor in philadelphia and lancaster pennsylvania. in 1826 he was appointed the first president of st. johns college in fordham new york. he was consecrated bishop of new york in 1838 and was made archbishop of new york in 1842. as archbishop hughes was a strong advocate for the establishment of the catholic church in the united states. he was a vocal opponent of anticatholicism and was instrumental in the establishment of the first catholic schools and orphanages in new york 
+
+Coref Resolved : 
+john joseph hughes july 19 1797 january 3 1864 was an irishborn prelate of the roman catholic church in the united states. hughes served as the fourth archbishop of new york from 1842 until hughes death in 1864. hughes was created a cardinal in 1842 . hughes was born in ireland the son of a farmer. hughes was educated at the royal college of st. patrick in maynooth and was ordained a priest in 1819. hughes emigrated to the united statesin 1817 and served as a pastor in philadelphia and lancaster pennsylvania. in 1826 hughes was appointed the first president of st. johns college in fordham new york . hughes was consecrated bishop of new york in 1838 and was made archbishop of new york in 1842 . as archbishop hughes was a strong advocate for the establishment of the roman catholic church in the united statesin the united states. hughes was a vocal opponent of anticatholicism and was instrumental in the establishment of the first catholic schools and orphanages in new york 
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.14285714285714285
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate accurate 
+

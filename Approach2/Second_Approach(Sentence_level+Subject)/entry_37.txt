@@ -1,0 +1,86 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/India and http://dbpedia.org/resource/Hendrik_van_Rheede and the value is : 0
+http://dbpedia.org/resource/India and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 1
+http://dbpedia.org/resource/India and http://dbpedia.org/resource/Linnaean_taxonomy and the value is : 0
+http://dbpedia.org/resource/India and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/India and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 1
+http://dbpedia.org/resource/India and http://dbpedia.org/resource/English_language and the value is : 1
+http://dbpedia.org/resource/India and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/India and http://dbpedia.org/resource/Hortus_Malabaricus and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+K. S. Manilal (1925 2006) was an Indian botanist and plant taxonomist who specialized in the study of the flora of the Western Ghats.
+He was a professor at the University of Calicut and the founder of the Centre for Advanced Studies in Botany at the University.
+He was a Fellow of the Indian Academy of Sciences and the Indian National Science Academy.
+He was also a recipient of the Padma Shri, the fourth highest civilian award in India.
+Manilal was born in 1925 in the village of Kallar in Kerala.
+He obtained his B.Sc. degree from the University of Madras in 1945 and his M.Sc.
+degree from the University of Kerala in 1947.
+He then joined the University of Calicut as a lecturer in Botany in 1948.
+He was promoted to professor in 1962 and served as the Head of the Department of Botany from 1965 to 1975.
+He was also the founder of the Centre for Advanced Studies in Botany at the University.
+Manilal was a prolific researcher and published over 200 research papers in various journals.
+
+
+Coref Resolved: 
+
+K. S. Manilal (1925 2006) was an Indian botanist and plant taxonomist who specialized in the study of the flora of the Western Ghats.
+K. S. Manilal (1925 2006) was a professor at the University of Calicut and the founder of the Centre for Advanced Studies in Botany at the University of Calicut .
+K. S. Manilal (1925 2006) was a Fellow of the Indian Academy of Sciences and the Indian National Science Academy.
+K. S. Manilal (1925 2006) was also a recipient of the Padma Shri, the fourth highest civilian award in India.
+K. S. Manilal (1925 2006) was born in 1925 in the village of Kallar in Kerala.
+K. S. Manilal (1925 2006) obtained K. S. Manilal (1925 2006) B.Sc. degree from the University of Madras in 1945 and K. S. Manilal (1925 2006) M.Sc.
+degree from the University of Kerala in 1947.
+K. S. Manilal (1925 2006) then joined the University of Calicut as a lecturer in Botany in 1948.
+K. S. Manilal (1925 2006) was promoted to professor in 1962 and served as the Head of the Department of Botany from 1965 to 1975.
+K. S. Manilal (1925 2006) was also the founder of the Centre for Advanced Studies in Botany at the University of Calicut .
+K. S. Manilal (1925 2006) was a prolific researcher and published over 200 research papers in various journals.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Professor Kattungal Subramaniam Manilal (born 17 September 1938) is an Emeritus of the University of Calicut, a botany scholar and taxonomist, who devoted over 35 years of his life to research, translation, and annotation work of the Latin botanical treatise Hortus Malabaricus.
+This epic effort brought to light the main contents of the book, a wealth of botanical information on Malabar that had largely remained inaccessible to English-speaking scholars, because the entire text was in the Latin language.
+Despite the existence of Hendrik van Rheede's Hortus Malabaricus over the last three centuries, the correct taxonomic identity of many plants listed in Hortus Malabaricus, their medicinal properties, methods of use, etc., as described and codified by renowned traditional medical authorities of 17th century India remained inaccessible to English language-based scholars, until Manilal commenced publication of research papers and books on Hortus Malabaricus.
+Manilal's efforts ultimately resulted in an English edition of Hortus Malabaricus, for the first time, 325 years after its original publication from Amsterdam.
+The English edition contains a word-by-word translation of all the twelve volumes of the book, retaining the original style of language.
+Medicinal properties of plants are translated and interpreted, with commentaries on their Malayalam names given by van Rheede.
+In addition, the correct scientific identity of all plants, acceptable under ICBN, are set out along with their important synonyms and basionyms.
+Whilst the scope of Manilal's contributions to botany extend far beyond the research and publications around Hortus Malabaricus, his research work on Hortus Malabaricus alone are of botanical and socio-historic significance, and can be broadly classified under two heads botanical and medicinal aspects of Hortus Malabaricus and historical, political, social, and linguistic aspects of Hortus Malabaricus.
+Manilal has over 198 published research papers and 15 books to his credit as author and co-author.
+He and his associates have credits to discovering over 14 species of flowering plants, varieties, and combinations new to science.
+Manilal is the founder president of the Indian Association for Angiosperm Taxonomy (IAAT).
+ 
+
+Coref Resolved: 
+
+Professor Kattungal Subramaniam Manilal (born 17 September 1938) is an Emeritus of the University of Calicut, a botany scholar and taxonomist, who devoted over 35 years of Professor Kattungal Subramaniam Manilal life to research, translation, and annotation work of the Latin botanical treatise Hortus Malabaricus.
+research, translation, and annotation work of the Latin botanical treatise Hortus Malabaricusbrought to light the main contents of the Latin botanical treatise Hortus Malabaricus, a wealth of botanical information on Malabar that had largely remained inaccessible to English-speaking scholars, because the Latin botanical treatise Hortus Malabaricuswas in the Latin language.
+Despite the existence of Hendrik van Rheede's Hortus Malabaricus over the last three centuries, the correct taxonomic identity of many plants listed in the Latin botanical treatise Hortus Malabaricus, many plants listed in Hortus Malabaricusmedicinal properties, methods of use, etc., as described and codified by renowned traditional medical authorities of 17th century India remained inaccessible to English language-based scholars, until Professor Kattungal Subramaniam Manilal commenced publication of research papers and books on the Latin botanical treatise Hortus Malabaricus.
+Professor Kattungal Subramaniam Manilal efforts ultimately resulted in an English edition of the Latin botanical treatise Hortus Malabaricus, for the first time, 325 years after the Latin botanical treatise Hortus Malabaricusoriginal publication from Amsterdam.
+an English edition of Hortus Malabaricus, for the first time, 325 years after its original publication from Amsterdamcontains a word-by-word translation of all the twelve volumes of the Latin botanical treatise Hortus Malabaricus, retaining the original style of language.
+Medicinal properties of plants are translated and interpreted, with commentaries on plants Malayalam names given by Hendrik van Rheede's .
+In addition, the correct scientific identity of all plants, acceptable under ICBN, are set out along with all plantsimportant synonyms and basionyms.
+Whilst the scope of Professor Kattungal Subramaniam Manilal contributions to botany extend far beyond the research and publications around the Latin botanical treatise Hortus Malabaricus, Professor Kattungal Subramaniam Manilal research work on the Latin botanical treatise Hortus Malabaricusalone are of botanical and socio-historic significance, and can be broadly classified under two heads botanical and medicinal aspects of the Latin botanical treatise Hortus Malabaricusand historical, political, social, and linguistic aspects of the Latin botanical treatise Hortus Malabaricus.
+Professor Kattungal Subramaniam Manilal has over 198 published research papers and 15 books to Professor Kattungal Subramaniam Manilal credit as author and co-author.
+Professor Kattungal Subramaniam Manilal and Professor Kattungal Subramaniam Manilal associates have credits to discovering over 14 species of flowering plants, varieties, and combinations new to science.
+Professor Kattungal Subramaniam Manilal is the founder president of the Indian Association for Angiosperm Taxonomy (IAAT).
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+Value for ground truth is : 
+-1 0.5 -1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate accurate accurate 
+

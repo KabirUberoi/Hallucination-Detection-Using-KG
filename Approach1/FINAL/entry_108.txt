@@ -1,0 +1,182 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/British_Columbia and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/British_Columbia and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/2001_Alberta_general_election and http://dbpedia.org/resource/British_Columbia_Liberal_Party and the value is : 0
+http://dbpedia.org/resource/Agriculture and http://dbpedia.org/resource/Public_Safety_Canada and the value is : 0
+http://dbpedia.org/resource/Agriculture and http://dbpedia.org/resource/Solicitor_General_of_Canada and the value is : 0
+http://dbpedia.org/resource/Public_Safety_Canada and http://dbpedia.org/resource/Solicitor_General_of_Canada and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Legislative_assembly and the value is : 1
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Legislative_assembly and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Parliamentary_secretary and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Harmonized_sales_tax and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Small_business and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Economic_development and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Public_security and the value is : 1
+http://dbpedia.org/resource/Parliamentary_secretary and http://dbpedia.org/resource/Harmonized_sales_tax and the value is : 0
+http://dbpedia.org/resource/Parliamentary_secretary and http://dbpedia.org/resource/Small_business and the value is : 0
+http://dbpedia.org/resource/Parliamentary_secretary and http://dbpedia.org/resource/Economic_development and the value is : 0
+http://dbpedia.org/resource/Parliamentary_secretary and http://dbpedia.org/resource/Public_security and the value is : 0
+http://dbpedia.org/resource/Harmonized_sales_tax and http://dbpedia.org/resource/Small_business and the value is : 1
+http://dbpedia.org/resource/Harmonized_sales_tax and http://dbpedia.org/resource/Economic_development and the value is : 0
+http://dbpedia.org/resource/Harmonized_sales_tax and http://dbpedia.org/resource/Public_security and the value is : 0
+http://dbpedia.org/resource/Small_business and http://dbpedia.org/resource/Economic_development and the value is : 0
+http://dbpedia.org/resource/Small_business and http://dbpedia.org/resource/Public_security and the value is : 0
+http://dbpedia.org/resource/Economic_development and http://dbpedia.org/resource/Public_security and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Treasury_Board and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Treasury_Board and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Caucus and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Committee and the value is : 1
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Citizens'_assembly and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Electoral_reform and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Aboriginal_Australians and the value is : 0
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/Citizens'_assembly and the value is : 1
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/Electoral_reform and the value is : 0
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/Aboriginal_Australians and the value is : 1
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Citizens'_assembly and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Electoral_reform and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Aboriginal_Australians and the value is : 0
+http://dbpedia.org/resource/Citizens'_assembly and http://dbpedia.org/resource/Electoral_reform and the value is : 0
+http://dbpedia.org/resource/Citizens'_assembly and http://dbpedia.org/resource/Aboriginal_Australians and the value is : 0
+http://dbpedia.org/resource/Electoral_reform and http://dbpedia.org/resource/Aboriginal_Australians and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Caucus and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Economy and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Federal_government_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Crown_corporations_of_Canada and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Reform_Act_1832 and the value is : 1
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Business_ethics and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Parliamentary_procedure and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Private_bill and the value is : 0
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/Economy and the value is : 1
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/Federal_government_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/Crown_corporations_of_Canada and the value is : 0
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/Reform_Act_1832 and the value is : 0
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/Business_ethics and the value is : 0
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/Parliamentary_procedure and the value is : 0
+http://dbpedia.org/resource/Caucus and http://dbpedia.org/resource/Private_bill and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Economy and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Federal_government_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Crown_corporations_of_Canada and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Reform_Act_1832 and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Business_ethics and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Parliamentary_procedure and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Private_bill and the value is : 1
+http://dbpedia.org/resource/Economy and http://dbpedia.org/resource/Federal_government_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Economy and http://dbpedia.org/resource/Crown_corporations_of_Canada and the value is : 0
+http://dbpedia.org/resource/Economy and http://dbpedia.org/resource/Reform_Act_1832 and the value is : 0
+http://dbpedia.org/resource/Economy and http://dbpedia.org/resource/Business_ethics and the value is : 0
+http://dbpedia.org/resource/Economy and http://dbpedia.org/resource/Parliamentary_procedure and the value is : 0
+http://dbpedia.org/resource/Economy and http://dbpedia.org/resource/Private_bill and the value is : 0
+http://dbpedia.org/resource/Federal_government_of_the_United_States and http://dbpedia.org/resource/Crown_corporations_of_Canada and the value is : 0
+http://dbpedia.org/resource/Federal_government_of_the_United_States and http://dbpedia.org/resource/Reform_Act_1832 and the value is : 0
+http://dbpedia.org/resource/Federal_government_of_the_United_States and http://dbpedia.org/resource/Business_ethics and the value is : 0
+http://dbpedia.org/resource/Federal_government_of_the_United_States and http://dbpedia.org/resource/Parliamentary_procedure and the value is : 0
+http://dbpedia.org/resource/Federal_government_of_the_United_States and http://dbpedia.org/resource/Private_bill and the value is : 0
+http://dbpedia.org/resource/Crown_corporations_of_Canada and http://dbpedia.org/resource/Reform_Act_1832 and the value is : 0
+http://dbpedia.org/resource/Crown_corporations_of_Canada and http://dbpedia.org/resource/Business_ethics and the value is : 0
+http://dbpedia.org/resource/Crown_corporations_of_Canada and http://dbpedia.org/resource/Parliamentary_procedure and the value is : 0
+http://dbpedia.org/resource/Crown_corporations_of_Canada and http://dbpedia.org/resource/Private_bill and the value is : 0
+http://dbpedia.org/resource/Reform_Act_1832 and http://dbpedia.org/resource/Business_ethics and the value is : 0
+http://dbpedia.org/resource/Reform_Act_1832 and http://dbpedia.org/resource/Parliamentary_procedure and the value is : 0
+http://dbpedia.org/resource/Reform_Act_1832 and http://dbpedia.org/resource/Private_bill and the value is : 0
+http://dbpedia.org/resource/Business_ethics and http://dbpedia.org/resource/Parliamentary_procedure and the value is : 1
+http://dbpedia.org/resource/Business_ethics and http://dbpedia.org/resource/Private_bill and the value is : 0
+http://dbpedia.org/resource/Parliamentary_procedure and http://dbpedia.org/resource/Private_bill and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Chilliwack and the value is : 1
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/Chilliwack and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Chilliwack and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Dairy_farming and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Real_estate_broker and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Land_development and the value is : 0
+http://dbpedia.org/resource/Chilliwack and http://dbpedia.org/resource/Dairy_farming and the value is : 0
+http://dbpedia.org/resource/Chilliwack and http://dbpedia.org/resource/Real_estate_broker and the value is : 0
+http://dbpedia.org/resource/Chilliwack and http://dbpedia.org/resource/Land_development and the value is : 0
+http://dbpedia.org/resource/Dairy_farming and http://dbpedia.org/resource/Real_estate_broker and the value is : 0
+http://dbpedia.org/resource/Dairy_farming and http://dbpedia.org/resource/Land_development and the value is : 0
+http://dbpedia.org/resource/Real_estate_broker and http://dbpedia.org/resource/Land_development and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Figured_bass and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/2006_Canadian_federal_election and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/British_Columbia_Liberal_Party and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Figured_bass and http://dbpedia.org/resource/2006_Canadian_federal_election and the value is : 0
+http://dbpedia.org/resource/Figured_bass and http://dbpedia.org/resource/British_Columbia_Liberal_Party and the value is : 1
+http://dbpedia.org/resource/Figured_bass and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/2006_Canadian_federal_election and http://dbpedia.org/resource/British_Columbia_Liberal_Party and the value is : 0
+http://dbpedia.org/resource/2006_Canadian_federal_election and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/British_Columbia_Liberal_Party and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Figured_bass and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/2006_Canadian_federal_election and the value is : 0
+http://dbpedia.org/resource/Figured_bass and http://dbpedia.org/resource/2006_Canadian_federal_election and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Chilliwack and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/2009_British_Columbia_general_election and the value is : 0
+http://dbpedia.org/resource/Chilliwack and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/Chilliwack and http://dbpedia.org/resource/2009_British_Columbia_general_election and the value is : 0
+http://dbpedia.org/resource/Electoral_district and http://dbpedia.org/resource/2009_British_Columbia_general_election and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Solicitor_General_of_Canada and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Chilliwack and the value is : 0
+http://dbpedia.org/resource/Solicitor_General_of_Canada and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/Solicitor_General_of_Canada and http://dbpedia.org/resource/Chilliwack and the value is : 0
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/Chilliwack and the value is : 0
+http://dbpedia.org/resource/Special_prosecutor and http://dbpedia.org/resource/John_Les and the value is : 0
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/Special_prosecutor and the value is : 0
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/John_Les and the value is : 0
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/Zoning and the value is : 0
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/Administrative_division and the value is : 0
+http://dbpedia.org/resource/Special_prosecutor and http://dbpedia.org/resource/John_Les and the value is : 0
+http://dbpedia.org/resource/Special_prosecutor and http://dbpedia.org/resource/Zoning and the value is : 1
+http://dbpedia.org/resource/Special_prosecutor and http://dbpedia.org/resource/Administrative_division and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Zoning and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Administrative_division and the value is : 0
+http://dbpedia.org/resource/Zoning and http://dbpedia.org/resource/Administrative_division and the value is : 0
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 1
+http://dbpedia.org/resource/John_Les and http://dbpedia.org/resource/Chilliwack and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Chilliwack and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john les born october 28 1951 is a canadian politician who served as the member of the legislative assembly of british columbia for the riding of chilliwackhope from 2001 to 2013. he was first elected in the 2001 provincial election as a member of the british columbia liberal party. les served as minister of agriculture and lands from 2001 to 2005 and as minister of public safety and solicitor general from 2005 to 2009. he was also the minister responsible for housing from 2005 to 2009. in 2009 he was appointed minister of community sport and cultural development a position he held until his retirement from politics in 2013. 
+
+Coref Resolved : 
+john les born october 28 1951 is a canadian politician who served as the member of the legislative assembly of british columbia for the riding of chilliwackhope from 2001 to 2013. les was first elected in the 2001 provincial election as a member of the british columbia liberal party. les served as minister of agriculture and lands from 2001 to 2005 and as minister of public safety and solicitor general from 2005 to 2009. les was also the minister responsible for housing from 2005 to 2009. in 2009les was appointed minister of community sport and cultural development a position les held until les retirement from politics in 2013.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+john les born 1951 or 1952 is a canadian politician and former member of the legislative assembly mla for british columbia. he has served as parliamentary secretary for harmonized sales tax hst information minister of small business and economic development and minister of public safety and solicitorgeneral for the provincial government. les was a member of the treasury board and the priorities and planning committee. he has chaired the government caucus the legislative special committee on the citizens assembly on electoral reform and the select standing committee on aboriginal affairs. he was a member of the government caucus committee on economy and government operations the select standing committee on crown corporations and the select standing committee on parliamentary reform ethical conduct standing orders and private bills. les served as mayor of chilliwack from 1987 to 1999. before entering politics he was a partner in a chilliwack dairy a real estate agent and the owner of a land development company. he was elected in the 2001 b.c. election representing the british columbia liberal party in the chilliwacksumas riding. he won reelection in the 2005 b.c. election. he was reelected in the newly created chilliwack riding in the 2009 election. on march 28 2008 john les resigned from his position as solicitor general pending the outcome of an investigation over allegations of misconduct during his tenure as mayor of chilliwack. a special prosecutor was appointed to look into a land deal that he was alleged to have benefited from. in june 2010 the investigation was concluded with the special prosecutor stating that while les was given preferential treatment in the rezoning of one subdivision there was not enough evidence to suggest that he used his public office directly to advance his personal interest. on august 30 2012 les announced that he would not seek reelection as mla for chilliwack. 
+
+Coref Resolved : 
+john les born 1951 or 1952 is a canadian politician and former member of the legislative assembly mla for british columbia. john les born 1951 or 1952 has served as parliamentary secretary for harmonized sales tax hst information minister of small business and economic development and minister of public safety and solicitorgeneral for the provincial government. john les born 1951 or 1952 was a member of the treasury board and the priorities and planning committee. john les born 1951 or 1952 has chaired the government caucus the legislative special committee on the citizens assembly on electoral reform and the select standing committee on aboriginal affairs. john les born 1951 or 1952 was a member of the government caucus committee on economy and government operations the select standing committee on crown corporations and the select standing committee on parliamentary reform ethical conduct standing orders and private bills. john les born 1951 or 1952 served as mayor of chilliwack from 1987 to 1999. before entering politics john les born 1951 or 1952 was a partner in a chilliwack dairy a real estate agent and the owner of a land development company. john les born 1951 or 1952 was elected in the 2001 b.c. election representing the british columbia liberal party in the chilliwacksumas riding. john les born 1951 or 1952 won reelection in the 2005 b.c. election. john les born 1951 or 1952 was reelected in the newly created chilliwack riding in the 2009 election. on march 28 2008 john les born 1951 or 1952 resigned from john les born 1951 or 1952 position as solicitor general pending the outcome of an investigation over allegations of misconduct during john les born 1951 or 1952 tenure as mayor of chilliwack . a special prosecutor was appointed to look into a land deal that john les born 1951 or 1952 was alleged to have benefited from. in june 2010 an investigation over allegations of misconduct during his tenure as mayor of chilliwackwas concluded with a special prosecutor stating that while john les born 1951 or 1952 was given preferential treatment in the rezoning of one subdivision there was not enough evidence to suggest that john les born 1951 or 1952 used john les born 1951 or 1952 public office directly to advance john les born 1951 or 1952 personal interest. on august 30 2012 john les born 1951 or 1952 announced that john les born 1951 or 1952 would not seek reelection as mla for chilliwack .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21428571428571427 and for ground truth is : 0.12857142857142856
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

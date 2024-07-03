@@ -1,0 +1,31 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Colonial_Service and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Colonial_Service and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Barrister and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Trinity_College_Dublin and the value is : 0
+http://dbpedia.org/resource/Barrister and http://dbpedia.org/resource/Trinity_College_Dublin and the value is : 1
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Governor and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Gibraltar and the value is : 0
+http://dbpedia.org/resource/Governor and http://dbpedia.org/resource/Gibraltar and the value is : 1
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Baron and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/North_America and the value is : 0
+http://dbpedia.org/resource/Baron and http://dbpedia.org/resource/North_America and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Westminster_Abbey and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+matthew aylmer 1st baron aylmer 17081794 was an irish soldier and colonial administrator. he was born in dublin the son of a barrister and was educated at trinity college dublin. he joined the british army in 1727 and served in the war of the austrian succession and the seven years war. he was promoted to lieutenantgeneral in 1772 and was appointed governor of gibraltar in 1775. he was made a baron in 1782 and was appointed commanderinchief of the british forces in north america in 1783. he was recalled in 1790 and died in london in 1794. he was buried in westminster abbey. 
+
+Coref Resolved : 
+matthew aylmer 1st baron aylmer 17081794 was an irish soldier and colonial administrator. matthew aylmer 1st baron aylmer 17081794 was born in dublin the son of a barrister and was educated at trinity college dublin . matthew aylmer 1st baron aylmer 17081794 joined the british army in 1727 and served in the war of the austrian succession and the seven years war. matthew aylmer 1st baron aylmer 17081794 was promoted to lieutenantgeneral in 1772 and was appointed governor of gibraltar in 1775. matthew aylmer 1st baron aylmer 17081794 was made a baron in 1782 and was appointed commanderinchief of the british forces in north america in 1783. matthew aylmer 1st baron aylmer 17081794 was recalled in 1790 and died in london in 1794. matthew aylmer 1st baron aylmer 17081794 was buried in westminster abbey.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.14285714285714285
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

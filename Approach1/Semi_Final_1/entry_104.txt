@@ -1,0 +1,160 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Guitarist and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Session_musician and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Eric_Clapton and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/John_Mayer and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Rh_blood_group_system and the value is : 0
+http://dbpedia.org/resource/Eric_Clapton and http://dbpedia.org/resource/John_Mayer and the value is : 0
+http://dbpedia.org/resource/Eric_Clapton and http://dbpedia.org/resource/Rh_blood_group_system and the value is : 0
+http://dbpedia.org/resource/John_Mayer and http://dbpedia.org/resource/Rh_blood_group_system and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/John_Mayer_Trio and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Paul_McCartney and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Winery and the value is : 1
+http://dbpedia.org/resource/John_Mayer_Trio and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/John_Mayer_Trio and http://dbpedia.org/resource/Winery and the value is : 1
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Winery and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Bass_guitar and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Timbre and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Funk and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Timbre and the value is : 1
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Funk and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Timbre and http://dbpedia.org/resource/Funk and the value is : 1
+http://dbpedia.org/resource/Timbre and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Funk and http://dbpedia.org/resource/Music and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Pino_Palladino and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Pino_Palladino and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Blues_rock and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Rhythm_section and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Blues and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Neo_soul and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Funk and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Blues_rock and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Rhythm_section and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Blues and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Neo_soul and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Funk and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Blues_rock and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Rhythm_section and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Blues and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Neo_soul and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Funk and the value is : 0
+http://dbpedia.org/resource/Blues_rock and http://dbpedia.org/resource/Rhythm_section and the value is : 1
+http://dbpedia.org/resource/Blues_rock and http://dbpedia.org/resource/Blues and the value is : 1
+http://dbpedia.org/resource/Blues_rock and http://dbpedia.org/resource/Popular_music and the value is : 1
+http://dbpedia.org/resource/Blues_rock and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Blues_rock and http://dbpedia.org/resource/Neo_soul and the value is : 1
+http://dbpedia.org/resource/Blues_rock and http://dbpedia.org/resource/Funk and the value is : 0
+http://dbpedia.org/resource/Rhythm_section and http://dbpedia.org/resource/Blues and the value is : 1
+http://dbpedia.org/resource/Rhythm_section and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Rhythm_section and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Rhythm_section and http://dbpedia.org/resource/Neo_soul and the value is : 0
+http://dbpedia.org/resource/Rhythm_section and http://dbpedia.org/resource/Funk and the value is : 1
+http://dbpedia.org/resource/Blues and http://dbpedia.org/resource/Popular_music and the value is : 1
+http://dbpedia.org/resource/Blues and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Blues and http://dbpedia.org/resource/Neo_soul and the value is : 1
+http://dbpedia.org/resource/Blues and http://dbpedia.org/resource/Funk and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Neo_soul and the value is : 1
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Funk and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Neo_soul and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Funk and the value is : 0
+http://dbpedia.org/resource/Neo_soul and http://dbpedia.org/resource/Funk and the value is : 1
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Pino_Palladino and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/John_Mayer_Trio and the value is : 1
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Rh_blood_group_system and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Trumpet and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Roy_Hargrove and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/John_Mayer_Trio and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Rh_blood_group_system and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Trumpet and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Roy_Hargrove and the value is : 0
+http://dbpedia.org/resource/John_Mayer_Trio and http://dbpedia.org/resource/Rh_blood_group_system and the value is : 1
+http://dbpedia.org/resource/John_Mayer_Trio and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/John_Mayer_Trio and http://dbpedia.org/resource/Trumpet and the value is : 0
+http://dbpedia.org/resource/John_Mayer_Trio and http://dbpedia.org/resource/Roy_Hargrove and the value is : 0
+http://dbpedia.org/resource/Rh_blood_group_system and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Rh_blood_group_system and http://dbpedia.org/resource/Trumpet and the value is : 0
+http://dbpedia.org/resource/Rh_blood_group_system and http://dbpedia.org/resource/Roy_Hargrove and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Trumpet and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Roy_Hargrove and the value is : 0
+http://dbpedia.org/resource/Trumpet and http://dbpedia.org/resource/Roy_Hargrove and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Pino_Palladino and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Polyethylene_terephthalate and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/John_Entwistle and the value is : 1
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Polyethylene_terephthalate and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/John_Entwistle and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Polyethylene_terephthalate and http://dbpedia.org/resource/John_Entwistle and the value is : 0
+http://dbpedia.org/resource/Polyethylene_terephthalate and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/John_Entwistle and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Pino_Palladino and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Avant-garde and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Avant-garde and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Pino_Palladino and the value is : 1
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Pino_Palladino and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Music_Man_StingRay and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Fender_(vehicle) and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Accuracy_and_precision and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Jaguar and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Music_Man_StingRay and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Fender_(vehicle) and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Accuracy_and_precision and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Jaguar and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Music_Man_StingRay and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Fender_(vehicle) and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Accuracy_and_precision and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Jaguar and the value is : 0
+http://dbpedia.org/resource/Music_Man_StingRay and http://dbpedia.org/resource/Fender_(vehicle) and the value is : 0
+http://dbpedia.org/resource/Music_Man_StingRay and http://dbpedia.org/resource/Accuracy_and_precision and the value is : 0
+http://dbpedia.org/resource/Music_Man_StingRay and http://dbpedia.org/resource/Jaguar and the value is : 0
+http://dbpedia.org/resource/Fender_(vehicle) and http://dbpedia.org/resource/Accuracy_and_precision and the value is : 0
+http://dbpedia.org/resource/Fender_(vehicle) and http://dbpedia.org/resource/Jaguar and the value is : 0
+http://dbpedia.org/resource/Accuracy_and_precision and http://dbpedia.org/resource/Jaguar and the value is : 0
+http://dbpedia.org/resource/Henry_(unit) and http://dbpedia.org/resource/Pino_Palladino and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+pino palladino born 24 october 1957 is a welsh bass guitarist. he is a prolific session musician who has recorded and performed with many wellknown artists and groups since the mid1970s. he is best known for his longtime collaboration with the who and his work with dangelo eric clapton john mayer and the rh factor. he has also been a member of the john mayer trio paul rodgers band and the winery dogs. palladinos signature bass sound is characterized by a deep warm tone and a slap technique that is heavily influenced by funk music. he is widely regarded as one of the most influential bass players of the modern era. 
+
+Coref Resolved : 
+pino palladino born 24 october 1957 is a welsh bass guitarist. pino palladino born 24 october 1957 is a prolific session musician who has recorded and performed with many wellknown artists and groups since the mid1970s. pino palladino born 24 october 1957 is best known for pino palladino born 24 october 1957 longtime collaboration with the who and pino palladino born 24 october 1957 work with dangelo eric clapton john mayer and the rh factor. pino palladino born 24 october 1957 has also been a member of the john mayer trio paul rodgers band and the winery dogs. pino palladino born 24 october 1957 signature bass sound is characterized by a deep warm tone and a slap technique that is heavily influenced by funk music. pino palladino born 24 october 1957 is widely regarded as one of the most influential bass players of the modern era.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+giuseppe henry pino palladino born 17 october 1957 is a welsh bassist. he gained fame for playing primarily rock and roll blues rock and rhythm and blues music although he has been lauded for his ability to play most genres of popular music including jazz neo soul and funk. his career has spanned several ensembles including the john mayer trio and the rh factor which he formed with jazz trumpeter roy hargrove. he was also pete townshends and roger daltreys first choice to fill the position left by john entwistle as the bassist for the who. more recently he has recorded and toured with dangelo and the vanguard. he has played on a large number of recordings. he is known for playing a late 1970s fretless music man stingray bass guitar and later in his career fretted fender precision and jaguar basses. his playing has earned him custom instruments bearing his name. 
+
+Coref Resolved : 
+giuseppe henry pino palladino born 17 october 1957 is a welsh bassist. giuseppe henry pino palladino born 17 october 1957 gained fame for playing primarily rock and roll blues rock and rhythm and blues music although giuseppe henry pino palladino born 17 october 1957 has been lauded for giuseppe henry pino palladino born 17 october 1957 ability to play most genres of popular music including jazz neo soul and funk. giuseppe henry pino palladino born 17 october 1957 career has spanned several ensembles including the john mayer trio and the rh factor which giuseppe henry pino palladino born 17 october 1957 formed with jazz trumpeter roy hargrove. giuseppe henry pino palladino born 17 october 1957 was also pete townshends and roger daltreys first choice to fill the position left by john entwistle as the bassist for the who. more recently giuseppe henry pino palladino born 17 october 1957 has recorded and toured with dangelo and the vanguard. giuseppe henry pino palladino born 17 october 1957 has played on a large number of recordings. giuseppe henry pino palladino born 17 october 1957 is known for playing a late 1970s fretless music man stingray bass guitar and later in giuseppe henry pino palladino born 17 october 1957 career fretted fender precision and jaguar basses. giuseppe henry pino palladino born 17 october 1957 playing has earned giuseppe henry pino palladino born 17 october 1957 custom instruments bearing giuseppe henry pino palladino born 17 october 1957 name.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.4074074074074074 and for ground truth is : 0.2857142857142857
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate accurate accurate 
+

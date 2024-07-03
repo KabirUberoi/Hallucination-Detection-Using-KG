@@ -1,0 +1,23 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Louis_VII_of_France and http://dbpedia.org/resource/Adela_of_Champagne and the value is : 1
+http://dbpedia.org/resource/Louis_VII_of_France and http://dbpedia.org/resource/Champagne and the value is : 0
+http://dbpedia.org/resource/Adela_of_Champagne and http://dbpedia.org/resource/Champagne and the value is : 0
+http://dbpedia.org/resource/Piety and http://dbpedia.org/resource/Advowson and the value is : 0
+http://dbpedia.org/resource/Crown_lands_of_France and http://dbpedia.org/resource/House_of_Bourbon and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Denis_of_Portugal and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+philip of france 11161131 was king of france from 1180 to 1223. he was the son of louis vii and his third wife adèle of champagne. philip was known as the fair or the handsome due to his handsome features. he was also known for his piety and for his patronage of the arts. he was a strong and effective ruler who expanded the royal demesne and increased the influence of the french monarchy. he also strengthened the french economy by encouraging the development of towns and trade. he was a patron of the university of paris and founded the abbey of st. denis. he was also a great builder constructing many castles and churches throughout france. 
+
+Coref Resolved : 
+philip of france 11161131 was king of france from 1180 to 1223. philip of france 11161131 was the son of louis vii and louis vii third wife adèle of champagne. philip of france 11161131 was known as the fair or the handsome due to philip of france 11161131 handsome features. philip of france 11161131 was also known for philip of france 11161131 piety and for philip of france 11161131 patronage of the arts. philip of france 11161131 was a strong and effective ruler who expanded the royal demesne and increased the influence of the french monarchy. philip of france 11161131 also strengthened the french economy by encouraging the development of towns and trade. philip of france 11161131 was a patron of the university of paris and founded the abbey of st. denis. philip of france 11161131 was also a great builder constructing many castles and churches throughout france .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16666666666666666
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

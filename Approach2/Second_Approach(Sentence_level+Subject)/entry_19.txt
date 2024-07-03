@@ -1,0 +1,100 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/New_South_Wales and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Australia and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Australia and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/National_Art_School and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Electoral_district_of_Darlinghurst and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Archibald_Prize and the value is : 1
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Sir_John_Sulman_Prize and the value is : 1
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Doug_Moran and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Wynne_Prize and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Blake_Prize and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Brett_Whiteley_Travelling_Art_Scholarship and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Australia_Council_for_the_Arts and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Wales and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/City_status_in_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Albury and the value is : 1
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/City_of_Newcastle and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/New_South_Wales and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Judo and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/White_Bird,_Idaho and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Barrister and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Charles_Waterstreet and the value is : 1
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Archibald_Prize and the value is : 1
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Doug_Moran and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Sir_John_Sulman_Prize and the value is : 1
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Judo and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Robbery and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Alcoholism and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/7-Eleven and the value is : 1
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Electoral_district_of_Glebe and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Cessnock_Correctional_Centre and the value is : 1
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Parole and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Nigel Milsom (born 1979) is an Australian artist.
+He is known for his large-scale figurative paintings, which often depict people from his local area in Sydney's western suburbs.
+His works are held in the collections of the Art Gallery of New South Wales, the National Gallery of Australia, and the Museum of Contemporary Art Australia.
+Milsom was born in Sydney and studied at the National Art School in Darlinghurst.
+He has been the recipient of numerous awards, including the Archibald Prize in 2013, the Sulman Prize in 2014, and the Doug Moran National Portrait Prize in 2016.
+He has also been a finalist in the Wynne Prize, the Blake Prize, and the Brett Whiteley Travelling Art Scholarship.
+In 2017, he was awarded the Australia Council's Visual Arts Fellowship.
+
+
+Coref Resolved: 
+
+Nigel Milsom (born 1979) is an Australian artist.
+Nigel Milsom (born 1979) is known for Nigel Milsom (born 1979) large-scale figurative paintings, which often depict people from Nigel Milsom (born 1979) local area in Sydney's western suburbs.
+Nigel Milsom (born 1979) works are held in the collections of the Art Gallery of New South Wales, the National Gallery of Australia, and the Museum of Contemporary Art Australia.
+Nigel Milsom (born 1979) was born in Sydney's and studied at the National Art School in Darlinghurst.
+Nigel Milsom (born 1979) has been the recipient of numerous awards, including the Archibald Prize in 2013, the Sulman Prize in 2014, and the Doug Moran National Portrait Prize in 2016.
+Nigel Milsom (born 1979) has also been a finalist in the Wynne Prize, the Blake Prize, and the Brett Whiteley Travelling Art Scholarship.
+In 2017, Nigel Milsom (born 1979) was awarded the Australia Council's Visual Arts Fellowship.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Nigel Milsom is an Australian painter.
+He was born in 1975 in the southern New South Wales city of Albury.
+He completed a Bachelor's degree in Visual Arts at the University of Newcastle in 1998 and a Master's degree in Fine Arts at the College of Fine Arts of the University of New South Wales in 2002.
+His painting "Judo House Pt 6 (The White Bird)" - a portrait of barrister Charles Waterstreet - won the 2015 Archibald Prize.
+In 2014, Milsom won the Doug Moran National Portrait Prize for his painting "Uncle Paddy" and in 2012 he won the Sulman Prize for his painting "Judo House Pt 4 (Golden Mud)".
+Gallery owner and art dealer Kerry Crowley described Milsom's work as "influenced by the nineteenth-century Japanese master Hokusai, Edward Hopper, white-on-white abstractionist Robert Ryman, Gerhard Richter, and pop figurative painter Alex Katz.".
+In 2014, Milsom was convicted and sentenced to a maximum six-and-a-half years' imprisonment for the April 2012 armed robbery, while under the influence of drugs and alcohol, of a 7-Eleven in Glebe, an inner neighbourhood of Sydney.
+The sentence was reduced on appeal to two years and four months' imprisonment.
+Milsom was released from Cessnock Correctional Centre on parole in April 2015.
+ 
+
+Coref Resolved: 
+
+Nigel Milsom is an Australian painter.
+Nigel Milsom was born in 1975 in the southern New South Wales city of Albury.
+Nigel Milsom completed a Bachelor's degree in Visual Arts at the University of Newcastle in 1998 and a Master's degree in Fine Arts at the College of Fine Arts of the University of New South Wales in 2002.
+Nigel Milsom painting "Judo House Pt 6 (The White Bird)" - a portrait of barrister Charles Waterstreet - won the 2015 Archibald Prize.
+In 2014, Nigel Milsom won the Doug Moran National Portrait Prize for Nigel Milsom painting "Uncle Paddy" and in 2012 Nigel Milsom won the Sulman Prize for Nigel Milsom painting "Judo House Pt 4 (Golden Mud)".
+Gallery owner and art dealer Kerry Crowley described Nigel Milsom work as "influenced by the nineteenth-century Japanese master Hokusai, Edward Hopper, white-on-white abstractionist Robert Ryman, Gerhard Richter, and pop figurative painter Alex Katz.".
+In 2014, Nigel Milsom was convicted and The sentence to a maximum six-and-a-half years' imprisonment for the April 2012 armed robbery, while under the influence of drugs and alcohol, of a 7-Eleven in Glebe, an inner neighbourhood of Sydney.
+The sentence was reduced on appeal to two years and four months' imprisonment.
+Nigel Milsom was released from Cessnock Correctional Centre on parole in April 2015.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 0.0 0.0 0.0 0.6666666666666666 0.0 0.0 
+
+Value for ground truth is : 
+-1 0.3333333333333333 0.0 0.4 0.3333333333333333 -1 0.2 -1 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

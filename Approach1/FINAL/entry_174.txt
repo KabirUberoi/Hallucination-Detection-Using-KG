@@ -1,0 +1,128 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Legislative_assembly and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Legislative_assembly and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/British_Columbia and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/British_Columbia and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/British_Columbia_Liberal_Party and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Legislative_assembly and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/2001_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/2001_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/British_Columbia and http://dbpedia.org/resource/2001_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/2013_Nova_Scotia_general_election and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Mining and the value is : 1
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Deregulation and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Intergovernmentalism and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Global_warming and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Rural_development and the value is : 0
+http://dbpedia.org/resource/Mining and http://dbpedia.org/resource/Deregulation and the value is : 0
+http://dbpedia.org/resource/Mining and http://dbpedia.org/resource/Intergovernmentalism and the value is : 0
+http://dbpedia.org/resource/Mining and http://dbpedia.org/resource/Global_warming and the value is : 0
+http://dbpedia.org/resource/Mining and http://dbpedia.org/resource/Rural_development and the value is : 0
+http://dbpedia.org/resource/Deregulation and http://dbpedia.org/resource/Intergovernmentalism and the value is : 0
+http://dbpedia.org/resource/Deregulation and http://dbpedia.org/resource/Global_warming and the value is : 0
+http://dbpedia.org/resource/Deregulation and http://dbpedia.org/resource/Rural_development and the value is : 1
+http://dbpedia.org/resource/Intergovernmentalism and http://dbpedia.org/resource/Global_warming and the value is : 0
+http://dbpedia.org/resource/Intergovernmentalism and http://dbpedia.org/resource/Rural_development and the value is : 0
+http://dbpedia.org/resource/Global_warming and http://dbpedia.org/resource/Rural_development and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Tracy_Redies and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/2017_British_Columbia_general_election and the value is : 1
+http://dbpedia.org/resource/Tracy_Redies and http://dbpedia.org/resource/2017_British_Columbia_general_election and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/British_Columbia_Liberal_Party and the value is : 1
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/University_of_British_Columbia and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/British_Columbia_Liberal_Party and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/University_of_British_Columbia and the value is : 0
+http://dbpedia.org/resource/British_Columbia_Liberal_Party and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 1
+http://dbpedia.org/resource/British_Columbia_Liberal_Party and http://dbpedia.org/resource/University_of_British_Columbia and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and http://dbpedia.org/resource/University_of_British_Columbia and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Parliamentary_secretary and the value is : 0
+http://dbpedia.org/resource/Electoral_district and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Electoral_district and http://dbpedia.org/resource/Parliamentary_secretary and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Parliamentary_secretary and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Coal_mining and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Family and the value is : 1
+http://dbpedia.org/resource/Coal_mining and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Probation_officer and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/1946_Greek_legislative_election and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 1
+http://dbpedia.org/resource/Probation_officer and http://dbpedia.org/resource/1946_Greek_legislative_election and the value is : 0
+http://dbpedia.org/resource/Probation_officer and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 1
+http://dbpedia.org/resource/1946_Greek_legislative_election and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Sociology and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Psychology and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/University_of_British_Columbia and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Antioch_College and the value is : 0
+http://dbpedia.org/resource/Sociology and http://dbpedia.org/resource/Psychology and the value is : 0
+http://dbpedia.org/resource/Sociology and http://dbpedia.org/resource/University_of_British_Columbia and the value is : 0
+http://dbpedia.org/resource/Sociology and http://dbpedia.org/resource/Antioch_College and the value is : 0
+http://dbpedia.org/resource/Psychology and http://dbpedia.org/resource/University_of_British_Columbia and the value is : 0
+http://dbpedia.org/resource/Psychology and http://dbpedia.org/resource/Antioch_College and the value is : 0
+http://dbpedia.org/resource/University_of_British_Columbia and http://dbpedia.org/resource/Antioch_College and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/City_council and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/City_council and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/City_council and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Nonprofit_organization and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Peace_Arch and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Community_health_council and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Peace_Arch_Hospital and the value is : 0
+http://dbpedia.org/resource/Nonprofit_organization and http://dbpedia.org/resource/Peace_Arch and the value is : 0
+http://dbpedia.org/resource/Nonprofit_organization and http://dbpedia.org/resource/Community_health_council and the value is : 0
+http://dbpedia.org/resource/Nonprofit_organization and http://dbpedia.org/resource/Peace_Arch_Hospital and the value is : 0
+http://dbpedia.org/resource/Peace_Arch and http://dbpedia.org/resource/Community_health_council and the value is : 0
+http://dbpedia.org/resource/Peace_Arch and http://dbpedia.org/resource/Peace_Arch_Hospital and the value is : 0
+http://dbpedia.org/resource/Community_health_council and http://dbpedia.org/resource/Peace_Arch_Hospital and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Foster_care and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Physicians_in_Canada and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Long-term_care and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Peace_Arch_Hospital and the value is : 0
+http://dbpedia.org/resource/Physicians_in_Canada and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Physicians_in_Canada and http://dbpedia.org/resource/Long-term_care and the value is : 0
+http://dbpedia.org/resource/Physicians_in_Canada and http://dbpedia.org/resource/Peace_Arch_Hospital and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Long-term_care and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Peace_Arch_Hospital and the value is : 0
+http://dbpedia.org/resource/Long-term_care and http://dbpedia.org/resource/Peace_Arch_Hospital and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+gordon hogg born october 28 1951 is a canadian politician who served as the member of the legislative assembly of british columbia for surreywhite rock from 2001 to 2017. he was a member of the british columbia liberal party. hogg was first elected to the legislative assembly in the 2001 provincial election. he was reelected in the 2005 2009 and 2013 provincial elections. he served as minister of state for mining minister of state for actnow bc minister of state for deregulation minister of state for intergovernmental relations minister of state for climate action minister of state for seniors and minister of state for rural development. hogg announced his retirement from politics in april 2017. he was succeeded by tracy redies in the 2017 provincial election. 
+
+Coref Resolved : 
+gordon hogg born october 28 1951 is a canadian politician who served as the member of the legislative assembly of british columbia for surreywhite rock from 2001 to 2017. gordon hogg born october 28 1951 was a member of the british columbia liberal party. gordon hogg born october 28 1951 was first elected to the legislative assembly of british columbia in the 2001 provincial election. gordon hogg born october 28 1951 was reelected in the 2005 2009 and 2013 provincial elections. gordon hogg born october 28 1951 served as minister of state for mining minister of state for actnow bc minister of state for deregulation minister of state for intergovernmental relations minister of state for climate action minister of state for seniors and minister of state for rural development. gordon hogg born october 28 1951 announced gordon hogg born october 28 1951 retirement from politics in april 2017. gordon hogg born october 28 1951 was succeeded by tracy redies in the 2017 provincial election.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+gordon hogg born august 24 1946 is a canadian politician and bc liberal member of the legislative assembly in the province of british columbia canada. he has represented the riding of surreywhite rock since 1997 and currently serves as the parliamentary secretary for not for profitpublic partnerships. previously he has been minister of state for mining minister of state for actnowbc and minister of children and family development. hogg was a counsellor probation officer and regional director for corrections prior to his election to the legislative assembly. he received his bachelor of arts in sociology and psychology from the university of british columbia and his masters degree in psychology from antioch college. he served on white rock city council for 20 years 10 of which he was mayor. he has been a board member of more than 15 committees and nonprofit societies including the peace arch community health council and peace arch hospital. he has also been a foster parent and little league coach. hogg and his wife laverne live in white rock and have one son. his father al hogg was a prominent physician in white rock honored with the naming of a residential care facility at peace arch hospital. 
+
+Coref Resolved : 
+gordon hogg born august 24 1946 is a canadian politician and bc liberal member of the legislative assembly in the province of british columbia canada. gordon hogg born august 24 1946 has represented the riding of surreywhite rock since 1997 and currently serves as the parliamentary secretary for not for profitpublic partnerships. previously gordon hogg born august 24 1946 has been minister of state for mining minister of state for actnowbc and minister of children and family development. gordon hogg born august 24 1946 was a counsellor probation officer and regional director for corrections prior to gordon hogg born august 24 1946 election to the legislative assembly . gordon hogg born august 24 1946 received gordon hogg born august 24 1946 bachelor of arts in sociology and psychology from the university of british columbia and gordon hogg born august 24 1946 masters degree in psychology from antioch college. gordon hogg born august 24 1946 served on white rock city council for 20 years 10 of which gordon hogg born august 24 1946 was mayor. gordon hogg born august 24 1946 has been a board member of more than 15 committees and nonprofit societies including the peace arch community health council and peace arch hospital. gordon hogg born august 24 1946 has also been a foster parent and little league coach. gordon hogg born august 24 1946 and gordon hogg born august 24 1946 wife laverne live in white rock and have one son. gordon hogg born august 24 1946 father al hogg was a prominent physician in white rock honored with the naming of a residential care facility at peace arch hospital.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.13513513513513514 and for ground truth is : 0.12698412698412698
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate accurate accurate 
+

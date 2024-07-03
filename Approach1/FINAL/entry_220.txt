@@ -1,0 +1,129 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Songwriter and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Drummer and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Drummer and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Project_Rocket and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Racetraitor and the value is : 0
+http://dbpedia.org/resource/Project_Rocket and http://dbpedia.org/resource/Racetraitor and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Menomonee_Falls,_Wisconsin and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Wisconsin and the value is : 1
+http://dbpedia.org/resource/Menomonee_Falls,_Wisconsin and http://dbpedia.org/resource/Wisconsin and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Popular_music and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Menomonee_Falls,_Wisconsin and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Project_Rocket and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Hardcore_punk and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Racetraitor and the value is : 1
+http://dbpedia.org/resource/Hardcore_punk and http://dbpedia.org/resource/Racetraitor and the value is : 0
+http://dbpedia.org/resource/Hurley_(stick) and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Hurley_(stick) and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Music_recording_certification and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Tree and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Infinity and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Music_recording_certification and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Tree and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Infinity and the value is : 1
+http://dbpedia.org/resource/Music_recording_certification and http://dbpedia.org/resource/Bung and the value is : 1
+http://dbpedia.org/resource/Music_recording_certification and http://dbpedia.org/resource/Tree and the value is : 0
+http://dbpedia.org/resource/Music_recording_certification and http://dbpedia.org/resource/Infinity and the value is : 0
+http://dbpedia.org/resource/Bung and http://dbpedia.org/resource/Tree and the value is : 0
+http://dbpedia.org/resource/Bung and http://dbpedia.org/resource/Infinity and the value is : 0
+http://dbpedia.org/resource/Tree and http://dbpedia.org/resource/Infinity and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Andy_Hurley and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Andy_Hurley and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Drummer and the value is : 1
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Drummer and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Andy_Hurley and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Hardcore_punk and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Hardcore_punk and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Andy_Hurley and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Boyar_(caste) and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Boyar_(caste) and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Boyar_(caste) and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Boyar_(caste) and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Andy_Hurley and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Charity_supergroup and the value is : 1
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Joe_Trohman and the value is : 1
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Ironiclast and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Charity_supergroup and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Joe_Trohman and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Ironiclast and the value is : 0
+http://dbpedia.org/resource/Heavy_metal_music and http://dbpedia.org/resource/Charity_supergroup and the value is : 0
+http://dbpedia.org/resource/Heavy_metal_music and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Heavy_metal_music and http://dbpedia.org/resource/Joe_Trohman and the value is : 0
+http://dbpedia.org/resource/Heavy_metal_music and http://dbpedia.org/resource/Ironiclast and the value is : 1
+http://dbpedia.org/resource/Charity_supergroup and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Charity_supergroup and http://dbpedia.org/resource/Joe_Trohman and the value is : 0
+http://dbpedia.org/resource/Charity_supergroup and http://dbpedia.org/resource/Ironiclast and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Joe_Trohman and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Ironiclast and the value is : 1
+http://dbpedia.org/resource/Joe_Trohman and http://dbpedia.org/resource/Ironiclast and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Andy_Hurley and the value is : 1
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Hardcore_punk and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Hardcore_punk and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/February_4 and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Album and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Hardcore_punk and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Passenger and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Hardcore_punk and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Passenger and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Hardcore_punk and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Passenger and the value is : 1
+http://dbpedia.org/resource/Hardcore_punk and http://dbpedia.org/resource/Passenger and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Album and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/January_16 and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Billboard_200 and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/January_16 and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Billboard_200 and the value is : 0
+http://dbpedia.org/resource/January_16 and http://dbpedia.org/resource/Billboard_200 and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+andy hurley is an american musician and songwriter. he is best known as the drummer of the rock band fall out boy with whom he has recorded six studio albums. hurley also founded the heavy metal band the damned things. he was previously involved with several other bands including project rocket racetraitor and enabler. hurley was born in menomonee falls wisconsin. he began playing music with his first drum kit at the age of five. he attended menomonee falls high school and played in several local bands throughout his teenage years. in 2001 he joined the band project rocket which released two albums before splitting up in 2003. hurley then joined the hardcore punk band racetraitor with whom he recorded one album before the band split up in 2004. in 2004 hurley joined fall out boy as the bands drummer. he has since recorded six studio albums with the band including the multiplatinum selling albums from under the cork tree 2005 and infinity on high 2007. in 2010 hurley founded the heavy metal supergroup the damned 
+
+Coref Resolved : 
+andy hurley is an american musician and songwriter. andy hurley is best known as the drummer of the rock band fall out boy with whom andy hurley has recorded six studio albums. andy hurley also founded the heavy metal band the damned things. andy hurley was previously involved with several other bands including project rocket racetraitor and enabler. andy hurley was born in menomonee falls wisconsin. andy hurley began playing music with andy hurley first drum kit at the age of five. andy hurley attended menomonee falls wisconsinhigh school and played in several local bands throughout andy hurley teenage years. in 2001 andy hurley joined the band project rocket which released two albums before splitting up in 2003. andy hurley then joined the hardcore punk band racetraitor with whom andy hurley recorded one album before the hardcore punk band racetraitor with whom he recorded one album before the band split up in 2004split up in 2004. in 2004andy hurley joined the rock band fall out boy with whom he has recorded six studio albumsas the bands drummer. andy hurley has since recorded six studio albums with the rock band fall out boy with whom he has recorded six studio albumsincluding the multiplatinum selling albums from under the cork tree 2005 and infinity on high 2007. in 2010 andy hurley founded the heavy metal band the damned things
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+andrew john andy hurley born may 31 1980 is an american musician and drummer. he is best known as the drummer of the chicagobased rock band fall out boy. prior to fall out boy hurley played in several hardcore punk bands. he joined fall out boy as the fulltime drummer in 2003 and was in the bands lineup until its hiatus in 2009. following that he formed the heavy metal supergroup the damned things with fall out boy guitarist joe trohman the group went on hiatus after its debut album ironiclast 2010 due to band members focusing on their original bands new album cycles. hurley moved on to hardcore punk band enabler which released a debut album and toured in 2012. fall out boy regrouped and announced a new album and tour on february 4 2013. the bands fifth studio album save rock and roll was released april 16 2013 with the punk ep pax am days announced on september 30 and released on october 15 the same year. the bands sixth studio album american beautyamerican psycho was released on january 16 2015 and debuted at no. 1 on the us billboard 200. 
+
+Coref Resolved : 
+andrew john andy hurley born may 31 1980 is an american musician and drummer. andrew john andy hurley born may 31 1980 is best known as the drummer of the chicagobased rock band fall out boy. prior to the chicagobased rock band fall out boyandrew john andy hurley born may 31 1980 played in several hardcore punk bands. andrew john andy hurley born may 31 1980 joined the chicagobased rock band fall out boyas the fulltime drummer in 2003 and was in the chicagobased rock band fall out boylineup until the chicagobased rock band fall out boyhiatus in 2009. following that andrew john andy hurley born may 31 1980 formed the heavy metal supergroup the damned things with the chicagobased rock band fall out boyguitarist joe trohman the heavy metal supergroup the damned things went on hiatus after the heavy metal supergroup the damned things debut album ironiclast 2010 due to band members focusing on band members original bands new album cycles. andrew john andy hurley born may 31 1980 moved on to hardcore punk band enabler which released a debut album and toured in 2012. the chicagobased rock band fall out boyregrouped and announced a new album and tour on february 4 2013. the chicagobased rock band fall out boyfifth studio album save rock and roll was released april 16 the same yearwith the punk ep pax am days announced on september 30 and released on october 15 the same year. the chicagobased rock band fall out boysixth studio album american beautyamerican psycho was released on january 16 2015 and debuted at no. 1 on the us billboard 200.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3684210526315789 and for ground truth is : 0.25396825396825395
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate accurate accurate accurate major_inaccurate accurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

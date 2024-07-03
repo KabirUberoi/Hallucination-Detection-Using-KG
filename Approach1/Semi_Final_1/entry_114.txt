@@ -1,0 +1,143 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Timpani and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Pottery and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Drum and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Classical_music and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Pottery and the value is : 1
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Drum and the value is : 1
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Classical_music and the value is : 1
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Drum and the value is : 1
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Classical_music and the value is : 1
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Classical_music and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Classical_music and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Classical_music and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Timpani and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Pottery and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Drum and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Ceramic and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Terracotta and the value is : 1
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Pottery and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Drum and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Ceramic and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Terracotta and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Drum and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Ceramic and the value is : 1
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Terracotta and the value is : 1
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Ceramic and the value is : 1
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Terracotta and the value is : 0
+http://dbpedia.org/resource/Ceramic and http://dbpedia.org/resource/Terracotta and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Timpani and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Pottery and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Drum and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Skin and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Calfskin and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 1
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Pottery and the value is : 1
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Drum and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Skin and the value is : 1
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Calfskin and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Heavy_metal_music and the value is : 1
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Drum and the value is : 1
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Skin and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Calfskin and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Skin and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Calfskin and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 1
+http://dbpedia.org/resource/Skin and http://dbpedia.org/resource/Calfskin and the value is : 0
+http://dbpedia.org/resource/Skin and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+http://dbpedia.org/resource/Skin and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 1
+http://dbpedia.org/resource/Calfskin and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+http://dbpedia.org/resource/Calfskin and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 0
+http://dbpedia.org/resource/Heavy_metal_music and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Timpani and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Pottery and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Drum and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Pottery and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Drum and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Drum and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Timpani and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Timbre and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Timbre and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+http://dbpedia.org/resource/Timbre and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Clay_court and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Clay_court and http://dbpedia.org/resource/Outfielder and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Outfielder and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/LaBelle_High_School and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/University_of_Central_Florida and the value is : 0
+http://dbpedia.org/resource/LaBelle_High_School and http://dbpedia.org/resource/University_of_Central_Florida and the value is : 0
+http://dbpedia.org/resource/2011_Texas_Rangers_season and http://dbpedia.org/resource/Amateur_sports and the value is : 0
+http://dbpedia.org/resource/2011_Texas_Rangers_season and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/Amateur_sports and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/Atlantic_Sun_Conference and http://dbpedia.org/resource/Amateur_sports and the value is : 1
+http://dbpedia.org/resource/Atlantic_Sun_Conference and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/Amateur_sports and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/Volcano and http://dbpedia.org/resource/San_Jose_Giants and the value is : 1
+http://dbpedia.org/resource/Volcano and http://dbpedia.org/resource/Hits_allowed and the value is : 0
+http://dbpedia.org/resource/Volcano and http://dbpedia.org/resource/Batting_average and the value is : 1
+http://dbpedia.org/resource/San_Jose_Giants and http://dbpedia.org/resource/Hits_allowed and the value is : 0
+http://dbpedia.org/resource/San_Jose_Giants and http://dbpedia.org/resource/Batting_average and the value is : 0
+http://dbpedia.org/resource/Hits_allowed and http://dbpedia.org/resource/Batting_average and the value is : 0
+http://dbpedia.org/resource/Connecticut_Defenders and http://dbpedia.org/resource/Fresno_Grizzlies and the value is : 1
+http://dbpedia.org/resource/2010_Major_League_Baseball_season and http://dbpedia.org/resource/Fresno_Grizzlies and the value is : 0
+http://dbpedia.org/resource/2010_Major_League_Baseball_season and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/2010_Major_League_Baseball_season and http://dbpedia.org/resource/Dave_Roberts_(outfielder) and the value is : 0
+http://dbpedia.org/resource/2010_Major_League_Baseball_season and http://dbpedia.org/resource/Injured_list and the value is : 0
+http://dbpedia.org/resource/Fresno_Grizzlies and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Fresno_Grizzlies and http://dbpedia.org/resource/Dave_Roberts_(outfielder) and the value is : 0
+http://dbpedia.org/resource/Fresno_Grizzlies and http://dbpedia.org/resource/Injured_list and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Dave_Roberts_(outfielder) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Injured_list and the value is : 0
+http://dbpedia.org/resource/Dave_Roberts_(outfielder) and http://dbpedia.org/resource/Injured_list and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/San_Diego_Padres and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Pinch_hitter and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/San_Diego_Padres and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Pinch_hitter and the value is : 0
+http://dbpedia.org/resource/San_Diego_Padres and http://dbpedia.org/resource/Pinch_hitter and the value is : 0
+http://dbpedia.org/resource/Outfielder and http://dbpedia.org/resource/John_Bowker_(baseball) and the value is : 0
+http://dbpedia.org/resource/Home_run and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Home_run and http://dbpedia.org/resource/Run_batted_in and the value is : 1
+http://dbpedia.org/resource/TripleA and http://dbpedia.org/resource/Toledo_Mud_Hens and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+clay timpani also known as pot drums are a type of drum used in classical music jazz and other genres. they are made from a ceramic material usually terracotta and have a shallow bowllike shape. the head of the drum is made from a thin sheet of animal skin usually calfskin and is held in place by a metal hoop. the sound of the drum is produced by striking the head with a mallet. clay timpani are known for their warm mellow tone and are often used to provide a subtle background to a musical passage. 
+
+Coref Resolved : 
+clay timpani also known as pot drums are a type of drum used in classical music jazz and other genres. clay timpani also known as pot drums are made from a ceramic material usually terracotta and have a shallow bowllike shape. the head of clay timpani also known as pot drums is made from a thin sheet of animal skin usually calfskin and is held in place by a metal hoop. the sound of clay timpani also known as pot drums is produced by striking the head of the drum with a mallet. clay timpani are known for clay timpani warm mellow tone and are often used to provide a subtle background to a musical passage.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+clay w. timpner born may 13 1983 in lakeland florida is a former major league baseball outfielder. prior to playing professional baseball timpner attended labelle high school and the university of central florida. originally drafted by the texas rangers in the 41st round of the amateur draft timpner chose not to sign. after being an atlantic sun conference allstar timpner was drafted in the fourth round of the draft by the giants and this time he did sign. in high school he hit .448 with 75 stolen bases and also had a 2.39 era during his tenure there. he was a speedster in college stealing 43 bases in 65 games for central florida in 2004. he started his professional career off in 2004 where between time spent with the salemkeizer volcanoes and san jose giants he played in 74 games collecting 93 hits in 319 atbats for a .292 batting average. he stole 17 bases in 22 chances for a 77 success rate. in 2008 he split time between the connecticut defenders and fresno grizzlies. combined he hit only .253 in 128 games stealing a thencareer low 16 bases. he spent all of 2009 with the grizzlies. he hit a careerhigh .301 with a careerlow nine stolen bases. timpner began the 2010 season with the grizzlies but he soon received a call up on april 8 when dave roberts was placed on the disabled list. timpner made his major league debut on that same day against the san diego padres appearing in the game as a pinch hitter and striking out. he was later sent down for giants corner outfielder and first baseman john bowker. he hit .245.301.323 in the minors that year. in 2009 with fresno timpner hit .250.309.375 with seven home runs and 42 rbi. with the richmond flying squirrels in 2010 he hit .290.346.372 with four home runs and 51 rbi. he moved to the detroit tigers system for 2011 where he hit .111.226.111 in 27 atbats for the triplea toledo mud hens. overall he hit .273.323.367 in 812 minor league games. 
+
+Coref Resolved : 
+clay w. timpner born may 13 1983 in lakeland florida is a former major league baseball outfielder. prior to playing professional baseball timpner attended labelle high school and the university of central florida. originally drafted by the texas rangers in the 41st round of the amateur draft timpner chose not to sign. after being an atlantic sun conference allstar timpner was drafted in the fourth round of the amateur draft by the giants and this time timpner did sign. in high school timpner hit .448 with 75 stolen bases and also had a 2.39 era during timpner tenure there. timpner was a speedster in college stealing 43 bases in 65 games for the university of central floridain 2004. timpner started timpner professional career off in 2004where between time spent with the salemkeizer volcanoes and san jose giants timpner played in 74 games collecting 93 hits in 319 atbats for a .292 batting average. timpner stole 17 bases in 22 chances for a 77 success rate. in 2008 timpner split time between the connecticut defenders and fresno grizzlies. combined timpner hit only .253 in 128 games stealing a thencareer low 16 bases. timpner spent all of 2009 with fresno grizzlies. timpner hit a careerhigh .301 with a careerlow nine stolen bases. timpner began the 2010 season with fresno grizzliesbut timpner soon received a call up on april 8 when dave roberts was placed on the disabled list. timpner made timpner major league debut on april 8 against the san diego padres appearing in the game as a pinch hitter and striking out. timpner was later sent down for the giants corner outfielder and first baseman john bowker. timpner hit .245.301.323 in the minors that year. in 2009 with fresno grizzliestimpner hit .250.309.375 with seven home runs and 42 rbi. with the richmond flying squirrels in 2010 timpner hit .290.346.372 with four home runs and 51 rbi. timpner moved to the detroit tigers system for 2011 where timpner hit .111.226.111 in 27 atbats for the triplea toledo mud hens. overall timpner hit .273.323.367 in 812 minor league games.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2894736842105263 and for ground truth is : 0.1282051282051282
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

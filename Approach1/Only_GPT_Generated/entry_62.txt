@@ -1,0 +1,41 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Club_Valencia and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/France_national_football_team and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Club_Valencia and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/France_national_football_team and the value is : 0
+http://dbpedia.org/resource/Club_Valencia and http://dbpedia.org/resource/France_national_football_team and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/RC_Strasbourg_Alsace and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/FC_Lorient and the value is : 0
+http://dbpedia.org/resource/RC_Strasbourg_Alsace and http://dbpedia.org/resource/FC_Lorient and the value is : 0
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/Kevin_Gameiro and the value is : 0
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Paris and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Paris and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Ligue_1 and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Ligue_1 and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Seville and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/UEFA_Europa_League and the value is : 0
+http://dbpedia.org/resource/Seville and http://dbpedia.org/resource/UEFA_Europa_League and the value is : 0
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/BM_Neptuno and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/Club_Valencia and the value is : 1
+http://dbpedia.org/resource/BM_Neptuno and http://dbpedia.org/resource/Club_Valencia and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/France_national_under-20_football_team and the value is : 1
+http://dbpedia.org/resource/Kevin_Gameiro and http://dbpedia.org/resource/UEFA_Euro_2016 and the value is : 1
+http://dbpedia.org/resource/France_national_under-20_football_team and http://dbpedia.org/resource/UEFA_Euro_2016 and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+kévin gameiro born 9 may 1987 is a french professional footballer who plays as a striker for spanish club valencia cf and the france national team. he began his career at strasbourg before moving to lorient in 2008. after two successful seasons at lorient he joined paris saintgermain in 2011. he spent three seasons at the club winning the ligue 1 title in 2013. in 2014 he joined sevilla where he won the uefa europa league in 2015 and 2016. in 2017 he joined atlético madrid before moving to valencia in 2018. gameiro has represented france at various youth levels and made his senior international debut in 2010. he was part of the french squad that reached the final of uefa euro 2016. 
+
+Coref Resolved : 
+kévin gameiro born 9 may 1987 is a french professional footballer who plays as a striker for spanish club valencia cf and the france national team. kévin gameiro born 9 may 1987 began kévin gameiro born 9 may 1987 career at strasbourg before moving to lorient in 2008. after two successful seasons at lorient kévin gameiro born 9 may 1987 joined paris saintgermain in 2011. kévin gameiro born 9 may 1987 spent three seasons at paris saintgermain winning the ligue 1 title in 2013. in 2014 kévin gameiro born 9 may 1987 joined sevilla where kévin gameiro born 9 may 1987 won the uefa europa league in 2015 and 2016. in 2017 kévin gameiro born 9 may 1987 joined atlético madrid before moving to spanish club valencia cf in 2018. kévin gameiro born 9 may 1987 has represented france at various youth levels and made kévin gameiro born 9 may 1987 senior international debut in 2010. kévin gameiro born 9 may 1987 was part of the french squad that reached the final of uefa euro 2016.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.4166666666666667
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate 
+

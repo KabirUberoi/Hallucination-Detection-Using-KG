@@ -1,0 +1,142 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Science_fiction and the value is : 1
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Fantasy and the value is : 0
+http://dbpedia.org/resource/Science_fiction and http://dbpedia.org/resource/Fantasy and the value is : 1
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Otherwise_Award and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Nebula_Award and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Otherwise_Award and the value is : 1
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Nebula_Award and the value is : 1
+http://dbpedia.org/resource/Otherwise_Award and http://dbpedia.org/resource/Nebula_Award and the value is : 1
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Wrestling_ring and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Sword and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Metalsmith and the value is : 0
+http://dbpedia.org/resource/Wrestling_ring and http://dbpedia.org/resource/Sword and the value is : 1
+http://dbpedia.org/resource/Wrestling_ring and http://dbpedia.org/resource/Metalsmith and the value is : 0
+http://dbpedia.org/resource/Sword and http://dbpedia.org/resource/Metalsmith and the value is : 1
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Short_story and the value is : 1
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Nebula_Award and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and the value is : 0
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/Nebula_Award and the value is : 0
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and the value is : 1
+http://dbpedia.org/resource/Nebula_Award and http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and the value is : 1
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Gender and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Ecology and the value is : 1
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Native_Americans_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Gender and http://dbpedia.org/resource/Ecology and the value is : 0
+http://dbpedia.org/resource/Gender and http://dbpedia.org/resource/Native_Americans_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Ecology and http://dbpedia.org/resource/Native_Americans_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Science_fiction and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Fantasy and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Storytelling and the value is : 0
+http://dbpedia.org/resource/Science_fiction and http://dbpedia.org/resource/Fantasy and the value is : 0
+http://dbpedia.org/resource/Science_fiction and http://dbpedia.org/resource/Storytelling and the value is : 0
+http://dbpedia.org/resource/Fantasy and http://dbpedia.org/resource/Storytelling and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Margaret_Atwood and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/December_28 and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Science_fiction and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/December_28 and the value is : 1
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Science_fiction and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Science_fiction and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Science_fiction and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Science_fiction and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Margaret_Atwood and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Margaret_Atwood and the value is : 1
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Anthropology and http://dbpedia.org/resource/Eleanor_Roosevelt and the value is : 0
+http://dbpedia.org/resource/Anthropology and http://dbpedia.org/resource/Margaret_Atwood and the value is : 0
+http://dbpedia.org/resource/Anthropology and http://dbpedia.org/resource/Speculative_fiction and the value is : 0
+http://dbpedia.org/resource/Anthropology and http://dbpedia.org/resource/Ursula_K._Le_Guin and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Margaret_Atwood and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Speculative_fiction and the value is : 1
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Ursula_K._Le_Guin and the value is : 1
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Speculative_fiction and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Ursula_K._Le_Guin and the value is : 0
+http://dbpedia.org/resource/Speculative_fiction and http://dbpedia.org/resource/Ursula_K._Le_Guin and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Margaret_Atwood and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Otherwise_Award and the value is : 1
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Mythopoeic_Awards and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Gaylactic_Spectrum_Awards and the value is : 1
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Harvest and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Otherwise_Award and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Mythopoeic_Awards and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Gaylactic_Spectrum_Awards and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Harvest and the value is : 0
+http://dbpedia.org/resource/Otherwise_Award and http://dbpedia.org/resource/Mythopoeic_Awards and the value is : 1
+http://dbpedia.org/resource/Otherwise_Award and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Otherwise_Award and http://dbpedia.org/resource/Gaylactic_Spectrum_Awards and the value is : 0
+http://dbpedia.org/resource/Otherwise_Award and http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and the value is : 0
+http://dbpedia.org/resource/Otherwise_Award and http://dbpedia.org/resource/Harvest and the value is : 0
+http://dbpedia.org/resource/Mythopoeic_Awards and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Mythopoeic_Awards and http://dbpedia.org/resource/Gaylactic_Spectrum_Awards and the value is : 0
+http://dbpedia.org/resource/Mythopoeic_Awards and http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and the value is : 0
+http://dbpedia.org/resource/Mythopoeic_Awards and http://dbpedia.org/resource/Harvest and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Gaylactic_Spectrum_Awards and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Harvest and the value is : 0
+http://dbpedia.org/resource/Gaylactic_Spectrum_Awards and http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and the value is : 0
+http://dbpedia.org/resource/Gaylactic_Spectrum_Awards and http://dbpedia.org/resource/Harvest and the value is : 0
+http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and http://dbpedia.org/resource/Harvest and the value is : 1
+http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and http://dbpedia.org/resource/Hugo_Award and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Margaret_Atwood and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Nebula_Award and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Nebula_Award_for_Best_Novella and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Nebula_Award_for_Best_Short_Story and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Backpack and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Nebula_Award and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Nebula_Award_for_Best_Novella and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Nebula_Award_for_Best_Short_Story and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Backpack and the value is : 0
+http://dbpedia.org/resource/Nebula_Award and http://dbpedia.org/resource/Nebula_Award_for_Best_Novella and the value is : 1
+http://dbpedia.org/resource/Nebula_Award and http://dbpedia.org/resource/Nebula_Award_for_Best_Short_Story and the value is : 0
+http://dbpedia.org/resource/Nebula_Award and http://dbpedia.org/resource/Backpack and the value is : 1
+http://dbpedia.org/resource/Nebula_Award_for_Best_Novella and http://dbpedia.org/resource/Nebula_Award_for_Best_Short_Story and the value is : 1
+http://dbpedia.org/resource/Nebula_Award_for_Best_Novella and http://dbpedia.org/resource/Backpack and the value is : 0
+http://dbpedia.org/resource/Nebula_Award_for_Best_Short_Story and http://dbpedia.org/resource/Backpack and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Margaret_Atwood and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Wiscon and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Minnesota and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Wiscon and the value is : 0
+http://dbpedia.org/resource/Margaret_Atwood and http://dbpedia.org/resource/Minnesota and the value is : 0
+http://dbpedia.org/resource/Wiscon and http://dbpedia.org/resource/Minnesota and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+eleanor arnason born 1942 is an american science fiction and fantasy writer. she is best known for her novel a woman of the iron people 1991 which won the james tiptree jr. award and was a finalist for the nebula award for best novel. her other works include ring of swords 1993 the sword smith 1998 and the hound of merin 2002. she has also written several short stories including dapple 1991 which won the nebula award for best novelette. arnasons work often focuses on themes of gender ecology and native american culture. she has been praised for her ability to combine elements of science fiction and fantasy with traditional storytelling. 
+
+Coref Resolved : 
+eleanor arnason born 1942 is an american science fiction and fantasy writer. eleanor arnason born 1942 is best known for eleanor arnason born 1942 novel a woman of the iron people 1991 which won the james tiptree jr. award and was a finalist for the nebula award for best novel. eleanor arnason born 1942 other works include ring of swords 1993 the sword smith 1998 and the hound of merin 2002. eleanor arnason born 1942 has also written several short stories including dapple 1991 which won the nebula award for best novelette. eleanor arnason born 1942 work often focuses on themes of gender ecology and native american culture. eleanor arnason born 1942 has been praised for eleanor arnason born 1942 ability to combine elements of science fiction and fantasy with traditional storytelling.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+eleanor atwood arnason born december 28 1942 is an american author of science fiction novels and short stories. arnasons earliest published story a clear day in the motor city appeared in new worlds in 1973. her work often depicts cultural change and conflict usually from the viewpoint of characters who cannot or will not live by their own societies rules. this anthropological focus has led many to compare her fiction to that of ursula k. le guin. arnason won the first james tiptree jr. award the mythopoeic award for a woman of the iron people the spectrum award for dapple and the homer award for her novelette stellar harvest. stellar harvest was also nominated for a hugo award in 2000. in 2003 she was nominated for two nebula awards for her novella potter of bones and her short story knapsack poems. in 2004 she was guest of honor at wiscon. she lives in minnesota. 
+
+Coref Resolved : 
+eleanor atwood arnason born december 28 1942 is an american author of science fiction novels and short stories. eleanor atwood arnason earliest published story a clear day in the motor city appeared in new worlds in 1973. eleanor atwood arnason work often depicts cultural change and conflict usually from the viewpoint of characters who cannot or will not live by characters who cannot or will not live by their own societies rulesown societies rules. this anthropological focus has led many to compare eleanor atwood arnason fiction to that of ursula k. le guin. eleanor atwood arnason won the first james tiptree jr. award the mythopoeic award for a woman of the iron people the spectrum award for dapple and the homer award for eleanor atwood arnason novelette stellar harvest. her novelette stellar harvestwas also nominated for a hugo award in 2000. in 2003 eleanor atwood arnason was nominated for two nebula awards for eleanor atwood arnason novella potter of bones and eleanor atwood arnason short story knapsack poems. in 2004 eleanor atwood arnason was guest of honor at wiscon. eleanor atwood arnason lives in minnesota.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3333333333333333 and for ground truth is : 0.13580246913580246
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate accurate 
+

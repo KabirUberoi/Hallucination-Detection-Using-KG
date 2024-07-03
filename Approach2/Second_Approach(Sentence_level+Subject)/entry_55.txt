@@ -1,0 +1,132 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physicist and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Cleveland_State_University and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/American_Physical_Society and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Popular_science and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/The_Flying_Circus_(band) and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/The_Amateur_Scientist and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/The_Physics_Teacher and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/PBS and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Scientific_American_Frontiers and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Scientific_American and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physicist and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Cleveland_State_University and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Dave_Halliday and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Robert_Resnick and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/The_Tonight_Show_Starring_Johnny_Carson and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Free_All_Angels and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Liquid_nitrogen and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Scientific_American and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Cleveland_State_University and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/CBC_Radio and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Cleveland_State_University and the value is : 1
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Carswell_Air_Force_Base and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Maryland and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Jearl Walker (born July 25, 1945) is an American physicist and author.
+He is a professor emeritus of physics at Cleveland State University and a Fellow of the American Physical Society.
+He is best known for his popular science books on physics, including The Flying Circus of Physics, The Amateur Scientist, and The Physics Teacher.
+He has also written several textbooks on physics, including Fundamentals of Physics and The Physics of Everyday Phenomena.
+Walker has appeared on television and radio programs, including the PBS series Scientific American Frontiers and the BBC program Horizon.
+He has also written articles for Scientific American and other magazines.
+
+
+Coref Resolved: 
+
+Jearl Walker (born July 25, 1945) is an American physicist and author.
+Jearl Walker is a professor emeritus of physics at Cleveland State University and a Fellow of the American Physical Society.
+Jearl Walker is best known for Jearl Walker popular science books on physics, including The Flying Circus of Physics, The Amateur Scientist, and The Physics Teacher.
+Jearl Walker has also written several textbooks on physics, including Fundamentals of Physics and The Physics of Everyday Phenomena.
+Jearl Walker has appeared on television and radio programs, including the PBS series Scientific American Frontiers and the BBC program Horizon.
+Jearl Walker has also written articles for Scientific American and other magazines.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Jearl Walker (born 1945 in Pensacola, Florida) is a physicist noted for his book "Flying Circus of Physics", first published in 1975 the second edition was published in June 2006.
+He teaches physics at Cleveland State University.
+Walker has also revised and edited the textbook "Fundamentals of Physics" with David Halliday and Robert Resnick.
+Walker is a well-known popularizer of physics, and appeared several times on "The Tonight Show Starring Johnny Carson".
+Walker is known for his physics demonstrations, which have included sticking his hand in molten lead, walking barefoot over hot coals, lying on a bed of nails, and pouring freezing-cold liquid nitrogen in his mouth to demonstrate various principles of physics.
+Such demonstrations are included in his PBS series, "Kinetic Karnival", produced by WVIZ in Cleveland, Ohio.
+Walker authored the Amateur Scientist column in "Scientific American" magazine from 1978 to 1988.
+During the latter part of this period, he had been the chairman of the Physics Department at Cleveland State University.
+He appeared regularly around this time on the long-running CBC Radio science program "Quirks and Quarks".
+He is the first recipient of the Outstanding Teaching Award from Cleveland State's College of Science.
+The College's Faculty Affairs Committee selected Walker as the first honoree based on his contributions to science education over the last 30 years.
+In future years, the award will be named "The Jearl Walker Outstanding Teaching Award".
+The award was presented in a ceremony on April 29, 2005.
+Walker was born in Pensacola, Florida and grew up in Fort Worth, Texas.
+He graduated with a degree in physics from the Massachusetts Institute of Technology in 1967.
+He received his Ph.D. from the University of Maryland in 1973.
+ 
+
+Coref Resolved: 
+
+Jearl Walker (born 1945 in Pensacola, Florida) is a physicist noted for Jearl Walker (born 1945 in Pensacola, Florida) book "Flying Circus of Physics", first published in 1975 the second edition was published in June 2006.
+Jearl Walker (born 1945 in Pensacola, Florida) teaches physics at Cleveland State University.
+Jearl Walker (born 1945 in Pensacola, Florida) has also revised and edited the textbook "Fundamentals of Physics" with David Halliday and Robert Resnick.
+Jearl Walker (born 1945 in Pensacola, Florida) is a well-known popularizer of physics, and appeared several times on "The Tonight Show Starring Johnny Carson".
+Jearl Walker (born 1945 in Pensacola, Florida) is known for Jearl Walker (born 1945 in Pensacola, Florida) physics demonstrations, which have included sticking Jearl Walker (born 1945 in Pensacola, Florida) hand in molten lead, walking barefoot over hot coals, lying on a bed of nails, and pouring freezing-cold liquid nitrogen in Jearl Walker (born 1945 in Pensacola, Florida) mouth to demonstrate various principles of physics.
+Such demonstrations are included in Jearl Walker (born 1945 in Pensacola, Florida) PBS series, "Kinetic Karnival", produced by WVIZ in Cleveland, Ohio.
+Jearl Walker (born 1945 in Pensacola, Florida) authored the Amateur Scientist column in "Scientific American" magazine from 1978 to this period.
+During the latter part of this period, Jearl Walker (born 1945 in Pensacola, Florida) had been the chairman of the Physics Department at Cleveland State University.
+Jearl Walker (born 1945 in Pensacola, Florida) appeared regularly around this time on the long-running CBC Radio science program "Quirks and Quarks".
+Jearl Walker (born 1945 in Pensacola, Florida) is the first recipient of the Outstanding Teaching Award from Cleveland State UniversityCollege of Science.
+Cleveland State's College of ScienceFaculty Affairs Committee selected Jearl Walker (born 1945 in Pensacola, Florida) as the first honoree based on Jearl Walker (born 1945 in Pensacola, Florida) contributions to science education over the last 30 years.
+In future years, the Outstanding Teaching Award from Cleveland State's College of Sciencewill be named "The Jearl Walker Outstanding Teaching Award".
+the Outstanding Teaching Award from Cleveland State's College of Sciencewas presented in a ceremony on April 29, 2005.
+Jearl Walker (born 1945 in Pensacola, Florida) was born in Pensacola, Floridaand grew up in Fort Worth, Texas.
+Jearl Walker (born 1945 in Pensacola, Florida) graduated with a degree in physics from the Massachusetts Institute of Technology in 1967.
+Jearl Walker (born 1945 in Pensacola, Florida) received Jearl Walker (born 1945 in Pensacola, Florida) Ph.D. from the University of Maryland in 1973.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.25 0.2 0.0 0.25 1.0 
+
+Value for ground truth is : 
+0.3333333333333333 0.3333333333333333 0.3333333333333333 0.3333333333333333 0.125 -1 0.5 0.5 0.0 0.5 -1 -1 -1 0.0 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate minor_inaccurate accurate 
+

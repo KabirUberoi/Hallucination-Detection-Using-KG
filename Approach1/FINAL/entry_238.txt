@@ -1,0 +1,182 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Anglican_ministry and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 1
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Anglican_ministry and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Anglican_ministry and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Anglican_ministry and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 1
+http://dbpedia.org/resource/Anglican_ministry and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Anglican_ministry and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Catholic_Church and the value is : 1
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Anglican_ministry and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Anglican_ministry and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Anglican_ministry and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Catholic_Church and the value is : 1
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Trinity_College_Dublin and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Ordination and the value is : 0
+http://dbpedia.org/resource/Trinity_College_Dublin and http://dbpedia.org/resource/Ordination and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Benefice and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Bishop_of_Kilmore and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/County_Meath and the value is : 0
+http://dbpedia.org/resource/Benefice and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Benefice and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Benefice and http://dbpedia.org/resource/Bishop_of_Kilmore and the value is : 0
+http://dbpedia.org/resource/Benefice and http://dbpedia.org/resource/County_Meath and the value is : 0
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Bishop_of_Kilmore and the value is : 1
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/County_Meath and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Bishop_of_Kilmore and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/County_Meath and the value is : 0
+http://dbpedia.org/resource/Bishop_of_Kilmore and http://dbpedia.org/resource/County_Meath and the value is : 1
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Deanery and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Bishop_of_Clonfert_and_Kilmacduagh and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Deanery and http://dbpedia.org/resource/Bishop_of_Clonfert_and_Kilmacduagh and the value is : 0
+http://dbpedia.org/resource/Deanery and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Bishop_of_Clonfert_and_Kilmacduagh and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 1
+http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Philosopher and the value is : 1
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Edmund_Burke and the value is : 0
+http://dbpedia.org/resource/Philosopher and http://dbpedia.org/resource/Edmund_Burke and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Anglicanism and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Anglicanism and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Anglicanism and the value is : 1
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Library and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Trinity_College_Dublin and the value is : 0
+http://dbpedia.org/resource/Library and http://dbpedia.org/resource/Trinity_College_Dublin and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Anglicanism and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Priest and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Chancellor and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/SATB and the value is : 1
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Bishop_of_Raphoe and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Anglicanism and http://dbpedia.org/resource/Priest and the value is : 0
+http://dbpedia.org/resource/Anglicanism and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Anglicanism and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Anglicanism and http://dbpedia.org/resource/Chancellor and the value is : 0
+http://dbpedia.org/resource/Anglicanism and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Anglicanism and http://dbpedia.org/resource/Bishop_of_Raphoe and the value is : 0
+http://dbpedia.org/resource/Anglicanism and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Anglicanism and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 1
+http://dbpedia.org/resource/Priest and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Priest and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Priest and http://dbpedia.org/resource/Chancellor and the value is : 0
+http://dbpedia.org/resource/Priest and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Priest and http://dbpedia.org/resource/Bishop_of_Raphoe and the value is : 0
+http://dbpedia.org/resource/Priest and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Priest and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Chancellor and the value is : 1
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Bishop_of_Raphoe and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Chancellor and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Bishop_of_Raphoe and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Chancellor and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Chancellor and http://dbpedia.org/resource/Bishop_of_Raphoe and the value is : 0
+http://dbpedia.org/resource/Chancellor and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 1
+http://dbpedia.org/resource/Chancellor and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 1
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Bishop_of_Raphoe and the value is : 1
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 1
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Bishop_of_Raphoe and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 1
+http://dbpedia.org/resource/Bishop_of_Raphoe and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Innishannon and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/County_Cork and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Bishop_of_Cloyne and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Clan_Ross and the value is : 1
+http://dbpedia.org/resource/Innishannon and http://dbpedia.org/resource/County_Cork and the value is : 0
+http://dbpedia.org/resource/Innishannon and http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and the value is : 0
+http://dbpedia.org/resource/Innishannon and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Innishannon and http://dbpedia.org/resource/Bishop_of_Cloyne and the value is : 0
+http://dbpedia.org/resource/Innishannon and http://dbpedia.org/resource/Clan_Ross and the value is : 0
+http://dbpedia.org/resource/County_Cork and http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and the value is : 0
+http://dbpedia.org/resource/County_Cork and http://dbpedia.org/resource/Bung and the value is : 1
+http://dbpedia.org/resource/County_Cork and http://dbpedia.org/resource/Bishop_of_Cloyne and the value is : 0
+http://dbpedia.org/resource/County_Cork and http://dbpedia.org/resource/Clan_Ross and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Bishop_of_Cloyne and the value is : 1
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Clan_Ross and the value is : 0
+http://dbpedia.org/resource/Bung and http://dbpedia.org/resource/Bishop_of_Cloyne and the value is : 0
+http://dbpedia.org/resource/Bung and http://dbpedia.org/resource/Clan_Ross and the value is : 0
+http://dbpedia.org/resource/Bishop_of_Cloyne and http://dbpedia.org/resource/Clan_Ross and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Christ_Church,_Oxford and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Trinity_College_Dublin and the value is : 0
+http://dbpedia.org/resource/Christ_Church,_Oxford and http://dbpedia.org/resource/Trinity_College_Dublin and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Bishop_of_Raphoe and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Consecration and the value is : 1
+http://dbpedia.org/resource/Bishop_of_Raphoe and http://dbpedia.org/resource/Consecration and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Letters_patent and the value is : 0
+http://dbpedia.org/resource/Archbishop_of_Tuam and http://dbpedia.org/resource/Letters_patent and the value is : 1
+http://dbpedia.org/resource/Preacher and http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and the value is : 0
+http://dbpedia.org/resource/Preacher and http://dbpedia.org/resource/Frequent_Communion and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Frequent_Communion and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Protestantism and the value is : 1
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Landed_gentry and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Protestantism and http://dbpedia.org/resource/Landed_gentry and the value is : 0
+http://dbpedia.org/resource/Protestantism and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Landed_gentry and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Bishop_of_Elphin and the value is : 1
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Nicholas_Synge and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Bishop_of_Killaloe and the value is : 0
+http://dbpedia.org/resource/Bishop_of_Elphin and http://dbpedia.org/resource/Nicholas_Synge and the value is : 0
+http://dbpedia.org/resource/Bishop_of_Elphin and http://dbpedia.org/resource/Bishop_of_Killaloe and the value is : 0
+http://dbpedia.org/resource/Nicholas_Synge and http://dbpedia.org/resource/Bishop_of_Killaloe and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+edward synge 17141798 was an irish anglican prelate who served as the church of ireland archbishop of tuam from 1781 to 1798. synge was born in dublin in 1714 the son of the rev. edward synge rector of st. werburghs church dublin. he was educated at trinity college dublin and was ordained in 1737. he held livings at st. werburghs dublin and at kilmore county meath. he was appointed dean of clonfert in 1760 and dean of st. patricks cathedral dublin in 1763. in 1781 he was appointed archbishop of tuam a post he held until his death in 1798. synge was a noted scholar and a friend of the philosopher edmund burke. he was a strong supporter of the church of ireland and was an advocate of the union of the anglican and roman catholic churches. he was also a noted collector of books and manuscripts and his library was bequeathed to trinity college 
+
+Coref Resolved : 
+edward synge 17141798 was an irish anglican prelate who served as the church of ireland archbishop of tuam from 1781 to 1798. synge was born in dublin in 1714 the son of the rev. edward synge rector of st. werburghs church dublin . synge was educated at trinity college dublin and was ordained in 1737. synge held livings at st. werburghs church dublinand at kilmore county meath. synge was appointed dean of clonfert in 1760 and dean of st. patricks cathedral dublin in 1763. in 1781 synge was appointed archbishop of tuam a post synge held until synge death in 1798. synge was a noted scholar and a friend of the philosopher edmund burke. synge was a strong supporter of church of ireland and was an advocate of the union of the anglican and roman catholic churches. synge was also a noted collector of books and manuscripts and synge library was bequeathed to trinity college dublin 
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+edward synge 16591741 was an anglican clergyman who served in the church of ireland as chancellor of st patricks cathedral dublin 17051714 bishop of raphoe 17141716 and archbishop of tuam 17161741. born on 6 april 1659 at inishannon in county cork he was the second son of edward synge bishop of cork cloyne and ross. he was educated at christ church oxford and trinity college dublin. he was nominated the bishop of raphoe on 7 october and consecrated on 7 november 1714. he was translated to the archbishopric of tuam by letters patent on 8 june 1716. a renowned preacher his works were frequently published and included an exhortation to frequent communion translated into welsh. amongst other achievements he established a dynasty of prominent ecclesiastics and literary figures closely integrated into the protestant squirearchy in the west of ireland. he died in office on 23 july 1741 aged 82. his sons were edward synge bishop of elphin and nicholas synge bishop of killaloe. 
+
+Coref Resolved : 
+edward synge 16591741 was an anglican clergyman who served in the church of ireland as chancellor of st patricks cathedral dublin 17051714 bishop of raphoe 17141716 and archbishop of tuam 17161741. born on 6 april 1659 at inishannon in county cork edward synge 16591741 was the second son of edward synge bishop of cork cloyne and ross. edward synge 16591741 was educated at christ church oxford and trinity college dublin . edward synge 16591741 was nominated the bishop of raphoe on 7 october and consecrated on 7 november 1714. edward synge 16591741 was translated to the archbishopric of tuam by letters patent on 8 june 1716. a renowned preacher edward synge 16591741 works were frequently published and included an exhortation to frequent communion translated into welsh. amongst other achievements edward synge 16591741 established a dynasty of prominent ecclesiastics and literary figures closely integrated into the protestant squirearchy in the west of ireland . edward synge 16591741 died in office on 23 july 1741 aged 82. edward synge 16591741 sons were edward synge bishop of elphin and nicholas synge bishop of killaloe.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.15625 and for ground truth is : 0.2111111111111111
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

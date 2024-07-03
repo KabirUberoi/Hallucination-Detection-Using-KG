@@ -1,0 +1,53 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/American_Farmer and the value is : 1
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Soldier and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/American_Farmer and http://dbpedia.org/resource/Soldier and the value is : 0
+http://dbpedia.org/resource/American_Farmer and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/American_Farmer and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/American_Revolutionary_War and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Cincinnati and the value is : 1
+http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and http://dbpedia.org/resource/Cincinnati and the value is : 1
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Serbian_language and the value is : 1
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Farmer and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Soldier and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/American_Revolutionary_War and the value is : 0
+http://dbpedia.org/resource/Farmer and http://dbpedia.org/resource/Soldier and the value is : 1
+http://dbpedia.org/resource/Farmer and http://dbpedia.org/resource/American_Revolutionary_War and the value is : 1
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/American_Revolutionary_War and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Cincinnati and the value is : 0
+http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and http://dbpedia.org/resource/Cincinnati and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 1
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Family and the value is : 1
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+elisha brown jr. 17761852 was an american farmer soldier and politician from rhode island. he was a veteran of the american revolutionary war and served in the rhode island general assembly. he was a member of the rhode island society of the cincinnati. brown was born in 1776 in south kingstown rhode island. he was the son of elisha brown sr. and mary tillinghast brown. he was a farmer and a soldier in the american revolutionary war. he served in the rhode island general assembly from 1809 to 1810. he was a member of the rhode island society of the cincinnati. brown died in 1852 in south kingstown rhode island. he is buried in the brown family cemetery in south kingstown. 
+
+Coref Resolved : 
+elisha brown jr. 17761852 was an american farmer soldier and politician from rhode island. elisha brown jr. 17761852 was a veteran of the american revolutionary war and served in the rhode islandgeneral assembly. elisha brown jr. 17761852 was a member of the rhode island society of the cincinnati. elisha brown jr. 17761852 was born in 1776 in south kingstown rhode island. elisha brown jr. 17761852 was the son of elisha brown sr. and mary tillinghast brown. elisha brown jr. 17761852 was a farmer and a soldier in the american revolutionary war . elisha brown jr. 17761852 served in the rhode islandgeneral assembly from 1809 to 1810. elisha brown jr. 17761852 was a member of the rhode island society of the cincinnati. elisha brown jr. 17761852 died in 1852 in south kingstown rhode island. elisha brown jr. 17761852 is buried in the brown family cemetery in south kingstown rhode island.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.25
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

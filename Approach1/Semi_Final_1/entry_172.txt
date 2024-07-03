@@ -1,0 +1,101 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Panzer_IV and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Smallville and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Supernatural and the value is : 0
+http://dbpedia.org/resource/Panzer_IV and http://dbpedia.org/resource/Television_show and the value is : 1
+http://dbpedia.org/resource/Panzer_IV and http://dbpedia.org/resource/Smallville and the value is : 0
+http://dbpedia.org/resource/Panzer_IV and http://dbpedia.org/resource/Supernatural and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Smallville and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Supernatural and the value is : 1
+http://dbpedia.org/resource/Smallville and http://dbpedia.org/resource/Supernatural and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Butterfly and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Fog and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Exorcism and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Anneliese_Michel and the value is : 0
+http://dbpedia.org/resource/Butterfly and http://dbpedia.org/resource/Fog and the value is : 0
+http://dbpedia.org/resource/Butterfly and http://dbpedia.org/resource/Exorcism and the value is : 0
+http://dbpedia.org/resource/Butterfly and http://dbpedia.org/resource/Anneliese_Michel and the value is : 0
+http://dbpedia.org/resource/Fog and http://dbpedia.org/resource/Exorcism and the value is : 0
+http://dbpedia.org/resource/Fog and http://dbpedia.org/resource/Anneliese_Michel and the value is : 0
+http://dbpedia.org/resource/Exorcism and http://dbpedia.org/resource/Anneliese_Michel and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Stargate_SG-1 and the value is : 1
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Stargate_Atlantis and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Stargate_SG-1 and the value is : 1
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Stargate_Atlantis and the value is : 0
+http://dbpedia.org/resource/Stargate_SG-1 and http://dbpedia.org/resource/Stargate_Atlantis and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Television_film and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Television_show and the value is : 1
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Science_fiction_on_television and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Michael_Mallory and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Television_pilot and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Science_fiction_on_television and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Michael_Mallory and the value is : 1
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Television_pilot and the value is : 0
+http://dbpedia.org/resource/Science_fiction_on_television and http://dbpedia.org/resource/Michael_Mallory and the value is : 0
+http://dbpedia.org/resource/Science_fiction_on_television and http://dbpedia.org/resource/Television_pilot and the value is : 0
+http://dbpedia.org/resource/Michael_Mallory and http://dbpedia.org/resource/Television_pilot and the value is : 1
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Michael_Mallory and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Just_William_(1994_TV_series) and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Hostage_Rescue_Team and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Special_agent and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Nelson_Muntz and the value is : 0
+http://dbpedia.org/resource/Just_William_(1994_TV_series) and http://dbpedia.org/resource/Hostage_Rescue_Team and the value is : 0
+http://dbpedia.org/resource/Just_William_(1994_TV_series) and http://dbpedia.org/resource/Special_agent and the value is : 0
+http://dbpedia.org/resource/Just_William_(1994_TV_series) and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Just_William_(1994_TV_series) and http://dbpedia.org/resource/Nelson_Muntz and the value is : 1
+http://dbpedia.org/resource/Hostage_Rescue_Team and http://dbpedia.org/resource/Special_agent and the value is : 0
+http://dbpedia.org/resource/Hostage_Rescue_Team and http://dbpedia.org/resource/David_Beckham and the value is : 1
+http://dbpedia.org/resource/Hostage_Rescue_Team and http://dbpedia.org/resource/Nelson_Muntz and the value is : 0
+http://dbpedia.org/resource/Special_agent and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Special_agent and http://dbpedia.org/resource/Nelson_Muntz and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Nelson_Muntz and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Jason_Voorhees and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Science_fiction_on_television and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Stargate_SG-1 and the value is : 1
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Smallville and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Circle and the value is : 1
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Gracepoint and the value is : 0
+http://dbpedia.org/resource/Science_fiction_on_television and http://dbpedia.org/resource/Stargate_SG-1 and the value is : 0
+http://dbpedia.org/resource/Science_fiction_on_television and http://dbpedia.org/resource/Smallville and the value is : 0
+http://dbpedia.org/resource/Science_fiction_on_television and http://dbpedia.org/resource/Circle and the value is : 0
+http://dbpedia.org/resource/Science_fiction_on_television and http://dbpedia.org/resource/Gracepoint and the value is : 0
+http://dbpedia.org/resource/Stargate_SG-1 and http://dbpedia.org/resource/Smallville and the value is : 0
+http://dbpedia.org/resource/Stargate_SG-1 and http://dbpedia.org/resource/Circle and the value is : 0
+http://dbpedia.org/resource/Stargate_SG-1 and http://dbpedia.org/resource/Gracepoint and the value is : 0
+http://dbpedia.org/resource/Smallville and http://dbpedia.org/resource/Circle and the value is : 1
+http://dbpedia.org/resource/Smallville and http://dbpedia.org/resource/Gracepoint and the value is : 0
+http://dbpedia.org/resource/Circle and http://dbpedia.org/resource/Gracepoint and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tom butler is a canadian actor. he is best known for his roles in the films saw iii saw iv and saw v as well as the television series smallville supernatural and the 4400. he has also appeared in the films the butterfly effect the fog and the exorcism of emily rose. he has also had guest roles on the television series stargate sg1 stargate atlantis and the dead zone. he has also appeared in the television movie the day the earth stopped. 
+
+Coref Resolved : 
+tom butler is a canadian actor. tom butler is best known for tom butler roles in the films saw iii saw iv and saw v as well as the television series smallville supernatural and the 4400. tom butler has also appeared in the films the butterfly effect the fog and the exorcism of emily rose. tom butler has also had guest roles on the television series stargate sg1 stargate atlantis and the dead zone. tom butler has also appeared in the television movie the day the earth stopped.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+tom butler born 1951 is a canadian actor who has starred in movies television series and many television films. he is best known for his television role on the science fiction series sliders as michael mallory the father of quinn mallory in the pilot episode. tom reprised his role as michael mallory in the season 2 episode gillian of the spirits. butler starred in the 1990s tv series hrt as special agent david nelson. he has starred in many movies butler has starred in such films as renegades 1989 ernest rides again 1993 freddy vs. jason 2003 and his most recent film everything gone green 2006. butler has appeared on such shows as sliders the commish the outer limits stargate sg1 smallville check it out the secret circle the killing and is currently a guest star on gracepoint. 
+
+Coref Resolved : 
+tom butler born 1951 is a canadian actor who has starred in movies television series and many television films. tom butler born 1951 is best known for tom butler born 1951 television role on the science fiction series sliders as michael mallory the father of quinn mallory in the pilot episode. tom butler born 1951 reprised tom butler born 1951 role as michael mallory the father of quinn mallory in the season 2 episode gillian of the spirits. tom butler born 1951 starred in the 1990s tv series hrt as special agent david nelson. tom butler born 1951 has starred in many movies tom butler born 1951 has starred in such films as renegades 1989 ernest rides again 1993 freddy vs. jason 2003 and tom butler born 1951 most recent film everything gone green 2006. tom butler born 1951 has appeared on such shows as the science fiction series sliders the commish the outer limits stargate sg1 smallville check it out the secret circle the killing and is currently a guest star on gracepoint.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.14285714285714285 and for ground truth is : 0.2
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate 
+

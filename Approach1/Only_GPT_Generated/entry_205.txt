@@ -1,0 +1,45 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Quakers and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Quakers and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Quakers and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Merchant and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Tottenham and the value is : 0
+http://dbpedia.org/resource/Quakers and http://dbpedia.org/resource/Merchant and the value is : 0
+http://dbpedia.org/resource/Quakers and http://dbpedia.org/resource/Tottenham and the value is : 0
+http://dbpedia.org/resource/Merchant and http://dbpedia.org/resource/Tottenham and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Quakers and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/History_of_slavery and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Humanitarian_aid and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Musical_instrument and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Dispensary and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Charitable_organization and the value is : 0
+http://dbpedia.org/resource/Humanitarian_aid and http://dbpedia.org/resource/Musical_instrument and the value is : 0
+http://dbpedia.org/resource/Humanitarian_aid and http://dbpedia.org/resource/Dispensary and the value is : 0
+http://dbpedia.org/resource/Humanitarian_aid and http://dbpedia.org/resource/Charitable_organization and the value is : 0
+http://dbpedia.org/resource/Musical_instrument and http://dbpedia.org/resource/Dispensary and the value is : 0
+http://dbpedia.org/resource/Musical_instrument and http://dbpedia.org/resource/Charitable_organization and the value is : 0
+http://dbpedia.org/resource/Dispensary and http://dbpedia.org/resource/Charitable_organization and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Quakers and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Cemetery and the value is : 0
+http://dbpedia.org/resource/Mayhew_Foster and http://dbpedia.org/resource/Tottenham and the value is : 0
+http://dbpedia.org/resource/Quakers and http://dbpedia.org/resource/Cemetery and the value is : 0
+http://dbpedia.org/resource/Quakers and http://dbpedia.org/resource/Tottenham and the value is : 0
+http://dbpedia.org/resource/Cemetery and http://dbpedia.org/resource/Tottenham and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+mayhew foster 17451823 was an english quaker minister and philanthropist. he was born in london the son of a quaker merchant and was educated at the quaker school in tottenham. he became a minister in 1768 and was a prominent figure in the quaker movement in england. he was a strong advocate of the abolition of slavery and was a leader in the campaign to abolish the slave trade. he was also a leader in the campaign for the relief of the poor and was instrumental in the founding of the london dispensary a charitable organization that provided medical care to the poor. he was also a strong advocate of education and was involved in the founding of several schools. he was a prolific writer and published several books on religious and social topics. he died in 1823 and is buried in the quaker burial ground in tottenham. 
+
+Coref Resolved : 
+mayhew foster 17451823 was an english quaker minister and philanthropist. mayhew foster was born in london the son of a quaker merchant and was educated at the quaker school in tottenham. mayhew foster became a minister in 1768 and was a prominent figure in the quaker movement in england. mayhew foster was a strong advocate of the abolition of slavery and was a leader in the campaign to abolish the slave trade. mayhew foster was also a leader in the campaign for the relief of the poor and was instrumental in the founding of the london dispensary a charitable organization that provided medical care to the poor. mayhew foster was also a strong advocate of education and was involved in the founding of several schools. mayhew foster was a prolific writer and published several books on religious and social topics. mayhew foster died in 1823 and is buried in the quaker burial ground in tottenham.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

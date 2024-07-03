@@ -1,0 +1,128 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Politics_of_India and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Parliament_of_India and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Biju_Janata_Dal and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Ball-jointed_doll and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Dhenkanal_district and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Politics_of_India and http://dbpedia.org/resource/Parliament_of_India and the value is : 0
+http://dbpedia.org/resource/Politics_of_India and http://dbpedia.org/resource/Biju_Janata_Dal and the value is : 0
+http://dbpedia.org/resource/Politics_of_India and http://dbpedia.org/resource/Ball-jointed_doll and the value is : 0
+http://dbpedia.org/resource/Politics_of_India and http://dbpedia.org/resource/Dhenkanal_district and the value is : 1
+http://dbpedia.org/resource/Politics_of_India and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Parliament_of_India and http://dbpedia.org/resource/Biju_Janata_Dal and the value is : 0
+http://dbpedia.org/resource/Parliament_of_India and http://dbpedia.org/resource/Ball-jointed_doll and the value is : 1
+http://dbpedia.org/resource/Parliament_of_India and http://dbpedia.org/resource/Dhenkanal_district and the value is : 0
+http://dbpedia.org/resource/Parliament_of_India and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Biju_Janata_Dal and http://dbpedia.org/resource/Ball-jointed_doll and the value is : 0
+http://dbpedia.org/resource/Biju_Janata_Dal and http://dbpedia.org/resource/Dhenkanal_district and the value is : 0
+http://dbpedia.org/resource/Biju_Janata_Dal and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Ball-jointed_doll and http://dbpedia.org/resource/Dhenkanal_district and the value is : 0
+http://dbpedia.org/resource/Ball-jointed_doll and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Dhenkanal_district and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Dharitri_(newspaper) and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Dharitri_(newspaper) and the value is : 1
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/2014_Indian_general_election and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Odia_language and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Culture and the value is : 1
+http://dbpedia.org/resource/Odia_language and http://dbpedia.org/resource/Culture and the value is : 1
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Ukrainian_language and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Ukrainian_language and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Naxalite–Maoist_insurgency and the value is : 1
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Nepalese_Civil_War and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/16th_Lok_Sabha and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/16th_Lok_Sabha and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Dhenkanal_district and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Dhenkanal_district and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Dhenkanal_district and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Biju_Janata_Dal and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Ball-jointed_doll and the value is : 1
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Political_party and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Biju_Janata_Dal and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ball-jointed_doll and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Political_party and the value is : 0
+http://dbpedia.org/resource/Biju_Janata_Dal and http://dbpedia.org/resource/Ball-jointed_doll and the value is : 1
+http://dbpedia.org/resource/Biju_Janata_Dal and http://dbpedia.org/resource/Political_party and the value is : 0
+http://dbpedia.org/resource/Ball-jointed_doll and http://dbpedia.org/resource/Political_party and the value is : 1
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Odisha and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Newspaper and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Dharitri_(newspaper) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Odisha and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Newspaper and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Dharitri_(newspaper) and the value is : 0
+http://dbpedia.org/resource/Odisha and http://dbpedia.org/resource/Newspaper and the value is : 1
+http://dbpedia.org/resource/Odisha and http://dbpedia.org/resource/Dharitri_(newspaper) and the value is : 0
+http://dbpedia.org/resource/Newspaper and http://dbpedia.org/resource/Dharitri_(newspaper) and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Christianity and the value is : 1
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Christian_mission and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Christianity and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Christian_mission and the value is : 0
+http://dbpedia.org/resource/Christianity and http://dbpedia.org/resource/Christian_mission and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Dalit and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Free_education and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Dalit and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Free_education and the value is : 0
+http://dbpedia.org/resource/Dalit and http://dbpedia.org/resource/Free_education and the value is : 0
+http://dbpedia.org/resource/Mass and http://dbpedia.org/resource/Christianity and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Social_networking_service and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Online_newspaper and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Reddit and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Social_networking_service and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Online_newspaper and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Reddit and the value is : 0
+http://dbpedia.org/resource/Social_networking_service and http://dbpedia.org/resource/Online_newspaper and the value is : 0
+http://dbpedia.org/resource/Social_networking_service and http://dbpedia.org/resource/Reddit and the value is : 1
+http://dbpedia.org/resource/Online_newspaper and http://dbpedia.org/resource/Reddit and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Net_neutrality and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Telecom_Regulatory_Authority_of_India and the value is : 1
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Twenty_Questions and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Net_neutrality and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Telecom_Regulatory_Authority_of_India and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Twenty_Questions and the value is : 0
+http://dbpedia.org/resource/Net_neutrality and http://dbpedia.org/resource/Telecom_Regulatory_Authority_of_India and the value is : 0
+http://dbpedia.org/resource/Net_neutrality and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Net_neutrality and http://dbpedia.org/resource/Twenty_Questions and the value is : 0
+http://dbpedia.org/resource/Telecom_Regulatory_Authority_of_India and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Telecom_Regulatory_Authority_of_India and http://dbpedia.org/resource/Twenty_Questions and the value is : 1
+http://dbpedia.org/resource/Paper and http://dbpedia.org/resource/Twenty_Questions and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tathagata satpathy born 28 august 1956 is an indian politician and a member of parliament in the lok sabha from the biju janata dal bjd representing the dhenkanal constituency of odisha. he is a former journalist and editor of the odia daily dharitri. he was elected to the lok sabha in the 2014 indian general election. satpathy is a strong advocate of the odia language and culture. he has been a vocal critic of the central governments policies on language and culture. he has also been a vocal critic of the governments handling of the naxalite insurgency in odisha. he has been a strong advocate of the rights of the tribal people of odisha and has been a vocal critic of the governments policies on tribal rights. he has also been a vocal critic of the governments handling of the maoist insurgency in odisha. 
+
+Coref Resolved : 
+tathagata satpathy born 28 august 1956 is an indian politician and a member of parliament in the lok sabha from the biju janata dal bjd representing the dhenkanal constituency of odisha. tathagata satpathy is a former journalist and editor of the odia daily dharitri. tathagata satpathy was elected to the lok sabha in the 2014 indian general election. tathagata satpathy is a strong advocate of the odia language and culture. tathagata satpathy has been a vocal critic of the central governments policies on language and culture. tathagata satpathy has also been a vocal critic of the central governments handling of the naxalite insurgency in odisha. tathagata satpathy has been a strong advocate of the rights of the tribal people of odishaand has been a vocal critic of the central governments policies on tribal rights. tathagata satpathy has also been a vocal critic of the central governments handling of the maoist insurgency in odisha.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+tathagata satpathy born 1 april 1956 is a member of the 16th lok sabha of india. he represents the dhenkanal constituency of odisha and has been reelected for the fourth time. he is a member of the biju janata dal bjd political party. he is the editor of the daily oriya newspaper the dharitri. in 2009 satpathy spoke out against conversions to christianity alleging that so much money comes into odisha for christian missionary efforts. he also stated that christians have offered dalits better chances by offering them jobs free education and other benefits that any poor community needs. thats one reason why there have been mass conversions to christianity. in 2015 satpathy became the first indian mp to hold an official ask me anything session on the entertainment social networking and news website reddit. satpathy also came forward in support of net neutrality when trai came out with a consultation paper where they put out 20 questions seeking opinions from the general public on licenses and net neutrality. 
+
+Coref Resolved : 
+tathagata satpathy born 1 april 1956 is a member of the 16th lok sabha of india. tathagata satpathy born 1 april 1956 represents the dhenkanal constituency of odisha and has been reelected for the fourth time. tathagata satpathy born 1 april 1956 is a member of the biju janata dal bjd political party. tathagata satpathy born 1 april 1956 is the editor of the daily oriya newspaper the dharitri. in 2009 tathagata satpathy born 1 april 1956 spoke out against conversions to christianity alleging that so much money comes into odisha for christian missionary efforts. tathagata satpathy born 1 april 1956 also stated that christians have offered dalits better chances by offering dalits jobs free education and other benefits that any poor community needs. thats one reason why there have been mass conversions to christianity. in 2015 tathagata satpathy born 1 april 1956 became the first indian mp to hold an official ask me anything session on the entertainment social networking and news website reddit. tathagata satpathy born 1 april 1956 also came forward in support of net neutrality when trai came out with a consultation paper where trai put out 20 questions seeking opinions from the general public on licenses and net neutrality.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21212121212121213 and for ground truth is : 0.22388059701492538
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate accurate major_inaccurate major_inaccurate major_inaccurate 
+

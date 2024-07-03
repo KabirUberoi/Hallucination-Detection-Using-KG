@@ -1,0 +1,77 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Astronomy and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Mathematician and the value is : 1
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Ethnography and the value is : 1
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Latin_translations_of_the_12th_century and the value is : 0
+http://dbpedia.org/resource/Astronomy and http://dbpedia.org/resource/Mathematician and the value is : 1
+http://dbpedia.org/resource/Astronomy and http://dbpedia.org/resource/Ethnography and the value is : 0
+http://dbpedia.org/resource/Astronomy and http://dbpedia.org/resource/Latin_translations_of_the_12th_century and the value is : 0
+http://dbpedia.org/resource/Mathematician and http://dbpedia.org/resource/Ethnography and the value is : 0
+http://dbpedia.org/resource/Mathematician and http://dbpedia.org/resource/Latin_translations_of_the_12th_century and the value is : 0
+http://dbpedia.org/resource/Ethnography and http://dbpedia.org/resource/Latin_translations_of_the_12th_century and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Potato and the value is : 1
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/British_Isles and the value is : 1
+http://dbpedia.org/resource/Potato and http://dbpedia.org/resource/British_Isles and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Moon and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Telescope and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Galileo_Galilei and the value is : 0
+http://dbpedia.org/resource/Moon and http://dbpedia.org/resource/Telescope and the value is : 1
+http://dbpedia.org/resource/Moon and http://dbpedia.org/resource/Galileo_Galilei and the value is : 1
+http://dbpedia.org/resource/Telescope and http://dbpedia.org/resource/Galileo_Galilei and the value is : 1
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Scientific_Revolution and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/St_Mary_Hall,_Oxford and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/University_of_Padua and the value is : 0
+http://dbpedia.org/resource/St_Mary_Hall,_Oxford and http://dbpedia.org/resource/University_of_Padua and the value is : 1
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/History_of_mathematics and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Astronomy and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Navigation and the value is : 1
+http://dbpedia.org/resource/History_of_mathematics and http://dbpedia.org/resource/Astronomy and the value is : 0
+http://dbpedia.org/resource/History_of_mathematics and http://dbpedia.org/resource/Navigation and the value is : 1
+http://dbpedia.org/resource/Astronomy and http://dbpedia.org/resource/Navigation and the value is : 1
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Walter_Raleigh and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Flora and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Fauna and the value is : 1
+http://dbpedia.org/resource/Walter_Raleigh and http://dbpedia.org/resource/Flora and the value is : 0
+http://dbpedia.org/resource/Walter_Raleigh and http://dbpedia.org/resource/Fauna and the value is : 1
+http://dbpedia.org/resource/Flora and http://dbpedia.org/resource/Fauna and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Astronomy and the value is : 1
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Moon and the value is : 1
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Navigation and the value is : 0
+http://dbpedia.org/resource/Astronomy and http://dbpedia.org/resource/Moon and the value is : 1
+http://dbpedia.org/resource/Astronomy and http://dbpedia.org/resource/Treatise and the value is : 1
+http://dbpedia.org/resource/Astronomy and http://dbpedia.org/resource/Navigation and the value is : 0
+http://dbpedia.org/resource/Moon and http://dbpedia.org/resource/Treatise and the value is : 1
+http://dbpedia.org/resource/Moon and http://dbpedia.org/resource/Navigation and the value is : 0
+http://dbpedia.org/resource/Treatise and http://dbpedia.org/resource/Navigation and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Mathematician and the value is : 1
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Astronomy and the value is : 1
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Johannes_Kepler and the value is : 0
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Circle and the value is : 1
+http://dbpedia.org/resource/Thomas_Harriot and http://dbpedia.org/resource/Virginia_Company and the value is : 1
+http://dbpedia.org/resource/Mathematician and http://dbpedia.org/resource/Astronomy and the value is : 1
+http://dbpedia.org/resource/Mathematician and http://dbpedia.org/resource/Johannes_Kepler and the value is : 1
+http://dbpedia.org/resource/Mathematician and http://dbpedia.org/resource/Circle and the value is : 1
+http://dbpedia.org/resource/Mathematician and http://dbpedia.org/resource/Virginia_Company and the value is : 0
+http://dbpedia.org/resource/Astronomy and http://dbpedia.org/resource/Johannes_Kepler and the value is : 0
+http://dbpedia.org/resource/Astronomy and http://dbpedia.org/resource/Circle and the value is : 0
+http://dbpedia.org/resource/Astronomy and http://dbpedia.org/resource/Virginia_Company and the value is : 1
+http://dbpedia.org/resource/Johannes_Kepler and http://dbpedia.org/resource/Circle and the value is : 0
+http://dbpedia.org/resource/Johannes_Kepler and http://dbpedia.org/resource/Virginia_Company and the value is : 0
+http://dbpedia.org/resource/Circle and http://dbpedia.org/resource/Virginia_Company and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+thomas harriot c. 1560 2 july 1621 was an english astronomer mathematician ethnographer and translator who made advances within the scientific field during the late 16th and early 17th centuries. he is sometimes credited with the introduction of the potato to the british isles. harriot was the first person to make a drawing of the moon through a telescope on 26 july 1609 over four months before galileo. he was an important figure in the scientific revolution of the 17th century. harriot was born in oxford in 1560 and educated at st mary hall oxford and later at the university of padua. he studied mathematics astronomy optics and navigation. he was employed by sir walter raleigh to lead an expedition to the new world in 1585 and he made observations of the flora fauna and native peoples of the area. he also made astronomical observations of the moon and stars and wrote a treatise on navigation. he was a friend of the mathematician and astronomer johannes kepler and was a member of the scientific circle of the virginia company of london. 
+
+Coref Resolved : 
+thomas harriot c. 1560 2 july 1621 was an english astronomer mathematician ethnographer and translator who made advances within the scientific field during the late 16th and early 17th centuries. harriot is sometimes credited with the introduction of the potato to the british isles. harriot was the first person to make a drawing of the moon through a telescope on 26 july 1609 over four months before galileo. harriot was an important figure in the scientific revolution of the 17th century. harriot was born in oxford in 1560 and educated at st mary hall oxford and later at the university of padua. harriot studied mathematics astronomy optics and navigation. harriot was employed by sir walter raleigh to lead an expedition to the new world in 1585 and harriot made observations of the flora fauna and native peoples of the new world . harriot also made astronomical observations of the moon and stars and wrote a treatise on navigation. harriot was a friend of the mathematician and astronomer johannes kepler and was a member of the scientific circle of the virginia company of london.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.45
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate accurate accurate accurate minor_inaccurate 
+

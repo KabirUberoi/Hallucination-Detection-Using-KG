@@ -1,0 +1,215 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Russell and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/John_Russell and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/John_Russell and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 1
+http://dbpedia.org/resource/Victoria_Cross and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/British_Army and the value is : 1
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Deed and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Captain_(cricket) and the value is : 1
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Deed and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 0
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/Deed and the value is : 1
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Deed and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Captain_(cricket) and the value is : 1
+http://dbpedia.org/resource/Indian_Rebellion_of_1857 and http://dbpedia.org/resource/Deed and the value is : 0
+http://dbpedia.org/resource/Indian_Rebellion_of_1857 and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Deed and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Lucknow and http://dbpedia.org/resource/Sergeant and the value is : 1
+http://dbpedia.org/resource/Lucknow and http://dbpedia.org/resource/Wounded_Man and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Wounded_Man and the value is : 1
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Wounded_Man and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Lucknow and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/National_Army_Museum and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Chelsea_F.C. and the value is : 0
+http://dbpedia.org/resource/Victoria_Cross and http://dbpedia.org/resource/National_Army_Museum and the value is : 0
+http://dbpedia.org/resource/Victoria_Cross and http://dbpedia.org/resource/Chelsea_F.C. and the value is : 0
+http://dbpedia.org/resource/National_Army_Museum and http://dbpedia.org/resource/Chelsea_F.C. and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/John_Fox_(American_football) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 1
+http://dbpedia.org/resource/Victoria_Cross and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/John_Fox_(American_football) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Holyhead and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Anglesey and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/William_Fox_(producer) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Œ and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Lunar_mare and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Fox_hunting and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Holyhead and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Anglesey and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/William_Fox_(producer) and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Œ and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Lunar_mare and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Fox_hunting and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Holyhead and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Anglesey and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/William_Fox_(producer) and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Œ and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Lunar_mare and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Fox_hunting and the value is : 0
+http://dbpedia.org/resource/Holyhead and http://dbpedia.org/resource/Anglesey and the value is : 0
+http://dbpedia.org/resource/Holyhead and http://dbpedia.org/resource/William_Fox_(producer) and the value is : 0
+http://dbpedia.org/resource/Holyhead and http://dbpedia.org/resource/Œ and the value is : 0
+http://dbpedia.org/resource/Holyhead and http://dbpedia.org/resource/Lunar_mare and the value is : 1
+http://dbpedia.org/resource/Holyhead and http://dbpedia.org/resource/Fox_hunting and the value is : 1
+http://dbpedia.org/resource/Anglesey and http://dbpedia.org/resource/William_Fox_(producer) and the value is : 0
+http://dbpedia.org/resource/Anglesey and http://dbpedia.org/resource/Œ and the value is : 0
+http://dbpedia.org/resource/Anglesey and http://dbpedia.org/resource/Lunar_mare and the value is : 0
+http://dbpedia.org/resource/Anglesey and http://dbpedia.org/resource/Fox_hunting and the value is : 0
+http://dbpedia.org/resource/William_Fox_(producer) and http://dbpedia.org/resource/Œ and the value is : 0
+http://dbpedia.org/resource/William_Fox_(producer) and http://dbpedia.org/resource/Lunar_mare and the value is : 0
+http://dbpedia.org/resource/William_Fox_(producer) and http://dbpedia.org/resource/Fox_hunting and the value is : 0
+http://dbpedia.org/resource/Œ and http://dbpedia.org/resource/Lunar_mare and the value is : 0
+http://dbpedia.org/resource/Œ and http://dbpedia.org/resource/Fox_hunting and the value is : 0
+http://dbpedia.org/resource/Lunar_mare and http://dbpedia.org/resource/Fox_hunting and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/John_Fox_(American_football) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Magdalen_College,_Oxford and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/St_Bees_School and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Cumbria and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Magdalen_College,_Oxford and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/St_Bees_School and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Cumbria and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Magdalen_College,_Oxford and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/St_Bees_School and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Cumbria and the value is : 0
+http://dbpedia.org/resource/Magdalen_College,_Oxford and http://dbpedia.org/resource/St_Bees_School and the value is : 0
+http://dbpedia.org/resource/Magdalen_College,_Oxford and http://dbpedia.org/resource/Cumbria and the value is : 1
+http://dbpedia.org/resource/St_Bees_School and http://dbpedia.org/resource/Cumbria and the value is : 0
+http://dbpedia.org/resource/School_Captain and http://dbpedia.org/resource/John_Fox_(American_football) and the value is : 0
+http://dbpedia.org/resource/School_Captain and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/School_Captain and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/John_Fox_(American_football) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Middlesex_Hospital and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Royal_Welch_Fusiliers and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Middlesex_Hospital and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Royal_Welch_Fusiliers and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Middlesex_Hospital and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Royal_Welch_Fusiliers and the value is : 0
+http://dbpedia.org/resource/Middlesex_Hospital and http://dbpedia.org/resource/Royal_Welch_Fusiliers and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/John_Fox_(American_football) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Royal_Welch_Fusiliers and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Royal_Welch_Fusiliers and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Royal_Welch_Fusiliers and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/John_Fox_(American_football) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/John_Fox_(American_football) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Royal_Army_Medical_Corps and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Artillery_battery and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Royal_Field_Artillery and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Royal_Army_Medical_Corps and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Artillery_battery and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Royal_Field_Artillery and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Royal_Army_Medical_Corps and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Artillery_battery and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Royal_Field_Artillery and the value is : 0
+http://dbpedia.org/resource/Royal_Army_Medical_Corps and http://dbpedia.org/resource/Artillery_battery and the value is : 0
+http://dbpedia.org/resource/Royal_Army_Medical_Corps and http://dbpedia.org/resource/Royal_Field_Artillery and the value is : 0
+http://dbpedia.org/resource/Artillery_battery and http://dbpedia.org/resource/Royal_Field_Artillery and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/John_Fox_(American_football) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Anglesey and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Caernarfonshire and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Anglesey and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Caernarfonshire and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Anglesey and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Caernarfonshire and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Rejoined and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/Rejoined and http://dbpedia.org/resource/Anglesey and the value is : 0
+http://dbpedia.org/resource/Rejoined and http://dbpedia.org/resource/Caernarfonshire and the value is : 0
+http://dbpedia.org/resource/Rejoined and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Anglesey and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Caernarfonshire and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Anglesey and http://dbpedia.org/resource/Caernarfonshire and the value is : 1
+http://dbpedia.org/resource/Anglesey and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Caernarfonshire and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Third_Battle_of_Gaza and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Third_Battle_of_Gaza and http://dbpedia.org/resource/John_Fox_(American_football) and the value is : 0
+http://dbpedia.org/resource/Third_Battle_of_Gaza and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Third_Battle_of_Gaza and http://dbpedia.org/resource/Military_Cross and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/John_Fox_(American_football) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Military_Cross and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Military_Cross and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Military_Cross and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/John_Fox_(American_football) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Sinai_and_Palestine_campaign and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/John_Fox_(American_football) and http://dbpedia.org/resource/Sinai_and_Palestine_campaign and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Sinai_and_Palestine_campaign and the value is : 0
+http://dbpedia.org/resource/Victoria_Cross and http://dbpedia.org/resource/Sinai_and_Palestine_campaign and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john russell vc 18 july 1827 28 october 1857 was an english recipient of the victoria cross the highest and most prestigious award for gallantry in the face of the enemy that can be awarded to british and commonwealth forces. he was approximately 30 years old and a sergeant in the 2nd battalion the rifle brigade prince consorts own british army during the indian mutiny when the following deed took place for which he was awarded the vc. on 16 november 1857 at lucknow india sergeant russell with two other sergeants volunteered to go out and bring in a wounded man who was lying close to the enemys position. they succeeded in rescuing the man but sergeant russell was severely wounded in the attempt. he died of his wounds on 28 october 1857 and was buried in the british cemetery at lucknow. his victoria cross is displayed at the national army museum chelsea london. 
+
+Coref Resolved : 
+john russell vc 18 july 1827 28 october 1857 was an english recipient of the victoria cross the highest and most prestigious award for gallantry in the face of the enemy that can be awarded to british and commonwealth forces. sergeant russell was approximately 30 years old and a sergeant in the 2nd battalion the rifle brigade prince consorts own british army during the indian mutiny when the following deed took place for which sergeant russell was awarded the vc. on 16 november 1857 at lucknow india sergeant russell with two other sergeants volunteered to go out and bring in a wounded man who was lying close to the enemys position. sergeant russell with two other sergeants succeeded in rescuing a wounded man who was lying close to the enemys positionbut sergeant russell was severely wounded in the attempt. sergeant russell died of sergeant russell wounds on 28 october 1857 and was buried in the british cemetery at lucknow india . sergeant russell victoria cross is displayed at the national army museum chelsea london.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+captain john fox russell vc mc 27 january 1893 6 november 1917 was a welsh recipient of the victoria cross the highest and most prestigious award for gallantry in the face of the enemy that can be awarded to british and commonwealth forces. he was born in holyhead anglesey on 27 january 1893 to william fox russell and ethel maria fox russell. at an early age he passed the examination for a choristership at magdalen college oxford where he was educated for three years before attending st. bees school in cumbria. while at school he was an enthusiastic member of the officer training corps. he joined the middlesex hospital when only sixteen years of age and it was while he was in london that he joined the university of london officers training corps obtaining a commission in the royal welch fusiliers in 1914. he was with them in camp when war was declared. being anxious to qualify he was seconded in order to complete his medical studies. after obtaining his degrees he joined the royal army medical corps and was attached to a battery of the royal field artillery. he later rejoined his old regiment r.w.f 1st6th battalion anglesey and caernarvonshire and went out to egypt as medical officer. in the first battle of gaza he won the military cross. he was subsequently awarded the victoria cross at telelkhuwwilfeh palestine. 
+
+Coref Resolved : 
+captain john fox russell vc mc 27 january 1893 6 november 1917 was a welsh recipient of the victoria cross the highest and most prestigious award for gallantry in the face of the enemy that can be awarded to british and commonwealth forces. captain john fox russell vc mc 27 january 1893 6 november 1917 was born in holyhead anglesey on 27 january 1893 to william fox russell and ethel maria fox russell. at an early age captain john fox russell vc mc 27 january 1893 6 november 1917 passed the examination for a choristership at magdalen college oxford where captain john fox russell vc mc 27 january 1893 6 november 1917 was educated for three years before attending st. bees school in cumbria. while at school captain john fox russell vc mc 27 january 1893 6 november 1917 was an enthusiastic member of the officer training corps. captain john fox russell vc mc 27 january 1893 6 november 1917 joined the middlesex hospital when only sixteen years of age and it was while captain john fox russell vc mc 27 january 1893 6 november 1917 was in london that captain john fox russell vc mc 27 january 1893 6 november 1917 joined the university of london officers training corps obtaining a commission in the royal welch fusiliers in 1914. captain john fox russell vc mc 27 january 1893 6 november 1917 was with the royal welch fusiliers in camp when war was declared. being anxious to qualify captain john fox russell vc mc 27 january 1893 6 november 1917 was seconded in order to complete captain john fox russell vc mc 27 january 1893 6 november 1917 medical studies. after obtaining captain john fox russell vc mc 27 january 1893 6 november 1917 degrees captain john fox russell vc mc 27 january 1893 6 november 1917 joined the royal army medical corps and was attached to a battery of the royal field artillery. captain john fox russell vc mc 27 january 1893 6 november 1917 later rejoined captain john fox russell vc mc 27 january 1893 6 november 1917 old regiment r.w.f 1st6th battalion anglesey and caernarvonshire and went out to egypt as medical officer. in the first battle of gaza captain john fox russell vc mc 27 january 1893 6 november 1917 won the military cross. captain john fox russell vc mc 27 january 1893 6 november 1917 was subsequently awarded the victoria cross at telelkhuwwilfeh palestine.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.18421052631578946 and for ground truth is : 0.03355704697986577
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

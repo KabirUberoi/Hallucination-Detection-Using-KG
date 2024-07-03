@@ -1,0 +1,105 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Lawyer and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Bryan_Cranston and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Bryan_Cranston and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/Bryan_Cranston and the value is : 1
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Bryan_Cranston and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/University_of_Rhode_Island and http://dbpedia.org/resource/Bryan_Cranston and the value is : 0
+http://dbpedia.org/resource/University_of_Rhode_Island and http://dbpedia.org/resource/Bachelor_of_Business_Administration and the value is : 1
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/University_of_Rhode_Island and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/University_of_Rhode_Island and http://dbpedia.org/resource/Party_leaders_of_the_United_States_Senate and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Party_leaders_of_the_United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Bryan_Cranston and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Bryan_Cranston and http://dbpedia.org/resource/Philadelphia_City_Council and the value is : 0
+http://dbpedia.org/resource/University_of_Rhode_Island and http://dbpedia.org/resource/Philadelphia_City_Council and the value is : 0
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/Bryan_Cranston and the value is : 0
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Bryan_Cranston and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Admiral and http://dbpedia.org/resource/United_States_Navy and the value is : 0
+http://dbpedia.org/resource/Admiral and http://dbpedia.org/resource/Girl_Distribution_Company and the value is : 1
+http://dbpedia.org/resource/Admiral and http://dbpedia.org/resource/United_States_Fleet_Forces_Command and the value is : 0
+http://dbpedia.org/resource/United_States_Navy and http://dbpedia.org/resource/Girl_Distribution_Company and the value is : 0
+http://dbpedia.org/resource/United_States_Navy and http://dbpedia.org/resource/United_States_Fleet_Forces_Command and the value is : 0
+http://dbpedia.org/resource/Girl_Distribution_Company and http://dbpedia.org/resource/United_States_Fleet_Forces_Command and the value is : 0
+http://dbpedia.org/resource/John_J._Flanagan and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Eleanor_Roosevelt and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/John_F._Kennedy_Jr. and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Margaret_Tudor and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Anne_Boleyn and the value is : 1
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Saint_Joseph and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/William_Flanagan_(composer) and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy_Jr. and http://dbpedia.org/resource/Margaret_Tudor and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy_Jr. and http://dbpedia.org/resource/Anne_Boleyn and the value is : 1
+http://dbpedia.org/resource/John_F._Kennedy_Jr. and http://dbpedia.org/resource/Saint_Joseph and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy_Jr. and http://dbpedia.org/resource/William_Flanagan_(composer) and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy_Jr. and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Margaret_Tudor and http://dbpedia.org/resource/Anne_Boleyn and the value is : 0
+http://dbpedia.org/resource/Margaret_Tudor and http://dbpedia.org/resource/Saint_Joseph and the value is : 0
+http://dbpedia.org/resource/Margaret_Tudor and http://dbpedia.org/resource/William_Flanagan_(composer) and the value is : 0
+http://dbpedia.org/resource/Margaret_Tudor and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Anne_Boleyn and http://dbpedia.org/resource/Saint_Joseph and the value is : 1
+http://dbpedia.org/resource/Anne_Boleyn and http://dbpedia.org/resource/William_Flanagan_(composer) and the value is : 0
+http://dbpedia.org/resource/Anne_Boleyn and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/William_Flanagan_(composer) and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/William_Flanagan_(composer) and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/William_Flanagan_(composer) and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Pacific_War and http://dbpedia.org/resource/Sea_captain and the value is : 1
+http://dbpedia.org/resource/Pacific_War and http://dbpedia.org/resource/United_States_Army and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/United_States_Army and the value is : 0
+http://dbpedia.org/resource/William_Flanagan_(composer) and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/William_Flanagan_(composer) and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/William_Flanagan_(composer) and http://dbpedia.org/resource/Police and the value is : 0
+http://dbpedia.org/resource/Serbian_language and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Serbian_language and http://dbpedia.org/resource/Police and the value is : 0
+http://dbpedia.org/resource/Massachusetts and http://dbpedia.org/resource/Police and the value is : 0
+http://dbpedia.org/resource/John_J._Flanagan and http://dbpedia.org/resource/Barbara_Cochran and the value is : 0
+http://dbpedia.org/resource/John_J._Flanagan and http://dbpedia.org/resource/Elizabeth_I_of_England and the value is : 0
+http://dbpedia.org/resource/John_J._Flanagan and http://dbpedia.org/resource/Margaret_Tudor and the value is : 0
+http://dbpedia.org/resource/Barbara_Cochran and http://dbpedia.org/resource/Elizabeth_I_of_England and the value is : 0
+http://dbpedia.org/resource/Barbara_Cochran and http://dbpedia.org/resource/Margaret_Tudor and the value is : 0
+http://dbpedia.org/resource/Elizabeth_I_of_England and http://dbpedia.org/resource/Margaret_Tudor and the value is : 0
+http://dbpedia.org/resource/John_J._Flanagan and http://dbpedia.org/resource/Maritime_transport and the value is : 0
+http://dbpedia.org/resource/John_J._Flanagan and http://dbpedia.org/resource/Political_science and the value is : 0
+http://dbpedia.org/resource/John_J._Flanagan and http://dbpedia.org/resource/American_University and the value is : 0
+http://dbpedia.org/resource/John_J._Flanagan and http://dbpedia.org/resource/Harvard_Business_School and the value is : 0
+http://dbpedia.org/resource/Maritime_transport and http://dbpedia.org/resource/Political_science and the value is : 0
+http://dbpedia.org/resource/Maritime_transport and http://dbpedia.org/resource/American_University and the value is : 0
+http://dbpedia.org/resource/Maritime_transport and http://dbpedia.org/resource/Harvard_Business_School and the value is : 0
+http://dbpedia.org/resource/Political_science and http://dbpedia.org/resource/American_University and the value is : 0
+http://dbpedia.org/resource/Political_science and http://dbpedia.org/resource/Harvard_Business_School and the value is : 0
+http://dbpedia.org/resource/American_University and http://dbpedia.org/resource/Harvard_Business_School and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+william j. flanagan jr. born october 28 1945 is an american politician and lawyer who served as the mayor of cranston rhode island from 2003 to 2019. he was first elected in 2003 and was reelected in 2006 2010 and 2014. he is a member of the democratic party. flanagan was born in providence rhode island and graduated from cranston high school east in 1963. he attended the university of rhode island graduating in 1967 with a bachelor of science degree in business administration. he then attended the new england school of law graduating in 1970 with a juris doctor degree. flanagan was a member of the rhode island house of representatives from 1975 to 1983. he was a member of the rhode island senate from 1983 to 2003 serving as senate majority leader from 1995 to 2003. he was also a member of the cranston city council from 1990 to 2003. in 2003 flanagan was elected mayor of cranston. he was reelected in 2006 2010 and 2014. during his tenure he was credited with helping to reduce 
+
+Coref Resolved : 
+william j. flanagan jr. born october 28 1945 is an american politician and lawyer who served as the mayor of cranston rhode island from 2003 to 2019. william j. flanagan jr. born october 28 1945 was first elected in 2003 and was reelected in 2006 2010 and 2014. william j. flanagan jr. born october 28 1945 is a member of the democratic party. william j. flanagan jr. born october 28 1945 was born in providence rhode island and graduated from cranston rhode island high school east in 1963. william j. flanagan jr. born october 28 1945 attended the university of rhode island graduating in 1967 with a bachelor of science degree in business administration. william j. flanagan jr. born october 28 1945 then attended the new england school of law graduating in 1970 with a juris doctor degree. william j. flanagan jr. born october 28 1945 was a member of the rhode island house of representatives from 1975 to 1983. william j. flanagan jr. born october 28 1945 was a member of the rhode island senate from 1983to 2003 serving as senate majority leader from 1995 to 2003 . william j. flanagan jr. born october 28 1945 was also a member of the cranston rhode island city council from 1990 to 2003 . in 2003 william j. flanagan jr. born october 28 1945 was elected mayor of cranston rhode island . william j. flanagan jr. born october 28 1945 was reelected in 2006 2010 and 2014. during william j. flanagan jr. born october 28 1945 tenure william j. flanagan jr. born october 28 1945 was credited with helping to reduce
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+admiral william j. flanagan jr. born on march 27 1943 is a retired united states navy fourstar admiral who served as commander in chief u.s. atlantic fleet cinclantflt from 1994 to 1996. william john flanagan jr. was born in 1943 to parents william j. flanagan sr. and eleanor f. née corrigan flanagan. the flanagan household consisted of eight children patricia mary william john jr. kathleen john j. peter a. mary margaret anne and joseph m. william flanagan sr. was a member of the massachusetts national guard. he served in the pacific theater in world war ii as a captain in the u.s. army. both prior to and after the war he served in the massachusetts state police retiring from the force in 1975. flanagan is married to the former barbara ann brendes and they have three daughters kathryn elizabeth and margaret. in addition to his bachelors degree in marine transportation flanagan received a masters degree in political science from the american university and earned a degree from harvard business school. 
+
+Coref Resolved : 
+admiral william j. flanagan jr. born on march 27 1943 is a retired united states navy fourstar admiral who served as commander in chief u.s. atlantic fleet cinclantflt from 1994 to 1996. william john flanagan jr. was born in 1943 to parents william j. flanagan sr. and eleanor f. née corrigan flanagan. the flanagan household consisted of eight children patricia mary william john jr. kathleen john j. peter a. mary margaret anne and joseph m. william flanagan sr. was a member of the massachusetts national guard. william flanagan sr. served in the pacific theater in world war ii as a captain in the u.s. army. both prior to and after world war ii william flanagan sr. served in the massachusetts state police retiring from the massachusetts state police in 1975. william john flanagan jr. is married to the former barbara ann brendes and they have three daughters kathryn elizabeth and margaret. in addition to william john flanagan jr. bachelors degree in marine transportation william john flanagan jr. received a masters degree in political science from the american university and earned a degree from harvard business school.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.18181818181818182 and for ground truth is : 0.09090909090909091
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

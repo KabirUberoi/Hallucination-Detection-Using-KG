@@ -1,0 +1,65 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Third-party_ownership_in_association_football and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Philanthropy and the value is : 1
+http://dbpedia.org/resource/Third-party_ownership_in_association_football and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Investment_banking and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/West_Ham_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Investment_banking and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Investment_banking and http://dbpedia.org/resource/West_Ham_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/West_Ham_United_F.C. and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Sports_marketing and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Media_Sport_Investment and the value is : 0
+http://dbpedia.org/resource/Sports_marketing and http://dbpedia.org/resource/Media_Sport_Investment and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Tehran and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Iran and the value is : 0
+http://dbpedia.org/resource/Tehran and http://dbpedia.org/resource/Iran and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Political_science and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Finance and the value is : 0
+http://dbpedia.org/resource/Political_science and http://dbpedia.org/resource/Finance and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Investment_banking and the value is : 0
+http://dbpedia.org/resource/Investment_banking and http://dbpedia.org/resource/Kia_Joorabchian and the value is : 0
+http://dbpedia.org/resource/Investment_banking and http://dbpedia.org/resource/Property_technology and the value is : 0
+http://dbpedia.org/resource/Investment_banking and http://dbpedia.org/resource/Sport and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Property_technology and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Sport and the value is : 1
+http://dbpedia.org/resource/Property_technology and http://dbpedia.org/resource/Sport and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Third-party_ownership_in_association_football and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/West_Ham and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/West_Ham_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Third-party_ownership_in_association_football and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Third-party_ownership_in_association_football and http://dbpedia.org/resource/West_Ham and the value is : 0
+http://dbpedia.org/resource/Third-party_ownership_in_association_football and http://dbpedia.org/resource/West_Ham_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/West_Ham and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/West_Ham_United_F.C. and the value is : 1
+http://dbpedia.org/resource/West_Ham and http://dbpedia.org/resource/West_Ham_United_F.C. and the value is : 1
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Sports_marketing and the value is : 0
+http://dbpedia.org/resource/Kia_Joorabchian and http://dbpedia.org/resource/Media_Sport_Investment and the value is : 0
+http://dbpedia.org/resource/Sports_marketing and http://dbpedia.org/resource/Media_Sport_Investment and the value is : 1
+http://dbpedia.org/resource/Sports_marketing and http://dbpedia.org/resource/Media_Sport_Investment and the value is : 0
+http://dbpedia.org/resource/Sports_marketing and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Sports_marketing and http://dbpedia.org/resource/Sport_Club_Corinthians_Paulista and the value is : 1
+http://dbpedia.org/resource/Sports_marketing and http://dbpedia.org/resource/Brazil and the value is : 0
+http://dbpedia.org/resource/Media_Sport_Investment and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Media_Sport_Investment and http://dbpedia.org/resource/Sport_Club_Corinthians_Paulista and the value is : 1
+http://dbpedia.org/resource/Media_Sport_Investment and http://dbpedia.org/resource/Brazil and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Sport_Club_Corinthians_Paulista and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Brazil and the value is : 0
+http://dbpedia.org/resource/Sport_Club_Corinthians_Paulista and http://dbpedia.org/resource/Brazil and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+kia joorabchian born 1972 is an iranianborn britishbased businessman investor and philanthropist. he is the founder and chairman of the investment group the joorabchian group and is the chairman of the premier league football club west ham united. he is also the founder and chairman of the sports marketing company media sports investment msi. joorabchian was born in tehran iran and moved to london in 1989. he studied at the london school of economics and political science and graduated with a degree in economics and finance. he then went on to work in the banking sector before founding the joorabchian group in 2002. the group has investments in a variety of sectors including real estate technology and sports. joorabchian is a major investor in the premier league football club west ham united and is the chairman of the club. he is also the founder and chairman of the sports marketing company media sports investment msi. msi has investments in a number of football clubs including corinthians in brazil 
+
+Coref Resolved : 
+kia joorabchian born 1972 is an iranianborn britishbased businessman investor and philanthropist. joorabchian is the founder and chairman of the investment group the joorabchian group and is the chairman of the premier league football club west ham united. joorabchian is also the founder and chairman of the sports marketing company media sports investment msi. joorabchian was born in tehran iran and moved to london in 1989. joorabchian studied at the london school of economics and political science and graduated with a degree in economics and finance. joorabchian then went on to work in the banking sector before founding the investment group the joorabchian group in 2002. the investment group the joorabchian group has investments in a variety of sectors including real estate technology and sports. joorabchian is a major investor in the premier league football club west ham unitedand is the chairman of the premier league football club west ham united. joorabchian is also the founder and chairman of the sports marketing company media sports investment msi. the sports marketing company media sports investment msihas investments in a number of football clubs including corinthians in brazil
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.4166666666666667
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate accurate major_inaccurate accurate accurate 
+

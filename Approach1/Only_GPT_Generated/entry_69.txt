@@ -1,0 +1,80 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/House_of_Grimaldi and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Duke and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Valence_(city) and the value is : 0
+http://dbpedia.org/resource/House_of_Grimaldi and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/House_of_Grimaldi and http://dbpedia.org/resource/Duke and the value is : 0
+http://dbpedia.org/resource/House_of_Grimaldi and http://dbpedia.org/resource/Valence_(city) and the value is : 0
+http://dbpedia.org/resource/Monaco and http://dbpedia.org/resource/Duke and the value is : 0
+http://dbpedia.org/resource/Monaco and http://dbpedia.org/resource/Valence_(city) and the value is : 0
+http://dbpedia.org/resource/Duke and http://dbpedia.org/resource/Valence_(city) and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Maria_Caterina_Brignole and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Maria_Caterina_Brignole and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Exile and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Baptism and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Exile and the value is : 1
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Baptism and the value is : 1
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Exile and http://dbpedia.org/resource/Baptism and the value is : 0
+http://dbpedia.org/resource/Exile and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Baptism and http://dbpedia.org/resource/Catholic_Church and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/House_of_Grimaldi and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Genoa and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Family and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/House_of_Grimaldi and http://dbpedia.org/resource/Genoa and the value is : 1
+http://dbpedia.org/resource/House_of_Grimaldi and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/House_of_Grimaldi and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Genoa and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Genoa and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/House_of_Grimaldi and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Genoa and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/House_of_Grimaldi and http://dbpedia.org/resource/Genoa and the value is : 1
+http://dbpedia.org/resource/House_of_Grimaldi and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/House_of_Grimaldi and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Genoa and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Genoa and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/French_language and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Ukrainian_language and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Culture_of_Poland and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and the value is : 0
+http://dbpedia.org/resource/French_language and http://dbpedia.org/resource/Ukrainian_language and the value is : 1
+http://dbpedia.org/resource/French_language and http://dbpedia.org/resource/Culture_of_Poland and the value is : 1
+http://dbpedia.org/resource/French_language and http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and the value is : 0
+http://dbpedia.org/resource/Ukrainian_language and http://dbpedia.org/resource/Culture_of_Poland and the value is : 0
+http://dbpedia.org/resource/Ukrainian_language and http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and the value is : 0
+http://dbpedia.org/resource/Culture_of_Poland and http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Oceanography and the value is : 0
+http://dbpedia.org/resource/Monaco and http://dbpedia.org/resource/Oceanography and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Library and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Library and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/French_Revolution and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Napoleonic_Wars and the value is : 1
+http://dbpedia.org/resource/French_Revolution and http://dbpedia.org/resource/Napoleonic_Wars and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+honoré iv born honoré grimaldi 14 november 1758 3 october 1819 was prince of monaco and duke of valentinois from 1795 to 1819. he was the son of prince honoré iii and his wife maria caterina brignole. he was born in paris where his father was living in exile and was baptized at the church of saintsulpice. honoré iv was a member of the house of grimaldi a genoese family that had ruled monaco since 1297. he was the first of the grimaldi to be born in france. he was also the first to be born in the french language as his father had adopted the language and culture of his adopted country. honoré iv was a strong ruler who sought to modernize monaco and expand its influence. he was a patron of the arts and sciences and founded the monaco observatory and the oceanographic museum of monaco. he also established the first public library in monaco. he was a strong supporter of the french revolution and the napoleonic wars and was a close friend 
+
+Coref Resolved : 
+honoré iv born honoré grimaldi 14 november 1758 3 october 1819 was prince of monaco and duke of valentinois from 1795 to 1819 . honoré iv was the son of prince honoré iii and prince honoré iii wife maria caterina brignole. honoré iv was born in paris where honoré iv father was living in exile and was baptized at the church of saintsulpice. honoré iv was a member of the house of grimaldi a genoese family that had ruled monaco since 1297. honoré iv was the first of the house of grimaldi a genoese family that had ruled monaco since 1297to be born in france. honoré iv was also the first to be born in the french language as honoré iv father had adopted the language and culture of prince honoré iii adopted country. honoré iv was a strong ruler who sought to modernize monaco and expand monaco influence. honoré iv was a patron of the arts and sciences and founded the monaco observatory and the oceanographic museum of monaco . honoré iv also established the first public library in monaco . honoré iv was a strong supporter of the french revolution and the napoleonic wars and was a close friend
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.36507936507936506
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

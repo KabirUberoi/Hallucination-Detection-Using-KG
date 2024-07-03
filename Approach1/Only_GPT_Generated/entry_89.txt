@@ -1,0 +1,50 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/West_Africa and the value is : 1
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/Adamawa_Emirate and the value is : 0
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/Cameroon and the value is : 1
+http://dbpedia.org/resource/West_Africa and http://dbpedia.org/resource/Adamawa_Emirate and the value is : 0
+http://dbpedia.org/resource/West_Africa and http://dbpedia.org/resource/Cameroon and the value is : 0
+http://dbpedia.org/resource/Adamawa_Emirate and http://dbpedia.org/resource/Cameroon and the value is : 1
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/Village and the value is : 1
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Yola and the value is : 0
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/Adamawa_Emirate and the value is : 1
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/Fula_people and the value is : 1
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/Ethnic_group and the value is : 0
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Yola and the value is : 1
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Adamawa_Emirate and the value is : 1
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Fula_people and the value is : 0
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Ethnic_group and the value is : 0
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Yola and http://dbpedia.org/resource/Adamawa_Emirate and the value is : 0
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Yola and http://dbpedia.org/resource/Fula_people and the value is : 0
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Yola and http://dbpedia.org/resource/Ethnic_group and the value is : 0
+http://dbpedia.org/resource/Adamawa_Emirate and http://dbpedia.org/resource/Fula_people and the value is : 1
+http://dbpedia.org/resource/Adamawa_Emirate and http://dbpedia.org/resource/Ethnic_group and the value is : 0
+http://dbpedia.org/resource/Fula_people and http://dbpedia.org/resource/Ethnic_group and the value is : 0
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/Fula_people and the value is : 1
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/Adamawa_Emirate and the value is : 1
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/Cameroon and the value is : 1
+http://dbpedia.org/resource/Fula_people and http://dbpedia.org/resource/Adamawa_Emirate and the value is : 1
+http://dbpedia.org/resource/Fula_people and http://dbpedia.org/resource/Cameroon and the value is : 1
+http://dbpedia.org/resource/Adamawa_Emirate and http://dbpedia.org/resource/Cameroon and the value is : 1
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/Islam and the value is : 0
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/Madrasa and the value is : 1
+http://dbpedia.org/resource/Modibo_Adama and http://dbpedia.org/resource/Cameroon and the value is : 0
+http://dbpedia.org/resource/Islam and http://dbpedia.org/resource/Madrasa and the value is : 0
+http://dbpedia.org/resource/Islam and http://dbpedia.org/resource/Cameroon and the value is : 1
+http://dbpedia.org/resource/Madrasa and http://dbpedia.org/resource/Cameroon and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+modibo adama 18301883 was a west african ruler who founded the adamawa emirate in what is now northeastern nigeria and northern cameroon. he was born in the village of yola in presentday adamawa state nigeria and was a member of the fulani ethnic group. he was a religious leader and a warrior and is credited with unifying the various fulani clans in the region and establishing the adamawa emirate. he was also a successful military leader leading his forces in a number of successful campaigns against the neighboring bantuspeaking peoples. he was a strong advocate of islamic education and is credited with introducing the first islamic schools in the region. he died in 1883 and was succeeded by his son muhammadu barkindo. 
+
+Coref Resolved : 
+modibo adama 18301883 was a west african ruler who founded the adamawa emirate in what is now northeastern nigeria and northern cameroon. modibo adama 18301883 was born in the village of yola in presentday adamawa state nigeria and was a member of the fulani ethnic group. modibo adama 18301883 was a religious leader and a warrior and is credited with unifying the various fulani clans in northeastern nigeria and northern cameroonand establishing the adamawa emirate in what is now northeastern nigeria and northern cameroon. modibo adama 18301883 was also a successful military leader leading modibo adama 18301883 forces in a number of successful campaigns against the neighboring bantuspeaking peoples. modibo adama 18301883 was a strong advocate of islamic education and is credited with introducing the first islamic schools in northeastern nigeria and northern cameroon. modibo adama 18301883 died in 1883 and was succeeded by modibo adama 18301883 son muhammadu barkindo.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.5454545454545454
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate minor_inaccurate minor_inaccurate 
+

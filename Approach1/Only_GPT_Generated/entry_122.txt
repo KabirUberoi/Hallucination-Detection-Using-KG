@@ -1,0 +1,67 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Brian_Petrovek and http://dbpedia.org/resource/Ice_hockey and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Portland_Pirates and the value is : 1
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Ice_hockey and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/American_Hockey_League and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Portland_Pirates and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Ice_hockey and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/American_Hockey_League and the value is : 0
+http://dbpedia.org/resource/Portland_Pirates and http://dbpedia.org/resource/Ice_hockey and the value is : 0
+http://dbpedia.org/resource/Portland_Pirates and http://dbpedia.org/resource/American_Hockey_League and the value is : 0
+http://dbpedia.org/resource/Ice_hockey and http://dbpedia.org/resource/American_Hockey_League and the value is : 1
+http://dbpedia.org/resource/Portland_Pirates and http://dbpedia.org/resource/Ice_hockey and the value is : 0
+http://dbpedia.org/resource/Portland_Pirates and http://dbpedia.org/resource/American_Hockey_League and the value is : 0
+http://dbpedia.org/resource/Portland_Pirates and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Portland_Pirates and http://dbpedia.org/resource/Chief_executive_officer and the value is : 1
+http://dbpedia.org/resource/Ice_hockey and http://dbpedia.org/resource/American_Hockey_League and the value is : 1
+http://dbpedia.org/resource/Ice_hockey and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/Ice_hockey and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/American_Hockey_League and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/American_Hockey_League and http://dbpedia.org/resource/Chief_executive_officer and the value is : 1
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Chief_executive_officer and the value is : 1
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Harvard_University and the value is : 1
+http://dbpedia.org/resource/College_athletics and http://dbpedia.org/resource/Boston_Bruins and the value is : 1
+http://dbpedia.org/resource/College_athletics and http://dbpedia.org/resource/General_manager and the value is : 0
+http://dbpedia.org/resource/Boston_Bruins and http://dbpedia.org/resource/General_manager and the value is : 1
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/Providence_Bruins and the value is : 0
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/Boston_Bruins and the value is : 0
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/American_Hockey_League and the value is : 0
+http://dbpedia.org/resource/Providence_Bruins and http://dbpedia.org/resource/Boston_Bruins and the value is : 0
+http://dbpedia.org/resource/Providence_Bruins and http://dbpedia.org/resource/American_Hockey_League and the value is : 0
+http://dbpedia.org/resource/Boston_Bruins and http://dbpedia.org/resource/American_Hockey_League and the value is : 1
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Portland_Pirates and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Ice_hockey and the value is : 1
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/American_Hockey_League and the value is : 1
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Portland_Pirates and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Ice_hockey and the value is : 1
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/American_Hockey_League and the value is : 0
+http://dbpedia.org/resource/Portland_Pirates and http://dbpedia.org/resource/Ice_hockey and the value is : 1
+http://dbpedia.org/resource/Portland_Pirates and http://dbpedia.org/resource/American_Hockey_League and the value is : 0
+http://dbpedia.org/resource/Ice_hockey and http://dbpedia.org/resource/American_Hockey_League and the value is : 0
+http://dbpedia.org/resource/Portland_Pirates and http://dbpedia.org/resource/Ice_hockey and the value is : 0
+http://dbpedia.org/resource/Portland_Pirates and http://dbpedia.org/resource/American_Hockey_League and the value is : 1
+http://dbpedia.org/resource/Portland_Pirates and http://dbpedia.org/resource/Calder_Cup and the value is : 1
+http://dbpedia.org/resource/Ice_hockey and http://dbpedia.org/resource/American_Hockey_League and the value is : 1
+http://dbpedia.org/resource/Ice_hockey and http://dbpedia.org/resource/Calder_Cup and the value is : 1
+http://dbpedia.org/resource/American_Hockey_League and http://dbpedia.org/resource/Calder_Cup and the value is : 1
+http://dbpedia.org/resource/Portland_Pirates and http://dbpedia.org/resource/Ice_hockey and the value is : 0
+http://dbpedia.org/resource/Portland_Pirates and http://dbpedia.org/resource/American_Hockey_League and the value is : 1
+http://dbpedia.org/resource/Ice_hockey and http://dbpedia.org/resource/American_Hockey_League and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+brian petrovek born october 28 1959 is an american businessman and former professional ice hockey executive. he is the former president and ceo of the portland pirates a professional ice hockey team in the american hockey league ahl. he was also the former owner of the pirates and was the teams president and ceo from 2005 to 2016. petrovek was born in boston massachusetts and attended harvard university where he earned a degree in economics. he began his career in the sports industry in 1982 when he joined the boston bruins as an assistant to the general manager. he was promoted to director of player personnel in 1985 and in 1989 he was named the teams assistant general manager. in 1993 he was named the general manager of the providence bruins the bruins ahl affiliate. in 2005 petrovek was named the president and ceo of the portland pirates and he also became the teams owner. during his tenure the pirates won the ahls calder cup championship in 2014. in 2016 petrovek sold the team to a new ownership group. petrove 
+
+Coref Resolved : 
+brian petrovek born october 28 1959 is an american businessman and former professional ice hockey executive. petrovek is the former president and ceo of the portland pirates a professional ice hockey team in the american hockey league ahl. petrovek was also the former owner of the portland pirates a professional ice hockey team in the american hockey league ahland was the teams president and ceo from 2005 to 2016. petrovek was born in boston massachusetts and attended harvard university where petrovek earned a degree in economics. petrovek began petrovek career in the sports industry in 1982 when petrovek joined the boston bruins as an assistant to the general manager. petrovek was promoted to director of player personnel in 1985 and in 1989 petrovek was named the teams assistant general manager. in 1993 petrovek was named the general manager of the providence bruins the bruins the american hockey league ahlaffiliate. in 2005 petrovek was named the president and ceo of the portland pirates a professional ice hockey team in the american hockey league ahland petrovek also became the teams owner. during petrovek tenure the portland pirates a professional ice hockey team in the american hockey league ahlwon the ahls calder cup championship in 2014. in 2016petrovek sold the portland pirates a professional ice hockey team in the american hockey league ahlto a new ownership group. petrove
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.46
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

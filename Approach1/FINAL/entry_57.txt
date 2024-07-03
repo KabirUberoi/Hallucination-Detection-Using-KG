@@ -1,0 +1,116 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Plant_collecting and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Plant_collecting and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Herbarium and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Herbarium and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Species_description and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Species_description and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Société_botanique_de_France and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/French_Foreign_Legion and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/February_15 and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Lawyer and the value is : 1
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Judge and the value is : 1
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/February_15 and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/February_15 and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/February_15 and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Gaspé,_Quebec and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Liberalism and the value is : 1
+http://dbpedia.org/resource/Gaspé,_Quebec and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/Gaspé,_Quebec and http://dbpedia.org/resource/Liberalism and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and http://dbpedia.org/resource/Liberalism and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Canada_East and the value is : 1
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Ferdinand_I_of_Romania and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Mary_I_of_England and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Ann_Donahue and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Séminaire_de_Québec and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Université_Laval and the value is : 0
+http://dbpedia.org/resource/Canada_East and http://dbpedia.org/resource/Ferdinand_I_of_Romania and the value is : 0
+http://dbpedia.org/resource/Canada_East and http://dbpedia.org/resource/Mary_I_of_England and the value is : 0
+http://dbpedia.org/resource/Canada_East and http://dbpedia.org/resource/Ann_Donahue and the value is : 0
+http://dbpedia.org/resource/Canada_East and http://dbpedia.org/resource/Séminaire_de_Québec and the value is : 0
+http://dbpedia.org/resource/Canada_East and http://dbpedia.org/resource/Université_Laval and the value is : 0
+http://dbpedia.org/resource/Ferdinand_I_of_Romania and http://dbpedia.org/resource/Mary_I_of_England and the value is : 0
+http://dbpedia.org/resource/Ferdinand_I_of_Romania and http://dbpedia.org/resource/Ann_Donahue and the value is : 0
+http://dbpedia.org/resource/Ferdinand_I_of_Romania and http://dbpedia.org/resource/Séminaire_de_Québec and the value is : 0
+http://dbpedia.org/resource/Ferdinand_I_of_Romania and http://dbpedia.org/resource/Université_Laval and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Ann_Donahue and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Séminaire_de_Québec and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Université_Laval and the value is : 0
+http://dbpedia.org/resource/Ann_Donahue and http://dbpedia.org/resource/Séminaire_de_Québec and the value is : 0
+http://dbpedia.org/resource/Ann_Donahue and http://dbpedia.org/resource/Université_Laval and the value is : 0
+http://dbpedia.org/resource/Séminaire_de_Québec and http://dbpedia.org/resource/Université_Laval and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Minnesota and the value is : 1
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Minneapolis and the value is : 0
+http://dbpedia.org/resource/Minnesota and http://dbpedia.org/resource/Minneapolis and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Newspaper and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Minneapolis and the value is : 0
+http://dbpedia.org/resource/Newspaper and http://dbpedia.org/resource/Minneapolis and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Terrebonne_Cobras and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/District_Court_of_New_Zealand and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Terrebonne_Cobras and the value is : 1
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Joliette and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Ottawa and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/District_Court_of_New_Zealand and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Terrebonne_Cobras and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Joliette and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Ottawa and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/District_Court_of_New_Zealand and http://dbpedia.org/resource/Terrebonne_Cobras and the value is : 0
+http://dbpedia.org/resource/District_Court_of_New_Zealand and http://dbpedia.org/resource/Joliette and the value is : 0
+http://dbpedia.org/resource/District_Court_of_New_Zealand and http://dbpedia.org/resource/Ottawa and the value is : 0
+http://dbpedia.org/resource/District_Court_of_New_Zealand and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Terrebonne_Cobras and http://dbpedia.org/resource/Joliette and the value is : 0
+http://dbpedia.org/resource/Terrebonne_Cobras and http://dbpedia.org/resource/Ottawa and the value is : 0
+http://dbpedia.org/resource/Terrebonne_Cobras and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Joliette and http://dbpedia.org/resource/Ottawa and the value is : 0
+http://dbpedia.org/resource/Joliette and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Ottawa and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Quebec_City and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Oscar_(fish) and the value is : 0
+http://dbpedia.org/resource/Rutland_Railroad and http://dbpedia.org/resource/Jules_Joseph_Lefebvre and the value is : 0
+http://dbpedia.org/resource/Oscar_(fish) and http://dbpedia.org/resource/Jules_Joseph_Lefebvre and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+achilleferdinand carrière 18441906 was a french botanist and plant collector. he was born in paris and studied at the école nationale supérieure des beauxarts. he was a professor of botany at the muséum national dhistoire naturelle in paris from 1876 to 1906. carrière was an important figure in the development of botany in france. he was a prolific collector of plants and his collections are held in the herbarium of the muséum national dhistoire naturelle. he was also a prolific author publishing numerous books and articles on botany. he was a member of the société botanique de france and the société nationale dacclimatation de france. he was awarded the legion of honour in 1894. 
+
+Coref Resolved : 
+achilleferdinand carrière 18441906 was a french botanist and plant collector. achilleferdinand carrière was born in paris and studied at the école nationale supérieure des beauxarts. achilleferdinand carrière was a professor of botany at the muséum national dhistoire naturelle in paris from 1876 to 1906. achilleferdinand carrière was an important figure in the development of botany in france. achilleferdinand carrière was a prolific collector of plants and achilleferdinand carrière collections are held in the herbarium of the muséum national dhistoire naturelle in paris . achilleferdinand carrière was also a prolific author publishing numerous books and articles on botany. achilleferdinand carrière was a member of the société botanique de france and the société nationale dacclimatation de france. achilleferdinand carrière was awarded the legion of honour in 1894.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+achilleferdinand carrier february 15 1859 march 21 1930 was a lawyer judge and political figure in quebec. he represented gaspé in the legislative assembly of quebec from 1890 to 1892 as a liberal. he was born in saintroch canada east the son of ferdinand carrier and mary ann donahue and was educated at the séminaire de québec and the université laval. carrier was called to the quebec bar in 1882. he was also a member of the minnesota bar and practised in minneapolis in 1885 and 1886. carrier was the editor of the lécho de louest a frenchcanadian newspaper in minneapolis. he ran unsuccessfully for a seat in the canadian house of commons in 1887. carrier was defeated when he ran for reelection in 1892 he also ran unsuccessfully for the terrebonne seat in 1897. he served as judge in the magistrates court for terrebonne joliette and ottawa districts from 1898 to 1924. carrier died in quebec city at the age of 71. he was the uncle of oscar lefebvre boulanger. 
+
+Coref Resolved : 
+achilleferdinand carrier february 15 1859 march 21 1930 was a lawyer judge and political figure in quebec. achilleferdinand carrier represented gaspé in the legislative assembly of quebecfrom 1890 to 1892 as a liberal. achilleferdinand carrier was born in saintroch canada east the son of ferdinand carrier and mary ann donahue and was educated at the séminaire de québec and the université laval. achilleferdinand carrier was called to the quebecbar in 1882. achilleferdinand carrier was also a member of the minnesota bar and practised in minneapolis in 1885 and 1886. achilleferdinand carrier was the editor of the lécho de louest a frenchcanadian newspaper in minneapolis . achilleferdinand carrier ran unsuccessfully for a seat in the canadian house of commons in 1887. achilleferdinand carrier was defeated when achilleferdinand carrier ran for reelection in 1892 achilleferdinand carrier also ran unsuccessfully for the terrebonne seat in 1897. achilleferdinand carrier served as judge in the magistrates court for terrebonne joliette and ottawa districts from 1898 to 1924. achilleferdinand carrier died in quebec city at the age of 71. achilleferdinand carrier was the uncle of oscar lefebvre boulanger.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0 and for ground truth is : 0.08695652173913043
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

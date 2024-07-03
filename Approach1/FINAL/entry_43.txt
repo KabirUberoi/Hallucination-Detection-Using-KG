@@ -1,0 +1,100 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haiti and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Sculpture and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Sculpture and the value is : 0
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Sculpture and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haiti and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Culture_of_Haiti and the value is : 0
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Culture_of_Haiti and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haiti and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haiti and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Paris and the value is : 1
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haiti and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Darts and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Darts and the value is : 0
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Paris and the value is : 1
+http://dbpedia.org/resource/Darts and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Darts and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haiti and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Culture_of_Haiti and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Myth and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Culture_of_Haiti and the value is : 1
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Myth and the value is : 0
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Culture_of_Haiti and http://dbpedia.org/resource/Myth and the value is : 1
+http://dbpedia.org/resource/Culture_of_Haiti and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Myth and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haiti and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Emotion and the value is : 0
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Emotion and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haiti and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haiti and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haitian_art and the value is : 0
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Haitian_art and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haiti and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Graphic_design and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Graphic_design and the value is : 0
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Graphic_design and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Potomitan and http://dbpedia.org/resource/Art_school and the value is : 0
+http://dbpedia.org/resource/Potomitan and http://dbpedia.org/resource/Tiga_Race_Cars and the value is : 0
+http://dbpedia.org/resource/Potomitan and http://dbpedia.org/resource/Saint_Casimir and the value is : 0
+http://dbpedia.org/resource/Art_school and http://dbpedia.org/resource/Tiga_Race_Cars and the value is : 0
+http://dbpedia.org/resource/Art_school and http://dbpedia.org/resource/Saint_Casimir and the value is : 0
+http://dbpedia.org/resource/Tiga_Race_Cars and http://dbpedia.org/resource/Saint_Casimir and the value is : 0
+http://dbpedia.org/resource/Page_layout and http://dbpedia.org/resource/Audiovisual and the value is : 0
+http://dbpedia.org/resource/Page_layout and http://dbpedia.org/resource/Graphic_arts and the value is : 0
+http://dbpedia.org/resource/Audiovisual and http://dbpedia.org/resource/Graphic_arts and the value is : 0
+http://dbpedia.org/resource/Bordeaux_wine and http://dbpedia.org/resource/Pedagogy and the value is : 0
+http://dbpedia.org/resource/Bordeaux_wine and http://dbpedia.org/resource/Graphic_design and the value is : 0
+http://dbpedia.org/resource/Pedagogy and http://dbpedia.org/resource/Graphic_design and the value is : 0
+http://dbpedia.org/resource/Rotary_International and http://dbpedia.org/resource/Haiti and the value is : 1
+http://dbpedia.org/resource/Rotary_International and http://dbpedia.org/resource/Culture_of_Haiti and the value is : 0
+http://dbpedia.org/resource/Haiti and http://dbpedia.org/resource/Culture_of_Haiti and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Jewellery_design and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Coil_spring and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Contemporary_art and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Secondary_school and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/University_of_Miami and the value is : 0
+http://dbpedia.org/resource/Coil_spring and http://dbpedia.org/resource/Contemporary_art and the value is : 0
+http://dbpedia.org/resource/Coil_spring and http://dbpedia.org/resource/Secondary_school and the value is : 0
+http://dbpedia.org/resource/Coil_spring and http://dbpedia.org/resource/University_of_Miami and the value is : 1
+http://dbpedia.org/resource/Contemporary_art and http://dbpedia.org/resource/Secondary_school and the value is : 0
+http://dbpedia.org/resource/Contemporary_art and http://dbpedia.org/resource/University_of_Miami and the value is : 0
+http://dbpedia.org/resource/Secondary_school and http://dbpedia.org/resource/University_of_Miami and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+philippe dodard born in 1954 in portauprince haiti is a haitian artist sculptor and painter. he is known for his vibrant and colorful works that often depict haitian culture and history. he is considered one of the most important contemporary haitian artists. dodard studied at the école des beauxarts in portauprince and the école des beauxarts in paris. he has exhibited his work in numerous galleries and museums around the world including the centre dart in portauprince the museum of modern art in new york and the musée dart moderne in paris. dodards work is often inspired by haitian folklore and mythology as well as the countrys history and culture. he often uses bright colors and bold shapes to create powerful images that evoke emotion and tell stories. he has also created sculptures and installations that explore the relationship between art and nature. dodards work has been featured in several books and publications including the book haitian art the legacy of philippe dod 
+
+Coref Resolved : 
+philippe dodard born in 1954 in portauprince haiti is a haitian artist sculptor and painter. philippe dodard born in 1954 in portauprince haiti is known for philippe dodard born in 1954 in portauprince haiti vibrant and colorful works that often depict haitian culture and history. philippe dodard born in 1954 in portauprince haiti is considered one of the most important contemporary haitian artists. philippe dodard born in 1954 in portauprince haiti studied at the école des beauxarts in portauprince haiti and the école des beauxarts in paris. philippe dodard born in 1954 in portauprince haiti has exhibited philippe dodard born in 1954 in portauprince haiti work in numerous galleries and museums around the world including the centre dart in portauprince haiti the museum of modern art in new york and the musée dart moderne in paris. philippe dodard born in 1954 in portauprince haiti work is often inspired by haitian folklore and mythology as well as the countrys history and culture. philippe dodard born in 1954 in portauprince haiti often uses bright colors and bold shapes to create powerful images that evoke emotion and tell stories. philippe dodard born in 1954 in portauprince haiti has also created sculptures and installations that explore the relationship between art and nature. philippe dodard born in 1954 in portauprince haiti work has been featured in several books and publications including the book haitian art the legacy of philippe dodard born in 1954 in portauprince haiti 
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+philippe dodard born 1954 is a haitian graphic artist and painter. born in portauprince dodard worked as an advertising illustrator. his works have been exhibited throughout europe and the americas. he received the first prize in drawing at the junior seminary of stmartials college in 1966. he studied at the potomitan art school with jeanclaude tiga garoute patrick vilaire and frido casimir. in 1973 he entered the academy of fine arts. he then worked as a layout artist and founded a studio of audiovisual graphic arts. in 1978 he received a scholarship to the international school in bordeaux france enabling him to specialize in pedagogic graphic design. two years later he received a scholarship from the rotary international foundation and left on tour with the group study exchange of haiti to give conferences on haitian culture. his artwork has evolved to include large sculptures fine iron works and fine jewelry design. his paintings have inspired american fashion designer donna karans 2012 spring collection and a joint exhibition with her at the museum of contemporary art north miami in miami florida. 
+
+Coref Resolved : 
+philippe dodard born 1954 is a haitian graphic artist and painter. born in portauprince dodard worked as an advertising illustrator. dodard works have been exhibited throughout europe and the americas. dodard received the first prize in drawing at the junior seminary of stmartials college in 1966. dodard studied at the potomitan art school with jeanclaude tiga garoute patrick vilaire and frido casimir. in 1973 dodard entered the academy of fine arts. dodard then worked as a layout artist and founded a studio of audiovisual graphic arts. in 1978 dodard received a scholarship to the international school in bordeaux france enabling dodard to specialize in pedagogic graphic design. two years later dodard received a scholarship from the rotary international foundation and left on tour with the group study exchange of haiti to give conferences on haitian culture. dodard artwork has evolved to include large sculptures fine iron works and fine jewelry design. dodard paintings have inspired american fashion designer donna karans 2012 spring collection and a joint exhibition with american fashion designer donna karans at the museum of contemporary art north miami in miami florida.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3 and for ground truth is : 0.0625
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate 
+

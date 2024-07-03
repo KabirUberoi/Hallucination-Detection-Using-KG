@@ -1,0 +1,91 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Conducting and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Conducting and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Conducting and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Intrauterine_growth_restriction and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Intrauterine_growth_restriction and http://dbpedia.org/resource/Łańcut and the value is : 0
+http://dbpedia.org/resource/Intrauterine_growth_restriction and http://dbpedia.org/resource/Poland and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Łańcut and the value is : 1
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Poland and the value is : 0
+http://dbpedia.org/resource/Łańcut and http://dbpedia.org/resource/Poland and the value is : 1
+http://dbpedia.org/resource/Lviv_Conservatory and http://dbpedia.org/resource/Fryderyk_Chopin_University_of_Music and the value is : 0
+http://dbpedia.org/resource/Lviv_Conservatory and http://dbpedia.org/resource/Conservatoire_de_Paris and the value is : 1
+http://dbpedia.org/resource/Fryderyk_Chopin_University_of_Music and http://dbpedia.org/resource/Conservatoire_de_Paris and the value is : 1
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Fryderyk_Chopin_University_of_Music and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Composer and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Chamber_music and the value is : 1
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Chamber_music and the value is : 1
+http://dbpedia.org/resource/Conducting and http://dbpedia.org/resource/Warsaw_National_Philharmonic_Orchestra and the value is : 1
+http://dbpedia.org/resource/Music_of_Poland and http://dbpedia.org/resource/Second_Polish_Republic and the value is : 0
+http://dbpedia.org/resource/Witold_Lutosławski and http://dbpedia.org/resource/Andrzej_Panufnik and the value is : 1
+http://dbpedia.org/resource/Witold_Lutosławski and http://dbpedia.org/resource/Roman_Palester and the value is : 1
+http://dbpedia.org/resource/Andrzej_Panufnik and http://dbpedia.org/resource/Roman_Palester and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Composer and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Teacher and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Teacher and the value is : 1
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Teacher and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Teacher and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Ivan_Mazepa and http://dbpedia.org/resource/Violin and the value is : 0
+http://dbpedia.org/resource/Ivan_Mazepa and http://dbpedia.org/resource/Chamber_music and the value is : 0
+http://dbpedia.org/resource/Ivan_Mazepa and http://dbpedia.org/resource/Choir and the value is : 0
+http://dbpedia.org/resource/Violin and http://dbpedia.org/resource/Chamber_music and the value is : 0
+http://dbpedia.org/resource/Violin and http://dbpedia.org/resource/Choir and the value is : 1
+http://dbpedia.org/resource/Chamber_music and http://dbpedia.org/resource/Choir and the value is : 1
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Vilnius and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Lublin and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Poznań and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Warsaw and the value is : 1
+http://dbpedia.org/resource/Vilnius and http://dbpedia.org/resource/Lublin and the value is : 0
+http://dbpedia.org/resource/Vilnius and http://dbpedia.org/resource/Poznań and the value is : 0
+http://dbpedia.org/resource/Vilnius and http://dbpedia.org/resource/Warsaw and the value is : 0
+http://dbpedia.org/resource/Lublin and http://dbpedia.org/resource/Poznań and the value is : 0
+http://dbpedia.org/resource/Lublin and http://dbpedia.org/resource/Warsaw and the value is : 0
+http://dbpedia.org/resource/Poznań and http://dbpedia.org/resource/Warsaw and the value is : 1
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Kurier_Wileński and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Kurier and the value is : 0
+http://dbpedia.org/resource/Kurier_Wileński and http://dbpedia.org/resource/Kurier and the value is : 0
+http://dbpedia.org/resource/Poznań_Philharmonic and http://dbpedia.org/resource/Poznań and the value is : 1
+http://dbpedia.org/resource/Poznań_Philharmonic and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+http://dbpedia.org/resource/Poznań_Philharmonic and http://dbpedia.org/resource/Mineral_spring and the value is : 0
+http://dbpedia.org/resource/Poznań_Philharmonic and http://dbpedia.org/resource/Contemporary_classical_music and the value is : 0
+http://dbpedia.org/resource/Poznań and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+http://dbpedia.org/resource/Poznań and http://dbpedia.org/resource/Mineral_spring and the value is : 1
+http://dbpedia.org/resource/Poznań and http://dbpedia.org/resource/Contemporary_classical_music and the value is : 1
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Mineral_spring and the value is : 0
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Contemporary_classical_music and the value is : 0
+http://dbpedia.org/resource/Mineral_spring and http://dbpedia.org/resource/Contemporary_classical_music and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tadeusz szeligowski 18961963 polish composer conductor music teacher . born small town łańcut southeastern poland . studied lviv conservatory warsaw conservatory later paris conservatory . professor warsaw conservatory 1929 1939 . szeligowski prolific composer writing variety genres including symphonies concertos chamber music vocal works . conductor conducted warsaw philharmonic orchestra 1932 1939 . important figure development polish music interwar period works performed countries . noted teacher students included witold lutosławski andrzej panufnik roman palester . died warsaw 1963 . 
+
+Coref Resolved : 
+tadeusz szeligowski 18961963 polish composer conductor music teacher . born small town łańcut southeastern poland . studied lviv conservatory warsaw conservatory later paris conservatory . professor warsaw conservatory 1929 1939 . tadeusz szeligowski prolific composer writing variety genres including symphonies concertos chamber music vocal works . conductor conducted warsaw philharmonic orchestra 1932 1939 . important figure development polish music interwar period works performed countries . noted teacher students included witold lutosławski andrzej panufnik roman palester . died warsaw 1963 .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+tadeusz szeligowski 13 september 1896 10 january 1963 polish composer educator lawyer music organizer . works include operas rise scholars krakatuk theodor gentlemen ballets peacock girl mazepa ballets violin concertos chamber choral works . music teacher established vilnius lublin poznań warsaw . respected music writer frequently wrote journals magazines specialized music kurier wileński tygodnik wileński muzyka kurier poznański . achievements include creation poznań philharmonic served director 1947 1949 founding poznań musical spring important festivals contemporary music time . 
+
+Coref Resolved : 
+tadeusz szeligowski 13 september 1896 10 january 1963 polish composer educator lawyer music organizer . works include operas rise scholars krakatuk theodor gentlemen ballets peacock girl mazepa ballets violin concertos chamber choral works . music teacher established vilnius lublin poznań warsaw . respected music writer frequently wrote journals magazines specialized music kurier wileński tygodnik wileński muzyka kurier poznański . achievements include creation poznań philharmonic served director 1947 1949 founding poznań musical spring important festivals contemporary music time .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.4166666666666667 and for ground truth is : 0.2564102564102564
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

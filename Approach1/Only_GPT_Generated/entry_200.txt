@@ -1,0 +1,31 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Lester_Germer and http://dbpedia.org/resource/Physicist and the value is : 0
+http://dbpedia.org/resource/Lester_Germer and http://dbpedia.org/resource/Nobel_Prize_in_Physics and the value is : 1
+http://dbpedia.org/resource/Physicist and http://dbpedia.org/resource/Nobel_Prize_in_Physics and the value is : 0
+http://dbpedia.org/resource/Cryogenics and http://dbpedia.org/resource/Liquefaction_of_gases and the value is : 1
+http://dbpedia.org/resource/Cryogenics and http://dbpedia.org/resource/Liquid_helium and the value is : 0
+http://dbpedia.org/resource/Liquefaction_of_gases and http://dbpedia.org/resource/Liquid_helium and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 1
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Nobel_Prize_in_Physics and http://dbpedia.org/resource/Columbia_University and the value is : 1
+http://dbpedia.org/resource/Bell_Labs and http://dbpedia.org/resource/Nobel_Prize_in_Physics and the value is : 1
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Nobel_Prize_in_Physics and the value is : 1
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Columbia_University and the value is : 0
+http://dbpedia.org/resource/Nobel_Prize_in_Physics and http://dbpedia.org/resource/Columbia_University and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+lester germer 18961971 was an american physicist who is best known for his work in the field of lowtemperature physics. he was a pioneer in the development of the field of cryogenics and was the first to liquefy helium in the united states. he was also a key figure in the development of the electron microscope. germer was born in new york city and received his ph.d. in physics from columbia university in 1921. he worked at bell laboratories from 1921 to 1956 where he made significant contributions to the development of the electron microscope and the study of lowtemperature physics. he was also a professor of physics at columbia university from 1956 to 1971. germer was a member of the national academy of sciences and the american philosophical society. he was awarded the national medal of science in 1966. 
+
+Coref Resolved : 
+lester germer 18961971 was an american physicist who is best known for germer work in the field of lowtemperature physics. germer was a pioneer in the development of the field of cryogenics and was the first to liquefy helium in the united states. germer was also a key figure in the development of the electron microscope. germer was born in new york city and received germer ph.d. in physics from columbia university in 1921. germer worked at bell laboratories from 1921to 1956 where germer made significant contributions to the development of the electron microscopeand the study of lowtemperature physics. germer was also a professor of physics at columbia university from 1956 to 1971. germer was a member of the national academy of sciences and the american philosophical society. germer was awarded the national medal of science in 1966.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.42857142857142855
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate major_inaccurate accurate major_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate 
+

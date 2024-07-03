@@ -1,0 +1,188 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/American_Beauty_(1999_film) and the value is : 1
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Detroit and the value is : 1
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Michigan and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/American_Beauty_(1999_film) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Detroit and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Michigan and the value is : 0
+http://dbpedia.org/resource/American_Beauty_(1999_film) and http://dbpedia.org/resource/Detroit and the value is : 0
+http://dbpedia.org/resource/American_Beauty_(1999_film) and http://dbpedia.org/resource/Michigan and the value is : 0
+http://dbpedia.org/resource/Detroit and http://dbpedia.org/resource/Michigan and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Mona_Grudt and the value is : 1
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/Mona_Grudt and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Mona_Grudt and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Shawn_Weatherly and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Mona_Grudt and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Shawn_Weatherly and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Shawn_Weatherly and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Shawn_Weatherly and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Shawn_Weatherly and the value is : 0
+http://dbpedia.org/resource/Mona_Grudt and http://dbpedia.org/resource/Shawn_Weatherly and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Host_model and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/African_Americans and the value is : 0
+http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and http://dbpedia.org/resource/Host_model and the value is : 0
+http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and http://dbpedia.org/resource/African_Americans and the value is : 0
+http://dbpedia.org/resource/Host_model and http://dbpedia.org/resource/African_Americans and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Michigan and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Wichita_State_Shockers_football and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Kansas_Jayhawks_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and http://dbpedia.org/resource/Michigan and the value is : 0
+http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and http://dbpedia.org/resource/Wichita_State_Shockers_football and the value is : 0
+http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and http://dbpedia.org/resource/Kansas_Jayhawks_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Michigan and http://dbpedia.org/resource/Wichita_State_Shockers_football and the value is : 0
+http://dbpedia.org/resource/Michigan and http://dbpedia.org/resource/Kansas_Jayhawks_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Wichita_State_Shockers_football and http://dbpedia.org/resource/Kansas_Jayhawks_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs_football and http://dbpedia.org/resource/Brenda_Leithleiter and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs_football and http://dbpedia.org/resource/Alaska and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs_football and http://dbpedia.org/resource/Elizabeth_Meyer and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs_football and http://dbpedia.org/resource/Kentucky_Wildcats and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs_football and http://dbpedia.org/resource/Tiffany_Darwish and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs_football and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs_football and http://dbpedia.org/resource/Gina_Tolleson and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs_football and http://dbpedia.org/resource/Carol_(music) and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs_football and http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and the value is : 0
+http://dbpedia.org/resource/Brenda_Leithleiter and http://dbpedia.org/resource/Alaska and the value is : 0
+http://dbpedia.org/resource/Brenda_Leithleiter and http://dbpedia.org/resource/Elizabeth_Meyer and the value is : 0
+http://dbpedia.org/resource/Brenda_Leithleiter and http://dbpedia.org/resource/Kentucky_Wildcats and the value is : 0
+http://dbpedia.org/resource/Brenda_Leithleiter and http://dbpedia.org/resource/Tiffany_Darwish and the value is : 0
+http://dbpedia.org/resource/Brenda_Leithleiter and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/Brenda_Leithleiter and http://dbpedia.org/resource/Gina_Tolleson and the value is : 0
+http://dbpedia.org/resource/Brenda_Leithleiter and http://dbpedia.org/resource/Carol_(music) and the value is : 0
+http://dbpedia.org/resource/Brenda_Leithleiter and http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and the value is : 0
+http://dbpedia.org/resource/Alaska and http://dbpedia.org/resource/Elizabeth_Meyer and the value is : 0
+http://dbpedia.org/resource/Alaska and http://dbpedia.org/resource/Kentucky_Wildcats and the value is : 0
+http://dbpedia.org/resource/Alaska and http://dbpedia.org/resource/Tiffany_Darwish and the value is : 0
+http://dbpedia.org/resource/Alaska and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/Alaska and http://dbpedia.org/resource/Gina_Tolleson and the value is : 0
+http://dbpedia.org/resource/Alaska and http://dbpedia.org/resource/Carol_(music) and the value is : 0
+http://dbpedia.org/resource/Alaska and http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and the value is : 0
+http://dbpedia.org/resource/Elizabeth_Meyer and http://dbpedia.org/resource/Kentucky_Wildcats and the value is : 0
+http://dbpedia.org/resource/Elizabeth_Meyer and http://dbpedia.org/resource/Tiffany_Darwish and the value is : 0
+http://dbpedia.org/resource/Elizabeth_Meyer and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/Elizabeth_Meyer and http://dbpedia.org/resource/Gina_Tolleson and the value is : 0
+http://dbpedia.org/resource/Elizabeth_Meyer and http://dbpedia.org/resource/Carol_(music) and the value is : 0
+http://dbpedia.org/resource/Elizabeth_Meyer and http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and the value is : 0
+http://dbpedia.org/resource/Kentucky_Wildcats and http://dbpedia.org/resource/Tiffany_Darwish and the value is : 0
+http://dbpedia.org/resource/Kentucky_Wildcats and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/Kentucky_Wildcats and http://dbpedia.org/resource/Gina_Tolleson and the value is : 0
+http://dbpedia.org/resource/Kentucky_Wildcats and http://dbpedia.org/resource/Carol_(music) and the value is : 0
+http://dbpedia.org/resource/Kentucky_Wildcats and http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and the value is : 0
+http://dbpedia.org/resource/Tiffany_Darwish and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/Tiffany_Darwish and http://dbpedia.org/resource/Gina_Tolleson and the value is : 0
+http://dbpedia.org/resource/Tiffany_Darwish and http://dbpedia.org/resource/Carol_(music) and the value is : 0
+http://dbpedia.org/resource/Tiffany_Darwish and http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and the value is : 0
+http://dbpedia.org/resource/South_Carolina and http://dbpedia.org/resource/Gina_Tolleson and the value is : 0
+http://dbpedia.org/resource/South_Carolina and http://dbpedia.org/resource/Carol_(music) and the value is : 0
+http://dbpedia.org/resource/South_Carolina and http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and the value is : 0
+http://dbpedia.org/resource/Gina_Tolleson and http://dbpedia.org/resource/Carol_(music) and the value is : 0
+http://dbpedia.org/resource/Gina_Tolleson and http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Mona_Grudt and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Mona_Grudt and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Norway and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Michigan and the value is : 0
+http://dbpedia.org/resource/Carol_(music) and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and http://dbpedia.org/resource/Michigan and the value is : 0
+http://dbpedia.org/resource/Gastrointestinal_stromal_tumor and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Michigan and http://dbpedia.org/resource/Texas and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+carole gist born april 28 1969 is an american beauty pageant titleholder from detroit michigan who was crowned miss usa 1990. she was the first africanamerican woman to win the miss usa title. gist represented the united states at the miss universe 1990 pageant held in los angeles california where she placed first runnerup to mona grudt of norway. gist was the first africanamerican woman to place in the miss universe pageant. she is also the first miss usa to place in the miss universe pageant since shawn weatherly in 1980. 
+
+Coref Resolved : 
+carole gist born april 28 1969 is an american beauty pageant titleholder from detroit michigan who was crowned miss usa 1990. carole gist born april 28 1969 was the first africanamerican woman to win miss usa 1990. carole gist born april 28 1969 represented the united states at the miss universe 1990 pageant held in los angeles california where carole gist born april 28 1969 placed first runnerup to mona grudt of norway. carole gist born april 28 1969 was the first africanamerican woman to place in the miss universe 1990 pageant held in los angeles california where she placed first runnerup to mona grudt of norway. carole gist born april 28 1969 is also the first miss usa to place in the miss universe 1990 pageant held in los angeles california where she placed first runnerup to mona grudt of norwaysince shawn weatherly in 1980.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+carole annemarie gist born may 8 1969 is an american tv host model and the first african american woman to win the miss usa title. gist first won the title of miss michigan usa and went on to win the miss usa crown on march 2 1990 in wichita kansas. the 1990 pageant had representatives from georgia brenda leithleiter alaska karin elizabeth meyer kentucky tiffany tenfelde south carolina gina tolleson who as 1st runnerup then went on to represent the country at the miss world pageant winning the title and karin hartz of new jersey making up with gist the top 6 finalists. gist a detroit native 20 years old at the time eventually became first runnerup to mona grudt of norway in the miss universe pageant of that same year. she was also the first contestant from michigan to win miss usa and broke the fiveyear streak of winners from texas. 
+
+Coref Resolved : 
+carole annemarie gist born may 8 1969 is an american tv host model and the first african american woman to win the miss usa title. carole annemarie gist born may 8 1969 first won the title of miss michigan usa and went on to win the miss usa titleon march 2 that same yearin wichita kansas. the that same yearpageant had representatives from georgia brenda leithleiter alaska karin elizabeth meyer kentucky tiffany tenfelde south carolina gina tolleson who as 1st runnerup then went on to represent the country at the miss world pageant winning the title and karin hartz of new jersey making up with carole annemarie gist born may 8 1969 the top 6 finalists. carole annemarie gist born may 8 1969 eventually became first runnerup to mona grudt of norway in the miss universe pageant of that same year. carole annemarie gist born may 8 1969 was also the first contestant from michigan to win the miss usa titleand broke the fiveyear streak of winners from texas.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.12048192771084337 and for ground truth is : 0.0
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate major_inaccurate 
+

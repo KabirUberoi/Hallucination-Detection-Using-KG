@@ -1,0 +1,88 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/French_language and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Plant_collecting and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Beaux-Arts_de_Paris and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/National_Museum_of_Natural_History,_France and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/France and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Herbarium and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/National_Museum_of_Natural_History,_France and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/Société_botanique_de_France and the value is : 0
+http://dbpedia.org/resource/Eugène_Carrière and http://dbpedia.org/resource/France and the value is : 0
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Achille-Ferdinand Carrière (1844 1906) was a French botanist and plant collector.
+He was born in Paris and studied at the École Nationale Supérieure des Beaux-Arts.
+He was a professor of botany at the Muséum National d'Histoire Naturelle in Paris from 1876 to 1906.
+Carrière was an important figure in the development of botany in France.
+He was a prolific collector of plants, and his collections are held in the herbarium of the Muséum National d'Histoire Naturelle.
+He was also a prolific author, publishing numerous books and articles on botany.
+He was a member of the Société Botanique de France and the Société Nationale d'Acclimatation de France.
+He was awarded the Legion of Honour in 1894.
+
+
+Coref Resolved: 
+
+Achille-Ferdinand Carrière (1844 1906) was a French botanist and plant collector.
+Achille-Ferdinand Carrière was born in Paris and studied at the École Nationale Supérieure des Beaux-Arts.
+Achille-Ferdinand Carrière was a professor of botany at the Muséum National d'Histoire Naturelle in Paris from 1876 to 1906.
+Achille-Ferdinand Carrière was an important figure in the development of botany in France.
+Achille-Ferdinand Carrière was a prolific collector of plants, and Achille-Ferdinand Carrière collections are held in the herbarium of the Muséum National d'Histoire Naturelle in Paris .
+Achille-Ferdinand Carrière was also a prolific author, publishing numerous books and articles on botany.
+Achille-Ferdinand Carrière was a member of the Société Botanique de France and the Société Nationale d'Acclimatation de France.
+Achille-Ferdinand Carrière was awarded the Legion of Honour in 1894.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Achille-Ferdinand Carrier (February 15, 1859 - March 21, 1930) was a lawyer, judge, and political figure in Quebec.
+He represented Gaspé in the Legislative Assembly of Quebec from 1890 to 1892 as a Liberal.
+He was born in Saint-Roch, Canada East, the son of Ferdinand Carrier and Mary Ann Donahue, and was educated at the Séminaire de Québec and the Université Laval.
+Carrier was called to the Quebec bar in 1882.
+He was also a member of the Minnesota bar and practised in Minneapolis in 1885 and 1886.
+Carrier was the editor of the "L'Écho de l'Ouest", a French-Canadian newspaper in Minneapolis.
+He ran unsuccessfully for a seat in the Canadian House of Commons in 1887.
+Carrier was defeated when he ran for reelection in 1892 he also ran unsuccessfully for the Terrebonne seat in 1897.
+He served as judge in the Magistrate's Court for Terrebonne, Joliette and Ottawa districts from 1898 to 1924.
+Carrier died in Quebec City at the age of 71.
+He was the uncle of Oscar Lefebvre Boulanger.
+ 
+
+Coref Resolved: 
+
+Achille-Ferdinand Carrier (February 15, 1859 - March 21, 1930) was a lawyer, judge, and political figure in Quebec.
+Achille-Ferdinand Carrier represented Gaspé in the Legislative Assembly of Quebecfrom 1890 to 1892 as a Liberal.
+Achille-Ferdinand Carrier was born in Saint-Roch, Canada East, the son of Ferdinand Carrier and Mary Ann Donahue, and was educated at the Séminaire de Québec and the Université Laval.
+Achille-Ferdinand Carrier was called to the Quebecbar in 1882.
+Achille-Ferdinand Carrier was also a member of the Minnesota bar and practised in Minneapolis in 1885 and 1886.
+Achille-Ferdinand Carrier was the editor of the "L'Écho de l'Ouest", a French-Canadian newspaper in Minneapolis .
+Achille-Ferdinand Carrier ran unsuccessfully for a seat in the Canadian House of Commons in 1887.
+Achille-Ferdinand Carrier was defeated when Achille-Ferdinand Carrier ran for reelection in 1892 Achille-Ferdinand Carrier also ran unsuccessfully for the Terrebonne seat in 1897.
+Achille-Ferdinand Carrier served as judge in the Magistrate's Court for Terrebonne , Joliette and Ottawa districts from 1898 to 1924.
+Achille-Ferdinand Carrier died in Quebec City at the age of 71.
+Achille-Ferdinand Carrier was the uncle of Oscar Lefebvre Boulanger.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

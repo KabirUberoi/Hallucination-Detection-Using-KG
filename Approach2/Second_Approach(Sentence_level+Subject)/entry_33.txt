@@ -1,0 +1,72 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Adja Yunkers (1921 1983) was a Latvian-born American artist and designer.
+He was born in Riga, Latvia, and studied at the Academy of Fine Arts in Riga.
+He moved to the United States in 1949 and settled in New York City.
+Yunkers was a prolific artist, working in a variety of media including painting, sculpture, photography, and printmaking.
+He was also a noted designer, creating furniture, textiles, and jewelry.
+His work was often abstract and geometric, and he was a pioneer of the Op Art movement.
+Yunkers was a member of the American Abstract Artists group and exhibited widely in the United States and Europe.
+He was also a professor of art at the Pratt Institute in Brooklyn, New York.
+
+
+Coref Resolved: 
+
+Adja Yunkers (1921 1983) was a Latvian-born American artist and designer.
+Adja Yunkers was born in Riga, Latvia, and studied at the Academy of Fine Arts in Riga, Latvia.
+Adja Yunkers moved to the United States in 1949 and settled in New York City.
+Adja Yunkers was a prolific artist, working in a variety of media including painting, sculpture, photography, and printmaking.
+Adja Yunkers was also a noted designer, creating furniture, textiles, and jewelry.
+Adja Yunkers work was often abstract and geometric, and Adja Yunkers was a pioneer of the Op Art movement.
+Adja Yunkers was a member of the American Abstract Artists group and exhibited widely in the United States and Europe.
+Adja Yunkers was also a professor of art at the Pratt Institute in Brooklyn, New York.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Adja Yunkers (1900 1983) was an American abstract painter and printmaker.
+He was born in Riga, Governorate of Livonia, Russian Empire in 1900.
+He studied art in Leningrad, Berlin, Paris, and London.
+He lived in Paris for 14 years, and then moved to Stockholm in 1939.
+In Stockholm, he published and edited the art magazines Ars Magazine and Creation Magazine.
+In 1947, he moved to the United States, where he lived for the rest of his life.
+In 1949, he received a Guggenheim Fellowship.
+During the 1950s, he primarily worked in color woodcuts, introducing brushwork into the genre.
+In 1960, he began producing lithographs.
+He produced two important series of lithographs at the Tamarind Lithography Workshop in Los Angeles "Salt" (five lithographs) and "Skies of Venice" (ten lithographs).
+Yunkers died in New York City in 1983.
+ 
+
+Coref Resolved: 
+
+Adja Yunkers (1900 1983) was an American abstract painter and printmaker.
+Adja Yunkers (1900 1983) was born in Riga, Governorate of Livonia, Russian Empire in 1900.
+Adja Yunkers (1900 1983) studied art in Leningrad, Berlin, Paris, and London.
+Adja Yunkers (1900 1983) lived in Parisfor 14 years, and then moved to Stockholm in 1939.
+In Stockholm , Adja Yunkers (1900 1983) published and edited the art magazines Ars Magazine and Creation Magazine.
+In 1947, Adja Yunkers (1900 1983) moved to the United States, where Adja Yunkers (1900 1983) lived for the rest of Adja Yunkers (1900 1983) life.
+In 1949, Adja Yunkers (1900 1983) received a Guggenheim Fellowship.
+During the 1950s, Adja Yunkers (1900 1983) primarily worked in color woodcuts, introducing brushwork into the genre.
+In 1960, Adja Yunkers (1900 1983) began producing lithographs.
+Adja Yunkers (1900 1983) produced two important series of lithographs at the Tamarind Lithography Workshop in Los Angeles "Salt" (five lithographs) and "Skies of Venice" (ten lithographs).
+Adja Yunkers (1900 1983) died in New York City in 1983.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 -1 -1 -1 -1 -1 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

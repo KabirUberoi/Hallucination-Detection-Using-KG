@@ -1,0 +1,117 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/The_American_Lawyer and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+http://dbpedia.org/resource/Continental_Congress and http://dbpedia.org/resource/Independence and the value is : 1
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Colonial_Williamsburg and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Colony_of_Virginia and the value is : 1
+http://dbpedia.org/resource/Colonial_Williamsburg and http://dbpedia.org/resource/Colony_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Mary_II_of_England and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Continental_Congress and the value is : 0
+http://dbpedia.org/resource/Independence and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Independence and http://dbpedia.org/resource/Confederate_States_of_America and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Confederate_States_of_America and the value is : 0
+http://dbpedia.org/resource/American_Revolution and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/American_Revolution and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+http://dbpedia.org/resource/American_Revolution and http://dbpedia.org/resource/Legislature and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Legislature and the value is : 0
+http://dbpedia.org/resource/Province_of_South_Carolina and http://dbpedia.org/resource/Legislature and the value is : 0
+http://dbpedia.org/resource/Hi-hat and http://dbpedia.org/resource/Province_of_South_Carolina and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/Waxhaws and http://dbpedia.org/resource/Human_settlement and the value is : 0
+http://dbpedia.org/resource/Waxhaws and http://dbpedia.org/resource/Lancaster_County,_Pennsylvania and the value is : 1
+http://dbpedia.org/resource/Waxhaws and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/Waxhaws and http://dbpedia.org/resource/SAR-Lupe and the value is : 0
+http://dbpedia.org/resource/Waxhaws and http://dbpedia.org/resource/Frederick_Douglass and the value is : 0
+http://dbpedia.org/resource/Waxhaws and http://dbpedia.org/resource/William_Blair_(judge) and the value is : 0
+http://dbpedia.org/resource/Human_settlement and http://dbpedia.org/resource/Lancaster_County,_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Human_settlement and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/Human_settlement and http://dbpedia.org/resource/SAR-Lupe and the value is : 0
+http://dbpedia.org/resource/Human_settlement and http://dbpedia.org/resource/Frederick_Douglass and the value is : 0
+http://dbpedia.org/resource/Human_settlement and http://dbpedia.org/resource/William_Blair_(judge) and the value is : 0
+http://dbpedia.org/resource/Lancaster_County,_Pennsylvania and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/Lancaster_County,_Pennsylvania and http://dbpedia.org/resource/SAR-Lupe and the value is : 0
+http://dbpedia.org/resource/Lancaster_County,_Pennsylvania and http://dbpedia.org/resource/Frederick_Douglass and the value is : 0
+http://dbpedia.org/resource/Lancaster_County,_Pennsylvania and http://dbpedia.org/resource/William_Blair_(judge) and the value is : 0
+http://dbpedia.org/resource/South_Carolina and http://dbpedia.org/resource/SAR-Lupe and the value is : 0
+http://dbpedia.org/resource/South_Carolina and http://dbpedia.org/resource/Frederick_Douglass and the value is : 0
+http://dbpedia.org/resource/South_Carolina and http://dbpedia.org/resource/William_Blair_(judge) and the value is : 0
+http://dbpedia.org/resource/SAR-Lupe and http://dbpedia.org/resource/Frederick_Douglass and the value is : 0
+http://dbpedia.org/resource/SAR-Lupe and http://dbpedia.org/resource/William_Blair_(judge) and the value is : 0
+http://dbpedia.org/resource/Frederick_Douglass and http://dbpedia.org/resource/William_Blair_(judge) and the value is : 0
+http://dbpedia.org/resource/James_Blair_(clergyman) and http://dbpedia.org/resource/17th_United_States_Congress and the value is : 0
+http://dbpedia.org/resource/Jacksonian_democracy and http://dbpedia.org/resource/George_Washington and the value is : 0
+http://dbpedia.org/resource/Christmas_Eve and http://dbpedia.org/resource/John_Quincy_Adams and the value is : 0
+http://dbpedia.org/resource/Christmas_Eve and http://dbpedia.org/resource/Diary and the value is : 0
+http://dbpedia.org/resource/Christmas_Eve and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Christmas_Eve and http://dbpedia.org/resource/Duff_Green and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/Diary and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/Duff_Green and the value is : 0
+http://dbpedia.org/resource/Diary and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Diary and http://dbpedia.org/resource/Duff_Green and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Duff_Green and the value is : 0
+http://dbpedia.org/resource/Diary and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Diary and http://dbpedia.org/resource/Longman and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Longman and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/John_Quincy_Adams and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Diary and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Governor_of_Indiana and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Alabama and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Legislative_chamber and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/Diary and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/Governor_of_Indiana and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/Alabama and the value is : 0
+http://dbpedia.org/resource/John_Quincy_Adams and http://dbpedia.org/resource/Legislative_chamber and the value is : 0
+http://dbpedia.org/resource/Diary and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Diary and http://dbpedia.org/resource/Governor_of_Indiana and the value is : 0
+http://dbpedia.org/resource/Diary and http://dbpedia.org/resource/Alabama and the value is : 0
+http://dbpedia.org/resource/Diary and http://dbpedia.org/resource/Legislative_chamber and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Governor_of_Indiana and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Alabama and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Legislative_chamber and the value is : 0
+http://dbpedia.org/resource/Governor_of_Indiana and http://dbpedia.org/resource/Alabama and the value is : 0
+http://dbpedia.org/resource/Governor_of_Indiana and http://dbpedia.org/resource/Legislative_chamber and the value is : 0
+http://dbpedia.org/resource/Alabama and http://dbpedia.org/resource/Legislative_chamber and the value is : 0
+http://dbpedia.org/resource/Congressional_Cemetery and http://dbpedia.org/resource/Headstone and the value is : 0
+http://dbpedia.org/resource/Congressional_Cemetery and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/Congressional_Cemetery and http://dbpedia.org/resource/Militia and the value is : 0
+http://dbpedia.org/resource/Headstone and http://dbpedia.org/resource/South_Carolina and the value is : 0
+http://dbpedia.org/resource/Headstone and http://dbpedia.org/resource/Militia and the value is : 0
+http://dbpedia.org/resource/South_Carolina and http://dbpedia.org/resource/Militia and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+james blair 17321782 american lawyer politician south carolina . delegate continental congress 1774 1776 signer declaration independence . blair born 1732 williamsburg virginia . educated college william mary studied law england . admitted bar 1760 began practicing law south carolina . 1774 blair elected continental congress served 1776 . signer declaration independence member committee drafted articles confederation . revolutionary war blair returned south carolina served state legislature . died 1782 charleston south carolina . 
+
+Coref Resolved : 
+james blair 17321782 american lawyer politician south carolina . delegate continental congress 1774 1776 signer declaration independence . blair born 1732 williamsburg virginia . educated college william mary studied law england . admitted bar 1760 began practicing law south carolina . 1774 blair elected continental congress served 1776 . signer declaration independence member committee drafted articles confederation . revolutionary war blair returned south carolina served state legislature . died 1782 charleston south carolina .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+james blair september 26 1786 april 1 1834 united states representative south carolina . born waxhaw settlement lancaster county south carolina sarah douglass william blair . engaged planting sheriff lancaster district . blair elected democraticrepublican seventeenth congress served march 4 1821 8 1822 resigned . elected jacksonian twentyfirst twentythird congresses served march 4 1829 death washington d.c . april 1 1834 . date december 24 1833 john quincy adams records diary blair knocked severely beaten duff green editor telegraph ... diary new york longmans green 1929 p. 434 . paid dollars fine beating breaking bones green op . cit . p. 450 . date april 2 1834 john quincy adams records diary blair shot evening lodgings ... reading affectionate letter wife governor murphy alabama chamber fellowlodger house op . cit . p. 434 . buried congressional cemetery tombstone inscription includes command general south carolina 5th militia brigade . 
+
+Coref Resolved : 
+james blair september 26 1786 april 1 1834 united states representative south carolina . born waxhaw settlement lancaster county south carolina sarah douglass william blair . engaged planting sheriff lancaster district . james blair elected democraticrepublican seventeenth congress served march 4 1821 8 1822 resigned . elected jacksonian twentyfirst twentythird congresses served march 4 1829 death washington d.c . april 1 1834 . date december 24 1833 john quincy adams records diary blair knocked severely beaten duff green editor telegraph ... diary new york longmans green 1929 p. 434 . paid dollars fine beating breaking bones green op . cit . p. 450 . date april 2 1834 john quincy adams records diary blair shot evening lodgings ... reading affectionate letter wife governor murphy alabama chamber fellowlodger house op . cit . p. 434 . buried congressional cemetery tombstone inscription includes command general south carolina 5th militia brigade .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.13043478260869565 and for ground truth is : 0.045454545454545456
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

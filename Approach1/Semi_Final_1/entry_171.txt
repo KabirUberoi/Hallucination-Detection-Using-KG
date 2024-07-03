@@ -1,0 +1,244 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Legal_research and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Classics and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Modern_liberalism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Tort and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Property_law and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Legal_research and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Classics and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Modern_liberalism_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Tort and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Property_law and the value is : 0
+http://dbpedia.org/resource/Legal_research and http://dbpedia.org/resource/Classics and the value is : 0
+http://dbpedia.org/resource/Legal_research and http://dbpedia.org/resource/Modern_liberalism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Legal_research and http://dbpedia.org/resource/Tort and the value is : 0
+http://dbpedia.org/resource/Legal_research and http://dbpedia.org/resource/Property_law and the value is : 0
+http://dbpedia.org/resource/Classics and http://dbpedia.org/resource/Modern_liberalism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Classics and http://dbpedia.org/resource/Tort and the value is : 0
+http://dbpedia.org/resource/Classics and http://dbpedia.org/resource/Property_law and the value is : 0
+http://dbpedia.org/resource/Modern_liberalism_in_the_United_States and http://dbpedia.org/resource/Tort and the value is : 0
+http://dbpedia.org/resource/Modern_liberalism_in_the_United_States and http://dbpedia.org/resource/Property_law and the value is : 0
+http://dbpedia.org/resource/Tort and http://dbpedia.org/resource/Property_law and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Tish_(Hasidic_celebration) and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Bedford_Vehicles and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Hoover_Institution and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Tish_(Hasidic_celebration) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Bedford_Vehicles and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Hoover_Institution and the value is : 0
+http://dbpedia.org/resource/Tish_(Hasidic_celebration) and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Tish_(Hasidic_celebration) and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Tish_(Hasidic_celebration) and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Tish_(Hasidic_celebration) and http://dbpedia.org/resource/Bedford_Vehicles and the value is : 1
+http://dbpedia.org/resource/Tish_(Hasidic_celebration) and http://dbpedia.org/resource/Hoover_Institution and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Bedford_Vehicles and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Hoover_Institution and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Bedford_Vehicles and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Hoover_Institution and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Bedford_Vehicles and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Hoover_Institution and the value is : 0
+http://dbpedia.org/resource/Bedford_Vehicles and http://dbpedia.org/resource/Hoover_Institution and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Visiting_scholar and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Visiting_scholar and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Visiting_scholar and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Visiting_scholar and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/University_of_Chicago and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Manual_transmission and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Skeptical_movement and the value is : 1
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Liberty and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Manual_transmission and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Skeptical_movement and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Liberty and the value is : 1
+http://dbpedia.org/resource/Manual_transmission and http://dbpedia.org/resource/Skeptical_movement and the value is : 0
+http://dbpedia.org/resource/Manual_transmission and http://dbpedia.org/resource/Liberty and the value is : 0
+http://dbpedia.org/resource/Skeptical_movement and http://dbpedia.org/resource/Liberty and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/The_Wall_Street_Journal and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Nepalese_rupee and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Fresh_Air and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/PBS_NewsHour and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/The_Wall_Street_Journal and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Nepalese_rupee and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Fresh_Air and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/PBS_NewsHour and the value is : 0
+http://dbpedia.org/resource/The_Wall_Street_Journal and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/The_Wall_Street_Journal and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/The_Wall_Street_Journal and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/The_Wall_Street_Journal and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/The_Wall_Street_Journal and http://dbpedia.org/resource/Nepalese_rupee and the value is : 0
+http://dbpedia.org/resource/The_Wall_Street_Journal and http://dbpedia.org/resource/Fresh_Air and the value is : 0
+http://dbpedia.org/resource/The_Wall_Street_Journal and http://dbpedia.org/resource/PBS_NewsHour and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Radio and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Nepalese_rupee and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Fresh_Air and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/PBS_NewsHour and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Nepalese_rupee and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Fresh_Air and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/PBS_NewsHour and the value is : 0
+http://dbpedia.org/resource/Radio and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Radio and http://dbpedia.org/resource/Nepalese_rupee and the value is : 0
+http://dbpedia.org/resource/Radio and http://dbpedia.org/resource/Fresh_Air and the value is : 0
+http://dbpedia.org/resource/Radio and http://dbpedia.org/resource/PBS_NewsHour and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Nepalese_rupee and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Fresh_Air and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/PBS_NewsHour and the value is : 0
+http://dbpedia.org/resource/Nepalese_rupee and http://dbpedia.org/resource/Fresh_Air and the value is : 0
+http://dbpedia.org/resource/Nepalese_rupee and http://dbpedia.org/resource/PBS_NewsHour and the value is : 0
+http://dbpedia.org/resource/Fresh_Air and http://dbpedia.org/resource/PBS_NewsHour and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Jurist and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Classical_liberalism and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Tort and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Jurist and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Classical_liberalism and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Tort and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Jurist and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Classical_liberalism and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Tort and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Jurist and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Jurist and http://dbpedia.org/resource/Classical_liberalism and the value is : 1
+http://dbpedia.org/resource/Jurist and http://dbpedia.org/resource/Tort and the value is : 0
+http://dbpedia.org/resource/Jurist and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Classical_liberalism and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Tort and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/Classical_liberalism and http://dbpedia.org/resource/Tort and the value is : 0
+http://dbpedia.org/resource/Classical_liberalism and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Tort and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Tish_(Hasidic_celebration) and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Hoover_Institution and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Stanford_University and the value is : 1
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Senior_lecturer and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Tish_(Hasidic_celebration) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Hoover_Institution and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Emeritus and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Senior_lecturer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_of_Chicago and the value is : 1
+http://dbpedia.org/resource/Tish_(Hasidic_celebration) and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Tish_(Hasidic_celebration) and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Tish_(Hasidic_celebration) and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Tish_(Hasidic_celebration) and http://dbpedia.org/resource/Hoover_Institution and the value is : 0
+http://dbpedia.org/resource/Tish_(Hasidic_celebration) and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/Tish_(Hasidic_celebration) and http://dbpedia.org/resource/Emeritus and the value is : 1
+http://dbpedia.org/resource/Tish_(Hasidic_celebration) and http://dbpedia.org/resource/Senior_lecturer and the value is : 0
+http://dbpedia.org/resource/Tish_(Hasidic_celebration) and http://dbpedia.org/resource/University_of_Chicago and the value is : 1
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Hoover_Institution and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Emeritus and the value is : 1
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Senior_lecturer and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Hoover_Institution and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Senior_lecturer and the value is : 1
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Hoover_Institution and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Emeritus and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Senior_lecturer and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Hoover_Institution and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/Hoover_Institution and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/Hoover_Institution and http://dbpedia.org/resource/Senior_lecturer and the value is : 0
+http://dbpedia.org/resource/Hoover_Institution and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Stanford_University and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/Stanford_University and http://dbpedia.org/resource/Senior_lecturer and the value is : 1
+http://dbpedia.org/resource/Stanford_University and http://dbpedia.org/resource/University_of_Chicago and the value is : 1
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Senior_lecturer and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Senior_lecturer and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Jurist and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Jurist and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Jurist and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Cass_Sunstein and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Erwin_Chemerinsky and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Jurist and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Cass_Sunstein and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Erwin_Chemerinsky and the value is : 0
+http://dbpedia.org/resource/Jurist and http://dbpedia.org/resource/Cass_Sunstein and the value is : 0
+http://dbpedia.org/resource/Jurist and http://dbpedia.org/resource/Erwin_Chemerinsky and the value is : 0
+http://dbpedia.org/resource/Cass_Sunstein and http://dbpedia.org/resource/Erwin_Chemerinsky and the value is : 0
+http://dbpedia.org/resource/Richard_Epstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+richard allen epstein born april 15 1943 is an american legal scholar known for his writings on classical liberal topics such as torts contracts property law and civil procedure. he is the laurence a. tisch professor of law at new york university school of law and the peter and kirsten bedford senior fellow at the hoover institution. he is also a visiting professor at the university of chicago law school. epstein is a prolific author having written more than twenty books and over two hundred articles. his books include simple rules for a complex world 1995 the casemakers manual 1996 skepticism and freedom 2003 and design for liberty 2011. he is a frequent contributor to the popular press including the wall street journal the new york times and the washington post. he is also a frequent guest on radio and television programs including nprs fresh air and the pbs newshour. 
+
+Coref Resolved : 
+richard allen epstein born april 15 1943 is an american legal scholar known for richard allen epstein born april 15 1943 writings on classical liberal topics such as torts contracts property law and civil procedure. richard allen epstein born april 15 1943 is the laurence a. tisch professor of law at new york university school of law and the peter and kirsten bedford senior fellow at the hoover institution. richard allen epstein born april 15 1943 is also a visiting professor at the university of chicago law school. richard allen epstein born april 15 1943 is a prolific author having written more than twenty books and over two hundred articles. richard allen epstein born april 15 1943 books include simple rules for a complex world 1995 the casemakers manual 1996 skepticism and freedom 2003 and design for liberty 2011. richard allen epstein born april 15 1943 is a frequent contributor to the popular press including the wall street journal the new york times and the washington post. richard allen epstein born april 15 1943 is also a frequent guest on radio and television programs including nprs fresh air and the pbs newshour.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+richard allen epstein born april 17 1943 is an american scholar educator lawyer and author best known for his writings and studies on classical liberalism torts and a wide variety of topics in law and economics. epstein is currently the laurence a. tisch professor of law at new york university a senior fellow at the hoover institution of stanford university and professor emeritus and a senior lecturer at the university of chicago. epsteins writings have extensively influenced modern american legal thought. in 2000 a study published in the journal of legal studies identified epstein as the 12thmost cited legal scholar of the 20th century. in 2008 he was chosen in a poll taken by legal affairs as one of the most influential legal thinkers of modern times. a study of legal publications between 2009 and 2013 found epstein to be the 3rdmost frequently cited american legal scholar during that period behind only cass sunstein and erwin chemerinsky. he has been a member of the american academy of arts and sciences since 1985. 
+
+Coref Resolved : 
+richard allen epstein born april 17 1943 is an american scholar educator lawyer and author best known for richard allen epstein born april 17 1943 writings and studies on classical liberalism torts and a wide variety of topics in law and economics. richard allen epstein born april 17 1943 is currently the laurence a. tisch professor of law at new york university a senior fellow at the hoover institution of stanford university and professor emeritus and a senior lecturer at the university of chicago. richard allen epstein born april 17 1943 writings have extensively influenced modern american legal thought. in 2000 a study published in the journal of legal studies identified richard allen epstein born april 17 1943 as the 12thmost cited legal scholar of the 20th century. in 2008 richard allen epstein born april 17 1943 was chosen in a poll taken by legal affairs as one of the most influential legal thinkers of modern times. a study of legal publications between that period found richard allen epstein born april 17 1943 to be the 3rdmost frequently cited american legal scholar during that period behind only cass sunstein and erwin chemerinsky. richard allen epstein born april 17 1943 has been a member of the american academy of arts and sciences since 1985.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.05982905982905983 and for ground truth is : 0.1717171717171717
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate minor_inaccurate minor_inaccurate major_inaccurate 
+

@@ -1,0 +1,81 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Anglican_ministry and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Anglican_ministry and http://dbpedia.org/resource/Catholic_Church and the value is : 1
+http://dbpedia.org/resource/Anglican_ministry and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Anglican_ministry and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Anglican_ministry and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Anglican_ministry and the value is : 1
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Anglican_ministry and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Edward_Synge_(bishop_of_Elphin) and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Anglican_ministry and http://dbpedia.org/resource/SATB and the value is : 1
+http://dbpedia.org/resource/Anglican_ministry and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Trinity_College_Dublin and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Ordination and the value is : 0
+http://dbpedia.org/resource/Trinity_College_Dublin and http://dbpedia.org/resource/Ordination and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Benefice and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Bishop_of_Kilmore and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/County_Meath and the value is : 0
+http://dbpedia.org/resource/Benefice and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Benefice and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Benefice and http://dbpedia.org/resource/Bishop_of_Kilmore and the value is : 0
+http://dbpedia.org/resource/Benefice and http://dbpedia.org/resource/County_Meath and the value is : 0
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Bishop_of_Kilmore and the value is : 0
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/County_Meath and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Bishop_of_Kilmore and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/County_Meath and the value is : 1
+http://dbpedia.org/resource/Bishop_of_Kilmore and http://dbpedia.org/resource/County_Meath and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Deanery and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Bishop_of_Clonfert_and_Kilmacduagh and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Deanery and http://dbpedia.org/resource/Bishop_of_Clonfert_and_Kilmacduagh and the value is : 0
+http://dbpedia.org/resource/Deanery and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Bishop_of_Clonfert_and_Kilmacduagh and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 1
+http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and http://dbpedia.org/resource/Archbishop_of_Tuam and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Philosopher and the value is : 1
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Edmund_Burke and the value is : 1
+http://dbpedia.org/resource/Philosopher and http://dbpedia.org/resource/Edmund_Burke and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Anglicanism and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Anglicanism and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Anglicanism and the value is : 1
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Library and the value is : 0
+http://dbpedia.org/resource/John_Millington_Synge and http://dbpedia.org/resource/Trinity_College_Dublin and the value is : 0
+http://dbpedia.org/resource/Library and http://dbpedia.org/resource/Trinity_College_Dublin and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+edward synge 17141798 was an irish anglican prelate who served as the church of ireland archbishop of tuam from 1781 to 1798. synge was born in dublin in 1714 the son of the rev. edward synge rector of st. werburghs church dublin. he was educated at trinity college dublin and was ordained in 1737. he held livings at st. werburghs dublin and at kilmore county meath. he was appointed dean of clonfert in 1760 and dean of st. patricks cathedral dublin in 1763. in 1781 he was appointed archbishop of tuam a post he held until his death in 1798. synge was a noted scholar and a friend of the philosopher edmund burke. he was a strong supporter of the church of ireland and was an advocate of the union of the anglican and roman catholic churches. he was also a noted collector of books and manuscripts and his library was bequeathed to trinity college 
+
+Coref Resolved : 
+edward synge 17141798 was an irish anglican prelate who served as the church of ireland archbishop of tuam from 1781 to 1798. synge was born in dublin in 1714 the son of the rev. edward synge rector of st. werburghs church dublin . synge was educated at trinity college dublin and was ordained in 1737. synge held livings at st. werburghs church dublinand at kilmore county meath. synge was appointed dean of clonfert in 1760 and dean of st. patricks cathedral dublin in 1763. in 1781 synge was appointed archbishop of tuam a post synge held until synge death in 1798. synge was a noted scholar and a friend of the philosopher edmund burke. synge was a strong supporter of church of ireland and was an advocate of the union of the anglican and roman catholic churches. synge was also a noted collector of books and manuscripts and synge library was bequeathed to trinity college dublin 
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.15625
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

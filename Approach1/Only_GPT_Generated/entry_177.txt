@@ -1,0 +1,123 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Weiner_(film) and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/The_Savage_Nation and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Nutritionist and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/The_Savage_Nation and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Nutritionist and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Nutritionist and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Nutritionist and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Nutritionist and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Activism and http://dbpedia.org/resource/Nutritionist and the value is : 0
+http://dbpedia.org/resource/Activism and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Activism and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Nutritionist and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/Nutritionist and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Conservatism_in_the_United_States and http://dbpedia.org/resource/Pundit and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Weiner_(film) and the value is : 1
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/The_Savage_Nation and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Broadcast_syndication and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Talk_Radio_Network and the value is : 1
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Radio_broadcasting and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/The_Savage_Nation and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Broadcast_syndication and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Talk_Radio_Network and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Radio_broadcasting and the value is : 1
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Broadcast_syndication and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Talk_Radio_Network and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Radio_broadcasting and the value is : 0
+http://dbpedia.org/resource/Broadcast_syndication and http://dbpedia.org/resource/Talk_Radio_Network and the value is : 0
+http://dbpedia.org/resource/Broadcast_syndication and http://dbpedia.org/resource/Radio_broadcasting and the value is : 0
+http://dbpedia.org/resource/Talk_Radio_Network and http://dbpedia.org/resource/Radio_broadcasting and the value is : 1
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Weiner_(film) and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/The_Savage_Nation and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Broadcast_syndication and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Cumulus_Media_Networks and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/The_Savage_Nation and the value is : 1
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Broadcast_syndication and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Cumulus_Media_Networks and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Broadcast_syndication and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Cumulus_Media_Networks and the value is : 0
+http://dbpedia.org/resource/Broadcast_syndication and http://dbpedia.org/resource/Cumulus_Media_Networks and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Weiner_(film) and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/The_Savage_Nation and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Hawaii and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Medical_anthropology and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/The_Savage_Nation and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Hawaii and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Medical_anthropology and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Hawaii and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Medical_anthropology and the value is : 1
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Hawaii and http://dbpedia.org/resource/Botany and the value is : 0
+http://dbpedia.org/resource/Hawaii and http://dbpedia.org/resource/Medical_anthropology and the value is : 0
+http://dbpedia.org/resource/Hawaii and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Medical_anthropology and the value is : 0
+http://dbpedia.org/resource/Botany and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Medical_anthropology and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Ethnomedicine and the value is : 0
+http://dbpedia.org/resource/George_Berkeley and http://dbpedia.org/resource/Ethnomedicine and the value is : 0
+http://dbpedia.org/resource/Michael_Weiner_(executive) and http://dbpedia.org/resource/Michael_Alan and the value is : 0
+http://dbpedia.org/resource/Michael_Weiner_(executive) and http://dbpedia.org/resource/Weiner_(film) and the value is : 0
+http://dbpedia.org/resource/Michael_Weiner_(executive) and http://dbpedia.org/resource/The_Savage_Nation and the value is : 0
+http://dbpedia.org/resource/Michael_Weiner_(executive) and http://dbpedia.org/resource/Nutrition and the value is : 0
+http://dbpedia.org/resource/Michael_Weiner_(executive) and http://dbpedia.org/resource/Herbal_medicine and the value is : 0
+http://dbpedia.org/resource/Michael_Weiner_(executive) and http://dbpedia.org/resource/Homeopathy and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Weiner_(film) and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/The_Savage_Nation and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Nutrition and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Herbal_medicine and the value is : 0
+http://dbpedia.org/resource/Michael_Alan and http://dbpedia.org/resource/Homeopathy and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/The_Savage_Nation and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Nutrition and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Herbal_medicine and the value is : 0
+http://dbpedia.org/resource/Weiner_(film) and http://dbpedia.org/resource/Homeopathy and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Nutrition and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Herbal_medicine and the value is : 0
+http://dbpedia.org/resource/The_Savage_Nation and http://dbpedia.org/resource/Homeopathy and the value is : 0
+http://dbpedia.org/resource/Nutrition and http://dbpedia.org/resource/Herbal_medicine and the value is : 1
+http://dbpedia.org/resource/Nutrition and http://dbpedia.org/resource/Homeopathy and the value is : 0
+http://dbpedia.org/resource/Herbal_medicine and http://dbpedia.org/resource/Homeopathy and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+michael alan weiner born march 31 1942 better known by his professional name michael savage is an american radio host author activist nutritionist and conservative political commentator. he is the host of the savage nation a nationally syndicated talk show that aired on talk radio network across the united states until 2012 and in 2009 was the second most listenedto radio talk show in the country with an audience of over 20 million listeners on 400 stations across the united states. since october 23 2012 michael savage has been syndicated by cumulus media networks. he holds masters degrees from the university of hawaii in medical botany and medical anthropology and a ph.d. from the university of california berkeley in nutritional ethnomedicine. as michael weiner he has written books on nutrition herbal medicine and homeopathy. 
+
+Coref Resolved : 
+michael alan weiner born march 31 1942 better known by michael alan weiner born march 31 1942 better known by his professional name michael savage professional name michael savage is an american radio host author activist nutritionist and conservative political commentator. michael alan weiner born march 31 1942 better known by his professional name michael savage is the host of the savage nation a nationally syndicated talk show that aired on talk radio network across the united states until 2012 and in 2009 was the second most listenedto radio talk show in the united states with an audience of over 20 million listeners on 400 stations across the united states . since october 23 2012 michael alan weiner born march 31 1942 better known by his professional name michael savage has been syndicated by cumulus media networks. michael alan weiner born march 31 1942 better known by his professional name michael savage holds masters degrees from the university of hawaii in medical botany and medical anthropology and a ph.d. from the university of california berkeley in nutritional ethnomedicine. as michael weiner michael alan weiner born march 31 1942 better known by his professional name michael savage has written books on nutrition herbal medicine and homeopathy.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.08490566037735849
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate 
+

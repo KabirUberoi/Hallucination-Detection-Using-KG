@@ -1,0 +1,106 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ross-shire and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Teacher and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Academic_administration and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Teacher and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Academic_administration and the value is : 0
+http://dbpedia.org/resource/Teacher and http://dbpedia.org/resource/Academic_administration and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ross-shire and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ross-shire and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Winnipeg and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/University_of_Manitoba and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Winnipeg and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/University_of_Manitoba and the value is : 0
+http://dbpedia.org/resource/Winnipeg and http://dbpedia.org/resource/University_of_Manitoba and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ross-shire and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/University_of_Manitoba and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/University_of_Manitoba and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ross-shire and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ross-shire and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/University_of_Manitoba and the value is : 1
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/University_of_Manitoba and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/University_of_Manitoba and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ross-shire and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Toronto and the value is : 1
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ross-shire and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Toronto and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ross-shire and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Environmental_studies and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Environmental_studies and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ross-shire and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Higher_education and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Higher_education and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ross-shire and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Royal_commission and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Higher_education and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Royal_commission and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Ross-shire and http://dbpedia.org/resource/Higher_education and the value is : 0
+http://dbpedia.org/resource/Royal_commission and http://dbpedia.org/resource/Education and the value is : 1
+http://dbpedia.org/resource/Royal_commission and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Royal_commission and http://dbpedia.org/resource/Higher_education and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Higher_education and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Higher_education and the value is : 0
+http://dbpedia.org/resource/Murray_River and http://dbpedia.org/resource/Ross-shire and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+murray g. ross 19172002 was a canadian educator and university administrator. he was the first president of york university in toronto ontario canada from 1959 to 1971. ross was born in 1917 in winnipeg manitoba. he attended the university of manitoba where he earned a bachelor of arts degree in 1939 and a master of arts degree in 1941. he then attended the university of toronto where he earned a doctor of philosophy degree in 1947. ross began his career as a professor of history at the university of manitoba in 1947. he was appointed the first president of york university in 1959 and served in that role until 1971. during his tenure he oversaw the growth of the university from a small college to a major research university. he also established the faculty of environmental studies the first of its kind in canada. ross was a strong advocate for the development of higher education in canada. he served on the royal commission on education in ontario and was a member of the canadian commission on the future of higher education. he was also a member of the canadian association of university teachers and served as its 
+
+Coref Resolved : 
+murray g. ross 19172002 was a canadian educator and university administrator. murray g. ross was the first president of york university in toronto ontario canada from 1959 to 1971. murray g. ross was born in 1917 in winnipeg manitoba. murray g. ross attended the university of manitoba where murray g. ross earned a bachelor of arts degree in 1939 and a master of arts degree in 1941. murray g. ross then attended the university of toronto where murray g. ross earned a doctor of philosophy degree in 1947. murray g. ross began murray g. ross career as a professor of history at the university of manitoba where he earned a bachelor of arts degree in 1939 and a master of arts degree in 1941in 1947. murray g. ross was appointed the first president of york university in toronto ontario canada in 1959 and served in that role until 1971. during murray g. ross tenure murray g. ross oversaw the growth of york university in toronto ontario canada from a small college to a major research university. murray g. ross also established the faculty of environmental studies the first of the faculty of environmental studies the first of its kind in canadakind in canada . murray g. ross was a strong advocate for the development of higher education in canada . murray g. ross served on the royal commission on education in ontario and was a member of the canadian commission on the future of higher education. murray g. ross was also a member of the canadian association of university teachers and served as the canadian association of university teachers 
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.06741573033707865
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,54 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Conducting and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Music and the value is : 1
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Conducting and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Conducting and http://dbpedia.org/resource/Music and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Łańcut and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Poland and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Łańcut and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Poland and the value is : 0
+http://dbpedia.org/resource/Łańcut and http://dbpedia.org/resource/Poland and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Lviv_Conservatory and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Fryderyk_Chopin_University_of_Music and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Conservatoire_de_Paris and the value is : 0
+http://dbpedia.org/resource/Lviv_Conservatory and http://dbpedia.org/resource/Fryderyk_Chopin_University_of_Music and the value is : 0
+http://dbpedia.org/resource/Lviv_Conservatory and http://dbpedia.org/resource/Conservatoire_de_Paris and the value is : 0
+http://dbpedia.org/resource/Fryderyk_Chopin_University_of_Music and http://dbpedia.org/resource/Conservatoire_de_Paris and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Professor and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Fryderyk_Chopin_University_of_Music and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Fryderyk_Chopin_University_of_Music and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Composer and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Chamber_music and the value is : 1
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Chamber_music and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Conducting and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Warsaw_National_Philharmonic_Orchestra and the value is : 0
+http://dbpedia.org/resource/Conducting and http://dbpedia.org/resource/Warsaw_National_Philharmonic_Orchestra and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Music_of_Poland and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Second_Polish_Republic and the value is : 0
+http://dbpedia.org/resource/Music_of_Poland and http://dbpedia.org/resource/Second_Polish_Republic and the value is : 1
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Witold_Lutosławski and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Andrzej_Panufnik and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Roman_Palester and the value is : 1
+http://dbpedia.org/resource/Witold_Lutosławski and http://dbpedia.org/resource/Andrzej_Panufnik and the value is : 0
+http://dbpedia.org/resource/Witold_Lutosławski and http://dbpedia.org/resource/Roman_Palester and the value is : 0
+http://dbpedia.org/resource/Andrzej_Panufnik and http://dbpedia.org/resource/Roman_Palester and the value is : 0
+http://dbpedia.org/resource/Tadeusz_Szeligowski and http://dbpedia.org/resource/Warsaw and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tadeusz szeligowski 18961963 was a polish composer conductor and music teacher. he was born in the small town of łańcut in the southeastern part of poland. he studied at the lviv conservatory and the warsaw conservatory and later at the paris conservatory. he was a professor at the warsaw conservatory from 1929 to 1939. szeligowski was a prolific composer writing in a variety of genres including symphonies concertos chamber music and vocal works. he was also a conductor and conducted the warsaw philharmonic orchestra from 1932 to 1939. he was an important figure in the development of polish music in the interwar period and his works were performed in many countries. he was also a noted teacher and his students included witold lutosławski andrzej panufnik and roman palester. he died in warsaw in 1963. 
+
+Coref Resolved : 
+tadeusz szeligowski 18961963 was a polish composer conductor and music teacher. tadeusz szeligowski was born in the small town of łańcut in the southeastern part of poland. tadeusz szeligowski studied at the lviv conservatory and the warsaw conservatory and later at the paris conservatory. tadeusz szeligowski was a professor at the warsaw conservatory from 1929 to 1939. tadeusz szeligowski was a prolific composer writing in a variety of genres including symphonies concertos chamber music and vocal works. tadeusz szeligowski was also a conductor and conducted the warsaw philharmonic orchestra from 1932 to 1939. tadeusz szeligowski was an important figure in the development of polish music in the interwar period and tadeusz szeligowski works were performed in many countries. tadeusz szeligowski was also a noted teacher and tadeusz szeligowski students included witold lutosławski andrzej panufnik and roman palester. tadeusz szeligowski died in warsaw in 1963.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3783783783783784
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

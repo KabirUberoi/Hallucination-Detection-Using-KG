@@ -1,0 +1,151 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/John_Christopher and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Romanticism and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/History_painting and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Golden_Age and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Painting and the value is : 1
+http://dbpedia.org/resource/Romanticism and http://dbpedia.org/resource/History_painting and the value is : 0
+http://dbpedia.org/resource/Romanticism and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Romanticism and http://dbpedia.org/resource/Golden_Age and the value is : 1
+http://dbpedia.org/resource/Romanticism and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/History_painting and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/History_painting and http://dbpedia.org/resource/Golden_Age and the value is : 0
+http://dbpedia.org/resource/History_painting and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Norway and http://dbpedia.org/resource/Golden_Age and the value is : 0
+http://dbpedia.org/resource/Norway and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Golden_Age and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Renown_SC and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Landscape_painting and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Romanticism and the value is : 1
+http://dbpedia.org/resource/Landscape_painting and http://dbpedia.org/resource/Romanticism and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Copenhagen and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Flemish and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/History_painting and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Christian_August_Lorentzen and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Dresden and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Landscape_painting and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Jacques-Louis_David and the value is : 0
+http://dbpedia.org/resource/Copenhagen and http://dbpedia.org/resource/Flemish and the value is : 0
+http://dbpedia.org/resource/Copenhagen and http://dbpedia.org/resource/History_painting and the value is : 0
+http://dbpedia.org/resource/Copenhagen and http://dbpedia.org/resource/Christian_August_Lorentzen and the value is : 1
+http://dbpedia.org/resource/Copenhagen and http://dbpedia.org/resource/Dresden and the value is : 0
+http://dbpedia.org/resource/Copenhagen and http://dbpedia.org/resource/Landscape_painting and the value is : 0
+http://dbpedia.org/resource/Copenhagen and http://dbpedia.org/resource/Jacques-Louis_David and the value is : 1
+http://dbpedia.org/resource/Flemish and http://dbpedia.org/resource/History_painting and the value is : 0
+http://dbpedia.org/resource/Flemish and http://dbpedia.org/resource/Christian_August_Lorentzen and the value is : 0
+http://dbpedia.org/resource/Flemish and http://dbpedia.org/resource/Dresden and the value is : 0
+http://dbpedia.org/resource/Flemish and http://dbpedia.org/resource/Landscape_painting and the value is : 1
+http://dbpedia.org/resource/Flemish and http://dbpedia.org/resource/Jacques-Louis_David and the value is : 1
+http://dbpedia.org/resource/History_painting and http://dbpedia.org/resource/Christian_August_Lorentzen and the value is : 0
+http://dbpedia.org/resource/History_painting and http://dbpedia.org/resource/Dresden and the value is : 1
+http://dbpedia.org/resource/History_painting and http://dbpedia.org/resource/Landscape_painting and the value is : 0
+http://dbpedia.org/resource/History_painting and http://dbpedia.org/resource/Jacques-Louis_David and the value is : 0
+http://dbpedia.org/resource/Christian_August_Lorentzen and http://dbpedia.org/resource/Dresden and the value is : 0
+http://dbpedia.org/resource/Christian_August_Lorentzen and http://dbpedia.org/resource/Landscape_painting and the value is : 0
+http://dbpedia.org/resource/Christian_August_Lorentzen and http://dbpedia.org/resource/Jacques-Louis_David and the value is : 1
+http://dbpedia.org/resource/Dresden and http://dbpedia.org/resource/Landscape_painting and the value is : 0
+http://dbpedia.org/resource/Dresden and http://dbpedia.org/resource/Jacques-Louis_David and the value is : 0
+http://dbpedia.org/resource/Landscape_painting and http://dbpedia.org/resource/Jacques-Louis_David and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Golden_Age and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Dutch_Golden_Age_painting and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/German_Romanticism and the value is : 0
+http://dbpedia.org/resource/Golden_Age and http://dbpedia.org/resource/Dutch_Golden_Age_painting and the value is : 0
+http://dbpedia.org/resource/Golden_Age and http://dbpedia.org/resource/German_Romanticism and the value is : 1
+http://dbpedia.org/resource/Dutch_Golden_Age_painting and http://dbpedia.org/resource/German_Romanticism and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Early_Works_(film) and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Light and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Romanticism and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Golden_Age and the value is : 1
+http://dbpedia.org/resource/Romanticism and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Romanticism and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Romanticism and http://dbpedia.org/resource/Golden_Age and the value is : 1
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Golden_Age and the value is : 0
+http://dbpedia.org/resource/Norway and http://dbpedia.org/resource/Golden_Age and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Landscape_painting and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Landscape_painting and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Renown_SC and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Leitmotif and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Culture_of_Norway and the value is : 0
+http://dbpedia.org/resource/Norway and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Norway and http://dbpedia.org/resource/Leitmotif and the value is : 1
+http://dbpedia.org/resource/Norway and http://dbpedia.org/resource/Culture_of_Norway and the value is : 0
+http://dbpedia.org/resource/Love and http://dbpedia.org/resource/Leitmotif and the value is : 1
+http://dbpedia.org/resource/Love and http://dbpedia.org/resource/Culture_of_Norway and the value is : 1
+http://dbpedia.org/resource/Leitmotif and http://dbpedia.org/resource/Culture_of_Norway and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Art_history and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Heart and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Cultural_history and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Art_history and http://dbpedia.org/resource/Culture and the value is : 1
+http://dbpedia.org/resource/Art_history and http://dbpedia.org/resource/Heart and the value is : 1
+http://dbpedia.org/resource/Art_history and http://dbpedia.org/resource/Cultural_history and the value is : 0
+http://dbpedia.org/resource/Art_history and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/Culture and http://dbpedia.org/resource/Heart and the value is : 1
+http://dbpedia.org/resource/Culture and http://dbpedia.org/resource/Cultural_history and the value is : 1
+http://dbpedia.org/resource/Culture and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Heart and http://dbpedia.org/resource/Cultural_history and the value is : 1
+http://dbpedia.org/resource/Heart and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Cultural_history and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/National_Gallery_(Norway) and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Stave_church and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Nidaros_Cathedral and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Trondheim and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Bergenhus_Fortress and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Backpack and the value is : 0
+http://dbpedia.org/resource/National_Gallery_(Norway) and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/National_Gallery_(Norway) and http://dbpedia.org/resource/Stave_church and the value is : 1
+http://dbpedia.org/resource/National_Gallery_(Norway) and http://dbpedia.org/resource/Nidaros_Cathedral and the value is : 0
+http://dbpedia.org/resource/National_Gallery_(Norway) and http://dbpedia.org/resource/Trondheim and the value is : 0
+http://dbpedia.org/resource/National_Gallery_(Norway) and http://dbpedia.org/resource/Bergenhus_Fortress and the value is : 0
+http://dbpedia.org/resource/National_Gallery_(Norway) and http://dbpedia.org/resource/Backpack and the value is : 1
+http://dbpedia.org/resource/Norway and http://dbpedia.org/resource/Stave_church and the value is : 1
+http://dbpedia.org/resource/Norway and http://dbpedia.org/resource/Nidaros_Cathedral and the value is : 0
+http://dbpedia.org/resource/Norway and http://dbpedia.org/resource/Trondheim and the value is : 1
+http://dbpedia.org/resource/Norway and http://dbpedia.org/resource/Bergenhus_Fortress and the value is : 0
+http://dbpedia.org/resource/Norway and http://dbpedia.org/resource/Backpack and the value is : 1
+http://dbpedia.org/resource/Stave_church and http://dbpedia.org/resource/Nidaros_Cathedral and the value is : 1
+http://dbpedia.org/resource/Stave_church and http://dbpedia.org/resource/Trondheim and the value is : 0
+http://dbpedia.org/resource/Stave_church and http://dbpedia.org/resource/Bergenhus_Fortress and the value is : 0
+http://dbpedia.org/resource/Stave_church and http://dbpedia.org/resource/Backpack and the value is : 0
+http://dbpedia.org/resource/Nidaros_Cathedral and http://dbpedia.org/resource/Trondheim and the value is : 0
+http://dbpedia.org/resource/Nidaros_Cathedral and http://dbpedia.org/resource/Bergenhus_Fortress and the value is : 1
+http://dbpedia.org/resource/Nidaros_Cathedral and http://dbpedia.org/resource/Backpack and the value is : 0
+http://dbpedia.org/resource/Trondheim and http://dbpedia.org/resource/Bergenhus_Fortress and the value is : 0
+http://dbpedia.org/resource/Trondheim and http://dbpedia.org/resource/Backpack and the value is : 0
+http://dbpedia.org/resource/Bergenhus_Fortress and http://dbpedia.org/resource/Backpack and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+johan christian dahl also known as john christopher dahl danish dɑːl 12 november 1788 14 october 1857 was a norwegian artist. he is considered the first great romantic painter in norway the founder of the golden age of norwegian painting. he was also the first acquire genuine fame and cultural renown abroad. dahl is often described as the father of norwegian landscape painting and is regarded as one of the great european romantic painters. his work has influenced various generations of later norwegian artists. dahl studied in copenhagen under the flemish history painter christian august lorentzen and in 1818 he went to dresden to study with the german landscape painter caspar david friedrich. he was inspired by the art of the norwegian golden age of the 17th century as well as the dutch golden age and the german romanticism. his early works are often dark and gloomy but after 1820 he began to paint more brightly coloured landscapes. he is best known for his paintings of norwegian fjords and mountains and he often depicted wild storms and dramatic light 
+
+Coref Resolved : 
+johan christian dahl also known as john christopher dahl danish dɑːl 12 november 1788 14 october 1857 was a norwegian artist. johan christian dahl is considered the first great romantic painter in norway the founder of the golden age of norwegian painting. johan christian dahl was also the first acquire genuine fame and cultural renown abroad. johan christian dahl is often described as the father of norwegian landscape painting and is regarded as one of the great european romantic painters. johan christian dahl work has influenced various generations of later norwegian artists. johan christian dahl studied in copenhagen under the flemish history painter christian august lorentzen and in 1818 johan christian dahl went to dresden to study with the german landscape painter caspar david friedrich. johan christian dahl was inspired by the art of the norwegian golden age of the 17th century as well as the dutch golden age and the german romanticism. johan christian dahl early works are often dark and gloomy but after 1820 johan christian dahl began to paint more brightly coloured landscapes. johan christian dahl is best known for johan christian dahl paintings of norwegian fjords and mountains and johan christian dahl often depicted wild storms and dramatic light
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+johan christian claussen dahl february 24 1788 october 14 1857 often known as j.c. dahl was a norwegian artist who is considered the first great romantic painter in norway the founder of the golden age of norwegian painting and one of the greatest european artists of all time. he is often described as the father of norwegian landscape painting and is regarded as the first norwegian painter ever to reach a level of artistic accomplishment comparable to that attained by the greatest european artists of his day. he was also the first to acquire genuine fame and cultural renown abroad. as one critic has put it j.c. dahl occupies a central position in norwegian artistic life of the first half of the 19th century. although dahl spent much of his life outside of norway his love for his country is clear in the motifs he chose for his paintings and in his extraordinary efforts on behalf of norwegian culture generally. indeed if one sets aside his own monumental artistic creations his other activities on behalf of art history and culture would still have guaranteed him a place at the very heart of the artistic and cultural history of norway. he was for example a key figure in the founding of the norwegian national gallery and of several other major art institutions in norway as well as in the preservation of norwegian stave churches and the restoration of the nidaros cathedral in trondheim and håkonshallen in bergen. 
+
+Coref Resolved : 
+johan christian claussen dahl february 24 1788 october 14 1857 often known as j.c. dahl was a norwegian artist who is considered the first great romantic painter in norway the founder of the golden age of norwegian painting and one of the greatest european artists of all time. johan christian claussen dahl is often described as the father of norwegian landscape painting and is regarded as the first norwegian painter ever to reach a level of artistic accomplishment comparable to that attained by the greatest european artists of johan christian claussen dahl day. johan christian claussen dahl was also the first to acquire genuine fame and cultural renown abroad. as one critic has put it johan christian claussen dahl occupies a central position in norwegian artistic life of the first half of the 19th century. although johan christian claussen dahl spent much of johan christian claussen dahl life outside of norway johan christian claussen dahl love for johan christian claussen dahl country is clear in the motifs johan christian claussen dahl chose for johan christian claussen dahl paintings and in johan christian claussen dahl extraordinary efforts on behalf of norwegian culture generally. indeed if one sets aside johan christian claussen dahl own monumental artistic creations johan christian claussen dahl other activities on behalf of art history and culture would still have guaranteed johan christian claussen dahl a place at the very heart of the artistic and cultural history of norway . johan christian claussen dahl was for example a key figure in the founding of the norwegian national gallery and of several other major art institutions in norway as well as in the preservation of norwegian stave churches and the restoration of the nidaros cathedral in trondheim and håkonshallen in bergen.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.30357142857142855 and for ground truth is : 0.3582089552238806
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate accurate accurate minor_inaccurate minor_inaccurate accurate 
+

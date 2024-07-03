@@ -1,0 +1,62 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/Hebrew_language and the value is : 0
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/August_4 and the value is : 0
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/Israel_Defense_Forces and the value is : 0
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/Bus and the value is : 0
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/Arab_citizens_of_Israel and the value is : 0
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/August_4 and the value is : 0
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/Israel_Defense_Forces and the value is : 0
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/Bus and the value is : 0
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/Arab_citizens_of_Israel and the value is : 0
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/Town and the value is : 1
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Israel_Defense_Forces and the value is : 0
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Bus and the value is : 1
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Arab_citizens_of_Israel and the value is : 0
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Israel_Defense_Forces and http://dbpedia.org/resource/Bus and the value is : 0
+http://dbpedia.org/resource/Israel_Defense_Forces and http://dbpedia.org/resource/Arab_citizens_of_Israel and the value is : 0
+http://dbpedia.org/resource/Israel_Defense_Forces and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Arab_citizens_of_Israel and the value is : 0
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Arab_citizens_of_Israel and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Desertion and http://dbpedia.org/resource/Israel_Defense_Forces and the value is : 0
+http://dbpedia.org/resource/Desertion and http://dbpedia.org/resource/Mental_disorder and the value is : 0
+http://dbpedia.org/resource/Israel_Defense_Forces and http://dbpedia.org/resource/Mental_disorder and the value is : 0
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Arab_citizens_of_Israel and the value is : 0
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/August_4 and the value is : 0
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Wave and the value is : 0
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Cabinet_of_Israel and the value is : 1
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Palestinian_political_violence and the value is : 0
+http://dbpedia.org/resource/Arab_citizens_of_Israel and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Arab_citizens_of_Israel and http://dbpedia.org/resource/August_4 and the value is : 0
+http://dbpedia.org/resource/Arab_citizens_of_Israel and http://dbpedia.org/resource/Wave and the value is : 1
+http://dbpedia.org/resource/Arab_citizens_of_Israel and http://dbpedia.org/resource/Cabinet_of_Israel and the value is : 0
+http://dbpedia.org/resource/Arab_citizens_of_Israel and http://dbpedia.org/resource/Palestinian_political_violence and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/August_4 and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Wave and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Cabinet_of_Israel and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Palestinian_political_violence and the value is : 0
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Wave and the value is : 0
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Cabinet_of_Israel and the value is : 0
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Palestinian_political_violence and the value is : 0
+http://dbpedia.org/resource/Wave and http://dbpedia.org/resource/Cabinet_of_Israel and the value is : 0
+http://dbpedia.org/resource/Wave and http://dbpedia.org/resource/Palestinian_political_violence and the value is : 0
+http://dbpedia.org/resource/Cabinet_of_Israel and http://dbpedia.org/resource/Palestinian_political_violence and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+eden natanzada hebrew עדן נתןזדה august 5 1984 august 4 2005 was an israeli soldier who perpetrated a shooting attack on a bus in the israeli arab town of shfaram on august 4 2005. natanzada was a deserter from the israel defense forces idf who had been discharged from the army after being diagnosed with a mental disorder. he was killed by a mob of angry townspeople after he opened fire on the bus killing four people and wounding several others. the attack sparked a wave of protests by israeli arabs who accused the israeli government of failing to protect them from violence. 
+
+Coref Resolved : 
+eden natanzada hebrew עדן נתןזדה august 5 1984 august 4 2005 was an israeli soldier who perpetrated a shooting attack on a bus in the israeli arab town of shfaram on august 4 2005 . natanzada was a deserter from the israel defense forces idf who had been discharged from the army after being diagnosed with a mental disorder. natanzada was killed by a mob of angry townspeople after natanzada opened fire on a bus killing four people and wounding several others. a shooting attack on a bus in the israeli arab town of shfaram on august 4 2005sparked a wave of protests by israeli arabs who accused the israeli government of failing to protect israeli arabs who accused the israeli government of failing to protect them from violencefrom violence.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.08888888888888889
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate minor_inaccurate 
+

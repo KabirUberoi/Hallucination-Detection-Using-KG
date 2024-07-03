@@ -1,0 +1,111 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Polish_language and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Editor-in-chief and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Polish_language and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Wprost and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Poland and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Polish_language and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Newsweek_Polska and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Warsaw and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Polish_language and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Gazeta_Wyborcza and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Polityka and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Wprost and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Editor-in-chief and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Poland and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/TVN_Group and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/TVN_Group and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Wydarzenia and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Telewizja_Polska and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Poland and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Washington_Union_Station and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Telewizja_Polska and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Poland and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Fakty_TVN and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Poland and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Television_channel and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/TVN_Group and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Editor-in-chief and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Wydarzenia and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Polsat and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Editor-in-chief and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Wprost and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Editor-in-chief and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Newsweek_Polska and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Tomasz Lis (born 28 April 1962) is a Polish journalist, television presenter and editor-in-chief of the Polish weekly news magazine Wprost.
+He is one of the most popular and influential journalists in Poland.
+He is known for his strong opinions and his confrontational style of interviewing.
+He is also a regular contributor to the Polish edition of Newsweek.
+Lis is a graduate of the University of Warsaw and the National School of Public Administration.
+He began his career in journalism in the 1980s, working for the Polish daily newspaper Gazeta Wyborcza.
+He later moved to the weekly magazine Polityka, where he worked as a reporter and editor.
+In 1997, he joined the staff of Wprost, where he has been editor-in-chief since 2001.
+
+
+Coref Resolved: 
+
+Tomasz Lis (born 28 April 1962) is a Polish journalist, television presenter and editor-in-chief of the Polish weekly news magazine Wprost.
+Tomasz Lis is one of the most popular and influential journalists in Poland.
+Tomasz Lis is known for Tomasz Lis strong opinions and Tomasz Lis confrontational style of interviewing.
+Tomasz Lis is also a regular contributor to the Polish edition of Newsweek.
+Tomasz Lis is a graduate of the University of Warsaw and the National School of Public Administration.
+Tomasz Lis began Tomasz Lis career in journalism in the 1980s, working for the Polish daily newspaper Gazeta Wyborcza.
+Tomasz Lis later moved to the weekly magazine Polityka, where Tomasz Lis worked as a reporter and editor.
+In 1997, Tomasz Lis joined the staff of Wprost, where Tomasz Lis has been editor-in-chief since 2001.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Tomasz Lis (born March 6, 1966, Zielona Góra) is a Polish journalist and former TV anchor of "TVN Fakty" ("TVN Facts") and "Wydarzenia" ("Events").
+Tomasz Lis began his career in TVP (Polish Public Television) in 1990 after winning an open competition for the post of a newsreader.
+From 1994 to 1997, he was a correspondent in Washington, D.C. for TVP.
+From 1997 to 2004, he was the co-author of "Fakty TVN" on the Polish television station TVN.
+From 2006 to 2007, he was the editor-in-chief of "Wydarzenia" on Polsat.
+In 2003, he published his book "Co z tą Polską ".
+("What's with Poland "), which became a bestseller in Poland, selling over 100,000 copies.
+From late 2010 to February 2012, he was the editor-in-chief of the current affairs weekly "Wprost.".
+In March 2012, he became the editor-in-chief of "Newsweek Polska.".
+ 
+
+Coref Resolved: 
+
+Tomasz Lis (born March 6, 1966, Zielona Góra) is a Polish journalist and former TV anchor of "TVN Fakty" ("TVN Facts") and "Wydarzenia" ("Events").
+Tomasz Lis (born March 6, 1966, Zielona Góra) began Tomasz Lis (born March 6, 1966, Zielona Góra) career in TVP (Polish Public Television) in 1990 after winning an open competition for the post of a newsreader.
+From 1994 to 1997, Tomasz Lis (born March 6, 1966, Zielona Góra) was a correspondent in Washington, D.C. for TVP (Polish Public Television) .
+From 1997to 2004, Tomasz Lis (born March 6, 1966, Zielona Góra) was the co-author of "Fakty TVN" on the Polish television station TVN.
+From 2006 to 2007, Tomasz Lis (born March 6, 1966, Zielona Góra) was the editor-in-chief of "Wydarzenia" on Polsat.
+In 2003, Tomasz Lis (born March 6, 1966, Zielona Góra) published Tomasz Lis (born March 6, 1966, Zielona Góra) book "Co z tą Polską ".
+("What's with Poland "), which became a bestseller in Poland , selling over 100,000 copies.
+From late 2010 to February 2012, Tomasz Lis (born March 6, 1966, Zielona Góra) was the editor-in-chief of the current affairs weekly "Wprost.".
+In March 2012, Tomasz Lis (born March 6, 1966, Zielona Góra) became the editor-in-chief of "Newsweek Polska.".
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.25 1.0 -1 0.5 0.0 0.0 0.0 0.5 
+
+Value for ground truth is : 
+0.6 1.0 0.75 0.6 0.75 1.0 -1 0.6666666666666666 0.6666666666666666 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

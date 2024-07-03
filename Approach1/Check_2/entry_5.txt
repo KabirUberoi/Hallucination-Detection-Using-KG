@@ -1,0 +1,218 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Commissioner and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/PGA_Tour and the value is : 1
+http://dbpedia.org/resource/United_States and http://dbpedia.org/resource/Commissioner and the value is : 0
+http://dbpedia.org/resource/United_States and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Commissioner and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Commissioner and the value is : 0
+http://dbpedia.org/resource/Washington_metropolitan_area and http://dbpedia.org/resource/Congressional_Country_Club and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Maryland and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Bachelor_of_Business_Administration and the value is : 1
+http://dbpedia.org/resource/Maryland and http://dbpedia.org/resource/Bachelor_of_Business_Administration and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/University_of_Virginia and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Tim_Finchem and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Tim_Finchem and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Tim_Finchem and the value is : 1
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Tim_Finchem and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Tim_Finchem and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Tim_Finchem and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Golf and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Tim_Finchem and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Of_counsel and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Tim_Finchem and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Of_counsel and the value is : 0
+http://dbpedia.org/resource/Golf and http://dbpedia.org/resource/Tim_Finchem and the value is : 1
+http://dbpedia.org/resource/Golf and http://dbpedia.org/resource/Of_counsel and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Of_counsel and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Deputy_commissioner and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Commissioner and the value is : 0
+http://dbpedia.org/resource/Deputy_commissioner and http://dbpedia.org/resource/Commissioner and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/FedEx_Cup and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Commissioner and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Jay_Monahan and the value is : 0
+http://dbpedia.org/resource/Commissioner and http://dbpedia.org/resource/Jay_Monahan and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/World_Figure_Skating_Championships and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Pheme and the value is : 0
+http://dbpedia.org/resource/World_Figure_Skating_Championships and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/World_Figure_Skating_Championships and http://dbpedia.org/resource/Pheme and the value is : 1
+http://dbpedia.org/resource/Golf and http://dbpedia.org/resource/Pheme and the value is : 1
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Commissioner and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Commissioner and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/PGA_Tour and the value is : 1
+http://dbpedia.org/resource/Commissioner and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Commissioner and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Golf and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Ottawa,_Illinois and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Ottawa,_Illinois and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Deane_Beman and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Deane_Beman and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Vice_president and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Deputy_commissioner and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Chief_operating_officer and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Vice_president and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Deputy_commissioner and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Chief_operating_officer and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Vice_president and http://dbpedia.org/resource/Deputy_commissioner and the value is : 0
+http://dbpedia.org/resource/Vice_president and http://dbpedia.org/resource/Chief_operating_officer and the value is : 0
+http://dbpedia.org/resource/Vice_president and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Vice_president and http://dbpedia.org/resource/PGA_Tour and the value is : 1
+http://dbpedia.org/resource/Deputy_commissioner and http://dbpedia.org/resource/Chief_operating_officer and the value is : 0
+http://dbpedia.org/resource/Deputy_commissioner and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Deputy_commissioner and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Chief_operating_officer and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Chief_operating_officer and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Golf and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Princess_Anne_High_School and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Princess_Anne_High_School and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Princess_Anne_High_School and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Princess_Anne_High_School and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Richmond_Football_Club and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Timothy_Bottoms and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Richmond_Football_Club and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Timothy_Bottoms and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Richmond_Football_Club and http://dbpedia.org/resource/Timothy_Bottoms and the value is : 0
+http://dbpedia.org/resource/Richmond_Football_Club and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Timothy_Bottoms and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/White_House and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Business_administration and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Jimmy_Carter and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Timothy_Bottoms and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/White_House and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Business_administration and the value is : 1
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Jimmy_Carter and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/White_House and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Business_administration and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Jimmy_Carter and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/White_House and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Business_administration and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Jimmy_Carter and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/White_House and http://dbpedia.org/resource/Business_administration and the value is : 0
+http://dbpedia.org/resource/White_House and http://dbpedia.org/resource/Jimmy_Carter and the value is : 0
+http://dbpedia.org/resource/White_House and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/Business_administration and http://dbpedia.org/resource/Jimmy_Carter and the value is : 0
+http://dbpedia.org/resource/Business_administration and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Jimmy_Carter and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Marketing and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Washington_metropolitan_area and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Marketing and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Washington_metropolitan_area and the value is : 0
+http://dbpedia.org/resource/Marketing and http://dbpedia.org/resource/Washington_metropolitan_area and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 1
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Golf and the value is : 1
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Broadcasting and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/American_Broadcasting_Company and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Golf_Channel and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Broadcasting and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/American_Broadcasting_Company and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Golf_Channel and the value is : 1
+http://dbpedia.org/resource/Broadcasting and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Broadcasting and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Broadcasting and http://dbpedia.org/resource/American_Broadcasting_Company and the value is : 0
+http://dbpedia.org/resource/Broadcasting and http://dbpedia.org/resource/ESPN and the value is : 1
+http://dbpedia.org/resource/Broadcasting and http://dbpedia.org/resource/Golf_Channel and the value is : 0
+http://dbpedia.org/resource/Golf and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Golf and http://dbpedia.org/resource/American_Broadcasting_Company and the value is : 0
+http://dbpedia.org/resource/Golf and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Golf and http://dbpedia.org/resource/Golf_Channel and the value is : 0
+http://dbpedia.org/resource/PGA_Tour and http://dbpedia.org/resource/American_Broadcasting_Company and the value is : 1
+http://dbpedia.org/resource/PGA_Tour and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/PGA_Tour and http://dbpedia.org/resource/Golf_Channel and the value is : 1
+http://dbpedia.org/resource/American_Broadcasting_Company and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/American_Broadcasting_Company and http://dbpedia.org/resource/Golf_Channel and the value is : 0
+http://dbpedia.org/resource/ESPN and http://dbpedia.org/resource/Golf_Channel and the value is : 0
+http://dbpedia.org/resource/ReMarkable and http://dbpedia.org/resource/Tiger_Woods and the value is : 0
+http://dbpedia.org/resource/ReMarkable and http://dbpedia.org/resource/Timothy_Bottoms and the value is : 0
+http://dbpedia.org/resource/ReMarkable and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/ReMarkable and http://dbpedia.org/resource/Timothy_Bottoms and the value is : 0
+http://dbpedia.org/resource/ReMarkable and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Tiger_Woods and http://dbpedia.org/resource/Timothy_Bottoms and the value is : 0
+http://dbpedia.org/resource/Tiger_Woods and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Tiger_Woods and http://dbpedia.org/resource/Timothy_Bottoms and the value is : 0
+http://dbpedia.org/resource/Tiger_Woods and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Timothy_Bottoms and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Timothy_Bottoms and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Young_Tom_Morris and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Young_Tom_Morris and the value is : 1
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/April_19 and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Young_Tom_Morris and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Young_Tom_Morris and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Young_Tom_Morris and http://dbpedia.org/resource/Golf and the value is : 1
+http://dbpedia.org/resource/Golf and http://dbpedia.org/resource/United_States and the value is : 1
+http://dbpedia.org/resource/Golf and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/United_States and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Timothy_Bottoms and http://dbpedia.org/resource/April_19 and the value is : 0
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Tim Finchem (born August 24, 1947) is an American businessman and former Commissioner of the PGA Tour. He served as Commissioner from 1994 to 2016.
+
+Finchem was born in Washington, D.C., and grew up in Bethesda, Maryland. He graduated from the University of Maryland in 1969 with a degree in business administration. He then attended the University of Virginia School of Law, where he earned his Juris Doctor degree in 1972.
+
+Finchem began his career in the golf industry in 1975, when he joined the PGA Tour as its first full-time legal counsel. He was promoted to Deputy Commissioner in 1988 and Commissioner in 1994. During his tenure, the PGA Tour grew from a domestic tour to an international tour, with events in more than 30 countries. He also oversaw the introduction of the FedEx Cup, a season-long points competition that culminates in a four-tournament playoff.
+
+Finchem retired as Commissioner in 2016 and was succeeded by Jay Monahan. He was inducted into the World Golf Hall of Fame in 2017.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Timothy W. Finchem (born April 19, 1947) is the current Commissioner of Golf's PGA Tour. Finchem was born in Ottawa, Illinois. He took the position on June 1, 1994, succeeding Deane Beman, who retired after nearly 20 years in the post. Finchem had previously served as Vice President of Business Affairs, Deputy Commissioner, and Chief Operating Officer of the Tour. Finchem graduated from Princess Anne High School in Virginia Beach, Virginia. He attended the University of Richmond on a debate scholarship, receiving his Bachelor of Arts degree in 1969. He graduated from the University of Virginia School of Law in 1973. After practicing law in Virginia Beach for three years, Finchem served in the White House during the administration of Jimmy Carter as Deputy Advisor to the President in the Office of Economic Affairs in 1978 and 1979. In the early 1980s, Finchem co-founded the National Marketing and Strategies Group in Washington, D.C. As Commissioner, Finchem has greatly expanded the earnings opportunities for PGA Tour players both domestically and internationally. He has presided over the last three television broadcasting deals (1997, 2001 and 2005) and has maximized the earnings potential of the Tour, and perhaps none was as bold as the most recent deal that excludes ABC and ESPN and challenges the Golf Channel to get better. In 2006, the total PGA Tour purse was $256.8 million, up from $56.4 million in 1994. That remarkable growth has a lot to do with Tiger Woods, but Finchem's supporters also give him some of the credit. Finchem received the 2001 Old Tom Morris Award from the Golf Course Superintendents Association of America, GCSAA's highest honor. He is a single-figure handicap golfer.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3 and for ground truth is : 0.08333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate accurate minor_inaccurate accurate accurate major_inaccurate 
+

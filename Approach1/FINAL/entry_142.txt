@@ -1,0 +1,120 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/James_Clarke_(composer) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/James_Clarke_(composer) and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/James_Clarke_(composer) and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Victoria_Cross and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Bob_Clarke_(illustrator) and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Deed and the value is : 1
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Deed and the value is : 1
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Deed and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 0
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/Deed and the value is : 1
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Deed and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Indian_Rebellion_of_1857 and http://dbpedia.org/resource/Deed and the value is : 0
+http://dbpedia.org/resource/Indian_Rebellion_of_1857 and http://dbpedia.org/resource/Captain_(cricket) and the value is : 1
+http://dbpedia.org/resource/Deed and http://dbpedia.org/resource/Captain_(cricket) and the value is : 1
+http://dbpedia.org/resource/Lucknow and http://dbpedia.org/resource/Sergeant and the value is : 0
+http://dbpedia.org/resource/Lucknow and http://dbpedia.org/resource/Bob_Clarke_(illustrator) and the value is : 0
+http://dbpedia.org/resource/Lucknow and http://dbpedia.org/resource/Wounded_Man and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Bob_Clarke_(illustrator) and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Wounded_Man and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Wounded_Man and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Bob_Clarke_(illustrator) and the value is : 1
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Wounded_Man and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Wounded_Man and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Bob_Clarke_(illustrator) and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/St._Marys,_Georgia and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Islington and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/St._Marys,_Georgia and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Islington and the value is : 0
+http://dbpedia.org/resource/St._Marys,_Georgia and http://dbpedia.org/resource/Islington and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/James_Clarke_(composer) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/James_Clarke_(composer) and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/James_Clarke_(composer) and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/James_Clarke_(composer) and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Victoria_Cross and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Winsford and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Cheshire and the value is : 0
+http://dbpedia.org/resource/Winsford and http://dbpedia.org/resource/Cheshire and the value is : 1
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Lancashire_Fusiliers and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Company_sergeant_major and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/15th_Battalion_(Australia) and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Lancashire_Fusiliers and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Victoria_Cross and the value is : 1
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Given_name and the value is : 0
+http://dbpedia.org/resource/Company_sergeant_major and http://dbpedia.org/resource/15th_Battalion_(Australia) and the value is : 0
+http://dbpedia.org/resource/Company_sergeant_major and http://dbpedia.org/resource/Lancashire_Fusiliers and the value is : 0
+http://dbpedia.org/resource/Company_sergeant_major and http://dbpedia.org/resource/British_Army and the value is : 1
+http://dbpedia.org/resource/Company_sergeant_major and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/Company_sergeant_major and http://dbpedia.org/resource/Given_name and the value is : 0
+http://dbpedia.org/resource/15th_Battalion_(Australia) and http://dbpedia.org/resource/Lancashire_Fusiliers and the value is : 1
+http://dbpedia.org/resource/15th_Battalion_(Australia) and http://dbpedia.org/resource/British_Army and the value is : 1
+http://dbpedia.org/resource/15th_Battalion_(Australia) and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/15th_Battalion_(Australia) and http://dbpedia.org/resource/Given_name and the value is : 0
+http://dbpedia.org/resource/Lancashire_Fusiliers and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Lancashire_Fusiliers and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/Lancashire_Fusiliers and http://dbpedia.org/resource/Given_name and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Given_name and the value is : 0
+http://dbpedia.org/resource/Victoria_Cross and http://dbpedia.org/resource/Given_name and the value is : 1
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Victory_parade and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Pneumonia and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 1
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Michael_Ashcroft and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Imperial_War_Museum and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Michael_Ashcroft and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Imperial_War_Museum and the value is : 1
+http://dbpedia.org/resource/Michael_Ashcroft and http://dbpedia.org/resource/Imperial_War_Museum and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+james clarke vc 18311864 was an english recipient of the victoria cross the highest and most prestigious award for gallantry in the face of the enemy that can be awarded to british and commonwealth forces. he was approximately 33 years old and a sergeant in the 2nd battalion the rifle brigade prince consorts own british army during the indian mutiny when the following deed took place for which he was awarded the vc. on 16 november 1857 at lucknow india sergeant clarke with two other sergeants volunteered to go out and bring in a wounded man who was lying close to the enemys position. the three sergeants succeeded in rescuing the man but sergeant clarke was severely wounded in the attempt. he died of his wounds on 28 december 1864 at the age of 33 and was buried in st. marys churchyard islington london. 
+
+Coref Resolved : 
+james clarke vc 18311864 was an english recipient of the victoria cross the highest and most prestigious award for gallantry in the face of the enemy that can be awarded to british and commonwealth forces. sergeant clarke was approximately 33 years old and a sergeant in the 2nd battalion the rifle brigade prince consorts own british army during the indian mutiny when the following deed took place for which sergeant clarke was awarded the vc. on 16 november 1857 at lucknow india sergeant clarke with two other sergeants volunteered to go out and bring in a wounded man who was lying close to the enemys position. sergeant clarke with two other sergeants succeeded in rescuing a wounded man who was lying close to the enemys positionbut sergeant clarke was severely wounded in the attempt. sergeant clarke died of sergeant clarke wounds on 28 december 1864 at the age of 33 and was buried in st. marys churchyard islington london.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+james clarke vc 6 april 1894 16 june 1947 was an english recipient of the victoria cross the highest and most prestigious award for gallantry in the face of the enemy that can be awarded to british and commonwealth forces. he was born in winsford cheshire. leaving school at the age of 14 he worked as a daylabourer before enlisting in the lancashire fusiliers in october 1915. he was 24 years old and an acting company sergeant major in the 15th battalion lancashire fusiliers british army during the first world war when he performed the deeds which resulted in the award of the victoria cross. his citation reads the forename in the original citation was subsequently corrected. he did not find much success in civilian life. on 8 june 1946 clarke participated in the world war ii victory parade. he died the following year of pneumonia. his vc is on display in the lord ashcroft gallery at the imperial war museum london. 
+
+Coref Resolved : 
+james clarke vc 6 april 1894 16 june 1947 was an english recipient of the victoria cross the highest and most prestigious award for gallantry in the face of the enemy that can be awarded to british and commonwealth forces. clarke was born in winsford cheshire. leaving school at the age of 14 clarke worked as a daylabourer before enlisting in the lancashire fusiliers in october 1915. clarke was 24 years old and an acting company sergeant major in the 15th battalion lancashire fusiliers british army during the first world war when clarke performed the deeds which resulted in the award of the victoria cross. clarke citation reads the forename in the original citation was subsequently corrected. clarke did not find much success in civilian life. on 8 june 1946 clarke participated in the world war ii victory parade. clarke died the following year of pneumonia. clarke vc is on display in the lord ashcroft gallery at the imperial war museum london.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.12244897959183673 and for ground truth is : 0.18604651162790697
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

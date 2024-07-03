@@ -1,0 +1,46 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Ohio and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Chicago and the value is : 1
+http://dbpedia.org/resource/Ohio and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Lead_guitar and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Kip_Winger and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Reb_Beach and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Rod_Morgenstein and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Kip_Winger and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Reb_Beach and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Rod_Morgenstein and the value is : 1
+http://dbpedia.org/resource/Kip_Winger and http://dbpedia.org/resource/Reb_Beach and the value is : 1
+http://dbpedia.org/resource/Kip_Winger and http://dbpedia.org/resource/Rod_Morgenstein and the value is : 1
+http://dbpedia.org/resource/Reb_Beach and http://dbpedia.org/resource/Rod_Morgenstein and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+paul taylor born paul taylor winger on april 19 1959 is an american singersongwriter multiinstrumentalist and record producer. he is best known as the lead singer and songwriter of the band winger. taylor is also a solo artist having released two albums and has written and produced songs for other artists. taylor was born in cleveland ohio and grew up in the suburbs of chicago. he began playing guitar at the age of 12 and by the time he was 15 he was playing in local bands. he attended the university of illinois at urbanachampaign where he studied music and theater. after college he moved to los angeles and formed the band winger with kip winger reb beach and rod morgenstein. the band released four albums between 1988 and 1993 and had several hit singles including seventeen and headed for a heartbreak. taylor left winger in 1994 to pursue a solo career. he released his debut solo album another place and time in 1998. 
+
+Coref Resolved : 
+paul taylor born paul taylor winger on april 19 1959 is an american singersongwriter multiinstrumentalist and record producer. paul taylor is best known as the lead singer and songwriter of the band winger. paul taylor is also a solo artist having released two albums and has written and produced songs for other artists. paul taylor was born in cleveland ohio and grew up in the suburbs of chicago. paul taylor began playing guitar at the age of 12 and by the time paul taylor was 15 paul taylor was playing in local bands. paul taylor attended the university of illinois at urbanachampaign where paul taylor studied music and theater. after college paul taylor moved to los angeles and formed the band wingerwith kip winger reb beach and rod morgenstein. the band wingerreleased four albums between 1988 and 1993 and had several hit singles including seventeen and headed for a heartbreak. paul taylor left the band wingerin 1994 to pursue a solo career. paul taylor released paul taylor debut solo album another place and time in 1998.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1724137931034483
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate minor_inaccurate accurate minor_inaccurate major_inaccurate 
+

@@ -1,0 +1,30 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/St_Mirren_F.C. and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Glasgow and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scottish_Cup and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 0
+http://dbpedia.org/resource/Scottish_Cup and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scottish_Football_League_XI and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scottish_Football_League_XI and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+archie baird 18901962 was a scottish footballer who played for rangers st mirren and scotland. he was born in glasgow and began his career with rangers in 1910. he made his debut for the club in a scottish cup tie against st mirren in 1911. he went on to make over 200 appearances for the club winning two scottish league titles and two scottish cups. baird was capped seven times by scotland making his debut against england in 1912. he also represented the scottish league xi on four occasions. he left rangers in 1923 and joined st mirren where he made over 100 appearances before retiring in 1927. he died in 1962. 
+
+Coref Resolved : 
+archie baird 18901962 was a scottish footballer who played for rangers st mirren and scotland. archie baird 18901962 was born in glasgow and began archie baird 18901962 career with rangers in 1910. archie baird 18901962 made archie baird 18901962 debut for rangers in a scottish cup tie against st mirren in 1911. archie baird 18901962 went on to make over 200 appearances for rangers winning two scottish league titles and two scottish cups. archie baird 18901962 was capped seven times by scotlandmaking archie baird 18901962 debut against england in 1912. archie baird 18901962 also represented the scottish league xi on four occasions. archie baird 18901962 left rangers in 1923 and joined st mirren where archie baird 18901962 made over 100 appearances before retiring in 1927. archie baird 18901962 died in 1962.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.46153846153846156
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

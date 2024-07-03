@@ -1,0 +1,106 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Sydney_Swans and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Sydney_Swans and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/NSL_Cup and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Sydney_Swans and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Premier_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Newcastle_Breakers_FC and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Central_Coast_Mariners_FC and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Central_Coast_United_FC and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Central_Coast_United_FC and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/St_Kilda_Football_Club and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/St_Kilda_Football_Club and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football_positions and http://dbpedia.org/resource/Derek_King and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football_positions and http://dbpedia.org/resource/Western_Australia_Australian_rules_football_team and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football_positions and http://dbpedia.org/resource/Swan_Districts_Football_Club and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football_positions and http://dbpedia.org/resource/Oakleigh_Football_Club and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football_positions and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Oakleigh_Football_Club and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Caulfield_Football_Club and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Clinton_King and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Bill_Clinton and http://dbpedia.org/resource/Cancer and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Derek King (born 28 April 1965) is an Australian former professional footballer who played as a midfielder.
+He is best known for his time with the National Soccer League (NSL) club Sydney Olympic, where he won the NSL Championship in 2002.
+King began his career in the NSL with Sydney Olympic in 1989.
+He was part of the team that won the NSL Championship in 2002, and was also part of the team that won the NSL Cup in 2000.
+He was a regular starter for the club, making over 200 appearances in the NSL.
+King also had a successful career in the Australian Premier League, playing for the Newcastle Breakers and the Central Coast Mariners.
+He was part of the Mariners team that won the APL Championship in 2005.
+King retired from professional football in 2006, after a successful career spanning 17 years.
+He is now a coach, and is currently the head coach of the Central Coast Mariners Academy.
+
+
+Coref Resolved: 
+
+Derek King (born 28 April 1965) is an Australian former professional footballer who played as a midfielder.
+Derek King is best known for Derek King time with the National Soccer League (NSL) club Sydney Olympic, where Derek King won the NSL Championship in 2002.
+Derek King began Derek King career in NSL with the National Soccer League (NSL) club Sydney Olympic, where he won the NSL Championship in 2002in 1989.
+Derek King was part of the team that won the NSL Championship in 2002, and was also part of the team that won the NSL Cup in 2000.
+Derek King was a regular starter for the National Soccer League (NSL) club Sydney Olympic, where he won the NSL Championship in 2002, making over 200 appearances in NSL .
+Derek King also had a successful career in the Australian Premier League, playing for the Newcastle Breakers and the Central Coast Mariners.
+Derek King was part of the the Central Coast Marinersteam that won the the Australian Premier LeagueChampionship in 2005.
+Derek King retired from professional football in 2006, after a successful career spanning 17 years.
+Derek King is now a coach, and is currently the head coach of the the Central Coast MarinersAcademy.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Derek King (7 September 1948 - 28 April 2014) was an Australian rules footballer who played for St Kilda in the Victorian Football League (VFL) during the late 1960s.
+King came into the St Kilda senior side after making his way up from the thirds, but couldn't establish himself in the VFL.
+A rover, he played briefly in Western Australia with Swan Districts before joining Oakleigh in the Victorian Football Association.
+He played his best football at Oakleigh, winning two Association Best and Fairest awards the first division's J. J. Liston Trophy in 1975, and then the second division's J. Field Trophy in 1977, when he polled a record 67 votes.
+He also placed second by a single vote for the Liston Trophy in 1976, and third in 1970.
+He transferred to first division team Caulfield in 1978, and placed third for the Liston Trophy again in 1980.
+His son, Clinton King, was an AFL player at three separate clubs.
+He died from cancer on 28 April 2014, aged 65.
+ 
+
+Coref Resolved: 
+
+Derek King (7 September 1948 - 28 April 2014) was an Australian rules footballer who played for St Kilda in the Victorian Football League (VFL) during the late 1960s.
+Derek King came into the St Kilda senior side after making Derek King way up from the thirds, but couldn't establish Derek King in the Victorian Football League (VFL) .
+A rover, Derek King played briefly in Western Australia with Swan Districts before joining Oakleigh in the Victorian Football Association.
+Derek King played Derek King best football at Oakleigh in the Victorian Football Association, winning two Association Best and Fairest awards the first division's J. J. Liston Trophy in 1975, and then the second division's J. Field Trophy in 1977, when Derek King polled a record 67 votes.
+Derek King also placed second by a single vote for the first division's J. J. Liston Trophy in 1976, and third in 1970.
+Derek King transferred to first division team Caulfield in 1978, and placed third for the first division's J. J. Liston Trophy again in 1980.
+Derek King son, Clinton King, was an AFL player at three separate clubs.
+His son, Clinton Kingdied from cancer on 28 April 2014, aged 65.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+Value for ground truth is : 
+0.0 0.0 0.0 0.0 -1 0.0 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

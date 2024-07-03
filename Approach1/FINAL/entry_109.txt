@@ -1,0 +1,114 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Korean_drama and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/American_Gothic and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/American_Gothic and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Tracy_Beaker and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Adam_Freeland and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Teen_drama and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Tracy_Beaker and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Adam_Freeland and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Teen_drama and the value is : 0
+http://dbpedia.org/resource/Tracy_Beaker and http://dbpedia.org/resource/Adam_Freeland and the value is : 0
+http://dbpedia.org/resource/Tracy_Beaker and http://dbpedia.org/resource/Teen_drama and the value is : 0
+http://dbpedia.org/resource/Adam_Freeland and http://dbpedia.org/resource/Teen_drama and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/DC_Universe and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Amateur_wrestling and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Roman_calendar and the value is : 0
+http://dbpedia.org/resource/DC_Universe and http://dbpedia.org/resource/Amateur_wrestling and the value is : 0
+http://dbpedia.org/resource/DC_Universe and http://dbpedia.org/resource/Roman_calendar and the value is : 0
+http://dbpedia.org/resource/Amateur_wrestling and http://dbpedia.org/resource/Roman_calendar and the value is : 1
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Korean_drama and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/True_Blood and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Westworld and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/True_Blood and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Westworld and the value is : 0
+http://dbpedia.org/resource/True_Blood and http://dbpedia.org/resource/Westworld and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Game_of_Thrones and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/American_Gothic and the value is : 0
+http://dbpedia.org/resource/Game_of_Thrones and http://dbpedia.org/resource/American_Gothic and the value is : 1
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Teen_drama and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Teen_drama and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Pretty_Persuasion and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Scissors and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/DC_Universe and the value is : 0
+http://dbpedia.org/resource/Independent_film and http://dbpedia.org/resource/Pretty_Persuasion and the value is : 0
+http://dbpedia.org/resource/Independent_film and http://dbpedia.org/resource/Scissors and the value is : 0
+http://dbpedia.org/resource/Independent_film and http://dbpedia.org/resource/DC_Universe and the value is : 0
+http://dbpedia.org/resource/Pretty_Persuasion and http://dbpedia.org/resource/Scissors and the value is : 0
+http://dbpedia.org/resource/Pretty_Persuasion and http://dbpedia.org/resource/DC_Universe and the value is : 0
+http://dbpedia.org/resource/Scissors and http://dbpedia.org/resource/DC_Universe and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Amateur_wrestling and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Roman_calendar and the value is : 0
+http://dbpedia.org/resource/Amateur_wrestling and http://dbpedia.org/resource/Roman_calendar and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Queen_regnant and the value is : 1
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/True_Blood and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Golden_Globe_Awards and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Limited_Series_or_Movie and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Vocational_university and the value is : 1
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Miniseries and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Mildred_Pierce and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Queen_regnant and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/True_Blood and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Golden_Globe_Awards and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Limited_Series_or_Movie and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Vocational_university and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Miniseries and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Mildred_Pierce and the value is : 0
+http://dbpedia.org/resource/Queen_regnant and http://dbpedia.org/resource/True_Blood and the value is : 0
+http://dbpedia.org/resource/Queen_regnant and http://dbpedia.org/resource/Golden_Globe_Awards and the value is : 0
+http://dbpedia.org/resource/Queen_regnant and http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Limited_Series_or_Movie and the value is : 0
+http://dbpedia.org/resource/Queen_regnant and http://dbpedia.org/resource/Vocational_university and the value is : 0
+http://dbpedia.org/resource/Queen_regnant and http://dbpedia.org/resource/Miniseries and the value is : 0
+http://dbpedia.org/resource/Queen_regnant and http://dbpedia.org/resource/Mildred_Pierce and the value is : 0
+http://dbpedia.org/resource/True_Blood and http://dbpedia.org/resource/Golden_Globe_Awards and the value is : 0
+http://dbpedia.org/resource/True_Blood and http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Limited_Series_or_Movie and the value is : 0
+http://dbpedia.org/resource/True_Blood and http://dbpedia.org/resource/Vocational_university and the value is : 0
+http://dbpedia.org/resource/True_Blood and http://dbpedia.org/resource/Miniseries and the value is : 0
+http://dbpedia.org/resource/True_Blood and http://dbpedia.org/resource/Mildred_Pierce and the value is : 0
+http://dbpedia.org/resource/Golden_Globe_Awards and http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Limited_Series_or_Movie and the value is : 0
+http://dbpedia.org/resource/Golden_Globe_Awards and http://dbpedia.org/resource/Vocational_university and the value is : 0
+http://dbpedia.org/resource/Golden_Globe_Awards and http://dbpedia.org/resource/Miniseries and the value is : 0
+http://dbpedia.org/resource/Golden_Globe_Awards and http://dbpedia.org/resource/Mildred_Pierce and the value is : 0
+http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Limited_Series_or_Movie and http://dbpedia.org/resource/Vocational_university and the value is : 0
+http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Limited_Series_or_Movie and http://dbpedia.org/resource/Miniseries and the value is : 0
+http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Limited_Series_or_Movie and http://dbpedia.org/resource/Mildred_Pierce and the value is : 0
+http://dbpedia.org/resource/Vocational_university and http://dbpedia.org/resource/Miniseries and the value is : 0
+http://dbpedia.org/resource/Vocational_university and http://dbpedia.org/resource/Mildred_Pierce and the value is : 0
+http://dbpedia.org/resource/Miniseries and http://dbpedia.org/resource/Mildred_Pierce and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Marilyn_Manson and the value is : 1
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Jamie_Bell and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Jamie_Bell and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+evan rachel wood born september 7 1987 is an american actress model and musician. she began acting in the 1990s appearing in several television series including american gothic 199596 and once and again 19992002. wood made her debut as a leading film actress at the age of nine in digging to china 1997 and garnered acclaim for her golden globenominated role as the troubled teenager tracy freeland in the teen drama film thirteen 2003. she is also known for her roles in the films across the universe 2007 the wrestler 2008 and the ides of march 2011. she has also appeared in several television series including true blood 20082014 and westworld 2016present. 
+
+Coref Resolved : 
+evan rachel wood born september 7 1987 is an american actress model and musician. evan rachel wood born september 7 1987 began acting in the 1990s appearing in several television series including american gothic 199596 and once and again 19992002. evan rachel wood born september 7 1987 made evan rachel wood born september 7 1987 debut as a leading film actress at the age of nine in digging to china 1997 and garnered acclaim for evan rachel wood born september 7 1987 golden globenominated role as the troubled teenager tracy freeland in the teen drama film thirteen 2003. evan rachel wood born september 7 1987 is also known for evan rachel wood born september 7 1987 roles in the films across the universe 2007 the wrestler 2008 and the ides of march 2011. evan rachel wood born september 7 1987 has also appeared in several television series including true blood 20082014 and westworld 2016present.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+evan rachel wood born september 7 1987 is an american actress. she began acting in the 1990s appearing in several television series including american gothic 19951996 and once and again 19992002. wood made her debut as a leading film actress at the age of nine in digging to china 1998 and became well known after her transition to a more adultoriented golden globenominated role in the teen drama film thirteen 2003. wood continued acting mostly in independent films including pretty persuasion 2005 down in the valley 2006 running with scissors 2006 and in the big studio production across the universe 2007. since 2008 wood has appeared in more mainstream films including the wrestler 2008 whatever works 2009 and the ides of march 2011. she has also returned to television playing the supporting role of queen sophieanne on true blood from 2009 to 2011 and playing kate winslets daughter in the hbo miniseries mildred pierce 2011 a role for which she was nominated for the golden globe and emmy award for best supporting actress. her personal life particularly her relationship with marilyn manson to whom she was previously engaged has attracted press attention. in 2012 she married english actor jamie bell with whom she has one son. they separated in 2014. 
+
+Coref Resolved : 
+evan rachel wood born september 7 1987 is an american actress. evan rachel wood born september 7 1987 began acting in the 1990s appearing in several television series including american gothic 19951996 and once and again 19992002. evan rachel wood born september 7 1987 made evan rachel wood born september 7 1987 debut as a leading film actress at the age of nine in digging to china 1998 and became well known after evan rachel wood born september 7 1987 transition to a more adultoriented golden globenominated role in the teen drama film thirteen 2003. evan rachel wood born september 7 1987 continued acting mostly in independent films including pretty persuasion 2005 down in the valley 2006 running with scissors 2006 and in the big studio production across the universe 2007. since 2008 evan rachel wood born september 7 1987 has appeared in more mainstream films including the wrestler 2008 whatever works 2009 and the ides of march 2011. evan rachel wood born september 7 1987 has also returned to television playing the supporting role of queen sophieanne on true blood from 2009 to 2011and a role for which she was nominated for the golden globe and emmy award for best supporting actresskate winslets daughter in the hbo miniseries mildred pierce 2011a role for which evan rachel wood born september 7 1987 was nominated for the golden globe and emmy award for best supporting actress. evan rachel wood born september 7 1987 personal life particularly evan rachel wood born september 7 1987 relationship with marilyn manson to whom evan rachel wood born september 7 1987 was previously engaged has attracted press attention. in 2012 evan rachel wood born september 7 1987 married english actor jamie bell with whom evan rachel wood born september 7 1987 has one son. they separated in 2014.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.038461538461538464 and for ground truth is : 0.1
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate 
+

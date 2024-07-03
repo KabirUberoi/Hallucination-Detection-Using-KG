@@ -1,0 +1,97 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/The_American_Lawyer and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Florida_Senate and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/History_of_the_United_States_Democratic_Party and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Bachelor_of_Laws and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Naval_Air_Station_Pensacola and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Escambia_County,_Florida and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Florida_Senate and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Florida_Senate and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/State_school and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/State_school and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/January_29 and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/United_States_House_of_Representatives and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/January_29 and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/United_States_House_of_Representatives and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Mississippi and the value is : 1
+http://dbpedia.org/resource/January_29 and http://dbpedia.org/resource/United_States_House_of_Representatives and the value is : 0
+http://dbpedia.org/resource/January_29 and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/United_States_House_of_Representatives and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Amite_County,_Mississippi and http://dbpedia.org/resource/Alexander_III_of_Russia and the value is : 0
+http://dbpedia.org/resource/Amite_County,_Mississippi and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Amite_County,_Mississippi and http://dbpedia.org/resource/State_school and the value is : 0
+http://dbpedia.org/resource/Amite_County,_Mississippi and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Alexander_III_of_Russia and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Alexander_III_of_Russia and http://dbpedia.org/resource/State_school and the value is : 0
+http://dbpedia.org/resource/Alexander_III_of_Russia and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/State_school and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/State_school and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Liberty and the value is : 1
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Liberty and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Liberty and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Liberty and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/District_attorney and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Judicial_district and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/District_attorney and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Judicial_district and the value is : 0
+http://dbpedia.org/resource/District_attorney and http://dbpedia.org/resource/Judicial_district and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Constitution_of_Indiana and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Constitution_of_Indiana and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Constitution_of_Indiana and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Love_(Kendrick_Lamar_song) and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Love_(Kendrick_Lamar_song) and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/New_York_Supreme_Court and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/New_York_Supreme_Court and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/City and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+frank a. mclain 18901962 was an american lawyer and politician from the state of florida. he served as a member of the florida house of representatives from 1923 to 1925 and as a member of the florida senate from 1925 to 1929. he was a member of the democratic party. mclain was born in 1890 in pensacola florida. he attended the university of florida where he earned a law degree in 1914. after graduating he returned to pensacola and began practicing law. in 1923 mclain was elected to the florida house of representatives representing escambia county. he served in the house until 1925 when he was elected to the florida senate. he served in the senate until 1929. mclain was a strong advocate for public education and was instrumental in the passage of the 1927 florida education act which provided for the establishment of a statewide system of public schools. he also supported the creation of a statewide system of roads and highways. mclain died in 1962 in pensacola. he is remembered as a dedicated public 
+
+Coref Resolved : 
+frank a. mclain 18901962 was an american lawyer and politician from the state of florida. frank a. mclain 18901962 served as a member of the the state of floridahouse of representatives from 1923 to 1925 and as a member of the florida senate from 1925 to 1929. frank a. mclain 18901962 was a member of the democratic party. frank a. mclain 18901962 was born in 1890 in pensacola the state of florida. frank a. mclain 18901962 attended the university of florida where frank a. mclain 18901962 earned a law degree in 1914. after graduating frank a. mclain 18901962 returned to pensacola floridaand began practicing law. in 1923 frank a. mclain 18901962 was elected to the the state of floridahouse of representatives representing escambia county. frank a. mclain 18901962 served in the florida house of representatives until 1925 when frank a. mclain 18901962 was elected to the florida senate . frank a. mclain 18901962 served in the florida senate until 1929. frank a. mclain 18901962 was a strong advocate for public education and was instrumental in the passage of the 1927 the state of floridaeducation act which provided for the establishment of a statewide system of public schools. frank a. mclain 18901962 also supported the creation of a statewide system of roads and highways. frank a. mclain 18901962 died in 1962 in pensacola florida. frank a. mclain 18901962 is remembered as a dedicated public
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+frank alexander mclain january 29 1852 october 10 1920 was a u.s. representative from mississippi. born near gloster in amite county mississippi mclain attended the public schools and was graduated from the university of mississippi at oxford in 1874. he studied law was admitted to the bar and commenced practice in liberty mississippi in 1880. he served as a member of the state house of representatives from 18811883 and as district attorney for the judicial district from 1883 until january 1 1896 when he resigned. he resumed the practice of law in gloster mississippi and served as a member of the state constitutional convention in 1890. mclain was elected as a democrat to the fiftyfifth congress to fill the vacancy caused by the death of william f. love. he was reelected to the fiftysixth and to the four succeeding congresses and served from december 12 1898 to march 3 1909. he was a state supreme court commissioner from 19101912. he died in gloster mississippi on october 10 1920 and was interred in the city cemetery. 
+
+Coref Resolved : 
+frank alexander mclain january 29 1852 october 10 1920 was a u.s. representative from mississippi. born near gloster in amite county mississippifrank alexander mclain attended the public schools and was graduated from the university of mississippi at oxford in 1874. frank alexander mclain studied law was admitted to the bar and commenced practice in liberty mississippi in 1880. frank alexander mclain served as a member of the state house of representatives from 18811883 and as district attorney for the judicial district from 1883 until january 1 1896 when frank alexander mclain resigned. frank alexander mclain resumed the practice of law in gloster and served as a member of the state constitutional convention in 1890. frank alexander mclain was elected as a democrat to the fiftyfifth congress to fill the vacancy caused by the death of william f. love. frank alexander mclain was reelected to the fiftysixth and to the four succeeding congresses and served from december 12 1898 to march 3 1909. frank alexander mclain was a state supreme court commissioner from 19101912. frank alexander mclain died in gloster on october 10 1920 and was interred in the city cemetery.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0 and for ground truth is : 0.038461538461538464
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate 
+

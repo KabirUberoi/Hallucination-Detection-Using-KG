@@ -1,0 +1,79 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitarist and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Jazz_guitarist and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Pat_Martino and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Joe_Henderson and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Bobby_Hutcherson and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Joe_Henderson and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Bobby_Hutcherson and the value is : 1
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/Joe_Henderson and the value is : 0
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/Bobby_Hutcherson and the value is : 0
+http://dbpedia.org/resource/Joe_Henderson and http://dbpedia.org/resource/Bobby_Hutcherson and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Philadelphia and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Pennsylvania and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitar and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitarist and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Wes_Montgomery and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Kenny_Burrell and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/George_Benson and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Jazz_guitarist and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Wes_Montgomery and the value is : 1
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Kenny_Burrell and the value is : 1
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/George_Benson and the value is : 0
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Wes_Montgomery and the value is : 0
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Kenny_Burrell and the value is : 1
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/George_Benson and the value is : 0
+http://dbpedia.org/resource/Wes_Montgomery and http://dbpedia.org/resource/Kenny_Burrell and the value is : 1
+http://dbpedia.org/resource/Wes_Montgomery and http://dbpedia.org/resource/George_Benson and the value is : 0
+http://dbpedia.org/resource/Kenny_Burrell and http://dbpedia.org/resource/George_Benson and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/University_of_Miami and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jim_Henson and the value is : 1
+http://dbpedia.org/resource/University_of_Miami and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/University_of_Miami and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Joe_Henderson and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Kenny_Barron and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Joe_Henderson and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Kenny_Barron and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Joe_Henderson and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Kenny_Barron and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Joe_Henderson and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Kenny_Barron and the value is : 0
+http://dbpedia.org/resource/Joe_Henderson and http://dbpedia.org/resource/Kenny_Barron and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Popular_music and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/George_Gershwin and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Antônio_Carlos_Jobim and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/George_Gershwin and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Antônio_Carlos_Jobim and the value is : 0
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/George_Gershwin and the value is : 0
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/Antônio_Carlos_Jobim and the value is : 0
+http://dbpedia.org/resource/George_Gershwin and http://dbpedia.org/resource/Antônio_Carlos_Jobim and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+royce campbell born october 28 1954 is an american jazz guitarist. he has released several albums as a leader and has performed and recorded with many jazz musicians including pat martino joe henderson and bobby hutcherson. campbell was born in philadelphia pennsylvania. he began playing guitar at age 11 and was influenced by jazz guitarists wes montgomery kenny burrell and george benson. he attended the university of miami where he studied with pat martino and jim hall. after graduating he moved to new york city and began performing with jazz musicians such as joe henderson bobby hutcherson and kenny barron. campbell has released several albums as a leader including royce campbell plays the music of pat martino 1995 royce campbell plays the music of george gershwin 1997 and royce campbell plays the music of antonio carlos jobim 1999. he has also released several albums with his group the royce campbell quartet. 
+
+Coref Resolved : 
+royce campbell born october 28 1954 is an american jazz guitarist. royce campbell born october 28 1954 has released several albums as a leader and has performed and recorded with many jazz musicians including pat martino joe henderson and bobby hutcherson. royce campbell born october 28 1954 was born in philadelphia pennsylvania. royce campbell born october 28 1954 began playing guitar at age 11 and was influenced by jazz guitarists wes montgomery kenny burrell and george benson. royce campbell born october 28 1954 attended the university of miami where royce campbell born october 28 1954 studied with pat martino and jim hall. after graduating royce campbell born october 28 1954 moved to new york city and began performing with jazz musicians such as joe henderson bobby hutchersonand kenny barron. royce campbell born october 28 1954 has released several albums as a leader including royce campbell born october 28 1954 plays the music of pat martino 1995 royce campbell born october 28 1954 plays the music of george gershwin 1997 and royce campbell born october 28 1954 plays the music of antonio carlos jobim 1999. royce campbell born october 28 1954 has also released several albums with royce campbell born october 28 1954 group the royce campbell quartet.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3548387096774194
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

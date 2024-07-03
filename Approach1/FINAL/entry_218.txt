@@ -1,0 +1,116 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_R._Holman and http://dbpedia.org/resource/Chemistry and the value is : 0
+http://dbpedia.org/resource/John_R._Holman and http://dbpedia.org/resource/Physical_organic_chemistry and the value is : 0
+http://dbpedia.org/resource/Chemistry and http://dbpedia.org/resource/Physical_organic_chemistry and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/University_of_Manchester and the value is : 0
+http://dbpedia.org/resource/Organic_reaction and http://dbpedia.org/resource/Political_radicalism and the value is : 0
+http://dbpedia.org/resource/Holman_Rule and http://dbpedia.org/resource/Chemical_reaction and the value is : 0
+http://dbpedia.org/resource/Holman_Rule and http://dbpedia.org/resource/Political_radicalism and the value is : 1
+http://dbpedia.org/resource/Chemical_reaction and http://dbpedia.org/resource/Political_radicalism and the value is : 0
+http://dbpedia.org/resource/Royal_Society and http://dbpedia.org/resource/Davy_Medal and the value is : 0
+http://dbpedia.org/resource/Royal_Medal and http://dbpedia.org/resource/Royal_Society and the value is : 1
+http://dbpedia.org/resource/Editorial_board and http://dbpedia.org/resource/Royal_Society_of_Chemistry and the value is : 0
+http://dbpedia.org/resource/Editorial_board and http://dbpedia.org/resource/Organic_chemistry and the value is : 0
+http://dbpedia.org/resource/Royal_Society_of_Chemistry and http://dbpedia.org/resource/Organic_chemistry and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Chemistry and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Wellcome_Trust and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Gatsby_Charitable_Foundation and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Science_Learning_Centres and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Royal_Society and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Chemistry and the value is : 1
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Wellcome_Trust and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Gatsby_Charitable_Foundation and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Science_Learning_Centres and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Royal_Society and the value is : 0
+http://dbpedia.org/resource/Chemistry and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Chemistry and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Chemistry and http://dbpedia.org/resource/Wellcome_Trust and the value is : 1
+http://dbpedia.org/resource/Chemistry and http://dbpedia.org/resource/Gatsby_Charitable_Foundation and the value is : 0
+http://dbpedia.org/resource/Chemistry and http://dbpedia.org/resource/Science_Learning_Centres and the value is : 0
+http://dbpedia.org/resource/Chemistry and http://dbpedia.org/resource/Royal_Society and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Education and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Wellcome_Trust and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Gatsby_Charitable_Foundation and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Science_Learning_Centres and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Royal_Society and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Wellcome_Trust and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Gatsby_Charitable_Foundation and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Science_Learning_Centres and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Royal_Society and the value is : 0
+http://dbpedia.org/resource/Wellcome_Trust and http://dbpedia.org/resource/Gatsby_Charitable_Foundation and the value is : 0
+http://dbpedia.org/resource/Wellcome_Trust and http://dbpedia.org/resource/Science_Learning_Centres and the value is : 0
+http://dbpedia.org/resource/Wellcome_Trust and http://dbpedia.org/resource/Royal_Society and the value is : 0
+http://dbpedia.org/resource/Gatsby_Charitable_Foundation and http://dbpedia.org/resource/Science_Learning_Centres and the value is : 0
+http://dbpedia.org/resource/Gatsby_Charitable_Foundation and http://dbpedia.org/resource/Royal_Society and the value is : 0
+http://dbpedia.org/resource/Science_Learning_Centres and http://dbpedia.org/resource/Royal_Society and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Stem_cell and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Outline_of_academic_disciplines and the value is : 1
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Food_technology and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Mathematics_education and the value is : 0
+http://dbpedia.org/resource/Stem_cell and http://dbpedia.org/resource/Outline_of_academic_disciplines and the value is : 0
+http://dbpedia.org/resource/Stem_cell and http://dbpedia.org/resource/Food_technology and the value is : 0
+http://dbpedia.org/resource/Stem_cell and http://dbpedia.org/resource/Mathematics_education and the value is : 0
+http://dbpedia.org/resource/Outline_of_academic_disciplines and http://dbpedia.org/resource/Food_technology and the value is : 0
+http://dbpedia.org/resource/Outline_of_academic_disciplines and http://dbpedia.org/resource/Mathematics_education and the value is : 1
+http://dbpedia.org/resource/Food_technology and http://dbpedia.org/resource/Mathematics_education and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Trustee and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Royal_Society and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Museum and the value is : 0
+http://dbpedia.org/resource/Trustee and http://dbpedia.org/resource/Royal_Society and the value is : 0
+http://dbpedia.org/resource/Trustee and http://dbpedia.org/resource/Museum and the value is : 0
+http://dbpedia.org/resource/Royal_Society and http://dbpedia.org/resource/Museum and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Knight_Bachelor and the value is : 1
+http://dbpedia.org/resource/Royal_Society and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Royal_Society and http://dbpedia.org/resource/Lord_Lewis_Prize and the value is : 1
+http://dbpedia.org/resource/Royal_Society and http://dbpedia.org/resource/Chemistry_education and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Lord_Lewis_Prize and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Chemistry_education and the value is : 0
+http://dbpedia.org/resource/Lord_Lewis_Prize and http://dbpedia.org/resource/Chemistry_education and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Advanced_Chemistry and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Chemistry and the value is : 0
+http://dbpedia.org/resource/Advanced_Chemistry and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Advanced_Chemistry and http://dbpedia.org/resource/Chemistry and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Chemistry and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Science_Council and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Royal_Society and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Kavli_Medal and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Science_education and the value is : 0
+http://dbpedia.org/resource/Science_Council and http://dbpedia.org/resource/Royal_Society and the value is : 0
+http://dbpedia.org/resource/Science_Council and http://dbpedia.org/resource/Kavli_Medal and the value is : 0
+http://dbpedia.org/resource/Science_Council and http://dbpedia.org/resource/Science_education and the value is : 1
+http://dbpedia.org/resource/Royal_Society and http://dbpedia.org/resource/Kavli_Medal and the value is : 0
+http://dbpedia.org/resource/Royal_Society and http://dbpedia.org/resource/Science_education and the value is : 1
+http://dbpedia.org/resource/Kavli_Medal and http://dbpedia.org/resource/Science_education and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john holman 19192006 was a british chemist who made significant contributions to the field of physical organic chemistry. he was a professor at the university of manchester from 1956 to 1984. holmans research focused on the mechanisms of organic reactions particularly those involving radicals. he developed the concept of the holman pathway to describe the reaction of radicals with other molecules. he also developed the holman rule to explain the relative reactivity of different radicals. holman was a fellow of the royal society and a recipient of the davy medal. he was also awarded the royal medal of the royal society in 1975. he was a member of the editorial board of the journal of the chemical society and the journal of organic chemistry. 
+
+Coref Resolved : 
+john holman 19192006 was a british chemist who made significant contributions to the field of physical organic chemistry. holman was a professor at the university of manchester from 1956 to 1984. holman research focused on the mechanisms of organic reactions particularly those involving radicals. holman developed the concept of the holman pathway to describe the reaction of radicals with other molecules. holman also developed the holman rule to explain the relative reactivity of different radicals. holman was a fellow of the royal society and a recipient of the davy medal. holman was also awarded the royal medal of the royal society in 1975. holman was a member of the editorial board of the journal of the chemical society and the journal of organic chemistry.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+professor sir john stranger holman is emeritus professor of chemistry at the university of york a senior advisor in education at the wellcome trust and the gatsby foundation founding director of the national science learning centre and presidentelect of the royal society of chemistry. he was the british governments national stem director from 2006 to 2010 stem referring to the academic disciplines of science technology engineering and mathematics. he is on the council and a trustee of the royal society of chemistry and is a trustee of the natural history museum. he was made a knight bachelor in the 2010 new years honours. in 2014 the royal society of chemistry awarded him the lord lewis prize in recognition of his extensive influence over chemistry education policy. he is chair of the salters institute board was the founding director of salters advanced chemistry programme and is the author of numerous chemistry textbooks. he was named in 2014 by the science council as one of the uks 100 leading practising scientists and was the 2014 recipient of the royal societys biennial kavli education medal in recognition of his significant impact on science education within the uk. 
+
+Coref Resolved : 
+professor sir john stranger holman is emeritus professor of chemistry at the university of york a senior advisor in education at the wellcome trust and the gatsby foundation founding director of the national science learning centre and presidentelect of the royal society of chemistry. professor sir john stranger holman was the british governments national stem director from 2006 to 2010 stem referring to the academic disciplines of science technology engineering and mathematics. professor sir john stranger holman is on the council and a trustee of the royal society of chemistryand is a trustee of the natural history museum. professor sir john stranger holman was made a knight bachelor in the 2010 new years honours. in 2014 the royal society of chemistryawarded professor sir john stranger holman the lord lewis prize in recognition of professor sir john stranger holman extensive influence over chemistry education policy. professor sir john stranger holman is chair of the salters institute board was the founding director of salters advanced chemistry programme and is the author of numerous chemistry textbooks. professor sir john stranger holman was named in 2014 by the science council as one of the uks 100 leading practising scientists and was the 2014 recipient of the royal society of chemistrybiennial kavli education medal in recognition of professor sir john stranger holman significant impact on science education within the uks .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.23076923076923078 and for ground truth is : 0.12
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

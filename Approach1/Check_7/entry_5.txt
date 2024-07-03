@@ -1,0 +1,90 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/PGA_Tour and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Walter_Reed_National_Military_Medical_Center and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/Maryland and http://dbpedia.org/resource/Bachelor_of_Business_Administration and the value is : 1
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Juris_Doctor and the value is : 1
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Juris_Doctor and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/PGA_Tour_on_CBS and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/PGA_Tour and the value is : 1
+http://dbpedia.org/resource/PGA_Tour_on_CBS and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Jay_Monahan and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Ottawa and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Ottawa and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Vice_president and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Chief_operating_officer and the value is : 1
+http://dbpedia.org/resource/Vice_president and http://dbpedia.org/resource/Chief_operating_officer and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Princess_Anne_High_School and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Virginia_Beach,_Virginia and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Princess_Anne_High_School and http://dbpedia.org/resource/Virginia_Beach,_Virginia and the value is : 0
+http://dbpedia.org/resource/Princess_Anne_High_School and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Virginia_Beach,_Virginia and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Richmond_Football_Club and http://dbpedia.org/resource/Bachelor_of_Arts and the value is : 1
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Virginia_Beach,_Virginia and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Timothy-grass and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Business_administration and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Jimmy_Carter and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Aiwan-e-Sadr and the value is : 0
+http://dbpedia.org/resource/Virginia_Beach,_Virginia and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Virginia_Beach,_Virginia and http://dbpedia.org/resource/Timothy-grass and the value is : 0
+http://dbpedia.org/resource/Virginia_Beach,_Virginia and http://dbpedia.org/resource/Business_administration and the value is : 0
+http://dbpedia.org/resource/Virginia_Beach,_Virginia and http://dbpedia.org/resource/Jimmy_Carter and the value is : 1
+http://dbpedia.org/resource/Virginia_Beach,_Virginia and http://dbpedia.org/resource/Aiwan-e-Sadr and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Timothy-grass and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Business_administration and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Jimmy_Carter and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Aiwan-e-Sadr and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Business_administration and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Jimmy_Carter and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Aiwan-e-Sadr and the value is : 0
+http://dbpedia.org/resource/Business_administration and http://dbpedia.org/resource/Jimmy_Carter and the value is : 0
+http://dbpedia.org/resource/Business_administration and http://dbpedia.org/resource/Aiwan-e-Sadr and the value is : 0
+http://dbpedia.org/resource/Jimmy_Carter and http://dbpedia.org/resource/Aiwan-e-Sadr and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Marketing_strategy and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Marketing_strategy and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Broadcasting and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Broadcasting and http://dbpedia.org/resource/Golf_Channel and the value is : 0
+http://dbpedia.org/resource/ESPN and http://dbpedia.org/resource/Golf_Channel and the value is : 0
+http://dbpedia.org/resource/ReMarkable and http://dbpedia.org/resource/Tiger_Woods and the value is : 0
+http://dbpedia.org/resource/ReMarkable and http://dbpedia.org/resource/Timothy-grass and the value is : 1
+http://dbpedia.org/resource/Tiger_Woods and http://dbpedia.org/resource/Timothy-grass and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Old_Tom_Morris and the value is : 0
+http://dbpedia.org/resource/Timothy-grass and http://dbpedia.org/resource/Golf and the value is : 0
+http://dbpedia.org/resource/Old_Tom_Morris and http://dbpedia.org/resource/Golf and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tim finchem born august 24 1947 american businessman commissioner pga tour . served commissioner 1994 2016 . finchem born washington d.c . grew bethesda maryland . graduated university maryland 1969 degree business administration . attended university virginia school law earned juris doctor degree 1972 . finchem began career golf industry 1975 joined pga tour fulltime legal counsel . promoted deputy commissioner 1988 commissioner 1994 . tenure pga tour grew domestic tour international tour events 30 countries . oversaw introduction fedex cup seasonlong points competition culminates fourtournament playoff . finchem retired commissioner 2016 succeeded jay monahan . inducted world golf hall fame 2017 . 
+
+Coref Resolved : 
+tim finchem born august 24 1947 american businessman commissioner pga tour . served commissioner 1994 2016 . tim finchem born washington d.c . grew bethesda maryland . graduated university maryland 1969 degree business administration . attended university virginia school law earned juris doctor degree 1972 . tim finchem began career golf industry 1975 joined pga tour fulltime legal counsel . promoted deputy commissioner 1988 commissioner 1994 . tenure pga tour grew domestic tour international tour events 30 countries . oversaw introduction fedex cup seasonlong points competition culminates fourtournament playoff . tim finchem retired commissioner 2016 succeeded jay monahan . inducted world golf hall fame 2017 .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+timothy w. finchem born april 19 1947 current commissioner golfs pga tour . finchem born ottawa illinois . took position june 1 1994 succeeding deane beman retired nearly 20 years post . finchem previously served vice president business affairs deputy commissioner chief operating officer tour . finchem graduated princess anne high school virginia beach virginia . attended university richmond debate scholarship receiving bachelor arts degree 1969 . graduated university virginia school law 1973 . practicing law virginia beach years finchem served white house administration jimmy carter deputy advisor president office economic affairs 1978 1979 . early 1980s finchem cofounded national marketing strategies group washington d.c . commissioner finchem greatly expanded earnings opportunities pga tour players domestically internationally . presided television broadcasting deals 1997 2001 2005 maximized earnings potential tour bold recent deal excludes abc espn challenges golf channel better . 2006 total pga tour purse 256.8 million 56.4 million 1994 . remarkable growth lot tiger woods finchems supporters credit . finchem received 2001 old tom morris award golf course superintendents association america gcsaas highest honor . singlefigure handicap golfer . 
+
+Coref Resolved : 
+timothy w. finchem born april 19 1947 current commissioner golfs pga tour . timothy w. finchem born ottawa illinois . took position june 1 1994 succeeding deane beman retired nearly 20 years post . timothy w. finchem previously served vice president business affairs deputy commissioner chief operating officer tour . timothy w. finchem graduated princess anne high school virginia beach virginia . attended university richmond debate scholarship receiving bachelor arts degree 1969 . graduated university virginia school law 1973 . practicing law virginia beach virginia years timothy w. finchem served white house administration jimmy carter deputy advisor president office economic affairs 1978 1979 . early 1980s timothy w. finchem cofounded national marketing strategies group washington d.c . commissioner timothy w. finchem greatly expanded earnings opportunities pga tour players domestically internationally . presided television broadcasting deals 1997 2001 2005 maximized earnings potential tour bold recent deal excludes abc espn challenges golf channel better . 2006 total pga tour purse 256.8 million 56.4 million 1994 . remarkable growth lot tiger woods timothy w. finchem supporters credit . timothy w. finchem received 2001 old tom morris award golf course superintendents association america gcsaas highest honor . singlefigure handicap golfer .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.6363636363636364 and for ground truth is : 0.0784313725490196
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate accurate minor_inaccurate accurate accurate major_inaccurate 
+

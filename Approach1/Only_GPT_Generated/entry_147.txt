@@ -1,0 +1,40 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Antonia_Iacobescu and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Ballet_dancer and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Antonia_Iacobescu and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Antonia_Iacobescu and http://dbpedia.org/resource/Ballet_dancer and the value is : 0
+http://dbpedia.org/resource/Antonia_Iacobescu and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ballet_dancer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Ballet_dancer and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Culture_of_Spain and the value is : 1
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Campo_de_Criptana and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Province_of_Ciudad_Real and the value is : 0
+http://dbpedia.org/resource/Campo_de_Criptana and http://dbpedia.org/resource/Province_of_Ciudad_Real and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Latin_America and the value is : 1
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/La_Violetera and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/The_Last_Torch_Song and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/La_Belleza,_Santander and the value is : 0
+http://dbpedia.org/resource/La_Violetera and http://dbpedia.org/resource/The_Last_Torch_Song and the value is : 0
+http://dbpedia.org/resource/La_Violetera and http://dbpedia.org/resource/La_Belleza,_Santander and the value is : 1
+http://dbpedia.org/resource/The_Last_Torch_Song and http://dbpedia.org/resource/La_Belleza,_Santander and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Musician and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Amor_de_mis_amores and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+sara montiel born maría antonia abad fernández 10 march 1928 8 april 2013 was a spanish singer dancer and actress. she was a major figure in spanish culture from the 1950s through the 1970s. montiel was born in campo de criptana ciudad real castilela mancha spain. she began her career as a singer in the early 1940s and by the 1950s had become a major film star in spain and latin america. she starred in films such as la violetera 1958 el último cuplé 1957 and la belleza del día 1962. montiel was also a successful recording artist releasing several albums throughout her career. she was known for her flamboyant style and her signature song amor de mis amores. montiel died in madrid in 2013 at the age of 85. 
+
+Coref Resolved : 
+sara montiel born maría antonia abad fernández 10 march 1928 8 april 2013 was a spanish singer dancer and actress. sara montiel was a major figure in spanish culture from the 1950s through the 1970s. sara montiel was born in campo de criptana ciudad real castilela mancha spain. sara montiel began sara montiel career as a singer in the early 1940s and by the 1950s had become a major film star in spainand latin america. sara montiel starred in films such as la violetera 1958 el último cuplé 1957 and la belleza del día 1962. sara montiel was also a successful recording artist releasing several albums throughout sara montiel career. sara montiel was known for sara montiel flamboyant style and sara montiel signature song amor de mis amores. sara montiel died in madrid in 2013 at the age of 85.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21739130434782608
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate minor_inaccurate accurate minor_inaccurate accurate 
+

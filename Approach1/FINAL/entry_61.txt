@@ -1,0 +1,142 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Pennsylvania and the value is : 1
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Percussion_instrument and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Keyboard_instrument and the value is : 1
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Wards_of_Japan and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Percussion_instrument and the value is : 1
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Wards_of_Japan and the value is : 1
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Percussion_instrument and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Wards_of_Japan and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Percussion_instrument and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Wards_of_Japan and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Percussion_instrument and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Percussion_instrument and http://dbpedia.org/resource/Wards_of_Japan and the value is : 0
+http://dbpedia.org/resource/Percussion_instrument and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Keyboard_instrument and http://dbpedia.org/resource/Wards_of_Japan and the value is : 0
+http://dbpedia.org/resource/Keyboard_instrument and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Wards_of_Japan and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Soul_music and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Vocal_harmony and the value is : 0
+http://dbpedia.org/resource/Soul_music and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Soul_music and http://dbpedia.org/resource/Vocal_harmony and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Vocal_harmony and the value is : 0
+http://dbpedia.org/resource/African-American_music and http://dbpedia.org/resource/Indie_rock and the value is : 0
+http://dbpedia.org/resource/African-American_music and http://dbpedia.org/resource/Funk and the value is : 0
+http://dbpedia.org/resource/African-American_music and http://dbpedia.org/resource/Heart_sounds and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Funk and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Heart_sounds and the value is : 0
+http://dbpedia.org/resource/Funk and http://dbpedia.org/resource/Heart_sounds and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Categorization and http://dbpedia.org/resource/Math_rock and the value is : 0
+http://dbpedia.org/resource/Categorization and http://dbpedia.org/resource/Don_Caballero and the value is : 0
+http://dbpedia.org/resource/Categorization and http://dbpedia.org/resource/Sunny_Day_Real_Estate and the value is : 0
+http://dbpedia.org/resource/Categorization and http://dbpedia.org/resource/Pinback and the value is : 0
+http://dbpedia.org/resource/Math_rock and http://dbpedia.org/resource/Don_Caballero and the value is : 1
+http://dbpedia.org/resource/Math_rock and http://dbpedia.org/resource/Sunny_Day_Real_Estate and the value is : 0
+http://dbpedia.org/resource/Math_rock and http://dbpedia.org/resource/Pinback and the value is : 0
+http://dbpedia.org/resource/Don_Caballero and http://dbpedia.org/resource/Sunny_Day_Real_Estate and the value is : 1
+http://dbpedia.org/resource/Don_Caballero and http://dbpedia.org/resource/Pinback and the value is : 0
+http://dbpedia.org/resource/Sunny_Day_Real_Estate and http://dbpedia.org/resource/Pinback and the value is : 0
+http://dbpedia.org/resource/Dirty_Projectors and http://dbpedia.org/resource/Beirut and the value is : 1
+http://dbpedia.org/resource/Dirty_Projectors and http://dbpedia.org/resource/Market_trend and the value is : 0
+http://dbpedia.org/resource/Beirut and http://dbpedia.org/resource/Market_trend and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Cabaret and the value is : 0
+http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom and http://dbpedia.org/resource/Cabaret and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Scott_Solter and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/John_Vanderslice and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Mountain_goat and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Remix and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Stowaway and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Scott_Solter and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/John_Vanderslice and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Mountain_goat and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Remix and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Stowaway and the value is : 1
+http://dbpedia.org/resource/Scott_Solter and http://dbpedia.org/resource/John_Vanderslice and the value is : 1
+http://dbpedia.org/resource/Scott_Solter and http://dbpedia.org/resource/Mountain_goat and the value is : 0
+http://dbpedia.org/resource/Scott_Solter and http://dbpedia.org/resource/Remix and the value is : 0
+http://dbpedia.org/resource/Scott_Solter and http://dbpedia.org/resource/Stowaway and the value is : 0
+http://dbpedia.org/resource/John_Vanderslice and http://dbpedia.org/resource/Mountain_goat and the value is : 0
+http://dbpedia.org/resource/John_Vanderslice and http://dbpedia.org/resource/Remix and the value is : 0
+http://dbpedia.org/resource/John_Vanderslice and http://dbpedia.org/resource/Stowaway and the value is : 0
+http://dbpedia.org/resource/Mountain_goat and http://dbpedia.org/resource/Remix and the value is : 0
+http://dbpedia.org/resource/Mountain_goat and http://dbpedia.org/resource/Stowaway and the value is : 1
+http://dbpedia.org/resource/Remix and http://dbpedia.org/resource/Stowaway and the value is : 0
+http://dbpedia.org/resource/Remix and http://dbpedia.org/resource/Analog_recording and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Scott_Solter and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/John_Vanderslice and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Mountain_goat and the value is : 1
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Stowaway and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Scott_Solter and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/John_Vanderslice and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Mountain_goat and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Stowaway and the value is : 0
+http://dbpedia.org/resource/Scott_Solter and http://dbpedia.org/resource/John_Vanderslice and the value is : 0
+http://dbpedia.org/resource/Scott_Solter and http://dbpedia.org/resource/Mountain_goat and the value is : 0
+http://dbpedia.org/resource/Scott_Solter and http://dbpedia.org/resource/Stowaway and the value is : 0
+http://dbpedia.org/resource/John_Vanderslice and http://dbpedia.org/resource/Mountain_goat and the value is : 1
+http://dbpedia.org/resource/John_Vanderslice and http://dbpedia.org/resource/Stowaway and the value is : 0
+http://dbpedia.org/resource/Mountain_goat and http://dbpedia.org/resource/Stowaway and the value is : 0
+http://dbpedia.org/resource/Hooke's_law and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Hooke's_law and http://dbpedia.org/resource/Audio_engineer and the value is : 1
+http://dbpedia.org/resource/Hooke's_law and http://dbpedia.org/resource/Scott_Solter and the value is : 0
+http://dbpedia.org/resource/Hooke's_law and http://dbpedia.org/resource/John_Vanderslice and the value is : 0
+http://dbpedia.org/resource/Hooke's_law and http://dbpedia.org/resource/Mountain_goat and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Scott_Solter and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/John_Vanderslice and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Mountain_goat and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Scott_Solter and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/John_Vanderslice and the value is : 1
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Mountain_goat and the value is : 0
+http://dbpedia.org/resource/Scott_Solter and http://dbpedia.org/resource/John_Vanderslice and the value is : 1
+http://dbpedia.org/resource/Scott_Solter and http://dbpedia.org/resource/Mountain_goat and the value is : 0
+http://dbpedia.org/resource/John_Vanderslice and http://dbpedia.org/resource/Mountain_goat and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+pattern is movement is an american indie rock band from philadelphia pennsylvania. the band consists of andrew thiboldeaux vocals guitar drums percussion keyboards and chris ward vocals bass guitar keyboards. the band has released four fulllength albums two eps and several singles. the bands sound is a mix of indie rock soul and jazz with a focus on intricate vocal harmonies and complex rhythms. their music has been described as a mix of soulful jazzy indie rock with a hint of funk and a lot of heart. the band has toured extensively throughout the united states and europe and has shared the stage with acts such as the national the walkmen and the roots. 
+
+Coref Resolved : 
+pattern is movement is an american indie rock band from philadelphia pennsylvania. pattern is movement consists of andrew thiboldeaux vocals guitar drums percussion keyboards and chris ward vocals bass guitar keyboards. pattern is movement has released four fulllength albums two eps and several singles. pattern is movement sound is a mix of indie rock soul and jazz with a focus on intricate vocal harmonies and complex rhythms. pattern is movement music has been described as a mix of soulful jazzy indie rock with a hint of funk and a lot of heart. pattern is movement has toured extensively throughout the united states and europe and has shared the stage with acts such as the national the walkmen and the roots.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+pattern is movement often stylized as pattern is movement is an american indie rock band from philadelphia pennsylvania that was established in 2001. they have been categorized by some reviewers as a math rock group and compared to groups such as don caballero sunny day real estate and pinback. however as the band moved from a fivepiece to a twopiece their sound moved away from the angular sound of previous records and closer to a more melodic heavy composition structure with singalong choruses. the current twopiece sound can be attributed to influences such as dirty projectors beirut and grizzly bear. in an interview with baeble music ward coined the band with the term indie cabaret. in 2006 producer and engineer scott solter who has worked with john vanderslice and the mountain goats remixed the 2005 album stowaway which he had also recorded. this remix was considered unique due to its exclusivity to analog processes. solter is credited on the album with machines razors tape. since 2008 pattern is movement have been performing as a twopiece. on the january 2008 issue of philadelphia weekly they were featured in a cover story citing four indie bands that can expect a big year. the band emerged with a new album all together documenting the lineup in the spring of 2008 also recorded with solter. in his favorable review pitchfork media writer joe tangari described it as an accessible album that nonetheless sounds unlike what any other band is doing. in april 2009 they became one of limewires featured artists. in 2015 after releasing their selftitled fourth album pattern is movement announced their farewell tour. 
+
+Coref Resolved : 
+pattern is movement often stylized as pattern is movement is an american indie rock band from philadelphia pennsylvania that was established in 2001. pattern is movement have been categorized by some reviewers as a math rock group and compared to groups such as don caballero sunny day real estate and pinback. however as pattern is movement moved from a fivepiece to a twopiece pattern is movement sound moved away from the angular sound of previous records and closer to a more melodic heavy composition structure with singalong choruses. the current twopiece sound can be attributed to influences such as dirty projectors beirut and grizzly bear. in an interview with baeble music ward coined pattern is movement with the term indie cabaret. in 2006 producer and engineer scott solter who has worked with john vanderslice and the mountain goats this remix the 2005 album stowaway which producer and engineer scott solter who has worked with john vanderslice and the mountain goats had also recorded. this remix was considered unique due to this remix exclusivity to analog processes. producer and engineer scott solter who has worked with john vanderslice and the mountain goats is credited on the 2005 album stowaway which he had also recordedwith machines razors tape. since 2008 pattern is movement have been performing as a twopiece. on the january 2008 issue of philadelphia weekly pattern is movement were featured in a cover story citing four indie bands that can expect a big year. pattern is movement emerged with a new album all together documenting the lineup in the spring of 2008 also recorded with producer and engineer scott solter who has worked with john vanderslice and the mountain goats . in pitchfork media writer joe tangari favorable review pitchfork media writer joe tangari described it as an accessible album that nonetheless sounds unlike what any other band is doing. in april 2009 pattern is movement became one of limewires featured artists. in 2015 after releasing pattern is movement selftitled fourth album pattern is movement announced pattern is movement farewell tour.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.18604651162790697 and for ground truth is : 0.16901408450704225
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

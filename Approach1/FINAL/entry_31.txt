@@ -1,0 +1,89 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/St_Mirren_F.C. and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Glasgow and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scottish_Cup and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 1
+http://dbpedia.org/resource/Scottish_Cup and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scottish_Football_League_XI and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scottish_Football_League_XI and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Aberdeen_F.C. and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/St_Johnstone_F.C. and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Aberdeen_F.C. and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/St_Johnstone_F.C. and the value is : 1
+http://dbpedia.org/resource/Aberdeen_F.C. and http://dbpedia.org/resource/St_Johnstone_F.C. and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Data_cap and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Data_cap and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Rutherglen and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Aberdeen_F.C. and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/British_Army and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Family and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Autobiography and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Family and the value is : 1
+http://dbpedia.org/resource/Autobiography and http://dbpedia.org/resource/Family and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Aberdeen_F.C. and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Exhibition_game and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Belgium and the value is : 1
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Exhibition_game and the value is : 1
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Belgium and the value is : 1
+http://dbpedia.org/resource/Exhibition_game and http://dbpedia.org/resource/Belgium and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Exhibition_game and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Belgium and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Jimmy_Delaney and the value is : 1
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Exhibition_game and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Belgium and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Jimmy_Delaney and the value is : 1
+http://dbpedia.org/resource/Exhibition_game and http://dbpedia.org/resource/Belgium and the value is : 0
+http://dbpedia.org/resource/Exhibition_game and http://dbpedia.org/resource/Jimmy_Delaney and the value is : 0
+http://dbpedia.org/resource/Belgium and http://dbpedia.org/resource/Jimmy_Delaney and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Archie_Baird and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Aberdeen_F.C. and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scottish_League_Cup and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scottish_Football_League_XI and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scottish_Cup and the value is : 1
+http://dbpedia.org/resource/Aberdeen_F.C. and http://dbpedia.org/resource/Scottish_League_Cup and the value is : 0
+http://dbpedia.org/resource/Aberdeen_F.C. and http://dbpedia.org/resource/Scottish_Football_League_XI and the value is : 1
+http://dbpedia.org/resource/Aberdeen_F.C. and http://dbpedia.org/resource/Scottish_Cup and the value is : 0
+http://dbpedia.org/resource/Scottish_League_Cup and http://dbpedia.org/resource/Scottish_Football_League_XI and the value is : 0
+http://dbpedia.org/resource/Scottish_League_Cup and http://dbpedia.org/resource/Scottish_Cup and the value is : 0
+http://dbpedia.org/resource/Scottish_Football_League_XI and http://dbpedia.org/resource/Scottish_Cup and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Aberdeen_F.C. and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/St_Johnstone_F.C. and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Sports_journalism and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Sleep and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+archie baird 18901962 was a scottish footballer who played for rangers st mirren and scotland. he was born in glasgow and began his career with rangers in 1910. he made his debut for the club in a scottish cup tie against st mirren in 1911. he went on to make over 200 appearances for the club winning two scottish league titles and two scottish cups. baird was capped seven times by scotland making his debut against england in 1912. he also represented the scottish league xi on four occasions. he left rangers in 1923 and joined st mirren where he made over 100 appearances before retiring in 1927. he died in 1962. 
+
+Coref Resolved : 
+archie baird 18901962 was a scottish footballer who played for rangers st mirren and scotland. archie baird 18901962 was born in glasgow and began archie baird 18901962 career with rangers in 1910. archie baird 18901962 made archie baird 18901962 debut for rangers in a scottish cup tie against st mirren in 1911. archie baird 18901962 went on to make over 200 appearances for rangers winning two scottish league titles and two scottish cups. archie baird 18901962 was capped seven times by scotlandmaking archie baird 18901962 debut against england in 1912. archie baird 18901962 also represented the scottish league xi on four occasions. archie baird 18901962 left rangers in 1923 and joined st mirren where archie baird 18901962 made over 100 appearances before retiring in 1927. archie baird 18901962 died in 1962.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+archie baird 8 may 1919 3 november 2009 was a scottish association football player who played for aberdeen and st. johnstone. he was also capped once by the scotland national football team. baird was born in rutherglen. baird signed for aberdeen before the second world war but the war started before he had made the first team. he joined the british army but was captured and held as a prisoner of war. he escaped and lived with an italian family as their son. in 1989 he published an autobiography family of four which described these experiences. baird returned to aberdeen before the end of the war. his good form in this period earned him selection for scotland in a friendly match against belgium in early 1946. baird was one of nine scotland players making their international debut in the match with only jimmy delaney having significant experience. of those nine debutants five players did not make another international appearance including baird. baird helped aberdeen win the southern league cup a forerunner of the scottish league cup in 1946 and the 1947 scottish cup but his appearances were restricted by injuries. in all he made 104 league appearances for aberdeen scoring 26 goals in those matches. he was transferred in 1953 to st. johnstone where he played for three seasons before retiring in 1956. after retiring as a player baird worked as a teacher and a sports journalist. baird celebrated his 90th birthday in may 2009 and died quietly in his sleep on 3 november 2009. 
+
+Coref Resolved : 
+archie baird 8 may 1919 3 november 2009 was a scottish association football player who played for aberdeen and st. johnstone. archie baird was also capped once by the scotland national football team. archie baird was born in rutherglen. archie baird signed for aberdeen before the second world war but the second world war started before archie baird had made the first team. archie baird joined the british army but was captured and held as a prisoner of war. archie baird escaped and lived with an italian family as an italian family son. in 1989 archie baird published an autobiography family of four which described these experiences. archie baird returned to aberdeen before the end of the second world war . archie baird good form in this period earned archie baird selection for scotland in a friendly match against belgium in early 1946. archie baird was one of nine scotland players making nine scotland players making their international debut in the match international debut in a friendly match against belgium in early 1946with only jimmy delaney having significant experience. of nine scotland players making their international debut in the match five players did not make another international appearance including archie baird . archie baird helped aberdeen win the southern league cup a forerunner of the scottish league cup in 1946 and the 1947 scottish cup but archie baird appearances were restricted by injuries. in all archie baird made 104 league appearances for aberdeen scoring 26 goals in 104 league appearances . archie baird was transferred in 1953 to st. johnstone where archie baird played for three seasons before retiring in 1956. after retiring as a player archie baird worked as a teacher and a sports journalist. archie baird celebrated archie baird 90th birthday in may 2009 and died quietly in archie baird sleep on 3 november 2009.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.46153846153846156 and for ground truth is : 0.5
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

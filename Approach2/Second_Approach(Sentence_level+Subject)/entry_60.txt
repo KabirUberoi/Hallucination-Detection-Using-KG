@@ -1,0 +1,93 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 1
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/Barack_Obama and the value is : 1
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/Electrical_engineering and the value is : 0
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/Rensselaer_Polytechnic_Institute and the value is : 0
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/Juris_Doctor and the value is : 1
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/Intellectual_property and the value is : 1
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and the value is : 1
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/IBM and the value is : 1
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/Vice_president and the value is : 0
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/General_officer and the value is : 0
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/IBM and the value is : 1
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/Patent_attorney and the value is : 0
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/IBM and the value is : 1
+http://dbpedia.org/resource/David_Kappos and http://dbpedia.org/resource/Intellectual_property and the value is : 1
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+David Kappos (born December 28, 1958) is an American lawyer and former Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (USPTO).
+He was appointed by President Barack Obama on August 7, 2009, and sworn in on August 13, 2009.
+He served until February 2013.
+Kappos was born in 1958 in New York City.
+He received a Bachelor of Science degree in electrical engineering from Rensselaer Polytechnic Institute in 1980 and a Juris Doctor degree from the University of Virginia School of Law in 1983.
+He is a member of the New York Bar.
+Kappos began his career in intellectual property law in 1983 at the law firm of Cravath, Swaine Moore in New York City.
+He joined IBM in 1996 and served as Vice President and Assistant General Counsel for Intellectual Property Law.
+In this role, he was responsible for IBM's worldwide patent, trademark, and copyright operations.
+He was also responsible for IBM's intellectual property litigation, licensing, and strategic IP transactions.
+
+
+Coref Resolved: 
+
+David Kappos (born December 28, 1958) is an American lawyer and former Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (USPTO).
+David Kappos (born December 28, 1958) was appointed by President Barack Obama on August 7, 2009, and sworn in on August 13, 2009.
+David Kappos (born December 28, 1958) served until February 2013.
+David Kappos (born December 28, 1958) was born in 1958 in New York City.
+David Kappos (born December 28, 1958) received a Bachelor of Science degree in electrical engineering from Rensselaer Polytechnic Institute in 1980 and a Juris Doctor degree from the University of Virginia School of Law in 1983.
+David Kappos (born December 28, 1958) is a member of the New York Bar.
+David Kappos (born December 28, 1958) began David Kappos (born December 28, 1958) career in intellectual property law in 1983at the law firm of Cravath, Swaine Moore in New York City.
+David Kappos (born December 28, 1958) joined IBM in 1996 and served as Vice President and Assistant General Counsel for Intellectual Property Law.
+In this role, David Kappos (born December 28, 1958) was responsible for IBM worldwide patent, trademark, and copyright operations.
+David Kappos (born December 28, 1958) was also responsible for IBM intellectual property litigation, licensing, and strategic IP transactions.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) is an attorney who served as the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (USPTO) from 2009 to 2013.
+Prior to being confirmed to this post by the U.S. Senate on August 7, 2009, Kappos was the Vice President and Assistant General Counsel, Intellectual Property Law, for IBM Corporation.
+Kappos announced his intent to step down from the position in late January 2013.
+His final day in office was Friday, February 1, 2013.
+He was succeeded by Teresa Stanek Rea as Acting Under Secretary and Acting Director.
+Kappos received his bachelor's degree in electrical and computer engineering from the University of California-Davis in 1983, and his law degree from the University of California Berkeley in 1990.
+He joined IBM in 1983 as a development engineer and has served in a variety of roles before taking his last position at IBM, including Intellectual Property Law Attorney in IBM's Storage Division and Litigation Group, IP Law Counsel in IBM's Software Group, Assistant General Counsel for IBM Asia Pacific, IBM Corporate Counsel and Assistant General Counsel.
+Kappos served on the board of directors of the American Intellectual Property Law Association, the Intellectual Property Owners Association, and the International Intellectual Property Society.
+After leaving the PTO, Kappos joined the law firm of Cravath, Swaine Moore, where he advises clients on intellectual property matters relating to corporate mergers and acquisitions and litigation.
+ 
+
+Coref Resolved: 
+
+David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) is an attorney who served as the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (USPTO) from 2009 to 2013.
+Prior to being confirmed to this post by the U.S. Senate on August 7, 2009, David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) was the Vice President and Assistant General Counsel, Intellectual Property Law, for IBM Corporation.
+David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) announced David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) intent to step down from this post in late January 2013.
+David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) final day in office was Friday, February 1, 2013.
+David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) was succeeded by Teresa Stanek Rea as Acting Under Secretary and Acting Director.
+David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) received David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) bachelor's degree in electrical and computer engineering from the University of California-Davis in 1983, and David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) law degree from the University of California Berkeley in 1990.
+David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) joined IBM Corporationin 1983as a development engineer and has served in a variety of roles before taking David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) last position at IBM Corporation, including Intellectual Property Law Attorney in IBM CorporationStorage Division and Litigation Group, IP Law Counsel in IBM CorporationSoftware Group, Assistant General Counsel for IBM Asia Pacific, IBM CorporationCorporate Counsel and Assistant General Counsel.
+David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) served on the board of directors of the American Intellectual Property Law Association, the Intellectual Property Owners Association, and the International Intellectual Property Society.
+After leaving the United States Patent and Trademark Office (USPTO) , David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) joined the law firm of Cravath, Swaine Moore, where David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) advises clients on intellectual property matters relating to corporate mergers and acquisitions and litigation.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5 0.5 -1 0.0 0.25 0.0 0.6666666666666666 0.3333333333333333 0.3333333333333333 1.0 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate major_inaccurate major_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate minor_inaccurate 
+

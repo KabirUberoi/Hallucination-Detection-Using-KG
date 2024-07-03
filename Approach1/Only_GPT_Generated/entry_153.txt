@@ -1,0 +1,28 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Indian_independence_movement and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Indian_National_Congress and the value is : 1
+http://dbpedia.org/resource/Indian_independence_movement and http://dbpedia.org/resource/Indian_National_Congress and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Village and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Amritsar and the value is : 0
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Amritsar and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Indian_independence_movement and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Punjab_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Punjab_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Balbir_Singh_Kullar and http://dbpedia.org/resource/Rajya_Sabha and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+balbir singh kullar 19192006 was an indian freedom fighter and a prominent leader of the indian national congress. he was born in the village of kullar in the district of amritsar punjab. he was a member of the indian national congress since 1942 and was actively involved in the indian independence movement. he was a member of the all india congress committee from 1952 to 1956 and was elected to the punjab legislative assembly in 1957. he was also a member of the rajya sabha from 1962 to 1968. he was a member of the indian delegation to the united nations in 1965. he was a member of the indian delegation to the united nations in 1965. he was also a member of the indian delegation to the united nations in 1965. he was a member of the indian delegation to the united nations in 1965. he was also a member of the indian delegation to the united nations in 1965. he was a member of the indian delegation to the united nations in 1965. he was also a member of the indian delegation to the united nations in 1965. he was a member of the indian delegation to the 
+
+Coref Resolved : 
+balbir singh kullar 19192006 was an indian freedom fighter and a prominent leader of the indian national congress. balbir singh kullar 19192006 was born in the village of kullar in the district of amritsar punjab. balbir singh kullar 19192006 was a member of the indian national congresssince 1942 and was actively involved in the indian independence movement. balbir singh kullar 19192006 was a member of the all india congress committee from 1952 to 1956 and was elected to the punjab legislative assembly in 1957. balbir singh kullar 19192006 was also a member of the rajya sabha from 1962 to 1968. balbir singh kullar 19192006 was a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was also a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was also a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was also a member of the indian delegation to the united nations in 1965. balbir singh kullar 19192006 was a member of the indian delegation to the
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.09090909090909091
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

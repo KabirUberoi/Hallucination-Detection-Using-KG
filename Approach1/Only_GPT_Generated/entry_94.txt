@@ -1,0 +1,41 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Qi and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Pinyin and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Ki_(cuneiform) and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Chinese_cash_(currency_unit) and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Pinyin and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Ki_(cuneiform) and the value is : 0
+http://dbpedia.org/resource/Northern_Qi and http://dbpedia.org/resource/Chinese_cash_(currency_unit) and the value is : 0
+http://dbpedia.org/resource/Pinyin and http://dbpedia.org/resource/Ki_(cuneiform) and the value is : 0
+http://dbpedia.org/resource/Pinyin and http://dbpedia.org/resource/Chinese_cash_(currency_unit) and the value is : 0
+http://dbpedia.org/resource/Ki_(cuneiform) and http://dbpedia.org/resource/Chinese_cash_(currency_unit) and the value is : 1
+http://dbpedia.org/resource/Emperor and http://dbpedia.org/resource/Northern_Qi and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Gao_Wei and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/1963_South_Vietnamese_coup and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Hou_Jing and the value is : 0
+http://dbpedia.org/resource/Gao_Wei and http://dbpedia.org/resource/1963_South_Vietnamese_coup and the value is : 0
+http://dbpedia.org/resource/Gao_Wei and http://dbpedia.org/resource/Hou_Jing and the value is : 0
+http://dbpedia.org/resource/1963_South_Vietnamese_coup and http://dbpedia.org/resource/Hou_Jing and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Intelligence and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Filial_piety and the value is : 0
+http://dbpedia.org/resource/Intelligence and http://dbpedia.org/resource/Filial_piety and the value is : 0
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Northern_Zhou and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/1963_South_Vietnamese_coup and the value is : 1
+http://dbpedia.org/resource/Emperor_Wenxuan_of_Northern_Qi and http://dbpedia.org/resource/Yuchi_Jiong and the value is : 0
+http://dbpedia.org/resource/1963_South_Vietnamese_coup and http://dbpedia.org/resource/Yuchi_Jiong and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+emperor wenxuan of northern qi chinese 北齊文宣帝 pinyin běi qí wén xuān dì wadegiles pei chi wenhsüan ti 539557 was an emperor of the chinese dynasty northern qi. he was the oldest son of gao wei and he succeeded his father in 551 after gao wei was killed in a coup led by the general hou jing. emperor wenxuan was known for his intelligence and his literary talent and he was also known for his cruelty and his lack of filial piety. he was also known for his campaigns against rival northern zhou which were largely unsuccessful. he was eventually killed in a coup led by the general yuchi jiong in 557. 
+
+Coref Resolved : 
+emperor wenxuan of northern qi chinese 北齊文宣帝 pinyin běi qí wén xuān dì wadegiles pei chi wenhsüan ti 539557 was an emperor of northern qi . emperor wenxuan was the oldest son of gao wei and emperor wenxuan succeeded emperor wenxuan father in 551 after gao wei was killed in a coup led by the general hou jing. emperor wenxuan was known for emperor wenxuan intelligence and emperor wenxuan literary talent and emperor wenxuan was also known for emperor wenxuan cruelty and emperor wenxuan lack of filial piety. emperor wenxuan was also known for emperor wenxuan campaigns against rival northern zhou which were largely unsuccessful. emperor wenxuan was eventually killed in a coup led by the general yuchi jiong in 557.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.125
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

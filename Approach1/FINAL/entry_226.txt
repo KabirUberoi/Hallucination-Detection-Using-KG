@@ -1,0 +1,84 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Hisashi_(architecture) and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Nippon_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Pitcher and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Seattle_Mariners and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Mega- and the value is : 1
+http://dbpedia.org/resource/Hisashi_(architecture) and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Hisashi_(architecture) and http://dbpedia.org/resource/Nippon_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/Hisashi_(architecture) and http://dbpedia.org/resource/Pitcher and the value is : 1
+http://dbpedia.org/resource/Hisashi_(architecture) and http://dbpedia.org/resource/Seattle_Mariners and the value is : 1
+http://dbpedia.org/resource/Hisashi_(architecture) and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Hisashi_(architecture) and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Nippon_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Pitcher and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Seattle_Mariners and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Nippon_Professional_Baseball and http://dbpedia.org/resource/Pitcher and the value is : 0
+http://dbpedia.org/resource/Nippon_Professional_Baseball and http://dbpedia.org/resource/Seattle_Mariners and the value is : 0
+http://dbpedia.org/resource/Nippon_Professional_Baseball and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Nippon_Professional_Baseball and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Seattle_Mariners and the value is : 1
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Seattle_Mariners and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Seattle_Mariners and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Tokyo_Yakult_Swallows and http://dbpedia.org/resource/Baseball_(ball) and the value is : 0
+http://dbpedia.org/resource/Tokyo_Yakult_Swallows and http://dbpedia.org/resource/Nippon_Professional_Baseball and the value is : 1
+http://dbpedia.org/resource/Tokyo_Yakult_Swallows and http://dbpedia.org/resource/Central_League and the value is : 0
+http://dbpedia.org/resource/Baseball_(ball) and http://dbpedia.org/resource/Nippon_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/Baseball_(ball) and http://dbpedia.org/resource/Central_League and the value is : 0
+http://dbpedia.org/resource/Nippon_Professional_Baseball and http://dbpedia.org/resource/Central_League and the value is : 0
+http://dbpedia.org/resource/Baseball_(ball) and http://dbpedia.org/resource/Nippon_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/Seattle_Mariners and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Seattle_Mariners and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Mega- and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Nippon_Professional_Baseball and http://dbpedia.org/resource/Baseball_at_the_2004_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Ace_(baseball) and http://dbpedia.org/resource/Eiji_Sawamura_Award and the value is : 1
+http://dbpedia.org/resource/Ace_(baseball) and http://dbpedia.org/resource/Nippon_Professional_Baseball and the value is : 1
+http://dbpedia.org/resource/Eiji_Sawamura_Award and http://dbpedia.org/resource/Nippon_Professional_Baseball and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/2010_NFL_season and the value is : 0
+http://dbpedia.org/resource/Mega- and http://dbpedia.org/resource/American_League and the value is : 1
+http://dbpedia.org/resource/Mega- and http://dbpedia.org/resource/Cy_Young_Award and the value is : 0
+http://dbpedia.org/resource/American_League and http://dbpedia.org/resource/Cy_Young_Award and the value is : 1
+http://dbpedia.org/resource/Football_pitch and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Football_pitch and http://dbpedia.org/resource/Hideo_Nomo and the value is : 0
+http://dbpedia.org/resource/Football_pitch and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Football_pitch and http://dbpedia.org/resource/T-Mobile_Park and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Hideo_Nomo and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/T-Mobile_Park and the value is : 0
+http://dbpedia.org/resource/Hideo_Nomo and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Hideo_Nomo and http://dbpedia.org/resource/T-Mobile_Park and the value is : 0
+http://dbpedia.org/resource/Baltimore_Orioles and http://dbpedia.org/resource/T-Mobile_Park and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+hisashi iwakuma 岩隈 久志 iwakuma hisashi born april 12 1981 is a japanese professional baseball pitcher for the seattle mariners of major league baseball mlb. he previously played for the tokyo yakult swallows of nippon professional baseballs npb central league. he is a threetime npb allstar and won the sawamura award in 2008. iwakuma signed with the mariners in january 2012 and made his mlb debut in august 2012. he was an american league al allstar in 2013 and won the al era title in 2015. 
+
+Coref Resolved : 
+hisashi iwakuma 岩隈 久志 iwakuma hisashi born april 12 1981 is a japanese professional baseball pitcher for the seattle mariners of major league baseball mlb. iwakuma previously played for the tokyo yakult swallows of nippon professional baseballs npb central league. iwakuma is a threetime nippon professional baseballs npb central leagueallstar and won the sawamura award in 2008. iwakuma signed with the seattle mariners of major league baseball mlbin january 2012 and made iwakuma mlb debut in august 2012. iwakuma was an american league al allstar in 2013 and won the al era title in 2015.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+iwakuma made his professional debut with the buffaloes in 2000. he was named an npb allstar in 2003 and 2004 and played in the 2004 athens olympics. he joined the eagles in 2005. as the eagles reigning staff ace iwakuma won the eiji sawamura award in 2005 and was also an npb allstar that year. he appeared in the 2009 world baseball classic for the japanese national team. iwakuma was posted to major league baseball after the 2010 season but he failed to come to an agreement with the winning bidder. after the 2011 season iwakuma signed with the mariners. he was an mlb allstar in 2013 as well as the thirdplace finisher for the 2013 american league cy young award. on august 12 2015 iwakuma became the second japanese player ever to pitch a nohitter in major league baseball joining hideo nomo who threw two throwing a threewalk sevenstrikeout 30 win over the baltimore orioles at safeco field. it was also his first career complete game and the mariners fifth nohitter in team history. 
+
+Coref Resolved : 
+iwakuma made iwakuma professional debut with the buffaloes in 2000. iwakuma was named an npb allstar in 2003 and 2004 and played in the 2004 athens olympics. iwakuma joined the eagles in that year. as the eagles reigning staff ace iwakuma won the eiji sawamura award in that yearand was also an npb allstar that year. iwakuma appeared in the 2009 world baseball classic for the japanese national team. iwakuma was posted to major league baseball after the 2010 season but iwakuma failed to come to an agreement with the winning bidder. after the 2011 season iwakuma signed with the mariners. iwakuma was an mlb allstar in 2013 as well as the thirdplace finisher for the 2013 american league cy young award. on august 12 2015 iwakuma became the second japanese player ever to pitch a nohitter in major league baseball joining hideo nomo who threw two throwing a threewalk sevenstrikeout 30 win over the baltimore orioles at safeco field. it was also iwakuma first career complete game and the marinersfifth nohitter in team history.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.34210526315789475 and for ground truth is : 0.3333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate major_inaccurate accurate minor_inaccurate minor_inaccurate 
+

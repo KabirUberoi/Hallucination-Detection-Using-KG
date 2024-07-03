@@ -1,0 +1,54 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/The_American_Lawyer and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Columbia_University and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Columbia_University and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Columbia_University and the value is : 1
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/1860_Republican_National_Convention and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Literature and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Literature and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Literature and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Abraham_Lincoln and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Ulysses_(band) and the value is : 1
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Abraham_Lincoln and the value is : 1
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Ulysses_(band) and the value is : 1
+http://dbpedia.org/resource/Abraham_Lincoln and http://dbpedia.org/resource/Ulysses_(band) and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+cicero hunt lewis 18251904 was an american lawyer politician and author. he was born in new york city and graduated from columbia college in 1845. he was admitted to the bar in 1848 and practiced law in new york city. he was a member of the new york state assembly in 1854 and 1855 and was a member of the new york state senate from 1856 to 1859. he was a delegate to the 1860 republican national convention. lewis was a prolific author writing on a variety of topics including law politics history and literature. he wrote several books including the law of nations 1862 the life of abraham lincoln 1865 and the life of ulysses s. grant 1868. he also wrote a number of articles for magazines and newspapers. he died in 1904 in new york city. 
+
+Coref Resolved : 
+cicero hunt lewis 18251904 was an american lawyer politician and author. cicero hunt lewis was born in new york city and graduated from columbia college in 1845. cicero hunt lewis was admitted to the bar in 1848 and practiced law in new york city . cicero hunt lewis was a member of the new york state assembly in 1854 and 1855 and was a member of the new york state senate from 1856 to 1859. cicero hunt lewis was a delegate to the 1860 republican national convention. cicero hunt lewis was a prolific author writing on a variety of topics including law politics history and literature. cicero hunt lewis wrote several books including the law of nations 1862 the life of abraham lincoln 1865 and the life of ulysses s. grant 1868. cicero hunt lewis also wrote a number of articles for magazines and newspapers. cicero hunt lewis died in 1904 in new york city .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.13513513513513514
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

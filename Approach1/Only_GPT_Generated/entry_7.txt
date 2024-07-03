@@ -1,0 +1,93 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Australia_national_soccer_team and the value is : 1
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australia_national_soccer_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Australia_national_soccer_team and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Canadian_National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Canadian_National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Canadian_National_Soccer_League and the value is : 1
+http://dbpedia.org/resource/National_Soccer_League and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/National_Soccer_League and http://dbpedia.org/resource/Canadian_National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Sydney_Olympic_FC and http://dbpedia.org/resource/Canadian_National_Soccer_League and the value is : 1
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/National_Soccer_League and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Canadian_National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/NSL_Cup and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Canadian_National_Soccer_League and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/NSL_Cup and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Canadian_National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/NSL_Cup and the value is : 0
+http://dbpedia.org/resource/Canadian_National_Soccer_League and http://dbpedia.org/resource/NSL_Cup and the value is : 1
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/National_Soccer_League and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/National_Soccer_League and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Australia_national_soccer_team and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Newcastle_Breakers_FC and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Central_Coast_Mariners_FC and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australia_national_soccer_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Newcastle_Breakers_FC and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Central_Coast_Mariners_FC and the value is : 0
+http://dbpedia.org/resource/Australia_national_soccer_team and http://dbpedia.org/resource/Newcastle_Breakers_FC and the value is : 0
+http://dbpedia.org/resource/Australia_national_soccer_team and http://dbpedia.org/resource/Central_Coast_Mariners_FC and the value is : 0
+http://dbpedia.org/resource/Newcastle_Breakers_FC and http://dbpedia.org/resource/Central_Coast_Mariners_FC and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/West_Coast_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Apl.de.ap and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/West_Coast_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Apl.de.ap and the value is : 0
+http://dbpedia.org/resource/West_Coast_of_the_United_States and http://dbpedia.org/resource/Apl.de.ap and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/West_Coast_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/West_Coast_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/West_Coast_of_the_United_States and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+derek king born 28 april 1965 is an australian former professional footballer who played as a midfielder. he is best known for his time with the national soccer league nsl club sydney olympic where he won the nsl championship in 2002. king began his career in the nsl with sydney olympic in 1989. he was part of the team that won the nsl championship in 2002 and was also part of the team that won the nsl cup in 2000. he was a regular starter for the club making over 200 appearances in the nsl. king also had a successful career in the australian premier league playing for the newcastle breakers and the central coast mariners. he was part of the mariners team that won the apl championship in 2005. king retired from professional football in 2006 after a successful career spanning 17 years. he is now a coach and is currently the head coach of the central coast mariners academy. 
+
+Coref Resolved : 
+derek king born 28 april 1965 is an australian former professional footballer who played as a midfielder. derek king born 28 april 1965 is best known for derek king born 28 april 1965 time with the national soccer league nsl club sydney olympic where derek king born 28 april 1965 won the nsl championship in 2002. derek king born 28 april 1965 began derek king born 28 april 1965 career in national soccer league nsl with the national soccer league nsl club sydney olympic in 1989. derek king born 28 april 1965 was part of the team that won the national soccer league nsl championship in 2002and was also part of the team that won the nsl cup in 2000. derek king born 28 april 1965 was a regular starter for the national soccer league nsl club sydney olympic making over 200 appearances in national soccer league nsl . derek king born 28 april 1965 also had a successful career in the australian premier league playing for the newcastle breakers and the central coast mariners. derek king born 28 april 1965 was part of the the central coast marinersteam that won the apl championship in 2005. derek king born 28 april 1965 retired from professional football in 2006 after a successful career spanning 17 years. derek king born 28 april 1965 is now a coach and is currently the head coach of the the central coast marinersacademy.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.13157894736842105
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

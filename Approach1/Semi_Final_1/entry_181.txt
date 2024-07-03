@@ -1,0 +1,111 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/Basketball and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/Detroit_Pistons and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Detroit_Pistons and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Detroit_Pistons and the value is : 0
+http://dbpedia.org/resource/Atlanta_Hawks and http://dbpedia.org/resource/Detroit_Pistons and the value is : 1
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/Minnesota_Golden_Gophers_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/NBA_draft and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 1
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/NBA_Finals and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/NBA_Finals and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/NBA_Finals and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 1
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/NBA_Finals and the value is : 0
+http://dbpedia.org/resource/Atlanta_Hawks and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Atlanta_Hawks and http://dbpedia.org/resource/NBA_Finals and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/NBA_Finals and the value is : 1
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Stan_Heal and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Detroit_Pistons and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/Detroit_Pistons and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/Minnesota_Golden_Gophers_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Stan_Heal and http://dbpedia.org/resource/Basketball and the value is : 0
+http://dbpedia.org/resource/Minnesota_Golden_Gophers_men's_basketball and http://dbpedia.org/resource/Basketball and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/West_Perth_Football_Club and the value is : 0
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/West_Australian_Football_League and the value is : 1
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/West_Perth_Football_Club and the value is : 1
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/West_Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Melbourne_Football_Club and http://dbpedia.org/resource/Australian_Football_League and the value is : 1
+http://dbpedia.org/resource/Melbourne_Football_Club and http://dbpedia.org/resource/West_Perth_Football_Club and the value is : 0
+http://dbpedia.org/resource/Melbourne_Football_Club and http://dbpedia.org/resource/West_Australian_Football_League and the value is : 1
+http://dbpedia.org/resource/Australian_Football_League and http://dbpedia.org/resource/West_Perth_Football_Club and the value is : 0
+http://dbpedia.org/resource/Australian_Football_League and http://dbpedia.org/resource/West_Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/West_Perth_Football_Club and http://dbpedia.org/resource/West_Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/Australian_rules_football_positions and the value is : 1
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Australian_rules_football_positions and the value is : 0
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/Melbourne_Football_Club and the value is : 1
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/1941_NSWRFL_season and the value is : 0
+http://dbpedia.org/resource/Melbourne_Football_Club and http://dbpedia.org/resource/1941_NSWRFL_season and the value is : 0
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/Western_Australia_Australian_rules_football_team and the value is : 0
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/West_Perth_Football_Club and the value is : 0
+http://dbpedia.org/resource/Western_Australia_Australian_rules_football_team and http://dbpedia.org/resource/West_Perth_Football_Club and the value is : 1
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/Western_Australia_Australian_rules_football_team and the value is : 1
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/Simpson_Medal and the value is : 0
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/South_Australia_Australian_rules_football_team and the value is : 0
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/Captain_(association_football) and the value is : 0
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/1950_Brisbane_Carnival and the value is : 1
+http://dbpedia.org/resource/Western_Australia_Australian_rules_football_team and http://dbpedia.org/resource/Simpson_Medal and the value is : 1
+http://dbpedia.org/resource/Western_Australia_Australian_rules_football_team and http://dbpedia.org/resource/South_Australia_Australian_rules_football_team and the value is : 0
+http://dbpedia.org/resource/Western_Australia_Australian_rules_football_team and http://dbpedia.org/resource/Captain_(association_football) and the value is : 0
+http://dbpedia.org/resource/Western_Australia_Australian_rules_football_team and http://dbpedia.org/resource/1950_Brisbane_Carnival and the value is : 0
+http://dbpedia.org/resource/Simpson_Medal and http://dbpedia.org/resource/South_Australia_Australian_rules_football_team and the value is : 0
+http://dbpedia.org/resource/Simpson_Medal and http://dbpedia.org/resource/Captain_(association_football) and the value is : 1
+http://dbpedia.org/resource/Simpson_Medal and http://dbpedia.org/resource/1950_Brisbane_Carnival and the value is : 1
+http://dbpedia.org/resource/South_Australia_Australian_rules_football_team and http://dbpedia.org/resource/Captain_(association_football) and the value is : 0
+http://dbpedia.org/resource/South_Australia_Australian_rules_football_team and http://dbpedia.org/resource/1950_Brisbane_Carnival and the value is : 0
+http://dbpedia.org/resource/Captain_(association_football) and http://dbpedia.org/resource/1950_Brisbane_Carnival and the value is : 0
+http://dbpedia.org/resource/West_Perth_Football_Club and http://dbpedia.org/resource/Fan_(person) and the value is : 0
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/Australia_national_rugby_league_team and the value is : 1
+http://dbpedia.org/resource/Fan_(person) and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Australia_national_rugby_league_team and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+stan heal born october 28 1932 is an american former professional basketball player. he played in the national basketball association nba from 1954 to 1965 as a member of the minneapolis lakers st. louis hawks and detroit pistons. heal was a 63 guard from the university of minnesota. he was selected by the minneapolis lakers in the 1954 nba draft. he played in the nba for 11 seasons averaging 8.2 points per game. he was a member of the lakers 1959 nba championship team. he was also a member of the st. louis hawks 1958 nba championship team. heal was known for his defensive prowess and was selected to the nba alldefensive second team in 1962. he was also selected to the nba allstar game in 1959. after retiring from the nba heal coached the detroit pistons for two seasons. he was inducted into the minnesota basketball hall of fame in 1994. 
+
+Coref Resolved : 
+stan heal born october 28 1932 is an american former professional basketball player. stan heal born october 28 1932 played in the national basketball association nba from 1954 to 1965 as a member of the minneapolis lakers st. louis hawks and detroit pistons. stan heal born october 28 1932 was a 63 guard from the university of minnesota. stan heal born october 28 1932 was selected by minneapolis lakers in the 1954 the national basketball association nba draft. stan heal born october 28 1932 played in the national basketball association nba for 11 seasons averaging 8.2 points per game. stan heal born october 28 1932 was a member of the minneapolis lakers 1959 the national basketball association nba championship team. stan heal born october 28 1932 was also a member of the st. louis hawks 1958 the national basketball association nba championship team. stan heal born october 28 1932 was known for stan heal born october 28 1932 defensive prowess and was selected to the the national basketball association nba alldefensive second team in 1962. stan heal born october 28 1932 was also selected to the the national basketball association nba allstar game in 1959. after retiring from the national basketball association nba stan heal born october 28 1932 coached detroit pistonsfor two seasons. stan heal born october 28 1932 was inducted into the minnesota basketball hall of fame in 1994.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+stan pops heal 30 july 1920 15 december 2010 was an australian rules footballer who played for melbourne in the victorian football league vfl as well as west perth in the west australian national football league wanfl during the 1940s and early 1950s. heal played his best football as a wingman but was also used on occasions as a rover. the western australian spent just one season at melbourne who had acquired his services while he was temporarily stationed in victoria. despite playing just eight games he was a member of melbournes 1941 premiership team. the following week he played in another premiership back home in western australia with west perth. he was also a regular interstate representative for western australia winning a simpson medal for his performance in a game against south australia in 1949 and captaining his state at the 1950 brisbane carnival. as coach of west perth from 1947 to 1952 he steered his club to two premierships in 1949 and 1951. heal was inducted into the australian football hall of fame in 2010. he died on 15 december 2010. 
+
+Coref Resolved : 
+stan pops heal 30 july 1920 15 december 2010 was an australian rules footballer who played for melbourne in the victorian football league vfl as well as west perth in the west australian national football league wanfl during the 1940s and early 1950s. stan pops heal played stan pops heal best football as a wingman but was also used on occasions as a rover. stan pops heal spent just one season at melbourne who had acquired stan pops heal services while stan pops heal was temporarily stationed in victoria. despite playing just eight games stan pops heal was a member of melbourne 1941 premiership team. the following week stan pops heal played in another premiership back home in western australia with west perth . stan pops heal was also a regular interstate representative for western australia winning a simpson medal for stan pops heal performance in a game against south australia in 1949 and captaining stan pops heal state at the 1950 brisbane carnival. as coach of west perth from 1947 to 1952 stan pops heal steered stan pops heal club to two premierships in 1949 and 1951. stan pops heal was inducted into the australian football hall of fame in 2010. stan pops heal died on 15 december 2010 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.358974358974359 and for ground truth is : 0.3181818181818182
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

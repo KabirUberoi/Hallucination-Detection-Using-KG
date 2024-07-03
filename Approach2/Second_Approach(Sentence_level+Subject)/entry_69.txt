@@ -1,0 +1,125 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/House_of_Grimaldi and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Prince and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Duke and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Valence,_Drôme and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Maria_Caterina_Brignole and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Paris and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Sulpitius_the_Pious and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/House_of_Grimaldi and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Republic_of_Genoa and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/House_of_Grimaldi and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Republic_of_Genoa and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Kingdom_of_France and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/French_language and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Oceanographic_Museum_of_Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Library and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/French_Revolution and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Napoleonic_Wars and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Prince and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Duke and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Valence,_Drôme and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Maria_Caterina_Brignole and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Republic_of_Genoa and the value is : 0
+http://dbpedia.org/resource/Prince and http://dbpedia.org/resource/Napoleon and the value is : 0
+http://dbpedia.org/resource/Prince and http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and the value is : 1
+http://dbpedia.org/resource/Prince and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Prince and http://dbpedia.org/resource/Clause and the value is : 0
+http://dbpedia.org/resource/Prince and http://dbpedia.org/resource/Charles_Maurice_de_Talleyrand-Périgord and the value is : 1
+http://dbpedia.org/resource/Prince and http://dbpedia.org/resource/Congress_of_the_Confederation and the value is : 0
+http://dbpedia.org/resource/Prince and http://dbpedia.org/resource/Vienna and the value is : 0
+http://dbpedia.org/resource/Prince and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Prince and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Prince and http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and the value is : 1
+http://dbpedia.org/resource/Prince and http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and the value is : 1
+http://dbpedia.org/resource/Prince and http://dbpedia.org/resource/Honoré_V,_Prince_of_Monaco and the value is : 1
+http://dbpedia.org/resource/Prince and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/French_frigate_Félicité_(1785) and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Victoire_Conroy and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Cardinal_Mazarin and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/La_Meilleraye-de-Bretagne and the value is : 0
+http://dbpedia.org/resource/Honoré_IV,_Prince_of_Monaco and http://dbpedia.org/resource/Paris and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Honoré IV (born Honoré Grimaldi 14 November 1758 3 October 1819) was Prince of Monaco and Duke of Valentinois from 1795 to 1819.
+He was the son of Prince Honoré III and his wife, Maria Caterina Brignole.
+He was born in Paris, where his father was living in exile, and was baptized at the church of Saint-Sulpice.
+Honoré IV was a member of the House of Grimaldi, a Genoese family that had ruled Monaco since 1297.
+He was the first of the Grimaldi to be born in France.
+He was also the first to be born in the French language, as his father had adopted the language and culture of his adopted country.
+Honoré IV was a strong ruler who sought to modernize Monaco and expand its influence.
+He was a patron of the arts and sciences, and founded the Monaco Observatory and the Oceanographic Museum of Monaco.
+He also established the first public library in Monaco.
+He was a strong supporter of the French Revolution and the Napoleonic Wars, and was a close friend.
+
+
+Coref Resolved: 
+
+Honoré IV (born Honoré Grimaldi 14 November 1758 3 October 1819) was Prince of Monaco and Duke of Valentinois from 1795 to 1819.
+Honoré IV was the son of Prince Honoré III and Prince Honoré III wife, Maria Caterina Brignole.
+Honoré IV was born in Paris, where Honoré IV father was living in exile, and was baptized at the church of Saint-Sulpice.
+Honoré IV was a member of the House of Grimaldi, a Genoese family that had ruled Monaco since 1297.
+Honoré IV was the first of the House of Grimaldi, a Genoese family that had ruled Monaco since 1297to be born in France.
+Honoré IV was also the first to be born in the French language, as Honoré IV father had adopted the language and culture of Prince Honoré III adopted country.
+Honoré IV was a strong ruler who sought to modernize Monaco and expand Monaco influence.
+Honoré IV was a patron of the arts and sciences, and founded the Monaco Observatory and the Oceanographic Museum of Monaco .
+Honoré IV also established the first public library in Monaco .
+Honoré IV was a strong supporter of the French Revolution and the Napoleonic Wars, and was a close friend.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Honoré IV (17 May 1758 16 February 1819) was Prince of Monaco and Duke of Valentinois from 12 March 1795 to 16 February 1819.
+He was the son of Prince Honoré III by his wife, Maria Caterina Brignole, a Genoese noblewoman.
+After the fall of Napoleon I, he regained control of the principality thanks to a clause added by Charles Maurice de Talleyrand-Périgord at the Congress of Vienna stating that, "the Prince of Monaco should return to his estates", and passed on his titles to his eldest son, Honoré V, Prince of Monaco.
+Honoré IV married Louise Félicité Victoire d'Aumont, Duchess of Aumont, Duchess Mazarin and of La Meilleraye on 15 July 1777 in Paris.
+They divorced in 1798.
+They had two sons Honoré V (1778 1841) and Florestan I (1785 1856).
+During the French occupation of Monaco, Honoré IV was imprisoned for several years.
+Illnesses resulting from this imprisonment incapacitated Honoré IV in his later years, and following the re-establishment of the principality a regency was established to rule in Honoré's name.
+ 
+
+Coref Resolved: 
+
+Honoré IV (17 May 1758 16 February 1819) was Prince of Monaco and Duke of Valentinois from 12 March 1795 to 16 February 1819.
+Honoré IV (17 May 1758 16 February 1819) was the son of Prince Honoré III by Prince Honoré III wife, Maria Caterina Brignole, a Genoese noblewoman.
+After the fall of Napoleon I, Honoré IV (17 May 1758 16 February 1819) regained control of Monaco thanks to a clause added by Charles Maurice de Talleyrand-Périgord at the Congress of Vienna stating that, "the Prince of Monaco should return to the Prince of Monaco estates", and passed on Honoré IV (17 May 1758 16 February 1819) titles to Honoré IV (17 May 1758 16 February 1819) eldest son, Honoré V, Prince of Monaco .
+Honoré IV (17 May 1758 16 February 1819) married Louise Félicité Victoire d'Aumont, Duchess of Aumont, Duchess Mazarin and of La Meilleraye on 15 July 1777 in Paris.
+They divorced in 1798.
+They had two sons Honoré V (1778 1841) and Florestan I (1785 1856).
+During the French occupation of Monaco , Honoré IV (17 May 1758 16 February 1819) was this imprisonment for several years.
+Illnesses resulting from this imprisonment incapacitated Honoré IV (17 May 1758 16 February 1819) in Honoré IV (17 May 1758 16 February 1819) later years, and following the re-establishment of Monaco a regency was established to rule in Honoré IV (17 May 1758 16 February 1819) name.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.6 1.0 0.3333333333333333 0.6666666666666666 0.75 0.5 1.0 0.6666666666666666 0.5 0.0 
+
+Value for ground truth is : 
+0.5 0.75 0.6923076923076923 0.2 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

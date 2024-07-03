@@ -1,0 +1,60 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Governor_of_Indiana and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Territory_of_Alaska and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Governor_of_Indiana and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Territory_of_Alaska and the value is : 0
+http://dbpedia.org/resource/Governor_of_Indiana and http://dbpedia.org/resource/Territory_of_Alaska and the value is : 1
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Law_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Law_of_the_United_States and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Grover_Cleveland and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/United_States_federal_judge and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Territory_of_Alaska and the value is : 0
+http://dbpedia.org/resource/Grover_Cleveland and http://dbpedia.org/resource/United_States_federal_judge and the value is : 1
+http://dbpedia.org/resource/Grover_Cleveland and http://dbpedia.org/resource/Territory_of_Alaska and the value is : 1
+http://dbpedia.org/resource/United_States_federal_judge and http://dbpedia.org/resource/Territory_of_Alaska and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Governor_of_Indiana and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Territory_of_Alaska and the value is : 1
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/William_Howard_Taft and the value is : 0
+http://dbpedia.org/resource/Governor_of_Indiana and http://dbpedia.org/resource/Territory_of_Alaska and the value is : 0
+http://dbpedia.org/resource/Governor_of_Indiana and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Governor_of_Indiana and http://dbpedia.org/resource/William_Howard_Taft and the value is : 0
+http://dbpedia.org/resource/Territory_of_Alaska and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Territory_of_Alaska and http://dbpedia.org/resource/William_Howard_Taft and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/William_Howard_Taft and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Governor_of_Indiana and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/United_States_federal_judge and the value is : 1
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Federal_judiciary_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Ninth_Circuit and the value is : 0
+http://dbpedia.org/resource/Governor_of_Indiana and http://dbpedia.org/resource/United_States_federal_judge and the value is : 0
+http://dbpedia.org/resource/Governor_of_Indiana and http://dbpedia.org/resource/Federal_judiciary_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/Governor_of_Indiana and http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Ninth_Circuit and the value is : 0
+http://dbpedia.org/resource/United_States_federal_judge and http://dbpedia.org/resource/Federal_judiciary_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/United_States_federal_judge and http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Ninth_Circuit and the value is : 0
+http://dbpedia.org/resource/Federal_judiciary_of_the_United_States and http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Ninth_Circuit and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Federal_judiciary_of_the_United_States and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+anthony dimond 18501927 was an american politician who served as the third governor of alaska territory from 1909 to 1913. he was born in 1850 in new york city and moved to california in 1868. he was admitted to the bar in 1875 and practiced law in san francisco. he was elected to the california state assembly in 1883 and served as speaker of the assembly in 1885. in 1889 he was elected to the united states house of representatives where he served until 1895. in 1895 he was appointed by president grover cleveland as the first united states district judge for alaska. he served in that capacity until 1909 when he was appointed governor of alaska territory by president william howard taft. he served as governor until 1913 when he resigned to become a judge of the united states court of appeals for the ninth circuit. he served on the court until his death in 1927. 
+
+Coref Resolved : 
+anthony dimond 18501927 was an american politician who served as the third governor of alaska territory from 1909 to 1913. anthony dimond 18501927 was born in 1850 in new york city and moved to california in 1868. anthony dimond 18501927 was admitted to the bar in 1875 and practiced law in san francisco. anthony dimond 18501927 was elected to the california state assembly in 1883 and served as speaker of the california state assembly in 1885. in 1889 anthony dimond 18501927 was elected to the united states house of representatives where anthony dimond 18501927 served until 1895. in 1895anthony dimond 18501927 was appointed by president grover cleveland as the first united states district judge for alaska territory . anthony dimond 18501927 served in that capacity until 1909 when anthony dimond 18501927 was appointed governor of alaska territory by president william howard taft. anthony dimond 18501927 served as governor until 1913 when anthony dimond 18501927 resigned to become a judge of the united states court of appeals for the ninth circuit. anthony dimond 18501927 served on the united states court of appeals for the ninth circuituntil anthony dimond 18501927 death in 1927.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.20930232558139536
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,74 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Architect and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Royal_Institution_of_Chartered_Surveyors and the value is : 0
+http://dbpedia.org/resource/Architect and http://dbpedia.org/resource/Royal_Institution_of_Chartered_Surveyors and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/King_Edward's_School,_Birmingham and the value is : 1
+http://dbpedia.org/resource/Birmingham and http://dbpedia.org/resource/King_Edward's_School,_Birmingham and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Articled_clerk and the value is : 1
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Architect and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/John_Henry_Chamberlain and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/William_Bidlake and the value is : 0
+http://dbpedia.org/resource/Articled_clerk and http://dbpedia.org/resource/Birmingham and the value is : 1
+http://dbpedia.org/resource/Articled_clerk and http://dbpedia.org/resource/Architect and the value is : 1
+http://dbpedia.org/resource/Articled_clerk and http://dbpedia.org/resource/John_Henry_Chamberlain and the value is : 0
+http://dbpedia.org/resource/Articled_clerk and http://dbpedia.org/resource/William_Bidlake and the value is : 0
+http://dbpedia.org/resource/Birmingham and http://dbpedia.org/resource/Architect and the value is : 0
+http://dbpedia.org/resource/Birmingham and http://dbpedia.org/resource/John_Henry_Chamberlain and the value is : 0
+http://dbpedia.org/resource/Birmingham and http://dbpedia.org/resource/William_Bidlake and the value is : 0
+http://dbpedia.org/resource/Architect and http://dbpedia.org/resource/John_Henry_Chamberlain and the value is : 0
+http://dbpedia.org/resource/Architect and http://dbpedia.org/resource/William_Bidlake and the value is : 0
+http://dbpedia.org/resource/John_Henry_Chamberlain and http://dbpedia.org/resource/William_Bidlake and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Architect and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Royal_Institution_of_Chartered_Surveyors and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Fender_Wide_Range and the value is : 0
+http://dbpedia.org/resource/Architect and http://dbpedia.org/resource/Royal_Institution_of_Chartered_Surveyors and the value is : 1
+http://dbpedia.org/resource/Architect and http://dbpedia.org/resource/Fender_Wide_Range and the value is : 0
+http://dbpedia.org/resource/Royal_Institution_of_Chartered_Surveyors and http://dbpedia.org/resource/Fender_Wide_Range and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Birmingham_Architectural_Association and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Reinforced_concrete and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Brick and the value is : 0
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Stonemasonry and the value is : 0
+http://dbpedia.org/resource/Brick and http://dbpedia.org/resource/Stonemasonry and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Frederick_Thomas_Brentnall and http://dbpedia.org/resource/Queensland_Legislative_Council and the value is : 0
+http://dbpedia.org/resource/Riddings and http://dbpedia.org/resource/Derbyshire and the value is : 1
+http://dbpedia.org/resource/Riddings and http://dbpedia.org/resource/Alfreton and the value is : 0
+http://dbpedia.org/resource/Derbyshire and http://dbpedia.org/resource/Alfreton and the value is : 0
+http://dbpedia.org/resource/Wesleyan_theology and http://dbpedia.org/resource/South_Wales and the value is : 1
+http://dbpedia.org/resource/Queensland and http://dbpedia.org/resource/General_insurance and the value is : 0
+http://dbpedia.org/resource/Queensland and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/General_insurance and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Brisbane and http://dbpedia.org/resource/Balmoral_Cemetery,_Brisbane and the value is : 1
+http://dbpedia.org/resource/Flora and http://dbpedia.org/resource/Charlotte_(cake) and the value is : 1
+http://dbpedia.org/resource/Flora and http://dbpedia.org/resource/Amelia_(birth_defect) and the value is : 1
+http://dbpedia.org/resource/Charlotte_(cake) and http://dbpedia.org/resource/Amelia_(birth_defect) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+frederick thomas brentnall 18621937 was an english architect and surveyor. he was born in 1862 in birmingham england and was educated at king edwards school birmingham. he was articled to the birmingham architect j.h. chamberlain and then worked in the offices of william bidlake and j.h. chamberlain. in 1887 he set up his own practice in birmingham. brentnall was a prolific architect and surveyor designing a wide range of buildings including churches schools factories warehouses offices shops and private residences. he was particularly noted for his work in the arts and crafts style and was a member of the birmingham artisans guild. he was also a member of the birmingham architectural association and was a fellow of the royal institute of british architects. he was a keen advocate of the use of reinforced concrete in construction and was a pioneer in the use of this material in the midlands. he was also a keen advocate of the use of natural materials such as brick and stone and was a pioneer in the use of 
+
+Coref Resolved : 
+frederick thomas brentnall 18621937 was an english architect and surveyor. frederick thomas brentnall was born in 1862 in birmingham england and was educated at king edwards school birmingham england . frederick thomas brentnall was articled to the birmingham england architect j.h. chamberlain and then worked in the offices of william bidlake and j.h. chamberlain. in 1887 frederick thomas brentnall set up frederick thomas brentnall own practice in birmingham england . frederick thomas brentnall was a prolific architect and surveyor designing a wide range of buildings including churches schools factories warehouses offices shops and private residences. frederick thomas brentnall was particularly noted for frederick thomas brentnall work in the arts and crafts style and was a member of the birmingham artisans guild. frederick thomas brentnall was also a member of the birmingham architectural association and was a fellow of the royal institute of british architects. frederick thomas brentnall was a keen advocate of the use of reinforced concrete in construction and was a pioneer in the use of reinforced concrete in the midlands. frederick thomas brentnall was also a keen advocate of the use of natural materials such as brick and stone and was a pioneer in the use of
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+hon. frederick thomas brentnall 17 june 1834 11 january 1925 was a member of the queensland legislative council. brentnall was born at riddings derbyshire and educated at alfreton. he was sent by the british wesleyan conference to new south wales in 1863 to join the ranks of the wesleyan ministry in that colony. an affliction of the throat however necessitated his resignation about 1883 when he bought an interest in the brisbane telegraph and joined the literary staff becoming chairman of the company upon the retirement of the hon. james cowlishaw in october 1885. brentnall was a director of several companies including the queensland deposit bank and building society and the queensland general insurance company ltd. and was a member of the legislative council from 17 april 1886 until the abolition of the council on 23 march 1922. brentnall died in brisbane in 1925 and was buried in balmoral cemetery. he was survived by two daughters flora and charlotte amelia. 
+
+Coref Resolved : 
+hon. frederick thomas brentnall 17 june 1834 11 january 1925 was a member of the queensland legislative council. brentnall was born at riddings derbyshire and educated at alfreton. brentnall was sent by the british wesleyan conference to new south wales in 1863 to join the ranks of the wesleyan ministry in new south wales . an affliction of the throat however necessitated brentnall resignation about 1883 when brentnall bought an interest in the brisbane telegraph and joined the literary staff becoming chairman of the brisbane telegraph upon the retirement of the hon. james cowlishaw in october 1885. brentnall was a director of several companies including the queensland deposit bank and building society and the queensland general insurance company ltd. and was a member of the queensland legislative councilfrom 17 april 1886 until the abolition of the queensland legislative councilon 23 march 1922. brentnall died in brisbane in 1925 and was buried in balmoral cemetery. brentnall was survived by two daughters flora and charlotte amelia.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.14705882352941177 and for ground truth is : 0.4166666666666667
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,46 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/First-class_cricket and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/First-class_cricket and the value is : 1
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Batting_(cricket) and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Cricket and the value is : 1
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/1891_English_cricket_season and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/1891_English_cricket_season and the value is : 1
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 1
+http://dbpedia.org/resource/1891_English_cricket_season and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/1891_English_cricket_season and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1892 and the value is : 0
+http://dbpedia.org/resource/1891_English_cricket_season and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1892 and the value is : 1
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1895 and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Wicket and the value is : 1
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Innings and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Bowling_average and the value is : 0
+http://dbpedia.org/resource/Wicket and http://dbpedia.org/resource/Innings and the value is : 0
+http://dbpedia.org/resource/Wicket and http://dbpedia.org/resource/Bowling_average and the value is : 0
+http://dbpedia.org/resource/Innings and http://dbpedia.org/resource/Bowling_average and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Caught and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Derby and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Derby and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+george milne 18 april 1868 28 april 1945 was an english cricketer. he was a righthanded batsman and a rightarm mediumpace bowler who played for derbyshire between 1891 and 1895. milne made his debut for derbyshire in the 1891 season against lancashire. he played two further matches in the 1891 season and two in the 1892 season. his next appearance was in the 1895 season when he played three matches. milnes highest score was 33 which he made against lancashire in 1891. he took four wickets in an innings twice with his best bowling figures being 437 against lancashire in 1891. he also took three catches in the field. milne left derbyshire at the end of the 1895 season and died in 1945 in derby. 
+
+Coref Resolved : 
+george milne 18 april 1868 28 april 1945 was an english cricketer. george milne was a righthanded batsman and a rightarm mediumpace bowler who played for derbyshire between 1891 and 1895. george milne made george milne debut for derbyshire in the 1891 season against lancashire. george milne played two further matches in the 1891 season and two in the 1892 season. george milne next appearance was in the 1895 season when george milne played three matches. george milne highest score was 33 which george milne made against lancashirein 1891 . george milne took four wickets in an innings twice with george milne best bowling figures being 437 against lancashirein 1891 . george milne also took three catches in the field. george milne left derbyshire at the end of the 1895season and died in 1945 in derby.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2413793103448276
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

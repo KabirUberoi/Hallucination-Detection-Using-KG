@@ -1,0 +1,249 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Record_producer and the value is : 1
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/The_Lemonheads and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/The_Lemonheads and the value is : 1
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/The_Lemonheads and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Guitar and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Amherst_College and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Music_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Massachusetts and http://dbpedia.org/resource/Amherst_College and the value is : 0
+http://dbpedia.org/resource/Massachusetts and http://dbpedia.org/resource/Music_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Massachusetts and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Amherst_College and http://dbpedia.org/resource/Music_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Amherst_College and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Music_of_Pakistan and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Alternative_rock and the value is : 1
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Bob_Dylan and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Bob_Dylan and the value is : 1
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Bob_Dylan and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Point_of_sale and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/American_bison and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/York_Racecourse and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Battle_of_Glendale and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Eclectus_parrot and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 1
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/American_bison and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/York_Racecourse and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Battle_of_Glendale and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Eclectus_parrot and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/American_bison and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/York_Racecourse and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Battle_of_Glendale and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Eclectus_parrot and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/York_Racecourse and the value is : 0
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/Battle_of_Glendale and the value is : 0
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/Eclectus_parrot and the value is : 0
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Battle_of_Glendale and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Eclectus_parrot and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Battle_of_Glendale and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/Battle_of_Glendale and http://dbpedia.org/resource/Eclectus_parrot and the value is : 0
+http://dbpedia.org/resource/Battle_of_Glendale and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/California_Golden_Bears and http://dbpedia.org/resource/Eclectus_parrot and the value is : 0
+http://dbpedia.org/resource/California_Golden_Bears and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Eclectus_parrot and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Buffalo_Bisons and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Detroit_Wolverines and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Kansas_City_Royals and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Buffalo_Bisons and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Detroit_Wolverines and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Kansas_City_Royals and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Buffalo_Bisons and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Detroit_Wolverines and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Kansas_City_Royals and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Buffalo_Bisons and http://dbpedia.org/resource/Detroit_Wolverines and the value is : 0
+http://dbpedia.org/resource/Buffalo_Bisons and http://dbpedia.org/resource/Kansas_City_Royals and the value is : 0
+http://dbpedia.org/resource/Buffalo_Bisons and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 1
+http://dbpedia.org/resource/Buffalo_Bisons and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Detroit_Wolverines and http://dbpedia.org/resource/Kansas_City_Royals and the value is : 0
+http://dbpedia.org/resource/Detroit_Wolverines and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Detroit_Wolverines and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 1
+http://dbpedia.org/resource/Kansas_City_Royals and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Kansas_City_Royals and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Baltimore_Orioles and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/1882_in_baseball and http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/1882_in_baseball and http://dbpedia.org/resource/Silk and the value is : 0
+http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and http://dbpedia.org/resource/Silk and the value is : 0
+http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and http://dbpedia.org/resource/Daniel_Sedin and the value is : 0
+http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 0
+http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 1
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 1
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 1
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Pitcher and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Tony_Mullane and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Louisville_Colonels and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and the value is : 1
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Pitcher and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Tony_Mullane and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Louisville_Colonels and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Pitcher and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Tony_Mullane and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Louisville_Colonels and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 1
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Tony_Mullane and the value is : 0
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Louisville_Colonels and the value is : 0
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Tony_Mullane and http://dbpedia.org/resource/Louisville_Colonels and the value is : 0
+http://dbpedia.org/resource/Tony_Mullane and http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/Tony_Mullane and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Louisville_Colonels and http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and the value is : 0
+http://dbpedia.org/resource/Louisville_Colonels and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/American_Association_of_Independent_Professional_Baseball and http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Outfielder and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Base_running and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Pop_Snyder and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Outfielder and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Base_running and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Pop_Snyder and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Outfielder and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Base_running and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Pop_Snyder and the value is : 0
+http://dbpedia.org/resource/Outfielder and http://dbpedia.org/resource/Base_running and the value is : 0
+http://dbpedia.org/resource/Outfielder and http://dbpedia.org/resource/Pop_Snyder and the value is : 0
+http://dbpedia.org/resource/Base_running and http://dbpedia.org/resource/Pop_Snyder and the value is : 0
+http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and http://dbpedia.org/resource/1882_in_baseball and the value is : 0
+http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and http://dbpedia.org/resource/John_Reilly_(baseball) and the value is : 0
+http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and http://dbpedia.org/resource/York_Racecourse and the value is : 0
+http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and http://dbpedia.org/resource/Metropolitan_bishop and the value is : 0
+http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and http://dbpedia.org/resource/Daniel_Sedin and the value is : 0
+http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 0
+http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/History_of_the_Cincinnati_Reds and http://dbpedia.org/resource/1883_in_baseball and the value is : 0
+http://dbpedia.org/resource/John_Reilly_(baseball) and http://dbpedia.org/resource/York_Racecourse and the value is : 0
+http://dbpedia.org/resource/John_Reilly_(baseball) and http://dbpedia.org/resource/Metropolitan_bishop and the value is : 0
+http://dbpedia.org/resource/John_Reilly_(baseball) and http://dbpedia.org/resource/Daniel_Sedin and the value is : 0
+http://dbpedia.org/resource/John_Reilly_(baseball) and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 0
+http://dbpedia.org/resource/John_Reilly_(baseball) and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/John_Reilly_(baseball) and http://dbpedia.org/resource/1883_in_baseball and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Metropolitan_bishop and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Daniel_Sedin and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/1883_in_baseball and the value is : 0
+http://dbpedia.org/resource/Metropolitan_bishop and http://dbpedia.org/resource/Daniel_Sedin and the value is : 0
+http://dbpedia.org/resource/Metropolitan_bishop and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 0
+http://dbpedia.org/resource/Metropolitan_bishop and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Metropolitan_bishop and http://dbpedia.org/resource/1883_in_baseball and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/1883_in_baseball and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/1883_in_baseball and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/1883_in_baseball and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/1887_Atlantic_hurricane_season and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Topeka_Golden_Giants_(1887) and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Western_Football_League and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Hits_allowed and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/1887_Atlantic_hurricane_season and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Topeka_Golden_Giants_(1887) and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Western_Football_League and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Hits_allowed and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/1887_Atlantic_hurricane_season and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Topeka_Golden_Giants_(1887) and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Western_Football_League and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Hits_allowed and the value is : 0
+http://dbpedia.org/resource/1887_Atlantic_hurricane_season and http://dbpedia.org/resource/Topeka_Golden_Giants_(1887) and the value is : 0
+http://dbpedia.org/resource/1887_Atlantic_hurricane_season and http://dbpedia.org/resource/Western_Football_League and the value is : 0
+http://dbpedia.org/resource/1887_Atlantic_hurricane_season and http://dbpedia.org/resource/Hits_allowed and the value is : 0
+http://dbpedia.org/resource/Topeka_Golden_Giants_(1887) and http://dbpedia.org/resource/Western_Football_League and the value is : 0
+http://dbpedia.org/resource/Topeka_Golden_Giants_(1887) and http://dbpedia.org/resource/Hits_allowed and the value is : 0
+http://dbpedia.org/resource/Western_Football_League and http://dbpedia.org/resource/Hits_allowed and the value is : 0
+http://dbpedia.org/resource/Topeka_Golden_Giants_(1887) and http://dbpedia.org/resource/Western_Football_League and the value is : 0
+http://dbpedia.org/resource/Topeka_Golden_Giants_(1887) and http://dbpedia.org/resource/Dominant_seventh_chord and the value is : 0
+http://dbpedia.org/resource/Topeka_Golden_Giants_(1887) and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Western_Football_League and http://dbpedia.org/resource/Dominant_seventh_chord and the value is : 0
+http://dbpedia.org/resource/Western_Football_League and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Dominant_seventh_chord and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Eckford_of_Brooklyn and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Eckford_of_Brooklyn and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+dan stearns born october 28 1971 is an american musician songwriter and producer. he is best known as the lead singer and guitarist of the alternative rock band the lemonheads. stearns was born in boston massachusetts and grew up in the suburbs of boston. he began playing guitar at the age of 12 and by the time he was 15 he was playing in local bands. he attended the university of massachusetts amherst where he studied music and philosophy. after college he moved to new york city and formed the lemonheads in 1992. the lemonheads released their debut album hate your friends in 1987. the album was a critical and commercial success and the band went on to release several more albums over the next decade. stearns wrote and sang the majority of the bands songs and his songwriting style was often compared to that of bob dylan. in addition to his work with the lemonheads stearns has also released several solo albums and collaborated with other artists. he has also produced albums for other bands including the replacements and the pos 
+
+Coref Resolved : 
+dan stearns born october 28 1971 is an american musician songwriter and producer. dan stearns born october 28 1971 is best known as the lead singer and guitarist of the alternative rock band the lemonheads. dan stearns born october 28 1971 was born in boston massachusetts and grew up in the suburbs of boston massachusetts . dan stearns born october 28 1971 began playing guitar at the age of 12 and by the time dan stearns born october 28 1971 was 15 dan stearns born october 28 1971 was playing in local bands. dan stearns born october 28 1971 attended the university of massachusetts amherst where dan stearns born october 28 1971 studied music and philosophy. after college dan stearns born october 28 1971 moved to new york city and formed the alternative rock band the lemonheadsin 1992. the alternative rock band the lemonheadsreleased the alternative rock band the lemonheadsdebut album hate your friends in 1987. their debut album hate your friends was a critical and commercial success and the alternative rock band the lemonheadswent on to release several more albums over the next decade. dan stearns born october 28 1971 wrote and sang the majority of the alternative rock band the lemonheadssongs and dan stearns born october 28 1971 songwriting style was often compared to that of bob dylan. in addition to dan stearns born october 28 1971 work with the alternative rock band the lemonheadsdan stearns born october 28 1971 has also released several solo albums and collaborated with other artists. dan stearns born october 28 1971 has also produced albums for other bands including the replacements and the pos
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+daniel eckford stearns born october 17 1861 in buffalo new york june 28 1944 in glendale california commonly known as ecky stearns was a major league baseball first baseman. he played for the buffalo bisons detroit wolverines kansas city cowboys baltimore orioles and cincinnati red stockings aa. at the start of the 1882 season clubs playing in the american association had their players wear nonmatching silk uniforms with a different color andor pattern corresponding to each position in the field. accordingly on opening day for the red stockings stearns wore an unusual candystriped jersey. on september 11 1882 stearns was involved in a notable milestone when pitcher tony mullane of the louisville eclipse pitched the first nohit game in the history of the american association against stearns and his teammates on the cincinnati red stockings a 20 win by louisville. stearns made the games final out by bouncing into a fielders choice that forced runner pop snyder at second base. the red stockings had the last laugh however ending the year as the aas inaugural champions. unsatisfied with their firstbase play in 1882 the red stockings signed long john reilly of the new york metropolitans to replace stearns prior to the 1883 season. stearns spent the 1887 season with the topeka golden giants of the western league leading that league in hits. that team finished with a dominant record of 9025 and is sometimes described as the strongest minor league baseball club of the 19th century. stearns is also notable as one of the first jews to play major league baseball. his status as such made him popular with jewish youths who were fans of the game. 
+
+Coref Resolved : 
+daniel eckford stearns born october 17 1861 in buffalo new york june 28 1944 in glendale california commonly known as ecky stearns was a major league baseball first baseman. daniel eckford stearns played for the buffalo bisons detroit wolverines kansas city cowboys baltimore orioles and cincinnati red stockings aa. at the start of the 1882 season clubs playing in the american association had clubs playing in the american association players wear nonmatching silk uniforms with a different color andor pattern corresponding to each position in the field. accordingly on opening day for cincinnati red stockings daniel eckford stearns wore an unusual candystriped jersey. on september 11 1882 daniel eckford stearns was involved in a notable milestone when pitcher tony mullane of the louisville eclipse pitched the first nohit game in the history of the american association against daniel eckford stearns and daniel eckford stearns teammates on cincinnati red stockings a 20 win by the louisville eclipse . daniel eckford stearns made the games final out by bouncing into a fielders choice that forced runner pop snyder at second base. cincinnati red stockings had the last laugh however ending the 1882 season as the aas inaugural champions. unsatisfied with cincinnati red stockings firstbase play in 1882 cincinnati red stockings signed long john reilly of the new york metropolitans to replace daniel eckford stearns prior to the 1883 season. daniel eckford stearns spent the 1887 season with the topeka golden giants of the western league leading the western league in hits. the topeka golden giants of the western league finished with a dominant record of 9025 and is sometimes described as the strongest minor league baseball club of the 19th century. daniel eckford stearns is also notable as one of the first jews to play major league baseball. daniel eckford stearns status as such made daniel eckford stearns popular with jewish youths who were fans of major league baseball.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10810810810810811 and for ground truth is : 0.043478260869565216
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,36 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Box_lacrosse and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/KMT2A and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/National_Lacrosse_League and the value is : 1
+http://dbpedia.org/resource/Box_lacrosse and http://dbpedia.org/resource/KMT2A and the value is : 0
+http://dbpedia.org/resource/Box_lacrosse and http://dbpedia.org/resource/National_Lacrosse_League and the value is : 0
+http://dbpedia.org/resource/KMT2A and http://dbpedia.org/resource/National_Lacrosse_League and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 1
+http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Philadelphia_Barrage and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/KMT2A and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Barrage and http://dbpedia.org/resource/KMT2A and the value is : 1
+http://dbpedia.org/resource/Philadelphia_Barrage and http://dbpedia.org/resource/NBA_draft and the value is : 1
+http://dbpedia.org/resource/KMT2A and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Boston_Cannons and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Box_lacrosse and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Gold_medal and the value is : 1
+http://dbpedia.org/resource/Box_lacrosse and http://dbpedia.org/resource/Gold_medal and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+matt striebel born october 15 1978 is a former american lacrosse player who played professionally in major league lacrosse mll and the national lacrosse league nll. he was a fourtime allamerican at princeton university where he was a member of the 2001 ncaa championship team. he was drafted by the philadelphia barrage in the first round of the 2002 mll draft and played for the barrage until the team folded in 2008. he then joined the boston cannons where he played until his retirement in 2013. striebel was also a member of the united states mens national lacrosse team winning a gold medal at the 2010 fil world lacrosse championship. 
+
+Coref Resolved : 
+matt striebel born october 15 1978 is a former american lacrosse player who played professionally in major league lacrosse mll and the national lacrosse league nll. matt striebel born october 15 1978 was a fourtime allamerican at princeton university where matt striebel born october 15 1978 was a member of the 2001 ncaa championship team. matt striebel born october 15 1978 was drafted by the philadelphia barrage in the first round of the 2002 mll draft and played for the philadelphia barrage until the philadelphia barrage folded in 2008. matt striebel born october 15 1978 then joined the boston cannons where matt striebel born october 15 1978 played until matt striebel born october 15 1978 retirement in 2013. matt striebel born october 15 1978 was also a member of the united states mens national lacrosse team winning a gold medal at the 2010 fil world lacrosse championship.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3684210526315789
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate 
+

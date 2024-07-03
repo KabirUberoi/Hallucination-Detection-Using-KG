@@ -1,0 +1,88 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Reign_FC and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Bellevue_School_District and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Reign_FC and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Bellevue_School_District and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Reign_FC and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/University_of_Washington and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Bellevue_School_District and the value is : 1
+http://dbpedia.org/resource/Reign_FC and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 1
+http://dbpedia.org/resource/Reign_FC and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/Reign_FC and http://dbpedia.org/resource/Washington_Spirit and the value is : 1
+http://dbpedia.org/resource/Reign_FC and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Reign_FC and http://dbpedia.org/resource/Bellevue_School_District and the value is : 0
+http://dbpedia.org/resource/National_Women's_Soccer_League and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/National_Women's_Soccer_League and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/National_Women's_Soccer_League and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/National_Women's_Soccer_League and http://dbpedia.org/resource/Bellevue_School_District and the value is : 0
+http://dbpedia.org/resource/Seattle_Sounders_Women and http://dbpedia.org/resource/Washington_Spirit and the value is : 1
+http://dbpedia.org/resource/Seattle_Sounders_Women and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Seattle_Sounders_Women and http://dbpedia.org/resource/Bellevue_School_District and the value is : 0
+http://dbpedia.org/resource/Washington_Spirit and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Washington_Spirit and http://dbpedia.org/resource/Bellevue_School_District and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Bellevue_School_District and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Freedom and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/2010_WPS_Draft and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Washington_Freedom and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/2010_WPS_Draft and the value is : 1
+http://dbpedia.org/resource/Washington_Freedom and http://dbpedia.org/resource/2010_WPS_Draft and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Atlanta_Beat_(WPS) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Atlanta_Beat_(WPS) and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Freedom and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Washington_Freedom and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Washington_Spirit and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Washington_Spirit and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+kate deines born april 15 1988 is an american professional soccer player who currently plays for reign fc of the national womens soccer league nwsl. she previously played for the seattle sounders women of the wleague the washington spirit of the nwsl and the seattle reign fc of the nwsl. deines was born in seattle washington and attended newport high school in bellevue washington. she played college soccer at the university of washington from 2006 to 2009. during her college career she was named to the allpac10 first team in 2008 and 2009. deines was drafted by the washington freedom in the 2010 wps draft. she made her professional debut on april 11 2010 in a match against the atlanta beat. she played for the freedom until the team folded in 2011. in 2012 deines signed with the seattle sounders women of the wleague. she played for the sounders for two seasons helping the team win the wleague championship in 2013. in 2014 deines signed with the washington spirit of the nwsl. she made her debut for the 
+
+Coref Resolved : 
+kate deines born april 15 1988 is an american professional soccer player who currently plays for reign fc of the national womens soccer league nwsl. kate deines born april 15 1988 previously played for the seattle sounders women of the wleague the washington spirit of the national womens soccer league nwsland the seattle reign fc of the national womens soccer league nwsl. kate deines born april 15 1988 was born in seattle washington and attended newport high school in bellevue washington. kate deines born april 15 1988 played college soccer at the university of washington from 2006 to 2009. during kate deines born april 15 1988 college career kate deines born april 15 1988 was named to the allpac10 first team in 2008 and 2009. kate deines born april 15 1988 was drafted by the washington freedom in the 2010 wps draft. kate deines born april 15 1988 made kate deines born april 15 1988 professional debut on april 11 2010 in a match against the atlanta beat. kate deines born april 15 1988 played for the washington freedom until the washington freedom folded in 2011. in 2012 kate deines born april 15 1988 signed with the seattle sounders women of the wleague . kate deines born april 15 1988 played for the seattle sounders women of the wleaguefor two seasons helping the seattle sounders women of the wleaguewin the the wleague championship in 2013. in 2014 kate deines born april 15 1988 signed with the washington spirit of the national womens soccer league nwsl. kate deines born april 15 1988 made kate deines born april 15 1988 debut for the
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2535211267605634
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate 
+

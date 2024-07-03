@@ -1,0 +1,37 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Novelist and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Short_story and the value is : 1
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Novella and the value is : 0
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/Novella and the value is : 1
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Rhapsode and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Impressionism and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Prose and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Autobiographical_novel and the value is : 0
+http://dbpedia.org/resource/Rhapsode and http://dbpedia.org/resource/Impressionism and the value is : 0
+http://dbpedia.org/resource/Rhapsode and http://dbpedia.org/resource/Prose and the value is : 0
+http://dbpedia.org/resource/Rhapsode and http://dbpedia.org/resource/Autobiographical_novel and the value is : 0
+http://dbpedia.org/resource/Impressionism and http://dbpedia.org/resource/Prose and the value is : 0
+http://dbpedia.org/resource/Impressionism and http://dbpedia.org/resource/Autobiographical_novel and the value is : 0
+http://dbpedia.org/resource/Prose and http://dbpedia.org/resource/Autobiographical_novel and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Culture_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Mores and the value is : 0
+http://dbpedia.org/resource/Culture_of_the_United_States and http://dbpedia.org/resource/Mores and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Angel and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Thomas_Wolfe and http://dbpedia.org/resource/American_modernism and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+thomas clayton wolfe october 3 1900 september 15 1938 was an american novelist of the early twentieth century. wolfe wrote four lengthy novels plus many short stories dramatic works and novellas. he is known for mixing highly original poetic rhapsodic and impressionistic prose with autobiographical writing. his books written and published from the 1920s to the 1940s vividly reflect on american culture and the mores of that period. his first novel look homeward angel 1929 was a success. wolfes other novelsof time and the river 1935 the web and the rock 1939 and you cant go home again 1940were less successful but remain highly regarded. he is considered a major american modernist writer. 
+
+Coref Resolved : 
+thomas clayton wolfe october 3 1900 september 15 1938 was an american novelist of the early twentieth century. thomas clayton wolfe wrote four lengthy novels plus many short stories dramatic works and novellas. thomas clayton wolfe is known for mixing highly original poetic rhapsodic and impressionistic prose with autobiographical writing. thomas clayton wolfe books written and published from the 1920s to the 1940s vividly reflect on american culture and the mores of the 1920s to the 1940s . thomas clayton wolfe first novel look homeward angel 1929 was a success. thomas clayton wolfe other novelsof time and the river 1935 the web and the rock 1939 and you cant go home again 1940were less successful but remain highly regarded. thomas clayton wolfe is considered a major american modernist writer.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.15
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate accurate accurate 
+

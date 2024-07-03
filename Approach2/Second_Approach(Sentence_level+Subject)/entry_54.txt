@@ -1,0 +1,134 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/The_Rolling_Stones and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Elton_John and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/London and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Denim and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Punk_fashion and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Barmouth and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Merionethshire and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Dorothy_Gale and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Edgware and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Middlesex and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Coffeehouse and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Edward_Sexton and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Hardy_Amies and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Abbey_Road and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/George_Harrison and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Ready-to-wear and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/East_Asia and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Japan and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Tommy_Nutter and the value is : 1
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/French_language and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Stanbury and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Tommy_Nutter and the value is : 1
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Ready-to-wear and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Tommy_Nutter and the value is : 1
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Miami_Vice and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Savile_Row and the value is : 1
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Wild_Cards and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Jack_Nicholson and the value is : 0
+http://dbpedia.org/resource/Edward_Sexton and http://dbpedia.org/resource/Batman and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Cromwell_Hospital and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/London and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/HIV and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Tommy Nutter (1943 1992) was a British tailor who was a major figure in the fashion world of the late 1960s and early 1970s.
+He was known for his flamboyant style and his work with the Rolling Stones, Elton John, and other celebrities.
+He was born in London and began his career as an apprentice tailor at the age of 15.
+He opened his own shop, Nutters of Savile Row, in 1969.
+His designs were known for their bold colors and patterns, and he was one of the first to introduce the "peacock look" to men's fashion.
+He was also one of the first to use denim in men's suits.
+He was a major influence on the punk and new wave fashion movements of the late 1970s and early 1980s.
+He died of AIDS-related complications in 1992.
+
+
+Coref Resolved: 
+
+Tommy Nutter (1943 1992) was a British tailor who was a major figure in the fashion world of the late 1960s and early 1970s.
+Tommy Nutter (1943 1992) was known for Tommy Nutter (1943 1992) flamboyant style and Tommy Nutter (1943 1992) work with the Rolling Stones, Elton John, and other celebrities.
+Tommy Nutter (1943 1992) was born in London and began Tommy Nutter (1943 1992) career as an apprentice tailor at the age of 15.
+Tommy Nutter (1943 1992) opened Tommy Nutter (1943 1992) own shop, Nutters of Savile Row, in 1969.
+Tommy Nutter (1943 1992) designs were known for His designs bold colors and patterns, and Tommy Nutter (1943 1992) was one of the first to introduce the "peacock look" to men's fashion.
+Tommy Nutter (1943 1992) was also one of the first to use denim in men's suits.
+Tommy Nutter (1943 1992) was a major influence on the punk and new wave fashion movements of the late 1970s and early 1980s.
+Tommy Nutter (1943 1992) died of AIDS-related complications in 1992.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Tommy Nutter (17 April 1943 17 August 1992) was a British tailor, famous for reinventing the Savile Row suit in the 1960s.
+Born in Barmouth, Merioneth to Christopher Nutter and Dorothy (formerly Banister), he was raised in Edgware, Middlesex, where his father owned a local high street café.
+After the family moved to Kilburn, Nutter and his brother David attended Willesden Technical College.
+Nutter initially studied plumbing and then architecture, but he abandoned both aged 19 to study tailoring at the Tailor and Cutter Academy.
+In the early 1960s, he joined traditional tailors Donaldson, Williamson Ward.
+After seven years, in 1969, he joined up with Edward Sexton to open "Nutters of Savile Row" at No. 35a Savile Row.
+They were financially backed by Cilla Black and her husband Bobby Willis, managing director of the Beatles' Apple Corps Peter Brown, and lawyer James Vallance-White.
+The business was an immediate success, as Nutter combined traditional tailoring skills with innovative design.
+He designed for the Hardy Amies range, and then for the man himself.
+His clients included his investors, plus Sir Roy Strong, Mick Jagger, Bianca Jagger and Elton John.
+Nutter himself was most proud of the fact that, for the cover of the Beatles' album "Abbey Road" in 1969, he dressed three out of the four George Harrison elected to be photographed on the road-crossing in denims. .
+In the 1970s, his bespoke business became less successful, but he branched out into ready-to-wear clothing, marketed through Austin Reed.
+He also successfully expanded into East Asia, establishing the Savile Row brand in Japan.
+In 1976, Sexton bought Nutter out of the business.
+Nutter went to work for Kilgour French and Stanbury, managing his own workroom.
+Sexton continued to run Nutters of Savile Row until 1983, when Nutter returned to the Row with a ready-to-wear shop "Tommy Nutter, Savile Row".
+(This new venture, which traded at No. 19 Savile Row until Tommy's death, was backed by J J Crombie Limited, who continue to own the "Tommy Nutter" trademark.).
+At this time, Sexton set up a business in his own name.
+In the 1980s, he described his suits as a "cross between the big-shouldered 'Miami Vice' look and the authentic Savile Row.".
+He created the clothing of the Joker worn by Jack Nicholson in the 1989 film "Batman".
+Nutter died in 1992 at the Cromwell Hospital in London of complications from AIDS.
+ 
+
+Coref Resolved: 
+
+Tommy Nutter (17 April 1943 17 August 1992) was a British tailor, famous for reinventing the Savile Row suit in the 1960s.
+Born in Barmouth, Merioneth to Christopher Nutter and Dorothy (formerly Banister), Tommy Nutter was raised in Edgware, Middlesex, where Tommy Nutter father owned a local high street café.
+After the family moved to Kilburn, Tommy Nutter and Tommy Nutter brother David attended Willesden Technical College.
+Tommy Nutter initially studied plumbing and then architecture, but Tommy Nutter abandoned plumbing and then architectureaged 19 to study tailoring at the Tailor and Cutter Academy.
+In the early 1960s, Tommy Nutter joined traditional tailors Donaldson, Williamson Ward.
+After seven years, in 1969, Tommy Nutter joined up with Edward Sexton to open "Nutters of Savile Row" at No. 35a Savile Row.
+They were financially backed by Cilla Black and Cilla Black husband Bobby Willis, managing director of the Beatles' Apple Corps Peter Brown, and lawyer James Vallance-White.
+"Nutters of Savile Row" was an immediate success, as Tommy Nutter combined traditional tailoring skills with innovative design.
+Tommy Nutter designed for the Hardy Amies range, and then for the man the man himself.
+Tommy Nutter clients included Tommy Nutter investors, plus Sir Roy Strong, Mick Jagger, Bianca Jagger and Elton John.
+Nutter Tommy Nutter was most proud of the fact that, for the cover of the Beatles' album "Abbey Road" in 1969, Tommy Nutter dressed three out of the four George Harrison elected to be photographed on the road-crossing in denims. .
+In the 1970s, Tommy Nutter bespoke business became less successful, but Tommy Nutter branched out into ready-to-wear clothing, marketed through Austin Reed.
+Tommy Nutter also successfully expanded into East Asia, establishing the Savile Row brand in Japan.
+In 1976, Edward Sexton bought Tommy Nutter out of "Nutters of Savile Row" .
+Tommy Nutter went to work for Kilgour French and Stanbury, managing Tommy Nutter own workroom.
+Edward Sexton continued to run Nutters of Savile Row until 1983, when Tommy Nutter returned to Savile Row with a ready-to-wear shop "Tommy Nutter, Savile Row".
+(This new venture, which traded at No. 19 Savile Row until Tommy Nutter death, was backed by J J Crombie Limited, who continue to own the "Tommy Nutter " trademark.).
+At this time, Edward Sexton set up a business in Edward Sexton own name.
+In the 1980s, Edward Sexton described Edward Sexton suits as a "cross between the big-shouldered 'Miami Vice' look and the authentic Savile Row.".
+Edward Sexton created the clothing of the Joker worn by Jack Nicholson in the 1989 film "Batman".
+Tommy Nutter died in 1992 at the Cromwell Hospital in London of complications from AIDS.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 0.5 0.0 1.0 -1 0.0 0.0 -1 
+
+Value for ground truth is : 
+1.0 0.5 -1 -1 -1 1.0 -1 1.0 1.0 -1 0.5 0.0 0.3333333333333333 1.0 0.0 0.8333333333333334 -1 -1 0.5 0.0 0.3333333333333333 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate major_inaccurate accurate accurate accurate minor_inaccurate accurate 
+

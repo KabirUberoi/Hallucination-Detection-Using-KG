@@ -1,0 +1,41 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 1
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Commonwealth_Games and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Commonwealth_Games and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Gold_medal and the value is : 1
+http://dbpedia.org/resource/Commonwealth_Games and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Sea_captain and the value is : 1
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 1
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Federation_Hall and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Federation_Hall and the value is : 0
+http://dbpedia.org/resource/New_Zealand_national_netball_team and http://dbpedia.org/resource/Federation_Hall and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+leana de bruin born 28 april 1977 is a new zealand former netball player. she is one of the most successful netballers of all time having won four commonwealth games gold medals two world championships gold medals and two world cup gold medals. she was the captain of the new zealand national netball team the silver ferns from 2006 to 2011. de bruin was the first new zealander to be inducted into the international netball federation hall of fame in 2011. she retired from international netball in 2011 having played a total of 101 tests for the silver ferns. 
+
+Coref Resolved : 
+leana de bruin born 28 april 1977 is a new zealand former netball player. leana de bruin born 28 april 1977 is one of the most successful netballers of all time having won four commonwealth games gold medals two world championships gold medals and two world cup gold medals. leana de bruin born 28 april 1977 was the captain of the new zealand national netball team the silver ferns from 2006 to 2011. leana de bruin born 28 april 1977 was the first new zealander to be inducted into the international netball federation hall of fame in 2011. leana de bruin born 28 april 1977 retired from international netball in 2011having played a total of 101 tests for the new zealand national netball team the silver ferns .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.20833333333333334
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

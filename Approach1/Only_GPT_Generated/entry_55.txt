@@ -1,0 +1,46 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Jearl_Walker and http://dbpedia.org/resource/Author and the value is : 1
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Author and the value is : 1
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Cleveland and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/American_Physical_Society and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Cleveland and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/American_Physical_Society and the value is : 1
+http://dbpedia.org/resource/Cleveland and http://dbpedia.org/resource/American_Physical_Society and the value is : 0
+http://dbpedia.org/resource/Popular_science and http://dbpedia.org/resource/Physics and the value is : 1
+http://dbpedia.org/resource/Popular_science and http://dbpedia.org/resource/Circus and the value is : 0
+http://dbpedia.org/resource/Popular_science and http://dbpedia.org/resource/Amateur_astronomy and the value is : 0
+http://dbpedia.org/resource/Popular_science and http://dbpedia.org/resource/Scientist and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Circus and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Amateur_astronomy and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Scientist and the value is : 0
+http://dbpedia.org/resource/Circus and http://dbpedia.org/resource/Amateur_astronomy and the value is : 1
+http://dbpedia.org/resource/Circus and http://dbpedia.org/resource/Scientist and the value is : 0
+http://dbpedia.org/resource/Amateur_astronomy and http://dbpedia.org/resource/Scientist and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Radio and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/PBS and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Scientific_American_Frontiers and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/Radio and http://dbpedia.org/resource/PBS and the value is : 0
+http://dbpedia.org/resource/Radio and http://dbpedia.org/resource/Scientific_American_Frontiers and the value is : 1
+http://dbpedia.org/resource/Radio and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/PBS and http://dbpedia.org/resource/Scientific_American_Frontiers and the value is : 0
+http://dbpedia.org/resource/PBS and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/Scientific_American_Frontiers and http://dbpedia.org/resource/BBC and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+jearl walker born july 25 1945 is an american physicist and author. he is a professor emeritus of physics at cleveland state university and a fellow of the american physical society. he is best known for his popular science books on physics including the flying circus of physics the amateur scientist and the physics teacher. he has also written several textbooks on physics including fundamentals of physics and the physics of everyday phenomena. walker has appeared on television and radio programs including the pbs series scientific american frontiers and the bbc program horizon. he has also written articles for scientific american and other magazines. 
+
+Coref Resolved : 
+jearl walker born july 25 1945 is an american physicist and author. walker is a professor emeritus of physics at cleveland state university and a fellow of the american physical society. walker is best known for walker popular science books on physics including the flying circus of physics the amateur scientist and the physics teacher. walker has also written several textbooks on physics including fundamentals of physics and the physics of everyday phenomena. walker has appeared on television and radio programs including the pbs series scientific american frontiers and the bbc program horizon. walker has also written articles for scientific american and other magazines.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2413793103448276
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate minor_inaccurate accurate 
+

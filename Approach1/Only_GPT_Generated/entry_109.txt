@@ -1,0 +1,43 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Korean_drama and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/American_Gothic and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/American_Gothic and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Tracy_Beaker and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Adam_Freeland and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Teen_drama and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Tracy_Beaker and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Adam_Freeland and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Teen_drama and the value is : 0
+http://dbpedia.org/resource/Tracy_Beaker and http://dbpedia.org/resource/Adam_Freeland and the value is : 0
+http://dbpedia.org/resource/Tracy_Beaker and http://dbpedia.org/resource/Teen_drama and the value is : 0
+http://dbpedia.org/resource/Adam_Freeland and http://dbpedia.org/resource/Teen_drama and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/DC_Universe and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Amateur_wrestling and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Roman_calendar and the value is : 0
+http://dbpedia.org/resource/DC_Universe and http://dbpedia.org/resource/Amateur_wrestling and the value is : 0
+http://dbpedia.org/resource/DC_Universe and http://dbpedia.org/resource/Roman_calendar and the value is : 0
+http://dbpedia.org/resource/Amateur_wrestling and http://dbpedia.org/resource/Roman_calendar and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Korean_drama and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/True_Blood and the value is : 0
+http://dbpedia.org/resource/Evan_Rachel_Wood and http://dbpedia.org/resource/Westworld and the value is : 1
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/True_Blood and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Westworld and the value is : 0
+http://dbpedia.org/resource/True_Blood and http://dbpedia.org/resource/Westworld and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+evan rachel wood born september 7 1987 is an american actress model and musician. she began acting in the 1990s appearing in several television series including american gothic 199596 and once and again 19992002. wood made her debut as a leading film actress at the age of nine in digging to china 1997 and garnered acclaim for her golden globenominated role as the troubled teenager tracy freeland in the teen drama film thirteen 2003. she is also known for her roles in the films across the universe 2007 the wrestler 2008 and the ides of march 2011. she has also appeared in several television series including true blood 20082014 and westworld 2016present. 
+
+Coref Resolved : 
+evan rachel wood born september 7 1987 is an american actress model and musician. evan rachel wood born september 7 1987 began acting in the 1990s appearing in several television series including american gothic 199596 and once and again 19992002. evan rachel wood born september 7 1987 made evan rachel wood born september 7 1987 debut as a leading film actress at the age of nine in digging to china 1997 and garnered acclaim for evan rachel wood born september 7 1987 golden globenominated role as the troubled teenager tracy freeland in the teen drama film thirteen 2003. evan rachel wood born september 7 1987 is also known for evan rachel wood born september 7 1987 roles in the films across the universe 2007 the wrestler 2008 and the ides of march 2011. evan rachel wood born september 7 1987 has also appeared in several television series including true blood 20082014 and westworld 2016present.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.038461538461538464
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate 
+

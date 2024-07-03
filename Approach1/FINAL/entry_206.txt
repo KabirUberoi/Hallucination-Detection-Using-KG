@@ -1,0 +1,159 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Ancient_Greek and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Ancient_Macedonians and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Nobility and the value is : 1
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Ancient_Macedonians and http://dbpedia.org/resource/Nobility and the value is : 0
+http://dbpedia.org/resource/Ancient_Macedonians and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Nobility and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Anata_e and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Alexander_the_Great and the value is : 1
+http://dbpedia.org/resource/Anata_e and http://dbpedia.org/resource/Alexander_the_Great and the value is : 1
+http://dbpedia.org/resource/Achilles and http://dbpedia.org/resource/Patroclus and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Tire and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Mallian_campaign and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Companion_cavalry and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Left-wing_politics and the value is : 0
+http://dbpedia.org/resource/Mallian_campaign and http://dbpedia.org/resource/Companion_cavalry and the value is : 1
+http://dbpedia.org/resource/Mallian_campaign and http://dbpedia.org/resource/Left-wing_politics and the value is : 0
+http://dbpedia.org/resource/Companion_cavalry and http://dbpedia.org/resource/Left-wing_politics and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/356_BC and the value is : 0
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 1
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Ancient_Macedonians and the value is : 1
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Nobility and the value is : 1
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Alexander_the_Great and the value is : 1
+http://dbpedia.org/resource/356_BC and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 0
+http://dbpedia.org/resource/356_BC and http://dbpedia.org/resource/Ancient_Macedonians and the value is : 0
+http://dbpedia.org/resource/356_BC and http://dbpedia.org/resource/Nobility and the value is : 0
+http://dbpedia.org/resource/356_BC and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Ancient_Macedonians and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Nobility and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Ancient_Macedonians and http://dbpedia.org/resource/Nobility and the value is : 0
+http://dbpedia.org/resource/Ancient_Macedonians and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Nobility and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Anata_e and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Anata_e and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Achilles and http://dbpedia.org/resource/Patroclus and the value is : 1
+http://dbpedia.org/resource/Achilles and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 1
+http://dbpedia.org/resource/Patroclus and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Somatophylakes and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Companion_cavalry and the value is : 1
+http://dbpedia.org/resource/Somatophylakes and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 0
+http://dbpedia.org/resource/Somatophylakes and http://dbpedia.org/resource/Companion_cavalry and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Companion_cavalry and the value is : 0
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/Military_engineering and the value is : 1
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/Diplomat and the value is : 0
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 0
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/Aristotle and the value is : 0
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/Xenocrates and the value is : 0
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/Ancient_Greece and the value is : 1
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 0
+http://dbpedia.org/resource/Military_engineering and http://dbpedia.org/resource/Diplomat and the value is : 0
+http://dbpedia.org/resource/Military_engineering and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 0
+http://dbpedia.org/resource/Military_engineering and http://dbpedia.org/resource/Aristotle and the value is : 0
+http://dbpedia.org/resource/Military_engineering and http://dbpedia.org/resource/Xenocrates and the value is : 0
+http://dbpedia.org/resource/Military_engineering and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Military_engineering and http://dbpedia.org/resource/Ancient_Greece and the value is : 1
+http://dbpedia.org/resource/Military_engineering and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 0
+http://dbpedia.org/resource/Diplomat and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 1
+http://dbpedia.org/resource/Diplomat and http://dbpedia.org/resource/Aristotle and the value is : 0
+http://dbpedia.org/resource/Diplomat and http://dbpedia.org/resource/Xenocrates and the value is : 1
+http://dbpedia.org/resource/Diplomat and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Diplomat and http://dbpedia.org/resource/Ancient_Greece and the value is : 0
+http://dbpedia.org/resource/Diplomat and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Aristotle and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Xenocrates and the value is : 1
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Alexander_the_Great and the value is : 1
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Ancient_Greece and the value is : 1
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 1
+http://dbpedia.org/resource/Aristotle and http://dbpedia.org/resource/Xenocrates and the value is : 0
+http://dbpedia.org/resource/Aristotle and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Aristotle and http://dbpedia.org/resource/Ancient_Greece and the value is : 0
+http://dbpedia.org/resource/Aristotle and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 1
+http://dbpedia.org/resource/Xenocrates and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Xenocrates and http://dbpedia.org/resource/Ancient_Greece and the value is : 0
+http://dbpedia.org/resource/Xenocrates and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 1
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Ancient_Greece and the value is : 1
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 1
+http://dbpedia.org/resource/Ancient_Greece and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Chiliarch and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Chiliarch and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 1
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Royal_family and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Drypetis and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Stateira_II and the value is : 1
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Darius_III and the value is : 1
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 1
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Royal_family and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Drypetis and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Stateira_II and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Darius_III and the value is : 1
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 0
+http://dbpedia.org/resource/Royal_family and http://dbpedia.org/resource/Drypetis and the value is : 0
+http://dbpedia.org/resource/Royal_family and http://dbpedia.org/resource/Stateira_II and the value is : 1
+http://dbpedia.org/resource/Royal_family and http://dbpedia.org/resource/Darius_III and the value is : 0
+http://dbpedia.org/resource/Royal_family and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 0
+http://dbpedia.org/resource/Drypetis and http://dbpedia.org/resource/Stateira_II and the value is : 0
+http://dbpedia.org/resource/Drypetis and http://dbpedia.org/resource/Darius_III and the value is : 0
+http://dbpedia.org/resource/Drypetis and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 1
+http://dbpedia.org/resource/Stateira_II and http://dbpedia.org/resource/Darius_III and the value is : 1
+http://dbpedia.org/resource/Stateira_II and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 1
+http://dbpedia.org/resource/Darius_III and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Ecbatana and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/ThirtyTwo_(album) and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Grief and the value is : 0
+http://dbpedia.org/resource/Ecbatana and http://dbpedia.org/resource/ThirtyTwo_(album) and the value is : 0
+http://dbpedia.org/resource/Ecbatana and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/Ecbatana and http://dbpedia.org/resource/Grief and the value is : 0
+http://dbpedia.org/resource/ThirtyTwo_(album) and http://dbpedia.org/resource/Alexander_the_Great and the value is : 0
+http://dbpedia.org/resource/ThirtyTwo_(album) and http://dbpedia.org/resource/Grief and the value is : 1
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Grief and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Oracle and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Siwa_(beer) and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Hero and the value is : 0
+http://dbpedia.org/resource/Oracle and http://dbpedia.org/resource/Siwa_(beer) and the value is : 0
+http://dbpedia.org/resource/Oracle and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 0
+http://dbpedia.org/resource/Oracle and http://dbpedia.org/resource/Hero and the value is : 0
+http://dbpedia.org/resource/Siwa_(beer) and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 0
+http://dbpedia.org/resource/Siwa_(beer) and http://dbpedia.org/resource/Hero and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Hero and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Cremation and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Babylon and the value is : 0
+http://dbpedia.org/resource/Cremation and http://dbpedia.org/resource/Babylon and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 0
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Memory and the value is : 0
+http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and http://dbpedia.org/resource/Memory and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+hephaestion ancient greek ἡφαιστίων hēphaistíōn c. 356 bc 324 bc son of amyntor was a macedonian nobleman and a general in the army of alexander the great. he was by far the dearest of all the kings friends he had been brought up with alexander and shared all his secrets. this friendship was compared by others as well as themselves to that of achilles and patroclus. his military career was distinguished. he was the first to scale the walls of tyre in 332 bc which was the primary cause of the fall of the city. he was also the first to conquer the malli in india in 326 bc. he was also in command of the companion cavalry on the left wing in the battle of gaugamela in 331 bc. he died of illness in 324 bc. 
+
+Coref Resolved : 
+hephaestion ancient greek ἡφαιστίων hēphaistíōn c. 356 bc 324 bc son of amyntor was a macedonian nobleman and a general in the army of alexander the great. son of amyntor was by far the dearest of all the kings friends son of amyntor had been brought up with alexander the greatand shared all alexander the greatsecrets. this friendship was compared by others as well as others to that of achilles and patroclus. son of amyntor military career was distinguished. son of amyntor was the first to scale the walls of tyre in 332 bc which was the primary cause of the fall of tyre . son of amyntor was also the first to conquer the malli in india in 326 bc. son of amyntor was also in command of the companion cavalry on the left wing in the battle of gaugamela in 331 bc. son of amyntor died of illness in 324 bc .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+hephaestion c. 356 bc 324 bc son of amyntor was a macedonian nobleman and a general in the army of alexander the great. he was ...by far the dearest of all the kings friends he had been brought up with alexander and shared all his secrets. this friendship lasted throughout their lives and was compared by others as well as themselves to that of achilles and patroclus. his military career was distinguished. a member of alexander the greats personal bodyguard he went on to command the companion cavalry and was entrusted with many other tasks throughout alexanders tenyear campaign in asia including diplomatic missions the bridging of major rivers sieges and the foundation of new settlements. besides being a soldier engineer and diplomat he corresponded with the philosophers aristotle and xenocrates and actively supported alexander in his attempts to integrate the greeks and persians. alexander formally made him his secondincommand when he appointed him chiliarch of the empire. alexander also made him part of the royal family when he gave him as his bride drypetis sister to his own second wife stateira both daughters of darius iii of persia. when he died suddenly at ecbatana around age thirtytwo alexander was overwhelmed with grief. he petitioned the oracle at siwa to grant hephaestion divine status and thus hephaestion was honored as a divine hero. hephaestion was cremated in babylon in the presence of the entire army. at the time of his own death a mere eight months later alexander was still planning lasting monuments to hephaestions memory. 
+
+Coref Resolved : 
+hephaestion c. 356 bc 324 bc son of amyntor was a macedonian nobleman and a general in the army of alexander the great. son of amyntor was ...by far the dearest of all the kings friends son of amyntor had been brought up with alexander the greatand shared all alexander the greatsecrets. this friendship lasted throughout their lives and was compared by others as well as their to that of achilles and patroclus. son of amyntor military career was distinguished. a member of alexander the greatpersonal bodyguard son of amyntor went on to command the companion cavalry and was entrusted with many other tasks throughout alexander the greattenyear campaign in asia including diplomatic missions the bridging of major rivers sieges and the foundation of new settlements. besides being a soldier engineer and diplomat son of amyntor corresponded with the philosophers aristotle and xenocrates and actively supported alexander the greatin alexander the greatattempts to integrate the greeks and persians. alexander the greatformally made son of amyntor alexander the greatsecondincommand when alexander the greatappointed son of amyntor chiliarch of the empire. alexander the greatalso made son of amyntor part of the royal family when alexander the greatgave son of amyntor as alexander the greatbride drypetis sister to alexander the greatown second wife stateira both daughters of darius iii of persia. when son of amyntor died suddenly at ecbatana around age thirtytwo alexander the greatwas overwhelmed with grief. alexander the greatpetitioned the oracle at siwa to grant son of amyntor divine status and thus son of amyntor was honored as a divine hero. son of amyntor was cremated in babylon in the presence of the entire army. at the time of alexander the greatown death a mere eight months later alexander the greatwas still planning lasting monuments to son of amyntor memory.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2222222222222222 and for ground truth is : 0.26548672566371684
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate accurate accurate accurate 
+

@@ -1,0 +1,72 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Christian_mission and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Aircraft_pilot and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Evangelism and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Christian_mission and http://dbpedia.org/resource/Aircraft_pilot and the value is : 0
+http://dbpedia.org/resource/Christian_mission and http://dbpedia.org/resource/Evangelism and the value is : 0
+http://dbpedia.org/resource/Christian_mission and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Christian_mission and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Evangelism and the value is : 1
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Evangelism and http://dbpedia.org/resource/Huaorani_people and the value is : 1
+http://dbpedia.org/resource/Evangelism and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Ecuador and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Fort_Wayne_Daisies and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Indiana and the value is : 1
+http://dbpedia.org/resource/Fort_Wayne_Daisies and http://dbpedia.org/resource/Indiana and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Wheaton_College_(Illinois) and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Aerospace_engineering and the value is : 1
+http://dbpedia.org/resource/Wheaton_College_(Illinois) and http://dbpedia.org/resource/Illinois and the value is : 1
+http://dbpedia.org/resource/Wheaton_College_(Illinois) and http://dbpedia.org/resource/Aerospace_engineering and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Aerospace_engineering and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Aircraft_pilot and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Mission_Aviation_Fellowship and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Belgian_Congo and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Mission_Aviation_Fellowship and the value is : 1
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Belgian_Congo and the value is : 0
+http://dbpedia.org/resource/Mission_Aviation_Fellowship and http://dbpedia.org/resource/Belgian_Congo and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Marj and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Saint and the value is : 0
+http://dbpedia.org/resource/Marj and http://dbpedia.org/resource/Saint and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Pete_Fleming and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Newton_A._McCully and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Mission_Aviation_Fellowship and the value is : 1
+http://dbpedia.org/resource/Pete_Fleming and http://dbpedia.org/resource/Newton_A._McCully and the value is : 0
+http://dbpedia.org/resource/Pete_Fleming and http://dbpedia.org/resource/Mission_Aviation_Fellowship and the value is : 0
+http://dbpedia.org/resource/Newton_A._McCully and http://dbpedia.org/resource/Mission_Aviation_Fellowship and the value is : 0
+http://dbpedia.org/resource/Mission_Aviation_Fellowship and http://dbpedia.org/resource/Evangelism and the value is : 1
+http://dbpedia.org/resource/Mission_Aviation_Fellowship and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Mission_Aviation_Fellowship and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Evangelism and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Evangelism and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Pete_Fleming and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Newton_A._McCully and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Pete_Fleming and http://dbpedia.org/resource/Newton_A._McCully and the value is : 0
+http://dbpedia.org/resource/Pete_Fleming and http://dbpedia.org/resource/Huaorani_people and the value is : 1
+http://dbpedia.org/resource/Pete_Fleming and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Newton_A._McCully and http://dbpedia.org/resource/Huaorani_people and the value is : 1
+http://dbpedia.org/resource/Newton_A._McCully and http://dbpedia.org/resource/Ecuador and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Ecuador and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+nate saint august 28 1923 january 8 1956 was an american christian missionary pilot and one of five martyrs killed while attempting to evangelize the huaorani people of eastern ecuador. saint was born in fort wayne indiana and grew up in florida. he attended wheaton college in illinois where he studied aeronautical engineering and earned his pilots license. after graduating in 1947 he worked as a pilot for mission aviation fellowship maf in the belgian congo. in 1950 he returned to the united states and married marj saint. in 1953 saint and four other missionariesjim elliot peter fleming ed mccully and roger youderianformed the missionary aviation fellowships maf ecuadorian mission. the groups goal was to evangelize the huaorani people a tribe of huntergatherers living in the amazon rainforest. on january 8 1956 saint and the other four missionaries were killed by huaorani warriors while attempting to make contact with the tribe. 
+
+Coref Resolved : 
+nate saint august 28 1923 january 8 1956 was an american christian missionary pilot and one of five martyrs killed while attempting to evangelize the huaorani people of eastern ecuador. nate saint was born in fort wayne indiana and grew up in florida. nate saint attended wheaton college in illinois where nate saint studied aeronautical engineering and earned nate saint pilots license. after graduating in 1947 nate saint worked as a pilot for mission aviation fellowship maf in the belgian congo. in 1950 nate saint returned to the united states and married marj saint. in 1953 nate saint and four other missionariesjim elliot peter fleming ed mccully and roger youderianformed mission aviation fellowship maf . mission aviation fellowship maf goal was to evangelize the huaorani people of eastern ecuador. on january 8 1956 nate saint and four other missionariesjim elliot peter fleming ed mccully and roger youderianformed were killed by huaorani warriors while attempting to make contact with the huaorani people of eastern ecuador.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.32727272727272727
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate major_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate 
+

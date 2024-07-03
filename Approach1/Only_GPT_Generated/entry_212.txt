@@ -1,0 +1,60 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Blog and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Blog and the value is : 1
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/Blog and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Blog and the value is : 1
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 1
+http://dbpedia.org/resource/Blog and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Virginia and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Virginia and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Virginia and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Debt and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Mortgage_loan and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Debt and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Mortgage_loan and the value is : 0
+http://dbpedia.org/resource/Debt and http://dbpedia.org/resource/Mortgage_loan and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Bankruptcy and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Bankruptcy and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Foreclosure and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Foreclosure and the value is : 0
+http://dbpedia.org/resource/Blog and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/Blog and http://dbpedia.org/resource/Foreclosure and the value is : 0
+http://dbpedia.org/resource/Real_estate_entrepreneur and http://dbpedia.org/resource/Foreclosure and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Same-sex_marriage and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Same-sex_marriage and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Blog and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+casey serin born february 11 1984 is an american blogger and former real estate investor. he gained notoriety in 2006 when he began blogging about his experiences as a real estate investor. serin purchased eight properties in arizona california and virginia between 2004 and 2006 using a combination of subprime and stated income loans. he quickly became overwhelmed by the debt and was unable to make payments on the mortgages. he declared bankruptcy in 2008. serins blog which he began in 2006 documented his experiences with real estate investing and his attempts to avoid foreclosure. he also wrote about his personal life including his marriage and the birth of his daughter. his blog was widely read and attracted the attention of the media who reported on his financial struggles. 
+
+Coref Resolved : 
+casey serin born february 11 1984 is an american blogger and former real estate investor. casey serin born february 11 1984 gained notoriety in 2006 when casey serin born february 11 1984 began blogging about casey serin born february 11 1984 experiences as a real estate investor. casey serin born february 11 1984 purchased eight properties in arizona california and virginia between 2004 and 2006 using a combination of subprime and stated income loans. casey serin born february 11 1984 quickly became overwhelmed by the debt and was unable to make payments on the mortgages. casey serin born february 11 1984 declared bankruptcy in 2008. casey serin born february 11 1984 blog which casey serin born february 11 1984 began in 2006 documented casey serin born february 11 1984 experiences with real estate investing and casey serin born february 11 1984 attempts to avoid foreclosure. casey serin born february 11 1984 also wrote about casey serin born february 11 1984 personal life including casey serin born february 11 1984 marriage and the birth of casey serin born february 11 1984 daughter. casey serin born february 11 1984 blog was widely read and attracted the attention of the media who reported on casey serin born february 11 1984 financial struggles.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2558139534883721
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate accurate 
+

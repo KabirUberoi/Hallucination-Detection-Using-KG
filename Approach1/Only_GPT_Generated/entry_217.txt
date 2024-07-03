@@ -1,0 +1,60 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/Basketball and the value is : 0
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/Dallas_Mavericks and the value is : 1
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Dallas_Mavericks and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Dallas_Mavericks and http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Dallas_Mavericks and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/Dallas_Mavericks and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 0
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 1
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 1
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/1956_FA_Cup_Final and the value is : 1
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 1
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/1956_FA_Cup_Final and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/1956_FA_Cup_Final and the value is : 0
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 1
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/New_York_Knicks and the value is : 0
+http://dbpedia.org/resource/Atlanta_Hawks and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Atlanta_Hawks and http://dbpedia.org/resource/NBA_draft and the value is : 1
+http://dbpedia.org/resource/Atlanta_Hawks and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Atlanta_Hawks and http://dbpedia.org/resource/New_York_Knicks and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/New_York_Knicks and the value is : 0
+http://dbpedia.org/resource/NBA_draft and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/NBA_draft and http://dbpedia.org/resource/New_York_Knicks and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/New_York_Knicks and the value is : 1
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/Golden_State_Warriors and the value is : 0
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/Boston_Celtics and the value is : 0
+http://dbpedia.org/resource/Golden_State_Warriors and http://dbpedia.org/resource/Boston_Celtics and the value is : 0
+http://dbpedia.org/resource/Willie_Naulls and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+willie naulls born december 7 1934 is an american former professional basketball player. he was a 66 forwardcenter who played in the national basketball association nba from 1956 to 1966. he was a fourtime nba allstar and a threetime allnba second team selection. naulls was born in dallas texas and attended the university of california los angeles ucla. he was a threetime allamerican at ucla and was named the most valuable player of the 1956 final four. he was drafted by the st. louis hawks in the 1956 nba draft and was traded to the new york knicks in 1958. he was named to the allstar team in 1959 1960 1961 and 1962. he was also named to the allnba second team in 1959 1960 and 1962. he was traded to the san francisco warriors in 1963 and then to the boston celtics in 1965. he retired from the nba in 1966. 
+
+Coref Resolved : 
+willie naulls born december 7 1934 is an american former professional basketball player. willie naulls born december 7 1934 was a 66 forwardcenter who played in the national basketball association nba from 1956 to 1966. willie naulls born december 7 1934 was a fourtime the national basketball association nba allstar and a threetime allnba second team selection. willie naulls born december 7 1934 was born in dallas texas and attended the university of california los angeles ucla. willie naulls born december 7 1934 was a threetime allamerican at the university of california los angeles uclaand was named the most valuable player of the 1956 final four. willie naulls born december 7 1934 was drafted by the st. louis hawks in the 1956 the national basketball association nba draft and was traded to the new york knicks in 1958. willie naulls born december 7 1934 was named to the allstar team in 1959 1960 1961 and 1962. willie naulls born december 7 1934 was also named to the allnba second team in 1959 1960 and 1962. willie naulls born december 7 1934 was traded to the san francisco warriors in 1963 and then to the boston celtics in 1965. willie naulls born december 7 1934 retired from the national basketball association nba in 1966.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.4418604651162791
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate 
+

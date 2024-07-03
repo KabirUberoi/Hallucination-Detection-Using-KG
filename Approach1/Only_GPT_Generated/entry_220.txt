@@ -1,0 +1,55 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Songwriter and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Drummer and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Drummer and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Heavy_metal_music and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Project_Rocket and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Racetraitor and the value is : 0
+http://dbpedia.org/resource/Project_Rocket and http://dbpedia.org/resource/Racetraitor and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Menomonee_Falls,_Wisconsin and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Wisconsin and the value is : 0
+http://dbpedia.org/resource/Menomonee_Falls,_Wisconsin and http://dbpedia.org/resource/Wisconsin and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Popular_music and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Menomonee_Falls,_Wisconsin and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Project_Rocket and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Hardcore_punk and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Racetraitor and the value is : 0
+http://dbpedia.org/resource/Hardcore_punk and http://dbpedia.org/resource/Racetraitor and the value is : 0
+http://dbpedia.org/resource/Hurley_(stick) and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Hurley_(stick) and http://dbpedia.org/resource/Drummer and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Drummer and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Music_recording_certification and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Tree and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Infinity and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Music_recording_certification and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Tree and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Infinity and the value is : 1
+http://dbpedia.org/resource/Music_recording_certification and http://dbpedia.org/resource/Bung and the value is : 0
+http://dbpedia.org/resource/Music_recording_certification and http://dbpedia.org/resource/Tree and the value is : 0
+http://dbpedia.org/resource/Music_recording_certification and http://dbpedia.org/resource/Infinity and the value is : 0
+http://dbpedia.org/resource/Bung and http://dbpedia.org/resource/Tree and the value is : 0
+http://dbpedia.org/resource/Bung and http://dbpedia.org/resource/Infinity and the value is : 0
+http://dbpedia.org/resource/Tree and http://dbpedia.org/resource/Infinity and the value is : 0
+http://dbpedia.org/resource/Andy_Hurley and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+andy hurley is an american musician and songwriter. he is best known as the drummer of the rock band fall out boy with whom he has recorded six studio albums. hurley also founded the heavy metal band the damned things. he was previously involved with several other bands including project rocket racetraitor and enabler. hurley was born in menomonee falls wisconsin. he began playing music with his first drum kit at the age of five. he attended menomonee falls high school and played in several local bands throughout his teenage years. in 2001 he joined the band project rocket which released two albums before splitting up in 2003. hurley then joined the hardcore punk band racetraitor with whom he recorded one album before the band split up in 2004. in 2004 hurley joined fall out boy as the bands drummer. he has since recorded six studio albums with the band including the multiplatinum selling albums from under the cork tree 2005 and infinity on high 2007. in 2010 hurley founded the heavy metal supergroup the damned 
+
+Coref Resolved : 
+andy hurley is an american musician and songwriter. andy hurley is best known as the drummer of the rock band fall out boy with whom andy hurley has recorded six studio albums. andy hurley also founded the heavy metal band the damned things. andy hurley was previously involved with several other bands including project rocket racetraitor and enabler. andy hurley was born in menomonee falls wisconsin. andy hurley began playing music with andy hurley first drum kit at the age of five. andy hurley attended menomonee falls wisconsinhigh school and played in several local bands throughout andy hurley teenage years. in 2001 andy hurley joined the band project rocket which released two albums before splitting up in 2003. andy hurley then joined the hardcore punk band racetraitor with whom andy hurley recorded one album before the hardcore punk band racetraitor with whom he recorded one album before the band split up in 2004split up in 2004. in 2004andy hurley joined the rock band fall out boy with whom he has recorded six studio albumsas the bands drummer. andy hurley has since recorded six studio albums with the rock band fall out boy with whom he has recorded six studio albumsincluding the multiplatinum selling albums from under the cork tree 2005 and infinity on high 2007. in 2010 andy hurley founded the heavy metal band the damned things
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3684210526315789
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate accurate accurate accurate major_inaccurate accurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

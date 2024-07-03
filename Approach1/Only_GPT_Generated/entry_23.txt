@@ -1,0 +1,51 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Richard_Garnons_Williams and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Richard_Garnons_Williams and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Richard_Garnons_Williams and http://dbpedia.org/resource/Songwriter and the value is : 1
+http://dbpedia.org/resource/Richard_Garnons_Williams and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Songwriter and the value is : 1
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Record_producer and the value is : 1
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Guitarist and the value is : 1
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Kansas and the value is : 1
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Kansas and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Kansas and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Kansas and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Kansas and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Dust and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Wind_instrument and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Dust and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Wind_instrument and the value is : 0
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and the value is : 0
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/Dust and the value is : 0
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/Wind_instrument and the value is : 0
+http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and http://dbpedia.org/resource/Dust and the value is : 0
+http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and http://dbpedia.org/resource/Wind_instrument and the value is : 0
+http://dbpedia.org/resource/Dust and http://dbpedia.org/resource/Wind_instrument and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+rich williams born richard williams october 19 1949 is an american guitarist singer songwriter and record producer. he is best known as the lead guitarist and a founding member of the rock band kansas. williams has been with the band since its inception in 1973 and is the only original member still with the group. he has written or cowritten several of the bands biggest hits including carry on wayward son and dust in the wind. he has also released several solo albums and collaborated with other artists. 
+
+Coref Resolved : 
+rich williams born richard williams october 19 1949 is an american guitarist singer songwriter and record producer. rich williams is best known as the lead guitarist and a founding member of the rock band kansas. rich williams has been with the rock band kansassince the rock band kansasinception in 1973 and is the only original member still with the rock band kansas. rich williams has written or cowritten several of the rock band kansasbiggest hits including carry on wayward son and dust in the wind. rich williams has also released several solo albums and collaborated with other artists.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.17647058823529413
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate accurate 
+

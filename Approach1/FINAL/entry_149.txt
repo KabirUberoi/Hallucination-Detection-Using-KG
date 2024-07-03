@@ -1,0 +1,130 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/American_Educator and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Liberal_arts_college and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Liberal_arts_college and the value is : 0
+http://dbpedia.org/resource/Smith_College and http://dbpedia.org/resource/Liberal_arts_college and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Harvard_University and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Harvard_University and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/English_literature and the value is : 0
+http://dbpedia.org/resource/Harvard_University and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Harvard_University and http://dbpedia.org/resource/English_literature and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/English_literature and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/National_university and the value is : 0
+http://dbpedia.org/resource/Smith_College and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Smith_College and http://dbpedia.org/resource/National_university and the value is : 1
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/National_university and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Curriculum and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/Curriculum and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Master_of_Social_Work and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Summer_school and the value is : 1
+http://dbpedia.org/resource/Smith_College and http://dbpedia.org/resource/Master_of_Social_Work and the value is : 1
+http://dbpedia.org/resource/Smith_College and http://dbpedia.org/resource/Summer_school and the value is : 0
+http://dbpedia.org/resource/Master_of_Social_Work and http://dbpedia.org/resource/Summer_school and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Liberal_arts_college and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Liberal_arts_college and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Teacher and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Lexicography and the value is : 1
+http://dbpedia.org/resource/Teacher and http://dbpedia.org/resource/Lexicography and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/University_of_Edinburgh and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 1
+http://dbpedia.org/resource/University_of_Edinburgh and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Mission_president and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/Mission_president and http://dbpedia.org/resource/Smith_College and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Doune and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Scotland and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Naturalization and the value is : 0
+http://dbpedia.org/resource/Doune and http://dbpedia.org/resource/Scotland and the value is : 0
+http://dbpedia.org/resource/Doune and http://dbpedia.org/resource/Naturalization and the value is : 1
+http://dbpedia.org/resource/Scotland and http://dbpedia.org/resource/Naturalization and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Bryn_Mawr_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Harvard_University and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Cuban_rumba and the value is : 0
+http://dbpedia.org/resource/Bryn_Mawr_College and http://dbpedia.org/resource/Harvard_University and the value is : 1
+http://dbpedia.org/resource/Bryn_Mawr_College and http://dbpedia.org/resource/Cuban_rumba and the value is : 0
+http://dbpedia.org/resource/Harvard_University and http://dbpedia.org/resource/Cuban_rumba and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/William_Shakespeare and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Robert_Burns and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/English_Renaissance_theatre and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/University_of_Cambridge and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Tudor_period and the value is : 1
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/William_Shakespeare and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Robert_Burns and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/English_Renaissance_theatre and the value is : 1
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/University_of_Cambridge and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Tudor_period and the value is : 1
+http://dbpedia.org/resource/William_Shakespeare and http://dbpedia.org/resource/Robert_Burns and the value is : 0
+http://dbpedia.org/resource/William_Shakespeare and http://dbpedia.org/resource/English_Renaissance_theatre and the value is : 0
+http://dbpedia.org/resource/William_Shakespeare and http://dbpedia.org/resource/University_of_Cambridge and the value is : 0
+http://dbpedia.org/resource/William_Shakespeare and http://dbpedia.org/resource/Tudor_period and the value is : 0
+http://dbpedia.org/resource/Robert_Burns and http://dbpedia.org/resource/English_Renaissance_theatre and the value is : 0
+http://dbpedia.org/resource/Robert_Burns and http://dbpedia.org/resource/University_of_Cambridge and the value is : 0
+http://dbpedia.org/resource/Robert_Burns and http://dbpedia.org/resource/Tudor_period and the value is : 0
+http://dbpedia.org/resource/English_Renaissance_theatre and http://dbpedia.org/resource/University_of_Cambridge and the value is : 1
+http://dbpedia.org/resource/English_Renaissance_theatre and http://dbpedia.org/resource/Tudor_period and the value is : 0
+http://dbpedia.org/resource/University_of_Cambridge and http://dbpedia.org/resource/Tudor_period and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Translation and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Middle_English and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Alliterative_verse and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Chivalric_romance and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Gawain and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Sir_Gawain_and_the_Green_Knight and the value is : 0
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Middle_English and the value is : 0
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Alliterative_verse and the value is : 0
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Chivalric_romance and the value is : 0
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Gawain and the value is : 0
+http://dbpedia.org/resource/Translation and http://dbpedia.org/resource/Sir_Gawain_and_the_Green_Knight and the value is : 0
+http://dbpedia.org/resource/Middle_English and http://dbpedia.org/resource/Alliterative_verse and the value is : 0
+http://dbpedia.org/resource/Middle_English and http://dbpedia.org/resource/Chivalric_romance and the value is : 1
+http://dbpedia.org/resource/Middle_English and http://dbpedia.org/resource/Gawain and the value is : 0
+http://dbpedia.org/resource/Middle_English and http://dbpedia.org/resource/Sir_Gawain_and_the_Green_Knight and the value is : 0
+http://dbpedia.org/resource/Alliterative_verse and http://dbpedia.org/resource/Chivalric_romance and the value is : 1
+http://dbpedia.org/resource/Alliterative_verse and http://dbpedia.org/resource/Gawain and the value is : 1
+http://dbpedia.org/resource/Alliterative_verse and http://dbpedia.org/resource/Sir_Gawain_and_the_Green_Knight and the value is : 1
+http://dbpedia.org/resource/Chivalric_romance and http://dbpedia.org/resource/Gawain and the value is : 1
+http://dbpedia.org/resource/Chivalric_romance and http://dbpedia.org/resource/Sir_Gawain_and_the_Green_Knight and the value is : 1
+http://dbpedia.org/resource/Gawain and http://dbpedia.org/resource/Sir_Gawain_and_the_Green_Knight and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+william allan neilson 18691946 was an american educator and scholar. he was the president of smith college from 1910 to 1939 and was a major figure in the development of the modern liberal arts college. neilson was born in 1869 in new york city. he attended harvard university where he earned his bachelors degree in 1891 and his masters degree in 1892. he then went on to teach at harvard eventually becoming a professor of english literature. in 1910 he was appointed president of smith college a position he held until 1939. during his tenure at smith neilson was instrumental in transforming the college from a small local institution into a major national university. he increased the size of the faculty expanded the curriculum and improved the colleges financial stability. he also established a number of new programs including the smith college school for social work and the smith college summer school for women workers in industry. neilson was a strong advocate for womens education and he was a major figure in the development of the modern liberal arts college. neilson retired from smith in 
+
+Coref Resolved : 
+william allan neilson 18691946 was an american educator and scholar. william allan neilson was the president of smith college from 1910 to 1939 and was a major figure in the development of the modern liberal arts college. william allan neilson was born in 1869 in new york city. william allan neilson attended harvard university where william allan neilson earned william allan neilson bachelors degree in 1891 and william allan neilson masters degree in 1892. william allan neilson then went on to teach at harvard university eventually becoming a professor of english literature. in 1910 william allan neilson was appointed president of smith college a position william allan neilson held until 1939 . during william allan neilson tenure at smith college william allan neilson was instrumental in transforming smith college from a small local institution into a major national university. william allan neilson increased the size of the faculty expanded the curriculum and improved smith college financial stability. william allan neilson also established a number of new programs including the smith college school for social work and the smith college summer school for women workers in industry. william allan neilson was a strong advocate for womens education and william allan neilson was a major figure in the development of the modern liberal arts college. william allan neilson retired from smith college in
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+william allan neilson 28 march 1869 1946 was a scottishamerican educator writer and lexicographer. he graduated from the university of edinburgh in 1891 and became a ph.d. at harvard university in 1898. he was president of smith college between 1917 and 1939. neilson was born in doune scotland and emigrated to the united states in 1895 becoming naturalized on 3 august 1905. he taught at bryn mawr college from 1898 to 1900 harvard from 1900 to 1904 columbia from 1904 to 1906 and harvard again from 1906 to 1917. neilson was the author of a number of critical works on william shakespeare robert burns and the elizabethan theatre editor of the cambridge and tudor editions of shakespeare 1906 1911 and editor of websters new international dictionary second edition 1934. less known is his translation of the famous late 14th century middle english alliterative chivalric romance sir gawain and the green knight. 
+
+Coref Resolved : 
+william allan neilson 28 march 1869 1946 was a scottishamerican educator writer and lexicographer. william allan neilson graduated from the university of edinburgh in 1891 and became a ph.d. at harvard university in 1898. william allan neilson was president of smith college between 1917 and 1939. william allan neilson was born in doune scotland and emigrated to the united states in 1895 becoming naturalized on 3 august 1905. william allan neilson taught at bryn mawr college from 1898to 1900 harvard university from 1900 to 1904 columbia from 1904 to 1906 and harvard university again from 1906 to 1917 . william allan neilson was the author of a number of critical works on william shakespeare robert burns and the elizabethan theatre editor of the cambridge and tudor editions of william shakespeare 1906 1911 and editor of websters new international dictionary second edition 1934. less known is william allan neilson translation of the famous late 14th century middle english alliterative chivalric romance sir gawain and the green knight.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.28205128205128205 and for ground truth is : 0.3333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate major_inaccurate minor_inaccurate accurate minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

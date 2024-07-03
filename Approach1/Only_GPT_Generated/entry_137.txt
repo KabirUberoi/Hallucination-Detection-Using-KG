@@ -1,0 +1,48 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Caddisfly and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 1
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Celtic_languages and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Loan and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Dundee_F.C. and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Dundee_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/Dundee_F.C. and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/Dundee_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Loan and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 1
+http://dbpedia.org/resource/Dundee_F.C. and http://dbpedia.org/resource/Dundee_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_F.C. and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_United_F.C. and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Professional_Footballers'_Association and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Professional_Footballers'_Association and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Professional_Footballers'_Association and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 1
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Swindon_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Birmingham_City_F.C. and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Blackburn_Rovers_F.C. and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 0
+http://dbpedia.org/resource/Blackburn_Rovers_F.C. and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 0
+http://dbpedia.org/resource/Caddisfly and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+paul caddis born 28 october 1988 is a scottish professional footballer who plays as a right back for league one club burton albion. caddis began his career with celtic making his debut in 2006. he spent time on loan at dundee and dundee united before joining swindon town in 2010. he was named in the pfa league one team of the year in 201213 and was appointed captain of swindon in 2013. he joined birmingham city in 2014 and was part of the team that won the football league trophy in the same year. he joined blackburn rovers in 2016 and was loaned to burton albion in 2017. he signed permanently for burton in 2018. caddis has represented scotland at under19 and under21 level. 
+
+Coref Resolved : 
+paul caddis born 28 october 1988 is a scottish professional footballer who plays as a right back for league one club burton albion. caddis began caddis career with celtic making caddis debut in 2006. caddis spent time on loan at dundee and dundee united before joining swindon town in 2010. caddis was named in the pfa league one team of the year in 201213 and was appointed captain of swindon town in 2013. caddis joined birmingham city in the same yearand was part of the team that won the football league trophy in the same year. caddis joined blackburn rovers in 2016 and was loaned to league one club burton albionin 2017. caddis signed permanently for league one club burton albionin 2018. caddis has represented scotland at under19 and under21 level.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0967741935483871
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate accurate 
+

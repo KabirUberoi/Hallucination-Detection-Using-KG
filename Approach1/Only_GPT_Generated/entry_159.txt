@@ -1,0 +1,100 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/American_Beauty_(1999_film) and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Detroit and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Michigan and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/American_Beauty_(1999_film) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Detroit and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Michigan and the value is : 0
+http://dbpedia.org/resource/American_Beauty_(1999_film) and http://dbpedia.org/resource/Detroit and the value is : 0
+http://dbpedia.org/resource/American_Beauty_(1999_film) and http://dbpedia.org/resource/Michigan and the value is : 1
+http://dbpedia.org/resource/Detroit and http://dbpedia.org/resource/Michigan and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Mona_Grudt and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Mona_Grudt and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Mona_Grudt and the value is : 1
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Mona_Grudt and http://dbpedia.org/resource/Norway and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Carole_Gist and http://dbpedia.org/resource/Shawn_Weatherly and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Universe and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Shawn_Weatherly and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Universe and http://dbpedia.org/resource/Shawn_Weatherly and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Mona_Grudt and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Shawn_Weatherly and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Mona_Grudt and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Shawn_Weatherly and the value is : 0
+http://dbpedia.org/resource/Mona_Grudt and http://dbpedia.org/resource/Shawn_Weatherly and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+carole gist born april 28 1969 is an american beauty pageant titleholder from detroit michigan who was crowned miss usa 1990. she was the first africanamerican woman to win the miss usa title. gist represented the united states at the miss universe 1990 pageant held in los angeles california where she placed first runnerup to mona grudt of norway. gist was the first africanamerican woman to place in the miss universe pageant. she is also the first miss usa to place in the miss universe pageant since shawn weatherly in 1980. 
+
+Coref Resolved : 
+carole gist born april 28 1969 is an american beauty pageant titleholder from detroit michigan who was crowned miss usa 1990. carole gist born april 28 1969 was the first africanamerican woman to win miss usa 1990. carole gist born april 28 1969 represented the united states at the miss universe 1990 pageant held in los angeles california where carole gist born april 28 1969 placed first runnerup to mona grudt of norway. carole gist born april 28 1969 was the first africanamerican woman to place in the miss universe 1990 pageant held in los angeles california where she placed first runnerup to mona grudt of norway. carole gist born april 28 1969 is also the first miss usa to place in the miss universe 1990 pageant held in los angeles california where she placed first runnerup to mona grudt of norwaysince shawn weatherly in 1980.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.12048192771084337
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate major_inaccurate 
+

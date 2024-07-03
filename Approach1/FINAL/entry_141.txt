@@ -1,0 +1,127 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/3rd_Dalai_Lama and the value is : 1
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/Tulku and the value is : 1
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/2nd_Dalai_Lama and the value is : 1
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Tulku and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/2nd_Dalai_Lama and the value is : 1
+http://dbpedia.org/resource/Tulku and http://dbpedia.org/resource/2nd_Dalai_Lama and the value is : 1
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/3rd_Dalai_Lama and the value is : 0
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/Bhikkhu and the value is : 1
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/Gelug and the value is : 1
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/Tibetan_Buddhism and the value is : 1
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/Spirituality and the value is : 0
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/Tibet and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Bhikkhu and the value is : 1
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Gelug and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Tibetan_Buddhism and the value is : 1
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Spirituality and the value is : 1
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Tibet and the value is : 0
+http://dbpedia.org/resource/Bhikkhu and http://dbpedia.org/resource/Gelug and the value is : 0
+http://dbpedia.org/resource/Bhikkhu and http://dbpedia.org/resource/Tibetan_Buddhism and the value is : 1
+http://dbpedia.org/resource/Bhikkhu and http://dbpedia.org/resource/Spirituality and the value is : 1
+http://dbpedia.org/resource/Bhikkhu and http://dbpedia.org/resource/Tibet and the value is : 0
+http://dbpedia.org/resource/Gelug and http://dbpedia.org/resource/Tibetan_Buddhism and the value is : 1
+http://dbpedia.org/resource/Gelug and http://dbpedia.org/resource/Spirituality and the value is : 1
+http://dbpedia.org/resource/Gelug and http://dbpedia.org/resource/Tibet and the value is : 1
+http://dbpedia.org/resource/Tibetan_Buddhism and http://dbpedia.org/resource/Spirituality and the value is : 0
+http://dbpedia.org/resource/Tibetan_Buddhism and http://dbpedia.org/resource/Tibet and the value is : 0
+http://dbpedia.org/resource/Spirituality and http://dbpedia.org/resource/Tibet and the value is : 0
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/3rd_Dalai_Lama and the value is : 1
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/Ganden_Phodrang and the value is : 1
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Ganden_Phodrang and the value is : 1
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/3rd_Dalai_Lama and the value is : 1
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/Tibetan_Buddhism and the value is : 1
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/Kalachakra and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Tibetan_Buddhism and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Kalachakra and the value is : 1
+http://dbpedia.org/resource/Tibetan_Buddhism and http://dbpedia.org/resource/Kalachakra and the value is : 0
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/3rd_Dalai_Lama and the value is : 1
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/Italian_unification and the value is : 0
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/Mongolian_language and the value is : 1
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Italian_unification and the value is : 1
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Mongolian_language and the value is : 0
+http://dbpedia.org/resource/Treatise and http://dbpedia.org/resource/Italian_unification and the value is : 1
+http://dbpedia.org/resource/Treatise and http://dbpedia.org/resource/Mongolian_language and the value is : 0
+http://dbpedia.org/resource/Italian_unification and http://dbpedia.org/resource/Mongolian_language and the value is : 0
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/3rd_Dalai_Lama and the value is : 0
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/Monastery and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Monastery and the value is : 1
+http://dbpedia.org/resource/Dalai_Lama and http://dbpedia.org/resource/3rd_Dalai_Lama and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Dalai_Lama and the value is : 1
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Lhasa and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Tulku and the value is : 1
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/2nd_Dalai_Lama and the value is : 1
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Drepung_Monastery and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Panchen_Sonam_Dragpa and the value is : 0
+http://dbpedia.org/resource/Lhasa and http://dbpedia.org/resource/Tulku and the value is : 1
+http://dbpedia.org/resource/Lhasa and http://dbpedia.org/resource/2nd_Dalai_Lama and the value is : 0
+http://dbpedia.org/resource/Lhasa and http://dbpedia.org/resource/Drepung_Monastery and the value is : 0
+http://dbpedia.org/resource/Lhasa and http://dbpedia.org/resource/Panchen_Sonam_Dragpa and the value is : 1
+http://dbpedia.org/resource/Tulku and http://dbpedia.org/resource/2nd_Dalai_Lama and the value is : 1
+http://dbpedia.org/resource/Tulku and http://dbpedia.org/resource/Drepung_Monastery and the value is : 1
+http://dbpedia.org/resource/Tulku and http://dbpedia.org/resource/Panchen_Sonam_Dragpa and the value is : 1
+http://dbpedia.org/resource/2nd_Dalai_Lama and http://dbpedia.org/resource/Drepung_Monastery and the value is : 1
+http://dbpedia.org/resource/2nd_Dalai_Lama and http://dbpedia.org/resource/Panchen_Sonam_Dragpa and the value is : 0
+http://dbpedia.org/resource/Drepung_Monastery and http://dbpedia.org/resource/Panchen_Sonam_Dragpa and the value is : 0
+http://dbpedia.org/resource/Panchen_Sonam_Dragpa and http://dbpedia.org/resource/Ganden_Tripa and the value is : 0
+http://dbpedia.org/resource/Panchen_Sonam_Dragpa and http://dbpedia.org/resource/Curriculum and the value is : 0
+http://dbpedia.org/resource/Panchen_Sonam_Dragpa and http://dbpedia.org/resource/Gelug and the value is : 1
+http://dbpedia.org/resource/Panchen_Sonam_Dragpa and http://dbpedia.org/resource/Monastery and the value is : 0
+http://dbpedia.org/resource/Ganden_Tripa and http://dbpedia.org/resource/Curriculum and the value is : 1
+http://dbpedia.org/resource/Ganden_Tripa and http://dbpedia.org/resource/Gelug and the value is : 0
+http://dbpedia.org/resource/Ganden_Tripa and http://dbpedia.org/resource/Monastery and the value is : 1
+http://dbpedia.org/resource/Curriculum and http://dbpedia.org/resource/Gelug and the value is : 0
+http://dbpedia.org/resource/Curriculum and http://dbpedia.org/resource/Monastery and the value is : 0
+http://dbpedia.org/resource/Gelug and http://dbpedia.org/resource/Monastery and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Drepung_Monastery and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Bhikkhu and the value is : 1
+http://dbpedia.org/resource/Drepung_Monastery and http://dbpedia.org/resource/Bhikkhu and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Sera_Monastery and the value is : 1
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Bhikkhu and the value is : 0
+http://dbpedia.org/resource/Sera_Monastery and http://dbpedia.org/resource/Bhikkhu and the value is : 1
+http://dbpedia.org/resource/Sumpa and http://dbpedia.org/resource/Khenpo and the value is : 0
+http://dbpedia.org/resource/Sumpa and http://dbpedia.org/resource/Gelug and the value is : 1
+http://dbpedia.org/resource/Sumpa and http://dbpedia.org/resource/3rd_Dalai_Lama and the value is : 1
+http://dbpedia.org/resource/Sumpa and http://dbpedia.org/resource/Nyingma and the value is : 1
+http://dbpedia.org/resource/Sumpa and http://dbpedia.org/resource/Tantra and the value is : 0
+http://dbpedia.org/resource/Khenpo and http://dbpedia.org/resource/Gelug and the value is : 1
+http://dbpedia.org/resource/Khenpo and http://dbpedia.org/resource/3rd_Dalai_Lama and the value is : 0
+http://dbpedia.org/resource/Khenpo and http://dbpedia.org/resource/Nyingma and the value is : 0
+http://dbpedia.org/resource/Khenpo and http://dbpedia.org/resource/Tantra and the value is : 1
+http://dbpedia.org/resource/Gelug and http://dbpedia.org/resource/3rd_Dalai_Lama and the value is : 0
+http://dbpedia.org/resource/Gelug and http://dbpedia.org/resource/Nyingma and the value is : 0
+http://dbpedia.org/resource/Gelug and http://dbpedia.org/resource/Tantra and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Nyingma and the value is : 0
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Tantra and the value is : 1
+http://dbpedia.org/resource/Nyingma and http://dbpedia.org/resource/Tantra and the value is : 0
+http://dbpedia.org/resource/Kagyu and http://dbpedia.org/resource/3rd_Dalai_Lama and the value is : 1
+http://dbpedia.org/resource/3rd_Dalai_Lama and http://dbpedia.org/resource/Dominant-party_system and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+the third dalai lama sonam gyatso 15431588 was identified as the reincarnation of the second dalai lama gendun gyatso and enthroned at the age of seven in 1550. he was a monk of the gelug school of tibetan buddhism and is credited with unifying the political and spiritual authority of tibet. he established the ganden phodrang government which governed tibet until the mid17th century. he was a prolific writer and wrote many important works on tibetan buddhism including a commentary on the kalachakra tantra. he also wrote a treatise on the unification of tibet and the mongolian regions to the east. he was also a great patron of the arts and was responsible for the construction of many temples and monasteries. he died in 1588 at the age of 45. 
+
+Coref Resolved : 
+the third dalai lama sonam gyatso 15431588 was identified as the reincarnation of the second dalai lama gendun gyatso and enthroned at the age of seven in 1550. the third dalai lama sonam gyatso 15431588 was a monk of the gelug school of tibetan buddhism and is credited with unifying the political and spiritual authority of tibet. the third dalai lama sonam gyatso 15431588 established the ganden phodrang government which governed tibetuntil the mid17th century. the third dalai lama sonam gyatso 15431588 was a prolific writer and wrote many important works on tibetan buddhism including a commentary on the kalachakra tantra. the third dalai lama sonam gyatso 15431588 also wrote a treatise on the unification of tibetand the mongolian regions to the east. the third dalai lama sonam gyatso 15431588 was also a great patron of the arts and was responsible for the construction of many temples and monasteries. the third dalai lama sonam gyatso 15431588 died in 1588 at the age of 45.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+sonam gyatso 15431588 was the first to be created dalai lama although the title was retrospectively given to his two predecessors. he was born near lhasa in 1543 and was recognized as the reincarnation of gendun gyatso and subsequently enthroned at drepung monastery by panchen sonam dragpa who became his tutor. panchen sonam dragpa was the 15th ganden tripa and his texts still serve as the core curriculum for many gelugpa monasteries. the third dalai lama studied at drepung monastery and became its abbot. his reputation spread quickly and the monks at sera monastery also recognized him as their abbot. according to sumpa khenpo the great gelug scholar he also studied some nyingmapa tantric doctrines. when one of tibets kings who had been supported by the kagyupa died in 1564 sonam gyatso presided over his funeral. his political power and that of the gelugpas became dominant in tibet by the 1570s. 
+
+Coref Resolved : 
+sonam gyatso 15431588 was the first to be created dalai lama although dalai lama was retrospectively given to sonam gyatso two predecessors. sonam gyatso was born near lhasa in 1543 and was recognized as the reincarnation of gendun gyatso and subsequently enthroned at drepung monastery by panchen sonam dragpa who became sonam gyatso tutor. panchen sonam dragpa who became his tutorwas the 15th ganden tripa and panchen sonam dragpa who became his tutortexts still serve as the core curriculum for many gelugpa monasteries. sonam gyatso studied at drepung monastery and became drepung monastery abbot. sonam gyatso reputation spread quickly and the monks at sera monastery also recognized sonam gyatso as the monks at sera monastery abbot. according to sumpa khenpo the great gelug scholar sonam gyatso also studied some nyingmapa tantric doctrines. when one of tibets kings who had been supported by the kagyupa died in 1564 sonam gyatso presided over one of tibets kings who had been supported by the kagyupa funeral. sonam gyatso political power and that of the gelugpas became dominant in tibets by the 1570s.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.54 and for ground truth is : 0.4489795918367347
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate accurate 
+

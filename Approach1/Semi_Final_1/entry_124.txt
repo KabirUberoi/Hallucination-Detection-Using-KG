@@ -1,0 +1,129 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Bassist and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Bassist and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/The_Bronx and the value is : 1
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Yonkers_station and the value is : 0
+http://dbpedia.org/resource/The_Bronx and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/The_Bronx and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/The_Bronx and http://dbpedia.org/resource/Yonkers_station and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Yonkers_station and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Yonkers_station and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Machine_learning and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Machine_learning and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Machine_learning and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Machine_learning and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Popular_music and the value is : 1
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Doo-wop and the value is : 1
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Rhythm_and_blues and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Doo-wop and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Rhythm_and_blues and the value is : 1
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Doo-wop and http://dbpedia.org/resource/Rhythm_and_blues and the value is : 1
+http://dbpedia.org/resource/Doo-wop and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Rhythm_and_blues and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Eddie_Brigati and the value is : 1
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Gene_Cornish and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Dino_Danelli and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Eddie_Brigati and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Gene_Cornish and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Dino_Danelli and the value is : 1
+http://dbpedia.org/resource/Eddie_Brigati and http://dbpedia.org/resource/Gene_Cornish and the value is : 0
+http://dbpedia.org/resource/Eddie_Brigati and http://dbpedia.org/resource/Dino_Danelli and the value is : 1
+http://dbpedia.org/resource/Gene_Cornish and http://dbpedia.org/resource/Dino_Danelli and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/String_instrument and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/String_instrument and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Ron_Mael and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Session_musician and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Session_musician and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Bassist and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/The_Beau_Brummels and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Bassist and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/The_Beau_Brummels and the value is : 1
+http://dbpedia.org/resource/Bassist and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Bassist and http://dbpedia.org/resource/The_Beau_Brummels and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/The_Beau_Brummels and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Hairstyle and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Beatlesque and the value is : 1
+http://dbpedia.org/resource/Hairstyle and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Hairstyle and http://dbpedia.org/resource/Beatlesque and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Beatlesque and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Ron_Mael and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/The_Beau_Brummels and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/The_Beau_Brummels and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/The_Beau_Brummels and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Village and the value is : 1
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Mystery_Science_Theater_3000 and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Village and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Mystery_Science_Theater_3000 and the value is : 0
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Mystery_Science_Theater_3000 and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Quintet and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Love_triangle and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Quintet and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Love_triangle and the value is : 0
+http://dbpedia.org/resource/Quintet and http://dbpedia.org/resource/Love_triangle and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Ron_Mael and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Vietnam_War and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Vietnam_War and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Black_Velvet_(song) and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Declan_Mulligan and the value is : 0
+http://dbpedia.org/resource/Black_Velvet_(song) and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Black_Velvet_(song) and http://dbpedia.org/resource/Declan_Mulligan and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Declan_Mulligan and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Rock_music and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+ron meagher born october 28 1945 is an american musician songwriter and record producer. he is best known as the lead singer and bassist of the rock band the rascals which he cofounded in 1965. meagher was born in the bronx new york and grew up in the nearby town of yonkers. he began playing music at an early age learning to play the guitar and bass. he was influenced by the music of the 1950s including doowop rhythm and blues and rock and roll. he formed the rascals in 1965 with eddie brigati gene cornish and dino danelli. the band had a string of hits in the late 1960s including good lovin groovin and people got to be free. meagher wrote or cowrote many of the bands songs and also produced several of their albums. after the bands breakup in 1972 meagher pursued a solo career releasing two albums in the 1970s. he also worked as a producer and session musician and wrote 
+
+Coref Resolved : 
+ron meagher born october 28 1945 is an american musician songwriter and record producer. ron meagher born october 28 1945 is best known as the lead singer and bassist of the rock band the rascals which ron meagher born october 28 1945 cofounded in 1965. ron meagher born october 28 1945 was born in the bronx new york and grew up in the nearby town of yonkers. ron meagher born october 28 1945 began playing music at an early age learning to play the guitar and bass. ron meagher born october 28 1945 was influenced by the music of the 1950s including doowop rhythm and blues and rock and roll. ron meagher born october 28 1945 formed the rock band the rascals which he cofounded in 1965in 1965 with eddie brigati gene cornish and dino danelli. the rock band the rascals which he cofounded in 1965had a string of hits in the late 1960s including good lovin groovin and people got to be free. ron meagher born october 28 1945 wrote or cowrote many of the rock band the rascals which he cofounded in 1965songs and also produced several of the rock band the rascals which he cofounded in 1965albums. after the rock band the rascals which he cofounded in 1965breakup in 1972 ron meagher born october 28 1945 pursued a solo career releasing two albums in the 1970s. ron meagher born october 28 1945 also worked as a producer and session musician and wrote
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+ron meagher born october 2 1941 oakland california usa is best known as the bassist of the american rock band the beau brummels. when guitaristsongwriter ron elliott was putting the band together in 1964 he asked a friend kay dane if she knew any good bass players. dane recommended meagher but cautioned hes kind of weird. he has long hair after joining the band meagher proved to be important to the bands image as he was one of the first american rock musicians with beatlesque hair. in addition to providing backing vocals meagher sang lead on occasion as on theyll make you cry a song from the bands 1965 debut album introducing the beau brummels. meagher appeared with the band in the 1965 sciencefictioncomedy movie village of the giants which was featured in a 1994 episode of mystery science theater 3000. he remained with the band as it reduced from a quintet to a trio by 1967s critically acclaimed album triangle. during the recording of the bands next album 1968s bradleys barn meagher was drafted becoming one of the few musicians from a wellknown rock band to serve in the military at the height of the vietnam war. after he was discharged two years later meagher played in the black velvet band with former beau brummels bandmate declan mulligan. over the next three decades meagher has also participated in several beau brummels revivals most notably in the mid1970s when the band released a 1975 selftitled reunion album. 
+
+Coref Resolved : 
+ron meagher born october 2 1941 oakland california usa is best known as the bassist of the american rock band the beau brummels. when guitaristsongwriter ron elliott was putting the american rock band the beau brummelstogether in 1964 guitaristsongwriter ron elliott asked a friend kay dane if a friend kay dane knew any good bass players. a friend kay dane recommended ron meagher but cautioned ron meagher s kind of weird. ron meagher has long hair after joining the american rock band the beau brummelsron meagher proved to be important to the american rock band the beau brummelsimage as ron meagher was one of the first american rock musicians with beatlesque hair. in addition to providing backing vocals ron meagher sang lead on occasion as on theyll make you cry a song from the american rock band the beau brummels1965 debut album introducing the american rock band the beau brummels. ron meagher appeared with the american rock band the beau brummelsin the 1965 sciencefictioncomedy movie village of the giants which was featured in a 1994 episode of mystery science theater 3000. ron meagher remained with the american rock band the beau brummelsas the american rock band the beau brummelsreduced from a quintet to a trio by 1967s critically acclaimed album triangle. during the recording of the american rock band the beau brummelsnext album 1968s bradleys barn ron meagher was drafted becoming one of the few musicians from a wellknown rock band to serve in the military at the height of the vietnam war. after ron meagher was discharged two years later ron meagher played in the black velvet band with former the american rock band the beau brummelsbandmate declan mulligan. over the next three decades ron meagher has also participated in several the american rock band the beau brummelsrevivals most notably in the mid1970s when the american rock band the beau brummelsreleased a 1975 selftitled reunion album.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2777777777777778 and for ground truth is : 0.0851063829787234
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate 
+

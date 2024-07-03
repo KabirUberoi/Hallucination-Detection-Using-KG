@@ -1,0 +1,55 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Australia_national_cricket_team and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Batting_(cricket) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Batting_(cricket) and the value is : 0
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Batting_(cricket) and the value is : 1
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 1
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Wicket and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Kapil_Dev and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Wicket and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Kapil_Dev and the value is : 0
+http://dbpedia.org/resource/Wicket and http://dbpedia.org/resource/Kapil_Dev and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Swing_bowling and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Cricket_ball and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Swing_bowling and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Cricket_ball and the value is : 0
+http://dbpedia.org/resource/Swing_bowling and http://dbpedia.org/resource/Cricket_ball and the value is : 1
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Wisden_Cricketers'_Almanack and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Wisden_Cricketers'_Almanack and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Terry_Alderman and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+terry alderman born 28 april 1952 is a former australian cricketer who played in 41 tests and 53 one day internationals between 1979 and 1991. he was a rightarm fastmedium bowler and a righthanded batsman. alderman was a key member of the australian team that won the 1983 world cup. he took 342 in the final against india including the wicket of kapil dev. he was also a member of the australian team that won the 1987 world cup although he did not play in the final. alderman was known for his ability to swing the ball both ways and for his accuracy. he was also known for his durability having played in 41 consecutive tests between 1979 and 1985. he was named one of the five wisden cricketers of the year in 1984. alderman retired from international cricket in 1991 but continued to play firstclass cricket until 1996. he is now a cricket commentator and coach. 
+
+Coref Resolved : 
+terry alderman born 28 april 1952 is a former australian cricketer who played in 41 tests and 53 one day internationals between 1979 and 1991. terry alderman born 28 april 1952 was a rightarm fastmedium bowler and a righthanded batsman. terry alderman born 28 april 1952 was a key member of the australian team that won the 1983 world cup. terry alderman born 28 april 1952 took 342 in the final against india including the wicket of kapil dev. terry alderman born 28 april 1952 was also a member of the australian team that won the 1987 world cup although terry alderman born 28 april 1952 did not play in the final. terry alderman born 28 april 1952 was known for terry alderman born 28 april 1952 ability to swing the ball both ways and for terry alderman born 28 april 1952 accuracy. terry alderman born 28 april 1952 was also known for terry alderman born 28 april 1952 durability having played in 41 consecutive tests between 1979 and 1985. terry alderman born 28 april 1952 was named one of the five wisden cricketers of the year in 1984. terry alderman born 28 april 1952 retired from international cricket in 1991but continued to play firstclass cricket until 1996. terry alderman born 28 april 1952 is now a cricket commentator and coach.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.18421052631578946
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

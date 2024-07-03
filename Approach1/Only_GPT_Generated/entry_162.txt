@@ -1,0 +1,45 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Bob_Miller_(baseball,_born_1939) and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/University_of_Michigan and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/American_Football_League and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/University_of_Michigan and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/American_Football_League and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Buffalo_Bills and the value is : 1
+http://dbpedia.org/resource/University_of_Michigan and http://dbpedia.org/resource/American_Football_League and the value is : 0
+http://dbpedia.org/resource/University_of_Michigan and http://dbpedia.org/resource/Buffalo_Bills and the value is : 1
+http://dbpedia.org/resource/American_Football_League and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/University_of_Michigan and the value is : 1
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/1966_American_Football_League_draft and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/University_of_Michigan and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/University_of_Michigan and http://dbpedia.org/resource/1966_American_Football_League_draft and the value is : 1
+http://dbpedia.org/resource/University_of_Michigan and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/1966_American_Football_League_draft and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/1966_American_Football_League_draft and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/American_Football_League and the value is : 0
+http://dbpedia.org/resource/Buffalo_Bills and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Buffalo_Bills and http://dbpedia.org/resource/American_Football_League and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/American_Football_League and the value is : 1
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/American_football and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+bob miller born october 28 1945 is a former american football player. he played college football at the university of michigan from 1964 to 1966 and professional football in the american football league afl for the buffalo bills from 1967 to 1969. miller was a twotime allamerican at michigan and was selected in the first round of the 1967 afl draft by the bills. he was a member of the bills afl championship teams in 1964 and 1965. miller was inducted into the college football hall of fame in 1988. 
+
+Coref Resolved : 
+bob miller born october 28 1945 is a former american football player. miller played college football at the university of michigan from 1964 to 1966 and professional football in the american football league afl for the buffalo bills from 1967 to 1969. miller was a twotime allamerican at the university of michigan and was selected in the first round of the 1967 the american football league afl draft by the buffalo bills . miller was a member of the the buffalo bills the american football league afl championship teams in 1964 and 1965. miller was inducted into the college football hall of fame in 1988.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.35714285714285715
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate 
+

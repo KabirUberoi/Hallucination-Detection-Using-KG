@@ -1,0 +1,93 @@
+#############SENTENCE_PAIRS############
+
+Tadeusz Szeligowski and Polish and the value is : 0
+Tadeusz Szeligowski and conductor and the value is : 1
+Tadeusz Szeligowski and Łańcut and the value is : 0
+Tadeusz Szeligowski and Poland and the value is : 0
+Tadeusz Szeligowski and Lviv Conservatory and the value is : 0
+Tadeusz Szeligowski and Warsaw Conservatory and the value is : 0
+Tadeusz Szeligowski and Paris Conservatory and the value is : 0
+Tadeusz Szeligowski and Warsaw Conservatory and the value is : 0
+Tadeusz Szeligowski and chamber music and the value is : 1
+Tadeusz Szeligowski and conductor and the value is : 1
+Tadeusz Szeligowski and Warsaw Philharmonic Orchestra and the value is : 1
+Tadeusz Szeligowski and Polish and the value is : 0
+Tadeusz Szeligowski and interwar period and the value is : 0
+Tadeusz Szeligowski and Witold and the value is : 0
+Tadeusz Szeligowski and Panufnik and the value is : 1
+Tadeusz Szeligowski and Roman Palester and the value is : 1
+Tadeusz Szeligowski and Warsaw and the value is : 0
+
+#############GROUND_PAIRS############
+
+Tadeusz Szeligowski and Polish and the value is : 1
+Tadeusz Szeligowski works and Gentlemen and the value is : 0
+Tadeusz Szeligowski works and Peacock and the value is : 0
+Tadeusz Szeligowski works and Mazepa and the value is : 1
+Tadeusz Szeligowski works and violin and the value is : 1
+Tadeusz Szeligowski works and chamber and the value is : 0
+Tadeusz Szeligowski and Vilnius and the value is : 1
+Tadeusz Szeligowski and Lublin and the value is : 1
+Tadeusz Szeligowski and Poznań and the value is : 1
+Tadeusz Szeligowski and Warsaw and the value is : 1
+Tadeusz Szeligowski and Kurier Wileński and the value is : 1
+Tadeusz Szeligowski and Kurier and the value is : 1
+Tadeusz Szeligowski achievements and Poznań Philharmonic and the value is : -1
+Tadeusz Szeligowski achievements and Poznań Philharmonic and the value is : -1
+Tadeusz Szeligowski achievements and Poznań and the value is : -1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Tadeusz Szeligowski (1896 1963) was a Polish composer, conductor, and music teacher.
+He was born in the small town of Łańcut, in the south-eastern part of Poland.
+He studied at the Lviv Conservatory and the Warsaw Conservatory, and later at the Paris Conservatory.
+He was a professor at the Warsaw Conservatory from 1929 to 1939.
+Szeligowski was a prolific composer, writing in a variety of genres, including symphonies, concertos, chamber music, and vocal works.
+He was also a conductor, and conducted the Warsaw Philharmonic Orchestra from 1932 to 1939.
+He was an important figure in the development of Polish music in the interwar period, and his works were performed in many countries.
+He was also a noted teacher, and his students included Witold Lutosławski, Andrzej Panufnik, and Roman Palester.
+He died in Warsaw in 1963.
+
+
+Coref Resolved: 
+
+0. Tadeusz Szeligowski (1896 1963) was a Polish composer, conductor, and music teacher.
+1. Tadeusz Szeligowski was born in the small town of Łańcut, in the south-eastern part of Poland.
+2. Tadeusz Szeligowski studied at the Lviv Conservatory and the Warsaw Conservatory , and later at the Paris Conservatory.
+3. Tadeusz Szeligowski was a professor at the Warsaw Conservatory from 1929 to 1939 .
+4. Tadeusz Szeligowski was a prolific composer, writing in a variety of genres, including symphonies, concertos, chamber music, and vocal works.
+5. Tadeusz Szeligowski was also a conductor, and conducted the Warsaw Philharmonic Orchestra from 1932 to 1939 .
+6. Tadeusz Szeligowski was an important figure in the development of Polish music in the interwar period, and Tadeusz Szeligowski works were performed in many countries.
+7. Tadeusz Szeligowski was also a noted teacher, and Tadeusz Szeligowski students included Witold Lutosławski, Andrzej Panufnik, and Roman Palester.
+8. Tadeusz Szeligowski died in Warsaw in 1963.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Tadeusz Szeligowski (13 September 1896 - 10 January 1963) was a Polish composer, educator, lawyer, and music organizer.
+His works include the operas "The Rise of the Scholars", "Krakatuk", and "Theodor Gentlemen", the ballets "The Peacock and the Girl" and "Mazepa Ballets", two violin concertos, chamber and choral works.
+As a music teacher, he was very well established in Vilnius, Lublin, Poznań, and Warsaw.
+He was also a respected music writer who frequently wrote for journals and magazines specialized in music, such as the "Kurier Wileński", "Tygodnik Wileński", "Muzyka", and the "Kurier Poznański".
+His achievements include the creation of the Poznań Philharmonic, where he served as its first director between 1947 and 1949, and the founding of the Poznań Musical Spring, one of the most important festivals of contemporary music at the time. 
+
+Coref Resolved: 
+
+0. Tadeusz Szeligowski (13 September 1896 - 10 January 1963) was a Polish composer, educator, lawyer, and music organizer.
+1. Tadeusz Szeligowski works include the operas "The Rise of the Scholars", "Krakatuk", and "Theodor Gentlemen", the ballets "The Peacock and the Girl" and "Mazepa Ballets", two violin concertos, chamber and choral works.
+2. As a music teacher, Tadeusz Szeligowski was very well established in Vilnius, Lublin, Poznań, and Warsaw.
+3. Tadeusz Szeligowski was also a respected music writer who frequently wrote for journals and magazines specialized in music, such as the "Kurier Wileński", "Tygodnik Wileński", "Muzyka", and the "Kurier Poznański".
+4. Tadeusz Szeligowski achievements include the creation of the Poznań Philharmonic , where Tadeusz Szeligowski served as the Poznań Philharmonic first director between 1947 and 1949, and the founding of the Poznań Musical Spring, one of the most important festivals of contemporary music at the time.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5 0.0 0.0 0.0 1.0 1.0 0.0 0.6666666666666666 0.0 
+
+Value for ground truth is : 
+1.0 0.4 1.0 1.0 -1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

@@ -1,0 +1,142 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/David_Beckham and the value is : 1
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/England_national_football_team_manager and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Dundee_F.C. and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Aberdeen_F.C. and the value is : 1
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Manchester_United_F.C. and the value is : 1
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Leeds_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Coventry_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Dundee_F.C. and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Aberdeen_F.C. and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Manchester_United_F.C. and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Leeds_United_F.C. and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Coventry_City_F.C. and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Dundee_F.C. and http://dbpedia.org/resource/Aberdeen_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_F.C. and http://dbpedia.org/resource/Manchester_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_F.C. and http://dbpedia.org/resource/Leeds_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_F.C. and http://dbpedia.org/resource/Coventry_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Dundee_F.C. and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Aberdeen_F.C. and http://dbpedia.org/resource/Manchester_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Aberdeen_F.C. and http://dbpedia.org/resource/Leeds_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Aberdeen_F.C. and http://dbpedia.org/resource/Coventry_City_F.C. and the value is : 1
+http://dbpedia.org/resource/Aberdeen_F.C. and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Manchester_United_F.C. and http://dbpedia.org/resource/Leeds_United_F.C. and the value is : 0
+http://dbpedia.org/resource/Manchester_United_F.C. and http://dbpedia.org/resource/Coventry_City_F.C. and the value is : 1
+http://dbpedia.org/resource/Manchester_United_F.C. and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Leeds_United_F.C. and http://dbpedia.org/resource/Coventry_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Leeds_United_F.C. and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Coventry_City_F.C. and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/David_Beckham and the value is : 1
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Coventry_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Southampton_F.C. and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Celtic_music and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Middlesbrough_F.C. and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Coventry_City_F.C. and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Southampton_F.C. and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Celtic_music and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Middlesbrough_F.C. and the value is : 0
+http://dbpedia.org/resource/Coventry_City_F.C. and http://dbpedia.org/resource/Southampton_F.C. and the value is : 1
+http://dbpedia.org/resource/Coventry_City_F.C. and http://dbpedia.org/resource/Celtic_music and the value is : 0
+http://dbpedia.org/resource/Coventry_City_F.C. and http://dbpedia.org/resource/Middlesbrough_F.C. and the value is : 0
+http://dbpedia.org/resource/Southampton_F.C. and http://dbpedia.org/resource/Celtic_music and the value is : 0
+http://dbpedia.org/resource/Southampton_F.C. and http://dbpedia.org/resource/Middlesbrough_F.C. and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Middlesbrough_F.C. and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Coventry_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/FA_Cup_Final and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Tottenham_Hotspur_F.C. and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Coventry_City_F.C. and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/FA_Cup_Final and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Tottenham_Hotspur_F.C. and the value is : 1
+http://dbpedia.org/resource/Coventry_City_F.C. and http://dbpedia.org/resource/FA_Cup_Final and the value is : 0
+http://dbpedia.org/resource/Coventry_City_F.C. and http://dbpedia.org/resource/Tottenham_Hotspur_F.C. and the value is : 0
+http://dbpedia.org/resource/FA_Cup_Final and http://dbpedia.org/resource/Tottenham_Hotspur_F.C. and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/David_Beckham and the value is : 1
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Southampton_F.C. and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/2003_FA_Cup_Final and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Arsenal and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Southampton_F.C. and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/2003_FA_Cup_Final and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Arsenal and the value is : 0
+http://dbpedia.org/resource/Southampton_F.C. and http://dbpedia.org/resource/2003_FA_Cup_Final and the value is : 0
+http://dbpedia.org/resource/Southampton_F.C. and http://dbpedia.org/resource/Arsenal and the value is : 0
+http://dbpedia.org/resource/2003_FA_Cup_Final and http://dbpedia.org/resource/Arsenal and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Celtic_music and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Scottish_Premier_League and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Celtic_music and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Scottish_Premier_League and the value is : 1
+http://dbpedia.org/resource/England_national_football_team_manager and http://dbpedia.org/resource/Celtic_music and the value is : 0
+http://dbpedia.org/resource/England_national_football_team_manager and http://dbpedia.org/resource/Scottish_Premier_League and the value is : 1
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Scottish_Premier_League and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Celtic_music and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Middlesbrough_F.C. and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Celtic_music and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Middlesbrough_F.C. and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Middlesbrough_F.C. and the value is : 0
+http://dbpedia.org/resource/England_national_football_team_manager and http://dbpedia.org/resource/Middlesbrough_F.C. and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Middlesbrough_F.C. and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Middlesbrough_F.C. and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/England_national_football_team_manager and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/TeamTO and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/UEFA_Euro_2016_qualifying and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/Playoffs and the value is : 0
+http://dbpedia.org/resource/Clan_Gordon and http://dbpedia.org/resource/FIFA and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/TeamTO and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/UEFA_Euro_2016_qualifying and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Playoffs and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/FIFA and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/TeamTO and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/UEFA_Euro_2016_qualifying and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Playoffs and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/FIFA and the value is : 0
+http://dbpedia.org/resource/TeamTO and http://dbpedia.org/resource/UEFA_Euro_2016_qualifying and the value is : 0
+http://dbpedia.org/resource/TeamTO and http://dbpedia.org/resource/Playoffs and the value is : 0
+http://dbpedia.org/resource/TeamTO and http://dbpedia.org/resource/FIFA and the value is : 0
+http://dbpedia.org/resource/UEFA_Euro_2016_qualifying and http://dbpedia.org/resource/Playoffs and the value is : 0
+http://dbpedia.org/resource/UEFA_Euro_2016_qualifying and http://dbpedia.org/resource/FIFA and the value is : 0
+http://dbpedia.org/resource/Playoffs and http://dbpedia.org/resource/FIFA and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+gordon david strachan born 9 february 1957 is a scottish football manager and former player. he is the manager of the scotland national team. strachan played for dundee aberdeen manchester united leeds united and coventry city as well as the scotland national team. he has also managed coventry city southampton celtic and middlesbrough. strachan began his managerial career at coventry city in 1996 leading them to the 1997 fa cup final where they lost to tottenham hotspur. he then moved to southampton in 2001 where he guided them to the 2003 fa cup final which they lost to arsenal. in 2005 he was appointed manager of celtic where he won three consecutive scottish premier league titles and the scottish league cup twice. he left celtic in 2009 and was appointed manager of middlesbrough in october 2010. he left middlesbrough in october 2013. in january 2013 strachan was appointed manager of the scotland national team. he has since led scotland to the uefa euro 2016 qualifying playoffs where they were eliminated by eventual finalists and to the 2018 fifa world cup 
+
+Coref Resolved : 
+gordon david strachan born 9 february 1957 is a scottish football manager and former player. gordon david strachan born 9 february 1957 is the manager of the scotland national team. gordon david strachan born 9 february 1957 played for dundee aberdeen manchester united leeds united and coventry city as well as the scotland national team. gordon david strachan born 9 february 1957 has also managed coventry city southampton celtic and middlesbrough . gordon david strachan born 9 february 1957 began gordon david strachan born 9 february 1957 managerial career at coventry city in 1996 leading coventry city to the 1997 fa cup final where coventry city lost to tottenham hotspur. gordon david strachan born 9 february 1957 then moved to southampton in 2001 where gordon david strachan born 9 february 1957 guided southampton to the 2003 fa cup final which southampton lost to arsenal. in 2005 gordon david strachan born 9 february 1957 was appointed manager of celtic where gordon david strachan born 9 february 1957 won three consecutive scottish premier league titles and the scottish league cup twice. gordon david strachan born 9 february 1957 left celtic in 2009 and was appointed manager of middlesbrough in october 2010. gordon david strachan born 9 february 1957 left middlesbrough in october 2013. in january 2013 gordon david strachan born 9 february 1957 was appointed manager of the scotland national team. gordon david strachan born 9 february 1957 has since led the scotland national teamto the uefa euro 2016 qualifying playoffs where the scotland national teamwere eliminated by eventual finalists and to the 2018 fifa world cup
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.208
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate accurate minor_inaccurate 
+

@@ -1,0 +1,83 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Tokyo and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Honorary_Go_Titles and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Honorary_Go_Titles and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Nihon_Ki-in and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Kansai_region and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Japan_Shogi_Association and the value is : 0
+http://dbpedia.org/resource/Nihon_Ki-in and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Nihon_Ki-in and http://dbpedia.org/resource/Kansai_region and the value is : 0
+http://dbpedia.org/resource/Nihon_Ki-in and http://dbpedia.org/resource/Japan_Shogi_Association and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Kansai_region and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Japan_Shogi_Association and the value is : 0
+http://dbpedia.org/resource/Kansai_region and http://dbpedia.org/resource/Japan_Shogi_Association and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Federation and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Sun and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Star_Trek_uniforms and http://dbpedia.org/resource/Tetsuzō_Iwamoto and the value is : 0
+http://dbpedia.org/resource/Star_Trek_uniforms and http://dbpedia.org/resource/Flying_ace and the value is : 1
+http://dbpedia.org/resource/Star_Trek_uniforms and http://dbpedia.org/resource/Imperial_Japanese_Navy and the value is : 0
+http://dbpedia.org/resource/Star_Trek_uniforms and http://dbpedia.org/resource/Royal_New_Zealand_Air_Force and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Flying_ace and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Imperial_Japanese_Navy and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Royal_New_Zealand_Air_Force and the value is : 0
+http://dbpedia.org/resource/Flying_ace and http://dbpedia.org/resource/Imperial_Japanese_Navy and the value is : 0
+http://dbpedia.org/resource/Flying_ace and http://dbpedia.org/resource/Royal_New_Zealand_Air_Force and the value is : 0
+http://dbpedia.org/resource/Imperial_Japanese_Navy and http://dbpedia.org/resource/Royal_New_Zealand_Air_Force and the value is : 0
+http://dbpedia.org/resource/Imperial_Japanese_Navy and http://dbpedia.org/resource/Fighter_pilot and the value is : 0
+http://dbpedia.org/resource/Zeros_and_poles and http://dbpedia.org/resource/Aircraft_carrier and the value is : 0
+http://dbpedia.org/resource/Zeros_and_poles and http://dbpedia.org/resource/Japanese_aircraft_carrier_Zuikaku and the value is : 1
+http://dbpedia.org/resource/Zeros_and_poles and http://dbpedia.org/resource/Battle_of_the_Coral_Sea and the value is : 0
+http://dbpedia.org/resource/Aircraft_carrier and http://dbpedia.org/resource/Japanese_aircraft_carrier_Zuikaku and the value is : 0
+http://dbpedia.org/resource/Aircraft_carrier and http://dbpedia.org/resource/Battle_of_the_Coral_Sea and the value is : 0
+http://dbpedia.org/resource/Japanese_aircraft_carrier_Zuikaku and http://dbpedia.org/resource/Battle_of_the_Coral_Sea and the value is : 0
+http://dbpedia.org/resource/Carrier_air_wing and http://dbpedia.org/resource/Rabaul and the value is : 0
+http://dbpedia.org/resource/Carrier_air_wing and http://dbpedia.org/resource/United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Carrier_air_wing and http://dbpedia.org/resource/Strategic_bombing and the value is : 1
+http://dbpedia.org/resource/Rabaul and http://dbpedia.org/resource/United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Rabaul and http://dbpedia.org/resource/Strategic_bombing and the value is : 1
+http://dbpedia.org/resource/United_Kingdom and http://dbpedia.org/resource/Strategic_bombing and the value is : 0
+http://dbpedia.org/resource/Chuuk_Lagoon and http://dbpedia.org/resource/Caroline_Islands and the value is : 0
+http://dbpedia.org/resource/Chuuk_Lagoon and http://dbpedia.org/resource/Commonwealth_of_the_Philippines and the value is : 0
+http://dbpedia.org/resource/Chuuk_Lagoon and http://dbpedia.org/resource/Ensign and the value is : 0
+http://dbpedia.org/resource/Caroline_Islands and http://dbpedia.org/resource/Commonwealth_of_the_Philippines and the value is : 1
+http://dbpedia.org/resource/Caroline_Islands and http://dbpedia.org/resource/Ensign and the value is : 1
+http://dbpedia.org/resource/Commonwealth_of_the_Philippines and http://dbpedia.org/resource/Ensign and the value is : 0
+http://dbpedia.org/resource/Commonwealth_of_the_Philippines and http://dbpedia.org/resource/Military and the value is : 0
+http://dbpedia.org/resource/Commonwealth_of_the_Philippines and http://dbpedia.org/resource/Kamikaze and the value is : 0
+http://dbpedia.org/resource/Military and http://dbpedia.org/resource/Kamikaze and the value is : 0
+http://dbpedia.org/resource/The_Diary_of_a_Young_Girl and http://dbpedia.org/resource/Fighter_aircraft and the value is : 0
+http://dbpedia.org/resource/Fleet_Air_Arm and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/United_States_Navy and http://dbpedia.org/resource/Royal_New_Zealand_Air_Force and the value is : 0
+http://dbpedia.org/resource/United_States_Navy and http://dbpedia.org/resource/United_States_Marine_Corps and the value is : 0
+http://dbpedia.org/resource/Royal_New_Zealand_Air_Force and http://dbpedia.org/resource/United_States_Marine_Corps and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tetsuzō iwamoto 岩本 哲三 iwamoto tetsuzō october 28 1921 april 28 2018 was a japanese professional go player. he was born in tokyo japan. he was the first professional go player to reach the rank of 9 dan and was the first to be awarded the title of honorary meijin. he was also the first to be awarded the title of honorary kisei. he was a prolific author having written over 100 books on go. he was also a teacher having taught many of the top players in japan. he was a member of the nihon kiin the japanese go association and was the president of the kansai kiin the kansai branch of the nihon kiin. he was also a member of the international go federation. he was awarded the order of the rising sun in 2006. he died in april 2018 at the age of 96. 
+
+Coref Resolved : 
+tetsuzō iwamoto 岩本 哲三 tetsuzō iwamoto october 28 1921 april 28 2018 was a japanese professional go player. tetsuzō iwamoto was born in tokyo japan. tetsuzō iwamoto was the first professional go player to reach the rank of 9 dan and was the first to be awarded the title of honorary meijin. tetsuzō iwamoto was also the first to be awarded the title of honorary kisei. tetsuzō iwamoto was a prolific author having written over 100 books on go. tetsuzō iwamoto was also a teacher having taught many of the top players in japan. tetsuzō iwamoto was a member of the nihon kiin the japanese go association and was the president of the kansai kiin the kansai branch of the nihon kiin the japanese go association . tetsuzō iwamoto was also a member of the international go federation. tetsuzō iwamoto was awarded the order of the rising sun in 2006. tetsuzō iwamoto died in april 2018 at the age of 96.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+lieutenant junior grade tetsuzō iwamoto was one of the topscoring aces among the imperial japanese navy air force ijnaf fighter pilots. he entered the imperial navy in 1934 and completed pilot training in december 1936. his first combat occurred over china in early 1938 and he emerged as the top naval ace of the campaign credited with 14 aerial victories. subsequently he flew zeros from the aircraft carrier zuikaku from december 1941 to may 1942 including at the battle of the coral sea. in late 1943 iwamotos air group was sent to rabaul new britain resulting in three months of the hardest air combat ever undertaken by the ijnaf against air raids mounted by u.s. and allied air units. subsequent assignments were truk atoll in the carolines and the philippines and he was commissioned an ensign in october 1944. following the evacuation of the philippines iwamoto served in home defense and trained kamikaze pilots. like many japanese veterans iwamoto was reported to have fallen into depression after the war. his diary was found after his death with claims of 202 allied aircraft destroyed. as a result of the japanese use of the british naval practices the ijnaf scoring system was based on the system the royal navy and the royal air force raf adopted from world war i until world war ii. this system differed from the scoring system used by the u.s. navy air force and u.s. marine air force during world war ii. dr. izawa and professor hata estimated the figure at about 80 or more than 87 in their research work in january 1971. in december 1993 izawa wrote that iwamoto was virtually the top ace of the ijnaf. as of mid1944 there remained only two ijnaf fighter pilots who were credited with over 100 victories. depending on various totals cited tetsuzō iwamoto or hiroyoshi nishizawa was japans best ace. iwamoto was known as the chūtai leader flying company squadron of 8 to 16 fighters. iwamoto was one of few survivors of the ijnaf from the early part of the second world war. he fought over the indian and the pacific ocean from north to south and trained his young pilots even in the last months of the war. 
+
+Coref Resolved : 
+lieutenant junior grade tetsuzō iwamoto was one of the topscoring aces among the imperial japanese navy air force ijnaf fighter pilots. iwamoto entered the imperial navy in 1934 and completed pilot training in december 1936. iwamoto first combat occurred over china in early 1938 and iwamoto emerged as the top naval ace of the campaign credited with 14 aerial victories. subsequently iwamoto flew zeros from the aircraft carrier zuikaku from december 1941 to may 1942 including at the battle of the coral sea. in late 1943 iwamotos air group was sent to rabaul new britain resulting in three months of the hardest air combat ever undertaken by the ijnaf against air raids mounted by u.s. and allied air units. subsequent assignments were truk atoll in the carolines and the philippines and iwamoto was commissioned an ensign in october 1944. following the evacuation of the philippines iwamoto served in home defense and trained kamikaze pilots. like many japanese veterans iwamoto was reported to have fallen into depression after the war. iwamoto diary was found after iwamoto death with claims of 202 allied aircraft destroyed. as a result of the japanese use of the british naval practices the ijnaf scoring system was based on the system the royal navy and the royal air force raf adopted from world war i until world war ii. the ijnaf scoring system differed from the scoring system used by the u.s. navy air force and u.s. marine air force during world war ii. dr. izawa and professor hata estimated the figure at about 80 or more than 87 in dr. izawa and professor hata research work in january 1971. in december 1993 dr. izawa wrote that iwamoto was virtually the top ace of the ijnaf . as of mid1944 there remained only two the ijnaf fighter pilots who were credited with over 100 victories. depending on various totals cited iwamoto or hiroyoshi nishizawa was japans best ace. iwamoto was known as the chūtai leader flying company squadron of 8 to 16 fighters. iwamoto was one of few survivors of the ijnaf from the early part of the war. iwamoto fought over the indian and the pacific ocean from north to south and trained iwamoto young pilots even in the last months of the war.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.05555555555555555 and for ground truth is : 0.2972972972972973
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

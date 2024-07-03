@@ -1,0 +1,50 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Politics_of_India and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Parliament_of_India and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Biju_Janata_Dal and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Ball-jointed_doll and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Dhenkanal_district and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Politics_of_India and http://dbpedia.org/resource/Parliament_of_India and the value is : 0
+http://dbpedia.org/resource/Politics_of_India and http://dbpedia.org/resource/Biju_Janata_Dal and the value is : 1
+http://dbpedia.org/resource/Politics_of_India and http://dbpedia.org/resource/Ball-jointed_doll and the value is : 1
+http://dbpedia.org/resource/Politics_of_India and http://dbpedia.org/resource/Dhenkanal_district and the value is : 0
+http://dbpedia.org/resource/Politics_of_India and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/Parliament_of_India and http://dbpedia.org/resource/Biju_Janata_Dal and the value is : 0
+http://dbpedia.org/resource/Parliament_of_India and http://dbpedia.org/resource/Ball-jointed_doll and the value is : 0
+http://dbpedia.org/resource/Parliament_of_India and http://dbpedia.org/resource/Dhenkanal_district and the value is : 0
+http://dbpedia.org/resource/Parliament_of_India and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/Biju_Janata_Dal and http://dbpedia.org/resource/Ball-jointed_doll and the value is : 0
+http://dbpedia.org/resource/Biju_Janata_Dal and http://dbpedia.org/resource/Dhenkanal_district and the value is : 0
+http://dbpedia.org/resource/Biju_Janata_Dal and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Ball-jointed_doll and http://dbpedia.org/resource/Dhenkanal_district and the value is : 1
+http://dbpedia.org/resource/Ball-jointed_doll and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/Dhenkanal_district and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Dharitri_(newspaper) and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Dharitri_(newspaper) and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/2014_Indian_general_election and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Odia_language and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Odia_language and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Ukrainian_language and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Ukrainian_language and http://dbpedia.org/resource/Culture and the value is : 0
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Naxalite–Maoist_insurgency and the value is : 1
+http://dbpedia.org/resource/Tathagata_Satpathy and http://dbpedia.org/resource/Nepalese_Civil_War and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tathagata satpathy born 28 august 1956 is an indian politician and a member of parliament in the lok sabha from the biju janata dal bjd representing the dhenkanal constituency of odisha. he is a former journalist and editor of the odia daily dharitri. he was elected to the lok sabha in the 2014 indian general election. satpathy is a strong advocate of the odia language and culture. he has been a vocal critic of the central governments policies on language and culture. he has also been a vocal critic of the governments handling of the naxalite insurgency in odisha. he has been a strong advocate of the rights of the tribal people of odisha and has been a vocal critic of the governments policies on tribal rights. he has also been a vocal critic of the governments handling of the maoist insurgency in odisha. 
+
+Coref Resolved : 
+tathagata satpathy born 28 august 1956 is an indian politician and a member of parliament in the lok sabha from the biju janata dal bjd representing the dhenkanal constituency of odisha. tathagata satpathy is a former journalist and editor of the odia daily dharitri. tathagata satpathy was elected to the lok sabha in the 2014 indian general election. tathagata satpathy is a strong advocate of the odia language and culture. tathagata satpathy has been a vocal critic of the central governments policies on language and culture. tathagata satpathy has also been a vocal critic of the central governments handling of the naxalite insurgency in odisha. tathagata satpathy has been a strong advocate of the rights of the tribal people of odishaand has been a vocal critic of the central governments policies on tribal rights. tathagata satpathy has also been a vocal critic of the central governments handling of the maoist insurgency in odisha.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21212121212121213
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate accurate major_inaccurate major_inaccurate major_inaccurate 
+

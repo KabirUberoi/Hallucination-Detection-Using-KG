@@ -1,0 +1,182 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philadelphia and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Crime_family and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Crime_family and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 0
+http://dbpedia.org/resource/Crime_family and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Lance_Corporal_Jones and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Crime_family and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Crime_family and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Crime_family and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 0
+http://dbpedia.org/resource/Crime_family and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Lance_Corporal_Jones and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Laboratory and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Clapp_Hall and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Dormitory and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Clapp_Memorial_Library and the value is : 0
+http://dbpedia.org/resource/Laboratory and http://dbpedia.org/resource/Clapp_Hall and the value is : 0
+http://dbpedia.org/resource/Laboratory and http://dbpedia.org/resource/Dormitory and the value is : 0
+http://dbpedia.org/resource/Laboratory and http://dbpedia.org/resource/Clapp_Memorial_Library and the value is : 0
+http://dbpedia.org/resource/Clapp_Hall and http://dbpedia.org/resource/Dormitory and the value is : 0
+http://dbpedia.org/resource/Clapp_Hall and http://dbpedia.org/resource/Clapp_Memorial_Library and the value is : 0
+http://dbpedia.org/resource/Dormitory and http://dbpedia.org/resource/Clapp_Memorial_Library and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philadelphia_Orchestra and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Fine_art and the value is : 1
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Philadelphia_Orchestra and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Fine_art and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Orchestra and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Orchestra and http://dbpedia.org/resource/Fine_art and the value is : 0
+http://dbpedia.org/resource/University_of_Pennsylvania and http://dbpedia.org/resource/Fine_art and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Union_League_of_Philadelphia and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philadelphia_Club and the value is : 0
+http://dbpedia.org/resource/Union_League_of_Philadelphia and http://dbpedia.org/resource/Philadelphia and the value is : 1
+http://dbpedia.org/resource/Union_League_of_Philadelphia and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Union_League_of_Philadelphia and http://dbpedia.org/resource/Philadelphia_Club and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Philadelphia_Club and the value is : 1
+http://dbpedia.org/resource/University_of_Pennsylvania and http://dbpedia.org/resource/Philadelphia_Club and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/American_pioneer and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Aluminium and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Numismatist and the value is : 0
+http://dbpedia.org/resource/American_pioneer and http://dbpedia.org/resource/Aluminium and the value is : 0
+http://dbpedia.org/resource/American_pioneer and http://dbpedia.org/resource/Numismatist and the value is : 0
+http://dbpedia.org/resource/Aluminium and http://dbpedia.org/resource/Numismatist and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Allegheny,_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Pittsburgh and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Delia_(clothing) and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/DeWitt_Clinton and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Iron and the value is : 1
+http://dbpedia.org/resource/Allegheny,_Pennsylvania and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Allegheny,_Pennsylvania and http://dbpedia.org/resource/Pittsburgh and the value is : 0
+http://dbpedia.org/resource/Allegheny,_Pennsylvania and http://dbpedia.org/resource/Delia_(clothing) and the value is : 0
+http://dbpedia.org/resource/Allegheny,_Pennsylvania and http://dbpedia.org/resource/DeWitt_Clinton and the value is : 1
+http://dbpedia.org/resource/Allegheny,_Pennsylvania and http://dbpedia.org/resource/Iron and the value is : 1
+http://dbpedia.org/resource/Pennsylvania and http://dbpedia.org/resource/Pittsburgh and the value is : 0
+http://dbpedia.org/resource/Pennsylvania and http://dbpedia.org/resource/Delia_(clothing) and the value is : 1
+http://dbpedia.org/resource/Pennsylvania and http://dbpedia.org/resource/DeWitt_Clinton and the value is : 1
+http://dbpedia.org/resource/Pennsylvania and http://dbpedia.org/resource/Iron and the value is : 1
+http://dbpedia.org/resource/Pittsburgh and http://dbpedia.org/resource/Delia_(clothing) and the value is : 0
+http://dbpedia.org/resource/Pittsburgh and http://dbpedia.org/resource/DeWitt_Clinton and the value is : 0
+http://dbpedia.org/resource/Pittsburgh and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Delia_(clothing) and http://dbpedia.org/resource/DeWitt_Clinton and the value is : 0
+http://dbpedia.org/resource/Delia_(clothing) and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/DeWitt_Clinton and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/University_of_Pittsburgh and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Pittsburgh and the value is : 1
+http://dbpedia.org/resource/University_of_Pittsburgh and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/University_of_Pittsburgh and http://dbpedia.org/resource/Pittsburgh and the value is : 0
+http://dbpedia.org/resource/Pennsylvania and http://dbpedia.org/resource/Pittsburgh and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Anne_of_Denmark and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Love and the value is : 1
+http://dbpedia.org/resource/Anne_of_Denmark and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Steel_mill and the value is : 1
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/George_Hubbard_Clapp and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Pittsburgh and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Chemistry and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Pittsburgh and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Chemistry and the value is : 0
+http://dbpedia.org/resource/Pittsburgh and http://dbpedia.org/resource/Chemistry and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Charles_Martin_Hall and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Aluminium and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Electrolysis and the value is : 1
+http://dbpedia.org/resource/Charles_Martin_Hall and http://dbpedia.org/resource/Aluminium and the value is : 0
+http://dbpedia.org/resource/Charles_Martin_Hall and http://dbpedia.org/resource/Electrolysis and the value is : 1
+http://dbpedia.org/resource/Aluminium and http://dbpedia.org/resource/Electrolysis and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Treasurer and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Treasurer and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Telephone_exchange_names and the value is : 1
+http://dbpedia.org/resource/Treasurer and http://dbpedia.org/resource/Telephone_exchange_names and the value is : 0
+http://dbpedia.org/resource/Charles_Martin_Hall and http://dbpedia.org/resource/Aluminium and the value is : 0
+http://dbpedia.org/resource/Charles_Martin_Hall and http://dbpedia.org/resource/George_Hubbard_Clapp and the value is : 1
+http://dbpedia.org/resource/Charles_Martin_Hall and http://dbpedia.org/resource/Venture_capital and the value is : 0
+http://dbpedia.org/resource/Charles_Martin_Hall and http://dbpedia.org/resource/Telephone_exchange_names and the value is : 0
+http://dbpedia.org/resource/Charles_Martin_Hall and http://dbpedia.org/resource/Working_capital and the value is : 0
+http://dbpedia.org/resource/Aluminium and http://dbpedia.org/resource/George_Hubbard_Clapp and the value is : 0
+http://dbpedia.org/resource/Aluminium and http://dbpedia.org/resource/Venture_capital and the value is : 1
+http://dbpedia.org/resource/Aluminium and http://dbpedia.org/resource/Telephone_exchange_names and the value is : 1
+http://dbpedia.org/resource/Aluminium and http://dbpedia.org/resource/Working_capital and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Venture_capital and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Telephone_exchange_names and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Working_capital and the value is : 1
+http://dbpedia.org/resource/Venture_capital and http://dbpedia.org/resource/Telephone_exchange_names and the value is : 0
+http://dbpedia.org/resource/Venture_capital and http://dbpedia.org/resource/Working_capital and the value is : 0
+http://dbpedia.org/resource/Telephone_exchange_names and http://dbpedia.org/resource/Working_capital and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Toll_bridge and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Allegheny_River and the value is : 0
+http://dbpedia.org/resource/Toll_bridge and http://dbpedia.org/resource/Allegheny_River and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Western_Pennsylvania and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Numismatics and the value is : 0
+http://dbpedia.org/resource/Western_Pennsylvania and http://dbpedia.org/resource/Numismatics and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Mollusca and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Carnegie_Museums_of_Pittsburgh and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Pittsburgh and the value is : 0
+http://dbpedia.org/resource/Mollusca and http://dbpedia.org/resource/Carnegie_Museums_of_Pittsburgh and the value is : 0
+http://dbpedia.org/resource/Mollusca and http://dbpedia.org/resource/Pittsburgh and the value is : 1
+http://dbpedia.org/resource/Carnegie_Museums_of_Pittsburgh and http://dbpedia.org/resource/Pittsburgh and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Coin_collecting and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/American_Numismatic_Society and the value is : 0
+http://dbpedia.org/resource/Coin_collecting and http://dbpedia.org/resource/American_Numismatic_Society and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Trustee and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Carnegie_Museums_of_Pittsburgh and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Carnegie_Mellon_University and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/American_Chemical_Society and the value is : 0
+http://dbpedia.org/resource/Trustee and http://dbpedia.org/resource/Carnegie_Museums_of_Pittsburgh and the value is : 0
+http://dbpedia.org/resource/Trustee and http://dbpedia.org/resource/Information_technology and the value is : 1
+http://dbpedia.org/resource/Trustee and http://dbpedia.org/resource/Carnegie_Mellon_University and the value is : 0
+http://dbpedia.org/resource/Trustee and http://dbpedia.org/resource/American_Chemical_Society and the value is : 1
+http://dbpedia.org/resource/Carnegie_Museums_of_Pittsburgh and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Carnegie_Museums_of_Pittsburgh and http://dbpedia.org/resource/Carnegie_Mellon_University and the value is : 0
+http://dbpedia.org/resource/Carnegie_Museums_of_Pittsburgh and http://dbpedia.org/resource/American_Chemical_Society and the value is : 0
+http://dbpedia.org/resource/Information_technology and http://dbpedia.org/resource/Carnegie_Mellon_University and the value is : 0
+http://dbpedia.org/resource/Information_technology and http://dbpedia.org/resource/American_Chemical_Society and the value is : 0
+http://dbpedia.org/resource/Carnegie_Mellon_University and http://dbpedia.org/resource/American_Chemical_Society and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Sewickley,_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Pennsylvania and the value is : 1
+http://dbpedia.org/resource/Sewickley,_Pennsylvania and http://dbpedia.org/resource/Pennsylvania and the value is : 1
+http://dbpedia.org/resource/Clapp_Hall and http://dbpedia.org/resource/George_Hubbard_Clapp and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+george hubbard clapp 18581941 was an american businessman and philanthropist. he was born in philadelphia pennsylvania and attended the university of pennsylvania. after graduating he worked in the family business clapp jones a manufacturer of paper and paper products. he eventually became president of the company. clapp was a major philanthropist donating to a variety of causes. he was a major benefactor of the university of pennsylvania donating money for the construction of the george h. clapp laboratory the clapp hall dormitory and the clapp memorial library. he also donated to the philadelphia museum of art the philadelphia orchestra and the pennsylvania academy of the fine arts. he was a member of the union league of philadelphia and the philadelphia club. he died in 1941. 
+
+Coref Resolved : 
+george hubbard clapp 18581941 was an american businessman and philanthropist. george hubbard clapp was born in philadelphia pennsylvania and attended the university of pennsylvania. after graduating george hubbard clapp worked in the family business clapp jones a manufacturer of paper and paper products. george hubbard clapp eventually became president of the family business clapp jones a manufacturer of paper and paper products. george hubbard clapp was a major philanthropist donating to a variety of causes. george hubbard clapp was a major benefactor of the university of pennsylvaniadonating money for the construction of the george hubbard clapp laboratory the clapp hall dormitory and the clapp memorial library. george hubbard clapp also donated to the philadelphia museum of art the philadelphia orchestra and the pennsylvania academy of the fine arts. george hubbard clapp was a member of the union league of philadelphia pennsylvania and the philadelphia club. george hubbard clapp died in 1941.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+george hubbard clapp 18581949 was an american pioneer in the aluminum industry and a numismatist. he was born on december 14 in allegheny city pennsylvania now a part of pittsburgh the son of delia dennig hubbard and dewitt clinton clapp an iron company executive. he graduated from the western university of pennsylvania todays university of pittsburgh in 1877. he married anne love in 1882 and the couple had two children. clapp took an engineering position at park brothers black diamond steel works. there along with captain alfred e. hunt he established the pittsburgh testing laboratorys chemistry department. hunt formed a company in 1888 to exploit the charles martin hall patents for making aluminum by electrolysis. clapp was treasurer and secretary of the fledgling company. he resigned as treasurer in 1892 and was replaced by andrew w. mellon. the company later became known as the aluminium company of america. while hall is generally credited with the invention of the aluminum process clapp raised the initial venture capital to make the process commercially viable the mellon interests supplied the companys working capital. as clapps wealth grew he pursued his avocational interests in conchology and numismatics. he had begun collecting coins as a boy in the 1870s by sifting through the coins of a toll bridge across the allegheny river. he later became a founder of the western pennsylvania numismatic society. his grandfather encouraged him to start collecting shells over the years he assembled more than 100000 mollusk shells which he later donated to the carnegie museums of pittsburgh. in the 1930s he donated his coin collections to both the american numismatic society and the carnegie. beginning in 1907 until his death clapp was president of pitts board of trustees. he was a driving force in moving the school from its north side location to the oakland district. he also was a trustee of the carnegie institute of technology todays carnegie mellon university and a member of the american chemical society. he died at age 90 on march 31 1949 at his home in sewickley pennsylvania. clapp hall an academic building on the pitt campus is named in his honor. 
+
+Coref Resolved : 
+george hubbard clapp 18581949 was an american pioneer in the aluminum industry and a numismatist. george hubbard clapp was born on december 14 in allegheny city pennsylvania now a part of pittsburgh the son of delia dennig hubbard and dewitt clinton clapp an iron company executive. george hubbard clapp graduated from the western university of pennsylvania todays university of pittsburgh in 1877. george hubbard clapp married anne love in 1882 and the couple had two children. george hubbard clapp took an engineering position at park brothers black diamond steel works. there along with captain alfred e. hunt george hubbard clapp established the pittsburgh testing laboratorys chemistry department. captain alfred e. hunt formed a company in 1888 to exploit the charles martin hall patents for making aluminum by electrolysis. george hubbard clapp was treasurer and secretary of a company . george hubbard clapp resigned as treasurer in 1892 and was replaced by andrew w. mellon. a company later became known as the aluminium company of america. while charles martin hall is generally credited with the invention of the aluminum process george hubbard clapp raised the initial venture capital to make the aluminum process commercially viable the andrew w. melloninterests supplied a company working capital. as george hubbard clapp wealth grew george hubbard clapp pursued george hubbard clapp avocational interests in conchology and numismatics. george hubbard clapp had begun collecting coins as a boy in the 1870s by sifting through the coins of a toll bridge across the allegheny river. george hubbard clapp later became a founder of the western pennsylvania numismatic society. george hubbard clapp grandfather encouraged george hubbard clapp to start collecting shells over the years george hubbard clapp assembled more than 100000 mollusk shells which george hubbard clapp later donated to the carnegie museums of pittsburgh . in the 1930s george hubbard clapp donated george hubbard clapp coin collections to both the american numismatic society and the carnegie. beginning in 1907 until george hubbard clapp death george hubbard clapp was president of pitts board of trustees. george hubbard clapp was a driving force in moving pitts from pitts north side location to the oakland district. george hubbard clapp also was a trustee of the carnegie institute of technology todays carnegie mellon university and a member of the american chemical society. george hubbard clapp died at age 90 on march 31 1949 at george hubbard clapp home in sewickley pennsylvania. clapp hall an academic building on the pitts campus is named in george hubbard clapp honor.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1568627450980392 and for ground truth is : 0.33980582524271846
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

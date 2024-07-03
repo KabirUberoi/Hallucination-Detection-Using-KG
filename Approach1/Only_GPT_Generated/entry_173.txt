@@ -1,0 +1,50 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Pinus_heldreichii and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Football_player and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Pinus_heldreichii and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Football_player and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Pinus_heldreichii and http://dbpedia.org/resource/Football_player and the value is : 0
+http://dbpedia.org/resource/Pinus_heldreichii and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Pinus_heldreichii and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 0
+http://dbpedia.org/resource/Pinus_heldreichii and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Football_player and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Football_player and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 0
+http://dbpedia.org/resource/Football_player and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 1
+http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/FK_Željezničar_Sarajevo and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 1
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Bosnia_and_Herzegovina_Football_Cup and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Bosnia_and_Herzegovina_Football_Cup and the value is : 1
+http://dbpedia.org/resource/Premier_League_of_Bosnia_and_Herzegovina and http://dbpedia.org/resource/Bosnia_and_Herzegovina_Football_Cup and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kenan_Hasagić and http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_football_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Bosnia_and_Herzegovina_national_football_team and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+kenan hasagić born 28 april 1988 is a bosnian professional footballer who plays as a midfielder for bosnian premier league club željezničar. hasagić started his career at his hometown club željezničar where he made his professional debut in 2006. he has since gone on to make over 200 appearances for the club winning the bosnian premier league title in 2008 and the bosnian cup in 2009. he has also represented bosnia and herzegovina at international level making his debut in 2011. 
+
+Coref Resolved : 
+kenan hasagić born 28 april 1988 is a bosnian professional footballer who plays as a midfielder for bosnian premier league club željezničar. kenan hasagić born 28 april 1988 started kenan hasagić born 28 april 1988 career at kenan hasagić born 28 april 1988 hometown club željezničar where kenan hasagić born 28 april 1988 made kenan hasagić born 28 april 1988 professional debut in 2006. kenan hasagić born 28 april 1988 has since gone on to make over 200 appearances for bosnian premier league club željezničarwinning the bosnian premier league title in 2008 and the bosnian cup in 2009. kenan hasagić born 28 april 1988 has also represented bosnia and herzegovina at international level making kenan hasagić born 28 april 1988 debut in 2011.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

@@ -1,0 +1,55 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/Physicist and the value is : 1
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/Inventor and the value is : 0
+http://dbpedia.org/resource/Physicist and http://dbpedia.org/resource/Inventor and the value is : 0
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/Magnavox_Odyssey and the value is : 0
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/Video_game_console and the value is : 0
+http://dbpedia.org/resource/Magnavox_Odyssey and http://dbpedia.org/resource/Video_game_console and the value is : 0
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/Sydney and the value is : 1
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/Physics and the value is : 0
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory and the value is : 1
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/Physics and http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory and the value is : 0
+http://dbpedia.org/resource/George_Berkeley and http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory and the value is : 0
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/Magnavox_Odyssey and the value is : 1
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/Video_game and the value is : 0
+http://dbpedia.org/resource/Magnavox_Odyssey and http://dbpedia.org/resource/Video_game and the value is : 1
+http://dbpedia.org/resource/Magnavox_Odyssey and http://dbpedia.org/resource/Video_game and the value is : 0
+http://dbpedia.org/resource/Magnavox_Odyssey and http://dbpedia.org/resource/Video_game_console and the value is : 0
+http://dbpedia.org/resource/Magnavox_Odyssey and http://dbpedia.org/resource/Television_set and the value is : 1
+http://dbpedia.org/resource/Video_game and http://dbpedia.org/resource/Video_game_console and the value is : 0
+http://dbpedia.org/resource/Video_game and http://dbpedia.org/resource/Television_set and the value is : 0
+http://dbpedia.org/resource/Video_game_console and http://dbpedia.org/resource/Television_set and the value is : 1
+http://dbpedia.org/resource/Magnavox_Odyssey and http://dbpedia.org/resource/Video_game and the value is : 0
+http://dbpedia.org/resource/Magnavox_Odyssey and http://dbpedia.org/resource/Video_game_console and the value is : 1
+http://dbpedia.org/resource/Magnavox_Odyssey and http://dbpedia.org/resource/ROM_cartridge and the value is : 1
+http://dbpedia.org/resource/Video_game and http://dbpedia.org/resource/Video_game_console and the value is : 0
+http://dbpedia.org/resource/Video_game and http://dbpedia.org/resource/ROM_cartridge and the value is : 1
+http://dbpedia.org/resource/Video_game_console and http://dbpedia.org/resource/ROM_cartridge and the value is : 1
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/Video_game_console and the value is : 1
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/Magnavox_Odyssey and the value is : 1
+http://dbpedia.org/resource/Raymond_Harry_Brown and http://dbpedia.org/resource/Video_game and the value is : 0
+http://dbpedia.org/resource/Video_game_console and http://dbpedia.org/resource/Magnavox_Odyssey and the value is : 0
+http://dbpedia.org/resource/Video_game_console and http://dbpedia.org/resource/Video_game and the value is : 1
+http://dbpedia.org/resource/Magnavox_Odyssey and http://dbpedia.org/resource/Video_game and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+raymond harry brown 19172006 was an australianborn american physicist and inventor. he is best known for his invention of the brown box the first commercial video game console. brown was born in sydney australia and moved to the united states in the 1940s. he studied physics at the university of california berkeley and worked at the lawrence berkeley national laboratory. he was a member of the national academy of engineering and the national academy of sciences. browns invention of the brown box was a major milestone in the history of video games. the brown box was a console that could be connected to a television set and used to play a variety of games. it was the first console to use interchangeable game cartridges allowing users to play different games without having to buy a new console. browns invention was the precursor to the modern video game console and it paved the way for the development of the gaming industry. 
+
+Coref Resolved : 
+raymond harry brown 19172006 was an australianborn american physicist and inventor. raymond harry brown is best known for raymond harry brown invention of the brown box the first commercial video game console. raymond harry brown was born in sydney australia and moved to the united states in the 1940s. raymond harry brown studied physics at the university of california berkeley and worked at the lawrence berkeley national laboratory. raymond harry brown was a member of the national academy of engineering and the national academy of sciences. raymond harry brown invention of the brown box the first commercial video game consolewas a major milestone in the history of video games. the brown box the first commercial video game consolewas a console that could be connected to a television set and used to play a variety of games. the brown box the first commercial video game consolewas the first console to use interchangeable game cartridges allowing users to play different games without having to buy a new console. raymond harry brown invention was the precursor to the modern video game console and his invention of the brown box the first commercial video game consolepaved the way for the development of the gaming industry.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.42105263157894735
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

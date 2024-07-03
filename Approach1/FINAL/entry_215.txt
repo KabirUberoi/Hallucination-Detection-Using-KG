@@ -1,0 +1,230 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Order_of_the_Bath and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Order_of_the_Bath and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Order_of_the_Bath and the value is : 1
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Order_of_the_Bath and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 1
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 0
+http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 1
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Operation_Overlord and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Operation_Overlord and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Scotland and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Royal_Military_Academy_Sandhurst and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Scotland and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Royal_Military_Academy_Sandhurst and the value is : 0
+http://dbpedia.org/resource/Scotland and http://dbpedia.org/resource/Royal_Military_Academy_Sandhurst and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Military_Cross and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Military_Cross and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Air_officer_commanding and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/No._3_Group_RAF and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Air_officer_commanding and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/No._3_Group_RAF and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/Air_officer_commanding and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/No._3_Group_RAF and the value is : 0
+http://dbpedia.org/resource/Air_officer_commanding and http://dbpedia.org/resource/No._3_Group_RAF and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Air_Staff_(Sweden) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Air_Staff_(Sweden) and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Air_Staff_(Sweden) and http://dbpedia.org/resource/United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 0
+http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 1
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Operation_Overlord and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Operation_Overlord and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Marshal and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Marshal and http://dbpedia.org/resource/Chester_A._Arthur and the value is : 0
+http://dbpedia.org/resource/Marshal and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Marshal and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/Chester_A._Arthur and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Fighter_pilot and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Royal_Flying_Corps and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Interwar_period and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Fighter_pilot and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Royal_Flying_Corps and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Interwar_period and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Fighter_pilot and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Royal_Flying_Corps and the value is : 1
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Interwar_period and the value is : 0
+http://dbpedia.org/resource/Fighter_pilot and http://dbpedia.org/resource/Royal_Flying_Corps and the value is : 0
+http://dbpedia.org/resource/Fighter_pilot and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Fighter_pilot and http://dbpedia.org/resource/Royal_Air_Force and the value is : 1
+http://dbpedia.org/resource/Fighter_pilot and http://dbpedia.org/resource/Interwar_period and the value is : 0
+http://dbpedia.org/resource/Royal_Flying_Corps and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Royal_Flying_Corps and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Royal_Flying_Corps and http://dbpedia.org/resource/Interwar_period and the value is : 0
+http://dbpedia.org/resource/Officer_cadet and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Officer_cadet and http://dbpedia.org/resource/Interwar_period and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/Interwar_period and the value is : 1
+http://dbpedia.org/resource/Air_officer_commanding and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Air_officer_commanding and http://dbpedia.org/resource/RAF_Middle_East_Command and the value is : 0
+http://dbpedia.org/resource/Air_officer_commanding and http://dbpedia.org/resource/Chester_A._Arthur and the value is : 1
+http://dbpedia.org/resource/Air_officer_commanding and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Air_officer_commanding and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Air_officer_commanding and http://dbpedia.org/resource/Mediterranean_Sea and the value is : 0
+http://dbpedia.org/resource/Air_officer_commanding and http://dbpedia.org/resource/North_African_campaign and the value is : 1
+http://dbpedia.org/resource/Air_officer_commanding and http://dbpedia.org/resource/Battle_of_Crete and the value is : 0
+http://dbpedia.org/resource/Air_officer_commanding and http://dbpedia.org/resource/Operation_Crusader and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/RAF_Middle_East_Command and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/Chester_A._Arthur and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/Mediterranean_Sea and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/North_African_campaign and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/Battle_of_Crete and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/Operation_Crusader and the value is : 0
+http://dbpedia.org/resource/RAF_Middle_East_Command and http://dbpedia.org/resource/Chester_A._Arthur and the value is : 0
+http://dbpedia.org/resource/RAF_Middle_East_Command and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/RAF_Middle_East_Command and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/RAF_Middle_East_Command and http://dbpedia.org/resource/Mediterranean_Sea and the value is : 0
+http://dbpedia.org/resource/RAF_Middle_East_Command and http://dbpedia.org/resource/North_African_campaign and the value is : 0
+http://dbpedia.org/resource/RAF_Middle_East_Command and http://dbpedia.org/resource/Battle_of_Crete and the value is : 1
+http://dbpedia.org/resource/RAF_Middle_East_Command and http://dbpedia.org/resource/Operation_Crusader and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Mediterranean_Sea and the value is : 1
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/North_African_campaign and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Battle_of_Crete and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Operation_Crusader and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Mediterranean_Sea and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/North_African_campaign and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Battle_of_Crete and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Operation_Crusader and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Mediterranean_Sea and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/North_African_campaign and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Battle_of_Crete and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Operation_Crusader and the value is : 0
+http://dbpedia.org/resource/Mediterranean_Sea and http://dbpedia.org/resource/North_African_campaign and the value is : 0
+http://dbpedia.org/resource/Mediterranean_Sea and http://dbpedia.org/resource/Battle_of_Crete and the value is : 0
+http://dbpedia.org/resource/Mediterranean_Sea and http://dbpedia.org/resource/Operation_Crusader and the value is : 0
+http://dbpedia.org/resource/North_African_campaign and http://dbpedia.org/resource/Battle_of_Crete and the value is : 0
+http://dbpedia.org/resource/North_African_campaign and http://dbpedia.org/resource/Operation_Crusader and the value is : 0
+http://dbpedia.org/resource/Battle_of_Crete and http://dbpedia.org/resource/Operation_Crusader and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Carpet_bombing and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Carpet_bombing and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Carpet_bombing and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Mediterranean_Air_Command and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Operation_Overlord and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Allied_invasion_of_Sicily and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Mediterranean_Air_Command and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Operation_Overlord and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Allied_invasion_of_Sicily and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Mediterranean_Air_Command and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Operation_Overlord and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Allied_invasion_of_Sicily and the value is : 0
+http://dbpedia.org/resource/Mediterranean_Air_Command and http://dbpedia.org/resource/Operation_Overlord and the value is : 1
+http://dbpedia.org/resource/Mediterranean_Air_Command and http://dbpedia.org/resource/Allied_invasion_of_Sicily and the value is : 0
+http://dbpedia.org/resource/Operation_Overlord and http://dbpedia.org/resource/Allied_invasion_of_Sicily and the value is : 1
+http://dbpedia.org/resource/Operation_Overlord and http://dbpedia.org/resource/Operation_Torch and the value is : 1
+http://dbpedia.org/resource/Operation_Overlord and http://dbpedia.org/resource/Chester_A._Arthur and the value is : 0
+http://dbpedia.org/resource/Operation_Overlord and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Operation_Overlord and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Operation_Overlord and http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and the value is : 1
+http://dbpedia.org/resource/Operation_Overlord and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 0
+http://dbpedia.org/resource/Operation_Torch and http://dbpedia.org/resource/Chester_A._Arthur and the value is : 1
+http://dbpedia.org/resource/Operation_Torch and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Operation_Torch and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Operation_Torch and http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and the value is : 0
+http://dbpedia.org/resource/Operation_Torch and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and the value is : 1
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 0
+http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Tedder_(machine) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Baron_Tedder and the value is : 1
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Air_Staff_(Sweden) and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Fighter_aircraft and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Berlin_Blockade and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Baron_Tedder and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Air_Staff_(Sweden) and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Fighter_aircraft and the value is : 0
+http://dbpedia.org/resource/Tedder_(machine) and http://dbpedia.org/resource/Berlin_Blockade and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Air_Staff_(Sweden) and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Royal_Air_Force and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Fighter_aircraft and the value is : 0
+http://dbpedia.org/resource/Baron_Tedder and http://dbpedia.org/resource/Berlin_Blockade and the value is : 0
+http://dbpedia.org/resource/Air_Staff_(Sweden) and http://dbpedia.org/resource/Royal_Air_Force and the value is : 1
+http://dbpedia.org/resource/Air_Staff_(Sweden) and http://dbpedia.org/resource/Fighter_aircraft and the value is : 1
+http://dbpedia.org/resource/Air_Staff_(Sweden) and http://dbpedia.org/resource/Berlin_Blockade and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/Fighter_aircraft and the value is : 0
+http://dbpedia.org/resource/Royal_Air_Force and http://dbpedia.org/resource/Berlin_Blockade and the value is : 0
+http://dbpedia.org/resource/Fighter_aircraft and http://dbpedia.org/resource/Berlin_Blockade and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+arthur william tedder 1st baron tedder gcb 11 july 1890 3 june 1967 was a senior royal air force commander. during the second world war he was deputy supreme allied commander in europe serving under general dwight d. eisenhower. he was also a key figure in the planning of the normandy landings in 1944. tedder was born in glenguin scotland and educated at rugby and the royal military college sandhurst. he joined the royal artillery in 1911 and was posted to india in 1912. during the first world war he served in france where he was awarded the military cross in 1915. after the war he transferred to the royal air force and was appointed as air officer commanding no. 3 group in 1936. in 1940 tedder was appointed deputy chief of the air staff and was heavily involved in the planning of the battle of britain. in 1942 he was appointed deputy supreme allied commander in europe serving under general dwight d. eisenhower. he was responsible for the planning of the normandy landings in 1944 and was present on the beaches on d 
+
+Coref Resolved : 
+arthur william tedder 1st baron tedder gcb 11 july 1890 3 june 1967 was a senior royal air force commander. during the second world war arthur william tedder was deputy supreme allied commander in europe serving under general dwight d. eisenhower. arthur william tedder was also a key figure in the planning of the normandy landings in 1944. arthur william tedder was born in glenguin scotland and educated at rugby and the royal military college sandhurst. arthur william tedder joined the royal artillery in 1911 and was posted to india in 1912. during the first world war arthur william tedder served in france where arthur william tedder was awarded the military cross in 1915. after the first world war arthur william tedder transferred to royal air force and was appointed as air officer commanding no. 3 group in 1936. in 1940 arthur william tedder was appointed deputy chief of the air staff and was heavily involved in the planning of the battle of britain. in 1942 arthur william tedder was appointed deputy supreme allied commander in europe serving under general dwight d. eisenhower. arthur william tedder was responsible for the planning of the normandy landings in 1944and was present on the beaches on d
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+marshal of the royal air force arthur william tedder 1st baron tedder 11 july 1890 3 june 1967 was a senior british air force commander. he was a pilot and squadron commander in the royal flying corps in the first world war and he went on to serve as a senior officer in the royal air force during the interwar years. during the second world war as air officer commanding raf middle east command tedder commanded air operations in the mediterranean and north africa including the evacuation of crete and operation crusader in north africa. his bombing tactics became known as the tedder carpet. later in the war tedder took command of mediterranean air command and in that role was closely involved in the planning of the allied invasion of sicily and then the allied invasion of italy. when operation overlord the invasion of france came to be planned tedder was appointed deputy supreme commander at supreme headquarters allied expeditionary force under general eisenhower. after the war he served as chief of the air staff in which role he advocated increased recruiting in the face of many airmen leaving the service doubled the size of raf fighter command and implemented arrangements for the berlin airlift in 1948. 
+
+Coref Resolved : 
+marshal of the royal air force arthur william tedder 1st baron tedder 11 july 1890 3 june 1967 was a senior british air force commander. arthur william tedder 1st baron tedder was a pilot and squadron commander in the royal flying corps in the first world war and arthur william tedder 1st baron tedder went on to serve as a senior officer in the royal air force during the interwar years. during the second world war as air officer commanding raf middle east command arthur william tedder 1st baron tedder commanded air operations in the mediterranean and north africa including the evacuation of crete and operation crusader in north africa . arthur william tedder 1st baron tedder bombing tactics became known as the tedder carpet. later in the second world war arthur william tedder 1st baron tedder took command of mediterranean air command and in command of mediterranean air command was closely involved in the planning of the allied invasion of sicily and then the allied invasion of italy. when operation overlord the invasion of france came to be planned arthur william tedder 1st baron tedder was appointed deputy supreme commander at supreme headquarters allied expeditionary force under general eisenhower. after the second world war arthur william tedder 1st baron tedder served as chief of the air staff in which role arthur william tedder 1st baron tedder advocated increased recruiting in the face of many airmen leaving the service doubled the size of raf fighter command and implemented arrangements for the berlin airlift in 1948.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.07142857142857142 and for ground truth is : 0.1095890410958904
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

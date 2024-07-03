@@ -1,0 +1,81 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/American_Cinematographer and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/The_Ten_Commandments_(1923_film) and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/The_Big_Parade and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/The_Jazz_Singer and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/The_Public_Enemy and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Land_of_Oz and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Academy_Award_for_Best_Cinematography and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/The_Big_Parade and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/California and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/American_Cinematographer and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Academy_Award_for_Best_Cinematography and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/United_States_Army and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Western_fiction and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Gunsmoke and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/United_States_Army and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Movie_ranch and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Chatsworth,_Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Western_(genre) and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Sandstone and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Sandstone and the value is : 0
+http://dbpedia.org/resource/Ernest_Miller and http://dbpedia.org/resource/Rock_music and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Ernest Miller (born October 28, 1891 died April 28, 1967) was an American cinematographer.
+He was born in New York City and began his career in the film industry in 1912.
+He worked on over 200 films during his career, including The Ten Commandments (1923), The Big Parade (1925), The Jazz Singer (1927), The Public Enemy (1931), and The Wizard of Oz (1939).
+He was nominated for an Academy Award for Best Cinematography for The Big Parade.
+He was also a member of the American Society of Cinematographers.
+Miller died in 1967 in Los Angeles, California.
+
+
+Coref Resolved: 
+
+Ernest Miller (born October 28, 1891 died April 28, 1967) was an American cinematographer.
+Ernest Miller was born in New York City and began Ernest Miller career in the film industry in 1912.
+Ernest Miller worked on over 200 films during Ernest Miller career, including The Ten Commandments (1923), The Big Parade (1925), The Jazz Singer (1927), The Public Enemy (1931), and The Wizard of Oz (1939).
+Ernest Miller was nominated for an Academy Award for Best Cinematography for The Big Parade (1925).
+Ernest Miller was also a member of the American Society of Cinematographers.
+Ernest Miller died in 1967 in Los Angeles, California.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Ernest Miller (March 7, 1885 - April 23, 1957) was an American cinematographer who was nominated for an Academy Award at the 1939 Oscars for Best Cinematography for the film "Army Girl", sharing the nomination with Harry J. Wild.
+He had nearly 350 film and television credits to his name, mostly westerns, including some of the early episodes of "Gunsmoke".
+Location work on "Army Girl" was done primarily at the Iverson Movie Ranch in Chatsworth, California, where Miller cut his teeth in B-westerns and became one of the most prolific - and one of the best - of the site's shooters during the course of his career.
+His camera work at Iverson became identifiable for Miller's trademark use of the site's charismatic sandstone rock features as framing devices, as he incorporated the giant boulders into the artistry of the outdoor action shots in ways that few cinematographers could match.
+ 
+
+Coref Resolved: 
+
+Ernest Miller (March 7, 1885 - April 23, 1957) was an American cinematographer who was the nomination for an Academy Award at the 1939 Oscars for Best Cinematography for the film "Army Girl", sharing the nomination with Harry J. Wild.
+Ernest Miller had nearly 350 film and television credits to Ernest Miller name, mostly westerns, including some of the early episodes of "Gunsmoke".
+Location work on the film "Army Girl"was done primarily at the Iverson Movie Ranch in Chatsworth, California, where Ernest Miller cut Ernest Miller teeth in B-westerns and became one of the most prolific - and one of the best - of the site's shooters during the course of Ernest Miller career.
+Ernest Miller camera work at the site's became identifiable for Ernest Miller trademark use of the site's charismatic sandstone rock features as framing devices, as Ernest Miller incorporated the site's charismatic sandstone rock features into the artistry of the outdoor action shots in ways that few cinematographers could match.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.0 -1 0.0 
+
+Value for ground truth is : 
+0.0 0.0 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

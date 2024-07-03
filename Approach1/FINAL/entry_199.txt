@@ -1,0 +1,171 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Italian_fashion and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Fashion_design and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Givenchy and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Perfume and the value is : 1
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Perfume and the value is : 1
+http://dbpedia.org/resource/Givenchy and http://dbpedia.org/resource/Perfume and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Taranto and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Fashion_design and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Central_Saint_Martins and the value is : 1
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Central_Saint_Martins and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Fashion_design and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Freelancer and the value is : 1
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Freelancer and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Fashion_design and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Givenchy and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Perfume and the value is : 1
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Givenchy and the value is : 1
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Perfume and the value is : 0
+http://dbpedia.org/resource/Givenchy and http://dbpedia.org/resource/Perfume and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Fashion_design and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Perfume and the value is : 0
+http://dbpedia.org/resource/Givenchy and http://dbpedia.org/resource/Fashion_design and the value is : 1
+http://dbpedia.org/resource/Givenchy and http://dbpedia.org/resource/Perfume and the value is : 1
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Perfume and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Mary,_mother_of_Jesus and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Kanye_West and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Beyoncé and the value is : 0
+http://dbpedia.org/resource/Mary,_mother_of_Jesus and http://dbpedia.org/resource/Kanye_West and the value is : 0
+http://dbpedia.org/resource/Mary,_mother_of_Jesus and http://dbpedia.org/resource/Beyoncé and the value is : 0
+http://dbpedia.org/resource/Kanye_West and http://dbpedia.org/resource/Beyoncé and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Givenchy and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Fashion_design and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Perfume and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Clare_Waight_Keller and the value is : 0
+http://dbpedia.org/resource/Givenchy and http://dbpedia.org/resource/Fashion_design and the value is : 0
+http://dbpedia.org/resource/Givenchy and http://dbpedia.org/resource/Perfume and the value is : 1
+http://dbpedia.org/resource/Givenchy and http://dbpedia.org/resource/Clare_Waight_Keller and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Perfume and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Clare_Waight_Keller and the value is : 0
+http://dbpedia.org/resource/Perfume and http://dbpedia.org/resource/Clare_Waight_Keller and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Fashion_design and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Burberry and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Burberry and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Taranto and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Italian_fashion and the value is : 1
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Italian_fashion and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Taranto and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Central_Saint_Martins and the value is : 0
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Central_Saint_Martins and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Taranto and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Fashion_design and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Haute_couture and the value is : 0
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Fashion_design and the value is : 1
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Haute_couture and the value is : 1
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Givenchy and the value is : 1
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Haute_couture and the value is : 0
+http://dbpedia.org/resource/Givenchy and http://dbpedia.org/resource/Haute_couture and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Taranto and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Fashion and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Designer and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Fashion and the value is : 1
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Designer and the value is : 1
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Fashion and http://dbpedia.org/resource/Designer and the value is : 0
+http://dbpedia.org/resource/Fashion and http://dbpedia.org/resource/Givenchy and the value is : 1
+http://dbpedia.org/resource/Designer and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Taranto and the value is : 1
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Goth_subculture and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Fatigue and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Haute_couture and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Continental_drift and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Sphere and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Brand and the value is : 0
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Goth_subculture and the value is : 1
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Fatigue and the value is : 0
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Haute_couture and the value is : 0
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Continental_drift and the value is : 1
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Sphere and the value is : 0
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Brand and the value is : 1
+http://dbpedia.org/resource/Goth_subculture and http://dbpedia.org/resource/Fatigue and the value is : 0
+http://dbpedia.org/resource/Goth_subculture and http://dbpedia.org/resource/Haute_couture and the value is : 1
+http://dbpedia.org/resource/Goth_subculture and http://dbpedia.org/resource/Continental_drift and the value is : 1
+http://dbpedia.org/resource/Goth_subculture and http://dbpedia.org/resource/Sphere and the value is : 1
+http://dbpedia.org/resource/Goth_subculture and http://dbpedia.org/resource/Givenchy and the value is : 1
+http://dbpedia.org/resource/Goth_subculture and http://dbpedia.org/resource/Brand and the value is : 0
+http://dbpedia.org/resource/Fatigue and http://dbpedia.org/resource/Haute_couture and the value is : 1
+http://dbpedia.org/resource/Fatigue and http://dbpedia.org/resource/Continental_drift and the value is : 0
+http://dbpedia.org/resource/Fatigue and http://dbpedia.org/resource/Sphere and the value is : 0
+http://dbpedia.org/resource/Fatigue and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Fatigue and http://dbpedia.org/resource/Brand and the value is : 0
+http://dbpedia.org/resource/Haute_couture and http://dbpedia.org/resource/Continental_drift and the value is : 1
+http://dbpedia.org/resource/Haute_couture and http://dbpedia.org/resource/Sphere and the value is : 0
+http://dbpedia.org/resource/Haute_couture and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Haute_couture and http://dbpedia.org/resource/Brand and the value is : 0
+http://dbpedia.org/resource/Continental_drift and http://dbpedia.org/resource/Sphere and the value is : 0
+http://dbpedia.org/resource/Continental_drift and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Continental_drift and http://dbpedia.org/resource/Brand and the value is : 0
+http://dbpedia.org/resource/Sphere and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Sphere and http://dbpedia.org/resource/Brand and the value is : 0
+http://dbpedia.org/resource/Givenchy and http://dbpedia.org/resource/Brand and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Cathy_Horyn and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Suzy_Menkes and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/The_New_York_Times_International_Edition and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Riccardo_Tisci and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Taranto and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Fashion_design and http://dbpedia.org/resource/Accuracy_and_precision and the value is : 0
+http://dbpedia.org/resource/Cathy_Horyn and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Cathy_Horyn and http://dbpedia.org/resource/Suzy_Menkes and the value is : 0
+http://dbpedia.org/resource/Cathy_Horyn and http://dbpedia.org/resource/The_New_York_Times_International_Edition and the value is : 0
+http://dbpedia.org/resource/Cathy_Horyn and http://dbpedia.org/resource/Riccardo_Tisci and the value is : 0
+http://dbpedia.org/resource/Cathy_Horyn and http://dbpedia.org/resource/Taranto and the value is : 1
+http://dbpedia.org/resource/Cathy_Horyn and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Cathy_Horyn and http://dbpedia.org/resource/Accuracy_and_precision and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Suzy_Menkes and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/The_New_York_Times_International_Edition and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Riccardo_Tisci and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Taranto and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Accuracy_and_precision and the value is : 0
+http://dbpedia.org/resource/Suzy_Menkes and http://dbpedia.org/resource/The_New_York_Times_International_Edition and the value is : 0
+http://dbpedia.org/resource/Suzy_Menkes and http://dbpedia.org/resource/Riccardo_Tisci and the value is : 0
+http://dbpedia.org/resource/Suzy_Menkes and http://dbpedia.org/resource/Taranto and the value is : 0
+http://dbpedia.org/resource/Suzy_Menkes and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Suzy_Menkes and http://dbpedia.org/resource/Accuracy_and_precision and the value is : 1
+http://dbpedia.org/resource/The_New_York_Times_International_Edition and http://dbpedia.org/resource/Riccardo_Tisci and the value is : 1
+http://dbpedia.org/resource/The_New_York_Times_International_Edition and http://dbpedia.org/resource/Taranto and the value is : 0
+http://dbpedia.org/resource/The_New_York_Times_International_Edition and http://dbpedia.org/resource/Givenchy and the value is : 1
+http://dbpedia.org/resource/The_New_York_Times_International_Edition and http://dbpedia.org/resource/Accuracy_and_precision and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Taranto and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Riccardo_Tisci and http://dbpedia.org/resource/Accuracy_and_precision and the value is : 0
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Givenchy and the value is : 0
+http://dbpedia.org/resource/Taranto and http://dbpedia.org/resource/Accuracy_and_precision and the value is : 1
+http://dbpedia.org/resource/Givenchy and http://dbpedia.org/resource/Accuracy_and_precision and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+riccardo tisci born 1974 is an italian fashion designer. he is the former creative director of givenchy a french luxury fashion and perfume house. he was the first designer of italian origin to be appointed to the position. tisci was born in 1974 in taranto italy. he studied at the london college of fashion and central saint martins college of art and design. he began his career in fashion in the early 2000s working as a freelance designer for various fashion houses. in 2005 he was appointed creative director of givenchy where he remained until 2017. during his tenure at givenchy tisci was credited with reviving the brands fortunes. he was praised for his modern edgy designs which often featured bold prints and streetwearinspired silhouettes. he also collaborated with a number of highprofile celebrities including madonna kanye west and beyoncé. tisci left givenchy in 2017 and was succeeded by clare waight keller. he is currently the creative director of burberry. 
+
+Coref Resolved : 
+riccardo tisci born 1974 is an italian fashion designer. riccardo tisci born 1974 is the former creative director of givenchy a french luxury fashion and perfume house. riccardo tisci born 1974 was the first designer of italian origin to be appointed to the position. riccardo tisci born 1974 was born in 1974 in taranto italy. riccardo tisci born 1974 studied at the london college of fashion and central saint martins college of art and design. riccardo tisci born 1974 began riccardo tisci born 1974 career in fashion in the early 2000s working as a freelance designer for various fashion houses. in 2005 riccardo tisci born 1974 was appointed creative director of givenchy a french luxury fashion and perfume housewhere riccardo tisci born 1974 remained until 2017. during riccardo tisci born 1974 tenure at givenchy a french luxury fashion and perfume housericcardo tisci born 1974 was credited with reviving givenchy a french luxury fashion and perfume housefortunes. riccardo tisci born 1974 was praised for riccardo tisci born 1974 modern edgy designs which often featured bold prints and streetwearinspired silhouettes. riccardo tisci born 1974 also collaborated with a number of highprofile celebrities including madonna kanye west and beyoncé. riccardo tisci born 1974 left givenchy a french luxury fashion and perfume housein 2017and was succeeded by clare waight keller. riccardo tisci born 1974 is currently the creative director of burberry.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+riccardo tisci born 1974 in taranto italy is an italian fashion designer. he studied in italy at the design istituto darte applicata in cantu until the age of 17 and then graduated from londons central saint martins academy in 1999. in 2005 tisci was named creative director for givenchy womens haute couture and readytowear lines. in may 2008 he was additionally named as menswear and accessories designer of the givenchy mens division. tiscis apparent fascination with gothic touches dark languid dresses for fall couture and spaceage minimalism one readytowear show featured whiteclad models drifting around a sterilewhite sphere has drawn new attention to the givenchy brand. reviews and output so far have been mixed and inconsistent but many including influential fashion critics such as cathy horyn of the new york times and suzy menkes of the international herald tribune have homed in on tiscis conceptual leanings as well as his future potential for revitalizing the givenchy brand and infusing it with his precision and imagination. 
+
+Coref Resolved : 
+riccardo tisci born 1974 in taranto italy is an italian fashion designer. riccardo tisci born 1974 in taranto italy studied in italy at the design istituto darte applicata in cantu until the age of 17 and then graduated from londons central saint martins academy in 1999. in 2005 riccardo tisci born 1974 in taranto italy was named creative director for the givenchy brandwomens haute couture and readytowear lines. in may 2008 riccardo tisci born 1974 in taranto italy was additionally named as menswear and accessories designer of the the givenchy brandmens division. riccardo tisci born 1974 in taranto italy apparent fascination with gothic touches dark languid dresses for fall couture and spaceage minimalism one readytowear show featured whiteclad models drifting around a sterilewhite sphere has drawn new attention to the givenchy brand. reviews and output so far have been mixed and inconsistent but many including influential fashion critics such as cathy horyn of the new york times and suzy menkes of the international herald tribune have homed in on riccardo tisci born 1974 in taranto italy conceptual leanings as well as riccardo tisci born 1974 in taranto italy future potential for revitalizing the givenchy brandand infusing the givenchy brandwith riccardo tisci born 1974 in taranto italy precision and imagination.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.6444444444444445 and for ground truth is : 0.29591836734693877
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate accurate accurate accurate minor_inaccurate accurate accurate accurate 
+

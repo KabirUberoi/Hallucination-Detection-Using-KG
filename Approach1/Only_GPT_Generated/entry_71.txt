@@ -1,0 +1,49 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/First-class_cricket and the value is : 1
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/First-class_cricket and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Derby and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Lace and the value is : 0
+http://dbpedia.org/resource/Derby and http://dbpedia.org/resource/Lace and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Repton_School and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Trinity_College,_Cambridge and the value is : 0
+http://dbpedia.org/resource/Repton_School and http://dbpedia.org/resource/Trinity_College,_Cambridge and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1871 and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1871 and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 1
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1871 and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 1
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Batting_(cricket) and the value is : 1
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Innings and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Innings and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Innings and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Roundarm_bowling and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Wicket and the value is : 0
+http://dbpedia.org/resource/Roundarm_bowling and http://dbpedia.org/resource/Cricket and the value is : 1
+http://dbpedia.org/resource/Roundarm_bowling and http://dbpedia.org/resource/Wicket and the value is : 1
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Wicket and the value is : 1
+http://dbpedia.org/resource/John_Burnham_(Canadian_politician) and http://dbpedia.org/resource/Derby and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john burnham born 28 august 1845 was an english cricketer who played for derbyshire between 1871 and 1876. burnham was born in derby the son of john burnham a lace manufacturer. he was educated at repton school and at trinity college cambridge. he made his debut for derbyshire in the 1871 season against lancashire. he played for the county in 1871 and 1872 and then again in 1875 and 1876. in 1871 he scored his highest firstclass score of 73 against lancashire. burnham was a righthanded batsman and played 24 innings in 14 firstclass matches with an average of 11.50 and a top score of 73. he was a rightarm roundarm fast bowler and took 4 wickets at an average of 28.50 and a best performance of 2 for 11. burnham died in derby at the age of 30. 
+
+Coref Resolved : 
+john burnham born 28 august 1845 was an english cricketer who played for derbyshire between 1871 and 1876. john burnham born 28 august 1845 was born in derby the son of john burnham a lace manufacturer. john burnham born 28 august 1845 was educated at repton school and at trinity college cambridge. john burnham born 28 august 1845 made john burnham born 28 august 1845 debut for derbyshire in the 1871 season against lancashire. john burnham born 28 august 1845 played for derbyshire in 1871 and 1872 and then again in 1875 and 1876. in 1871 john burnham born 28 august 1845 scored john burnham born 28 august 1845 highest firstclass score of 73 against lancashire. john burnham born 28 august 1845 was a righthanded batsman and played 24 innings in 14 firstclass matches with an average of 11.50 and a top score of 73. john burnham born 28 august 1845 was a rightarm roundarm fast bowler and took 4 wickets at an average of 28.50 and a best performance of 2 for 11. john burnham born 28 august 1845 died in derby at the age of 30.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21875
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

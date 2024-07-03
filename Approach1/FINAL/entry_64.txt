@@ -1,0 +1,83 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Montreal and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Université_Laval and the value is : 1
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Université_Laval and the value is : 0
+http://dbpedia.org/resource/Quebec and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Quebec and http://dbpedia.org/resource/Université_Laval and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Université_Laval and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Quebec and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Montreal and the value is : 0
+http://dbpedia.org/resource/Quebec and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/Quebec and http://dbpedia.org/resource/Montreal and the value is : 1
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Montreal and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Quebec and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Liberalism and the value is : 1
+http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and http://dbpedia.org/resource/Liberalism and the value is : 0
+http://dbpedia.org/resource/Quebec and http://dbpedia.org/resource/Liberalism and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Quebec_Superior_Court and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Royal_commission and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Royal_commission and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Constitution and the value is : 1
+http://dbpedia.org/resource/Royal_commission and http://dbpedia.org/resource/Constitution and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Quebec and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Lawyer and the value is : 1
+http://dbpedia.org/resource/Quebec and http://dbpedia.org/resource/Lawyer and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Liberalism and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Ernest_Pacaud and the value is : 0
+http://dbpedia.org/resource/Quebec and http://dbpedia.org/resource/Ernest_Pacaud and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Diocesan_College and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Pierre_Laval and the value is : 1
+http://dbpedia.org/resource/Diocesan_College and http://dbpedia.org/resource/Pierre_Laval and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Quebec_City and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Thetford_Mines and the value is : 0
+http://dbpedia.org/resource/Quebec_City and http://dbpedia.org/resource/Thetford_Mines and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Elizabeth_I_of_England and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Police_commissioner and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Canadian_Pacific_Railway and the value is : 0
+http://dbpedia.org/resource/Police_commissioner and http://dbpedia.org/resource/Canadian_Pacific_Railway and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/High_commissioner and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/High_commissioner and the value is : 1
+http://dbpedia.org/resource/Lucien_Turcotte_Pacaud and http://dbpedia.org/resource/Peter_Charles_Larkin and the value is : 0
+http://dbpedia.org/resource/High_commissioner and http://dbpedia.org/resource/Peter_Charles_Larkin and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+lucien turcotte pacaud 18901962 was a canadian lawyer politician and judge. he was born in montreal quebec and studied law at université laval. he was called to the bar of quebec in 1914 and practiced law in montreal. he was elected to the legislative assembly of quebec in 1923 as a liberal and served until 1936. he was appointed to the quebec superior court in 1936 and served until his death in 1962. he was a member of the royal commission on dominionprovincial relations from 1937 to 1940. he was also a member of the royal commission on the constitution of canada from 1940 to 1942. 
+
+Coref Resolved : 
+lucien turcotte pacaud 18901962 was a canadian lawyer politician and judge. lucien turcotte pacaud 18901962 was born in montreal quebec and studied law at université laval. lucien turcotte pacaud 18901962 was called to the bar of quebec in 1914 and practiced law in montreal quebec . lucien turcotte pacaud 18901962 was elected to the legislative assembly of quebec in 1923 as a liberal and served until 1936. lucien turcotte pacaud 18901962 was appointed to the quebec superior court in 1936and served until lucien turcotte pacaud 18901962 death in 1962. lucien turcotte pacaud 18901962 was a member of the royal commission on dominionprovincial relations from 1937 to 1940. lucien turcotte pacaud 18901962 was also a member of the royal commission on the constitution of canada from 1940to 1942.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+lucien turcotte pacaud september 21 1879 march 5 1960 was a quebec lawyer and political figure. he represented mégantic in the canadian house of commons from 1911 to 1922 as a liberal member. he was born in troisrivières quebec in 1879 the son of ernest pacaud and the grandson of josephédouard turcotte. he was educated at bishops college and the university of laval. pacaud was admitted to the bar in 1904 and practiced at quebec city and then at thetford mines. in 1908 he married helen elizabeth buckmall. pacaud served as police commissioner for the transcontinental railway from 1907 to 1911. he was parliamentary under secretary of state for external affairs a noncabinet post from 1921 to 1922. he served as secretary to the canadian high commissioner at london from 1922 to 1931. in 1930 pacaud served as acting canadian high commissioner to the united kingdom after the death of peter charles larkin. 
+
+Coref Resolved : 
+lucien turcotte pacaud september 21 1879 march 5 1960 was a quebec lawyer and political figure. lucien turcotte pacaud represented mégantic in the canadian house of commons from 1911 to 1922 as a liberal member. lucien turcotte pacaud was born in troisrivières quebec in 1879 the son of ernest pacaud and the grandson of josephédouard turcotte. lucien turcotte pacaud was educated at bishops college and the university of laval. lucien turcotte pacaud was admitted to the bar in 1904 and practiced at quebec city and then at thetford mines. in 1908 lucien turcotte pacaud married helen elizabeth buckmall. lucien turcotte pacaud served as police commissioner for the transcontinental railway from 1907 to 1911 . lucien turcotte pacaud was parliamentary under secretary of state for external affairs a noncabinet post from 1921 to 1922. lucien turcotte pacaud served as secretary to the canadian high commissioner at london from 1922to 1931. in 1930 lucien turcotte pacaud served as acting canadian high commissioner to the united kingdom after the death of peter charles larkin.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.36363636363636365 and for ground truth is : 0.45454545454545453
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

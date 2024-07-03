@@ -1,0 +1,64 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Anatomy and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Embryology and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Riga and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Latvia and the value is : 0
+http://dbpedia.org/resource/Anatomy and http://dbpedia.org/resource/Embryology and the value is : 0
+http://dbpedia.org/resource/Anatomy and http://dbpedia.org/resource/Riga and the value is : 0
+http://dbpedia.org/resource/Anatomy and http://dbpedia.org/resource/Latvia and the value is : 1
+http://dbpedia.org/resource/Embryology and http://dbpedia.org/resource/Riga and the value is : 1
+http://dbpedia.org/resource/Embryology and http://dbpedia.org/resource/Latvia and the value is : 0
+http://dbpedia.org/resource/Riga and http://dbpedia.org/resource/Latvia and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Medicine and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/University_of_Tartu and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Humboldt_University_of_Berlin and the value is : 0
+http://dbpedia.org/resource/Medicine and http://dbpedia.org/resource/University_of_Tartu and the value is : 0
+http://dbpedia.org/resource/Medicine and http://dbpedia.org/resource/Humboldt_University_of_Berlin and the value is : 0
+http://dbpedia.org/resource/University_of_Tartu and http://dbpedia.org/resource/Humboldt_University_of_Berlin and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Professor and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Anatomy and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/University_of_Tartu and the value is : 1
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Anatomy and the value is : 1
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/University_of_Tartu and the value is : 1
+http://dbpedia.org/resource/Anatomy and http://dbpedia.org/resource/University_of_Tartu and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Chicken_as_biological_research_model and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Developmental_biology and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Egg_as_food and the value is : 0
+http://dbpedia.org/resource/Chicken_as_biological_research_model and http://dbpedia.org/resource/Developmental_biology and the value is : 0
+http://dbpedia.org/resource/Chicken_as_biological_research_model and http://dbpedia.org/resource/Egg_as_food and the value is : 1
+http://dbpedia.org/resource/Developmental_biology and http://dbpedia.org/resource/Egg_as_food and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Germ_layer and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Embryo and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Notochord and the value is : 0
+http://dbpedia.org/resource/Germ_layer and http://dbpedia.org/resource/Embryo and the value is : 0
+http://dbpedia.org/resource/Germ_layer and http://dbpedia.org/resource/Notochord and the value is : 0
+http://dbpedia.org/resource/Embryo and http://dbpedia.org/resource/Notochord and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Neural_tube and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Amniotic_sac and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Heart and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Blood_vessel and the value is : 0
+http://dbpedia.org/resource/Neural_tube and http://dbpedia.org/resource/Amniotic_sac and the value is : 0
+http://dbpedia.org/resource/Neural_tube and http://dbpedia.org/resource/Heart and the value is : 0
+http://dbpedia.org/resource/Neural_tube and http://dbpedia.org/resource/Blood_vessel and the value is : 0
+http://dbpedia.org/resource/Amniotic_sac and http://dbpedia.org/resource/Heart and the value is : 0
+http://dbpedia.org/resource/Amniotic_sac and http://dbpedia.org/resource/Blood_vessel and the value is : 0
+http://dbpedia.org/resource/Heart and http://dbpedia.org/resource/Blood_vessel and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Gastrulation and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Chicken_as_biological_research_model and the value is : 0
+http://dbpedia.org/resource/Gastrulation and http://dbpedia.org/resource/Chicken_as_biological_research_model and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+heinz christian pander 17941865 was a german anatomist and embryologist who was born in riga latvia. he studied medicine at the university of dorpat and later at the university of berlin. he was a professor of anatomy at the university of dorpat from 1820 to 1845. pander is best known for his work on the development of chick embryos which he described in his 1817 book beiträge zur entwickelungsgeschichte des hühnereies contributions to the developmental history of the chicken egg. he was the first to describe the three germ layers of the embryo the ectoderm mesoderm and endoderm and he was the first to describe the notochord. he also described the development of the neural tube the formation of the amniotic cavity and the development of the heart and blood vessels. he was the first to describe the process of gastrulation in chick embryos. 
+
+Coref Resolved : 
+heinz christian pander 17941865 was a german anatomist and embryologist who was born in riga latvia. heinz christian pander studied medicine at the university of dorpat and later at the university of berlin. heinz christian pander was a professor of anatomy at the university of dorpat from 1820 to 1845. heinz christian pander is best known for heinz christian pander work on the development of chick embryos which heinz christian pander described in heinz christian pander 1817 book beiträge zur entwickelungsgeschichte des hühnereies contributions to the developmental history of the chicken egg. heinz christian pander was the first to describe the three germ layers of the embryo the ectoderm mesoderm and endoderm and heinz christian pander was the first to describe the notochord. heinz christian pander also described the development of the neural tube the formation of the amniotic cavity and the development of the heart and blood vessels. heinz christian pander was the first to describe the process of gastrulation in chick embryos.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.23404255319148937
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate major_inaccurate major_inaccurate accurate accurate major_inaccurate major_inaccurate 
+

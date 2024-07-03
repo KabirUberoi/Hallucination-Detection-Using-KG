@@ -1,0 +1,33 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Bill_Brown_(cricketer) and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Bill_Brown_(cricketer) and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Clyde_F.C. and http://dbpedia.org/resource/Partick_Thistle_F.C. and the value is : 0
+http://dbpedia.org/resource/Clyde_F.C. and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 0
+http://dbpedia.org/resource/Partick_Thistle_F.C. and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 0
+http://dbpedia.org/resource/Glasgow_Warriors and http://dbpedia.org/resource/Clyde_F.C. and the value is : 0
+http://dbpedia.org/resource/Clyde_F.C. and http://dbpedia.org/resource/Partick_Thistle_F.C. and the value is : 0
+http://dbpedia.org/resource/Clyde_F.C. and http://dbpedia.org/resource/Celtic_music and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Scottish_Football_League and http://dbpedia.org/resource/Celtic_music and the value is : 1
+http://dbpedia.org/resource/1967_European_Cup_Final and http://dbpedia.org/resource/Celtic_music and the value is : 1
+http://dbpedia.org/resource/1967_European_Cup_Final and http://dbpedia.org/resource/Inter_Milan and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Inter_Milan and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Partick_Thistle_F.C. and the value is : 1
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Association_football and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+bill brown born 28 april 1932 is a former scottish football goalkeeper. he is best known for his time at celtic where he made over 500 appearances in all competitions between 1951 and 1967. he also played for clyde partick thistle and st mirren. brown was born in glasgow and began his career with clyde in 1951. he made his debut for the club in a 32 win over partick thistle in october 1951. he went on to make over 100 appearances for the club before moving to celtic in 1957. at celtic brown established himself as the clubs firstchoice goalkeeper making over 500 appearances in all competitions. he won four scottish league titles four scottish cups and two scottish league cups during his time at the club. he also played in the 1967 european cup final which celtic lost 21 to inter milan. brown left celtic in 1967 and joined partick thistle where he made over 100 appearances before retiring in 1970. he then joined st mirren as a coach before retiring from football in 1972. 
+
+Coref Resolved : 
+bill brown born 28 april 1932 is a former scottish football goalkeeper. brown is best known for brown time at celtic where brown made over 500 appearances in all competitions between 1951 and 1967. brown also played for clyde partick thistle and st mirren. brown was born in glasgow and began brown career with clyde in 1951 . brown made brown debut for clyde in a 32 win over partick thistle in october 1951. brown went on to make over 100 appearances for clyde before moving to celtic in 1957. at celtic brown established brown as the clubs firstchoice goalkeeper making over 500 appearances in all competitions. brown won four scottish league titles four scottish cups and two scottish league cups during brown time at celtic . brown also played in the 1967 european cup final which celtic lost 21 to inter milan. brown left celtic in 1967and joined partick thistle where brown made over 100 appearances before retiring in 1970. brown then joined st mirrenas a coach before retiring from football in 1972.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.25
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

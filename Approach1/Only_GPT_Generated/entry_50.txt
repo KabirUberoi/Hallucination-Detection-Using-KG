@@ -1,0 +1,53 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Louise_Hippolyte,_Princess_of_Monaco and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Louise_Hippolyte,_Princess_of_Monaco and the value is : 0
+http://dbpedia.org/resource/Monaco and http://dbpedia.org/resource/Louise_Hippolyte,_Princess_of_Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Culture and the value is : 1
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Monaco and http://dbpedia.org/resource/Culture and the value is : 1
+http://dbpedia.org/resource/Monaco and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Culture and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Library and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Learned_society and the value is : 0
+http://dbpedia.org/resource/Library and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Library and http://dbpedia.org/resource/Learned_society and the value is : 0
+http://dbpedia.org/resource/Monaco and http://dbpedia.org/resource/Learned_society and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Theatre and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Opera and the value is : 0
+http://dbpedia.org/resource/Theatre and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Theatre and http://dbpedia.org/resource/Opera and the value is : 0
+http://dbpedia.org/resource/Monaco and http://dbpedia.org/resource/Opera and the value is : 1
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Art_museum and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Art_museum and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/State_school and the value is : 1
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 1
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/State_school and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/State_school and http://dbpedia.org/resource/Monaco and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+honoré iii 14 october 1720 15 february 1795 was prince of monaco from 1731 to 1793. he was born in paris the son of jacques i prince of monaco and his wife louise hippolyte grimaldi. he succeeded his father as prince of monaco on his death in 1731. honoré iii was a great patron of the arts and sciences and during his reign monaco became a center of culture and learning. he established the first public library in monaco and founded the first scientific society in the country. he also built the first theater in monaco and commissioned the construction of the first opera house in the principality. he was also a great supporter of the arts and was responsible for the construction of the first art gallery in monaco. he was also a great supporter of the sciences and was responsible for the establishment of the first scientific academy in monaco. he was also a great supporter of education and was responsible for the establishment of the first public school in monaco. 
+
+Coref Resolved : 
+honoré iii 14 october 1720 15 february 1795 was prince of monaco from 1731 to 1793. honoré iii was born in paris the son of jacques i prince of monaco and jacques i prince of monaco wife louise hippolyte grimaldi. honoré iii succeeded honoré iii father as prince of monaco on jacques i prince of monaco death in 1731 . honoré iii was a great patron of the arts and sciences and during honoré iii reign monaco became a center of culture and learning. honoré iii established the first public library in monaco and founded the first scientific society in the country. honoré iii also built the first theater in monaco and commissioned the construction of the first opera house in monaco . honoré iii was also a great supporter of the arts and was responsible for the construction of the first art gallery in monaco . honoré iii was also a great supporter of the sciences and was responsible for the establishment of the first scientific academy in monaco . honoré iii was also a great supporter of education and was responsible for the establishment of the first public school in monaco .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16666666666666666
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

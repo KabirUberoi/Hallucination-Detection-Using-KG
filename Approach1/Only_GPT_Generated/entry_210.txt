@@ -1,0 +1,45 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Judge and the value is : 1
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Inverness and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Scotland and the value is : 1
+http://dbpedia.org/resource/Inverness and http://dbpedia.org/resource/Scotland and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Toronto and the value is : 1
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Toronto and the value is : 1
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Liberalism and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Toronto_Centre and the value is : 0
+http://dbpedia.org/resource/Liberalism and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Liberalism and http://dbpedia.org/resource/Toronto_Centre and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Toronto_Centre and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Supreme_Court_of_Canada and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Supreme_Court_of_Canada and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Temperance_movement and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+donald alexander mackinnon 18731936 was a scottishborn canadian lawyer politician and judge. he was born in inverness scotland and immigrated to canada in 1891. he was called to the bar in ontario in 1898 and practised law in toronto. he was elected to the house of commons of canada in 1904 as a liberal member of parliament for toronto centre. he was reelected in 1908 and 1911. in 1912 he was appointed to the supreme court of ontario where he served until his death in 1936. he was a strong advocate for the rights of women and children and was instrumental in the passage of the ontario married womens property act of 1914. he was also a strong supporter of the temperance movement. 
+
+Coref Resolved : 
+donald alexander mackinnon 18731936 was a scottishborn canadian lawyer politician and judge. donald alexander mackinnon was born in inverness scotland and immigrated to canada in 1891. donald alexander mackinnon was called to the bar in ontario in 1898 and practised law in toronto. donald alexander mackinnon was elected to the house of commons of canada in 1904 as a liberal member of parliament for toronto centre. donald alexander mackinnon was reelected in 1908 and 1911. in 1912 donald alexander mackinnon was appointed to the supreme court of ontario where donald alexander mackinnon served until donald alexander mackinnon death in 1936. donald alexander mackinnon was a strong advocate for the rights of women and children and was instrumental in the passage of the ontario married womens property act of 1914. donald alexander mackinnon was also a strong supporter of the temperance movement.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.17857142857142858
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

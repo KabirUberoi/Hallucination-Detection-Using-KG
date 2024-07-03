@@ -1,0 +1,113 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Prince and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Jean-Jacques_Dessalines and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Prince and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Jean-Jacques_Dessalines and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Prince and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Louise_Hippolyte,_Princess_of_Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Prince and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Jean-Jacques_Dessalines and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Prince and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Library and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Learned_society and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Opera and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/State_school and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Prince and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Duke and the value is : 1
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Valence,_Drôme and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Jean-Jacques_Dessalines and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Prince and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Jean-Jacques_Dessalines and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Prince and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Hippolyta and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Hôtel_Matignon and the value is : 1
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Prince and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Monaco and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Antonio_I,_Prince_of_Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Chevalier_de_Grimaldi and the value is : 1
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Regent and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Antonio_I,_Prince_of_Monaco and the value is : 1
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/French_Revolution and the value is : 0
+http://dbpedia.org/resource/Honoré_III,_Prince_of_Monaco and http://dbpedia.org/resource/Pinniped and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Honoré III (14 October 1720 15 February 1795) was Prince of Monaco from 1731 to 1793.
+He was born in Paris, the son of Jacques I, Prince of Monaco, and his wife, Louise Hippolyte Grimaldi.
+He succeeded his father as Prince of Monaco on his death in 1731.
+Honoré III was a great patron of the arts and sciences, and during his reign, Monaco became a center of culture and learning.
+He established the first public library in Monaco, and founded the first scientific society in the country.
+He also built the first theater in Monaco, and commissioned the construction of the first opera house in the principality.
+He was also a great supporter of the arts, and was responsible for the construction of the first art gallery in Monaco.
+He was also a great supporter of the sciences, and was responsible for the establishment of the first scientific academy in Monaco.
+He was also a great supporter of education, and was responsible for the establishment of the first public school in Monaco.
+
+
+Coref Resolved: 
+
+Honoré III (14 October 1720 15 February 1795) was Prince of Monaco from 1731 to 1793.
+Honoré III was born in Paris, the son of Jacques I, Prince of Monaco , and Jacques I, Prince of Monacowife, Louise Hippolyte Grimaldi.
+Honoré III succeeded Honoré III father as Prince of Monaco on Jacques I, Prince of Monacodeath in 1731 .
+Honoré III was a great patron of the arts and sciences, and during Honoré III reign, Monaco became a center of culture and learning.
+Honoré III established the first public library in Monaco , and founded the first scientific society in Monaco .
+Honoré III also built the first theater in Monaco , and commissioned the construction of the first opera house in Monaco .
+Honoré III was also a great supporter of the arts, and was responsible for the construction of the first art gallery in Monaco .
+Honoré III was also a great supporter of the sciences, and was responsible for the establishment of the first scientific academy in Monaco .
+Honoré III was also a great supporter of education, and was responsible for the establishment of the first public school in Monaco .
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Honoré III (10 November 1720 - 21 March 1795) ruled as Prince of Monaco and was Duke of Valentinois for almost sixty years, from 1733 to 1793.
+Honoré was the son of Jacques I, Prince of Monaco, and his wife, Louise Hippolyte, Princess of Monaco.
+On 20 May 1732, he moved to Hôtel Matignon in Paris with his father and remained there, even after the proclamation in 1733 of him as Prince of Monaco.
+Antoine Grimaldi, le Chevalier de Grimaldi, acted as regent for the Prince between 1732 and 1784, when Honoré chose to reside in Paris.
+This situation remained the same for half a century until Antoine's death in 1784, when Honoré III was already 64 years old.
+Although he was open to the revolutionary ideas of the time, he was imprisoned on 20 September 1793.
+At his liberation a year later, he was ruined, and his property was under seal.
+ 
+
+Coref Resolved: 
+
+Honoré III (10 November 1720 - 21 March 1795) ruled as Prince of Monaco and was Duke of Valentinois for almost sixty years, from 1733 to 1793.
+Honoré III (10 November 1720 - 21 March 1795) was the son of Jacques I, Prince of Monaco , and Jacques I, Prince of Monacowife, Louise Hippolyte, Princess of Monaco.
+On 20 May 1732, Honoré III (10 November 1720 - 21 March 1795) moved to Hôtel Matignon in Paris with Honoré III (10 November 1720 - 21 March 1795) father and remained there, even after the proclamation in 1733 of Honoré III (10 November 1720 - 21 March 1795) as Prince of Monaco .
+Antoine Grimaldi, le Chevalier de Grimaldi, This situation as regent for Honoré III (10 November 1720 - 21 March 1795) between 1732and 1784, when Honoré III (10 November 1720 - 21 March 1795) chose to reside in Paris .
+This situation remained the same for half a century until Antoine Grimaldi, le Chevalier de Grimaldideath in 1784, when Honoré III (10 November 1720 - 21 March 1795) was already 64 years old.
+Although Honoré III (10 November 1720 - 21 March 1795) was open to the revolutionary ideas of the time, Honoré III (10 November 1720 - 21 March 1795) was imprisoned on 20 September 1793.
+At Honoré III (10 November 1720 - 21 March 1795) liberation a year later, Honoré III (10 November 1720 - 21 March 1795) was ruined, and Honoré III (10 November 1720 - 21 March 1795) property was under seal.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.14285714285714285 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+Value for ground truth is : 
+0.25 0.0 0.25 0.5 1.0 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

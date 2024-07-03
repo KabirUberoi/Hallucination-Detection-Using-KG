@@ -1,0 +1,124 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Playwright and the value is : 1
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Missing_in_action and the value is : 0
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Laurence_Olivier_Award and the value is : 1
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Laurence_Olivier_Award and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Royal_Court_Theatre and http://dbpedia.org/resource/Royal_Shakespeare_Company and the value is : 0
+http://dbpedia.org/resource/UK_Theatre_Awards and http://dbpedia.org/resource/Evening_Standard_Theatre_Awards and the value is : 0
+http://dbpedia.org/resource/UK_Theatre_Awards and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/UK_Theatre_Awards and http://dbpedia.org/resource/Circle and the value is : 0
+http://dbpedia.org/resource/Evening_Standard_Theatre_Awards and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Evening_Standard_Theatre_Awards and http://dbpedia.org/resource/Circle and the value is : 0
+http://dbpedia.org/resource/Playwright and http://dbpedia.org/resource/Circle and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Playwright and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Missing_in_action and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Screenplay and the value is : 1
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Missing_in_action and the value is : 0
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Screenplay and the value is : 1
+http://dbpedia.org/resource/Missing_in_action and http://dbpedia.org/resource/Screenplay and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Wickwar and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Wotton-under-Edge and the value is : 0
+http://dbpedia.org/resource/Wickwar and http://dbpedia.org/resource/Wotton-under-Edge and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Bristol_board and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Bristol_board and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Bristol_board and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Paper and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Rag_doll and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Pseudonym and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Get_Smart and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Incest and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Child_abuse and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Bristol_board and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Vicar and the value is : 0
+http://dbpedia.org/resource/Rag_doll and http://dbpedia.org/resource/Pseudonym and the value is : 0
+http://dbpedia.org/resource/Rag_doll and http://dbpedia.org/resource/Get_Smart and the value is : 0
+http://dbpedia.org/resource/Rag_doll and http://dbpedia.org/resource/Incest and the value is : 0
+http://dbpedia.org/resource/Rag_doll and http://dbpedia.org/resource/Child_abuse and the value is : 0
+http://dbpedia.org/resource/Rag_doll and http://dbpedia.org/resource/Bristol_board and the value is : 0
+http://dbpedia.org/resource/Rag_doll and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Rag_doll and http://dbpedia.org/resource/Vicar and the value is : 0
+http://dbpedia.org/resource/Pseudonym and http://dbpedia.org/resource/Get_Smart and the value is : 0
+http://dbpedia.org/resource/Pseudonym and http://dbpedia.org/resource/Incest and the value is : 0
+http://dbpedia.org/resource/Pseudonym and http://dbpedia.org/resource/Child_abuse and the value is : 1
+http://dbpedia.org/resource/Pseudonym and http://dbpedia.org/resource/Bristol_board and the value is : 0
+http://dbpedia.org/resource/Pseudonym and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Pseudonym and http://dbpedia.org/resource/Vicar and the value is : 0
+http://dbpedia.org/resource/Get_Smart and http://dbpedia.org/resource/Incest and the value is : 0
+http://dbpedia.org/resource/Get_Smart and http://dbpedia.org/resource/Child_abuse and the value is : 0
+http://dbpedia.org/resource/Get_Smart and http://dbpedia.org/resource/Bristol_board and the value is : 0
+http://dbpedia.org/resource/Get_Smart and http://dbpedia.org/resource/Playwright and the value is : 1
+http://dbpedia.org/resource/Get_Smart and http://dbpedia.org/resource/Vicar and the value is : 0
+http://dbpedia.org/resource/Incest and http://dbpedia.org/resource/Child_abuse and the value is : 0
+http://dbpedia.org/resource/Incest and http://dbpedia.org/resource/Bristol_board and the value is : 0
+http://dbpedia.org/resource/Incest and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Incest and http://dbpedia.org/resource/Vicar and the value is : 0
+http://dbpedia.org/resource/Child_abuse and http://dbpedia.org/resource/Bristol_board and the value is : 0
+http://dbpedia.org/resource/Child_abuse and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Child_abuse and http://dbpedia.org/resource/Vicar and the value is : 0
+http://dbpedia.org/resource/Bristol_board and http://dbpedia.org/resource/Playwright and the value is : 1
+http://dbpedia.org/resource/Bristol_board and http://dbpedia.org/resource/Vicar and the value is : 0
+http://dbpedia.org/resource/Playwright and http://dbpedia.org/resource/Vicar and the value is : 0
+http://dbpedia.org/resource/Bush_Theatre and http://dbpedia.org/resource/Bristol_board and the value is : 0
+http://dbpedia.org/resource/Bush_Theatre and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Bush_Theatre and http://dbpedia.org/resource/Love_Hurts and the value is : 0
+http://dbpedia.org/resource/Bush_Theatre and http://dbpedia.org/resource/Byker_Grove and the value is : 0
+http://dbpedia.org/resource/Bristol_board and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Bristol_board and http://dbpedia.org/resource/Love_Hurts and the value is : 1
+http://dbpedia.org/resource/Bristol_board and http://dbpedia.org/resource/Byker_Grove and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Love_Hurts and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Byker_Grove and the value is : 1
+http://dbpedia.org/resource/Love_Hurts and http://dbpedia.org/resource/Byker_Grove and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Bristol_board and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Pimlico and the value is : 0
+http://dbpedia.org/resource/Bristol_board and http://dbpedia.org/resource/Pimlico and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Bursary and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Bursary and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Wotton-under-Edge and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Movie_theater and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Bristol_Cars and the value is : 0
+http://dbpedia.org/resource/Catherine_Johnson_(playwright) and http://dbpedia.org/resource/Thornbury_Castle and the value is : 0
+http://dbpedia.org/resource/Wotton-under-Edge and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Wotton-under-Edge and http://dbpedia.org/resource/Movie_theater and the value is : 0
+http://dbpedia.org/resource/Wotton-under-Edge and http://dbpedia.org/resource/Bristol_Cars and the value is : 0
+http://dbpedia.org/resource/Wotton-under-Edge and http://dbpedia.org/resource/Thornbury_Castle and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Movie_theater and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Bristol_Cars and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Thornbury_Castle and the value is : 0
+http://dbpedia.org/resource/Movie_theater and http://dbpedia.org/resource/Bristol_Cars and the value is : 0
+http://dbpedia.org/resource/Movie_theater and http://dbpedia.org/resource/Thornbury_Castle and the value is : 0
+http://dbpedia.org/resource/Bristol_Cars and http://dbpedia.org/resource/Thornbury_Castle and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+catherine johnson born 1964 is a british playwright. she is best known for writing the book for the musical mamma mia which has been seen by over 60 million people worldwide. johnsons other works include the musicals our house which won the 2003 olivier award for best new musical and here lies love which was nominated for the 2010 olivier award for best new musical. she has also written plays for the royal court theatre the national theatre and the royal shakespeare company. johnson has been awarded the tma award for best new play the evening standard award for most promising playwright and the critics circle award for most promising playwright. 
+
+Coref Resolved : 
+catherine johnson born 1964 is a british playwright. johnsons is best known for writing the book for the musical mamma mia which has been seen by over 60 million people worldwide. johnsons other works include the musicals our house which won the 2003 olivier award for best new musical and here lies love which was nominated for the 2010 olivier award for best new musical. johnsons has also written plays for the royal court theatre the national theatre and the royal shakespeare company. johnsons has been awarded the tma award for best new play the evening standard award for most promising playwright and the critics circle award for most promising playwright.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+catherine johnson born 14 october 1957 is a british playwright producing works for stage and television. she is best known for her script for the musical mamma mia and screenplay for the film of the same name which became the highest grossing uk film of all time and the biggest selling uk dvd of all time in january 2009. johnson grew up in wickwar near wottonunderedge and attended katharine lady berkeleys school in wotton. she was expelled from school at 16 married at 18 and divorced by the age of 24. she moved to bristol and finding herself unemployed and with one child to support and another on the way she spotted a notice in the local paper for the bristol old vichtv west playwriting competition. she wrote rag doll using the pseudonym maxwell smart a play about incest and child abuse which won the competition and was staged by the bristol old vic. further plays for the bush theatre in london bristol old vic and show of strength followed along with work on television series including casualty love hurts and byker grove. johnson lives in bristol and also owns a house in pimlico london. in 2007 johnson instituted the catherine johnson award for best play written by the five pearson playwrights scheme bursary winners from the previous year. catherine won a bursary from the scheme in 1991. she is a patron of the wotton electric picture house in wottonunderedge bristols myrtle theatre company and arts and community in thornbury. 
+
+Coref Resolved : 
+catherine johnson born 14 october 1957 is a british playwright producing works for stage and television. catherine johnson born 14 october 1957 is best known for catherine johnson born 14 october 1957 script for the musical mamma mia and screenplay for the film of the same name which became the highest grossing uk film of all time and the biggest selling uk dvd of all time in january 2009. catherine johnson born 14 october 1957 grew up in wickwar near wottonunderedge and attended katharine lady berkeleys school in wotton. catherine johnson born 14 october 1957 was expelled from school at 16 married at 18 and divorced by the age of 24. catherine johnson born 14 october 1957 moved to bristol and finding catherine johnson born 14 october 1957 unemployed and with one child to support and another on the way catherine johnson born 14 october 1957 spotted a notice in the local paper for the bristol old vichtv west playwriting competition. catherine johnson born 14 october 1957 wrote rag doll using the pseudonym maxwell smart a play about incest and child abuse which won the bristol old vichtv west playwriting competitionand was staged by the bristol old vic. further plays for the bush theatre in london bristol old vic and show of strength followed along with work on television series including casualty love hurts and byker grove. catherine johnson born 14 october 1957 lives in bristol and also owns a house in pimlico london . in 2007 catherine johnson born 14 october 1957 instituted the catherine johnson born 14 october 1957 award for best play written by the five pearson playwrights scheme bursary winners from the previous year. catherine johnson born 14 october 1957 won a bursary from the scheme in 1991. catherine johnson born 14 october 1957 is a patron of the wotton electric picture house in wottonunderedge bristols myrtle theatre company and arts and community in thornbury.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16666666666666666 and for ground truth is : 0.08333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate major_inaccurate major_inaccurate 
+

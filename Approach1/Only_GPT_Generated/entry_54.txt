@@ -1,0 +1,35 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Tailor and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Fashion and the value is : 0
+http://dbpedia.org/resource/Tailor and http://dbpedia.org/resource/Fashion and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/The_Rolling_Stones and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Elton_John and the value is : 0
+http://dbpedia.org/resource/The_Rolling_Stones and http://dbpedia.org/resource/Elton_John and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Apprenticeship and the value is : 1
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Tailor and the value is : 1
+http://dbpedia.org/resource/Apprenticeship and http://dbpedia.org/resource/Tailor and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Savile_Row and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Fashion and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Denim and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Wave and the value is : 0
+http://dbpedia.org/resource/Tommy_Nutter and http://dbpedia.org/resource/Fashion and the value is : 1
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/Wave and the value is : 1
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/Fashion and the value is : 0
+http://dbpedia.org/resource/Wave and http://dbpedia.org/resource/Fashion and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tommy nutter 19431992 was a british tailor who was a major figure in the fashion world of the late 1960s and early 1970s. he was known for his flamboyant style and his work with the rolling stones elton john and other celebrities. he was born in london and began his career as an apprentice tailor at the age of 15. he opened his own shop nutters of savile row in 1969. his designs were known for their bold colors and patterns and he was one of the first to introduce the peacock look to mens fashion. he was also one of the first to use denim in mens suits. he was a major influence on the punk and new wave fashion movements of the late 1970s and early 1980s. he died of aidsrelated complications in 1992. 
+
+Coref Resolved : 
+tommy nutter 19431992 was a british tailor who was a major figure in the fashion world of the late 1960s and early 1970s. tommy nutter 19431992 was known for tommy nutter 19431992 flamboyant style and tommy nutter 19431992 work with the rolling stones elton john and other celebrities. tommy nutter 19431992 was born in london and began tommy nutter 19431992 career as an apprentice tailor at the age of 15. tommy nutter 19431992 opened tommy nutter 19431992 own shop nutters of savile row in 1969. tommy nutter 19431992 designs were known for his designs bold colors and patterns and tommy nutter 19431992 was one of the first to introduce the peacock look to mens fashion. tommy nutter 19431992 was also one of the first to use denim in mens suits. tommy nutter 19431992 was a major influence on the punk and new wave fashion movements of the late 1970s and early 1980s. tommy nutter 19431992 died of aidsrelated complications in 1992.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3888888888888889
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate major_inaccurate accurate accurate accurate minor_inaccurate accurate 
+

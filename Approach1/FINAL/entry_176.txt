@@ -1,0 +1,64 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Gold_medal and the value is : 1
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Freestyle_swimming and the value is : 1
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Gender and the value is : 0
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Michael_Phelps and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Gender and the value is : 1
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Michael_Phelps and the value is : 1
+http://dbpedia.org/resource/Gender and http://dbpedia.org/resource/Michael_Phelps and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Genevieve and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Genevieve and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/Genevieve and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Genevieve and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Genevieve and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Genevieve and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Genevieve and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Genevieve and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Genevieve and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Genevieve and http://dbpedia.org/resource/Pan_Pacific_Swimming_Championships and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Pan_Pacific_Swimming_Championships and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Pan_Pacific_Swimming_Championships and the value is : 0
+http://dbpedia.org/resource/Genevieve and http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Genevieve and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Genevieve and http://dbpedia.org/resource/FINA and the value is : 0
+http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics and http://dbpedia.org/resource/FINA and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/FINA and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+katie ledecky born march 17 1997 is an american competitive swimmer. she has won five olympic gold medals and 15 world championship gold medals the most in history for a female swimmer. ledecky holds the world records in the womens 400 800 and 1500meter freestyle long course. she also holds the fastestever times in the womens 500 1000 and 1650yard freestyle short course. ledecky has broken 28 world records in her career. she is the first woman to have won the 200 400 800 and 1500meter freestyle events at a major international competition. ledecky is the most decorated female swimmer in world championship history and the secondmost decorated swimmer of either gender behind only michael phelps. 
+
+Coref Resolved : 
+katie ledecky born march 17 1997 is an american competitive swimmer. katie ledecky born march 17 1997 has won five olympic gold medals and 15 world championship gold medals the most in history for a female swimmer. katie ledecky born march 17 1997 holds the world records in the womens 400 800 and 1500meter freestyle long course. katie ledecky born march 17 1997 also holds the fastestever times in the womens 500 1000 and 1650yard freestyle short course. katie ledecky born march 17 1997 has broken 28 world records in katie ledecky born march 17 1997 career. katie ledecky born march 17 1997 is the first woman to have won the 200 400 800 and 1500meter freestyle events at a major international competition. katie ledecky born march 17 1997 is the most decorated female swimmer in world championship history and the secondmost decorated swimmer of either gender behind only michael phelps.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+kathleen genevieve ledecky born march 17 1997 is an american competition swimmer olympic gold medalist ninetime world champion and current world record holder in multiple events. she is the current world recordholder in the 400 800 and 1500meter freestyle long course. she also holds the fastestever times in the 500 and 1650yard freestyles. in her international debut at the 2012 summer olympics as a 15yearold ledecky unexpectedly won gold in the 800meter freestyle in what was the secondfastest performance ever. in total she has won fifteen medals in major international competitions all of them gold spanning the summer olympics the world championships and the pan pacific championships. during her career she has broken ten world records. ledeckys success has earned her swimming worlds world swimmer of the year and the american swimmer of the year awards in 2013 and 2014 as well as the fina swimmer of the year award in 2013. ledecky was also named the international female champion of champions by léquipe in 2014. 
+
+Coref Resolved : 
+kathleen genevieve ledecky born march 17 1997 is an american competition swimmer olympic gold medalist ninetime world champion and current world record holder in multiple events. kathleen genevieve ledecky born march 17 1997 is the current world recordholder in the 400 800 and 1500meter freestyle long course. kathleen genevieve ledecky born march 17 1997 also holds the fastestever times in the 500 and 1650yard freestyles. in kathleen genevieve ledecky born march 17 1997 international debut at the 2012 summer olympics as a 15yearold kathleen genevieve ledecky born march 17 1997 unexpectedly won gold in the 800meter freestyle in what was the secondfastest performance ever. in total kathleen genevieve ledecky born march 17 1997 has won fifteen medals in major international competitions all of fifteen medals in major international competitions all of them gold gold spanning the 2012 summer olympics the world championships and the pan pacific championships. during kathleen genevieve ledecky born march 17 1997 career kathleen genevieve ledecky born march 17 1997 has broken ten world records. kathleen genevieve ledecky born march 17 1997 success has earned kathleen genevieve ledecky born march 17 1997 swimming worlds world swimmer of the year and the american swimmer of the year awards in 2013 and 2014 as well as the fina swimmer of the year award in 2013 . kathleen genevieve ledecky born march 17 1997 was also named the international female champion of champions by léquipe in 2014 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3076923076923077 and for ground truth is : 0.0
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate accurate accurate major_inaccurate minor_inaccurate accurate 
+

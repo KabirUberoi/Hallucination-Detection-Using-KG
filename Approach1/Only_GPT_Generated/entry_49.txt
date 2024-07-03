@@ -1,0 +1,55 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Comedian and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Comedian and the value is : 0
+http://dbpedia.org/resource/Character_actor and http://dbpedia.org/resource/Comedian and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Television_show and the value is : 1
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Porridge and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Television_show and the value is : 1
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Porridge and the value is : 1
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Porridge and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Repertory_theatre and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Police_procedural and the value is : 0
+http://dbpedia.org/resource/Repertory_theatre and http://dbpedia.org/resource/Police_procedural and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/British_sitcom and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/John_Cleese and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 1
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/John_Cleese and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/John_Cleese and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/John_Cleese and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/Ronnie_Corbett and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Barker_(occupation) and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/BBC_Television and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/Barker_(occupation) and http://dbpedia.org/resource/BBC_Television and the value is : 0
+http://dbpedia.org/resource/Barker_(occupation) and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/BBC_Television and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/Porridge and http://dbpedia.org/resource/William_George_Barker and the value is : 0
+http://dbpedia.org/resource/Porridge and http://dbpedia.org/resource/British_Academy_Television_Awards and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/British_Academy_Television_Awards and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/British_sitcom and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Porridge and the value is : 0
+http://dbpedia.org/resource/British_sitcom and http://dbpedia.org/resource/Porridge and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+ronald william george barker obe 25 september 1929 3 october 2005 was an english actor comedian and writer. he was known for roles in british comedy television series such as porridge the two ronnies and open all hours. barkers acting career began in repertory theatre and in the early 1960s he appeared in several episodes of the bbcs police series zcars. he also had minor roles in films such as the magnificent seven 1960 and the wrong arm of the law 1963. in 1965 he was cast in the lead role of the bbcs sitcom the frost report which also featured john cleese ronnie corbett and other future stars of british comedy. barkers career reached its peak in the 1970s with the bbc sketch show the two ronnies which he cowrote and performed with ronnie corbett. the show ran for 16 years and earned barker two bafta awards. he also starred in the sitcoms porridge 19741977 and open all hours 19731985. b 
+
+Coref Resolved : 
+ronald william george barker obe 25 september 1929 3 october 2005 was an english actor comedian and writer. ronald william george barker was known for roles in british comedy television series such as porridge the two ronnies and open all hours. ronald william george barker acting career began in repertory theatre and in the early 1960s ronald william george barker appeared in several episodes of the bbcs police series zcars. ronald william george barker also had minor roles in films such as the magnificent seven 1960 and the wrong arm of the law 1963. in 1965 ronald william george barker was cast in the lead role of the bbcs sitcom the frost report which also featured john cleese ronnie corbett and other future stars of british comedy. ronald william george barker career reached barkers career peak in the 1970s with the bbc sketch show the two ronnies which ronald william george barker cowrote and performed with ronnie corbett . porridge the two ronnies ran for 16 years and earned ronald william george barker two bafta awards. ronald william george barker also starred in the sitcoms porridge 19741977 and open all hours19731985. b
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10526315789473684
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate accurate accurate accurate minor_inaccurate 
+

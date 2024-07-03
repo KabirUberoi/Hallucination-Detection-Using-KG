@@ -1,0 +1,117 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/CBS and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/CBS and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Character_actor and http://dbpedia.org/resource/CBS and the value is : 0
+http://dbpedia.org/resource/Character_actor and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Golden_Age_of_Radio and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Golden_Age_of_Radio and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Golden_Age_of_Radio and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/Golden_Age_of_Radio and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Liberty and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Sting_operation and the value is : 1
+http://dbpedia.org/resource/Liberty and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Liberty and http://dbpedia.org/resource/Sting_operation and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Sting_operation and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/The_Andy_Griffith_Show and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Untouchability and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Twilight and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/The_Andy_Griffith_Show and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Untouchability and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Twilight and the value is : 0
+http://dbpedia.org/resource/The_Andy_Griffith_Show and http://dbpedia.org/resource/Untouchability and the value is : 0
+http://dbpedia.org/resource/The_Andy_Griffith_Show and http://dbpedia.org/resource/Twilight and the value is : 0
+http://dbpedia.org/resource/Untouchability and http://dbpedia.org/resource/Twilight and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/CBS and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/CBS and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Rifleman and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Silent_film and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Children's_film and the value is : 0
+http://dbpedia.org/resource/Silent_film and http://dbpedia.org/resource/Children's_film and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Absolute_monarchy and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Visual_impairment and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Corporate_spin-off and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Archie_Bunker and the value is : 0
+http://dbpedia.org/resource/Absolute_monarchy and http://dbpedia.org/resource/Visual_impairment and the value is : 0
+http://dbpedia.org/resource/Absolute_monarchy and http://dbpedia.org/resource/Corporate_spin-off and the value is : 0
+http://dbpedia.org/resource/Absolute_monarchy and http://dbpedia.org/resource/Archie_Bunker and the value is : 0
+http://dbpedia.org/resource/Visual_impairment and http://dbpedia.org/resource/Corporate_spin-off and the value is : 0
+http://dbpedia.org/resource/Visual_impairment and http://dbpedia.org/resource/Archie_Bunker and the value is : 0
+http://dbpedia.org/resource/Corporate_spin-off and http://dbpedia.org/resource/Archie_Bunker and the value is : 1
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Physician and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Bartender and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/United_States_Navy and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/The_Mary_Tyler_Moore_Show and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Physician and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Bartender and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/United_States_Navy and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/The_Mary_Tyler_Moore_Show and the value is : 0
+http://dbpedia.org/resource/Physician and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Physician and http://dbpedia.org/resource/Bartender and the value is : 0
+http://dbpedia.org/resource/Physician and http://dbpedia.org/resource/United_States_Navy and the value is : 1
+http://dbpedia.org/resource/Physician and http://dbpedia.org/resource/The_Mary_Tyler_Moore_Show and the value is : 0
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/Bartender and the value is : 0
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/United_States_Navy and the value is : 0
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/The_Mary_Tyler_Moore_Show and the value is : 1
+http://dbpedia.org/resource/Bartender and http://dbpedia.org/resource/United_States_Navy and the value is : 0
+http://dbpedia.org/resource/Bartender and http://dbpedia.org/resource/The_Mary_Tyler_Moore_Show and the value is : 0
+http://dbpedia.org/resource/United_States_Navy and http://dbpedia.org/resource/The_Mary_Tyler_Moore_Show and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Universal_Pictures and the value is : 1
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Don_Knotts and the value is : 0
+http://dbpedia.org/resource/Universal_Pictures and http://dbpedia.org/resource/Don_Knotts and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Bob_Newhart and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Bob_cut and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Virginia and the value is : 0
+http://dbpedia.org/resource/Bob_cut and http://dbpedia.org/resource/Virginia and the value is : 1
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/Camarillo_Airport and the value is : 0
+http://dbpedia.org/resource/Bill_Quinn and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Camarillo_Airport and http://dbpedia.org/resource/California and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+william bill quinn april 28 1912 april 22 1994 was an american actor best known for his role as ralph hourback on the cbs television series the rifleman. quinn was born in new york city and began his career in the 1930s as a radio actor. he appeared in numerous films including the man who shot liberty valance 1962 the music man 1962 and the sting 1973. he also appeared in television series such as the andy griffith show the untouchables and the twilight zone. quinn was a regular on the rifleman appearing in all 168 episodes of the series. he also directed several episodes of the show. quinn died in 1994 at the age of 81. 
+
+Coref Resolved : 
+william bill quinn april 28 1912 april 22 1994 was an american actor best known for william bill quinn role as ralph hourback on the cbs television series the rifleman. william bill quinn was born in new york city and began william bill quinn career in the 1930s as a radio actor. william bill quinn appeared in numerous films including the man who shot liberty valance 1962 the music man 1962 and the sting 1973. william bill quinn also appeared in television series such as the andy griffith show the untouchables and the twilight zone. william bill quinn was a regular on the cbs television series the riflemanappearing in all 168 episodes of the cbs television series the rifleman. william bill quinn also directed several episodes of the cbs television series the rifleman. william bill quinn died in 1994 at the age of 81.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+bill quinn may 6 1912 april 29 1994 was an american actor. quinn appeared in more than 150 acting roles over seven decades starting in the 1920s in silent films and ending in 1989 in all in the family. he is best remembered as archies blind friend mr. van ranseleer in all in the family and later as a regular in the spinoff archie bunkers place. his other television roles include the odd couple in which he played the recurring role of the roommates physician dr. melnitz the rifleman as sweeney the bartender mchales navy and marys father in the mary tyler moore show. in 1971 he was featured in the universal pictures movie how to frame a figg starring don knotts. quinn was also the fatherinlaw of bob newhart. he is the father of newharts wife virginia quinn newhart. quinn died at the age of 81 in camarillo california of natural causes. 
+
+Coref Resolved : 
+bill quinn may 6 1912 april 29 1994 was an american actor. bill quinn appeared in more than 150 acting roles over seven decades starting in the 1920s in silent films and ending in 1989 in all in the family. bill quinn is best remembered as archies blind friend mr. van ranseleer in all in the familyand later as a regular in the spinoff archie bunkers place. bill quinn other television roles include the odd couple in which bill quinn played the recurring role of the roommates physician dr. melnitz the rifleman as sweeney the bartender mchales navy and marys father in the mary tyler moore show. in 1971 bill quinn was featured in the universal pictures movie how to frame a figg starring don knotts. bill quinn was also the fatherinlaw of bob newhart. bill quinn is the father of bob newhartwife virginia quinn newhart. bill quinn died at the age of 81 in camarillo california of natural causes.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.023809523809523808 and for ground truth is : 0.10638297872340426
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate accurate 
+

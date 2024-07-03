@@ -1,0 +1,51 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Chinese_dragon and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Singaporeans and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Prime_Minister_of_Thailand and the value is : 0
+http://dbpedia.org/resource/Chinese_dragon and http://dbpedia.org/resource/Singaporeans and the value is : 0
+http://dbpedia.org/resource/Chinese_dragon and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Chinese_dragon and http://dbpedia.org/resource/Prime_Minister_of_Thailand and the value is : 0
+http://dbpedia.org/resource/Singaporeans and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Singaporeans and http://dbpedia.org/resource/Prime_Minister_of_Thailand and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Prime_Minister_of_Thailand and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Chinese_dragon and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Goh_Chok_Tong and the value is : 0
+http://dbpedia.org/resource/Chinese_dragon and http://dbpedia.org/resource/Goh_Chok_Tong and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Chinese_dragon and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Prime_Minister_of_Thailand and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Lee_Kuan_Yew and the value is : 0
+http://dbpedia.org/resource/Chinese_dragon and http://dbpedia.org/resource/Prime_Minister_of_Thailand and the value is : 0
+http://dbpedia.org/resource/Chinese_dragon and http://dbpedia.org/resource/Lee_Kuan_Yew and the value is : 0
+http://dbpedia.org/resource/Prime_Minister_of_Thailand and http://dbpedia.org/resource/Lee_Kuan_Yew and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Chinese_dragon and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Polish_Press_Agency and the value is : 0
+http://dbpedia.org/resource/Chinese_dragon and http://dbpedia.org/resource/Polish_Press_Agency and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Chinese_dragon and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Monetary_economics and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Innovation and the value is : 0
+http://dbpedia.org/resource/Chinese_dragon and http://dbpedia.org/resource/Monetary_economics and the value is : 0
+http://dbpedia.org/resource/Chinese_dragon and http://dbpedia.org/resource/Innovation and the value is : 0
+http://dbpedia.org/resource/Monetary_economics and http://dbpedia.org/resource/Innovation and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Chinese_dragon and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Prime_Minister_of_Thailand and the value is : 0
+http://dbpedia.org/resource/Xian_(Taoism) and http://dbpedia.org/resource/Goh_Chok_Tong and the value is : 0
+http://dbpedia.org/resource/Chinese_dragon and http://dbpedia.org/resource/Prime_Minister_of_Thailand and the value is : 0
+http://dbpedia.org/resource/Chinese_dragon and http://dbpedia.org/resource/Goh_Chok_Tong and the value is : 0
+http://dbpedia.org/resource/Prime_Minister_of_Thailand and http://dbpedia.org/resource/Goh_Chok_Tong and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+lee hsien loong born 10 february 1952 is a singaporean politician who is the current prime minister of singapore. he took office on 12 august 2004 succeeding goh chok tong. he is the eldest son of singapores first prime minister lee kuan yew. lee is the secretarygeneral of the peoples action party pap which has been the ruling party in singapore since 1959. he is also the chairman of the monetary authority of singapore and the chairman of the research innovation and enterprise council. he is the thirdlongest serving prime minister in singapores history after his father and goh chok tong. 
+
+Coref Resolved : 
+lee hsien loong born 10 february 1952 is a singaporean politician who is the current prime minister of singapore. lee hsien loong born 10 february 1952 took office on 12 august 2004 succeeding goh chok tong. lee hsien loong born 10 february 1952 is the eldest son of singapores first prime minister lee kuan yew. lee hsien loong born 10 february 1952 is the secretarygeneral of the peoples action party pap which has been the ruling party in singaporesince 1959. lee hsien loong born 10 february 1952 is also the chairman of the monetary authority of singaporeand the chairman of the research innovation and enterprise council. lee hsien loong born 10 february 1952 is the thirdlongest serving prime minister in singapores history after lee hsien loong born 10 february 1952 father and goh chok tong.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate minor_inaccurate 
+

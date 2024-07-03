@@ -1,0 +1,113 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/English_people and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/English_people and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Porridge and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/The_Two_Ronnies and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Open_All_Hours and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/English_people and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Repertory_theatre and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/English_people and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/BBC_Television and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Z-Cars and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/English_people and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/The_Magnificent_Seven and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/English_people and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/BBC_Television and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/British_sitcom and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/The_Frost_Report and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/John_Cleese and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/English_people and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/BBC_Television and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/The_Two_Ronnies and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/English_people and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Ronnie_Corbett and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/William_George_Barker and http://dbpedia.org/resource/English_people and the value is : 0
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Ronald William George Barker, OBE (25 September 1929 3 October 2005), was an English actor, comedian, and writer.
+He was known for roles in British comedy television series such as Porridge, The Two Ronnies, and Open All Hours.
+Barker's acting career began in repertory theatre and, in the early 1960s, he appeared in several episodes of the BBC's police series Z-Cars.
+He also had minor roles in films such as The Magnificent Seven (1960) and The Wrong Arm of the Law (1963).
+In 1965, he was cast in the lead role of the BBC's sitcom The Frost Report, which also featured John Cleese, Ronnie Corbett, and other future stars of British comedy.
+Barker's career reached its peak in the 1970s with the BBC sketch show The Two Ronnies, which he co-wrote and performed with Ronnie Corbett.
+The show ran for 16 years and earned Barker two BAFTA awards.
+He also starred in the sitcoms Porridge (1974 1977) and Open All Hours (1973 1985).
+
+
+Coref Resolved: 
+
+Ronald William George Barker, OBE (25 September 1929 3 October 2005), was an English actor, comedian, and writer.
+Ronald William George Barker, OBE (25 September 1929 3 October 2005), was an English actor, comedian, and writerwas known for roles in British comedy television series such as Porridge, The Two Ronnies, and Open All Hours.
+Ronald William George Barker, OBE (25 September 1929 3 October 2005), was an English actor, comedian, and writeracting career began in repertory theatre and, in the early 1960s, Ronald William George Barker, OBE (25 September 1929 3 October 2005), was an English actor, comedian, and writerappeared in several episodes of the BBC's police series Z-Cars.
+Ronald William George Barker, OBE (25 September 1929 3 October 2005), was an English actor, comedian, and writeralso had minor roles in films such as The Magnificent Seven (1960) and The Wrong Arm of the Law (1963).
+In 1965, Ronald William George Barker, OBE (25 September 1929 3 October 2005), was an English actor, comedian, and writerwas cast in the lead role of the BBC's sitcom The Frost Report, which also featured John Cleese, Ronnie Corbett, and other future stars of British comedy.
+Ronald William George Barker, OBE (25 September 1929 3 October 2005), was an English actor, comedian, and writercareer reached Barker's career peak in the 1970s with the the BBC's sketch show The Two Ronnies, which Ronald William George Barker, OBE (25 September 1929 3 October 2005), was an English actor, comedian, and writerco-wrote and performed with Ronnie Corbett.
+The Two Ronniesran for 16 years and earned Ronald William George Barker, OBE (25 September 1929 3 October 2005), was an English actor, comedian, and writertwo BAFTA awards.
+Ronald William George Barker, OBE (25 September 1929 3 October 2005), was an English actor, comedian, and writeralso starred in the sitcoms Porridge(1974 1977) and Open All Hours(1973 1985).
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Ronald William George "Ronnie" Barker (25 September 1929 3 October 2005) was an English actor, comedian, and writer.
+He was known for roles in British comedy television series such as "Porridge", "The Two Ronnies", and "Open All Hours".
+Barker began acting in repertory theatre and decided he was best suited to comic roles.
+He had his first success at the Oxford Playhouse and in roles in the West End, including Tom Stoppard's "The Real Inspector Hound".
+During this period, he was in the cast of BBC radio and television comedies such as "The Navy Lark".
+He got his television break with the satirical sketch series "The Frost Report" in 1966, where he met future collaborator Ronnie Corbett.
+He joined David Frost's production company and starred in ITV shows, including a short film.
+After rejoining the BBC, Barker found fame with the sketch show "The Two Ronnies" (1971 1987), with Ronnie Corbett.
+He starred in the sitcoms "Porridge", its sequel "Going Straight", and "Open All Hours".
+He wrote comedy under his own name and the pseudonym Gerald Wiley, which Barker adopted to avoid pre-judgements of his talent.
+He won a BAFTA for Best Light Entertainment Performance four times, among other awards, and received an OBE in 1978.
+Later television sitcoms such as "The Magnificent Evans" and "Clarence" were less successful and he retired in 1987.
+He opened an antiques shop with his wife, Joy.
+After 1999, he appeared in smaller, non-comic roles in films.
+He died of heart failure on 3 October 2005, aged 76.
+ 
+
+Coref Resolved: 
+
+Ronald William George "Ronnie" Barker (25 September 1929 3 October 2005) was an English actor, comedian, and writer.
+Ronald William George "Ronnie" Barker was known for roles in British comedy television series such as "Porridge", "The Two Ronnies", and "Open All Hours".
+Ronald William George "Ronnie" Barker began acting in repertory theatre and decided Ronald William George "Ronnie" Barker was best suited to comic roles.
+Ronald William George "Ronnie" Barker had Ronald William George "Ronnie" Barker first success at the Oxford Playhouse and in roles in the West End, including Tom Stoppard's "The Real Inspector Hound".
+During this period, Ronald William George "Ronnie" Barker was in the cast of BBC radio and television comedies such as "The Navy Lark".
+Ronald William George "Ronnie" Barker got Ronald William George "Ronnie" Barker television break with the satirical sketch series "The Frost Report" in 1966, where Ronald William George "Ronnie" Barker met future collaborator Ronnie Corbett.
+Ronald William George "Ronnie" Barker joined David Frost's production company and starred in ITV shows, including a short film.
+After rejoining BBC , Ronald William George "Ronnie" Barker found fame with the sketch show "The Two Ronnies" (1971 1987), with future collaborator Ronnie Corbett.
+Ronald William George "Ronnie" Barker starred in the sitcoms "Porridge", "Porridge"sequel "Going Straight", and "Open All Hours".
+Ronald William George "Ronnie" Barker wrote comedy under Ronald William George "Ronnie" Barker own name and the pseudonym Gerald Wiley, which Ronald William George "Ronnie" Barker adopted to avoid pre-judgements of Ronald William George "Ronnie" Barker talent.
+Ronald William George "Ronnie" Barker won a BAFTA for Best Light Entertainment Performance four times, among other awards, and received an OBE in 1978.
+Later television sitcoms such as "The Magnificent Evans" and "Clarence" were less successful and Ronald William George "Ronnie" Barker retired in 1987.
+Ronald William George "Ronnie" Barker opened an antiques shop with Ronald William George "Ronnie" Barker wife, Joy.
+After 1999, Ronald William George "Ronnie" Barker appeared in smaller, non-comic roles in films.
+Ronald William George "Ronnie" Barker died of heart failure on 3 October 2005, aged 76.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.0 0.0 0.0 -1 0.0 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate accurate accurate accurate minor_inaccurate 
+

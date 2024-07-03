@@ -1,0 +1,116 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Florida_Gators_swimming_and_diving and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/1984_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/Florida_Gators_swimming_and_diving and http://dbpedia.org/resource/1984_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Florida_Gators_swimming_and_diving and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Florida_Gators_swimming_and_diving and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/1984_Summer_Olympics and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/1984_Summer_Olympics and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Butterfly_stroke and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Texas_Longhorns and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Swimming_at_the_1980_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Diving_at_the_2011_World_Aquatics_Championships and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/Texas_Longhorns and the value is : 0
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/Swimming_at_the_1980_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/Diving_at_the_2011_World_Aquatics_Championships and the value is : 0
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Texas_Longhorns and http://dbpedia.org/resource/Swimming_at_the_1980_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Texas_Longhorns and http://dbpedia.org/resource/Diving_at_the_2011_World_Aquatics_Championships and the value is : 0
+http://dbpedia.org/resource/Texas_Longhorns and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Swimming_at_the_1980_Summer_Olympics and http://dbpedia.org/resource/Diving_at_the_2011_World_Aquatics_Championships and the value is : 0
+http://dbpedia.org/resource/Swimming_at_the_1980_Summer_Olympics and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Diving_at_the_2011_World_Aquatics_Championships and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Butterfly_stroke and the value is : 1
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/Butterfly_stroke and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Jane_Fonda and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Paralympic_swimming and the value is : 1
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Olympic_medal and the value is : 1
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Jane_Fonda and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/1968_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/1968_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Jane_Fonda and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Medley_swimming and the value is : 1
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Paralympic_swimming and the value is : 1
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Relay_race and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Relay_race and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Jane_Fonda and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Silver_medal and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Silver_medal and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Freestyle_swimming and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Jane_Fonda and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/July_6 and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/July_6 and the value is : 0
+http://dbpedia.org/resource/Freestyle_swimming and http://dbpedia.org/resource/July_6 and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Jane_Fonda and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Medley_swimming and the value is : 1
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Relay_race and http://dbpedia.org/resource/Freestyle_swimming and the value is : 1
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Jane_Fonda and the value is : 1
+http://dbpedia.org/resource/Susan_Polgár and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Jane_Fonda and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+susan pedersen born october 28 1965 is an american former competition swimmer who represented the united states at the 1984 summer olympics in los angeles california. she competed in the womens 200meter butterfly and finished fourth in the event final with a time of 213.45. pedersen attended the university of texas where she swam for the texas longhorns swimming and diving team in national collegiate athletic association ncaa competition. she was a twotime ncaa champion winning the 200yard butterfly in 1985 and 1986. she was also a fourtime allamerican. 
+
+Coref Resolved : 
+susan pedersen born october 28 1965 is an american former competition swimmer who represented the united states at the 1984 summer olympics in los angeles california. susan pedersen born october 28 1965 competed in the womens 200meter butterfly and finished fourth in the event final with a time of 213.45. susan pedersen born october 28 1965 attended the university of texas where susan pedersen born october 28 1965 swam for the texas longhorns swimming and diving team in national collegiate athletic association ncaa competition. susan pedersen born october 28 1965 was a twotime ncaa champion winning the 200yard butterfly in 1985 and 1986. susan pedersen born october 28 1965 was also a fourtime allamerican.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+susan jane pedersen born october 16 1953 also known by her married name susan pankey is an american former competition swimmer fourtime olympic medalist and former world recordholder in two events. pedersen competed at the 1968 summer olympics in mexico city where she received a total of four medals. she won a gold medal as a member of the winning u.s. team in the womens 4x100meter medley relay and another swimming for the firstplace u.s. team in the 4x100meter freestyle relay. individually she received silver medals for her secondplace finishes in the womens 100meter freestyle and 200meter individual medley. she held the world record in the 200meter freestyle long course 209.5 from july 6 1968 to august 2 1968. she was also a member of worldrecord u.s. teams in the 4x100meter medley relay and the 4x200meter freestyle relay. pedersen was inducted into the international swimming hall of fame as an honor swimmer in 1995. 
+
+Coref Resolved : 
+susan jane pedersen born october 16 1953 also known by susan jane pedersen born october 16 1953 also known by her married name susan pankey married name susan pankey is an american former competition swimmer fourtime olympic medalist and former world recordholder in two events. susan jane pedersen born october 16 1953 also known by her married name susan pankey competed at the 1968 summer olympics in mexico city where susan jane pedersen born october 16 1953 also known by her married name susan pankey received a total of four medals. susan jane pedersen born october 16 1953 also known by her married name susan pankey won a gold medal as a member of the winning u.s. team in the womens 4x100meter medley relay and another swimming for the firstplace u.s. team in the 4x100meter freestyle relay. individually susan jane pedersen born october 16 1953 also known by her married name susan pankey received silver medals for susan jane pedersen born october 16 1953 also known by her married name susan pankey secondplace finishes in the womens 100meter freestyle and 200meter individual medley. susan jane pedersen born october 16 1953 also known by her married name susan pankey held the world record in the 200meter freestyle long course 209.5 from july 6 1968 to august 2 1968. susan jane pedersen born october 16 1953 also known by her married name susan pankey was also a member of worldrecord u.s. teams in the 4x100meter medley relay and the 4x200meter freestyle relay. susan jane pedersen born october 16 1953 also known by her married name susan pankey was inducted into the international swimming hall of fame as an honor swimmer in 1995.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10344827586206896 and for ground truth is : 0.11864406779661017
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

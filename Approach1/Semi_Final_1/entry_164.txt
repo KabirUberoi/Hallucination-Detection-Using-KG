@@ -1,0 +1,285 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitarist and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Jazz_guitarist and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Joe_Henderson and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Bobby_Hutcherson and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Pat_Martino and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Joe_Henderson and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Bobby_Hutcherson and the value is : 0
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/Joe_Henderson and the value is : 0
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/Bobby_Hutcherson and the value is : 1
+http://dbpedia.org/resource/Joe_Henderson and http://dbpedia.org/resource/Bobby_Hutcherson and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Pennsylvania and the value is : 1
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitar and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitarist and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Wes_Montgomery and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Kenny_Burrell and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/George_Benson and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Jazz_guitarist and the value is : 1
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Wes_Montgomery and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Kenny_Burrell and the value is : 1
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/George_Benson and the value is : 1
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Wes_Montgomery and the value is : 1
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Kenny_Burrell and the value is : 1
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/George_Benson and the value is : 1
+http://dbpedia.org/resource/Wes_Montgomery and http://dbpedia.org/resource/Kenny_Burrell and the value is : 0
+http://dbpedia.org/resource/Wes_Montgomery and http://dbpedia.org/resource/George_Benson and the value is : 0
+http://dbpedia.org/resource/Kenny_Burrell and http://dbpedia.org/resource/George_Benson and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/University_of_Miami and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jim_Henson and the value is : 1
+http://dbpedia.org/resource/University_of_Miami and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/University_of_Miami and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/Jim_Henson and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Joe_Henderson and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Kenny_Barron and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Joe_Henderson and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Kenny_Barron and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Joe_Henderson and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Kenny_Barron and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Joe_Henderson and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Kenny_Barron and the value is : 0
+http://dbpedia.org/resource/Joe_Henderson and http://dbpedia.org/resource/Kenny_Barron and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Pat_Martino and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/George_Gershwin and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Antônio_Carlos_Jobim and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/George_Gershwin and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Antônio_Carlos_Jobim and the value is : 0
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/George_Gershwin and the value is : 0
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/Antônio_Carlos_Jobim and the value is : 0
+http://dbpedia.org/resource/George_Gershwin and http://dbpedia.org/resource/Antônio_Carlos_Jobim and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitarist and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Smooth_jazz and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Jazz_guitarist and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Smooth_jazz and the value is : 0
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Smooth_jazz and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Seymour_railway_station and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Indiana_University_Bloomington and the value is : 0
+http://dbpedia.org/resource/Seymour_railway_station and http://dbpedia.org/resource/Indiana_University_Bloomington and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/West_Indies_cricket_team and the value is : 1
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Royce_Campbell and the value is : 1
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Love_song and http://dbpedia.org/resource/Rock_and_roll and the value is : 1
+http://dbpedia.org/resource/Love_song and http://dbpedia.org/resource/Royce_Campbell and the value is : 0
+http://dbpedia.org/resource/Love_song and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Love_song and http://dbpedia.org/resource/Chuck_Berry and the value is : 0
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/Royce_Campbell and the value is : 0
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/Chuck_Berry and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Chuck_Berry and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Chuck_Berry and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jimi_Hendrix and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Eric_Clapton and the value is : 0
+http://dbpedia.org/resource/Jimi_Hendrix and http://dbpedia.org/resource/Eric_Clapton and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Lewis_Carroll and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Stan_Kenton and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Les_Elgart and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Indiana_University_Bloomington and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Education and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Music_theory and the value is : 1
+http://dbpedia.org/resource/Lewis_Carroll and http://dbpedia.org/resource/Stan_Kenton and the value is : 0
+http://dbpedia.org/resource/Lewis_Carroll and http://dbpedia.org/resource/Les_Elgart and the value is : 0
+http://dbpedia.org/resource/Lewis_Carroll and http://dbpedia.org/resource/Indiana_University_Bloomington and the value is : 1
+http://dbpedia.org/resource/Lewis_Carroll and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+http://dbpedia.org/resource/Lewis_Carroll and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Lewis_Carroll and http://dbpedia.org/resource/Music_theory and the value is : 0
+http://dbpedia.org/resource/Stan_Kenton and http://dbpedia.org/resource/Les_Elgart and the value is : 0
+http://dbpedia.org/resource/Stan_Kenton and http://dbpedia.org/resource/Indiana_University_Bloomington and the value is : 0
+http://dbpedia.org/resource/Stan_Kenton and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+http://dbpedia.org/resource/Stan_Kenton and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Stan_Kenton and http://dbpedia.org/resource/Music_theory and the value is : 0
+http://dbpedia.org/resource/Les_Elgart and http://dbpedia.org/resource/Indiana_University_Bloomington and the value is : 0
+http://dbpedia.org/resource/Les_Elgart and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+http://dbpedia.org/resource/Les_Elgart and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Les_Elgart and http://dbpedia.org/resource/Music_theory and the value is : 1
+http://dbpedia.org/resource/Indiana_University_Bloomington and http://dbpedia.org/resource/Musical_theatre and the value is : 1
+http://dbpedia.org/resource/Indiana_University_Bloomington and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Indiana_University_Bloomington and http://dbpedia.org/resource/Music_theory and the value is : 0
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Music_theory and the value is : 1
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Music_theory and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Running_back and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Marvin_Gaye and the value is : 0
+http://dbpedia.org/resource/Running_back and http://dbpedia.org/resource/Marvin_Gaye and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Film_score and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Henry_Mancini and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Indianapolis and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Film_score and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Henry_Mancini and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Indianapolis and the value is : 1
+http://dbpedia.org/resource/Film_score and http://dbpedia.org/resource/Henry_Mancini and the value is : 0
+http://dbpedia.org/resource/Film_score and http://dbpedia.org/resource/Indianapolis and the value is : 1
+http://dbpedia.org/resource/Henry_Mancini and http://dbpedia.org/resource/Indianapolis and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitarist and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Film_score and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Henry_Mancini and the value is : 0
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Film_score and the value is : 1
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Henry_Mancini and the value is : 0
+http://dbpedia.org/resource/Film_score and http://dbpedia.org/resource/Henry_Mancini and the value is : 0
+http://dbpedia.org/resource/Session_musician and http://dbpedia.org/resource/Royce_Campbell and the value is : 0
+http://dbpedia.org/resource/Session_musician and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Wes_Montgomery and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Dexter_Gordon and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Chet_Baker and the value is : 0
+http://dbpedia.org/resource/Wes_Montgomery and http://dbpedia.org/resource/Dexter_Gordon and the value is : 0
+http://dbpedia.org/resource/Wes_Montgomery and http://dbpedia.org/resource/Chet_Baker and the value is : 0
+http://dbpedia.org/resource/Dexter_Gordon and http://dbpedia.org/resource/Chet_Baker and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/PowerPC_970 and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Wes_Montgomery and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Tal_Farlow and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jimmy_Raney and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Herb and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Warren_Ellis and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Cal_Collins and the value is : 1
+http://dbpedia.org/resource/PowerPC_970 and http://dbpedia.org/resource/Wes_Montgomery and the value is : 0
+http://dbpedia.org/resource/PowerPC_970 and http://dbpedia.org/resource/Tal_Farlow and the value is : 0
+http://dbpedia.org/resource/PowerPC_970 and http://dbpedia.org/resource/Jimmy_Raney and the value is : 1
+http://dbpedia.org/resource/PowerPC_970 and http://dbpedia.org/resource/Herb and the value is : 1
+http://dbpedia.org/resource/PowerPC_970 and http://dbpedia.org/resource/Warren_Ellis and the value is : 1
+http://dbpedia.org/resource/PowerPC_970 and http://dbpedia.org/resource/Cal_Collins and the value is : 1
+http://dbpedia.org/resource/Wes_Montgomery and http://dbpedia.org/resource/Tal_Farlow and the value is : 0
+http://dbpedia.org/resource/Wes_Montgomery and http://dbpedia.org/resource/Jimmy_Raney and the value is : 0
+http://dbpedia.org/resource/Wes_Montgomery and http://dbpedia.org/resource/Herb and the value is : 0
+http://dbpedia.org/resource/Wes_Montgomery and http://dbpedia.org/resource/Warren_Ellis and the value is : 0
+http://dbpedia.org/resource/Wes_Montgomery and http://dbpedia.org/resource/Cal_Collins and the value is : 0
+http://dbpedia.org/resource/Tal_Farlow and http://dbpedia.org/resource/Jimmy_Raney and the value is : 1
+http://dbpedia.org/resource/Tal_Farlow and http://dbpedia.org/resource/Herb and the value is : 0
+http://dbpedia.org/resource/Tal_Farlow and http://dbpedia.org/resource/Warren_Ellis and the value is : 0
+http://dbpedia.org/resource/Tal_Farlow and http://dbpedia.org/resource/Cal_Collins and the value is : 1
+http://dbpedia.org/resource/Jimmy_Raney and http://dbpedia.org/resource/Herb and the value is : 0
+http://dbpedia.org/resource/Jimmy_Raney and http://dbpedia.org/resource/Warren_Ellis and the value is : 1
+http://dbpedia.org/resource/Jimmy_Raney and http://dbpedia.org/resource/Cal_Collins and the value is : 0
+http://dbpedia.org/resource/Herb and http://dbpedia.org/resource/Warren_Ellis and the value is : 1
+http://dbpedia.org/resource/Herb and http://dbpedia.org/resource/Cal_Collins and the value is : 0
+http://dbpedia.org/resource/Warren_Ellis and http://dbpedia.org/resource/Cal_Collins and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Six-wheel_drive and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/John_Abercrombie_(guitarist) and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Larry_Coryell and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Dave_Stryker and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Bucky_Pizzarelli and the value is : 0
+http://dbpedia.org/resource/Six-wheel_drive and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/Six-wheel_drive and http://dbpedia.org/resource/John_Abercrombie_(guitarist) and the value is : 0
+http://dbpedia.org/resource/Six-wheel_drive and http://dbpedia.org/resource/Larry_Coryell and the value is : 0
+http://dbpedia.org/resource/Six-wheel_drive and http://dbpedia.org/resource/Dave_Stryker and the value is : 0
+http://dbpedia.org/resource/Six-wheel_drive and http://dbpedia.org/resource/Bucky_Pizzarelli and the value is : 0
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/John_Abercrombie_(guitarist) and the value is : 1
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/Larry_Coryell and the value is : 0
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/Dave_Stryker and the value is : 0
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/Bucky_Pizzarelli and the value is : 0
+http://dbpedia.org/resource/John_Abercrombie_(guitarist) and http://dbpedia.org/resource/Larry_Coryell and the value is : 0
+http://dbpedia.org/resource/John_Abercrombie_(guitarist) and http://dbpedia.org/resource/Dave_Stryker and the value is : 1
+http://dbpedia.org/resource/John_Abercrombie_(guitarist) and http://dbpedia.org/resource/Bucky_Pizzarelli and the value is : 0
+http://dbpedia.org/resource/Larry_Coryell and http://dbpedia.org/resource/Dave_Stryker and the value is : 0
+http://dbpedia.org/resource/Larry_Coryell and http://dbpedia.org/resource/Bucky_Pizzarelli and the value is : 1
+http://dbpedia.org/resource/Dave_Stryker and http://dbpedia.org/resource/Bucky_Pizzarelli and the value is : 0
+http://dbpedia.org/resource/PowerPC_970 and http://dbpedia.org/resource/Joe_Pass and the value is : 1
+http://dbpedia.org/resource/PowerPC_970 and http://dbpedia.org/resource/Royce_Campbell and the value is : 0
+http://dbpedia.org/resource/PowerPC_970 and http://dbpedia.org/resource/Charlie_Byrd and the value is : 1
+http://dbpedia.org/resource/PowerPC_970 and http://dbpedia.org/resource/Gene_Bertoncini and the value is : 0
+http://dbpedia.org/resource/PowerPC_970 and http://dbpedia.org/resource/Mundell_Lowe and the value is : 0
+http://dbpedia.org/resource/PowerPC_970 and http://dbpedia.org/resource/John_Pisano and the value is : 0
+http://dbpedia.org/resource/Joe_Pass and http://dbpedia.org/resource/Royce_Campbell and the value is : 0
+http://dbpedia.org/resource/Joe_Pass and http://dbpedia.org/resource/Charlie_Byrd and the value is : 1
+http://dbpedia.org/resource/Joe_Pass and http://dbpedia.org/resource/Gene_Bertoncini and the value is : 0
+http://dbpedia.org/resource/Joe_Pass and http://dbpedia.org/resource/Mundell_Lowe and the value is : 1
+http://dbpedia.org/resource/Joe_Pass and http://dbpedia.org/resource/John_Pisano and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Charlie_Byrd and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Gene_Bertoncini and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Mundell_Lowe and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/John_Pisano and the value is : 0
+http://dbpedia.org/resource/Charlie_Byrd and http://dbpedia.org/resource/Gene_Bertoncini and the value is : 0
+http://dbpedia.org/resource/Charlie_Byrd and http://dbpedia.org/resource/Mundell_Lowe and the value is : 0
+http://dbpedia.org/resource/Charlie_Byrd and http://dbpedia.org/resource/John_Pisano and the value is : 0
+http://dbpedia.org/resource/Gene_Bertoncini and http://dbpedia.org/resource/Mundell_Lowe and the value is : 0
+http://dbpedia.org/resource/Gene_Bertoncini and http://dbpedia.org/resource/John_Pisano and the value is : 0
+http://dbpedia.org/resource/Mundell_Lowe and http://dbpedia.org/resource/John_Pisano and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Cadmium_sulfide and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Session_musician and the value is : 1
+http://dbpedia.org/resource/Cadmium_sulfide and http://dbpedia.org/resource/Session_musician and the value is : 1
+http://dbpedia.org/resource/Cadmium_sulfide and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Cadmium_sulfide and http://dbpedia.org/resource/Golden_Age_of_Radio and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Golden_Age_of_Radio and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitarist and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Bay and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Compilation_album and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Worlds_Finest and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Indianapolis and the value is : 0
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Melbourne_Football_Club and the value is : 0
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Bay and the value is : 0
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Compilation_album and the value is : 0
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Worlds_Finest and the value is : 0
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Indianapolis and the value is : 1
+http://dbpedia.org/resource/Melbourne_Football_Club and http://dbpedia.org/resource/Bay and the value is : 0
+http://dbpedia.org/resource/Melbourne_Football_Club and http://dbpedia.org/resource/Compilation_album and the value is : 0
+http://dbpedia.org/resource/Melbourne_Football_Club and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Melbourne_Football_Club and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Melbourne_Football_Club and http://dbpedia.org/resource/Worlds_Finest and the value is : 0
+http://dbpedia.org/resource/Melbourne_Football_Club and http://dbpedia.org/resource/Indianapolis and the value is : 0
+http://dbpedia.org/resource/Bay and http://dbpedia.org/resource/Compilation_album and the value is : 0
+http://dbpedia.org/resource/Bay and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Bay and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Bay and http://dbpedia.org/resource/Worlds_Finest and the value is : 1
+http://dbpedia.org/resource/Bay and http://dbpedia.org/resource/Indianapolis and the value is : 0
+http://dbpedia.org/resource/Compilation_album and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Compilation_album and http://dbpedia.org/resource/Jazz_guitar and the value is : 1
+http://dbpedia.org/resource/Compilation_album and http://dbpedia.org/resource/Worlds_Finest and the value is : 0
+http://dbpedia.org/resource/Compilation_album and http://dbpedia.org/resource/Indianapolis and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Worlds_Finest and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Indianapolis and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Worlds_Finest and the value is : 1
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Indianapolis and the value is : 1
+http://dbpedia.org/resource/Worlds_Finest and http://dbpedia.org/resource/Indianapolis and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+royce campbell born october 28 1954 is an american jazz guitarist. he has released several albums as a leader and has performed and recorded with many jazz musicians including pat martino joe henderson and bobby hutcherson. campbell was born in philadelphia pennsylvania. he began playing guitar at age 11 and was influenced by jazz guitarists wes montgomery kenny burrell and george benson. he attended the university of miami where he studied with pat martino and jim hall. after graduating he moved to new york city and began performing with jazz musicians such as joe henderson bobby hutcherson and kenny barron. campbell has released several albums as a leader including royce campbell plays the music of pat martino 1995 royce campbell plays the music of george gershwin 1997 and royce campbell plays the music of antonio carlos jobim 1999. he has also released several albums with his group the royce campbell quartet. 
+
+Coref Resolved : 
+royce campbell born october 28 1954 is an american jazz guitarist. royce campbell born october 28 1954 has released several albums as a leader and has performed and recorded with many jazz musicians including pat martino joe henderson and bobby hutcherson. royce campbell born october 28 1954 was born in philadelphia pennsylvania. royce campbell born october 28 1954 began playing guitar at age 11 and was influenced by jazz guitarists wes montgomery kenny burrell and george benson. royce campbell born october 28 1954 attended the university of miami where royce campbell born october 28 1954 studied with pat martino and jim hall. after graduating royce campbell born october 28 1954 moved to new york city and began performing with jazz musicians such as joe henderson bobby hutchersonand kenny barron. royce campbell born october 28 1954 has released several albums as a leader including royce campbell born october 28 1954 plays the music of pat martino 1995 royce campbell born october 28 1954 plays the music of george gershwin 1997 and royce campbell born october 28 1954 plays the music of antonio carlos jobim 1999. royce campbell born october 28 1954 has also released several albums with royce campbell born october 28 1954 group the royce campbell quartet.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+royce campbell is a jazz guitarist primarily associated with mainstream jazz but he has also released smooth jazz and postbop jazz recordings. he was born in seymour indiana in 1952. the son of a career navy man campbell grew up in various cities around the u.s. and abroad including asia europe and the west indies. exposure to various musical genres while a child contributed to campbells musical style and approach in jazz composition and playing. a love for rock and roll marked campbells first connection with the guitar at the age of nine when he discovered chuck berry. like many guitarists of his generation campbell was also influenced by jimi hendrix and eric clapton. by the time royce finished high school in the early 1970s he was certain he wanted to pursue a professional career in music. his uncle carroll decamp an arrangerpianist who arranged for stan kenton and les elgart invited royce to live with him and study in indiana providing most of royces musical education in theory and composition. by age 21 campbell had begun touring with rb artist marvin gaye and developing his talents for stage performance. in 1975 royce was hired by a local music contractor to do three concerts with awardwinning film composer henry mancini in indianapolis. soon after royce became the touring guitarist with henry mancinis orchestra holding that position until mancinis death in 1994. while appearing on recordings as a sideman and a couple as leader during the early years of his career campbell started recording and touring more on his own during the 1990s focusing at first on mainstream or straightahead jazz. although he cites wes montgomery as his main influence the influence of horn players such as dexter gordon and chet baker are evident in royces melodic style. in 1993 he produced project g5 a tribute to wes montgomery which also featured guitarists tal farlow jimmy raney herb ellis and cal collins. his 1994 album 6x6 featured guitarists pat martino john abercrombie larry coryell dave stryker and bucky pizzarelli. with project g5 a tribute to joe pass in 1999 he combined the talents of charlie byrd gene bertoncini mundell lowe and john pisano. during his career royce campbell has released more than 30 cds as leader or coleader among various sideman projects. fifteen of these cds have made it onto the us national jazz radio charts. campbells soloing is documented among other jazz guitarists of the era in mel bays anthology of jazz guitar solos featuring solos by the worlds finest jazz guitarists in november 2010 royce campbell was inducted into the indianapolis jazz foundation hall of fame. 
+
+Coref Resolved : 
+royce campbell is a jazz guitarist primarily associated with mainstream jazz but royce campbell has also released smooth jazz and postbop jazz recordings. royce campbell was born in seymour indiana in 1952. royce campbell grew up in various cities around the u.s. and abroad including asia europe and the west indies. exposure to various musical genres while a child contributed to royce campbell musical style and approach in jazz composition and playing. a love for rock and roll marked royce campbell first connection with the guitar at the age of nine when royce campbell discovered chuck berry. like many guitarists of royce campbell generation royce campbell was also influenced by jimi hendrix and eric clapton. by the time royce campbell finished high school in the early 1970s royce campbell was certain royce campbell wanted to pursue a professional career in music. royce campbell uncle carroll decamp an arrangerpianist who arranged for stan kenton and les elgart invited royce campbell to live with his uncle carroll decamp an arrangerpianist who arranged for stan kenton and les elgart and study in indiana providing most of royce campbell musical education in theory and composition. by age 21 royce campbell had begun touring with rb artist marvin gaye and developing royce campbell talents for stage performance. in 1975 royce campbell was hired by a local music contractor to do three concerts with awardwinning film composer henry mancini in indianapolis. soon after royce campbell that position the touring guitarist with awardwinning film composer henry mancini orchestra holding that position until awardwinning film composer henry mancini death in 1994. while appearing on recordings as a sideman and a couple as leader during the early years of royce campbell career royce campbell started recording and touring more on royce campbell own during the 1990s focusing at first on mainstream or straightahead jazz. although royce campbell cites wes montgomery as royce campbell main influence the influence of horn players such as dexter gordon and chet baker are evident in royce campbell melodic style. in 1993 royce campbell produced project g5 a tribute to wes montgomery which also featured guitarists tal farlow jimmy raney herb ellis and cal collins. royce campbell 1994 album 6x6 featured guitarists pat martino john abercrombie larry coryell dave stryker and bucky pizzarelli. with project g5 a tribute to joe pass in 1999 royce campbell combined the talents of charlie byrd gene bertoncini mundell lowe and john pisano. during royce campbell career royce campbell has released more than 30 cds as leader or coleader among various sideman projects. fifteen of more than 30 cds have made it onto the us national jazz radio charts. royce campbell soloing is documented among other jazz guitarists of the era in mel bays anthology of jazz guitar solos featuring solos by the worlds finest jazz guitarists in november 2010 royce campbell was inducted into the indianapolis jazz foundation hall of fame.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3548387096774194 and for ground truth is : 0.2512820512820513
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,33 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Heart and http://dbpedia.org/resource/Slapshot and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Rugby_union_positions and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Rugby_union_positions and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Scarsdale_station and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Scarsdale_station and the value is : 0
+http://dbpedia.org/resource/Harvard_University and http://dbpedia.org/resource/American_literature and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Obie_Award and http://dbpedia.org/resource/Marriage_in_Islam and the value is : 0
+http://dbpedia.org/resource/Obie_Award and http://dbpedia.org/resource/Bette_Davis and the value is : 0
+http://dbpedia.org/resource/Marriage_in_Islam and http://dbpedia.org/resource/Bette_Davis and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/Heart and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Heart and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+lindsay crouse born may 12 1948 is an american actress. she is known for her roles in the films house of games 1987 places in the heart 1984 and slap shot 1977. she has also appeared in the television series the west wing law order and the good wife. crouse was born in new york city and raised in nearby scarsdale. she attended harvard university where she studied english and american literature. after graduating in 1970 she moved to new york city and began her acting career. she made her broadway debut in 1972 in the play that championship season. crouse has appeared in numerous films and television shows throughout her career. she won an obie award for her performance in the play the marriage of bette and boo in 1985. she was nominated for an academy award for best supporting actress for her role in places in the heart. in addition to her acting career crouse has also written and directed several plays and films. 
+
+Coref Resolved : 
+lindsay crouse born may 12 1948 is an american actress. crouse is known for crouse roles in the films house of games 1987 places in the heart 1984 and slap shot 1977. crouse has also appeared in the television series the west wing law order and the good wife. crouse was born in new york city and raised in nearby scarsdale. crouse attended harvard university where crouse studied english and american literature. after graduating in 1970 crouse moved to new york city and began crouse acting career. crouse made crouse broadway debut in 1972 in the play that championship season. crouse has appeared in numerous films and television shows throughout crouse career. crouse won an obie award for crouse performance in the play the marriage of bette and boo in 1985. crouse was nominated for an academy award for best supporting actress for crouse role in places in the heart 1984 . in addition to crouse acting career crouse has also written and directed several plays and films.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.125
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate major_inaccurate accurate minor_inaccurate accurate major_inaccurate accurate major_inaccurate 
+

@@ -1,0 +1,178 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Environmentalist and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Transportation_planning and the value is : 0
+http://dbpedia.org/resource/Environmentalist and http://dbpedia.org/resource/Transportation_planning and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Nonprofit_organization and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Sustainable_transport and the value is : 0
+http://dbpedia.org/resource/Nonprofit_organization and http://dbpedia.org/resource/Sustainable_transport and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Sustainable_transport and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Urban_planning and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Transport and the value is : 1
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Landscape_design and the value is : 0
+http://dbpedia.org/resource/Sustainable_transport and http://dbpedia.org/resource/Urban_planning and the value is : 0
+http://dbpedia.org/resource/Sustainable_transport and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Sustainable_transport and http://dbpedia.org/resource/Landscape_design and the value is : 0
+http://dbpedia.org/resource/Urban_planning and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Urban_planning and http://dbpedia.org/resource/Landscape_design and the value is : 1
+http://dbpedia.org/resource/Transport and http://dbpedia.org/resource/Landscape_design and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Sustainable_transport and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Bus_rapid_transit and the value is : 0
+http://dbpedia.org/resource/Sustainable_transport and http://dbpedia.org/resource/Bus_rapid_transit and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Water_pricing and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Traffic_congestion and the value is : 0
+http://dbpedia.org/resource/Replogle and http://dbpedia.org/resource/Air_pollution and the value is : 0
+http://dbpedia.org/resource/Water_pricing and http://dbpedia.org/resource/Traffic_congestion and the value is : 1
+http://dbpedia.org/resource/Water_pricing and http://dbpedia.org/resource/Air_pollution and the value is : 1
+http://dbpedia.org/resource/Traffic_congestion and http://dbpedia.org/resource/Air_pollution and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Sustainable_transport and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Institute_for_Transportation_and_Development_Policy and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Nonprofit_organization and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Sustainability and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Justice and the value is : 0
+http://dbpedia.org/resource/Institute_for_Transportation_and_Development_Policy and http://dbpedia.org/resource/Nonprofit_organization and the value is : 0
+http://dbpedia.org/resource/Institute_for_Transportation_and_Development_Policy and http://dbpedia.org/resource/Sustainability and the value is : 0
+http://dbpedia.org/resource/Institute_for_Transportation_and_Development_Policy and http://dbpedia.org/resource/Justice and the value is : 0
+http://dbpedia.org/resource/Nonprofit_organization and http://dbpedia.org/resource/Sustainability and the value is : 0
+http://dbpedia.org/resource/Nonprofit_organization and http://dbpedia.org/resource/Justice and the value is : 0
+http://dbpedia.org/resource/Sustainability and http://dbpedia.org/resource/Justice and the value is : 1
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Institute_for_Transportation_and_Development_Policy and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Institute_for_Transportation_and_Development_Policy and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/Institute_for_Transportation_and_Development_Policy and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Academic_publishing and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Sustainable_transport and the value is : 0
+http://dbpedia.org/resource/Academic_publishing and http://dbpedia.org/resource/Sustainable_transport and the value is : 1
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Sustainability and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Carbon_cycle and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Sustainability and http://dbpedia.org/resource/Carbon_cycle and the value is : 0
+http://dbpedia.org/resource/Sustainability and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Carbon_cycle and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Environmental_Defense_Fund and http://dbpedia.org/resource/Michael_Replogle and the value is : 0
+http://dbpedia.org/resource/Environmental_Defense_Fund and http://dbpedia.org/resource/Environmental_law and the value is : 1
+http://dbpedia.org/resource/Environmental_Defense_Fund and http://dbpedia.org/resource/United_States_Congress and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Environmental_law and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/United_States_Congress and the value is : 0
+http://dbpedia.org/resource/Environmental_law and http://dbpedia.org/resource/United_States_Congress and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Baltimore and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Denver and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Atlanta and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Mexico_City and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Beijing and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Public_transport and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Transport and the value is : 1
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Pricing and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Transportation_Systems_Management and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Baltimore and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Denver and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Atlanta and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Mexico_City and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Beijing and the value is : 1
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Public_transport and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Pricing and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Transportation_Systems_Management and the value is : 0
+http://dbpedia.org/resource/Baltimore and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Baltimore and http://dbpedia.org/resource/Denver and the value is : 0
+http://dbpedia.org/resource/Baltimore and http://dbpedia.org/resource/Atlanta and the value is : 0
+http://dbpedia.org/resource/Baltimore and http://dbpedia.org/resource/Mexico_City and the value is : 0
+http://dbpedia.org/resource/Baltimore and http://dbpedia.org/resource/Beijing and the value is : 0
+http://dbpedia.org/resource/Baltimore and http://dbpedia.org/resource/Public_transport and the value is : 0
+http://dbpedia.org/resource/Baltimore and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Baltimore and http://dbpedia.org/resource/Pricing and the value is : 0
+http://dbpedia.org/resource/Baltimore and http://dbpedia.org/resource/Transportation_Systems_Management and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Denver and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Atlanta and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Mexico_City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Beijing and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Public_transport and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Pricing and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Transportation_Systems_Management and the value is : 0
+http://dbpedia.org/resource/Denver and http://dbpedia.org/resource/Atlanta and the value is : 0
+http://dbpedia.org/resource/Denver and http://dbpedia.org/resource/Mexico_City and the value is : 0
+http://dbpedia.org/resource/Denver and http://dbpedia.org/resource/Beijing and the value is : 0
+http://dbpedia.org/resource/Denver and http://dbpedia.org/resource/Public_transport and the value is : 0
+http://dbpedia.org/resource/Denver and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Denver and http://dbpedia.org/resource/Pricing and the value is : 0
+http://dbpedia.org/resource/Denver and http://dbpedia.org/resource/Transportation_Systems_Management and the value is : 1
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/Mexico_City and the value is : 0
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/Beijing and the value is : 0
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/Public_transport and the value is : 0
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/Pricing and the value is : 0
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/Transportation_Systems_Management and the value is : 1
+http://dbpedia.org/resource/Mexico_City and http://dbpedia.org/resource/Beijing and the value is : 0
+http://dbpedia.org/resource/Mexico_City and http://dbpedia.org/resource/Public_transport and the value is : 0
+http://dbpedia.org/resource/Mexico_City and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Mexico_City and http://dbpedia.org/resource/Pricing and the value is : 0
+http://dbpedia.org/resource/Mexico_City and http://dbpedia.org/resource/Transportation_Systems_Management and the value is : 0
+http://dbpedia.org/resource/Beijing and http://dbpedia.org/resource/Public_transport and the value is : 0
+http://dbpedia.org/resource/Beijing and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Beijing and http://dbpedia.org/resource/Pricing and the value is : 0
+http://dbpedia.org/resource/Beijing and http://dbpedia.org/resource/Transportation_Systems_Management and the value is : 0
+http://dbpedia.org/resource/Public_transport and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Public_transport and http://dbpedia.org/resource/Pricing and the value is : 1
+http://dbpedia.org/resource/Public_transport and http://dbpedia.org/resource/Transportation_Systems_Management and the value is : 0
+http://dbpedia.org/resource/Transport and http://dbpedia.org/resource/Pricing and the value is : 0
+http://dbpedia.org/resource/Transport and http://dbpedia.org/resource/Transportation_Systems_Management and the value is : 0
+http://dbpedia.org/resource/Pricing and http://dbpedia.org/resource/Transportation_Systems_Management and the value is : 1
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Transport and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Montgomery_County,_Maryland and the value is : 1
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/Transport and http://dbpedia.org/resource/Montgomery_County,_Maryland and the value is : 0
+http://dbpedia.org/resource/Transport and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/Montgomery_County,_Maryland and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Regional_development and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Developing_country and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Regional_development and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Developing_country and the value is : 0
+http://dbpedia.org/resource/Regional_development and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/Regional_development and http://dbpedia.org/resource/Developing_country and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Developing_country and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Statistics and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/World_Social_Forum and the value is : 1
+http://dbpedia.org/resource/Civil_engineering and http://dbpedia.org/resource/Sociology and the value is : 1
+http://dbpedia.org/resource/Civil_engineering and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Sociology and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Public_transport and the value is : 0
+http://dbpedia.org/resource/Michael_Replogle and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Public_transport and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Public_transport and http://dbpedia.org/resource/Magazine and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+michael replogle born 1951 is an american environmentalist and transportation planner. he is the founder and director of the institute for transportation and development policy itdp a global nonprofit organization that works to promote sustainable transport solutions in cities around the world. replogle has been a leader in the field of sustainable transportation for more than four decades and has been credited with helping to shape the modern urban transport landscape. he has worked with cities in more than 40 countries to develop and implement sustainable transport policies and projects including bus rapid transit bikesharing and pedestrianfriendly streets. he has also been a vocal advocate for the use of pricing mechanisms to reduce traffic congestion and air pollution. 
+
+Coref Resolved : 
+michael replogle born 1951 is an american environmentalist and transportation planner. replogle is the founder and director of the institute for transportation and development policy the institute for transportation and development policy a global nonprofit organization that works to promote sustainable transport solutions in cities around the world. replogle has been a leader in the field of sustainable transportation for more than four decades and has been credited with helping to shape the modern urban transport landscape. replogle has worked with cities in more than 40 countries to develop and implement sustainable transport policies and projects including bus rapid transit bikesharing and pedestrianfriendly streets. replogle has also been a vocal advocate for the use of pricing mechanisms to reduce traffic congestion and air pollution.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+michael replogle is an internationally recognized expert in the field of sustainable transport. he cofounded the institute for transportation and development policy itdp in 1985 a nonprofit organization that promotes environmentally sustainable and equitable transportation projects and policies worldwide as well as bikes not bombs in 1984. he was the president of itdp from 19851992 and 19982009 and managing director of itdp from 20092015. his seminal 1987 paper on sustainable transport was the first to define the term. replogle cofounded the partnership on sustainable low carbon transport slocat in 2009. as transportation director of the environmental defense fund from 19922009 he influenced u.s. federal transportation and environmental legislation and regulations frequently testifying in the u.s. congress. he has advised on metropolitan transportation plans and policies in washington baltimore new york denver atlanta portland or mexico city beijing and other areas to promote more integrated transportation and land use planning public transportation sound transport pricing and transportation system management and operations. he managed integrated transport and land use planning and modeling for montgomery county maryland from 19831992. he was a member of the advisory committee for the united nations centre for regional development and an active emeritus member of the transportation research board committee on transportation in the developing countries which he helped found. he has been a longtime advisor to the u.s. department of transportation dot most recently through its advisory committees on transportation statistics and intelligent transportation and travel modeling. he served on the world economic forum global agenda council on the future of transportation. replogle received an m.e.s. and honor b.e.s. in civil and urban engineering and an honor bachelor of arts in sociology all from the university of pennsylvania. replogle is the author of a book on access to public transportation several hundred magazine articles and dozens of journal articles and reports. 
+
+Coref Resolved : 
+michael replogle is an internationally recognized expert in the field of sustainable transport. michael replogle cofounded the institute for transportation and development policy itdp in 1985 a nonprofit organization that promotes environmentally sustainable and equitable transportation projects and policies worldwide as well as bikes not bombs in 1984. michael replogle was the president of the institute for transportation and development policy itdp from 19851992 and 19982009 and managing director of the institute for transportation and development policy itdp from 20092015. michael replogle seminal 1987 paper on sustainable transport was the first to define sustainable transport . michael replogle cofounded the partnership on sustainable low carbon transport slocat in 2009. as transportation director of the environmental defense fund from 19922009 michael replogle influenced u.s. federal transportation and environmental legislation and regulations frequently testifying in the u.s. congress. michael replogle has advised on metropolitan transportation plans and policies in washington baltimore new york denver atlanta portland or mexico city beijing and other areas to promote more integrated transportation and land use planning public transportation sound transport pricing and transportation system management and operations. michael replogle managed integrated transport and land use planning and modeling for montgomery county maryland from 19831992. michael replogle was a member of the advisory committee for the united nations centre for regional development and an active emeritus member of the transportation research board committee on transportation in the developing countries which michael replogle helped found. michael replogle has been a longtime advisor to the u.s. department of transportation dot most recently through the u.s. department of transportation dot advisory committees on transportation statistics and intelligent transportation and travel modeling. michael replogle served on the world economic forum global agenda council on the future of transportation. michael replogle received an m.e.s. and honor b.e.s. in civil and urban engineering and an honor bachelor of arts in sociology all from the university of pennsylvania. michael replogle is the author of a book on access to public transportation several hundred magazine articles and dozens of journal articles and reports.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16 and for ground truth is : 0.096
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate 
+

@@ -1,0 +1,98 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Richard_Garnons_Williams and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Richard_Garnons_Williams and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Richard_Garnons_Williams and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Richard_Garnons_Williams and http://dbpedia.org/resource/Record_producer and the value is : 1
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Kansas and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Kansas and the value is : 0
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and the value is : 0
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/Dust and the value is : 0
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/Wind and the value is : 0
+http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and http://dbpedia.org/resource/Dust and the value is : 0
+http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and http://dbpedia.org/resource/Wind and the value is : 1
+http://dbpedia.org/resource/Dust and http://dbpedia.org/resource/Wind and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Richard_V._Allen and http://dbpedia.org/resource/Rich_Williams and the value is : 0
+http://dbpedia.org/resource/Richard_V._Allen and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Richard_V._Allen and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Richard_V._Allen and http://dbpedia.org/resource/Kansas and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Kansas and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Kansas and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Kansas and the value is : 1
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Human_eye and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Fireworks and the value is : 0
+http://dbpedia.org/resource/Human_eye and http://dbpedia.org/resource/Fireworks and the value is : 0
+http://dbpedia.org/resource/Ocular_prosthesis and http://dbpedia.org/resource/Eyepatch and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Guitar and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Kerry_Livgren and the value is : 0
+http://dbpedia.org/resource/Guitar and http://dbpedia.org/resource/Kerry_Livgren and the value is : 1
+http://dbpedia.org/resource/Kansas and http://dbpedia.org/resource/Rich_Williams and the value is : 0
+http://dbpedia.org/resource/Kansas and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Kansas and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Kansas and http://dbpedia.org/resource/Guitar and the value is : 0
+http://dbpedia.org/resource/Kansas and http://dbpedia.org/resource/Portrait and the value is : 0
+http://dbpedia.org/resource/Kansas and http://dbpedia.org/resource/Fire_Fire and the value is : 1
+http://dbpedia.org/resource/Kansas and http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Guitarist and the value is : 1
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Guitar and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Portrait and the value is : 1
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Fire_Fire and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Guitar and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Portrait and the value is : 1
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Fire_Fire and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Guitar and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Portrait and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Fire_Fire and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and the value is : 0
+http://dbpedia.org/resource/Guitar and http://dbpedia.org/resource/Portrait and the value is : 0
+http://dbpedia.org/resource/Guitar and http://dbpedia.org/resource/Fire_Fire and the value is : 0
+http://dbpedia.org/resource/Guitar and http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and the value is : 0
+http://dbpedia.org/resource/Portrait and http://dbpedia.org/resource/Fire_Fire and the value is : 0
+http://dbpedia.org/resource/Portrait and http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and the value is : 0
+http://dbpedia.org/resource/Fire_Fire and http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Phil_Ehart and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Kansas and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Phil_Ehart and http://dbpedia.org/resource/Kansas and the value is : 1
+http://dbpedia.org/resource/Phil_Ehart and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Kansas and http://dbpedia.org/resource/Midfielder and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+rich williams born richard williams october 19 1949 american guitarist singer songwriter record producer . best known lead guitarist founding member rock band kansas . williams band inception 1973 original member group . written cowritten bands biggest hits including carry wayward son dust wind . released solo albums collaborated artists . 
+
+Coref Resolved : 
+rich williams born richard williams october 19 1949 american guitarist singer songwriter record producer . best known lead guitarist founding member rock band kansas . williams band inception 1973 original member group . written cowritten bands biggest hits including carry wayward son dust wind . released solo albums collaborated artists .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+richard allen rich williams born february 1 1950 guitarist rock band kansas 1974 selftitled debut album . williams lost right eye childhood fireworks accident . wore prosthetic eye years wears eye patch instead . beginning williams shared guitar duties keyboardistguitarist kerry livgren . late 1980s shared guitarplaying steve morse . personnel changes kansas williams bands guitarist david ragsdale play extra guitar parts band plays portrait knew hold fight fire fire carry wayward son . williams phil ehart members kansas left band played kansas albums . songs cowrote band tell room stranger hit play game tonight . 
+
+Coref Resolved : 
+richard allen rich williams born february 1 1950 guitarist rock band kansas 1974 selftitled debut album . rich williams lost right eye childhood fireworks accident . wore prosthetic eye years wears eye patch instead . beginning rich williams shared guitar duties keyboardistguitarist kerry livgren . late 1980s shared guitarplaying steve morse . personnel changes kansas rich williams bands guitarist david ragsdale play extra guitar parts band plays portrait knew hold fight fire fire carry wayward son . rich williams phil ehart members kansas left band played kansas albums . songs cowrote band tell room stranger hit play game tonight .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10526315789473684 and for ground truth is : 0.13725490196078433
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate accurate 
+

@@ -1,0 +1,262 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Unionism_in_Ireland and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Legislative_assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Unionism_in_Ireland and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Legislative_assembly and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 1
+http://dbpedia.org/resource/Unionism_in_Ireland and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Unionism_in_Ireland and http://dbpedia.org/resource/Legislative_assembly and the value is : 0
+http://dbpedia.org/resource/Unionism_in_Ireland and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Unionism_in_Ireland and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Legislative_assembly and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 1
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Larne_Borough_Council and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/County_Antrim and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Antrim_Grammar_School and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Larne_Borough_Council and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/County_Antrim and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Antrim_Grammar_School and the value is : 0
+http://dbpedia.org/resource/Larne_Borough_Council and http://dbpedia.org/resource/County_Antrim and the value is : 0
+http://dbpedia.org/resource/Larne_Borough_Council and http://dbpedia.org/resource/Antrim_Grammar_School and the value is : 0
+http://dbpedia.org/resource/County_Antrim and http://dbpedia.org/resource/Antrim_Grammar_School and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Civil_service and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Civil_service and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Northern_Ireland_Forum and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Northern_Ireland_Forum and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Northern_Ireland_Forum and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Ulster_Unionist_Party and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Health_care and the value is : 1
+http://dbpedia.org/resource/Ulster_Unionist_Party and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Orange_Order and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Grand_Master_of_the_Teutonic_Order and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/County_Antrim and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Orange_Order and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Grand_Master_of_the_Teutonic_Order and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/County_Antrim and the value is : 1
+http://dbpedia.org/resource/Orange_Order and http://dbpedia.org/resource/Grand_Master_of_the_Teutonic_Order and the value is : 0
+http://dbpedia.org/resource/Orange_Order and http://dbpedia.org/resource/County_Antrim and the value is : 0
+http://dbpedia.org/resource/Grand_Master_of_the_Teutonic_Order and http://dbpedia.org/resource/County_Antrim and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Royal_Black_Institution and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Royal_Black_Institution and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 0
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Ulster_Unionist_Party and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Larne_Borough_Council and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Glenoe and the value is : 1
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Larne_Borough_Council and the value is : 1
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Glenoe and the value is : 0
+http://dbpedia.org/resource/Larne_Borough_Council and http://dbpedia.org/resource/Glenoe and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Presbyterianism and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Presbyterianism and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Unionism_in_Ireland and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Unionism_in_Ireland and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 1
+http://dbpedia.org/resource/Unionism_in_Ireland and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Unionism_in_Ireland and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Borough and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Borough and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Borough and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Police_Service_of_Northern_Ireland and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Local_strategic_partnership and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Police_Service_of_Northern_Ireland and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Local_strategic_partnership and the value is : 1
+http://dbpedia.org/resource/Police_Service_of_Northern_Ireland and http://dbpedia.org/resource/Local_strategic_partnership and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Marshal_of_the_Sejm and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 1
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Marshal_of_the_Sejm and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Marshal_of_the_Sejm and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Marshal_of_the_Sejm and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Public_Accounts_Committee and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 1
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 1
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Public_Accounts_Committee and the value is : 0
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/Public_Accounts_Committee and the value is : 0
+http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and http://dbpedia.org/resource/Public_Accounts_Committee and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Public_Accounts_Committee and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Public_Accounts_Committee and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Finance and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/United_States_House_Committee_on_Agriculture and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Regional_policy_of_the_European_Union and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Health_care and the value is : 1
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Finance and the value is : 1
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/United_States_House_Committee_on_Agriculture and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Regional_policy_of_the_European_Union and the value is : 0
+http://dbpedia.org/resource/Health_care and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Health_care and http://dbpedia.org/resource/Finance and the value is : 0
+http://dbpedia.org/resource/Health_care and http://dbpedia.org/resource/United_States_House_Committee_on_Agriculture and the value is : 0
+http://dbpedia.org/resource/Health_care and http://dbpedia.org/resource/Regional_policy_of_the_European_Union and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Finance and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/United_States_House_Committee_on_Agriculture and the value is : 1
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Regional_policy_of_the_European_Union and the value is : 0
+http://dbpedia.org/resource/Finance and http://dbpedia.org/resource/United_States_House_Committee_on_Agriculture and the value is : 0
+http://dbpedia.org/resource/Finance and http://dbpedia.org/resource/Regional_policy_of_the_European_Union and the value is : 0
+http://dbpedia.org/resource/United_States_House_Committee_on_Agriculture and http://dbpedia.org/resource/Regional_policy_of_the_European_Union and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/United_Kingdom_constituencies and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Roy_Beggs_Jr and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/United_Kingdom_constituencies and http://dbpedia.org/resource/Roy_Beggs_Jr and the value is : 0
+http://dbpedia.org/resource/United_Kingdom_constituencies and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 0
+http://dbpedia.org/resource/United_Kingdom_constituencies and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/United_Kingdom_constituencies and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/East_Antrim_(Assembly_constituency) and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Social_change and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Ulster_Unionist_Party and the value is : 1
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Social_change and the value is : 0
+http://dbpedia.org/resource/Ulster_Unionist_Party and http://dbpedia.org/resource/Social_change and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Irish_rebel_song and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/In-flight_entertainment and the value is : 1
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Aer_Lingus and the value is : 1
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Irish_rebel_song and the value is : 1
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/In-flight_entertainment and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Aer_Lingus and the value is : 0
+http://dbpedia.org/resource/Irish_rebel_song and http://dbpedia.org/resource/In-flight_entertainment and the value is : 1
+http://dbpedia.org/resource/Irish_rebel_song and http://dbpedia.org/resource/Aer_Lingus and the value is : 0
+http://dbpedia.org/resource/In-flight_entertainment and http://dbpedia.org/resource/Aer_Lingus and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Music_television and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Derek_Warfield and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Radio_broadcasting and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Music_television and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Derek_Warfield and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Radio_broadcasting and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Music_television and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Music_television and http://dbpedia.org/resource/Derek_Warfield and the value is : 0
+http://dbpedia.org/resource/Music_television and http://dbpedia.org/resource/Radio_broadcasting and the value is : 0
+http://dbpedia.org/resource/Music_television and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Derek_Warfield and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Radio_broadcasting and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Derek_Warfield and http://dbpedia.org/resource/Radio_broadcasting and the value is : 1
+http://dbpedia.org/resource/Derek_Warfield and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Radio_broadcasting and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Osama_bin_Laden and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Transatlantic_flight and the value is : 0
+http://dbpedia.org/resource/Roy_Beggs_Jr and http://dbpedia.org/resource/Saudis and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Osama_bin_Laden and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Transatlantic_flight and the value is : 0
+http://dbpedia.org/resource/Member_of_the_Legislative_Assembly and http://dbpedia.org/resource/Saudis and the value is : 0
+http://dbpedia.org/resource/Osama_bin_Laden and http://dbpedia.org/resource/Transatlantic_flight and the value is : 0
+http://dbpedia.org/resource/Osama_bin_Laden and http://dbpedia.org/resource/Saudis and the value is : 0
+http://dbpedia.org/resource/Transatlantic_flight and http://dbpedia.org/resource/Saudis and the value is : 1
+http://dbpedia.org/resource/Aer_Lingus and http://dbpedia.org/resource/Irish_rebel_song and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+roy beggs jr. born 28 april 1956 is a northern irish politician who has been a member of the legislative assembly mla for east antrim since 1998. he is a member of the ulster unionist party uup. beggs was born in larne county antrim and was educated at larne grammar school and the university of ulster. he worked as a civil servant before entering politics. beggs was first elected to the northern ireland forum in 1996 representing east antrim. he was reelected to the northern ireland assembly in 1998 and has held the seat ever since. he was appointed as the uups spokesperson on the environment in the assembly in 2007. in 2011 he was appointed as the uups spokesperson on health. beggs is a member of the orange order and a former grand master of the county antrim grand orange lodge. he is also a member of the royal black institution. 
+
+Coref Resolved : 
+roy beggs jr. born 28 april 1956 is a northern irish politician who has been a member of the legislative assembly mla for east antrim since 1998. roy beggs jr. born 28 april 1956 is a member of the ulster unionist party uup. roy beggs jr. born 28 april 1956 was born in larne county antrim and was educated at larne county antrim grammar school and the university of ulster. roy beggs jr. born 28 april 1956 worked as a civil servant before entering politics. roy beggs jr. born 28 april 1956 was first elected to the northern ireland forum in 1996 representing east antrim . roy beggs jr. born 28 april 1956 was reelected to the northern ireland assembly in 1998and has held east antrim ever since. roy beggs jr. born 28 april 1956 was appointed as the the ulster unionist party uupspokesperson on the environment in the northern ireland assembly in 2007. in 2011 roy beggs jr. born 28 april 1956 was appointed as the the ulster unionist party uupspokesperson on health. roy beggs jr. born 28 april 1956 is a member of the orange order and a former grand master of the county antrim grand orange lodge. roy beggs jr. born 28 april 1956 is also a member of the royal black institution.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+roy beggs jr. mla born 3 july 1962 is a northern ireland unionist politician and the son of the politician roy beggs. he was born in larne and lives in glenoe. he is also a presbyterian. he is currently an ulster unionist member of the northern ireland assembly for east antrim which his father formerly represented in the westminster parliament. he served as a local councillor on carrickfergus borough council from 2001 to 2011. during this period he had been elected as chairman of the district policing partnership and vicechairman of the local strategic partnership and of the community safety partnership. in 2011 roy beggs was elected as a deputy speaker of the northern ireland assembly. he serves as a member of the assemblys social development committee and the public accounts committee. he has served as a member of the health committee environment committee finance committee deputy chairman of the agriculture committee and regional development committee. beggs is known for his tireless constituency work on behalf of all his constituents in east antrim and has links with many organisations in the area. he is the ulster unionist party spokesperson on social development. in 2003 beggs succeeded in having irish rebel music removed from the inflight entertainment of aer lingus airplanes. he complained of the blatant promotion of opposing points of view on a music channel during a flight from dublin to boston after seeing that derek warfield had a radio channel dedicated to his music. beggs stated it was the same as the speeches of osama bin laden being played on a transatlantic arabian airline. aer lingus removed the material from their flights stating it is something that should not have been on board and we removed it immediately we became aware of it. 
+
+Coref Resolved : 
+roy beggs jr. mla born 3 july 1962 is a northern ireland unionist politician and the son of the politician roy beggs. roy beggs jr. mla born 3 july 1962 was born in larne and lives in glenoe. roy beggs jr. mla born 3 july 1962 is also a presbyterian. roy beggs jr. mla born 3 july 1962 is currently an ulster unionist member of the northern ireland assembly for east antrim which roy beggs jr. mla born 3 july 1962 father formerly represented in the westminster parliament. roy beggs jr. mla born 3 july 1962 served as a local councillor on carrickfergus borough council from 2001 to 2011. during this period roy beggs jr. mla born 3 july 1962 had been elected as chairman of the district policing partnership and vicechairman of the local strategic partnership and of the community safety partnership. in 2011roy beggs jr. mla born 3 july 1962 was elected as a deputy speaker of the northern ireland assembly for east antrim which his father formerly represented in the westminster parliament. roy beggs jr. mla born 3 july 1962 serves as a member of the northern ireland assembly for east antrim which his father formerly represented in the westminster parliamentsocial development committee and the public accounts committee. roy beggs jr. mla born 3 july 1962 has served as a member of the health committee environment committee finance committee deputy chairman of the agriculture committee and regional development committee. roy beggs jr. mla born 3 july 1962 is known for roy beggs jr. mla born 3 july 1962 tireless constituency work on behalf of all roy beggs jr. mla born 3 july 1962 constituents in east antrim which his father formerly represented in the westminster parliamentand has links with many organisations in east antrim which his father formerly represented in the westminster parliament. roy beggs jr. mla born 3 july 1962 is the ulster unionist party spokesperson on social development. in 2003 roy beggs jr. mla born 3 july 1962 succeeded in having irish rebel music removed from the inflight entertainment of aer lingus airplanes. roy beggs jr. mla born 3 july 1962 complained of the blatant promotion of opposing points of view on a music channel during a flight from dublin to boston after seeing that derek warfield had a radio channel dedicated to derek warfield music. roy beggs jr. mla born 3 july 1962 stated it was the same as the speeches of osama bin laden being played on a transatlantic arabian airline. aer lingus removed irish rebel music from aer lingus flights stating irish rebel music is something that should not have been on board and aer lingus removed irish rebel music immediately aer lingus became aware of irish rebel music .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21621621621621623 and for ground truth is : 0.2
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate major_inaccurate 
+

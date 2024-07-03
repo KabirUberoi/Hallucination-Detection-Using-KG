@@ -1,0 +1,223 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Barrister and the value is : 1
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Barrister and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/Barrister and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Barrister and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Eton_College and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Trinity_College,_Cambridge and the value is : 0
+http://dbpedia.org/resource/Barrister and http://dbpedia.org/resource/Eton_College and the value is : 0
+http://dbpedia.org/resource/Barrister and http://dbpedia.org/resource/Trinity_College,_Cambridge and the value is : 0
+http://dbpedia.org/resource/Eton_College and http://dbpedia.org/resource/Trinity_College,_Cambridge and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Queen_regnant and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Courts_of_England_and_Wales and the value is : 1
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Ohio_Courts_of_Common_Pleas and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Knight_Bachelor and the value is : 1
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Courts_of_England_and_Wales and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Ohio_Courts_of_Common_Pleas and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Knight_Bachelor and the value is : 0
+http://dbpedia.org/resource/Courts_of_England_and_Wales and http://dbpedia.org/resource/Ohio_Courts_of_Common_Pleas and the value is : 1
+http://dbpedia.org/resource/Courts_of_England_and_Wales and http://dbpedia.org/resource/Knight_Bachelor and the value is : 0
+http://dbpedia.org/resource/Ohio_Courts_of_Common_Pleas and http://dbpedia.org/resource/Knight_Bachelor and the value is : 1
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Fender_Wide_Range and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Fender_Wide_Range and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Common_law and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Defamation and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Copyright and the value is : 0
+http://dbpedia.org/resource/Common_law and http://dbpedia.org/resource/Defamation and the value is : 0
+http://dbpedia.org/resource/Common_law and http://dbpedia.org/resource/Copyright and the value is : 0
+http://dbpedia.org/resource/Defamation and http://dbpedia.org/resource/Copyright and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/English_literature and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Saturday_Review_(U.S._magazine) and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/William_Shakespeare and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Mystery_fiction and the value is : 0
+http://dbpedia.org/resource/Saturday_Review_(U.S._magazine) and http://dbpedia.org/resource/William_Shakespeare and the value is : 0
+http://dbpedia.org/resource/Saturday_Review_(U.S._magazine) and http://dbpedia.org/resource/Mystery_fiction and the value is : 0
+http://dbpedia.org/resource/William_Shakespeare and http://dbpedia.org/resource/Mystery_fiction and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Poet and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/John_Keats and the value is : 0
+http://dbpedia.org/resource/Poet and http://dbpedia.org/resource/John_Keats and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Neurology and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Doctor_of_Medicine and the value is : 0
+http://dbpedia.org/resource/Neurology and http://dbpedia.org/resource/Doctor_of_Medicine and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Romsey and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Hampshire and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/John_F._Reynolds and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Independent_school and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Henry_Revell_Reynolds and the value is : 1
+http://dbpedia.org/resource/Romsey and http://dbpedia.org/resource/Hampshire and the value is : 0
+http://dbpedia.org/resource/Romsey and http://dbpedia.org/resource/John_F._Reynolds and the value is : 0
+http://dbpedia.org/resource/Romsey and http://dbpedia.org/resource/Independent_school and the value is : 1
+http://dbpedia.org/resource/Romsey and http://dbpedia.org/resource/Henry_Revell_Reynolds and the value is : 0
+http://dbpedia.org/resource/Hampshire and http://dbpedia.org/resource/John_F._Reynolds and the value is : 0
+http://dbpedia.org/resource/Hampshire and http://dbpedia.org/resource/Independent_school and the value is : 0
+http://dbpedia.org/resource/Hampshire and http://dbpedia.org/resource/Henry_Revell_Reynolds and the value is : 0
+http://dbpedia.org/resource/John_F._Reynolds and http://dbpedia.org/resource/Independent_school and the value is : 1
+http://dbpedia.org/resource/John_F._Reynolds and http://dbpedia.org/resource/Henry_Revell_Reynolds and the value is : 0
+http://dbpedia.org/resource/Independent_school and http://dbpedia.org/resource/Henry_Revell_Reynolds and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Pedagogy and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/University_College_London and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Gold_standard and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Columbia_University_Vagelos_College_of_Physicians_and_Surgeons and the value is : 0
+http://dbpedia.org/resource/Pedagogy and http://dbpedia.org/resource/University_College_London and the value is : 0
+http://dbpedia.org/resource/Pedagogy and http://dbpedia.org/resource/Gold_standard and the value is : 0
+http://dbpedia.org/resource/Pedagogy and http://dbpedia.org/resource/Columbia_University_Vagelos_College_of_Physicians_and_Surgeons and the value is : 0
+http://dbpedia.org/resource/University_College_London and http://dbpedia.org/resource/Gold_standard and the value is : 0
+http://dbpedia.org/resource/University_College_London and http://dbpedia.org/resource/Columbia_University_Vagelos_College_of_Physicians_and_Surgeons and the value is : 1
+http://dbpedia.org/resource/Gold_standard and http://dbpedia.org/resource/Columbia_University_Vagelos_College_of_Physicians_and_Surgeons and the value is : 1
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Bachelor_of_Medicine,_Bachelor_of_Surgery and the value is : 1
+http://dbpedia.org/resource/Army_Gold_Medal and http://dbpedia.org/resource/Medicine and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Doctor_of_Medicine and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/University_of_Leeds and the value is : 1
+http://dbpedia.org/resource/Doctor_of_Medicine and http://dbpedia.org/resource/University_of_Leeds and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Lower_Grosvenor_Street and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/George_Marshall-Hall and the value is : 0
+http://dbpedia.org/resource/Lower_Grosvenor_Street and http://dbpedia.org/resource/George_Marshall-Hall and the value is : 0
+http://dbpedia.org/resource/George_Marshall-Hall and http://dbpedia.org/resource/John_Russell_Reynolds and the value is : 0
+http://dbpedia.org/resource/George_Marshall-Hall and http://dbpedia.org/resource/Censure and the value is : 0
+http://dbpedia.org/resource/George_Marshall-Hall and http://dbpedia.org/resource/Censure and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Doctor_of_Medicine and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/University_College_Hospital and the value is : 0
+http://dbpedia.org/resource/Doctor_of_Medicine and http://dbpedia.org/resource/University_College_Hospital and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Doctor_of_Medicine and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/King's_College_Hospital and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Westminster_Hospital and the value is : 0
+http://dbpedia.org/resource/Doctor_of_Medicine and http://dbpedia.org/resource/King's_College_Hospital and the value is : 0
+http://dbpedia.org/resource/Doctor_of_Medicine and http://dbpedia.org/resource/Westminster_Hospital and the value is : 0
+http://dbpedia.org/resource/King's_College_Hospital and http://dbpedia.org/resource/Westminster_Hospital and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Medicine and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/University_College_London and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Gold_standard and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Queen_consort and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Medicine and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/University_College_London and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Gold_standard and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Queen_consort and the value is : 0
+http://dbpedia.org/resource/Medicine and http://dbpedia.org/resource/University_College_London and the value is : 0
+http://dbpedia.org/resource/Medicine and http://dbpedia.org/resource/Gold_standard and the value is : 0
+http://dbpedia.org/resource/Medicine and http://dbpedia.org/resource/Queen_consort and the value is : 0
+http://dbpedia.org/resource/University_College_London and http://dbpedia.org/resource/Gold_standard and the value is : 0
+http://dbpedia.org/resource/University_College_London and http://dbpedia.org/resource/Queen_consort and the value is : 0
+http://dbpedia.org/resource/Gold_standard and http://dbpedia.org/resource/Queen_consort and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Doctor_of_Medicine and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Pathophysiology and the value is : 0
+http://dbpedia.org/resource/Doctor_of_Medicine and http://dbpedia.org/resource/Pathophysiology and the value is : 1
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Fellow_of_the_Royal_Society and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Lumleian_Lectures and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Harveian_Oration and the value is : 1
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Sir_Andrew_Clark,_1st_Baronet and the value is : 1
+http://dbpedia.org/resource/Lumleian_Lectures and http://dbpedia.org/resource/Harveian_Oration and the value is : 0
+http://dbpedia.org/resource/Lumleian_Lectures and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Lumleian_Lectures and http://dbpedia.org/resource/Sir_Andrew_Clark,_1st_Baronet and the value is : 0
+http://dbpedia.org/resource/Harveian_Oration and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Harveian_Oration and http://dbpedia.org/resource/Sir_Andrew_Clark,_1st_Baronet and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Sir_Andrew_Clark,_1st_Baronet and the value is : 0
+http://dbpedia.org/resource/Winter and http://dbpedia.org/resource/John_Russell_Reynolds and the value is : 0
+http://dbpedia.org/resource/Winter and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Lower_Grosvenor_Street and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Pulmonary_edema and the value is : 0
+http://dbpedia.org/resource/Lower_Grosvenor_Street and http://dbpedia.org/resource/Pulmonary_edema and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Ainslie_Football_Club and the value is : 0
+http://dbpedia.org/resource/Baronet and http://dbpedia.org/resource/Lower_Grosvenor_Street and the value is : 0
+http://dbpedia.org/resource/Baronet and http://dbpedia.org/resource/John_Russell_Reynolds and the value is : 0
+http://dbpedia.org/resource/Lower_Grosvenor_Street and http://dbpedia.org/resource/John_Russell_Reynolds and the value is : 0
+http://dbpedia.org/resource/Baronet and http://dbpedia.org/resource/Lower_Grosvenor_Street and the value is : 0
+http://dbpedia.org/resource/Baronet and http://dbpedia.org/resource/Hereditary_peer and the value is : 0
+http://dbpedia.org/resource/Baronet and http://dbpedia.org/resource/John_Russell_Reynolds and the value is : 0
+http://dbpedia.org/resource/Lower_Grosvenor_Street and http://dbpedia.org/resource/Hereditary_peer and the value is : 0
+http://dbpedia.org/resource/Lower_Grosvenor_Street and http://dbpedia.org/resource/John_Russell_Reynolds and the value is : 0
+http://dbpedia.org/resource/Hereditary_peer and http://dbpedia.org/resource/John_Russell_Reynolds and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Essay and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Vertigo and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Tuberculosis and the value is : 1
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Brain_tumor and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Spinal_cord and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Epilepsy and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Insanity and the value is : 0
+http://dbpedia.org/resource/Essay and http://dbpedia.org/resource/Vertigo and the value is : 0
+http://dbpedia.org/resource/Essay and http://dbpedia.org/resource/Tuberculosis and the value is : 0
+http://dbpedia.org/resource/Essay and http://dbpedia.org/resource/Brain_tumor and the value is : 0
+http://dbpedia.org/resource/Essay and http://dbpedia.org/resource/Spinal_cord and the value is : 1
+http://dbpedia.org/resource/Essay and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Essay and http://dbpedia.org/resource/Epilepsy and the value is : 0
+http://dbpedia.org/resource/Essay and http://dbpedia.org/resource/Insanity and the value is : 1
+http://dbpedia.org/resource/Vertigo and http://dbpedia.org/resource/Tuberculosis and the value is : 0
+http://dbpedia.org/resource/Vertigo and http://dbpedia.org/resource/Brain_tumor and the value is : 0
+http://dbpedia.org/resource/Vertigo and http://dbpedia.org/resource/Spinal_cord and the value is : 0
+http://dbpedia.org/resource/Vertigo and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Vertigo and http://dbpedia.org/resource/Epilepsy and the value is : 0
+http://dbpedia.org/resource/Vertigo and http://dbpedia.org/resource/Insanity and the value is : 0
+http://dbpedia.org/resource/Tuberculosis and http://dbpedia.org/resource/Brain_tumor and the value is : 0
+http://dbpedia.org/resource/Tuberculosis and http://dbpedia.org/resource/Spinal_cord and the value is : 0
+http://dbpedia.org/resource/Tuberculosis and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Tuberculosis and http://dbpedia.org/resource/Epilepsy and the value is : 0
+http://dbpedia.org/resource/Tuberculosis and http://dbpedia.org/resource/Insanity and the value is : 0
+http://dbpedia.org/resource/Brain_tumor and http://dbpedia.org/resource/Spinal_cord and the value is : 1
+http://dbpedia.org/resource/Brain_tumor and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Brain_tumor and http://dbpedia.org/resource/Epilepsy and the value is : 0
+http://dbpedia.org/resource/Brain_tumor and http://dbpedia.org/resource/Insanity and the value is : 0
+http://dbpedia.org/resource/Spinal_cord and http://dbpedia.org/resource/Treatise and the value is : 0
+http://dbpedia.org/resource/Spinal_cord and http://dbpedia.org/resource/Epilepsy and the value is : 1
+http://dbpedia.org/resource/Spinal_cord and http://dbpedia.org/resource/Insanity and the value is : 0
+http://dbpedia.org/resource/Treatise and http://dbpedia.org/resource/Epilepsy and the value is : 1
+http://dbpedia.org/resource/Treatise and http://dbpedia.org/resource/Insanity and the value is : 0
+http://dbpedia.org/resource/Epilepsy and http://dbpedia.org/resource/Insanity and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Medicine and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/The_Curse_of_Blondie and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Flood and the value is : 0
+http://dbpedia.org/resource/Medicine and http://dbpedia.org/resource/The_Curse_of_Blondie and the value is : 0
+http://dbpedia.org/resource/Medicine and http://dbpedia.org/resource/Flood and the value is : 0
+http://dbpedia.org/resource/The_Curse_of_Blondie and http://dbpedia.org/resource/Flood and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Medicine and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Erysipelas and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Inflammation and the value is : 1
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Lymphatic_system and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Pathophysiology and the value is : 1
+http://dbpedia.org/resource/Erysipelas and http://dbpedia.org/resource/Inflammation and the value is : 0
+http://dbpedia.org/resource/Erysipelas and http://dbpedia.org/resource/Lymphatic_system and the value is : 0
+http://dbpedia.org/resource/Erysipelas and http://dbpedia.org/resource/Pathophysiology and the value is : 0
+http://dbpedia.org/resource/Inflammation and http://dbpedia.org/resource/Lymphatic_system and the value is : 0
+http://dbpedia.org/resource/Inflammation and http://dbpedia.org/resource/Pathophysiology and the value is : 0
+http://dbpedia.org/resource/Lymphatic_system and http://dbpedia.org/resource/Pathophysiology and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Hayle and the value is : 1
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Tall_Man_(Phantasm) and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Hair and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Public_speaking and the value is : 0
+http://dbpedia.org/resource/Tall_Man_(Phantasm) and http://dbpedia.org/resource/Hair and the value is : 0
+http://dbpedia.org/resource/Tall_Man_(Phantasm) and http://dbpedia.org/resource/Public_speaking and the value is : 0
+http://dbpedia.org/resource/Hair and http://dbpedia.org/resource/Public_speaking and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john russell reynolds 18201876 was an english lawyer judge and author. he was born in london the son of a barrister and was educated at eton college and trinity college cambridge. he was called to the bar in 1845 and became a queens counsel in 1859. he was appointed a judge of the court of common pleas in 1867 and was knighted in 1871. reynolds was a prolific author writing on a wide range of topics. he wrote several books on legal topics including the law of libel and slander 1863 the law of copyright 1865 and the law of patents for inventions 1868. he also wrote on a variety of other topics including history biography and literature. he was a frequent contributor to the saturday review and wrote several books on shakespeare including the mystery of william shakespeare 1848 and the authorship of shakespeare 1875. he also wrote a biography of the poet john keats 1848. 
+
+Coref Resolved : 
+john russell reynolds 18201876 was an english lawyer judge and author. john russell reynolds was born in london the son of a barrister and was educated at eton college and trinity college cambridge. john russell reynolds was called to the bar in 1845 and became a queens counsel in 1859. john russell reynolds was appointed a judge of the court of common pleas in 1867 and was knighted in 1871. john russell reynolds was a prolific author writing on a wide range of topics. john russell reynolds wrote several books on legal topics including the law of libel and slander 1863 the law of copyright 1865 and the law of patents for inventions 1868. john russell reynolds also wrote on a variety of other topics including history biography and literature. john russell reynolds was a frequent contributor to the saturday review and wrote several books on shakespeare including the mystery of william shakespeare 1848 and the authorship of shakespeare 1875. john russell reynolds also wrote a biography of the poet john keats 1848.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+sir john russell reynolds 1st baronet 22 may 1828 29 may 1896 was a british neurologist and physician. reynolds was born in romsey hampshire as the son of john reynolds an independent minister and the grandson of dr. henry revell reynolds. he received general education from his father and was educated in his profession at university college london where he obtained three gold medals in the medical school. in 1851 he graduated m.b. in the university of london and obtained a scholarship and gold medal in medicine. in 1852 he took the degree of m.d. and began practice in leeds. he soon after moved to london and took a house 38 grosvenor street in which dr. marshall hall had lived. hall announced to his patients in a printed circular that reynolds had succeeded him in practice. such procedure was contrary to a recognised understanding among physicians and hall incurred the censure of the college of physicians. reynolds who was ignorant of halls intention was in no way responsible for the circular and was in no way involved in the censure. he was duly elected a fellow of the college in 1859. in the same year he was appointed assistant physician to university college hospital to which he continued attached throughout life. he had before been in 1855 assistant physician to the hospital for sick children and in 1857 assistant physician to the westminster hospital. in 1865 he became professor of the principles and practice of medicine at university college and in 1878 he was appointed physicianinordinary to the queens household. he gained a considerable practice as a physician and was often consulted in difficult cases of nervous disease. in 1869 he was elected a fellow of the royal society and in 1883 vicepresident of the royal medical and chirurgical society. he delivered the lumleian lecture at the college of physicians in 1867 the harveian oration in 1884 and was elected president in 1893 on the death of sir andrew clark. he was reelected in 1894 and 1895 and on 1 january in the latter year was created a baronet. in the winter of 189596 he became too ill to offer himself for reelection as president of the college of physicians. he died at his house in grosvenor street london after several weeks of illness of a pulmonary congestion on 29 may 1896. he was married first to miss ainslie and secondly to frances widow of c. j. c. crespigny but left no children. the reynolds baronetcy of grosvenor street was created in the baronetage of the united kingdom on 28 february 1895 for john russell reynolds. the title became extinct on his death. reynolds devoted himself from an early period to the study of nervous diseases and in 1854 published an essay on vertigo in 1855 diagnosis of diseases of the brain spinal cord and nerves as well as tables for the diagnosis of diseases of the brain in 1861 a treatise on epilepsy in 1871 lectures on the clinical uses of electricity in 1872 the scientific value of the legal tests of insanity besides many papers in medical periodicals and the transactions of medical societies and several addresses to medical associations. his writings on nervous diseases were useful contributions to a department of medicine in which much work remained undone but in the flood of modern observations they have been submerged. he will chiefly be remembered among physicians as the editor of the system of medicine in five volumes published from 1866 to 1879 a collection of essays on diseases written by the most competent men who could be induced to write compositions of varying merit but generally of high value. he himself wrote the parts on erysipelas on inflammation of the lymphatics and on several forms of nervous disease. he published in 1893 a life of dr. walter hayle walshe. reynolds was a tall man with dark hair with a dignified delivery and some oratorical power. reynolds died in london. 
+
+Coref Resolved : 
+sir john russell reynolds 1st baronet 22 may 1828 29 may 1896 was a british neurologist and physician. sir john russell reynolds 1st baronet was born in romsey hampshire as the son of john reynolds an independent minister and the grandson of dr. henry revell reynolds. sir john russell reynolds 1st baronet received general education from sir john russell reynolds 1st baronet father and was educated in sir john russell reynolds 1st baronet profession at university college london where sir john russell reynolds 1st baronet obtained three gold medals in the medical school. in 1851 sir john russell reynolds 1st baronet graduated m.b. in the university of london and obtained a scholarship and gold medal in medicine. in 1852 sir john russell reynolds 1st baronet took the degree of m.d. and began practice in leeds. sir john russell reynolds 1st baronet soon after moved to london and took a house 38 grosvenor street in which dr. marshall hall had lived. dr. marshall hall announced to dr. marshall hall patients in a printed circular that sir john russell reynolds 1st baronet had succeeded dr. marshall hall in practice. such procedure was contrary to a recognised understanding among physicians and dr. marshall hall incurred the censure of the college of physicians. reynolds who was ignorant of dr. marshall hall intention was in no way responsible for a printed circular and was in no way involved in the censure of the college of physicians. sir john russell reynolds 1st baronet was duly elected a fellow of the college of physiciansin 1859. in the same year sir john russell reynolds 1st baronet was appointed assistant physician to university college hospital to which sir john russell reynolds 1st baronet continued attached throughout life. sir john russell reynolds 1st baronet had before been in 1855 assistant physician to the hospital for sick children and in 1857 assistant physician to the westminster hospital. in 1865 sir john russell reynolds 1st baronet became professor of the principles and practice of medicine at university college london where he obtained three gold medals in the medical schooland in 1878 sir john russell reynolds 1st baronet was appointed physicianinordinary to the queens household. sir john russell reynolds 1st baronet gained a considerable practice as a physician and was often consulted in difficult cases of nervous disease. in 1869 sir john russell reynolds 1st baronet was elected a fellow of the royal society and in 1883 vicepresident of the royal medical and chirurgical society. sir john russell reynolds 1st baronet delivered the lumleian lecture at the college of physiciansin 1867 the harveian oration in 1884 and was elected president in 1893 on the death of sir andrew clark. sir john russell reynolds 1st baronet was reelected in 1894 and the latter year and on 1 january in the latter year was created a baronet. in the winter of 189596 sir john russell reynolds 1st baronet became too ill to offer sir john russell reynolds 1st baronet for reelection as president of the college of physicians. sir john russell reynolds 1st baronet died at sir john russell reynolds 1st baronet house in grosvenor street london after several weeks of illness of a pulmonary congestion on 29 may 1896. sir john russell reynolds 1st baronet was married first to miss ainslie and secondly to frances widow of c. j. c. crespigny but left no children. the reynolds baronetcy of grosvenor street was created in the baronetage of the united kingdom on 28 february 1895 for sir john russell reynolds 1st baronet . the reynolds baronetcy of grosvenor street became extinct on sir john russell reynolds 1st baronet death. sir john russell reynolds 1st baronet devoted sir john russell reynolds 1st baronet from an early period to the study of nervous diseases and in 1854 published an essay on vertigo in 1855 diagnosis of diseases of the brain spinal cord and nerves as well as tables for the diagnosis of diseases of the brain in 1861 a treatise on epilepsy in 1871 lectures on the clinical uses of electricity in 1872 the scientific value of the legal tests of insanity besides many papers in medical periodicals and the transactions of medical societies and several addresses to medical associations. sir john russell reynolds 1st baronet writings on nervous diseases were useful contributions to a department of medicine in which much work remained undone but in the flood of modern observations his writings on nervous diseases have been submerged. sir john russell reynolds 1st baronet will chiefly be remembered among physicians as the editor of the system of medicine in five volumes published from 1866 to 1879 a collection of essays on diseases written by the most competent men who could be induced to write compositions of varying merit but generally of high value. he sir john russell reynolds 1st baronet wrote the parts on erysipelas on inflammation of the lymphatics and on several forms of nervous disease. sir john russell reynolds 1st baronet published in 1893 a life of dr. walter hayle walshe. sir john russell reynolds 1st baronet was a tall man with dark hair with a dignified delivery and some oratorical power. sir john russell reynolds 1st baronet died in london .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.11904761904761904 and for ground truth is : 0.13071895424836602
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

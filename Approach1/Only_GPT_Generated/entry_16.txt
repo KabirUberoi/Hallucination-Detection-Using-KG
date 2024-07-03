@@ -1,0 +1,59 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/CBS and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/CBS and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Character_actor and http://dbpedia.org/resource/CBS and the value is : 0
+http://dbpedia.org/resource/Character_actor and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Golden_Age_of_Radio and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Golden_Age_of_Radio and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Golden_Age_of_Radio and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/Golden_Age_of_Radio and http://dbpedia.org/resource/Character_actor and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Liberty and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Sting_operation and the value is : 0
+http://dbpedia.org/resource/Liberty and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Liberty and http://dbpedia.org/resource/Sting_operation and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Sting_operation and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/The_Andy_Griffith_Show and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Untouchability and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Twilight and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/The_Andy_Griffith_Show and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Untouchability and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Twilight and the value is : 0
+http://dbpedia.org/resource/The_Andy_Griffith_Show and http://dbpedia.org/resource/Untouchability and the value is : 0
+http://dbpedia.org/resource/The_Andy_Griffith_Show and http://dbpedia.org/resource/Twilight and the value is : 0
+http://dbpedia.org/resource/Untouchability and http://dbpedia.org/resource/Twilight and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/CBS and the value is : 1
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/CBS and the value is : 0
+http://dbpedia.org/resource/William_Bill and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Rifleman and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+william bill quinn april 28 1912 april 22 1994 was an american actor best known for his role as ralph hourback on the cbs television series the rifleman. quinn was born in new york city and began his career in the 1930s as a radio actor. he appeared in numerous films including the man who shot liberty valance 1962 the music man 1962 and the sting 1973. he also appeared in television series such as the andy griffith show the untouchables and the twilight zone. quinn was a regular on the rifleman appearing in all 168 episodes of the series. he also directed several episodes of the show. quinn died in 1994 at the age of 81. 
+
+Coref Resolved : 
+william bill quinn april 28 1912 april 22 1994 was an american actor best known for william bill quinn role as ralph hourback on the cbs television series the rifleman. william bill quinn was born in new york city and began william bill quinn career in the 1930s as a radio actor. william bill quinn appeared in numerous films including the man who shot liberty valance 1962 the music man 1962 and the sting 1973. william bill quinn also appeared in television series such as the andy griffith show the untouchables and the twilight zone. william bill quinn was a regular on the cbs television series the riflemanappearing in all 168 episodes of the cbs television series the rifleman. william bill quinn also directed several episodes of the cbs television series the rifleman. william bill quinn died in 1994 at the age of 81.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.023809523809523808
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate accurate 
+

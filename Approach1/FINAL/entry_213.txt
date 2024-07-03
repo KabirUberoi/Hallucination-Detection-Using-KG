@@ -1,0 +1,251 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Engraving and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Sculpture and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Engraving and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Sculpture and the value is : 1
+http://dbpedia.org/resource/Engraving and http://dbpedia.org/resource/Sculpture and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Victor_Hugo and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Juliette_Drouet and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Victor_Hugo and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Juliette_Drouet and the value is : 0
+http://dbpedia.org/resource/Victor_Hugo and http://dbpedia.org/resource/Juliette_Drouet and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Victor_Hugo and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Lithography and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Tapestry and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Ceramic_art and the value is : 0
+http://dbpedia.org/resource/Lithography and http://dbpedia.org/resource/Tapestry and the value is : 0
+http://dbpedia.org/resource/Lithography and http://dbpedia.org/resource/Ceramic_art and the value is : 1
+http://dbpedia.org/resource/Tapestry and http://dbpedia.org/resource/Ceramic_art and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Fauvism and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Cubism and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Surrealism and the value is : 0
+http://dbpedia.org/resource/Fauvism and http://dbpedia.org/resource/Cubism and the value is : 0
+http://dbpedia.org/resource/Fauvism and http://dbpedia.org/resource/Surrealism and the value is : 0
+http://dbpedia.org/resource/Cubism and http://dbpedia.org/resource/Surrealism and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Charles_Baudelaire and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paul_I_of_Russia and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paul_Verlaine and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Jean_Cocteau and the value is : 0
+http://dbpedia.org/resource/Charles_Baudelaire and http://dbpedia.org/resource/Paul_I_of_Russia and the value is : 0
+http://dbpedia.org/resource/Charles_Baudelaire and http://dbpedia.org/resource/Paul_Verlaine and the value is : 1
+http://dbpedia.org/resource/Charles_Baudelaire and http://dbpedia.org/resource/Jean_Cocteau and the value is : 1
+http://dbpedia.org/resource/Paul_I_of_Russia and http://dbpedia.org/resource/Paul_Verlaine and the value is : 1
+http://dbpedia.org/resource/Paul_I_of_Russia and http://dbpedia.org/resource/Jean_Cocteau and the value is : 0
+http://dbpedia.org/resource/Paul_Verlaine and http://dbpedia.org/resource/Jean_Cocteau and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paul_I_of_Russia and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paul_Claudel and the value is : 0
+http://dbpedia.org/resource/Paul_I_of_Russia and http://dbpedia.org/resource/Paul_Claudel and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Painting and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Scenic_design and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Scenic_design and the value is : 1
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Scenic_design and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Minute_and_second_of_arc and the value is : 1
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Fourques,_Gard and the value is : 1
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Lunel and the value is : 0
+http://dbpedia.org/resource/Minute_and_second_of_arc and http://dbpedia.org/resource/Fourques,_Gard and the value is : 0
+http://dbpedia.org/resource/Minute_and_second_of_arc and http://dbpedia.org/resource/Lunel and the value is : 0
+http://dbpedia.org/resource/Fourques,_Gard and http://dbpedia.org/resource/Lunel and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Poetry and the value is : 0
+http://dbpedia.org/resource/Fermentation_in_food_processing and http://dbpedia.org/resource/Interwar_period and the value is : 1
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Raymond_Radiguet and the value is : 0
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Pablo_Picasso and the value is : 0
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Georges_Auric and the value is : 0
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Erik_Satie and the value is : 1
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Blaise_Cendrars and the value is : 1
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Duke_of_Noailles and the value is : 0
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Paul_the_Apostle and the value is : 1
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Francis_Poulenc and the value is : 1
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Charles_Dullin and the value is : 1
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Louis_Jouvet and the value is : 0
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Colette and the value is : 1
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Marcel_Proust and the value is : 0
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Jacques_Maritain and the value is : 0
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Max_Jacob and the value is : 1
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Jean_Cocteau and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Pablo_Picasso and the value is : 0
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Georges_Auric and the value is : 0
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Erik_Satie and the value is : 1
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Blaise_Cendrars and the value is : 0
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Duke_of_Noailles and the value is : 1
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Paul_the_Apostle and the value is : 1
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Francis_Poulenc and the value is : 1
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Charles_Dullin and the value is : 0
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Louis_Jouvet and the value is : 0
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Colette and the value is : 0
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Marcel_Proust and the value is : 0
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Jacques_Maritain and the value is : 0
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Max_Jacob and the value is : 0
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Marie_Bell and the value is : 1
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Raymond_Radiguet and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Georges_Auric and the value is : 0
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Erik_Satie and the value is : 0
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Blaise_Cendrars and the value is : 0
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Duke_of_Noailles and the value is : 1
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Paul_the_Apostle and the value is : 0
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Francis_Poulenc and the value is : 1
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Charles_Dullin and the value is : 1
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Louis_Jouvet and the value is : 0
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Colette and the value is : 0
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Marcel_Proust and the value is : 0
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Jacques_Maritain and the value is : 0
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Max_Jacob and the value is : 0
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 1
+http://dbpedia.org/resource/Pablo_Picasso and http://dbpedia.org/resource/Cecil_Beaton and the value is : 1
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Erik_Satie and the value is : 0
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Blaise_Cendrars and the value is : 0
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Duke_of_Noailles and the value is : 1
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Paul_the_Apostle and the value is : 0
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Francis_Poulenc and the value is : 0
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Charles_Dullin and the value is : 1
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Louis_Jouvet and the value is : 0
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Colette and the value is : 0
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Marcel_Proust and the value is : 0
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Jacques_Maritain and the value is : 0
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Max_Jacob and the value is : 0
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Georges_Auric and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Blaise_Cendrars and the value is : 1
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Duke_of_Noailles and the value is : 0
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Paul_the_Apostle and the value is : 0
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Francis_Poulenc and the value is : 0
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Charles_Dullin and the value is : 0
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Louis_Jouvet and the value is : 0
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Colette and the value is : 0
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Marcel_Proust and the value is : 0
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Jacques_Maritain and the value is : 0
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Max_Jacob and the value is : 0
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Erik_Satie and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Blaise_Cendrars and http://dbpedia.org/resource/Duke_of_Noailles and the value is : 0
+http://dbpedia.org/resource/Blaise_Cendrars and http://dbpedia.org/resource/Paul_the_Apostle and the value is : 0
+http://dbpedia.org/resource/Blaise_Cendrars and http://dbpedia.org/resource/Francis_Poulenc and the value is : 0
+http://dbpedia.org/resource/Blaise_Cendrars and http://dbpedia.org/resource/Charles_Dullin and the value is : 0
+http://dbpedia.org/resource/Blaise_Cendrars and http://dbpedia.org/resource/Louis_Jouvet and the value is : 0
+http://dbpedia.org/resource/Blaise_Cendrars and http://dbpedia.org/resource/Colette and the value is : 0
+http://dbpedia.org/resource/Blaise_Cendrars and http://dbpedia.org/resource/Marcel_Proust and the value is : 0
+http://dbpedia.org/resource/Blaise_Cendrars and http://dbpedia.org/resource/Jacques_Maritain and the value is : 0
+http://dbpedia.org/resource/Blaise_Cendrars and http://dbpedia.org/resource/Max_Jacob and the value is : 0
+http://dbpedia.org/resource/Blaise_Cendrars and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Blaise_Cendrars and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Blaise_Cendrars and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Blaise_Cendrars and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Duke_of_Noailles and http://dbpedia.org/resource/Paul_the_Apostle and the value is : 0
+http://dbpedia.org/resource/Duke_of_Noailles and http://dbpedia.org/resource/Francis_Poulenc and the value is : 0
+http://dbpedia.org/resource/Duke_of_Noailles and http://dbpedia.org/resource/Charles_Dullin and the value is : 0
+http://dbpedia.org/resource/Duke_of_Noailles and http://dbpedia.org/resource/Louis_Jouvet and the value is : 0
+http://dbpedia.org/resource/Duke_of_Noailles and http://dbpedia.org/resource/Colette and the value is : 0
+http://dbpedia.org/resource/Duke_of_Noailles and http://dbpedia.org/resource/Marcel_Proust and the value is : 0
+http://dbpedia.org/resource/Duke_of_Noailles and http://dbpedia.org/resource/Jacques_Maritain and the value is : 0
+http://dbpedia.org/resource/Duke_of_Noailles and http://dbpedia.org/resource/Max_Jacob and the value is : 0
+http://dbpedia.org/resource/Duke_of_Noailles and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Duke_of_Noailles and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Duke_of_Noailles and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Duke_of_Noailles and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Paul_the_Apostle and http://dbpedia.org/resource/Francis_Poulenc and the value is : 0
+http://dbpedia.org/resource/Paul_the_Apostle and http://dbpedia.org/resource/Charles_Dullin and the value is : 0
+http://dbpedia.org/resource/Paul_the_Apostle and http://dbpedia.org/resource/Louis_Jouvet and the value is : 0
+http://dbpedia.org/resource/Paul_the_Apostle and http://dbpedia.org/resource/Colette and the value is : 0
+http://dbpedia.org/resource/Paul_the_Apostle and http://dbpedia.org/resource/Marcel_Proust and the value is : 0
+http://dbpedia.org/resource/Paul_the_Apostle and http://dbpedia.org/resource/Jacques_Maritain and the value is : 0
+http://dbpedia.org/resource/Paul_the_Apostle and http://dbpedia.org/resource/Max_Jacob and the value is : 0
+http://dbpedia.org/resource/Paul_the_Apostle and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Paul_the_Apostle and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Paul_the_Apostle and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Paul_the_Apostle and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Francis_Poulenc and http://dbpedia.org/resource/Charles_Dullin and the value is : 0
+http://dbpedia.org/resource/Francis_Poulenc and http://dbpedia.org/resource/Louis_Jouvet and the value is : 0
+http://dbpedia.org/resource/Francis_Poulenc and http://dbpedia.org/resource/Colette and the value is : 0
+http://dbpedia.org/resource/Francis_Poulenc and http://dbpedia.org/resource/Marcel_Proust and the value is : 0
+http://dbpedia.org/resource/Francis_Poulenc and http://dbpedia.org/resource/Jacques_Maritain and the value is : 0
+http://dbpedia.org/resource/Francis_Poulenc and http://dbpedia.org/resource/Max_Jacob and the value is : 0
+http://dbpedia.org/resource/Francis_Poulenc and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 1
+http://dbpedia.org/resource/Francis_Poulenc and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Francis_Poulenc and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Francis_Poulenc and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Charles_Dullin and http://dbpedia.org/resource/Louis_Jouvet and the value is : 1
+http://dbpedia.org/resource/Charles_Dullin and http://dbpedia.org/resource/Colette and the value is : 0
+http://dbpedia.org/resource/Charles_Dullin and http://dbpedia.org/resource/Marcel_Proust and the value is : 0
+http://dbpedia.org/resource/Charles_Dullin and http://dbpedia.org/resource/Jacques_Maritain and the value is : 0
+http://dbpedia.org/resource/Charles_Dullin and http://dbpedia.org/resource/Max_Jacob and the value is : 1
+http://dbpedia.org/resource/Charles_Dullin and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Charles_Dullin and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Charles_Dullin and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Charles_Dullin and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Louis_Jouvet and http://dbpedia.org/resource/Colette and the value is : 0
+http://dbpedia.org/resource/Louis_Jouvet and http://dbpedia.org/resource/Marcel_Proust and the value is : 0
+http://dbpedia.org/resource/Louis_Jouvet and http://dbpedia.org/resource/Jacques_Maritain and the value is : 0
+http://dbpedia.org/resource/Louis_Jouvet and http://dbpedia.org/resource/Max_Jacob and the value is : 0
+http://dbpedia.org/resource/Louis_Jouvet and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Louis_Jouvet and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Louis_Jouvet and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Louis_Jouvet and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Colette and http://dbpedia.org/resource/Marcel_Proust and the value is : 0
+http://dbpedia.org/resource/Colette and http://dbpedia.org/resource/Jacques_Maritain and the value is : 0
+http://dbpedia.org/resource/Colette and http://dbpedia.org/resource/Max_Jacob and the value is : 0
+http://dbpedia.org/resource/Colette and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Colette and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Colette and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Colette and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Marcel_Proust and http://dbpedia.org/resource/Jacques_Maritain and the value is : 0
+http://dbpedia.org/resource/Marcel_Proust and http://dbpedia.org/resource/Max_Jacob and the value is : 0
+http://dbpedia.org/resource/Marcel_Proust and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Marcel_Proust and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Marcel_Proust and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Marcel_Proust and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Jacques_Maritain and http://dbpedia.org/resource/Max_Jacob and the value is : 0
+http://dbpedia.org/resource/Jacques_Maritain and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Jacques_Maritain and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Jacques_Maritain and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Jacques_Maritain and http://dbpedia.org/resource/Cecil_Beaton and the value is : 1
+http://dbpedia.org/resource/Max_Jacob and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 0
+http://dbpedia.org/resource/Max_Jacob and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Max_Jacob and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Max_Jacob and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Carl_Theodor_Dreyer and http://dbpedia.org/resource/Marie_Bell and the value is : 0
+http://dbpedia.org/resource/Carl_Theodor_Dreyer and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Carl_Theodor_Dreyer and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Marie_Bell and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Marie_Bell and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and http://dbpedia.org/resource/Cecil_Beaton and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+jean hugo 18941984 was a french painter illustrator engraver and sculptor. he was born in paris the son of the writer victor hugo and his wife juliette drouet. he was the grandson of the poet novelist and dramatist victor hugo. jean hugo was a prolific artist best known for his drawings and engravings. he also produced paintings lithographs sculptures tapestries and ceramics. he was associated with the art movements of fauvism cubism and surrealism. he illustrated books by authors such as charles baudelaire paul verlaine and jean cocteau. he also designed sets and costumes for the theatre including works by jean cocteau maurice maeterlinck and paul claudel. 
+
+Coref Resolved : 
+jean hugo 18941984 was a french painter illustrator engraver and sculptor. jean hugo was born in paris the son of the writer victor hugo and the writer victor hugo wife juliette drouet. jean hugo was the grandson of the writer victor hugo . jean hugo was a prolific artist best known for jean hugo drawings and engravings. jean hugo also produced paintings lithographs sculptures tapestries and ceramics. jean hugo was associated with the art movements of fauvism cubism and surrealism. jean hugo illustrated books by authors such as charles baudelaire paul verlaine and jean cocteau. jean hugo also designed sets and costumes for the theatre including works by jean cocteaumaurice maeterlinck and paul claudel.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+jean hugo 19 november 1894 21 june 1984 was a painter illustrator theatre designer and author. he was born in paris and died in his home at the mas de fourques near lunel france. brought up in a lively artistic environment he began teaching himself drawing and painting and wrote essays and poetry from a very early age. his artistic career spanned the 20th century from his early sketches of the first world war through the creative ferment of the parisian interwar years and up to his death in 1984. he was part of a number of artistic circles that included jean cocteau raymond radiguet pablo picasso georges auric erik satie blaise cendrars marielaure de noailles paul eluard francis poulenc charles dullin louis jouvet colette marcel proust jacques maritain max jacob carl theodor dreyer marie bell louise de vilmorin cecil beaton and many others. 
+
+Coref Resolved : 
+jean hugo 19 november 1894 21 june 1984 was a painter illustrator theatre designer and author. he was born in paris and his death in 1984in he home at the mas de fourques near lunel france. brought up in a lively artistic environment he began teaching he drawing and painting and wrote essays and poetry from a very early age. he artistic career spanned the 20th century from he early sketches of the first world war through the creative ferment of the parisian interwar years and up to he death in 1984 . he was part of a number of artistic circles that included jean cocteau raymond radiguet pablo picasso georges auric erik satie blaise cendrars marielaure de noailles paul eluard francis poulenc charles dullin louis jouvet colette marcel proust jacques maritain max jacob carl theodor dreyer marie bell louise de vilmorin cecil beaton and many others.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2631578947368421 and for ground truth is : 0.15675675675675677
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate accurate accurate accurate accurate minor_inaccurate minor_inaccurate 
+

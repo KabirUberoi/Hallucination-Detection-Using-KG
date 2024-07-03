@@ -1,0 +1,144 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/York_Racecourse and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/York_Racecourse and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/York_Racecourse and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Teen_idol and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Teen_idol and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Love_song and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Love_song and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Love_song and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Love_song and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/Love_song and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Addiction and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Drug_overdose and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Saint_Joseph and the value is : 0
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Rock_and_roll and the value is : 1
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Songwriter and the value is : 1
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Boy_soprano and the value is : 0
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/Rock_and_roll and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/Boy_soprano and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Rock_and_roll and the value is : 1
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Boy_soprano and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/Boy_soprano and the value is : 0
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Boy_soprano and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Boy_soprano and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Rock_and_roll and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Rock_and_roll and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/African_Americans and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Frankie_Lymon and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Jimmy_Merchant and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Sherman_Garnes and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Puerto_Ricans and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Herman_Santiago and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Negroni and the value is : 0
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/African_Americans and the value is : 0
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/Jimmy_Merchant and the value is : 1
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/Sherman_Garnes and the value is : 0
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/Puerto_Ricans and the value is : 0
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/Herman_Santiago and the value is : 1
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/Negroni and the value is : 0
+http://dbpedia.org/resource/African_Americans and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/African_Americans and http://dbpedia.org/resource/Jimmy_Merchant and the value is : 0
+http://dbpedia.org/resource/African_Americans and http://dbpedia.org/resource/Sherman_Garnes and the value is : 0
+http://dbpedia.org/resource/African_Americans and http://dbpedia.org/resource/Puerto_Ricans and the value is : 0
+http://dbpedia.org/resource/African_Americans and http://dbpedia.org/resource/Herman_Santiago and the value is : 0
+http://dbpedia.org/resource/African_Americans and http://dbpedia.org/resource/Negroni and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Jimmy_Merchant and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Sherman_Garnes and the value is : 1
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Puerto_Ricans and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Herman_Santiago and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Negroni and the value is : 0
+http://dbpedia.org/resource/Jimmy_Merchant and http://dbpedia.org/resource/Sherman_Garnes and the value is : 0
+http://dbpedia.org/resource/Jimmy_Merchant and http://dbpedia.org/resource/Puerto_Ricans and the value is : 0
+http://dbpedia.org/resource/Jimmy_Merchant and http://dbpedia.org/resource/Herman_Santiago and the value is : 0
+http://dbpedia.org/resource/Jimmy_Merchant and http://dbpedia.org/resource/Negroni and the value is : 0
+http://dbpedia.org/resource/Sherman_Garnes and http://dbpedia.org/resource/Puerto_Ricans and the value is : 0
+http://dbpedia.org/resource/Sherman_Garnes and http://dbpedia.org/resource/Herman_Santiago and the value is : 0
+http://dbpedia.org/resource/Sherman_Garnes and http://dbpedia.org/resource/Negroni and the value is : 0
+http://dbpedia.org/resource/Puerto_Ricans and http://dbpedia.org/resource/Herman_Santiago and the value is : 0
+http://dbpedia.org/resource/Puerto_Ricans and http://dbpedia.org/resource/Negroni and the value is : 0
+http://dbpedia.org/resource/Herman_Santiago and http://dbpedia.org/resource/Negroni and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Rock_and_roll and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Love_song and the value is : 0
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/Rock_and_roll and http://dbpedia.org/resource/Love_song and the value is : 0
+http://dbpedia.org/resource/Extended_play and http://dbpedia.org/resource/Love_song and the value is : 1
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Saint_Joseph and the value is : 0
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Rock_and_roll and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/Frankie_Lymon and the value is : 1
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/Rock_and_roll and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Rock_and_roll and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Rock_and_roll and the value is : 0
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Saint_Joseph and the value is : 0
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Heroin and the value is : 0
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Drug_overdose and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/Heroin and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/Drug_overdose and the value is : 1
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Heroin and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Drug_overdose and the value is : 0
+http://dbpedia.org/resource/Heroin and http://dbpedia.org/resource/Drug_overdose and the value is : 0
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Saint_Joseph and the value is : 0
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/The_Franklin's_Tale and http://dbpedia.org/resource/Love_(Kendrick_Lamar_song) and the value is : 0
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/Frankie_Lymon and the value is : 1
+http://dbpedia.org/resource/Saint_Joseph and http://dbpedia.org/resource/Love_(Kendrick_Lamar_song) and the value is : 1
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Love_(Kendrick_Lamar_song) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+frankie lymon september 30 1942 february 27 1968 was an american rock and rollrhythm and blues singer and songwriter best known as the lead singer of the new york citybased early rock and roll group the teenagers. lymon was one of the first africanamerican teenagers to be widely accepted as a teen idol. he was noted for his highpitched voice and his ability to sing in a whining style. his group the teenagers was composed of five boys all of whom were in their midteens. the group had a number of hit singles including why do fools fall in love which was lymons biggest hit and one of the biggest hits of the rock and roll era. lymons success as a singer and a performer was shortlived however as he struggled with drug addiction and personal problems. he died of a drug overdose at the age of 25. 
+
+Coref Resolved : 
+frankie lymon september 30 1942 february 27 1968 was an american rock and rollrhythm and blues singer and songwriter best known as the lead singer of the new york citybased early rock and roll group the teenagers. frankie lymon was one of the first africanamerican teenagers to be widely accepted as a teen idol. frankie lymon was noted for frankie lymon highpitched voice and frankie lymon ability to sing in a whining style. frankie lymon group the teenagers was composed of five boys all of whom were in five boys all of whom were in their midteensmidteens. the new york citybased early rock and roll group the teenagershad a number of hit singles including why do fools fall in love which was frankie lymon biggest hit and one of the biggest hits of the rock and roll era. frankie lymon success as a singer and a performer was shortlived however as frankie lymon struggled with drug addiction and personal problems. frankie lymon died of a drug overdose at the age of 25.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+franklin joseph frankie lymon september 30 1942 february 27 1968 was an american rock and rollrhythm and blues singer and songwriter best known as the boy soprano lead singer of the new york citybased early rock and roll group the teenagers. the group was composed of five boys all in their early to midteens. the original lineup of the teenagers an integrated group included three african american members frankie lymon jimmy merchant and sherman garnes and two puerto rican members herman santiago and joe negroni. the teenagers first single 1956s why do fools fall in love was also their biggest hit. after lymon went solo in mid1957 both his career and that of the teenagers fell into decline. he was found dead at the age of 25 in his grandmothers bathroom from a heroin overdose. his life was dramatized in the 1998 film why do fools fall in love. 
+
+Coref Resolved : 
+franklin joseph frankie lymon september 30 1942 february 27 1968 was an american rock and rollrhythm and blues singer and songwriter best known as the boy soprano lead singer of the new york citybased early rock and roll group the teenagers. the new york citybased early rock and roll group the teenagerswas composed of five boys all in five boys all in their early to midteensearly to midteens. the original lineup of the new york citybased early rock and roll group the teenagersincluded three african american members frankie lymon jimmy merchant and sherman garnes and two puerto rican members herman santiago and joe negroni. the new york citybased early rock and roll group the teenagersfirst single 1956s why do fools fall in love was also the new york citybased early rock and roll group the teenagersbiggest hit. after franklin joseph frankie lymon went solo in mid1957 both franklin joseph frankie lymon career and that of the new york citybased early rock and roll group the teenagersfell into decline. franklin joseph frankie lymon was found dead at the age of 25 in franklin joseph frankie lymon grandmothers bathroom from a heroin overdose. franklin joseph frankie lymon life was dramatized in the 1998 film why do fools fall in love.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.038461538461538464 and for ground truth is : 0.17777777777777778
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate accurate accurate 
+

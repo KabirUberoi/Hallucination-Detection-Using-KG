@@ -1,0 +1,69 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Neuchâtel and the value is : 1
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Switzerland and the value is : 0
+http://dbpedia.org/resource/Neuchâtel and http://dbpedia.org/resource/Switzerland and the value is : 1
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Sonic_the_Hedgehog and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Hobbit and the value is : 0
+http://dbpedia.org/resource/Sonic_the_Hedgehog and http://dbpedia.org/resource/Hobbit and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Baron_of_Dunsany and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/European_dragon and the value is : 1
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Ouroboros and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Mabinogion and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Tetralogy and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Evangeline_Walton and the value is : 0
+http://dbpedia.org/resource/Baron_of_Dunsany and http://dbpedia.org/resource/European_dragon and the value is : 0
+http://dbpedia.org/resource/Baron_of_Dunsany and http://dbpedia.org/resource/Ouroboros and the value is : 0
+http://dbpedia.org/resource/Baron_of_Dunsany and http://dbpedia.org/resource/Mabinogion and the value is : 0
+http://dbpedia.org/resource/Baron_of_Dunsany and http://dbpedia.org/resource/Tetralogy and the value is : 0
+http://dbpedia.org/resource/Baron_of_Dunsany and http://dbpedia.org/resource/Evangeline_Walton and the value is : 1
+http://dbpedia.org/resource/European_dragon and http://dbpedia.org/resource/Ouroboros and the value is : 0
+http://dbpedia.org/resource/European_dragon and http://dbpedia.org/resource/Mabinogion and the value is : 0
+http://dbpedia.org/resource/European_dragon and http://dbpedia.org/resource/Tetralogy and the value is : 0
+http://dbpedia.org/resource/European_dragon and http://dbpedia.org/resource/Evangeline_Walton and the value is : 0
+http://dbpedia.org/resource/Ouroboros and http://dbpedia.org/resource/Mabinogion and the value is : 0
+http://dbpedia.org/resource/Ouroboros and http://dbpedia.org/resource/Tetralogy and the value is : 1
+http://dbpedia.org/resource/Ouroboros and http://dbpedia.org/resource/Evangeline_Walton and the value is : 0
+http://dbpedia.org/resource/Mabinogion and http://dbpedia.org/resource/Tetralogy and the value is : 1
+http://dbpedia.org/resource/Mabinogion and http://dbpedia.org/resource/Evangeline_Walton and the value is : 0
+http://dbpedia.org/resource/Tetralogy and http://dbpedia.org/resource/Evangeline_Walton and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Sonic_the_Hedgehog and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Trilogy and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Peter_Jackson and the value is : 1
+http://dbpedia.org/resource/Sonic_the_Hedgehog and http://dbpedia.org/resource/Trilogy and the value is : 0
+http://dbpedia.org/resource/Sonic_the_Hedgehog and http://dbpedia.org/resource/Peter_Jackson and the value is : 0
+http://dbpedia.org/resource/Trilogy and http://dbpedia.org/resource/Peter_Jackson and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/The_Chronicles_of_Narnia and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Wardrobe and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Compass and the value is : 1
+http://dbpedia.org/resource/The_Chronicles_of_Narnia and http://dbpedia.org/resource/Wardrobe and the value is : 0
+http://dbpedia.org/resource/The_Chronicles_of_Narnia and http://dbpedia.org/resource/Compass and the value is : 1
+http://dbpedia.org/resource/Wardrobe and http://dbpedia.org/resource/Compass and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Concept_art and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Video_game and the value is : 1
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/The_Elder_Scrolls and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim and the value is : 0
+http://dbpedia.org/resource/Concept_art and http://dbpedia.org/resource/Video_game and the value is : 0
+http://dbpedia.org/resource/Concept_art and http://dbpedia.org/resource/The_Elder_Scrolls and the value is : 0
+http://dbpedia.org/resource/Concept_art and http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim and the value is : 0
+http://dbpedia.org/resource/Video_game and http://dbpedia.org/resource/The_Elder_Scrolls and the value is : 0
+http://dbpedia.org/resource/Video_game and http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim and the value is : 0
+http://dbpedia.org/resource/The_Elder_Scrolls and http://dbpedia.org/resource/The_Elder_Scrolls_V:_Skyrim and the value is : 1
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/Hugo_Award and the value is : 0
+http://dbpedia.org/resource/John_Howe_(illustrator) and http://dbpedia.org/resource/High_fantasy and the value is : 0
+http://dbpedia.org/resource/Hugo_Award and http://dbpedia.org/resource/High_fantasy and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john howe born august 21 1957 is a canadian illustrator living in neuchâtel switzerland. he is best known for his illustrations for j. r. r. tolkiens works such as the lord of the rings and the hobbit. he has also illustrated books for other authors such as the king of elflands daughter by lord dunsany the worm ouroboros by e. r. eddison and the mabinogion tetralogy by evangeline walton. howe has also worked as a conceptual designer for films including the lord of the rings film trilogy directed by peter jackson. he was also a conceptual designer for the films the chronicles of narnia the lion the witch and the wardrobe and the golden compass. he has also worked as a concept artist for the video game the elder scrolls v skyrim. howe has won numerous awards for his work including the hugo award for best professional artist in 2003 and the world fantasy award for best artist in 2004. he was also inducted into the science 
+
+Coref Resolved : 
+john howe born august 21 1957 is a canadian illustrator living in neuchâtel switzerland. john howe born august 21 1957 is best known for john howe born august 21 1957 illustrations for j. r. r. tolkiens works such as the lord of the rings and the hobbit. john howe born august 21 1957 has also illustrated books for other authors such as the king of elflands daughter by lord dunsany the worm ouroboros by e. r. eddison and the mabinogion tetralogy by evangeline walton. john howe born august 21 1957 has also worked as a conceptual designer for films including the the lord of the rings film trilogy directed by peter jackson. john howe born august 21 1957 was also a conceptual designer for the films the chronicles of narnia the lion the witch and the wardrobe and the golden compass. john howe born august 21 1957 has also worked as a concept artist for the video game the elder scrolls v skyrim. john howe born august 21 1957 has won numerous awards for john howe born august 21 1957 work including the hugo award for best professional artist in 2003 and the world fantasy award for best artist in 2004. john howe born august 21 1957 was also inducted into the science
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21153846153846154
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate accurate accurate major_inaccurate minor_inaccurate minor_inaccurate 
+

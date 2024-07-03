@@ -1,0 +1,80 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Mayor_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Chicago and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Chicago and the value is : 1
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Illinois and the value is : 1
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Carter_Harrison_Sr. and the value is : 1
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/William_Henry_Harrison and the value is : 1
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Trade_union and the value is : 0
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/William_Henry_Harrison and the value is : 1
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Trade_union and the value is : 0
+http://dbpedia.org/resource/William_Henry_Harrison and http://dbpedia.org/resource/Trade_union and the value is : 1
+http://dbpedia.org/resource/Assassination_of_Abraham_Lincoln and http://dbpedia.org/resource/Spoils_system and the value is : 0
+http://dbpedia.org/resource/William_Henry_Harrison and http://dbpedia.org/resource/Lexington,_Kentucky and the value is : 0
+http://dbpedia.org/resource/William_Henry_Harrison and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/William_Henry_Harrison and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Lexington,_Kentucky and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Lexington,_Kentucky and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Trade_union and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Trade_union and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Working_class and the value is : 1
+http://dbpedia.org/resource/Civil_and_political_rights and http://dbpedia.org/resource/Political_machine and the value is : 1
+http://dbpedia.org/resource/Assassination_of_Abraham_Lincoln and http://dbpedia.org/resource/Spoils_system and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/February_15 and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/February_15 and http://dbpedia.org/resource/Mayor_of_Chicago and the value is : 0
+http://dbpedia.org/resource/February_15 and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/February_15 and http://dbpedia.org/resource/Assassination_of_Abraham_Lincoln and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Mayor_of_Chicago and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Illinois and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Assassination_of_Abraham_Lincoln and the value is : 0
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Mayor_of_Chicago and http://dbpedia.org/resource/Assassination_of_Abraham_Lincoln and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Assassination_of_Abraham_Lincoln and the value is : 1
+http://dbpedia.org/resource/William_Henry_Harrison and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Lexington,_Kentucky and http://dbpedia.org/resource/Carter_Harrison_Sr. and the value is : 0
+http://dbpedia.org/resource/Lexington,_Kentucky and http://dbpedia.org/resource/Caroline_Russell and the value is : 0
+http://dbpedia.org/resource/Carter_Harrison_Sr. and http://dbpedia.org/resource/Caroline_Russell and the value is : 0
+http://dbpedia.org/resource/Yale_College and http://dbpedia.org/resource/Scroll and the value is : 0
+http://dbpedia.org/resource/Transylvania_University and http://dbpedia.org/resource/Lexington,_Kentucky and the value is : 0
+http://dbpedia.org/resource/Transylvania_University and http://dbpedia.org/resource/Bachelor_of_Laws and the value is : 0
+http://dbpedia.org/resource/Lexington,_Kentucky and http://dbpedia.org/resource/Bachelor_of_Laws and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/William_Henry_Harrison and the value is : 0
+http://dbpedia.org/resource/William_Henry_Harrison and http://dbpedia.org/resource/1872_United_States_presidential_election and the value is : 1
+http://dbpedia.org/resource/William_Henry_Harrison and http://dbpedia.org/resource/Margaret_Tudor and the value is : 0
+http://dbpedia.org/resource/William_Henry_Harrison and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Margaret_Tudor and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 1
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+carter henry harrison sr . august 15 1825 october 28 1893 american politician served terms mayor chicago illinois 1879 1887 1889 1893 . son citys mayor carter henry harrison i. harrison democrat strong supporter labor unions . assassinated disgruntled office seeker 1893 . harrison born lexington kentucky moved chicago 1853 . elected illinois house representatives 1864 served 1872 . elected mayor chicago 1879 served 1887 . tenure strong advocate labor unions instrumental passage eighthour law 1885 . reelected 1889 served assassination 1893 . popular mayor known support working class . strong advocate civil rights vocal opponent citys corrupt political machine . assassinated disgruntled office seeker 1893 . 
+
+Coref Resolved : 
+carter henry harrison sr . august 15 1825 october 28 1893 american politician served terms mayor chicago illinois 1879 1887 1889 1893 . son citys mayor carter henry harrison i. harrison democrat strong supporter labor unions . assassinated disgruntled office seeker 1893 . harrison born lexington kentucky moved chicago illinois 1853 . elected illinois house representatives 1864 served 1872 . elected mayor chicago illinois 1879 served 1887 . tenure strong advocate labor unions instrumental passage eighthour law 1885 . reelected 1889 served assassination 1893 . popular mayor known support working class . strong advocate civil rights vocal opponent citys corrupt political machine . assassinated disgruntled office seeker 1893 .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+carter henry harrison sr . february 15 1825 october 28 1893 american politician served mayor chicago illinois 1879 1887 subsequently elected fifth term 1893 assassinated completing term . previously served terms united states house representatives . harrison cousin twice removed president william henry harrison . born near lexington kentucky carter henry harrison ii caroline russell months old father died . educated private tutors graduated yale college 1845 member scroll key . following graduation traveled studied europe 1851 1853 entering transylvania college lexington earned law degree 1855 . admitted bar 1855 commenced practice chicago harrison came chicago saw land opportunity . harrison ran unsuccessful campaign 1872 election fortythird congress . beginning 1874 served member board commissioners cook county . elected democrat fortyfourth fortyfifth congresses delegate 1880 1884 democratic national conventions . harrison married margarette margaret e. stearns 1882 following death wife 1876 . daughter chicago pioneer marcus c. stearns . 
+
+Coref Resolved : 
+carter henry harrison sr . february 15 1825 october 28 1893 american politician served mayor chicago illinois 1879 1887 subsequently elected fifth term 1893 assassinated completing term . previously served terms united states house representatives . harrison cousin twice removed president william henry harrison . born near lexington kentucky carter henry harrison ii caroline russell months old father died . educated private tutors graduated yale college 1845 member scroll key . following graduation traveled studied europe 1851 1853 entering transylvania college lexington kentucky earned law degree 1855 . admitted bar 1855 commenced practice chicago illinois harrison came chicago illinois saw land opportunity . harrison ran unsuccessful campaign 1872 election fortythird congress . beginning 1874 served member board commissioners cook county . elected democrat fortyfourth fortyfifth congresses delegate 1880 1884 democratic national conventions . harrison married margarette margaret e. stearns 1882 following death wife 1876 . daughter chicago illinois pioneer marcus c. stearns .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.35714285714285715 and for ground truth is : 0.25
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate accurate minor_inaccurate accurate 
+

@@ -1,0 +1,48 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Professional_baseball and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 1
+http://dbpedia.org/resource/St._Louis_Cardinals and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball_Most_Valuable_Player_Award and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Chicago_Blackhawks and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Illinois_Fighting_Illini_football and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Decatur_Commodores and the value is : 1
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/Illinois_Fighting_Illini_football and the value is : 1
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Chicago_Blackhawks and http://dbpedia.org/resource/Decatur_Commodores and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Decatur_Commodores and the value is : 1
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Decatur_Commodores and the value is : 1
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Decatur_Commodores and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/Run_batted_in and http://dbpedia.org/resource/At_bat and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+whitey kurowski april 4 1916 october 15 1999 was an american professional baseball player. he played in major league baseball as a third baseman for the st. louis cardinals 19381948 and philadelphia phillies 19491951. kurowski was a fivetime allstar and was the national league mvp in 1943. he was known for his strong throwing arm and his ability to hit for power and average. kurowski was born in chicago illinois and began his professional baseball career in 1934 with the minor league decatur commodores. he made his major league debut with the cardinals in 1938 and was a regular starter by 1940. he was selected to the allstar team in 1941 1942 1943 1945 and 1947. in 1943 he led the national league in runs batted in rbis with 120 and was named the leagues most valuable player. he also led the league in rbis in 1945 with 108. kurowski was traded to the phillies in 1949 and played two seasons with them before retiring in 
+
+Coref Resolved : 
+whitey kurowski april 4 1916 october 15 1999 was an american professional baseball player. whitey kurowski played in major league baseball as a third baseman for the st. louis cardinals 19381948 and philadelphia phillies 19491951. whitey kurowski was a fivetime allstar and was the national league mvp in 1943. whitey kurowski was known for whitey kurowski strong throwing arm and whitey kurowski ability to hit for power and average. whitey kurowski was born in chicago illinois and began whitey kurowski professional baseball career in 1934 with the minor league decatur commodores. whitey kurowski made whitey kurowski major league debut with the st. louis cardinals in 1938 and was a regular starter by 1940. whitey kurowski was selected to the allstar team in 1941 1942 1943 1945 and 1947. in 1943whitey kurowski led national league in runs batted in rbis with 120 and was named the leagues most valuable player. whitey kurowski also led national league in rbis in 1945 with 108. whitey kurowski was traded to philadelphia phillies in 1949 and played two seasons with philadelphia phillies before retiring in
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3225806451612903
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

@@ -1,0 +1,43 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Australians and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Greater_Western_Sydney and the value is : 1
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Art_museum and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/South_Wales and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Australian_art and the value is : 1
+http://dbpedia.org/resource/Art_museum and http://dbpedia.org/resource/South_Wales and the value is : 0
+http://dbpedia.org/resource/Art_museum and http://dbpedia.org/resource/Australian_art and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/Australian_art and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/National_Art_School and the value is : 1
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Electoral_district_of_Darlinghurst and the value is : 0
+http://dbpedia.org/resource/National_Art_School and http://dbpedia.org/resource/Electoral_district_of_Darlinghurst and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Archibald_Prize and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Sir_John_Sulman_Prize and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Doug_Moran_National_Portrait_Prize and the value is : 1
+http://dbpedia.org/resource/Archibald_Prize and http://dbpedia.org/resource/Sir_John_Sulman_Prize and the value is : 0
+http://dbpedia.org/resource/Archibald_Prize and http://dbpedia.org/resource/Doug_Moran_National_Portrait_Prize and the value is : 0
+http://dbpedia.org/resource/Sir_John_Sulman_Prize and http://dbpedia.org/resource/Doug_Moran_National_Portrait_Prize and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Wynne_Prize and the value is : 1
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Blake_Prize and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Brett_Whiteley_Travelling_Art_Scholarship and the value is : 0
+http://dbpedia.org/resource/Wynne_Prize and http://dbpedia.org/resource/Blake_Prize and the value is : 0
+http://dbpedia.org/resource/Wynne_Prize and http://dbpedia.org/resource/Brett_Whiteley_Travelling_Art_Scholarship and the value is : 0
+http://dbpedia.org/resource/Blake_Prize and http://dbpedia.org/resource/Brett_Whiteley_Travelling_Art_Scholarship and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Australian_art and the value is : 0
+http://dbpedia.org/resource/Nigel_Milsom and http://dbpedia.org/resource/Guggenheim_Fellowship and the value is : 0
+http://dbpedia.org/resource/Australian_art and http://dbpedia.org/resource/Guggenheim_Fellowship and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+nigel milsom born 1979 is an australian artist. he is known for his largescale figurative paintings which often depict people from his local area in sydneys western suburbs. his works are held in the collections of the art gallery of new south wales the national gallery of australia and the museum of contemporary art australia. milsom was born in sydney and studied at the national art school in darlinghurst. he has been the recipient of numerous awards including the archibald prize in 2013 the sulman prize in 2014 and the doug moran national portrait prize in 2016. he has also been a finalist in the wynne prize the blake prize and the brett whiteley travelling art scholarship. in 2017 he was awarded the australia councils visual arts fellowship. 
+
+Coref Resolved : 
+nigel milsom born 1979 is an australian artist. nigel milsom born 1979 is known for nigel milsom born 1979 largescale figurative paintings which often depict people from nigel milsom born 1979 local area in sydneys western suburbs. nigel milsom born 1979 works are held in the collections of the art gallery of new south wales the national gallery of australia and the museum of contemporary art australia. nigel milsom born 1979 was born in sydneys and studied at the national art school in darlinghurst. nigel milsom born 1979 has been the recipient of numerous awards including the archibald prize in 2013 the sulman prize in 2014 and the doug moran national portrait prize in 2016. nigel milsom born 1979 has also been a finalist in the wynne prize the blake prize and the brett whiteley travelling art scholarship. in 2017 nigel milsom born 1979 was awarded the australia councils visual arts fellowship.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.19230769230769232
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,143 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Inverness and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Scotland and the value is : 1
+http://dbpedia.org/resource/Inverness and http://dbpedia.org/resource/Scotland and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Liberalism and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Toronto_Centre and the value is : 0
+http://dbpedia.org/resource/Liberalism and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Liberalism and http://dbpedia.org/resource/Toronto_Centre and the value is : 1
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Toronto_Centre and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Supreme_Court_of_Canada and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Supreme_Court_of_Canada and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Temperance_movement and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Lieutenant_governor and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Lieutenant_governor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 1
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Lieutenant_governor and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Lieutenant_governor and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 1
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Lieutenant_governor and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 0
+http://dbpedia.org/resource/Lieutenant_governor and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 0
+http://dbpedia.org/resource/Uigg,_Prince_Edward_Island and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 0
+http://dbpedia.org/resource/Uigg,_Prince_Edward_Island and http://dbpedia.org/resource/Donald_Alexander_MacKinnon and the value is : 0
+http://dbpedia.org/resource/Uigg,_Prince_Edward_Island and http://dbpedia.org/resource/Grammar_school and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and http://dbpedia.org/resource/Donald_Alexander_MacKinnon and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and http://dbpedia.org/resource/Grammar_school and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Grammar_school and the value is : 1
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Charlottetown and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Charlottetown and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Articled_clerk and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Thomas_Gordon_McLeod and the value is : 0
+http://dbpedia.org/resource/Articled_clerk and http://dbpedia.org/resource/Thomas_Gordon_McLeod and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Schulich_School_of_Law and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Lawyer and the value is : 1
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Barrister and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Barrister and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Queen_consort and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Georgetown_University and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 1
+http://dbpedia.org/resource/Georgetown_University and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 1
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Law_society and the value is : 1
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Law_society and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 0
+http://dbpedia.org/resource/Law_society and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/4th_Kings and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and http://dbpedia.org/resource/4th_Kings and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and http://dbpedia.org/resource/4th_Kings and the value is : 1
+http://dbpedia.org/resource/Electoral_district and http://dbpedia.org/resource/4th_Kings and the value is : 1
+http://dbpedia.org/resource/Alexander_III_of_Russia and http://dbpedia.org/resource/Attorney_general and the value is : 0
+http://dbpedia.org/resource/Alexander_III_of_Russia and http://dbpedia.org/resource/Cabinet_of_Canada and the value is : 0
+http://dbpedia.org/resource/Alexander_III_of_Russia and http://dbpedia.org/resource/Donald_Farquharson_(politician) and the value is : 0
+http://dbpedia.org/resource/Alexander_III_of_Russia and http://dbpedia.org/resource/Donald_Alexander_MacKinnon and the value is : 0
+http://dbpedia.org/resource/Attorney_general and http://dbpedia.org/resource/Cabinet_of_Canada and the value is : 0
+http://dbpedia.org/resource/Attorney_general and http://dbpedia.org/resource/Donald_Farquharson_(politician) and the value is : 0
+http://dbpedia.org/resource/Attorney_general and http://dbpedia.org/resource/Donald_Alexander_MacKinnon and the value is : 0
+http://dbpedia.org/resource/Cabinet_of_Canada and http://dbpedia.org/resource/Donald_Farquharson_(politician) and the value is : 1
+http://dbpedia.org/resource/Cabinet_of_Canada and http://dbpedia.org/resource/Donald_Alexander_MacKinnon and the value is : 0
+http://dbpedia.org/resource/Donald_Farquharson_(politician) and http://dbpedia.org/resource/Donald_Alexander_MacKinnon and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Liberalism and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Queen_consort and the value is : 1
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/1900_Canadian_federal_election and the value is : 1
+http://dbpedia.org/resource/Liberalism and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Liberalism and http://dbpedia.org/resource/Queen_consort and the value is : 0
+http://dbpedia.org/resource/Liberalism and http://dbpedia.org/resource/1900_Canadian_federal_election and the value is : 0
+http://dbpedia.org/resource/Electoral_district and http://dbpedia.org/resource/Queen_consort and the value is : 0
+http://dbpedia.org/resource/Electoral_district and http://dbpedia.org/resource/1900_Canadian_federal_election and the value is : 1
+http://dbpedia.org/resource/Queen_consort and http://dbpedia.org/resource/1900_Canadian_federal_election and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/By-election and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Lieutenant_governor and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 0
+http://dbpedia.org/resource/Lieutenant_governor and http://dbpedia.org/resource/Legislative_Assembly_of_Prince_Edward_Island and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/Queen_consort and the value is : 0
+http://dbpedia.org/resource/Donald_Alexander_MacKinnon and http://dbpedia.org/resource/1921_Canadian_federal_election and the value is : 0
+http://dbpedia.org/resource/Electoral_district and http://dbpedia.org/resource/Queen_consort and the value is : 0
+http://dbpedia.org/resource/Electoral_district and http://dbpedia.org/resource/1921_Canadian_federal_election and the value is : 0
+http://dbpedia.org/resource/Queen_consort and http://dbpedia.org/resource/1921_Canadian_federal_election and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+donald alexander mackinnon 18731936 was a scottishborn canadian lawyer politician and judge. he was born in inverness scotland and immigrated to canada in 1891. he was called to the bar in ontario in 1898 and practised law in toronto. he was elected to the house of commons of canada in 1904 as a liberal member of parliament for toronto centre. he was reelected in 1908 and 1911. in 1912 he was appointed to the supreme court of ontario where he served until his death in 1936. he was a strong advocate for the rights of women and children and was instrumental in the passage of the ontario married womens property act of 1914. he was also a strong supporter of the temperance movement. 
+
+Coref Resolved : 
+donald alexander mackinnon 18731936 was a scottishborn canadian lawyer politician and judge. donald alexander mackinnon was born in inverness scotland and immigrated to canada in 1891. donald alexander mackinnon was called to the bar in ontario in 1898 and practised law in toronto. donald alexander mackinnon was elected to the house of commons of canada in 1904 as a liberal member of parliament for toronto centre. donald alexander mackinnon was reelected in 1908 and 1911. in 1912 donald alexander mackinnon was appointed to the supreme court of ontario where donald alexander mackinnon served until donald alexander mackinnon death in 1936. donald alexander mackinnon was a strong advocate for the rights of women and children and was instrumental in the passage of the ontario married womens property act of 1914. donald alexander mackinnon was also a strong supporter of the temperance movement.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+donald alexander mackinnon 22 february 1863 20 april 1928 was a canadian teacher lawyer politician author and the eighth lieutenant governor of prince edward island from 1904 to 1910. born in uigg prince edward island the son of william and catherine nicholson mackinnon mackinnon attended uigg grammar school and started teaching when he was 14. he later received a firstclass teaching licence from the prince of wales college in charlottetown. in 1882 he started articling with the charlottetown barrister malcolm mcleod. from 1885 to 1887 he attended dalhousie law school where he received a bachelor of laws degree. he was called to the bar as an attorney in 1887 and a barrister in 1888. he was created a queens counsel in 1899. he opened a practice in georgetown prince edward island in 1887 where he remained until moving to charlottetown in 1897. in 1900 he became president of the law society of prince edward island. from 1893 to 1900 he was a member of the legislative assembly of prince edward island for the electoral district of 4th kings. in 1899 he was chosen as attorney general in the cabinet of donald farquharson however as a result of the appointment he was required to run for reelection and he was defeated. he was elected to the canadian house of commons as the liberal candidate for the electoral district of east queens in the 1900 federal election. in 1901 the election was declared void and mackinnon was reelected in the resulting 1901 byelection. in 1904 he was appointed lieutenant governor of prince edward island and served until 1910. he returned to federal politics when he was elected to the house of commons for electoral district of queens in the 1921 federal election. mackinnon died in charlottetown in 1928. 
+
+Coref Resolved : 
+donald alexander mackinnon 22 february 1863 20 april 1928 was a canadian teacher lawyer politician author and the eighth lieutenant governor of prince edward island from 1904 to 1910. born in uigg prince edward island donald alexander mackinnon donald alexander mackinnon attended uigg prince edward island grammar school and started teaching when donald alexander mackinnon was 14. donald alexander mackinnon later received a firstclass teaching licence from the prince of wales college in charlottetown. in 1882 donald alexander mackinnon started articling with the charlottetownbarrister malcolm mcleod. from 1885 to 1887 donald alexander mackinnon attended dalhousie law school where donald alexander mackinnon received a bachelor of laws degree. donald alexander mackinnon was called to the bar as an attorney in 1887 and a barrister in 1888. donald alexander mackinnon was created a queens counsel in 1899. donald alexander mackinnon opened a practice in georgetown prince edward island in 1887 where donald alexander mackinnon remained until moving to charlottetownin 1897. in 1900 donald alexander mackinnon became president of the law society of prince edward island . from 1893 to 1900 donald alexander mackinnon was a member of the legislative assembly of prince edward island for the electoral district of 4th kings. in 1899donald alexander mackinnon was the appointment as attorney general in the cabinet of donald farquharson however as a result of the appointment donald alexander mackinnon was required to run for reelection and donald alexander mackinnon was defeated. donald alexander mackinnon was elected to the canadian house of commons as the liberal candidate for the electoral district of east queens in the 1900 federal election. in 1901 the 1900 federal electionwas declared void and donald alexander mackinnon was reelected in the resulting 1901 byelection. in 1904 donald alexander mackinnon was appointed lieutenant governor of prince edward island and served until 1910. donald alexander mackinnon returned to federal politics when donald alexander mackinnon was elected to the canadian house of commons for the electoral district of east queens in the 1921 federal election. donald alexander mackinnon died in charlottetownin 1928.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.17857142857142858 and for ground truth is : 0.1839080459770115
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

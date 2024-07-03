@@ -1,0 +1,109 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Midfielder and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Midfielder and the value is : 1
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Scottish_Football_League and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/St_Johnstone_F.C. and the value is : 0
+http://dbpedia.org/resource/Scottish_Football_League and http://dbpedia.org/resource/St_Johnstone_F.C. and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Scottish_Cup and the value is : 1
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Scottish_Football_League and the value is : 0
+http://dbpedia.org/resource/Scottish_Cup and http://dbpedia.org/resource/Scottish_Football_League and the value is : 1
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/FIFA and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/FIFA and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Norwich_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Scottish_League_Cup and the value is : 1
+http://dbpedia.org/resource/Norwich_City_F.C. and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Norwich_City_F.C. and http://dbpedia.org/resource/Scottish_League_Cup and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Scottish_League_Cup and the value is : 1
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Airdrieonians_F.C. and the value is : 1
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Clydebank_F.C. and the value is : 1
+http://dbpedia.org/resource/Airdrieonians_F.C. and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 0
+http://dbpedia.org/resource/Airdrieonians_F.C. and http://dbpedia.org/resource/Clydebank_F.C. and the value is : 0
+http://dbpedia.org/resource/St_Mirren_F.C. and http://dbpedia.org/resource/Clydebank_F.C. and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Celtic_music and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Lanarkshire and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Melbourne_Knights_FC and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Perth_SC and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Celtic_music and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Lanarkshire and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Melbourne_Knights_FC and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Perth_SC and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Lanarkshire and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Melbourne_Knights_FC and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Perth_SC and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Lanarkshire and http://dbpedia.org/resource/Melbourne_Knights_FC and the value is : 0
+http://dbpedia.org/resource/Lanarkshire and http://dbpedia.org/resource/Perth_SC and the value is : 0
+http://dbpedia.org/resource/Lanarkshire and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Melbourne_Knights_FC and http://dbpedia.org/resource/Perth_SC and the value is : 0
+http://dbpedia.org/resource/Melbourne_Knights_FC and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/Perth_SC and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Glasgow_Warriors and http://dbpedia.org/resource/Duncan_Mackay_(musician) and the value is : 1
+http://dbpedia.org/resource/Glasgow_Warriors and http://dbpedia.org/resource/Celtic_Park and the value is : 0
+http://dbpedia.org/resource/Glasgow_Warriors and http://dbpedia.org/resource/Celtic_harp and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Celtic_Park and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Celtic_harp and the value is : 0
+http://dbpedia.org/resource/Celtic_Park and http://dbpedia.org/resource/Celtic_harp and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Baseball_cap and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Baseball_cap and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Celtic_Park and http://dbpedia.org/resource/Duncan_Mackay_(musician) and the value is : 1
+http://dbpedia.org/resource/Celtic_Park and http://dbpedia.org/resource/Celtic_music and the value is : 0
+http://dbpedia.org/resource/Celtic_Park and http://dbpedia.org/resource/Scotland_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Celtic_Park and http://dbpedia.org/resource/Duncan_Mackay_(musician) and the value is : 0
+http://dbpedia.org/resource/Celtic_Park and http://dbpedia.org/resource/Lanarkshire and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Scotland_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Duncan_Mackay_(musician) and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Lanarkshire and the value is : 1
+http://dbpedia.org/resource/Scotland_national_football_team_manager and http://dbpedia.org/resource/Duncan_Mackay_(musician) and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team_manager and http://dbpedia.org/resource/Lanarkshire and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Lanarkshire and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Lanarkshire and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Duncan_Mackay_(musician) and the value is : 0
+http://dbpedia.org/resource/Lanarkshire and http://dbpedia.org/resource/Duncan_Mackay_(musician) and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Melbourne_Knights_FC and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Melbourne_Knights_FC and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Dockerty_Cup and the value is : 0
+http://dbpedia.org/resource/Melbourne_Knights_FC and http://dbpedia.org/resource/Dockerty_Cup and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/St_Anthony's_F.C. and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/St_Anthony's_F.C. and the value is : 0
+http://dbpedia.org/resource/Perth_SC and http://dbpedia.org/resource/Duncan_Mackay_(musician) and the value is : 0
+http://dbpedia.org/resource/Perth_SC and http://dbpedia.org/resource/South_Melbourne_FC and the value is : 1
+http://dbpedia.org/resource/Perth_SC and http://dbpedia.org/resource/Essendon_Lions_SC and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/South_Melbourne_FC and the value is : 0
+http://dbpedia.org/resource/Duncan_Mackay_(musician) and http://dbpedia.org/resource/Essendon_Lions_SC and the value is : 0
+http://dbpedia.org/resource/South_Melbourne_FC and http://dbpedia.org/resource/Essendon_Lions_SC and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+duncan mackay born 28 august 1951 is a scottish former professional footballer who played as a midfielder. he began his career with rangers in 1969 making his debut in a scottish league cup match against st johnstone. he went on to make over 200 appearances for the club winning the scottish cup in 1972 and the scottish league cup in 1973. he also represented scotland at the 1974 fifa world cup. in 1975 he moved to english club norwich city where he made over 200 appearances and won the football league cup in 1985. he later played for airdrieonians st mirren and clydebank before retiring in 1988. 
+
+Coref Resolved : 
+duncan mackay born 28 august 1951 is a scottish former professional footballer who played as a midfielder. duncan mackay born 28 august 1951 began duncan mackay born 28 august 1951 career with rangers in 1969 making duncan mackay born 28 august 1951 debut in a scottish league cup match against st johnstone. duncan mackay born 28 august 1951 went on to make over 200 appearances for rangers winning the scottish cup in 1972 and the scottish league cup in 1973. duncan mackay born 28 august 1951 also represented scotland at the 1974 fifa world cup. in 1975 duncan mackay born 28 august 1951 moved to english club norwich city where duncan mackay born 28 august 1951 made over 200 appearances and won the football league cup in 1985. duncan mackay born 28 august 1951 later played for airdrieonians st mirren and clydebank before retiring in 1988.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+duncan mackay born 14 july 1937 is a former scottish footballer who played for celtic third lanark melbourne croatia perth azzurri and the scotland national team. born in glasgow mackay turned professional when he joined celtic from maryhill harp aged 17 in 1955. he developed rapidly making his club debut within two years and earning the first of an eventual 14 caps for the scottish national side four years later. however celtic were at this time in the shadow of rivals rangers and he was destined not to win any honours with the parkhead club. celtic manager jimmy mcgrorys attempts to rejuvenate his side eventually resulted in mackays departure from celtic park after over 200 first team appearances the fullback moving to south glasgow side third lanark in november 1964. thirds were relegated at the end of the 196465 season though and mackay was one of several players released. mackay opted to move to australia at this juncture joining melbourne croatia of the victorian state league. he helped the side to the state title in 1968 and several dockerty cup triumphs but left when croatia were suspended following crowd disturbances in 1972. he returned to scotland and joined junior club st anthonys as a playercoach for two years before deciding upon a second stint in australia. after playing for perth azzurri between 1974 and 1977 he coached with south melbourne and essendon lions. 
+
+Coref Resolved : 
+duncan mackay born 14 july 1937 is a former scottish footballer who played for celtic third lanark melbourne croatia perth azzurri and the scotland national team. born in glasgow duncan mackay turned professional when duncan mackay joined the parkhead clubfrom maryhill harp aged 17 in 1955. duncan mackay developed rapidly making duncan mackay club debut within two years and earning the first of an eventual 14 caps for the scotland national teamfour years later. however the parkhead clubwere at this time in the shadow of rivals rangers and duncan mackay was destined not to win any honours with the parkhead club. the parkhead clubmanager jimmy mcgrorys attempts to rejuvenate celtic manager jimmy mcgrorys side eventually resulted in duncan mackay departure from celtic park after over 200 first team appearances duncan mackay moving to celtic third lanark in november 1964. celtic third lanark were relegated at the end of the 196465 season though and duncan mackay was one of several players released. duncan mackay opted to move to australia at this juncture joining melbourne croatia . duncan mackay helped melbourne croatia to the state title in 1968 and several dockerty cup triumphs but left when melbourne croatia were suspended following crowd disturbances in 1972. duncan mackay returned to scotland and joined junior club st anthonys as a playercoach for two years before deciding upon a second stint in australia . after playing for perth azzurri between 1974 and 1977 duncan mackay coached with south melbourne and essendon lions.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3333333333333333 and for ground truth is : 0.10526315789473684
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

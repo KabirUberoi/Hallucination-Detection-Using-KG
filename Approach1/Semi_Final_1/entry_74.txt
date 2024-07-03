@@ -1,0 +1,124 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Audio_engineer and the value is : 1
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Record_producer and the value is : 1
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Audio_engineer and the value is : 1
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Columbia_Graphophone_Company and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Columbia_Graphophone_Company and the value is : 0
+http://dbpedia.org/resource/Social_dance and http://dbpedia.org/resource/Jack_Hylton and the value is : 0
+http://dbpedia.org/resource/Decca_Records and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Decca_Records and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Vera_Lynn and http://dbpedia.org/resource/Gracie_Fields and the value is : 1
+http://dbpedia.org/resource/Vera_Lynn and http://dbpedia.org/resource/George_Formby and the value is : 0
+http://dbpedia.org/resource/Gracie_Fields and http://dbpedia.org/resource/George_Formby and the value is : 0
+http://dbpedia.org/resource/List_of_awards and http://dbpedia.org/resource/Music_Producers_Guild and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Record_producer and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Southern_Studios and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Southern_Records and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Southern_Studios and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Southern_Records and the value is : 1
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Southern_Studios and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Southern_Records and the value is : 0
+http://dbpedia.org/resource/Southern_Studios and http://dbpedia.org/resource/Southern_Records and the value is : 0
+http://dbpedia.org/resource/Plymouth and http://dbpedia.org/resource/Boarding_school and the value is : 0
+http://dbpedia.org/resource/Plymouth and http://dbpedia.org/resource/Electrical_engineering and the value is : 0
+http://dbpedia.org/resource/Plymouth and http://dbpedia.org/resource/City_University_of_New_York and the value is : 1
+http://dbpedia.org/resource/Boarding_school and http://dbpedia.org/resource/Electrical_engineering and the value is : 0
+http://dbpedia.org/resource/Boarding_school and http://dbpedia.org/resource/City_University_of_New_York and the value is : 0
+http://dbpedia.org/resource/Electrical_engineering and http://dbpedia.org/resource/City_University_of_New_York and the value is : 0
+http://dbpedia.org/resource/Postgraduate_education and http://dbpedia.org/resource/Digital_media and the value is : 0
+http://dbpedia.org/resource/Postgraduate_education and http://dbpedia.org/resource/Data_compression and the value is : 0
+http://dbpedia.org/resource/Postgraduate_education and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Digital_media and http://dbpedia.org/resource/Data_compression and the value is : 1
+http://dbpedia.org/resource/Digital_media and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Data_compression and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Advertising and http://dbpedia.org/resource/Jingle and the value is : 0
+http://dbpedia.org/resource/Advertising and http://dbpedia.org/resource/Arthur_Rimbaud and the value is : 0
+http://dbpedia.org/resource/Advertising and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Advertising and http://dbpedia.org/resource/Talent_manager and the value is : 0
+http://dbpedia.org/resource/Jingle and http://dbpedia.org/resource/Arthur_Rimbaud and the value is : 0
+http://dbpedia.org/resource/Jingle and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Jingle and http://dbpedia.org/resource/Talent_manager and the value is : 0
+http://dbpedia.org/resource/Arthur_Rimbaud and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Arthur_Rimbaud and http://dbpedia.org/resource/Talent_manager and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Talent_manager and the value is : 0
+http://dbpedia.org/resource/Independent_record_label and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Independent_record_label and http://dbpedia.org/resource/Southern_Studios and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Southern_Studios and the value is : 1
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Chain_store and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Psychocandy and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Fucking,_Austria and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/PJ_Harvey and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Fugazi and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Phonograph_record and the value is : 0
+http://dbpedia.org/resource/Chain_store and http://dbpedia.org/resource/Psychocandy and the value is : 0
+http://dbpedia.org/resource/Chain_store and http://dbpedia.org/resource/Fucking,_Austria and the value is : 0
+http://dbpedia.org/resource/Chain_store and http://dbpedia.org/resource/PJ_Harvey and the value is : 0
+http://dbpedia.org/resource/Chain_store and http://dbpedia.org/resource/Fugazi and the value is : 0
+http://dbpedia.org/resource/Chain_store and http://dbpedia.org/resource/Phonograph_record and the value is : 0
+http://dbpedia.org/resource/Psychocandy and http://dbpedia.org/resource/Fucking,_Austria and the value is : 0
+http://dbpedia.org/resource/Psychocandy and http://dbpedia.org/resource/PJ_Harvey and the value is : 0
+http://dbpedia.org/resource/Psychocandy and http://dbpedia.org/resource/Fugazi and the value is : 0
+http://dbpedia.org/resource/Psychocandy and http://dbpedia.org/resource/Phonograph_record and the value is : 0
+http://dbpedia.org/resource/Fucking,_Austria and http://dbpedia.org/resource/PJ_Harvey and the value is : 0
+http://dbpedia.org/resource/Fucking,_Austria and http://dbpedia.org/resource/Fugazi and the value is : 0
+http://dbpedia.org/resource/Fucking,_Austria and http://dbpedia.org/resource/Phonograph_record and the value is : 0
+http://dbpedia.org/resource/PJ_Harvey and http://dbpedia.org/resource/Fugazi and the value is : 1
+http://dbpedia.org/resource/PJ_Harvey and http://dbpedia.org/resource/Phonograph_record and the value is : 0
+http://dbpedia.org/resource/Fugazi and http://dbpedia.org/resource/Phonograph_record and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Southern_Studios and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Music_industry and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Snub_TV and the value is : 1
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Broadcast_syndication and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/BBC_Two and the value is : 1
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Snub_TV and the value is : 0
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Broadcast_syndication and the value is : 0
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/BBC_Two and the value is : 0
+http://dbpedia.org/resource/Snub_TV and http://dbpedia.org/resource/Broadcast_syndication and the value is : 0
+http://dbpedia.org/resource/Snub_TV and http://dbpedia.org/resource/BBC_Two and the value is : 0
+http://dbpedia.org/resource/Broadcast_syndication and http://dbpedia.org/resource/BBC_Two and the value is : 0
+http://dbpedia.org/resource/Independent_music and http://dbpedia.org/resource/Internet and the value is : 0
+http://dbpedia.org/resource/Independent_music and http://dbpedia.org/resource/Online_magazine and the value is : 0
+http://dbpedia.org/resource/Independent_music and http://dbpedia.org/resource/Southern_Studios and the value is : 0
+http://dbpedia.org/resource/Independent_music and http://dbpedia.org/resource/VHS and the value is : 0
+http://dbpedia.org/resource/Independent_music and http://dbpedia.org/resource/Streaming_media and the value is : 0
+http://dbpedia.org/resource/Internet and http://dbpedia.org/resource/Online_magazine and the value is : 1
+http://dbpedia.org/resource/Internet and http://dbpedia.org/resource/Southern_Studios and the value is : 1
+http://dbpedia.org/resource/Internet and http://dbpedia.org/resource/VHS and the value is : 0
+http://dbpedia.org/resource/Internet and http://dbpedia.org/resource/Streaming_media and the value is : 0
+http://dbpedia.org/resource/Online_magazine and http://dbpedia.org/resource/Southern_Studios and the value is : 0
+http://dbpedia.org/resource/Online_magazine and http://dbpedia.org/resource/VHS and the value is : 0
+http://dbpedia.org/resource/Online_magazine and http://dbpedia.org/resource/Streaming_media and the value is : 0
+http://dbpedia.org/resource/Southern_Studios and http://dbpedia.org/resource/VHS and the value is : 0
+http://dbpedia.org/resource/Southern_Studios and http://dbpedia.org/resource/Streaming_media and the value is : 0
+http://dbpedia.org/resource/VHS and http://dbpedia.org/resource/Streaming_media and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john loder 19041972 was a british sound engineer and record producer. he was one of the pioneers of the british recording industry and was responsible for the production of some of the earliest british recordings. loder was born in london in 1904. he began his career in the music industry in the 1920s working as a sound engineer for the british branch of the columbia graphophone company. he was responsible for the production of some of the earliest british recordings including those of the popular dance band leader jack hylton. in the 1930s loder moved to the decca label where he worked as a sound engineer and producer. he was responsible for the production of some of the most successful british recordings of the era including those of vera lynn gracie fields and george formby. loder continued to work in the music industry until his death in 1972. he was posthumously inducted into the music producers guild hall of fame in 2008. 
+
+Coref Resolved : 
+john loder 19041972 was a british sound engineer and record producer. loder was one of the pioneers of the british recording industry and was responsible for the production of some of the earliest british recordings. loder was born in london in 1904. loder began loder career in the music industry in the 1920s working as a sound engineer for the british branch of the columbia graphophone company. loder was responsible for the production of some of the earliest british recordings including those of the popular dance band leader jack hylton. in the 1930s loder moved to the decca label where loder worked as a sound engineer and producer. loder was responsible for the production of some of the most successful british recordings of the 1930s including those of vera lynn gracie fields and george formby. loder continued to work in the music industry until loder death in 1972. loder was posthumously inducted into the music producers guild hall of fame in 2008.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+john f. loder 7 april 1946 12 august 2005 was an english sound engineer record producer and founder of southern studios as well as a former member of exit and cofounder of the southern records distribution company with his wife sue. he was also the studio engineer of choice for crass records and was often considered to be the bands ninth member. loder was born near plymouth and educated at boarding school before studying electrical engineering at londons city university. during his postgraduate work there he became involved in early experiments in digital encoding of audio for the military. by 1970 he had joined exit alongside penny rimbaud utilizing a onetrack taperecorder. this led to loder eventually founding a record studio in his garage after the disbanding of exit in 1974. loder was recording advertising jingles in 1977 when his path crossed once again with rimbaud who had by then cofounded crass and at this point invited loder to become the bands engineer and financial manager roles loder happily accepted. when crass founded their own record label loder worked as an engineer on most of the labels releases and when loder saw potential in a number of bands turned away by crass records due to ideological differences he set up southern records. loder engineered and produced for many bands other than crass among them the jesus and mary chain for whom he engineered the recordings of the psychocandy album big blacks songs about fucking pj harvey babes in toyland fugazi ministry and shellac. in the mid1980s loder established a television production facility at southern. its notable output included the music show snub tv which after first being syndicated nationwide in the usa went on to further success on bbc2 and in other countries. loder was responsible for encouraging and establishing independent alternative internet ezines donating the use of southerns servers and bandwidth taking part in pioneering online media streaming and simulcasting. loder died of a brain tumour in 2005 aged 59. 
+
+Coref Resolved : 
+john f. loder 7 april 1946 12 august 2005 was an english sound engineer record producer and founder of southern studios as well as a former member of exit and cofounder of the southern records distribution company with loder wife sue. loder was also the studio engineer of choice for the bands records and was often considered to be the bands ninth member. loder was born near plymouth and educated at boarding school before studying electrical engineering at londons city university. during loder postgraduate work there loder became involved in early experiments in digital encoding of audio for the military. by 1970 loder had joined exit alongside penny rimbaud utilizing a onetrack taperecorder. joined led to loder eventually founding a record studio in loder garage after the disbanding of exit in 1974. loder was recording advertising jingles in 1977 when loder path crossed once again with rimbaud who had by then cofounded the bands and at this point invited loder to become the bands engineer and financial manager roles loder happily accepted. when the bands founded the bands own record label loder worked as an engineer on most of the bands releases and when loder saw potential in a number of bands turned away by the bands records due to ideological differences loder set up southern studios . loder engineered and produced for many bands other than the bands among them the jesus and mary chain for whom loder engineered the recordings of the psychocandy album big blacks songs about fucking pj harvey babes in toyland fugazi ministry and shellac. in the mid1980s loder established a television production facility at southern studios . a television production facility at southernnotable output included the music show snub tv which after first being syndicated nationwide in the usa went on to further success on bbc2 and in other countries. loder was responsible for encouraging and establishing independent alternative internet ezines donating the use of southern studios servers and bandwidth taking part in pioneering online media streaming and simulcasting. loder died of a brain tumour in 2005 aged 59.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.35714285714285715 and for ground truth is : 0.12195121951219512
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

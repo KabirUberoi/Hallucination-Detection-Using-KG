@@ -1,0 +1,286 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Troubadour and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Troubadour and http://dbpedia.org/resource/John_Prine and the value is : 1
+http://dbpedia.org/resource/Troubadour and http://dbpedia.org/resource/Neil_Young and the value is : 0
+http://dbpedia.org/resource/Troubadour and http://dbpedia.org/resource/Tom_Waits and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/John_Prine and the value is : 1
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Neil_Young and the value is : 1
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Tom_Waits and the value is : 0
+http://dbpedia.org/resource/John_Prine and http://dbpedia.org/resource/Neil_Young and the value is : 0
+http://dbpedia.org/resource/John_Prine and http://dbpedia.org/resource/Tom_Waits and the value is : 0
+http://dbpedia.org/resource/Neil_Young and http://dbpedia.org/resource/Tom_Waits and the value is : 1
+http://dbpedia.org/resource/Lucinda_Williams and http://dbpedia.org/resource/Steve_Earle and the value is : 0
+http://dbpedia.org/resource/Lucinda_Williams and http://dbpedia.org/resource/The_Sadies and the value is : 0
+http://dbpedia.org/resource/Steve_Earle and http://dbpedia.org/resource/The_Sadies and the value is : 0
+http://dbpedia.org/resource/CBC_Radio and http://dbpedia.org/resource/Sirius_XM_Satellite_Radio and the value is : 1
+http://dbpedia.org/resource/CBC_Radio and http://dbpedia.org/resource/BBC_Radio and the value is : 1
+http://dbpedia.org/resource/Sirius_XM_Satellite_Radio and http://dbpedia.org/resource/BBC_Radio and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Toronto and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ron_Mael and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/The_Sadies and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Jesse_Winchester and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Fred_Eaglesmith and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Danny_Michel and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Barber and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Justin_Townes_Earle and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Deer and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Tick and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Skydiggers and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Jim_Henson and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Ron_Mael and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/The_Sadies and the value is : 1
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Jesse_Winchester and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Fred_Eaglesmith and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Danny_Michel and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Barber and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Justin_Townes_Earle and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Deer and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Tick and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Skydiggers and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Ron_Mael and the value is : 1
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/The_Sadies and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Jesse_Winchester and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Fred_Eaglesmith and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Danny_Michel and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Barber and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Justin_Townes_Earle and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Deer and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Tick and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Skydiggers and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Jim_Henson and the value is : 1
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Tift_Merritt and the value is : 1
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Doug_Paisley and the value is : 1
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/The_Sadies and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Jesse_Winchester and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Fred_Eaglesmith and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Danny_Michel and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Barber and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Justin_Townes_Earle and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Deer and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Tick and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Skydiggers and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/The_Sadies and http://dbpedia.org/resource/Jesse_Winchester and the value is : 0
+http://dbpedia.org/resource/The_Sadies and http://dbpedia.org/resource/Fred_Eaglesmith and the value is : 0
+http://dbpedia.org/resource/The_Sadies and http://dbpedia.org/resource/Danny_Michel and the value is : 0
+http://dbpedia.org/resource/The_Sadies and http://dbpedia.org/resource/Barber and the value is : 0
+http://dbpedia.org/resource/The_Sadies and http://dbpedia.org/resource/Justin_Townes_Earle and the value is : 0
+http://dbpedia.org/resource/The_Sadies and http://dbpedia.org/resource/Deer and the value is : 0
+http://dbpedia.org/resource/The_Sadies and http://dbpedia.org/resource/Tick and the value is : 0
+http://dbpedia.org/resource/The_Sadies and http://dbpedia.org/resource/Skydiggers and the value is : 0
+http://dbpedia.org/resource/The_Sadies and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/The_Sadies and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/The_Sadies and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/The_Sadies and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Jesse_Winchester and http://dbpedia.org/resource/Fred_Eaglesmith and the value is : 0
+http://dbpedia.org/resource/Jesse_Winchester and http://dbpedia.org/resource/Danny_Michel and the value is : 0
+http://dbpedia.org/resource/Jesse_Winchester and http://dbpedia.org/resource/Barber and the value is : 0
+http://dbpedia.org/resource/Jesse_Winchester and http://dbpedia.org/resource/Justin_Townes_Earle and the value is : 0
+http://dbpedia.org/resource/Jesse_Winchester and http://dbpedia.org/resource/Deer and the value is : 0
+http://dbpedia.org/resource/Jesse_Winchester and http://dbpedia.org/resource/Tick and the value is : 0
+http://dbpedia.org/resource/Jesse_Winchester and http://dbpedia.org/resource/Skydiggers and the value is : 0
+http://dbpedia.org/resource/Jesse_Winchester and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Jesse_Winchester and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/Jesse_Winchester and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/Jesse_Winchester and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Fred_Eaglesmith and http://dbpedia.org/resource/Danny_Michel and the value is : 0
+http://dbpedia.org/resource/Fred_Eaglesmith and http://dbpedia.org/resource/Barber and the value is : 0
+http://dbpedia.org/resource/Fred_Eaglesmith and http://dbpedia.org/resource/Justin_Townes_Earle and the value is : 0
+http://dbpedia.org/resource/Fred_Eaglesmith and http://dbpedia.org/resource/Deer and the value is : 0
+http://dbpedia.org/resource/Fred_Eaglesmith and http://dbpedia.org/resource/Tick and the value is : 0
+http://dbpedia.org/resource/Fred_Eaglesmith and http://dbpedia.org/resource/Skydiggers and the value is : 0
+http://dbpedia.org/resource/Fred_Eaglesmith and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Fred_Eaglesmith and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/Fred_Eaglesmith and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/Fred_Eaglesmith and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Danny_Michel and http://dbpedia.org/resource/Barber and the value is : 0
+http://dbpedia.org/resource/Danny_Michel and http://dbpedia.org/resource/Justin_Townes_Earle and the value is : 0
+http://dbpedia.org/resource/Danny_Michel and http://dbpedia.org/resource/Deer and the value is : 0
+http://dbpedia.org/resource/Danny_Michel and http://dbpedia.org/resource/Tick and the value is : 0
+http://dbpedia.org/resource/Danny_Michel and http://dbpedia.org/resource/Skydiggers and the value is : 0
+http://dbpedia.org/resource/Danny_Michel and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Danny_Michel and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/Danny_Michel and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/Danny_Michel and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Barber and http://dbpedia.org/resource/Justin_Townes_Earle and the value is : 0
+http://dbpedia.org/resource/Barber and http://dbpedia.org/resource/Deer and the value is : 0
+http://dbpedia.org/resource/Barber and http://dbpedia.org/resource/Tick and the value is : 0
+http://dbpedia.org/resource/Barber and http://dbpedia.org/resource/Skydiggers and the value is : 0
+http://dbpedia.org/resource/Barber and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Barber and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/Barber and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/Barber and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Justin_Townes_Earle and http://dbpedia.org/resource/Deer and the value is : 0
+http://dbpedia.org/resource/Justin_Townes_Earle and http://dbpedia.org/resource/Tick and the value is : 0
+http://dbpedia.org/resource/Justin_Townes_Earle and http://dbpedia.org/resource/Skydiggers and the value is : 0
+http://dbpedia.org/resource/Justin_Townes_Earle and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Justin_Townes_Earle and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/Justin_Townes_Earle and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/Justin_Townes_Earle and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Deer and http://dbpedia.org/resource/Tick and the value is : 0
+http://dbpedia.org/resource/Deer and http://dbpedia.org/resource/Skydiggers and the value is : 0
+http://dbpedia.org/resource/Deer and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Deer and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/Deer and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/Deer and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Tick and http://dbpedia.org/resource/Skydiggers and the value is : 0
+http://dbpedia.org/resource/Tick and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Tick and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/Tick and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/Tick and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Skydiggers and http://dbpedia.org/resource/Jim_Henson and the value is : 0
+http://dbpedia.org/resource/Skydiggers and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/Skydiggers and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/Skydiggers and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Jim_Henson and http://dbpedia.org/resource/Charles_G._Dawes and the value is : 0
+http://dbpedia.org/resource/Jim_Henson and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/Jim_Henson and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Charles_G._Dawes and http://dbpedia.org/resource/Tift_Merritt and the value is : 0
+http://dbpedia.org/resource/Charles_G._Dawes and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Tift_Merritt and http://dbpedia.org/resource/Doug_Paisley and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/CBC_Radio and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/MainStreet and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/VHS and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/NPR and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/WSMV-TV and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/BBC_Radio and the value is : 1
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/CBC_Radio and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/MainStreet and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/VHS and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/NPR and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/WSMV-TV and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/BBC_Radio and the value is : 1
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/CBC_Radio and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/MainStreet and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/VHS and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/NPR and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/WSMV-TV and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/BBC_Radio and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/CBC_Radio and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/MainStreet and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/VHS and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/NPR and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/WSMV-TV and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/BBC_Radio and the value is : 0
+http://dbpedia.org/resource/CBC_Radio and http://dbpedia.org/resource/MainStreet and the value is : 0
+http://dbpedia.org/resource/CBC_Radio and http://dbpedia.org/resource/VHS and the value is : 0
+http://dbpedia.org/resource/CBC_Radio and http://dbpedia.org/resource/NPR and the value is : 0
+http://dbpedia.org/resource/CBC_Radio and http://dbpedia.org/resource/WSMV-TV and the value is : 0
+http://dbpedia.org/resource/CBC_Radio and http://dbpedia.org/resource/BBC_Radio and the value is : 0
+http://dbpedia.org/resource/MainStreet and http://dbpedia.org/resource/VHS and the value is : 0
+http://dbpedia.org/resource/MainStreet and http://dbpedia.org/resource/NPR and the value is : 0
+http://dbpedia.org/resource/MainStreet and http://dbpedia.org/resource/WSMV-TV and the value is : 0
+http://dbpedia.org/resource/MainStreet and http://dbpedia.org/resource/BBC_Radio and the value is : 0
+http://dbpedia.org/resource/VHS and http://dbpedia.org/resource/NPR and the value is : 0
+http://dbpedia.org/resource/VHS and http://dbpedia.org/resource/WSMV-TV and the value is : 0
+http://dbpedia.org/resource/VHS and http://dbpedia.org/resource/BBC_Radio and the value is : 0
+http://dbpedia.org/resource/NPR and http://dbpedia.org/resource/WSMV-TV and the value is : 1
+http://dbpedia.org/resource/NPR and http://dbpedia.org/resource/BBC_Radio and the value is : 0
+http://dbpedia.org/resource/WSMV-TV and http://dbpedia.org/resource/BBC_Radio and the value is : 1
+http://dbpedia.org/resource/Serena_Ryder and http://dbpedia.org/resource/Rotation and the value is : 0
+http://dbpedia.org/resource/Serena_Ryder and http://dbpedia.org/resource/CMT_(American_TV_channel) and the value is : 0
+http://dbpedia.org/resource/Serena_Ryder and http://dbpedia.org/resource/CMT_Music_Awards and the value is : 0
+http://dbpedia.org/resource/Rotation and http://dbpedia.org/resource/CMT_(American_TV_channel) and the value is : 0
+http://dbpedia.org/resource/Rotation and http://dbpedia.org/resource/CMT_Music_Awards and the value is : 0
+http://dbpedia.org/resource/CMT_(American_TV_channel) and http://dbpedia.org/resource/CMT_Music_Awards and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Hank_Williams and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Bob_Dylan and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Elvis_Costello and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Buddy_Holly and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Gordon_Lightfoot and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Leonard_Cohen and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Hank_Williams and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Bob_Dylan and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Elvis_Costello and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Buddy_Holly and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Gordon_Lightfoot and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Leonard_Cohen and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Hank_Williams and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Bob_Dylan and the value is : 1
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Elvis_Costello and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Buddy_Holly and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Gordon_Lightfoot and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Leonard_Cohen and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Hank_Williams and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Bob_Dylan and the value is : 1
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Elvis_Costello and the value is : 1
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Buddy_Holly and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Gordon_Lightfoot and the value is : 1
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Leonard_Cohen and the value is : 0
+http://dbpedia.org/resource/Hank_Williams and http://dbpedia.org/resource/Bob_Dylan and the value is : 1
+http://dbpedia.org/resource/Hank_Williams and http://dbpedia.org/resource/Elvis_Costello and the value is : 1
+http://dbpedia.org/resource/Hank_Williams and http://dbpedia.org/resource/Buddy_Holly and the value is : 1
+http://dbpedia.org/resource/Hank_Williams and http://dbpedia.org/resource/Gordon_Lightfoot and the value is : 1
+http://dbpedia.org/resource/Hank_Williams and http://dbpedia.org/resource/Leonard_Cohen and the value is : 0
+http://dbpedia.org/resource/Bob_Dylan and http://dbpedia.org/resource/Elvis_Costello and the value is : 1
+http://dbpedia.org/resource/Bob_Dylan and http://dbpedia.org/resource/Buddy_Holly and the value is : 0
+http://dbpedia.org/resource/Bob_Dylan and http://dbpedia.org/resource/Gordon_Lightfoot and the value is : 1
+http://dbpedia.org/resource/Bob_Dylan and http://dbpedia.org/resource/Leonard_Cohen and the value is : 0
+http://dbpedia.org/resource/Elvis_Costello and http://dbpedia.org/resource/Buddy_Holly and the value is : 0
+http://dbpedia.org/resource/Elvis_Costello and http://dbpedia.org/resource/Gordon_Lightfoot and the value is : 0
+http://dbpedia.org/resource/Elvis_Costello and http://dbpedia.org/resource/Leonard_Cohen and the value is : 0
+http://dbpedia.org/resource/Buddy_Holly and http://dbpedia.org/resource/Gordon_Lightfoot and the value is : 0
+http://dbpedia.org/resource/Buddy_Holly and http://dbpedia.org/resource/Leonard_Cohen and the value is : 0
+http://dbpedia.org/resource/Gordon_Lightfoot and http://dbpedia.org/resource/Leonard_Cohen and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Ontario and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+jerry leger is a canadian singersongwriter from toronto ontario. he has released five studio albums including his most recent time out for tomorrow which was released in 2019. leger has been described as a rootsrock troubadour and his music has been compared to the likes of john prine neil young and tom waits. he has toured extensively throughout canada the united states and europe and has shared the stage with the likes of lucinda williams steve earle and the sadies. he has also been featured on cbc radio sirius xm and bbc radio. 
+
+Coref Resolved : 
+jerry leger is a canadian singersongwriter from toronto ontario. jerry leger has released five studio albums including jerry leger most recent time out for tomorrow which was released in 2019. jerry leger has been described as a rootsrock troubadour and jerry leger music has been compared to the likes of john prine neil young and tom waits. jerry leger has toured extensively throughout canada the united states and europe and has shared the stage with the likes of lucinda williams steve earle and the sadies. jerry leger has also been featured on cbc radio sirius xm and bbc radio.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+jerry leger born april 19 1985 in toronto ontario is a canadian singersongwriter. since 2005 he has released seven acclaimed albums and toured canada and the united states playing shows with ron sexsmith the sadies jesse winchester fred eaglesmith danny michel jill barber justin townes earle deer tick skydiggers jim lauderdale dawes tift merritt doug paisley among others. jerry legers music has been heard on cbc radio shows including q drive mainstreet bandwidth shift npr wsm bbc radio and various campus stations. videos for you got away from me and all over again ft. serena ryder are still in rotation on country music television cmt. his songwriting influences include hank williams bob dylan lightnin hopkins elvis costello buddy holly gordon lightfoot and leonard cohen. ron sexsmith has called him one of the best songwriters ive heard in quite some time. 
+
+Coref Resolved : 
+jerry leger born april 19 1985 in toronto ontario is a canadian singersongwriter. since 2005 jerry leger born april 19 1985 in toronto ontario has released seven acclaimed albums and toured canada and the united states playing shows with ron sexsmith the sadies jesse winchester fred eaglesmith danny michel jill barber justin townes earle deer tick skydiggers jim lauderdale dawes tift merritt doug paisley among others. jerry leger born april 19 1985 in toronto ontario music has been heard on cbc radio shows including q drive mainstreet bandwidth shift npr wsm bbc radio and various campus stations. videos for you got away from me and all over again ft. serena ryder are still in rotation on country music television cmt. jerry leger born april 19 1985 in toronto ontario songwriting influences include hank williams bob dylan lightnin hopkins elvis costello buddy holly gordon lightfoot and leonard cohen. ron sexsmith has called jerry leger born april 19 1985 in toronto ontario one of the best songwriters ron sexsmith ve heard in quite some time.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.35294117647058826 and for ground truth is : 0.0995850622406639
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

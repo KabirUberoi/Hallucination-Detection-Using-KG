@@ -1,0 +1,26 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Twila_Shively and http://dbpedia.org/resource/Tennis and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/California_Golden_Bears and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/18S_ribosomal_RNA and http://dbpedia.org/resource/National_championship and the value is : 1
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/U.S._Men's_Clay_Court_Championships and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/U.S._National_Indoor_Championships and the value is : 0
+http://dbpedia.org/resource/U.S._Men's_Clay_Court_Championships and http://dbpedia.org/resource/U.S._National_Indoor_Championships and the value is : 0
+http://dbpedia.org/resource/1966_French_Championships_(tennis) and http://dbpedia.org/resource/1966_Wimbledon_Championships and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+twila shively born october 28 1945 is an american former professional tennis player. she was born in san francisco california and attended the university of california berkeley. shively was a topranked junior player in the united states and won the us girls 18s national championship in 1962. she was a member of the u.s. wightman cup team in 1964 and 1965. she won the singles title at the 1965 u.s. clay court championships and the doubles title at the 1966 u.s. indoor championships. she reached the quarterfinals of the 1966 french championships and the fourth round of the 1966 wimbledon championships. shively was ranked in the worlds top 10 in 1966 and 1967. she retired from professional tennis in 1968. 
+
+Coref Resolved : 
+twila shively born october 28 1945 is an american former professional tennis player. she was born in san francisco california and attended the university of california berkeley. she was a topranked junior player in the united states and won the us girls 18s national championship in 1962. she was a member of the u.s. wightman cup team in 1964 and 1965. she won the singles title at the 1965 u.s. clay court championships and the doubles title at the 1966 u.s. indoor championships. she reached the quarterfinals of the 1966 french championships and the fourth round of the 1966 wimbledon championships. she was ranked in the worlds top 10 in 1966 and 1967. she retired from professional tennis in 1968.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2222222222222222
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

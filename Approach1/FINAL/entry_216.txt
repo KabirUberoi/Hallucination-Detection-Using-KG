@@ -1,0 +1,165 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Filmmaking and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Film_producer and the value is : 1
+http://dbpedia.org/resource/Filmmaking and http://dbpedia.org/resource/Film_producer and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Documentary_film and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Filmmaking and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Robert_Breer and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Painting and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Filmmaking and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Robert_Breer and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Filmmaking and the value is : 0
+http://dbpedia.org/resource/Painting and http://dbpedia.org/resource/Robert_Breer and the value is : 0
+http://dbpedia.org/resource/Filmmaking and http://dbpedia.org/resource/Robert_Breer and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Whitney_Museum_of_American_Art and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Sundance_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Whitney_Museum_of_American_Art and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Whitney_Museum_of_American_Art and http://dbpedia.org/resource/Sundance_Film_Festival and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Sundance_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/PBS and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Art:21 and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/PBS and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Art:21 and the value is : 0
+http://dbpedia.org/resource/PBS and http://dbpedia.org/resource/Art:21 and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Visual_arts and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Visual_arts and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Visual_arts and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Visual_arts and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Film_director and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Film_producer and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Video_art and the value is : 0
+http://dbpedia.org/resource/Film_director and http://dbpedia.org/resource/Film_producer and the value is : 0
+http://dbpedia.org/resource/Film_director and http://dbpedia.org/resource/Video_art and the value is : 0
+http://dbpedia.org/resource/Film_producer and http://dbpedia.org/resource/Video_art and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Film_director and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Andre_Gregory and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Film_director and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Andre_Gregory and the value is : 0
+http://dbpedia.org/resource/Film_director and http://dbpedia.org/resource/Andre_Gregory and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Documentary_film and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Film_director and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Andre_Gregory and the value is : 1
+http://dbpedia.org/resource/Film_director and http://dbpedia.org/resource/Andre_Gregory and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Massachusetts_Institute_of_Technology and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Richard_Leacock and the value is : 0
+http://dbpedia.org/resource/Massachusetts_Institute_of_Technology and http://dbpedia.org/resource/Richard_Leacock and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Bachelor_of_Fine_Arts and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Tufts_University and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Bard_College and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Fine_Arts and http://dbpedia.org/resource/Tufts_University and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Fine_Arts and http://dbpedia.org/resource/Bard_College and the value is : 0
+http://dbpedia.org/resource/Tufts_University and http://dbpedia.org/resource/Bard_College and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Tellurium and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Seattle and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Vancouver and the value is : 1
+http://dbpedia.org/resource/Tellurium and http://dbpedia.org/resource/Seattle and the value is : 0
+http://dbpedia.org/resource/Tellurium and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Tellurium and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/Seattle and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Seattle and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Boston and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Independent_film and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Brazil and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/The_D.O.C. and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Leipzig_University and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Santa_Fe_Province and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Brazil and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/The_D.O.C. and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Leipzig_University and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Santa_Fe_Province and the value is : 1
+http://dbpedia.org/resource/Independent_film and http://dbpedia.org/resource/Brazil and the value is : 0
+http://dbpedia.org/resource/Independent_film and http://dbpedia.org/resource/The_D.O.C. and the value is : 0
+http://dbpedia.org/resource/Independent_film and http://dbpedia.org/resource/Leipzig_University and the value is : 0
+http://dbpedia.org/resource/Independent_film and http://dbpedia.org/resource/Santa_Fe_Province and the value is : 0
+http://dbpedia.org/resource/Brazil and http://dbpedia.org/resource/The_D.O.C. and the value is : 0
+http://dbpedia.org/resource/Brazil and http://dbpedia.org/resource/Leipzig_University and the value is : 0
+http://dbpedia.org/resource/Brazil and http://dbpedia.org/resource/Santa_Fe_Province and the value is : 0
+http://dbpedia.org/resource/The_D.O.C. and http://dbpedia.org/resource/Leipzig_University and the value is : 0
+http://dbpedia.org/resource/The_D.O.C. and http://dbpedia.org/resource/Santa_Fe_Province and the value is : 0
+http://dbpedia.org/resource/Leipzig_University and http://dbpedia.org/resource/Santa_Fe_Province and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/POV_(TV_series) and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Film_series and the value is : 1
+http://dbpedia.org/resource/POV_(TV_series) and http://dbpedia.org/resource/Film_series and the value is : 0
+http://dbpedia.org/resource/Phyllis_Summers and http://dbpedia.org/resource/Cindy_Kleine and the value is : 0
+http://dbpedia.org/resource/Phyllis_Summers and http://dbpedia.org/resource/Same-sex_marriage and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Same-sex_marriage and the value is : 1
+http://dbpedia.org/resource/Phyllis_Summers and http://dbpedia.org/resource/Feature_film and the value is : 0
+http://dbpedia.org/resource/Phyllis_Summers and http://dbpedia.org/resource/Documentary_film and the value is : 0
+http://dbpedia.org/resource/Phyllis_Summers and http://dbpedia.org/resource/Ashkelon and the value is : 0
+http://dbpedia.org/resource/Phyllis_Summers and http://dbpedia.org/resource/Orson_Welles and the value is : 0
+http://dbpedia.org/resource/Phyllis_Summers and http://dbpedia.org/resource/Filmmaking and the value is : 0
+http://dbpedia.org/resource/Phyllis_Summers and http://dbpedia.org/resource/University_of_Iowa and the value is : 0
+http://dbpedia.org/resource/Phyllis_Summers and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Phyllis_Summers and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Documentary_film and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Ashkelon and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Orson_Welles and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Filmmaking and the value is : 1
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/University_of_Iowa and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Ashkelon and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Orson_Welles and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Filmmaking and the value is : 1
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/University_of_Iowa and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Ashkelon and http://dbpedia.org/resource/Orson_Welles and the value is : 0
+http://dbpedia.org/resource/Ashkelon and http://dbpedia.org/resource/Filmmaking and the value is : 0
+http://dbpedia.org/resource/Ashkelon and http://dbpedia.org/resource/University_of_Iowa and the value is : 0
+http://dbpedia.org/resource/Ashkelon and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Ashkelon and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Orson_Welles and http://dbpedia.org/resource/Filmmaking and the value is : 0
+http://dbpedia.org/resource/Orson_Welles and http://dbpedia.org/resource/University_of_Iowa and the value is : 0
+http://dbpedia.org/resource/Orson_Welles and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Orson_Welles and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Filmmaking and http://dbpedia.org/resource/University_of_Iowa and the value is : 0
+http://dbpedia.org/resource/Filmmaking and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Filmmaking and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/University_of_Iowa and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/University_of_Iowa and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Independent_film and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Cindy_McCain and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Boston_College and the value is : 0
+http://dbpedia.org/resource/Cindy_Kleine and http://dbpedia.org/resource/Harvard_University and the value is : 1
+http://dbpedia.org/resource/Boston_College and http://dbpedia.org/resource/Harvard_University and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+cindy kleine born 1954 is an american filmmaker writer and producer. she is best known for her documentary films which explore the lives of artists including her husband the late painter and filmmaker robert breer. her films have been shown at the museum of modern art the whitney museum of american art the new york film festival and the sundance film festival. she has also written and produced for television including the pbs series art21. kleine is a professor at the school of visual arts in new york city. 
+
+Coref Resolved : 
+cindy kleine born 1954 is an american filmmaker writer and producer. cindy kleine born 1954 is best known for cindy kleine born 1954 documentary films which explore the lives of artists including cindy kleine born 1954 husband the late painter and filmmaker robert breer. cindy kleine born 1954 films have been shown at the museum of modern art the whitney museum of american art the new york film festival and the sundance film festival. cindy kleine born 1954 has also written and produced for television including the pbs series art21. cindy kleine born 1954 is a professor at the school of visual arts in new york city.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+cindy kleine is a film director producer and video artist. she grew up on long island. in 2000 she married actor and filmmaker andre gregory. her 2013 documentary before and after dinner is about andre gregory. the film was funded through kickstarter. ms. kleine studied film at the museum school and at the nowclosed m.i.t. filmvideo section studying with richard leacock. she received a bachelor of fine arts from tufts university and the school of the museum of fine arts in 1983 and received a master of fine arts from bard college in 1996. ms. kleines films have been shown at film festivals including telluride seattle san francisco and vancouver. her films have been shown at the boston independent film festival its all true brazil d.o.c. leipzig and the santa fe int. film festival. her film doug and mike mike and doug 1989 about the starn twins was broadcast on pbss p.o.v. film series. the film phyllis and harold 2008 was about her parents marriage of fiftynine years. the film won best feature length documentary at the world jewish film festival ashkelon israel 2009 and the orson welles award for innovative filmmaking at the iowa independent film festival april 2008. ms. kleines other films include inside out 2004 til death do us part 1998 secrets of cindy 1983 passage 1991 and holy matter 1996. ms. kleine has worked at boston college 198598 harvard university 199091 school of the museum of fine arts 199697 and the new school 199698. 
+
+Coref Resolved : 
+cindy kleine is a film director producer and video artist. cindy kleine grew up on long island. in 2000 cindy kleine married actor and filmmaker andre gregory. cindy kleine 2013 documentary before and after dinner is about actor and filmmaker andre gregory. her 2013 documentary before and after dinner was funded through kickstarter. cindy kleine studied film at the museum school and at the nowclosed m.i.t. filmvideo section studying with richard leacock. cindy kleine received a bachelor of fine arts from tufts university and the museum school in 1983 and received a master of fine arts from bard college in 1996. cindy kleine films have been shown at film festivals including telluride seattle san francisco and vancouver. cindy kleine films have been shown at the boston independent film festival its all true brazil d.o.c. leipzig and the santa fe int. film festival. cindy kleine film doug and mike mike and doug 1989 about the starn twins was broadcast on pbss p.o.v. film series. the film phyllis and harold 2008 was about cindy kleine parents marriage of fiftynine years. the film phyllis and harold 2008 won best feature length documentary at the world jewish film festival ashkelon israel 2009 and the orson welles award for innovative filmmaking at the iowa independent film festival april 2008. cindy kleine other films include inside out 2004 til death do us part 1998 secrets of cindy 1983 passage 1991 and holy matter 1996. cindy kleine has worked at boston college 198598 harvard university 199091 the museum school 199697 and the new school 199698.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.17142857142857143 and for ground truth is : 0.21568627450980393
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

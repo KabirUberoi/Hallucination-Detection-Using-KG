@@ -1,0 +1,138 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkey_national_football_team and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Süper_Lig and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Turkey_national_football_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Süper_Lig and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 1
+http://dbpedia.org/resource/Turkey_national_football_team and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Turkey_national_football_team and http://dbpedia.org/resource/Süper_Lig and the value is : 1
+http://dbpedia.org/resource/Turkey_national_football_team and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Süper_Lig and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 0
+http://dbpedia.org/resource/Süper_Lig and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Konyaspor and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Konyaspor and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Süper_Lig and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 1
+http://dbpedia.org/resource/Süper_Lig and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Süper_Lig and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkish_Basketball_Cup and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkish_Basketball_Presidential_Cup and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 1
+http://dbpedia.org/resource/Süper_Lig and http://dbpedia.org/resource/Turkish_Basketball_Cup and the value is : 0
+http://dbpedia.org/resource/Süper_Lig and http://dbpedia.org/resource/Turkish_Basketball_Presidential_Cup and the value is : 0
+http://dbpedia.org/resource/Süper_Lig and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 1
+http://dbpedia.org/resource/Turkish_Basketball_Cup and http://dbpedia.org/resource/Turkish_Basketball_Presidential_Cup and the value is : 0
+http://dbpedia.org/resource/Turkish_Basketball_Cup and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 0
+http://dbpedia.org/resource/Turkish_Basketball_Presidential_Cup and http://dbpedia.org/resource/Fenerbahçe_S.K._(football) and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkey_national_football_team and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkey_national_football_team and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/UEFA_Euro_2016 and the value is : 1
+http://dbpedia.org/resource/Turkey_national_football_team and http://dbpedia.org/resource/UEFA_Euro_2016 and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Ali_Kılıç and the value is : 1
+http://dbpedia.org/resource/Istanbul and http://dbpedia.org/resource/Gündüz_Kılıç and the value is : 0
+http://dbpedia.org/resource/Istanbul and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 0
+http://dbpedia.org/resource/Istanbul and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Istanbul and http://dbpedia.org/resource/Galatasaray_S.K. and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Galatasaray_S.K. and the value is : 1
+http://dbpedia.org/resource/Galatasaray_High_School and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Galatasaray_High_School and http://dbpedia.org/resource/Galatasaray_S.K. and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Galatasaray_S.K. and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Charisma and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Respectable_(Mel_and_Kim_song) and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Respectable_(Mel_and_Kim_song) and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Germany_national_football_team and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Germany_national_football_team and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkey and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 0
+http://dbpedia.org/resource/Turkey and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Ankara_Demirspor and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Conscription_in_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Galatasaray_High_School and http://dbpedia.org/resource/Ankara_Demirspor and the value is : 0
+http://dbpedia.org/resource/Galatasaray_High_School and http://dbpedia.org/resource/Conscription_in_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Ankara_Demirspor and http://dbpedia.org/resource/Conscription_in_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Beşiktaş_J.K. and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Melbourne_Derby_(A-League) and the value is : 0
+http://dbpedia.org/resource/Beşiktaş_J.K. and http://dbpedia.org/resource/Melbourne_Derby_(A-League) and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/October_Revolution and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Uniform and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Whistling and the value is : 0
+http://dbpedia.org/resource/October_Revolution and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 0
+http://dbpedia.org/resource/October_Revolution and http://dbpedia.org/resource/Uniform and the value is : 0
+http://dbpedia.org/resource/October_Revolution and http://dbpedia.org/resource/Whistling and the value is : 1
+http://dbpedia.org/resource/Galatasaray_High_School and http://dbpedia.org/resource/Uniform and the value is : 0
+http://dbpedia.org/resource/Galatasaray_High_School and http://dbpedia.org/resource/Whistling and the value is : 1
+http://dbpedia.org/resource/Uniform and http://dbpedia.org/resource/Whistling and the value is : 1
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Gündüz_Kılıç and the value is : 0
+http://dbpedia.org/resource/Galatasaray_High_School and http://dbpedia.org/resource/Gündüz_Kılıç and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkish_people and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Metin_Oktay and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 1
+http://dbpedia.org/resource/Turkish_people and http://dbpedia.org/resource/Metin_Oktay and the value is : 0
+http://dbpedia.org/resource/Turkish_people and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 1
+http://dbpedia.org/resource/Metin_Oktay and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/UEFA_Champions_League and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/A.C._Milan and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Nereo_Rocco and the value is : 0
+http://dbpedia.org/resource/Galatasaray_High_School and http://dbpedia.org/resource/UEFA_Champions_League and the value is : 1
+http://dbpedia.org/resource/Galatasaray_High_School and http://dbpedia.org/resource/A.C._Milan and the value is : 0
+http://dbpedia.org/resource/Galatasaray_High_School and http://dbpedia.org/resource/Nereo_Rocco and the value is : 0
+http://dbpedia.org/resource/UEFA_Champions_League and http://dbpedia.org/resource/A.C._Milan and the value is : 1
+http://dbpedia.org/resource/UEFA_Champions_League and http://dbpedia.org/resource/Nereo_Rocco and the value is : 0
+http://dbpedia.org/resource/A.C._Milan and http://dbpedia.org/resource/Nereo_Rocco and the value is : 0
+http://dbpedia.org/resource/Galatasaray_High_School and http://dbpedia.org/resource/Gündüz_Kılıç and the value is : 1
+http://dbpedia.org/resource/Gentleman and http://dbpedia.org/resource/Gündüz_Kılıç and the value is : 1
+http://dbpedia.org/resource/Gentleman and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Galatasaray_High_School and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkish_Cup and the value is : 1
+http://dbpedia.org/resource/Galatasaray_High_School and http://dbpedia.org/resource/Turkish_Cup and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Communication and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Turkish_people and the value is : 1
+http://dbpedia.org/resource/Communication and http://dbpedia.org/resource/Turkish_people and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Istanbul and the value is : 0
+http://dbpedia.org/resource/Gündüz_Kılıç and http://dbpedia.org/resource/Aşiyan_Asri_Cemetery and the value is : 0
+http://dbpedia.org/resource/Istanbul and http://dbpedia.org/resource/Aşiyan_Asri_Cemetery and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+gündüz kılıç born 28 april 1988 is a turkish professional footballer who plays as a midfielder for süper lig club fenerbahçe. kılıç began his career with his hometown club konyaspor in 2006. he made his professional debut in the 200607 season and went on to make over 100 appearances for the club. in 2011 he joined fenerbahçe and has since made over 200 appearances for the club. he has won three süper lig titles two turkish cups and two turkish super cups with fenerbahçe. kılıç has also represented the turkish national team making his debut in 2011. he has since made over 30 appearances for the team and was part of the squad that reached the semifinals of uefa euro 2016. 
+
+Coref Resolved : 
+gündüz kılıç born 28 april 1988 is a turkish professional footballer who plays as a midfielder for süper lig club fenerbahçe. gündüz kılıç began gündüz kılıç career with gündüz kılıç hometown club konyaspor in 2006. gündüz kılıç made gündüz kılıç professional debut in the 200607 season and went on to make over 100 appearances for his hometown club konyaspor . in 2011 gündüz kılıç joined süper lig club fenerbahçeand has since made over 200 appearances for süper lig club fenerbahçe. gündüz kılıç has won three süper lig titles two turkish cups and two turkish super cups with süper lig club fenerbahçe. gündüz kılıç has also represented the turkish national team making gündüz kılıç debut in 2011 . gündüz kılıç has since made over 30 appearances for the turkish national team and was part of the squad that reached the semifinals of uefa euro 2016.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+baba gündüz kılıç 19181980 was a turkish football player and coach. he was the son of ali kılıç and the brother of altemur kılıç. born in 1918 in istanbul gündüz kılıç attended galatasaray lycee and then started his football career as a center forward with galatasaray sk. he was strong big welleducated sophisticated charismatic charming and hungry for success. he never looked flashy yet was never boring. kılıç was the mastermind behind the rise of turkish football schooling football players that would become respectable managers after their career. he took a break from his career in 1938 moving to germany for a university education. when he returned to turkey he again wore the galatasaray shirt and won two league championships with the team. kılıç who played 11 matches with the turkey national football team played for galatasaray until 1953 except for when he played for ankara demirspor during his national service military obligation. his five goals against beşiktaş jk are still a record for all three istanbulian derbies. his five goals were scored in the 43rd 11 58th 41 73rd 52 76th 62 and 89th 92. the gündüz kılıç revolution started early one morning at galatasaray in 1952 when he hung his uniform in his locker and put on his coaching suit and whistle without looking back. once the captain of the galatasaray team gündüz kılıç coached his former teammates and the bright young talents he added to the squad. he led his team to several championships after eighteen years without a championship between 1934 and 1952. he also transferred turkish superstar metin oktay to the team. under kılıç galatasaray reached the quarterfinals of the european cup with the ac milan side of nereo rocco ending their run. every galatasaray player student or supporter had found an exemplary man in gündüz kılıç a man who performed so well motivated so well educated so well and brought out the very best in every single person he ever worked with. a true gentleman both on and off the field gündüz kılıç helped galatasaray to reach new targets. under his leadership galatasaray won numerous championships turkish cup titles and international matches. his visionary coaching style and strong communication skills were to be the backbone of turkish coaching for many years to come. the player whose nickname was father died in new york city usa on 17 may 1980. his body was transferred to istanbul and was interred at the aşiyan asri cemetery. 
+
+Coref Resolved : 
+baba gündüz kılıç 19181980 was a turkish football player and coach. baba gündüz kılıç was the son of ali kılıç and the brother of altemur kılıç. born in 1918 in istanbul baba gündüz kılıç attended galatasaray lycee and then started baba gündüz kılıç football career as a center forward with galatasaray sk. baba gündüz kılıç was strong big welleducated sophisticated charismatic charming and hungry for success. baba gündüz kılıç never looked flashy yet was never boring. baba gündüz kılıç was the mastermind behind the rise of turkish football schooling football players that would become respectable managers after football players that would become respectable managers after their careercareer. baba gündüz kılıç took a break from baba gündüz kılıç career in 1938 moving to germany for a university education. when baba gündüz kılıç returned to turkey baba gündüz kılıç again wore the galatasaray shirt and won two league championships with galatasaray . baba gündüz kılıç played for galatasaray until 1953 except for when baba gündüz kılıç played for ankara demirspor during baba gündüz kılıç national service military obligation. baba gündüz kılıç five goals against beşiktaş jk are still a record for all three istanbulian derbies. baba gündüz kılıç five goals were scored in the 43rd 11 58th 41 73rd 52 76th 62 and 89th 92. the baba gündüz kılıç revolution started early one morning at galatasaray in 1952 when baba gündüz kılıç hung baba gündüz kılıç uniform in baba gündüz kılıç locker and put on baba gündüz kılıç coaching suit and whistle without looking back. once the captain of galatasaray baba gündüz kılıç coached baba gündüz kılıç former teammates and the bright young talents baba gündüz kılıç added to galatasaray . baba gündüz kılıç led baba gündüz kılıç team to several championships after eighteen years without a championship between 1934 and 1952 . baba gündüz kılıç also transferred turkish superstar metin oktay to galatasaray . under baba gündüz kılıç galatasaray reached the quarterfinals of the european cup with the ac milan side of nereo rocco ending galatasaray run. every galatasaray player student or supporter had found an exemplary man in baba gündüz kılıç a man who performed so well motivated so well educated so well and brought out the very best in every single person baba gündüz kılıç ever worked with. a true gentleman both on and off the field gündüz kılıç helped galatasaray to reach new targets. under baba gündüz kılıç leadership galatasaray won numerous championships turkish cup titles and international matches. baba gündüz kılıç visionary coaching style and strong communication skills were to be the backbone of turkish coaching for many years to come. baba gündüz kılıç died in new york city usa on 17 may 1980. baba gündüz kılıç body was transferred to istanbul and was interred at the aşiyan asri cemetery.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.47058823529411764 and for ground truth is : 0.3026315789473684
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate 
+

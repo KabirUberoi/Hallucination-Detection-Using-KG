@@ -1,0 +1,102 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Afghanistan and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Geographical_distribution_of_French_speakers and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Afghanistan and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Montreal and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Canada and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Canada and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Bosnia_and_Herzegovina and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Afghanistan and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Geographical_distribution_of_French_speakers and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Afghanistan and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Kandahar and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Panjwayi_District and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/General_officer and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Afghanistan and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/GardaWorld and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/GardaWorld and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Afghanistan and the value is : 1
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Afghans and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Afghans and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Court and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Afghans and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Afghans and the value is : 0
+http://dbpedia.org/resource/Daniel_Ménard and http://dbpedia.org/resource/Afghanistan and the value is : 1
+http://dbpedia.org/resource/GardaWorld and http://dbpedia.org/resource/Daniel_Ménard and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Daniel Ménard (born October 28, 1959) is a Canadian retired military officer and former commander of the Canadian Forces in Afghanistan.
+He was the first francophone to command the Canadian Forces in Afghanistan.
+Ménard was born in Montreal, Quebec, and joined the Canadian Forces in 1979.
+He graduated from the Royal Military College of Canada in 1983 and was commissioned as an infantry officer.
+He served in various command and staff positions in Canada and abroad, including a tour of duty in Bosnia and Herzegovina.
+In 2006, he was appointed commander of the Canadian Forces in Afghanistan, becoming the first francophone to hold the position.
+He was responsible for the Canadian Forces' operations in the Kandahar region, and was in command of the Canadian Forces during the Battle of Panjwaii in 2006.
+He retired from the Canadian Forces in 2008.
+
+
+Coref Resolved: 
+
+Daniel Ménard (born October 28, 1959) is a Canadian retired military officer and former commander of the Canadian Forces in Afghanistan.
+Daniel Ménard (born October 28, 1959) was the first francophone to command the Canadian Forces in Afghanistan.
+Daniel Ménard (born October 28, 1959) was born in Montreal, Quebec, and joined the Canadian Forces in 1979.
+Daniel Ménard (born October 28, 1959) graduated from the Royal Military College of Canada in 1983 and was commissioned as an infantry officer.
+Daniel Ménard (born October 28, 1959) served in various command and staff positions in Canada and abroad, including a tour of duty in Bosnia and Herzegovina.
+In 2006, Daniel Ménard (born October 28, 1959) was appointed commander of the Canadian Forces in Afghanistan, becoming the first francophone to hold commander of the Canadian Forces in Afghanistan.
+Daniel Ménard (born October 28, 1959) was responsible for the Canadian Forces operations in the Kandahar region, and was in command of the Canadian Forces during the Battle of Panjwaii in 2006.
+Daniel Ménard (born October 28, 1959) retired from the Canadian Forces in 2008.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Daniel Ménard is a Canadian citizen and former General in the Canadian Armed Forces.
+Ménard had commanded the Canadian Forces in Afghanistan from 2009 to 2010.
+Two different allegations triggered his replacement and demotion he was court-martialed for what was described as the reckless discharge of a weapon while safely back on base, and he was also alleged to have engaged in a sexual relationship with a subordinate.
+Ménard resigned from the Armed Forces and took a job with GardaWorld, a private security firm, which assigned him to direct its private security operations in Afghanistan.
+News of his arrest by Afghan authorities became public on January 29, 2014, when he first appeared in an Afghan court.
+He had been arrested on January 12, 2014, following a visit to an Afghan ministry.
+Accounts differ as to the nature of his arrest some sources assert he was arrested on weapons charges, while other sources assert Afghan authorities arrested him because his firm did not have, or no longer had, official authorization to perform security operations in Afghanistan.
+GardaWorld has claimed his arrest is all due to a simple misunderstanding.
+ 
+
+Coref Resolved: 
+
+Daniel Ménard is a Canadian citizen and former General in the Canadian Armed Forces.
+Daniel Ménard had commanded the Canadian Forces in Afghanistan from 2009 to 2010.
+Two different allegations triggered Daniel Ménard replacement and demotion Daniel Ménard was court-martialed for what was described as the reckless discharge of a weapon while safely back on base, and Daniel Ménard was also alleged to have engaged in a sexual relationship with a subordinate.
+Daniel Ménard resigned from the Canadian Armed Forcesand took a job with GardaWorld, a private security firm, which assigned Daniel Ménard to direct GardaWorld, a private security firm, which assigned him to direct its private security operations in Afghanistanprivate security operations in Afghanistan .
+News of Daniel Ménard arrest by Afghan authorities became public on January 29, 2014, when Daniel Ménard first appeared in an Afghan court.
+Daniel Ménard had been his arrest on January 12, 2014, following a visit to an Afghan ministry.
+Accounts differ as to the nature of Daniel Ménard arrest some sources assert Daniel Ménard was arrested on weapons charges, while other sources assert Afghan authorities arrested Daniel Ménard because Daniel Ménard firm did not have, or no longer had, official authorization to perform security operations in Afghanistan .
+GardaWorld, a private security firm, which assigned him to direct its private security operations in Afghanistanhas claimed Daniel Ménard arrest is all due to a simple misunderstanding.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.6666666666666666 0.3333333333333333 0.0 0.0 0.8 0.5 1.0 
+
+Value for ground truth is : 
+0.5 1.0 -1 0.3333333333333333 0.0 0.0 0.5 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

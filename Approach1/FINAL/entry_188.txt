@@ -1,0 +1,142 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/October_5 and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Basketball and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Austin_Spurs and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Basketball and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Austin_Spurs and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Basketball and http://dbpedia.org/resource/Austin_Spurs and the value is : 0
+http://dbpedia.org/resource/Basketball and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Austin_Spurs and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/October_5 and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/University_of_Detroit_Mercy and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/University_of_Detroit_Mercy and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/University_of_Detroit_Mercy and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/October_5 and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Detroit_Pistons and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/2004_NBA_draft and the value is : 1
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Detroit_Pistons and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/2004_NBA_draft and the value is : 0
+http://dbpedia.org/resource/Detroit_Pistons and http://dbpedia.org/resource/2004_NBA_draft and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/October_5 and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Germany_national_football_team and the value is : 1
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Turkey_as_food and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/NBA_G_League and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Germany_national_football_team and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Turkey_as_food and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/NBA_G_League and the value is : 0
+http://dbpedia.org/resource/Germany_national_football_team and http://dbpedia.org/resource/Turkey_as_food and the value is : 0
+http://dbpedia.org/resource/Germany_national_football_team and http://dbpedia.org/resource/NBA_G_League and the value is : 0
+http://dbpedia.org/resource/Turkey_as_food and http://dbpedia.org/resource/NBA_G_League and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/October_5 and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Pershing_High_School and the value is : 1
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Pershing_High_School and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/October_5 and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Detroit_Free_Press and the value is : 1
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Detroit_Free_Press and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/October_5 and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Detroit_Pistons and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Journalism and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Allstate and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Detroit_Pistons and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Journalism and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Allstate and the value is : 0
+http://dbpedia.org/resource/Detroit_Pistons and http://dbpedia.org/resource/Journalism and the value is : 0
+http://dbpedia.org/resource/Detroit_Pistons and http://dbpedia.org/resource/Allstate and the value is : 0
+http://dbpedia.org/resource/Journalism and http://dbpedia.org/resource/Allstate and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/October_5 and the value is : 1
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/University_of_Detroit_Mercy and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/University_of_Detroit_Mercy and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/October_5 and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Stolen_base and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Stolen_base and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/October_5 and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Detroit_Pistons and the value is : 1
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/2004_NBA_draft and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Detroit_Pistons and the value is : 1
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/2004_NBA_draft and the value is : 0
+http://dbpedia.org/resource/Detroit_Pistons and http://dbpedia.org/resource/2004_NBA_draft and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/October_5 and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Detroit_Pistons and the value is : 0
+http://dbpedia.org/resource/October_5 and http://dbpedia.org/resource/Detroit_Pistons and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Basketball and the value is : 1
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Missouri_Tigers_men's_basketball and the value is : 1
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Missouri_Tigers_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Threes and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Dwyane_Wade and the value is : 1
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Travis_Diener and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Marquette_Golden_Eagles_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact and http://dbpedia.org/resource/Threes and the value is : 1
+http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact and http://dbpedia.org/resource/Dwyane_Wade and the value is : 1
+http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact and http://dbpedia.org/resource/Travis_Diener and the value is : 0
+http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact and http://dbpedia.org/resource/Marquette_Golden_Eagles_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Threes and http://dbpedia.org/resource/Dwyane_Wade and the value is : 0
+http://dbpedia.org/resource/Threes and http://dbpedia.org/resource/Travis_Diener and the value is : 0
+http://dbpedia.org/resource/Threes and http://dbpedia.org/resource/Marquette_Golden_Eagles_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Threes and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Dwyane_Wade and http://dbpedia.org/resource/Travis_Diener and the value is : 1
+http://dbpedia.org/resource/Dwyane_Wade and http://dbpedia.org/resource/Marquette_Golden_Eagles_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Dwyane_Wade and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 1
+http://dbpedia.org/resource/Travis_Diener and http://dbpedia.org/resource/Marquette_Golden_Eagles_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Travis_Diener and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Marquette_Golden_Eagles_men's_basketball and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Detroit_Pistons and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Softball and the value is : 1
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Hapoel_Jerusalem_B.C. and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Detroit_Pistons and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Softball and http://dbpedia.org/resource/Hapoel_Jerusalem_B.C. and the value is : 1
+http://dbpedia.org/resource/Softball and http://dbpedia.org/resource/Detroit_Pistons and the value is : 1
+http://dbpedia.org/resource/Softball and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 1
+http://dbpedia.org/resource/Hapoel_Jerusalem_B.C. and http://dbpedia.org/resource/Detroit_Pistons and the value is : 1
+http://dbpedia.org/resource/Hapoel_Jerusalem_B.C. and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Detroit_Pistons and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 1
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Detroit_Pistons and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Sacramento_Kings and the value is : 0
+http://dbpedia.org/resource/Detroit_Pistons and http://dbpedia.org/resource/Sacramento_Kings and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Lyon_Villeurbanne_XIII and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/BCM_Gravelines-Dunkerque and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Littoral_zone and the value is : 0
+http://dbpedia.org/resource/Lyon_Villeurbanne_XIII and http://dbpedia.org/resource/BCM_Gravelines-Dunkerque and the value is : 1
+http://dbpedia.org/resource/Lyon_Villeurbanne_XIII and http://dbpedia.org/resource/Littoral_zone and the value is : 0
+http://dbpedia.org/resource/BCM_Gravelines-Dunkerque and http://dbpedia.org/resource/Littoral_zone and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/Basketball_Bundesliga and the value is : 0
+http://dbpedia.org/resource/Rickey_Paulding and http://dbpedia.org/resource/EWE_Baskets_Oldenburg and the value is : 0
+http://dbpedia.org/resource/Basketball_Bundesliga and http://dbpedia.org/resource/EWE_Baskets_Oldenburg and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+rickey paulding born october 5 1981 is an american professional basketball player who last played for the austin spurs of the nba g league. he played college basketball for the university of detroit mercy. paulding was selected by the detroit pistons in the second round of the 2004 nba draft. he has also played professionally in france germany italy spain turkey and the nba development league. paulding attended detroit pershing high school where he was a threetime allcity selection. he was named the detroit free press player of the year in 2000. he was also named to the detroit news allstate dream team in 2000 and 2001. paulding was a fouryear starter at the university of detroit mercy where he was a twotime allhorizon league selection. he finished his college career as the schools alltime leader in points 2072 and steals 211. paulding was selected by the detroit pistons with the 57th overall pick in the 2004 nba draft. he played in four preseason games for the pistons before being waived on october 
+
+Coref Resolved : 
+rickey paulding born october 5 1981 is an american professional basketball player who last played for the austin spurs of the nba g league. rickey paulding born october 5 1981 played college basketball for the university of detroit mercy. rickey paulding born october 5 1981 was selected by the detroit pistons in the second round of the 2004 nba draft. rickey paulding born october 5 1981 has also played professionally in france germany italy spain turkey and the nba development league. rickey paulding born october 5 1981 attended detroit pershing high school where rickey paulding born october 5 1981 was a threetime allcity selection. rickey paulding born october 5 1981 was named the detroit free press player of the year in 2000. rickey paulding born october 5 1981 was also named to the detroit news allstate dream team in 2000and 2001. rickey paulding born october 5 1981 was a fouryear starter at the university of detroit mercy where rickey paulding born october 5 1981 was a twotime allhorizon league selection. rickey paulding born october 5 1981 finished rickey paulding born october 5 1981 college career as the schools alltime leader in points 2072 and steals 211. rickey paulding born october 5 1981 was selected by the detroit pistons with the 57th overall pick in the 2004 nba draft. rickey paulding born october 5 1981 played in four preseason games for the detroit pistons before being waived on october
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+rickey paulding born october 23 1982 is an american professional basketball player. he played college basketball for the university of missouri. in his collegiate career he scored 1200 points and grabbed 300 rebounds. remembered by his fans for scoring 37 points and making an astounding nine threes against dwyane wade travis diener and the marquette golden eagles in the tigers loss in the second round of the ncaa tournament his junior year he opted to return for his senior season. he was drafted 54th overall in the second round by the detroit pistons. in his first year of pro ball he played for hapoel jerusalem of israel after averaging 12.2 points per game for the detroit pistons in the summer leagues. however he was waived by the pistons the following year and tried out for the sacramento kings but failed to make the roster. he has played for lyon villeurbanne france and bcm gravelines dunkerque grand littoral. for the 200708 season he has signed with the german bundesliga team ewe baskets oldenburg. 
+
+Coref Resolved : 
+rickey paulding born october 23 1982 is an american professional basketball player. rickey paulding born october 23 1982 played college basketball for the university of missouri. in rickey paulding born october 23 1982 collegiate career rickey paulding born october 23 1982 scored 1200 points and grabbed 300 rebounds. remembered by rickey paulding born october 23 1982 fans for scoring 37 points and making an astounding nine threes against dwyane wade travis diener and the marquette golden eagles in the tigers loss in the second round of the ncaa tournament rickey paulding born october 23 1982 junior year rickey paulding born october 23 1982 opted to return for rickey paulding born october 23 1982 senior season. rickey paulding born october 23 1982 was drafted 54th overall in the second round by the detroit pistons. in rickey paulding born october 23 1982 first year of pro ball rickey paulding born october 23 1982 played for hapoel jerusalem of israel after averaging 12.2 points per game for the detroit pistonsin the summer leagues. however rickey paulding born october 23 1982 was waived by the detroit pistonsthe following year and tried out for the sacramento kings but failed to make the roster. rickey paulding born october 23 1982 has played for lyon villeurbanne france and bcm gravelines dunkerque grand littoral. for the 200708 season rickey paulding born october 23 1982 has signed with the german bundesliga team ewe baskets oldenburg.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.14285714285714285 and for ground truth is : 0.3137254901960784
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate accurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

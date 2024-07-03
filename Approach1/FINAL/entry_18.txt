@@ -1,0 +1,123 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/January_29 and the value is : 1
+http://dbpedia.org/resource/Supermodel and http://dbpedia.org/resource/Gia_Carangi and the value is : 0
+http://dbpedia.org/resource/Supermodel and http://dbpedia.org/resource/Fashion_photography and the value is : 0
+http://dbpedia.org/resource/Supermodel and http://dbpedia.org/resource/Cosmopolitanism and the value is : 1
+http://dbpedia.org/resource/Supermodel and http://dbpedia.org/resource/Advertising and the value is : 0
+http://dbpedia.org/resource/Supermodel and http://dbpedia.org/resource/Armani and the value is : 0
+http://dbpedia.org/resource/Supermodel and http://dbpedia.org/resource/Christian_Dior and the value is : 0
+http://dbpedia.org/resource/Supermodel and http://dbpedia.org/resource/Versace and the value is : 0
+http://dbpedia.org/resource/Supermodel and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Fashion_photography and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Cosmopolitanism and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Advertising and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Armani and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Christian_Dior and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Versace and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 0
+http://dbpedia.org/resource/Fashion_photography and http://dbpedia.org/resource/Cosmopolitanism and the value is : 1
+http://dbpedia.org/resource/Fashion_photography and http://dbpedia.org/resource/Advertising and the value is : 0
+http://dbpedia.org/resource/Fashion_photography and http://dbpedia.org/resource/Armani and the value is : 0
+http://dbpedia.org/resource/Fashion_photography and http://dbpedia.org/resource/Christian_Dior and the value is : 0
+http://dbpedia.org/resource/Fashion_photography and http://dbpedia.org/resource/Versace and the value is : 0
+http://dbpedia.org/resource/Fashion_photography and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 1
+http://dbpedia.org/resource/Cosmopolitanism and http://dbpedia.org/resource/Advertising and the value is : 0
+http://dbpedia.org/resource/Cosmopolitanism and http://dbpedia.org/resource/Armani and the value is : 0
+http://dbpedia.org/resource/Cosmopolitanism and http://dbpedia.org/resource/Christian_Dior and the value is : 0
+http://dbpedia.org/resource/Cosmopolitanism and http://dbpedia.org/resource/Versace and the value is : 0
+http://dbpedia.org/resource/Cosmopolitanism and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 0
+http://dbpedia.org/resource/Advertising and http://dbpedia.org/resource/Armani and the value is : 0
+http://dbpedia.org/resource/Advertising and http://dbpedia.org/resource/Christian_Dior and the value is : 0
+http://dbpedia.org/resource/Advertising and http://dbpedia.org/resource/Versace and the value is : 0
+http://dbpedia.org/resource/Advertising and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 0
+http://dbpedia.org/resource/Armani and http://dbpedia.org/resource/Christian_Dior and the value is : 1
+http://dbpedia.org/resource/Armani and http://dbpedia.org/resource/Versace and the value is : 0
+http://dbpedia.org/resource/Armani and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 0
+http://dbpedia.org/resource/Christian_Dior and http://dbpedia.org/resource/Versace and the value is : 1
+http://dbpedia.org/resource/Christian_Dior and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 1
+http://dbpedia.org/resource/Versace and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Substance_dependence and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Major_depressive_disorder and the value is : 1
+http://dbpedia.org/resource/Substance_dependence and http://dbpedia.org/resource/Major_depressive_disorder and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/De_Mulieribus_Claris and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Death and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Disease and the value is : 0
+http://dbpedia.org/resource/De_Mulieribus_Claris and http://dbpedia.org/resource/Death and the value is : 0
+http://dbpedia.org/resource/De_Mulieribus_Claris and http://dbpedia.org/resource/Disease and the value is : 1
+http://dbpedia.org/resource/Death and http://dbpedia.org/resource/Disease and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Biographical_film and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Television_film and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Gia and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Angelina_Jolie and the value is : 0
+http://dbpedia.org/resource/Biographical_film and http://dbpedia.org/resource/Television_film and the value is : 1
+http://dbpedia.org/resource/Biographical_film and http://dbpedia.org/resource/Gia and the value is : 0
+http://dbpedia.org/resource/Biographical_film and http://dbpedia.org/resource/Angelina_Jolie and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Gia and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Angelina_Jolie and the value is : 0
+http://dbpedia.org/resource/Gia and http://dbpedia.org/resource/Angelina_Jolie and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/January_29 and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/January_29 and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Fashion_photography and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Cosmopolitanism and the value is : 0
+http://dbpedia.org/resource/Fashion_photography and http://dbpedia.org/resource/Cosmopolitanism and the value is : 1
+http://dbpedia.org/resource/Advertising and http://dbpedia.org/resource/Fashion_photography and the value is : 0
+http://dbpedia.org/resource/Advertising and http://dbpedia.org/resource/Armani and the value is : 1
+http://dbpedia.org/resource/Advertising and http://dbpedia.org/resource/Christian_Dior and the value is : 0
+http://dbpedia.org/resource/Advertising and http://dbpedia.org/resource/Versace and the value is : 0
+http://dbpedia.org/resource/Advertising and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 0
+http://dbpedia.org/resource/Fashion_photography and http://dbpedia.org/resource/Armani and the value is : 1
+http://dbpedia.org/resource/Fashion_photography and http://dbpedia.org/resource/Christian_Dior and the value is : 0
+http://dbpedia.org/resource/Fashion_photography and http://dbpedia.org/resource/Versace and the value is : 0
+http://dbpedia.org/resource/Fashion_photography and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 1
+http://dbpedia.org/resource/Armani and http://dbpedia.org/resource/Christian_Dior and the value is : 0
+http://dbpedia.org/resource/Armani and http://dbpedia.org/resource/Versace and the value is : 0
+http://dbpedia.org/resource/Armani and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 0
+http://dbpedia.org/resource/Christian_Dior and http://dbpedia.org/resource/Versace and the value is : 0
+http://dbpedia.org/resource/Christian_Dior and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 0
+http://dbpedia.org/resource/Versace and http://dbpedia.org/resource/Yves_Saint_Laurent_(brand) and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Supermodel and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Heroin and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/HIV and the value is : 1
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/De_Mulieribus_Claris and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Death and the value is : 0
+http://dbpedia.org/resource/HIV and http://dbpedia.org/resource/De_Mulieribus_Claris and the value is : 0
+http://dbpedia.org/resource/HIV and http://dbpedia.org/resource/Death and the value is : 1
+http://dbpedia.org/resource/De_Mulieribus_Claris and http://dbpedia.org/resource/Death and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Television_film and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Gia and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Angelina_Jolie and the value is : 0
+http://dbpedia.org/resource/Gia_Carangi and http://dbpedia.org/resource/Vocational_university and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Gia and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Angelina_Jolie and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Vocational_university and the value is : 0
+http://dbpedia.org/resource/Gia and http://dbpedia.org/resource/Angelina_Jolie and the value is : 0
+http://dbpedia.org/resource/Gia and http://dbpedia.org/resource/Vocational_university and the value is : 0
+http://dbpedia.org/resource/Angelina_Jolie and http://dbpedia.org/resource/Vocational_university and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+gia marie carangi january 29 1960 november 18 1986 was an american model during the late 1970s and early 1980s. considered by some to be the first supermodel she was featured on the cover of fashion magazines including multiple editions of vogue and cosmopolitan and appeared in advertising campaigns for such fashion houses as armani christian dior versace and yves saint laurent. carangis life was marred by drug addiction and depression leading to her death from aidsrelated complications at the age of 26. she is considered to be one of the first famous women to die of the disease. her life was the subject of the 1998 biographical television film gia starring angelina jolie in the title role. 
+
+Coref Resolved : 
+gia marie carangi january 29 1960 november 18 1986 was an american model during the late 1970s and early 1980s. considered by some to be the first supermodel gia marie carangi was featured on the cover of fashion magazines including multiple editions of vogue and cosmopolitan and appeared in advertising campaigns for such fashion houses as armani christian dior versace and yves saint laurent. gia marie carangi life was marred by drug addiction and depression leading to gia marie carangi death from aidsrelated complications at the age of 26. gia marie carangi is considered to be one of the first famous women to die of the disease. gia marie carangi life was the subject of the 1998 biographical television film gia starring angelina jolie in the title role.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+gia marie carangi january 29 1960 november 18 1986 was an american fashion model during the late 1970s and early 1980s. she was featured on the cover of fashion magazines including four international editions of vogue and multiple issues of cosmopolitan between 1979 and 1982. during these years she also appeared in advertising campaigns for fashion houses including armani christian dior versace and yves saint laurent. carangi is considered to be the first supermodel although that title has also been applied to others. after she became addicted to heroin carangis modeling career rapidly declined. she later contracted hiv and died of aidsrelated complications at the age of 26 she is thought to be one of the first famous women to die of the disease. carangis life was dramatized in the television film gia starring angelina jolie which debuted on hbo in 1998. 
+
+Coref Resolved : 
+gia marie carangi january 29 1960 november 18 1986 was an american fashion model during the late 1970s and early 1980s. gia marie carangi was featured on the cover of fashion magazines including four international editions of vogue and multiple issues of cosmopolitan between 1979 and 1982. during the late 1970s and early 1980sgia marie carangi also appeared in advertising campaigns for fashion houses including armani christian dior versace and yves saint laurent. gia marie carangi is considered to be the first supermodel although the first supermodel has also been applied to others. after gia marie carangi became addicted to heroin gia marie carangi modeling career rapidly declined. gia marie carangi later contracted hiv and died of aidsrelated complications at the age of 26 gia marie carangi is thought to be one of the first famous women to die of hiv . gia marie carangi life was dramatized in the television film gia starring angelina jolie which debuted on hbo in 1998.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.23214285714285715 and for ground truth is : 0.20512820512820512
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate 
+

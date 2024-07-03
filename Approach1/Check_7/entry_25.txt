@@ -1,0 +1,88 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 1
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Nobility and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Nobility and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Nobility and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Matilda_of_Ringelheim and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Albert_II_of_Germany and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Duke and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Duchy_of_Saxony and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Matilda_of_Ringelheim and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Albert_II_of_Germany and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Duke and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Duchy_of_Saxony and the value is : 0
+http://dbpedia.org/resource/Matilda_of_Ringelheim and http://dbpedia.org/resource/Albert_II_of_Germany and the value is : 0
+http://dbpedia.org/resource/Matilda_of_Ringelheim and http://dbpedia.org/resource/Duke and the value is : 0
+http://dbpedia.org/resource/Matilda_of_Ringelheim and http://dbpedia.org/resource/Duchy_of_Saxony and the value is : 1
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Duke and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Duchy_of_Saxony and the value is : 0
+http://dbpedia.org/resource/Duke and http://dbpedia.org/resource/Duchy_of_Saxony and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Dietrich_II_of_Isenberg-Limburg and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Dietrich_II_of_Isenberg-Limburg and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Hohenstaufen and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Kingdom_of_Germany and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Hohenstaufen and the value is : 1
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Kingdom_of_Germany and the value is : 1
+http://dbpedia.org/resource/Hohenstaufen and http://dbpedia.org/resource/Kingdom_of_Germany and the value is : 0
+http://dbpedia.org/resource/Göllheim and http://dbpedia.org/resource/Adolf_of_Germany and the value is : 1
+http://dbpedia.org/resource/Göllheim and http://dbpedia.org/resource/Kingdom_of_Germany and the value is : 0
+http://dbpedia.org/resource/Adolf_of_Germany and http://dbpedia.org/resource/Kingdom_of_Germany and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Monastery and the value is : 1
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Monastery and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Monastery and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Albrecht_Haushofer and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margrave and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Albrecht_Haushofer and http://dbpedia.org/resource/Margrave and the value is : 0
+http://dbpedia.org/resource/Albrecht_Haushofer and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Margrave and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Otto_II,_Holy_Roman_Emperor and http://dbpedia.org/resource/Hedwig_of_Brandenburg and the value is : 0
+http://dbpedia.org/resource/Otto_II,_Holy_Roman_Emperor and http://dbpedia.org/resource/Margraviate_of_Brandenburg and the value is : 0
+http://dbpedia.org/resource/Hedwig_of_Brandenburg and http://dbpedia.org/resource/Margraviate_of_Brandenburg and the value is : 0
+http://dbpedia.org/resource/Frederick_the_Great and http://dbpedia.org/resource/Set_Free_(film) and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Margravate_of_Meissen and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Silver_mining and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Henry_VI,_Holy_Roman_Emperor and the value is : 0
+http://dbpedia.org/resource/Albert_II_of_Germany and http://dbpedia.org/resource/Fief and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Silver_mining and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Henry_VI,_Holy_Roman_Emperor and the value is : 0
+http://dbpedia.org/resource/Margravate_of_Meissen and http://dbpedia.org/resource/Fief and the value is : 0
+http://dbpedia.org/resource/Silver_mining and http://dbpedia.org/resource/Henry_VI,_Holy_Roman_Emperor and the value is : 0
+http://dbpedia.org/resource/Silver_mining and http://dbpedia.org/resource/Fief and the value is : 0
+http://dbpedia.org/resource/Henry_VI,_Holy_Roman_Emperor and http://dbpedia.org/resource/Fief and the value is : 0
+http://dbpedia.org/resource/Inheritance and http://dbpedia.org/resource/Henry_(unit) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+albert margrave meissen c. 1240 13 july 1307 german nobleman . eldest son dietrich margrave meissen wife matilda daughter albert duke saxony . succeeded father 1260 ruled jointly brother dietrich ii 1282 . albert loyal supporter hohenstaufen dynasty close friend king rudolf germany . fought battle göllheim 1298 present coronation king adolf germany 1298 . took battle lucka 1303 . albert patron arts sciences responsible construction castles monasteries meissen . founded university leipzig 1290 . died 1307 succeeded son dietrich iii . 
+
+Coref Resolved : 
+albert margrave meissen c. 1240 13 july 1307 german nobleman . eldest son dietrich margrave meissen wife matilda daughter albert duke saxony . succeeded albert margrave 1260 ruled jointly brother dietrich ii 1282 . albert margrave loyal supporter hohenstaufen dynasty close friend king rudolf germany . fought battle göllheim 1298 present coronation king adolf germany 1298 . took battle lucka 1303 . albert margrave patron arts sciences responsible construction castles monasteries meissen . founded university leipzig 1290 . died 1307 succeeded son dietrich iii .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+albert proud de albrecht der stolze 115824 june 1195 margrave meissen 1190 death 1195 . father otto ii mother hedwig brandenburg . member house wettin . father intend let albert succeed preferring younger brother dietrich . albert accept started war father brother . 1188 took father prisoner . orders frederick set free able obtain title . conflict brother continued tried regain margraviate . albert died 1195 children succeed meissen rich mines seized emperor henry vi vacant fief empire . dietrich finally came possession inheritance 1198 following henrys death 1197 . 
+
+Coref Resolved : 
+albert proud de albrecht der stolze 115824 june 1195 margrave meissen 1190 death 1195 . father otto ii mother hedwig brandenburg . member house wettin . father intend let albert succeed preferring younger brother dietrich . albert accept started war father brother . 1188 took father prisoner . orders frederick set free able obtain title . conflict brother continued tried regain margraviate . albert died 1195 children succeed meissen rich mines seized emperor henry vi vacant fief empire . younger brother dietrich finally came possession inheritance 1198 following henrys death 1197 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.15384615384615385 and for ground truth is : 0.0
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

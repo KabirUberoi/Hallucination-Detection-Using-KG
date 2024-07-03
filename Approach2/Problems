@@ -1,0 +1,14 @@
+Examples of Problems - 
+
+1. Subject not being extracted from text because of being too rare
+
+Eg - In the Passage- 
+
+Richard Keith Mahler (August 5, 1953 in Austin, Texas - March 2, 2005 in Jupiter, Florida) was a starting pitcher in Major League Baseball who played for the Atlanta Braves (1979-1988, 1991), Cincinnati Reds (1989-1990) and Montreal Expos (1991).
+
+The subject is being linked to ""
+
+2. No Direct Link to the given entity existing even tho the entity is highly corelated to the subject 
+
+Eg - ["John_Russell_Reynolds" and "Neurology"] is a link being formed by the system. There exist no direct link between him and "Neurology" hence this links is being given a score of 0 but there does exists a link between him and "Neurologist". 
+

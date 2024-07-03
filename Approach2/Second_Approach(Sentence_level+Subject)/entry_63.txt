@@ -1,0 +1,89 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Prime_Minister_of_Malaysia and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Singapore and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Goh_Chok_Tong and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Prime_Minister_of_Malaysia and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Lee_Kuan_Yew and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Secretary-General_of_the_United_Nations and the value is : 0
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/People's_Action_Party and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Singapore and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Starship_Enterprise and the value is : 0
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Prime_Minister_of_Malaysia and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Goh_Chok_Tong and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Pinyin and the value is : 0
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Prime_Minister_of_Malaysia and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Singapore and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Prime_Minister_of_Malaysia and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Lee_Kuan_Yew and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Secretary-General_of_the_United_Nations and the value is : 0
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/People's_Action_Party and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Prime_Minister_of_Malaysia and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Goh_Chok_Tong and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Parliament_of_Singapore and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Member_of_parliament and the value is : 0
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Duke_of_Teck and the value is : 0
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Ghee and the value is : 0
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Prime_Minister_of_Malaysia and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Deputy_Prime_Minister_of_Singapore and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Parliament_of_Singapore and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Singapore_Armed_Forces and the value is : 1
+http://dbpedia.org/resource/Lee_Hsien_Loong and http://dbpedia.org/resource/Brigadier_general and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Lee Hsien Loong (born 10 February 1952) is a Singaporean politician who is the current Prime Minister of Singapore.
+He took office on 12 August 2004, succeeding Goh Chok Tong.
+He is the eldest son of Singapore's first Prime Minister, Lee Kuan Yew.
+Lee is the Secretary-General of the People's Action Party (PAP), which has been the ruling party in Singapore since 1959.
+He is also the Chairman of the Monetary Authority of Singapore and the Chairman of the Research, Innovation and Enterprise Council.
+He is the third-longest serving Prime Minister in Singapore's history, after his father and Goh Chok Tong.
+
+
+Coref Resolved: 
+
+Lee Hsien Loong (born 10 February 1952) is a Singaporean politician who is the current Prime Minister of Singapore.
+Lee Hsien Loong took office on 12 August 2004, succeeding Goh Chok Tong.
+Lee Hsien Loong is the eldest son of Singaporefirst Prime Minister, Lee Kuan Yew.
+Lee Hsien Loong is the Secretary-General of the People's Action Party (PAP), which has been the ruling party in Singaporesince 1959.
+Lee Hsien Loong is also the Chairman of the Monetary Authority of Singapore and the Chairman of the Research, Innovation and Enterprise Council.
+Lee Hsien Loong is the third-longest serving Prime Minister in Singaporehistory, after Lee Hsien Loong father and Goh Chok Tong.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Lee Hsien Loong (Pinyin Lǐ Xiǎnlóng' born 10 February 1952) is a Singaporean politician.
+He is the third and current Prime Minister of Singapore, and has been in office since 2004.
+He is the elder son of Singapore's first Prime Minister, Lee Kuan Yew.
+As the Secretary-General of the People's Action Party (PAP), Lee became Prime Minister in August 2004, succeeding Goh Chok Tong.
+He has been a Member of Parliament (MP) for Teck Ghee since 1984 and a member of the Cabinet since 1987, and was one of the key leaders in Singapore's political transition in the 1980s and 1990s.
+Before becoming Prime Minister in 2004, he served as the Minister for Trade and Industry, Minister for Finance and Deputy Prime Minister.
+Prior to his election to Parliament, he served as an officer in the Singapore Armed Forces, quickly rising to the rank of Brigadier-General.
+ 
+
+Coref Resolved: 
+
+Lee Hsien Loong (Pinyin Lǐ Xiǎnlóng' born 10 February 1952) is a Singaporean politician.
+Lee Hsien Loong is the third and current Prime Minister of Singapore, and has been in office since 2004.
+Lee Hsien Loong is the elder son of Singaporefirst Prime Minister, Lee Kuan Yew.
+As the Secretary-General of the People's Action Party (PAP), Lee Hsien Loong became Prime Minister in August 2004, succeeding Goh Chok Tong.
+Lee Hsien Loong has been a Member of Parliament (MP) for Teck Ghee since 1984 and a member of the Cabinet since 1987, and was one of the key leaders in Singaporepolitical transition in the 1980s and 1990s.
+Before becoming Prime Minister in 2004, Lee Hsien Loong served as the Minister for Trade and Industry, Minister for Finance and Deputy Prime Minister.
+Prior to Lee Hsien Loong election to Parliament, Lee Hsien Loong served as an officer in the Singapore Armed Forces, quickly rising to the rank of Brigadier-General.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 1.0 1.0 0.5 0.5 1.0 
+
+Value for ground truth is : 
+0.0 1.0 1.0 0.75 0.25 1.0 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate minor_inaccurate 
+

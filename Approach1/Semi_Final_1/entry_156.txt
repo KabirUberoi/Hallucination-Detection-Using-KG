@@ -1,0 +1,94 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/President_of_France and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Meningitis and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Meningitis and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Meningitis and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/President_of_France and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Spina_bifida and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Wheelchair and the value is : 0
+http://dbpedia.org/resource/Spina_bifida and http://dbpedia.org/resource/Wheelchair and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Disability and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/French_Resistance and the value is : 1
+http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement and http://dbpedia.org/resource/French_Resistance and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/President_of_France and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Élysée_Palace and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/President_of_France and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/President_of_France and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Yvonne_de_Gaulle and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Trier and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Trier and http://dbpedia.org/resource/Nazi_Germany and the value is : 0
+http://dbpedia.org/resource/Car and http://dbpedia.org/resource/Anne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Family and the value is : 1
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Anne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Anne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Anne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Pantomime and the value is : 0
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Pantomime and the value is : 0
+http://dbpedia.org/resource/Yvelines and http://dbpedia.org/resource/Charles_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Yvelines and http://dbpedia.org/resource/Private_hospital and the value is : 0
+http://dbpedia.org/resource/Yvelines and http://dbpedia.org/resource/Young_Girls and the value is : 1
+http://dbpedia.org/resource/Yvelines and http://dbpedia.org/resource/Anne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Private_hospital and the value is : 1
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Young_Girls and the value is : 1
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Anne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Private_hospital and http://dbpedia.org/resource/Young_Girls and the value is : 1
+http://dbpedia.org/resource/Private_hospital and http://dbpedia.org/resource/Anne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Young_Girls and http://dbpedia.org/resource/Anne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Anne_de_Gaulle and http://dbpedia.org/resource/Pneumonia and the value is : 0
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Assassination and the value is : 0
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Fatal_Bullet and the value is : 0
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Anne_de_Gaulle and the value is : 0
+http://dbpedia.org/resource/Fatal_Bullet and http://dbpedia.org/resource/Anne_de_Gaulle and the value is : 1
+http://dbpedia.org/resource/Charles_de_Gaulle and http://dbpedia.org/resource/Colombey-les-Deux-Églises and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+anne de gaulle 19281948 was the daughter of french president charles de gaulle and his wife yvonne de gaulle. she was born in paris on 28 october 1928 and died of meningitis on 18 april 1948 aged 19. anne was the only child of charles and yvonne de gaulle. she was born with a severe form of spina bifida which left her unable to walk and confined to a wheelchair. despite her disability anne was a bright and determined young woman. she was educated at home by private tutors and was fluent in several languages including english german and spanish. anne was a devoted catholic and was deeply involved in charitable works. she was a patron of the little sisters of the poor and the red cross and she was also active in the french resistance during world war ii. anne was beloved by her parents and was a source of great pride for them. she was often seen in public with her father and she was a frequent guest at the élysée palace. after her death charles and yvonne de gaul 
+
+Coref Resolved : 
+anne de gaulle 19281948 was the daughter of french president charles de gaulle and french president charles de gaulle wife yvonne de gaulle. anne de gaulle 19281948 was born in paris on 28 october 1928 and died of meningitis on 18 april 1948 aged 19. anne de gaulle 19281948 was the only child of french president charles de gaulle and yvonne de gaulle. anne de gaulle 19281948 was born with a severe form of spina bifida which left anne de gaulle 19281948 unable to walk and confined to a wheelchair. despite anne de gaulle 19281948 disability anne de gaulle 19281948 was a bright and determined young woman. anne de gaulle 19281948 was educated at home by private tutors and was fluent in several languages including english german and spanish. anne de gaulle 19281948 was a devoted catholic and was deeply involved in charitable works. anne de gaulle 19281948 was a patron of the little sisters of the poor and the red cross and anne de gaulle 19281948 was also active in the french resistance during world war ii. anne de gaulle 19281948 was beloved by anne de gaulle 19281948 parents and was a source of great pride for french president charles de gaulle and his wife yvonne de gaulle. anne de gaulle 19281948 was often seen in public with anne de gaulle 19281948 father and anne de gaulle 19281948 was a frequent guest at the élysée palace. after anne de gaulle 19281948 death french president charles de gaulle and his wife yvonne de gaulle
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+anne de gaulle 1 january 1928 6 february 1948 was the youngest daughter of general charles de gaulle and his wife yvonne. she was born in trier germany where her father was stationed. yvonne de gaulle was struck by an automobile shortly before annes birth. she was born with down syndrome and lived with her family until her death. de gaulles relatives all testified that the general who was normally undemonstrative in his affections for his family was more open and extroverted with anne. he would entertain her with songs dances and pantomimes. in october 1945 yvonne de gaulle bought the château de vertcœur at milonlachapelle yvelines where they installed a private hospital for handicapped young girls the fondation anne de gaulle. anne died of pneumonia on 6 february 1948 aged 20 at colombeylesdeuxéglises. upon her death her father said now shes like the others. maintenant elle est comme les autres. on 22 august 1962 charles de gaulle was the victim of an attempted assassination at petitclamart. he later said that the potentially fatal bullet had been stopped by the frame of the photograph of anne that he always carried with him placed this particular day on the rear shelf of his car. when he died in 1970 he was buried in the cemetery of colombey beside his beloved daughter. 
+
+Coref Resolved : 
+anne de gaulle 1 january 1928 6 february 1948 was the youngest daughter of general charles de gaulle and general charles de gaulle wife yvonne. anne de gaulle was born in trier germany where anne de gaulle father was stationed. his wife yvonnewas struck by an automobile shortly before anne de gaulle birth. anne de gaulle was born with down syndrome and lived with anne de gaulle family until anne de gaulle death. de gaulles relatives all testified that the general who was normally undemonstrative in general charles de gaulle affections for general charles de gaulle family was more open and extroverted with anne de gaulle . general charles de gaulle would entertain anne de gaulle with songs dances and pantomimes. in october 1945 his wife yvonnebought the château de vertcœur at milonlachapelle yvelines where general charles de gaulle and his wife yvonneinstalled a private hospital for handicapped young girls the fondation anne de gaulle. anne de gaulle died of pneumonia on 6 february 1948 aged 20 at colombeylesdeuxéglises. upon anne de gaulle death anne de gaulle father said now anne de gaulle s like the others. maintenant anne de gaulle est comme les autres. on 22 august 1962 general charles de gaulle was the victim of an attempted assassination at petitclamart. general charles de gaulle later said that the potentially fatal bullet had been stopped by the frame of the photograph of anne de gaulle that general charles de gaulle always carried with general charles de gaulle placed this particular day on the rear shelf of general charles de gaulle car. when general charles de gaulle died in 1970 general charles de gaulle was buried in the cemetery of colombey beside general charles de gaulle beloved daughter.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.4358974358974359 and for ground truth is : 0.3333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

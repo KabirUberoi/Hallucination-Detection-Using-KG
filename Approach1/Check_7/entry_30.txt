@@ -1,0 +1,107 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/College_football and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Quarterback and the value is : 1
+http://dbpedia.org/resource/College_football and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/College_football and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 0
+http://dbpedia.org/resource/Quarterback and http://dbpedia.org/resource/Wolverine and the value is : 0
+http://dbpedia.org/resource/Arizona_State_Sun_Devils_football and http://dbpedia.org/resource/Cheez-It_Bowl and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Free_agent and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/2010_NFL_Draft and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Pittsburgh_Steelers and the value is : 1
+http://dbpedia.org/resource/Free_agent and http://dbpedia.org/resource/2010_NFL_Draft and the value is : 1
+http://dbpedia.org/resource/Free_agent and http://dbpedia.org/resource/Pittsburgh_Steelers and the value is : 0
+http://dbpedia.org/resource/2010_NFL_Draft and http://dbpedia.org/resource/Pittsburgh_Steelers and the value is : 1
+http://dbpedia.org/resource/Pittsburgh_Steelers and http://dbpedia.org/resource/National_Football_League and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/January_2 and the value is : 0
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/High_school_football and the value is : 0
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 0
+http://dbpedia.org/resource/January_2 and http://dbpedia.org/resource/High_school_football and the value is : 0
+http://dbpedia.org/resource/January_2 and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/January_2 and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 0
+http://dbpedia.org/resource/High_school_football and http://dbpedia.org/resource/Quarterback and the value is : 1
+http://dbpedia.org/resource/High_school_football and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 0
+http://dbpedia.org/resource/Quarterback and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 1
+http://dbpedia.org/resource/Quarterback and http://dbpedia.org/resource/Arizona_State_Sun_Devils_football and the value is : 0
+http://dbpedia.org/resource/2010_NFL_season and http://dbpedia.org/resource/Charles_I_of_England and the value is : 0
+http://dbpedia.org/resource/2010_NFL_season and http://dbpedia.org/resource/Touchdown and the value is : 0
+http://dbpedia.org/resource/2010_NFL_season and http://dbpedia.org/resource/Interception and the value is : 1
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Touchdown and the value is : 0
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Interception and the value is : 1
+http://dbpedia.org/resource/Touchdown and http://dbpedia.org/resource/Interception and the value is : 0
+http://dbpedia.org/resource/Touchdown and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 1
+http://dbpedia.org/resource/Touchdown and http://dbpedia.org/resource/Rivals.com and the value is : 0
+http://dbpedia.org/resource/Michigan_Wolverines_football and http://dbpedia.org/resource/Rivals.com and the value is : 0
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Georgia_Tech_Yellow_Jackets_football and the value is : 0
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 1
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Head_coach and the value is : 1
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Lloyd_Carr and the value is : 1
+http://dbpedia.org/resource/Michigan_Wolverines_football and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Michigan_Wolverines_football and http://dbpedia.org/resource/Lloyd_Carr and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Lloyd_Carr and the value is : 0
+http://dbpedia.org/resource/Michigan_Wolverines_football and http://dbpedia.org/resource/Head_coach and the value is : 0
+http://dbpedia.org/resource/Michigan_Wolverines_football and http://dbpedia.org/resource/Lloyd_Carr and the value is : 0
+http://dbpedia.org/resource/Michigan_Wolverines_football and http://dbpedia.org/resource/2008_NCAA_Division_I_FBS_football_season and the value is : 1
+http://dbpedia.org/resource/Michigan_Wolverines_football and http://dbpedia.org/resource/Rich_Rodriguez and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Lloyd_Carr and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/2008_NCAA_Division_I_FBS_football_season and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Rich_Rodriguez and the value is : 0
+http://dbpedia.org/resource/Lloyd_Carr and http://dbpedia.org/resource/2008_NCAA_Division_I_FBS_football_season and the value is : 0
+http://dbpedia.org/resource/Lloyd_Carr and http://dbpedia.org/resource/Rich_Rodriguez and the value is : 0
+http://dbpedia.org/resource/2008_NCAA_Division_I_FBS_football_season and http://dbpedia.org/resource/Rich_Rodriguez and the value is : 0
+http://dbpedia.org/resource/2007_NCAA_Division_I_FBS_football_season and http://dbpedia.org/resource/2008_NCAA_Division_I_FBS_football_season and the value is : 1
+http://dbpedia.org/resource/2007_NCAA_Division_I_FBS_football_season and http://dbpedia.org/resource/Freshman and the value is : 0
+http://dbpedia.org/resource/2007_NCAA_Division_I_FBS_football_season and http://dbpedia.org/resource/Charles_I_of_England and the value is : 0
+http://dbpedia.org/resource/2007_NCAA_Division_I_FBS_football_season and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/2007_NCAA_Division_I_FBS_football_season and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 1
+http://dbpedia.org/resource/2008_NCAA_Division_I_FBS_football_season and http://dbpedia.org/resource/Freshman and the value is : 0
+http://dbpedia.org/resource/2008_NCAA_Division_I_FBS_football_season and http://dbpedia.org/resource/Charles_I_of_England and the value is : 1
+http://dbpedia.org/resource/2008_NCAA_Division_I_FBS_football_season and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/2008_NCAA_Division_I_FBS_football_season and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 0
+http://dbpedia.org/resource/Freshman and http://dbpedia.org/resource/Charles_I_of_England and the value is : 0
+http://dbpedia.org/resource/Freshman and http://dbpedia.org/resource/Quarterback and the value is : 1
+http://dbpedia.org/resource/Freshman and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 0
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 1
+http://dbpedia.org/resource/Quarterback and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 0
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Prostyle and the value is : 0
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Spread_offense and the value is : 0
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Rich_Rodriguez and the value is : 0
+http://dbpedia.org/resource/Prostyle and http://dbpedia.org/resource/Spread_offense and the value is : 0
+http://dbpedia.org/resource/Prostyle and http://dbpedia.org/resource/Rich_Rodriguez and the value is : 0
+http://dbpedia.org/resource/Spread_offense and http://dbpedia.org/resource/Rich_Rodriguez and the value is : 0
+http://dbpedia.org/resource/2009_NCAA_Division_I_FBS_football_season and http://dbpedia.org/resource/Charles_I_of_England and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Dennis_Erickson and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Charles_I_of_England and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/Dennis_Erickson and http://dbpedia.org/resource/Charles_I_of_England and the value is : 1
+http://dbpedia.org/resource/Dennis_Erickson and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/Charles_I_of_England and http://dbpedia.org/resource/Quarterback and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+steven threet born august 8 1985 american football quarterback . played college football university michigan arizona state university . threet began college career michigan 2004 . starting quarterback wolverines 2007 leading team 39 record . injured 2008 season transferred arizona state final year eligibility . started 12 games sun devils 2009 leading team 66 record berth insight bowl . threet went undrafted 2010 nfl draft signed pittsburgh steelers undrafted free agent . released steelers august 2010 play nfl . 
+
+Coref Resolved : 
+steven threet born august 8 1985 american football quarterback . played college football university michigan arizona state university . steven threet began college career michigan 2004 . starting quarterback wolverines 2007 leading team 39 record . injured 2008 season transferred arizona state university final year eligibility . started 12 games sun devils 2009 leading team 66 record berth insight bowl . steven threet went undrafted 2010 nfl draft signed pittsburgh steelers undrafted free agent . released pittsburgh steelers august 2010 play nfl .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+steven charles threet born january 2 1989 american football quarterback played michigan arizona state . finishing playing career student assistant arizona state football teams staff . starting quarterback arizona state sun devils . 2010 season threet completed 208 336 passes 2553 yards 18 touchdowns 16 interceptions . passed careerhigh 391 yards touchdowns northern arizona september 2010 . threw 4824 yards 49 touchdowns high school player adrian michigan ranked rivals.com . 9 quarterback prospect nation class 2006 . threet committed georgia tech enrolled early january 2007 . coaches recruited left program threet announced july 2007 transferring university michigan head coach lloyd carr . carr replaced 2008 season rich rodriguez . sitting 2007 season ncaa transfer rules redshirt freshman threet start quarterback michigans 12 games . later year threet transferred arizona state university citing incompatibility playing style traditional prostyle dropback passer spread offense rodriguez . sitting 2009 season threet years eligibility remaining arizona state . august 30 2010 arizona state head coach dennis erickson announced threet starting quarterback coming season . 
+
+Coref Resolved : 
+steven charles threet born january 2 1989 american football quarterback played michigan arizona state . finishing playing career student assistant arizona state football teams staff . starting quarterback arizona state sun devils . 2010 season steven charles threet completed 208 336 passes 2553 yards 18 touchdowns 16 interceptions . passed careerhigh 391 yards touchdowns northern arizona september 2010 . threw 4824 yards 49 touchdowns high school player adrian michigan ranked rivals.com . 9 quarterback prospect nation class 2006 . steven charles threet committed georgia tech enrolled early january 2007 . coaches recruited left program steven charles threet announced july 2007 transferring university michigan head coach lloyd carr . michigan head coach lloyd carr replaced 2008 season rich rodriguez . sitting 2007 season ncaa transfer rules redshirt freshman steven charles threet start quarterback michigan 12 games . later year steven charles threet transferred arizona state citing incompatibility playing style traditional prostyle dropback passer spread offense rich rodriguez . sitting 2009 season steven charles threet years eligibility remaining arizona state . august 30 2010 arizona state head coach dennis erickson announced steven charles threet starting quarterback coming season .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.35714285714285715 and for ground truth is : 0.27692307692307694
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

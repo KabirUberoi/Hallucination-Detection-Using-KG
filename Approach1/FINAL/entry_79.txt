@@ -1,0 +1,144 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Prelate and the value is : 1
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Diplomat and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Archbishop_of_York and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/House_of_York and the value is : 0
+http://dbpedia.org/resource/Prelate and http://dbpedia.org/resource/Diplomat and the value is : 0
+http://dbpedia.org/resource/Prelate and http://dbpedia.org/resource/Archbishop_of_York and the value is : 0
+http://dbpedia.org/resource/Prelate and http://dbpedia.org/resource/House_of_York and the value is : 0
+http://dbpedia.org/resource/Diplomat and http://dbpedia.org/resource/Archbishop_of_York and the value is : 0
+http://dbpedia.org/resource/Diplomat and http://dbpedia.org/resource/House_of_York and the value is : 0
+http://dbpedia.org/resource/Archbishop_of_York and http://dbpedia.org/resource/House_of_York and the value is : 1
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/English_Reformation and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Protestantism and the value is : 0
+http://dbpedia.org/resource/English_Reformation and http://dbpedia.org/resource/Protestantism and the value is : 1
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Privy_council and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Henry_VIII_of_England and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Anne_Boleyn and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Duchy_of_Cleves and the value is : 1
+http://dbpedia.org/resource/Privy_council and http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Privy_council and http://dbpedia.org/resource/Henry_VIII_of_England and the value is : 0
+http://dbpedia.org/resource/Privy_council and http://dbpedia.org/resource/Anne_Boleyn and the value is : 1
+http://dbpedia.org/resource/Privy_council and http://dbpedia.org/resource/Duchy_of_Cleves and the value is : 1
+http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and http://dbpedia.org/resource/Henry_VIII_of_England and the value is : 1
+http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and http://dbpedia.org/resource/Anne_Boleyn and the value is : 1
+http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and http://dbpedia.org/resource/Duchy_of_Cleves and the value is : 0
+http://dbpedia.org/resource/Henry_VIII_of_England and http://dbpedia.org/resource/Anne_Boleyn and the value is : 0
+http://dbpedia.org/resource/Henry_VIII_of_England and http://dbpedia.org/resource/Duchy_of_Cleves and the value is : 0
+http://dbpedia.org/resource/Anne_Boleyn and http://dbpedia.org/resource/Duchy_of_Cleves and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/House_of_York and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Merchant and the value is : 0
+http://dbpedia.org/resource/House_of_York and http://dbpedia.org/resource/Merchant and the value is : 1
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/University_of_Cambridge and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Holy_orders and the value is : 0
+http://dbpedia.org/resource/University_of_Cambridge and http://dbpedia.org/resource/Holy_orders and the value is : 1
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Bishop_of_Llandaff and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Exeter and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Bishop_of_Llandaff and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Exeter and the value is : 0
+http://dbpedia.org/resource/Bishop_of_Llandaff and http://dbpedia.org/resource/Exeter and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Archbishop_of_York and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/House_of_York and the value is : 1
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/English_Reformation and the value is : 0
+http://dbpedia.org/resource/Archbishop_of_York and http://dbpedia.org/resource/House_of_York and the value is : 0
+http://dbpedia.org/resource/Archbishop_of_York and http://dbpedia.org/resource/English_Reformation and the value is : 1
+http://dbpedia.org/resource/House_of_York and http://dbpedia.org/resource/English_Reformation and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Protestantism and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Sola_fide and the value is : 0
+http://dbpedia.org/resource/Protestantism and http://dbpedia.org/resource/Sola_fide and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Privy_council and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Henry_VIII_of_England and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Anne_Boleyn and the value is : 0
+http://dbpedia.org/resource/Privy_council and http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and the value is : 1
+http://dbpedia.org/resource/Privy_council and http://dbpedia.org/resource/Henry_VIII_of_England and the value is : 0
+http://dbpedia.org/resource/Privy_council and http://dbpedia.org/resource/Anne_Boleyn and the value is : 0
+http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and http://dbpedia.org/resource/Henry_VIII_of_England and the value is : 0
+http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and http://dbpedia.org/resource/Anne_Boleyn and the value is : 0
+http://dbpedia.org/resource/Henry_VIII_of_England and http://dbpedia.org/resource/Anne_Boleyn and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Bishop_of_Llandaff and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Archbishop_of_York and the value is : 1
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Bishop_of_Llandaff and http://dbpedia.org/resource/Archbishop_of_York and the value is : 0
+http://dbpedia.org/resource/Bishop_of_Llandaff and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Archbishop_of_York and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Henry_VIII_of_England and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Henry_VIII_of_England and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Mentorship and http://dbpedia.org/resource/Thomas_Cromwell and the value is : 0
+http://dbpedia.org/resource/Mentorship and http://dbpedia.org/resource/Earl and the value is : 0
+http://dbpedia.org/resource/Mentorship and http://dbpedia.org/resource/Essex and the value is : 1
+http://dbpedia.org/resource/Mentorship and http://dbpedia.org/resource/Robert_Holgate and the value is : 0
+http://dbpedia.org/resource/Mentorship and http://dbpedia.org/resource/Gilbertine_Order and the value is : 0
+http://dbpedia.org/resource/Thomas_Cromwell and http://dbpedia.org/resource/Earl and the value is : 0
+http://dbpedia.org/resource/Thomas_Cromwell and http://dbpedia.org/resource/Essex and the value is : 1
+http://dbpedia.org/resource/Thomas_Cromwell and http://dbpedia.org/resource/Robert_Holgate and the value is : 0
+http://dbpedia.org/resource/Thomas_Cromwell and http://dbpedia.org/resource/Gilbertine_Order and the value is : 0
+http://dbpedia.org/resource/Earl and http://dbpedia.org/resource/Essex and the value is : 0
+http://dbpedia.org/resource/Earl and http://dbpedia.org/resource/Robert_Holgate and the value is : 0
+http://dbpedia.org/resource/Earl and http://dbpedia.org/resource/Gilbertine_Order and the value is : 1
+http://dbpedia.org/resource/Essex and http://dbpedia.org/resource/Robert_Holgate and the value is : 1
+http://dbpedia.org/resource/Essex and http://dbpedia.org/resource/Gilbertine_Order and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Gilbertine_Order and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Gilbertine_Order and the value is : 0
+http://dbpedia.org/resource/Malton_Priory and http://dbpedia.org/resource/Gilbertine_Order and the value is : 1
+http://dbpedia.org/resource/Malton_Priory and http://dbpedia.org/resource/Sempringham_Priory and the value is : 0
+http://dbpedia.org/resource/Gilbertine_Order and http://dbpedia.org/resource/Sempringham_Priory and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Baron_Wentworth and the value is : 0
+http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and http://dbpedia.org/resource/Robert_Holgate and the value is : 0
+http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and http://dbpedia.org/resource/Baron_Wentworth and the value is : 0
+http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and http://dbpedia.org/resource/Tongue and the value is : 1
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Baron_Wentworth and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Tongue and the value is : 0
+http://dbpedia.org/resource/Baron_Wentworth and http://dbpedia.org/resource/Tongue and the value is : 0
+http://dbpedia.org/resource/King_Arthur and http://dbpedia.org/resource/Norman_conquest_of_England and the value is : 0
+http://dbpedia.org/resource/King_Arthur and http://dbpedia.org/resource/Baron_Wentworth and the value is : 0
+http://dbpedia.org/resource/King_Arthur and http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Norman_conquest_of_England and http://dbpedia.org/resource/Baron_Wentworth and the value is : 1
+http://dbpedia.org/resource/Norman_conquest_of_England and http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Baron_Wentworth and http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Baron_Wentworth and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Mary_I_of_England and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Clergy and the value is : 1
+http://dbpedia.org/resource/Baron_Wentworth and http://dbpedia.org/resource/Mary_I_of_England and the value is : 0
+http://dbpedia.org/resource/Baron_Wentworth and http://dbpedia.org/resource/Clergy and the value is : 1
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Clergy and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Popery_and_Papism and the value is : 0
+http://dbpedia.org/resource/Marriage_in_the_Catholic_Church and http://dbpedia.org/resource/Popery_and_Papism and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Prison and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Yorkshire and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/University_of_Cambridge and the value is : 1
+http://dbpedia.org/resource/Yorkshire and http://dbpedia.org/resource/University_of_Cambridge and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Yorkshire and the value is : 0
+http://dbpedia.org/resource/Robert_Holgate and http://dbpedia.org/resource/Baron_Wentworth and the value is : 0
+http://dbpedia.org/resource/Yorkshire and http://dbpedia.org/resource/Baron_Wentworth and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+robert holgate c. 1481 1555 was an english prelate and statesman who served as archbishop of york from 1545 until his death in 1555. he was a leading figure in the english reformation and was responsible for introducing protestantism to the north of england. he was also a prominent member of the privy council of england and was involved in the negotiations for the marriage of king henry viii to anne of cleves. holgate was born in york the son of a wealthy merchant. he was educated at the university of cambridge and was ordained a priest in 1510. he rose quickly through the ranks of the church becoming bishop of llandaff in 1523 and bishop of exeter in 1525. in 1545 he was appointed archbishop of york and was one of the most influential figures in the english reformation. he was a strong advocate of the protestant faith and was responsible for introducing protestantism to the north of england. he was also a prominent member of the privy council of england and was involved in the negotiations for the marriage of king henry viii to anne of 
+
+Coref Resolved : 
+robert holgate c. 1481 1555 was an english prelate and statesman who served as archbishop of york from 1545 until robert holgate c. 1481 1555 death in 1555. robert holgate c. 1481 1555 was a leading figure in the english reformation and was responsible for introducing protestantism to the north of england. robert holgate c. 1481 1555 was also a prominent member of the privy council of englandand was involved in the negotiations for the marriage of king henry viii to anne of cleves. robert holgate c. 1481 1555 was born in york the son of a wealthy merchant. robert holgate c. 1481 1555 was educated at the university of cambridge and was ordained a priest in 1510. robert holgate c. 1481 1555 rose quickly through the ranks of the church becoming bishop of llandaff in 1523 and bishop of exeter in 1525. in 1545 robert holgate c. 1481 1555 was appointed archbishop of york and was one of the most influential figures in the english reformation . robert holgate c. 1481 1555 was a strong advocate of the protestant faith and was responsible for introducing protestantism to the north of england. robert holgate c. 1481 1555 was also a prominent member of the privy council of englandand was involved in the negotiations for the marriage of king henry viii to anne of
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+robert holgate 148114821555 was bishop of llandaff and then archbishop of york from 1545 to 1554. he recognised henry viii as head of the church of england. although a protégé of thomas cromwell 1st earl of essex holgate had a career in the gilbertine order of which he became master. most of the gilbertine houses were lesser establishments which should have been dissolved under the suppression of religious houses act 1535 only four out of twentysix houses had revenues over 200 a year. however holgate is credited with using his influence to save them for a few years. for example malton priory one of the lesser gilbertine houses was the last of them to surrender in december 1539 whereas sempringham priory worth more than 200 a year surrendered in 1538. in 1550 holgate married barbara wentworth who was about 25 at the time. this may however have been a second marriage to make it fully legal and holgate and wentworth may have first married in late 1547 with roger tongue officiating. in 1551 arthur norman claimed that he was already married to barbara wentworth but the courts decided that their marriage when she was about seven had not been a binding legal transaction. robert and barbara remained married until 1553 when shortly after mary i of england came to the throne she imprisoned holgate on various charges with his being a married clergy being central to these. in 1554 holgate renounced his marriage claiming he had only entered it to avoid suspicion as a papist. in january 1555 holgate was released from prison but he was not restored to priestly office. he died later that year. in 1558 a robert holgate from yorkshire entered the university of cambridge. he may have been a son of holgate since there are some claims he had two children by barbara but there is no conclusive evidence on the matter. 
+
+Coref Resolved : 
+robert holgate 148114821555 was bishop of llandaff and then archbishop of york from 1545 to 1554. robert holgate 148114821555 recognised henry viii as head of the church of england. although a protégé of thomas cromwell 1st earl of essex robert holgate 148114821555 had a career in the gilbertine order of which robert holgate 148114821555 became master. most of the gilbertine houses were lesser establishments which should have been dissolved under the suppression of religious houses act 1535 only four out of twentysix houses had revenues over 200 a year. however robert holgate 148114821555 is credited with using robert holgate 148114821555 influence to save most of the gilbertine houses for a few years. for example malton priory one of the lesser gilbertine houses was the last of the gilbertine houses to surrender in december 1539 whereas sempringham priory worth more than 200 a year surrendered in 1538. in 1550 robert holgate 148114821555 married barbara wentworth who was about 25 at the time. married may however have been a second marriage to make married fully legal and robert holgate 148114821555 and barbara wentworth who was about 25 at the timemay have first married in late 1547 with roger tongue officiating. in 1551 arthur norman claimed that arthur norman was already married to barbara wentworth who was about 25 at the timebut the courts decided that robert and barbara marriage when barbara wentworth who was about 25 at the timewas about seven had not been a binding legal transaction. robert holgate 148114821555 and barbara wentworth who was about 25 at the timeremained married until 1553 when shortly after mary i of englandcame to the throne mary i of england imprisoned robert holgate 148114821555 on various charges with robert holgate 148114821555 being a married clergy being central to various charges . in 1554 robert holgate 148114821555 renounced robert holgate 148114821555 marriage claiming robert holgate 148114821555 had only entered his marriage to avoid suspicion as a papist. in january 1555 robert holgate 148114821555 was released from prison but robert holgate 148114821555 was not restored to priestly office. robert holgate 148114821555 died later that year. in 1558 a robert holgate from yorkshire entered the university of cambridge. a robert holgate from yorkshire may have been a son of robert holgate 148114821555 since there are some claims a robert holgate from yorkshire had two children by barbara wentworth who was about 25 at the timebut there is no conclusive evidence on the matter.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.22033898305084745 and for ground truth is : 0.21052631578947367
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate major_inaccurate 
+

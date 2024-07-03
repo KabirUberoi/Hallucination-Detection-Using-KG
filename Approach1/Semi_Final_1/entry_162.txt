@@ -1,0 +1,112 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Bob_Miller_(baseball,_born_1939) and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/University_of_Michigan and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/American_Football_League and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Buffalo_Bills and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/University_of_Michigan and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/American_Football_League and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/University_of_Michigan and http://dbpedia.org/resource/American_Football_League and the value is : 1
+http://dbpedia.org/resource/University_of_Michigan and http://dbpedia.org/resource/Buffalo_Bills and the value is : 1
+http://dbpedia.org/resource/American_Football_League and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/University_of_Michigan and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/1966_American_Football_League_draft and the value is : 1
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Buffalo_Bills and the value is : 1
+http://dbpedia.org/resource/University_of_Michigan and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/University_of_Michigan and http://dbpedia.org/resource/1966_American_Football_League_draft and the value is : 0
+http://dbpedia.org/resource/University_of_Michigan and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/1966_American_Football_League_draft and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/1966_American_Football_League_draft and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/American_Football_League and the value is : 0
+http://dbpedia.org/resource/Buffalo_Bills and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Buffalo_Bills and http://dbpedia.org/resource/American_Football_League and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/American_Football_League and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/American_football and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Defensive_tackle and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Detroit_Lions and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Defensive_tackle and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Detroit_Lions and the value is : 0
+http://dbpedia.org/resource/Defensive_tackle and http://dbpedia.org/resource/Detroit_Lions and the value is : 1
+http://dbpedia.org/resource/Norwalk,_Connecticut and http://dbpedia.org/resource/Connecticut and the value is : 0
+http://dbpedia.org/resource/Norwalk,_Connecticut and http://dbpedia.org/resource/Miller and the value is : 1
+http://dbpedia.org/resource/Norwalk,_Connecticut and http://dbpedia.org/resource/Virginia_Cavaliers and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Miller and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Virginia_Cavaliers and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Virginia_Cavaliers and the value is : 0
+http://dbpedia.org/resource/Detroit_Lions and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Detroit_Lions and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Detroit_Lions and http://dbpedia.org/resource/National_Football_League_Draft and the value is : 0
+http://dbpedia.org/resource/Detroit_Lions and http://dbpedia.org/resource/Miller and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/National_Football_League_Draft and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Miller and the value is : 0
+http://dbpedia.org/resource/National_Football_League and http://dbpedia.org/resource/National_Football_League_Draft and the value is : 0
+http://dbpedia.org/resource/National_Football_League and http://dbpedia.org/resource/Miller and the value is : 0
+http://dbpedia.org/resource/National_Football_League_Draft and http://dbpedia.org/resource/Miller and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Defensive_tackle and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Sporting_News and the value is : 1
+http://dbpedia.org/resource/Defensive_tackle and http://dbpedia.org/resource/Sporting_News and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Miller and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Cavalier and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Manufacturing and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Cavalier and the value is : 1
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Manufacturing and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Cavalier and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Manufacturing and the value is : 0
+http://dbpedia.org/resource/Cavalier and http://dbpedia.org/resource/Manufacturing and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/City_of_license and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Horse_trainer and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Thoroughbred_racing and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Stable and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Delphine_Software_International and the value is : 1
+http://dbpedia.org/resource/City_of_license and http://dbpedia.org/resource/Horse_trainer and the value is : 0
+http://dbpedia.org/resource/City_of_license and http://dbpedia.org/resource/Thoroughbred_racing and the value is : 0
+http://dbpedia.org/resource/City_of_license and http://dbpedia.org/resource/Stable and the value is : 1
+http://dbpedia.org/resource/City_of_license and http://dbpedia.org/resource/Delphine_Software_International and the value is : 1
+http://dbpedia.org/resource/Horse_trainer and http://dbpedia.org/resource/Thoroughbred_racing and the value is : 0
+http://dbpedia.org/resource/Horse_trainer and http://dbpedia.org/resource/Stable and the value is : 0
+http://dbpedia.org/resource/Horse_trainer and http://dbpedia.org/resource/Delphine_Software_International and the value is : 0
+http://dbpedia.org/resource/Thoroughbred_racing and http://dbpedia.org/resource/Stable and the value is : 0
+http://dbpedia.org/resource/Thoroughbred_racing and http://dbpedia.org/resource/Delphine_Software_International and the value is : 0
+http://dbpedia.org/resource/Stable and http://dbpedia.org/resource/Delphine_Software_International and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/University_of_Michigan and the value is : 0
+http://dbpedia.org/resource/Cancer and http://dbpedia.org/resource/University_of_Michigan and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Virginia_Cavaliers and the value is : 0
+http://dbpedia.org/resource/Miller and http://dbpedia.org/resource/Shooting_sports and the value is : 1
+http://dbpedia.org/resource/Virginia_Cavaliers and http://dbpedia.org/resource/Shooting_sports and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+bob miller born october 28 1945 is a former american football player. he played college football at the university of michigan from 1964 to 1966 and professional football in the american football league afl for the buffalo bills from 1967 to 1969. miller was a twotime allamerican at michigan and was selected in the first round of the 1967 afl draft by the bills. he was a member of the bills afl championship teams in 1964 and 1965. miller was inducted into the college football hall of fame in 1988. 
+
+Coref Resolved : 
+bob miller born october 28 1945 is a former american football player. miller played college football at the university of michigan from 1964 to 1966 and professional football in the american football league afl for the buffalo bills from 1967 to 1969. miller was a twotime allamerican at the university of michigan and was selected in the first round of the 1967 the american football league afl draft by the buffalo bills . miller was a member of the the buffalo bills the american football league afl championship teams in 1964 and 1965. miller was inducted into the college football hall of fame in 1988.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+robert marguesse miller december 11 1929 august 7 2006 was an american football offensivedefensive tackle with the detroit lions of the national football league from 1952 to 1958. born in norwalk connecticut he attended the university of virginia which finished 81 and ranked 13th in the associated press poll in his final year in 1951. after being selected by detroit in the 1952 nfl draft he was on the teams which won nfl championships in 1952 1953 and 1957 and also the team which lost the title game in 1954. he was selected an allconference defensive tackle in 1956 by the sporting news. after retiring from football he was the president and owner of cavalier manufacturing. in the 1970s he became a licensed horse trainer breeder and owner of thoroughbred racing stable delrob farm along with his wife delphine the del in delrob. he died of cancer at age 76 in clarkston michigan. he was inducted into the virginia sports hall of fame in 2006. 
+
+Coref Resolved : 
+robert marguesse miller december 11 1929 august 7 2006 was an american football offensivedefensive tackle with the detroit lions of the national football league from 1952 to 1958. born in norwalk connecticut robert marguesse miller attended the university of virginia which finished 81 and ranked 13th in the associated press poll in robert marguesse miller final year in 1951. after being selected by the detroit lions of the national football league in the 1952 the national football league draft robert marguesse miller was on the teams which won the national football league championships in 1952 1953 and 1957 and also the team which lost the title game in 1954. robert marguesse miller was selected an allconference defensive tackle in 1956 by the sporting news. after retiring from football robert marguesse miller was the president and owner of cavalier manufacturing. in the 1970s robert marguesse miller became a licensed horse trainer breeder and owner of thoroughbred racing stable delrob farm along with robert marguesse miller wife delphine the del in thoroughbred racing stable delrob farm . robert marguesse miller died of cancer at age 76 in clarkston michigan. robert marguesse miller was inducted into the virginia sports hall of fame in 2006 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.35714285714285715 and for ground truth is : 0.17857142857142858
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate 
+

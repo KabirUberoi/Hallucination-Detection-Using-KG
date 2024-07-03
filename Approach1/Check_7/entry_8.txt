@@ -1,0 +1,92 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Philosophy and the value is : 1
+http://dbpedia.org/resource/Nomothetic and http://dbpedia.org/resource/Nomothetic_and_idiographic and the value is : 1
+http://dbpedia.org/resource/Psychology and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Psychology and http://dbpedia.org/resource/Religion and the value is : 1
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Religion and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Neo-Kantianism and the value is : 0
+http://dbpedia.org/resource/Kuno_Fischer and http://dbpedia.org/resource/Franz_Brentano and the value is : 0
+http://dbpedia.org/resource/Edmund_Husserl and http://dbpedia.org/resource/Adolf_Reinach and the value is : 0
+http://dbpedia.org/resource/Edmund_Husserl and http://dbpedia.org/resource/Carl_Stumpf and the value is : 0
+http://dbpedia.org/resource/Edmund_Husserl and http://dbpedia.org/resource/Richard_von_Mises and the value is : 1
+http://dbpedia.org/resource/Adolf_Reinach and http://dbpedia.org/resource/Carl_Stumpf and the value is : 1
+http://dbpedia.org/resource/Adolf_Reinach and http://dbpedia.org/resource/Richard_von_Mises and the value is : 0
+http://dbpedia.org/resource/Carl_Stumpf and http://dbpedia.org/resource/Richard_von_Mises and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Philosophy and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Neo-Kantianism and the value is : 1
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Neo-Kantianism and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Nomothetic_and_idiographic and the value is : 0
+http://dbpedia.org/resource/Currency and http://dbpedia.org/resource/Psychology and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Immanuel_Kant and the value is : 1
+http://dbpedia.org/resource/Positivism and http://dbpedia.org/resource/Wilhelm_Windelband and the value is : 0
+http://dbpedia.org/resource/Positivism and http://dbpedia.org/resource/Philosophy and the value is : 1
+http://dbpedia.org/resource/Positivism and http://dbpedia.org/resource/Humanism and the value is : 1
+http://dbpedia.org/resource/Positivism and http://dbpedia.org/resource/Natural_science and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Humanism and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Natural_science and the value is : 1
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Humanism and the value is : 0
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Natural_science and the value is : 0
+http://dbpedia.org/resource/Humanism and http://dbpedia.org/resource/Natural_science and the value is : 0
+http://dbpedia.org/resource/Psychology and http://dbpedia.org/resource/Psychologism and the value is : 0
+http://dbpedia.org/resource/Psychology and http://dbpedia.org/resource/Historicism and the value is : 0
+http://dbpedia.org/resource/Psychologism and http://dbpedia.org/resource/Historicism and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Immanuel_Kant and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Johann_Friedrich_Herbart and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Hermann_Lotze and the value is : 1
+http://dbpedia.org/resource/Immanuel_Kant and http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel and the value is : 1
+http://dbpedia.org/resource/Immanuel_Kant and http://dbpedia.org/resource/Johann_Friedrich_Herbart and the value is : 0
+http://dbpedia.org/resource/Immanuel_Kant and http://dbpedia.org/resource/Hermann_Lotze and the value is : 1
+http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel and http://dbpedia.org/resource/Johann_Friedrich_Herbart and the value is : 0
+http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel and http://dbpedia.org/resource/Hermann_Lotze and the value is : 1
+http://dbpedia.org/resource/Johann_Friedrich_Herbart and http://dbpedia.org/resource/Hermann_Lotze and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Heinrich_Rickert and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Apostles and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Sociology and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Max_Weber and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Theology and the value is : 1
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Ernst_Troeltsch and the value is : 0
+http://dbpedia.org/resource/Wilhelm_Windelband and http://dbpedia.org/resource/Albert_Schweitzer and the value is : 1
+http://dbpedia.org/resource/Apostles and http://dbpedia.org/resource/Sociology and the value is : 0
+http://dbpedia.org/resource/Apostles and http://dbpedia.org/resource/Max_Weber and the value is : 1
+http://dbpedia.org/resource/Apostles and http://dbpedia.org/resource/Theology and the value is : 0
+http://dbpedia.org/resource/Apostles and http://dbpedia.org/resource/Ernst_Troeltsch and the value is : 0
+http://dbpedia.org/resource/Apostles and http://dbpedia.org/resource/Albert_Schweitzer and the value is : 0
+http://dbpedia.org/resource/Sociology and http://dbpedia.org/resource/Max_Weber and the value is : 1
+http://dbpedia.org/resource/Sociology and http://dbpedia.org/resource/Theology and the value is : 0
+http://dbpedia.org/resource/Sociology and http://dbpedia.org/resource/Ernst_Troeltsch and the value is : 1
+http://dbpedia.org/resource/Sociology and http://dbpedia.org/resource/Albert_Schweitzer and the value is : 0
+http://dbpedia.org/resource/Max_Weber and http://dbpedia.org/resource/Theology and the value is : 0
+http://dbpedia.org/resource/Max_Weber and http://dbpedia.org/resource/Ernst_Troeltsch and the value is : 1
+http://dbpedia.org/resource/Max_Weber and http://dbpedia.org/resource/Albert_Schweitzer and the value is : 0
+http://dbpedia.org/resource/Theology and http://dbpedia.org/resource/Ernst_Troeltsch and the value is : 0
+http://dbpedia.org/resource/Theology and http://dbpedia.org/resource/Albert_Schweitzer and the value is : 1
+http://dbpedia.org/resource/Ernst_Troeltsch and http://dbpedia.org/resource/Albert_Schweitzer and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+wilhelm windelband 15 march 1848 18 september 1915 german philosopher late 19th early 20th centuries . remembered mainly terms nomothetic idiographic introduced . wrote history psychology philosophy religion values topics . neokantian protested neokantians time maintained critical position psychologism . windelband known founders baden school neokantianism . student kuno fischer franz brentano . students included edmund husserl adolf reinach carl stumpf richard von mises . 
+
+Coref Resolved : 
+wilhelm windelband 15 march 1848 18 september 1915 german philosopher late 19th early 20th centuries . remembered mainly terms nomothetic idiographic introduced . wrote history psychology philosophy religion values topics . neokantian protested neokantians time maintained critical position psychologism . wilhelm windelband known founders baden school neokantianism . student kuno fischer franz brentano . students included edmund husserl adolf reinach carl stumpf richard von mises .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+wilhelm windelband 11 1848 october 22 1915 german philosopher baden school . windelband mainly remembered terms nomothetic idiographic introduced . currency psychology areas necessarily line original meanings . windelband neokantian protested neokantians time maintained understand kant rightly means . positivist contemporaries windelband argued philosophy engage humanistic dialogue natural sciences uncritically appropriating methodologies . interests psychology cultural sciences represented opposition psychologism historicism schools critical philosophic system . windelband relied effort reach kant philosophers georg wilhelm friedrich hegel johann friedrich herbart hermann lotze . closely associated windelband heinrich rickert . windelbands disciples noted philosophers sociologists like max weber theologians like ernst troeltsch albert schweitzer . 
+
+Coref Resolved : 
+wilhelm windelband 11 1848 october 22 1915 german philosopher baden school . wilhelm windelband mainly remembered terms nomothetic idiographic introduced . currency psychology areas necessarily line original meanings . wilhelm windelband neokantian protested neokantians time maintained understand kant rightly means . positivist contemporaries wilhelm windelband argued philosophy engage humanistic dialogue natural sciences uncritically appropriating methodologies . interests psychology cultural sciences represented opposition psychologism historicism schools critical philosophic system . wilhelm windelband relied effort reach kant philosophers georg wilhelm friedrich hegel johann friedrich herbart hermann lotze . closely associated wilhelm windelband heinrich rickert . wilhelm windelband disciples noted philosophers sociologists like max weber theologians like ernst troeltsch albert schweitzer .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.46153846153846156 and for ground truth is : 0.47058823529411764
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate accurate major_inaccurate major_inaccurate 
+

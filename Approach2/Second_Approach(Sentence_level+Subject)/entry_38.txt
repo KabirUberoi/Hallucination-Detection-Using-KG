@@ -1,0 +1,66 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Jeanine Riley (born Jeanine Marie Riley, October 13, 1940) is an American actress, singer, and dancer.
+She is best known for her roles as Billie Jo Bradley on the television series Petticoat Junction (1964 1970) and as Reba Harrington on the television series The Real McCoys (1962 1963).
+Riley was born in Fort Worth, Texas, the daughter of a career Army officer.
+She began her career as a dancer, appearing in the Broadway production of Bye Bye Birdie in 1960.
+She then moved to Hollywood, where she appeared in numerous television shows, including The Real McCoys, The Andy Griffith Show, The Beverly Hillbillies, and The Dick Van Dyke Show.
+She also appeared in the films The Wheeler Dealers (1963) and The Ghost and Mr. Chicken (1966).
+Riley is best known for her role as Billie Jo Bradley on the television series Petticoat Junction (1964 1970).
+She also appeared in the spin-off series Green Acres (1965 1971).
+She also appeared in the television movie Return to Green Acres (1990).
+
+
+Coref Resolved: 
+
+Jeanine Riley (born Jeanine Marie Riley, October 13, 1940) is an American actress, singer, and dancer.
+Jeanine Riley is best known for Jeanine Riley roles as Billie Jo Bradley on the television series Petticoat Junction (1964 1970) and as Reba Harrington on the television series The Real McCoys (1962 1963).
+Jeanine Riley was born in Fort Worth, Texas, the daughter of a career Army officer.
+Jeanine Riley began Jeanine Riley career as a dancer, appearing in the Broadway production of Bye Bye Birdie in 1960.
+Jeanine Riley then moved to Hollywood, where Jeanine Riley appeared in numerous television shows, including the television series The Real McCoys (1962 1963), The Andy Griffith Show, The Beverly Hillbillies, and The Dick Van Dyke Show.
+Jeanine Riley also appeared in the films The Wheeler Dealers (1963) and The Ghost and Mr. Chicken (1966).
+Jeanine Riley is best known for Jeanine Riley role as Billie Jo Bradley on the television series Petticoat Junction (1964 1970) .
+Jeanine Riley also appeared in the spin-off series Green Acres (1965 1971).
+Jeanine Riley also appeared in the television movie Return to Green Acres (1990).
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Jeanine Riley (born October 1, 1940 in Madera, California, USA) is an American actress.
+Riley has appeared in guest roles on numerous television series ("Route 66", "The Man from U.N.C.L.E.", "The Wild Wild West") and a few feature films such as "The Big Mouth" (1967), "Fever Heat" (1968), "The Comic" (1969), and "Electra Glide in Blue" (1973).
+She also made a guest appearance in an episode of "The Virginian".
+She is perhaps best known for her role as Billie Jo Bradley on the first two seasons of the CBS sitcom "Petticoat Junction" (1963-1965).
+Riley left the series in 1965 to pursue movies, and she was replaced by Gunilla Hutton for season three and by Meredith MacRae from seasons four to seven.
+She also had a regular cast member role on the comedy variety series "Hee Haw" (1969-1971).
+She played Lulu McQueen (a take-off on Ginger Grant, played by Tina Louise, from "Gilligan's Island") on the Western sitcom "Dusty's Trail", which aired from 1973 to 1974.
+ 
+
+Coref Resolved: 
+
+Jeanine Riley (born October 1, 1940 in Madera, California, USA) is an American actress.
+Jeanine Riley (born October 1, 1940 in Madera, California, USA) has appeared in guest roles on numerous television series ("Route 66", "The Man from U.N.C.L.E.", "The Wild Wild West") and a few feature films such as "The Big Mouth" (1967), "Fever Heat" (1968), "The Comic" (1969), and "Electra Glide in Blue" (1973).
+Jeanine Riley (born October 1, 1940 in Madera, California, USA) also made a guest appearance in an episode of "The Virginian".
+Jeanine Riley (born October 1, 1940 in Madera, California, USA) is perhaps best known for Jeanine Riley (born October 1, 1940 in Madera, California, USA) role as Billie Jo Bradley on the first two seasons of the CBS sitcom "Petticoat Junction" (1963-1965).
+Jeanine Riley (born October 1, 1940 in Madera, California, USA) left the CBS sitcom "Petticoat Junction" (1963-1965)in 1965to pursue movies, and Jeanine Riley (born October 1, 1940 in Madera, California, USA) was replaced by Gunilla Hutton for season three and by Meredith MacRae from seasons four to seven.
+Jeanine Riley (born October 1, 1940 in Madera, California, USA) also had a regular cast member role on the comedy variety series "Hee Haw" (1969-1971).
+Jeanine Riley (born October 1, 1940 in Madera, California, USA) played Lulu McQueen (a take-off on Ginger Grant, played by Tina Louise, from "Gilligan's Island") on the Western sitcom "Dusty's Trail", which aired from 1973to 1974.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

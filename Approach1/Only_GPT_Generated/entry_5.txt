@@ -1,0 +1,41 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/PGA_Tour and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Direct_current and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Walter_Reed_National_Military_Medical_Center and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Walter_Reed_National_Military_Medical_Center and the value is : 1
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Maryland and the value is : 1
+http://dbpedia.org/resource/Direct_current and http://dbpedia.org/resource/Walter_Reed_National_Military_Medical_Center and the value is : 0
+http://dbpedia.org/resource/Direct_current and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/Walter_Reed_National_Military_Medical_Center and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Bachelor_of_Business_Administration and the value is : 1
+http://dbpedia.org/resource/Maryland and http://dbpedia.org/resource/Bachelor_of_Business_Administration and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Juris_Doctor and the value is : 1
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/PGA_Tour_on_CBS and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/FedEx_Cup and the value is : 0
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/Jay_Monahan and the value is : 1
+http://dbpedia.org/resource/Tim_Finchem and http://dbpedia.org/resource/PGA_Tour_on_CBS and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tim finchem born august 24 1947 is an american businessman and former commissioner of the pga tour. he served as commissioner from 1994 to 2016. finchem was born in washington d.c. and grew up in bethesda maryland. he graduated from the university of maryland in 1969 with a degree in business administration. he then attended the university of virginia school of law where he earned his juris doctor degree in 1972. finchem began his career in the golf industry in 1975 when he joined the pga tour as its first fulltime legal counsel. he was promoted to deputy commissioner in 1988 and commissioner in 1994. during his tenure the pga tour grew from a domestic tour to an international tour with events in more than 30 countries. he also oversaw the introduction of the fedex cup a seasonlong points competition that culminates in a fourtournament playoff. finchem retired as commissioner in 2016 and was succeeded by jay monahan. he was inducted into the world golf hall of fame in 2017. 
+
+Coref Resolved : 
+tim finchem born august 24 1947 is an american businessman and former commissioner of the pga tour. tim finchem born august 24 1947 served as commissioner from 1994 to 2016. tim finchem born august 24 1947 was born in washington d.c. and grew up in bethesda maryland. tim finchem born august 24 1947 graduated from the university of maryland in 1969 with a degree in business administration. tim finchem born august 24 1947 then attended the university of virginia school of law where tim finchem born august 24 1947 earned tim finchem born august 24 1947 juris doctor degree in 1972. tim finchem born august 24 1947 began tim finchem born august 24 1947 career in the golf industry in 1975 when tim finchem born august 24 1947 joined the pga touras the pga tourfirst fulltime legal counsel. tim finchem born august 24 1947 was promoted to deputy commissioner in 1988 and commissioner in 1994 . during tim finchem born august 24 1947 tenure the pga tourgrew from a domestic tour to an international tour with events in more than 30 countries. tim finchem born august 24 1947 also oversaw the introduction of the fedex cup a seasonlong points competition that culminates in a fourtournament playoff. tim finchem born august 24 1947 retired as commissioner in 2016and was succeeded by jay monahan. tim finchem born august 24 1947 was inducted into the world golf hall of fame in 2017.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.25
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate accurate minor_inaccurate accurate accurate major_inaccurate 
+

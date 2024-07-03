@@ -1,0 +1,30 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Freestyle_swimming and the value is : 1
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Freestyle_swimming and the value is : 1
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Gender and the value is : 1
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Michael_Phelps and the value is : 1
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Gender and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Michael_Phelps and the value is : 0
+http://dbpedia.org/resource/Gender and http://dbpedia.org/resource/Michael_Phelps and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+katie ledecky born march 17 1997 is an american competitive swimmer. she has won five olympic gold medals and 15 world championship gold medals the most in history for a female swimmer. ledecky holds the world records in the womens 400 800 and 1500meter freestyle long course. she also holds the fastestever times in the womens 500 1000 and 1650yard freestyle short course. ledecky has broken 28 world records in her career. she is the first woman to have won the 200 400 800 and 1500meter freestyle events at a major international competition. ledecky is the most decorated female swimmer in world championship history and the secondmost decorated swimmer of either gender behind only michael phelps. 
+
+Coref Resolved : 
+katie ledecky born march 17 1997 is an american competitive swimmer. katie ledecky born march 17 1997 has won five olympic gold medals and 15 world championship gold medals the most in history for a female swimmer. katie ledecky born march 17 1997 holds the world records in the womens 400 800 and 1500meter freestyle long course. katie ledecky born march 17 1997 also holds the fastestever times in the womens 500 1000 and 1650yard freestyle short course. katie ledecky born march 17 1997 has broken 28 world records in katie ledecky born march 17 1997 career. katie ledecky born march 17 1997 is the first woman to have won the 200 400 800 and 1500meter freestyle events at a major international competition. katie ledecky born march 17 1997 is the most decorated female swimmer in world championship history and the secondmost decorated swimmer of either gender behind only michael phelps.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3076923076923077
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate accurate accurate major_inaccurate minor_inaccurate accurate 
+

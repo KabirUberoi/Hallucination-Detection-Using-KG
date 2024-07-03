@@ -1,0 +1,93 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Esumi_Station and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Esumi_Station and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Esumi_Station and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Esumi_Station and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Japanese_television_drama and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Gokusen and the value is : 1
+http://dbpedia.org/resource/Japanese_television_drama and http://dbpedia.org/resource/Gokusen and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Tokyo and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Japanese_television_drama and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Kamikaze and the value is : 0
+http://dbpedia.org/resource/Model_(person) and http://dbpedia.org/resource/Japanese_television_drama and the value is : 0
+http://dbpedia.org/resource/Model_(person) and http://dbpedia.org/resource/Kamikaze and the value is : 0
+http://dbpedia.org/resource/Japanese_television_drama and http://dbpedia.org/resource/Kamikaze and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Japanese_television_drama and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Japan_Academy_Film_Prize and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Japan_Academy_Film_Prize and http://dbpedia.org/resource/Actor and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Izumo_Province and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Shimane_Prefecture and the value is : 1
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Essay and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Lyricist and the value is : 0
+http://dbpedia.org/resource/Izumo_Province and http://dbpedia.org/resource/Shimane_Prefecture and the value is : 0
+http://dbpedia.org/resource/Izumo_Province and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Izumo_Province and http://dbpedia.org/resource/Essay and the value is : 0
+http://dbpedia.org/resource/Izumo_Province and http://dbpedia.org/resource/Lyricist and the value is : 0
+http://dbpedia.org/resource/Shimane_Prefecture and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Shimane_Prefecture and http://dbpedia.org/resource/Essay and the value is : 0
+http://dbpedia.org/resource/Shimane_Prefecture and http://dbpedia.org/resource/Lyricist and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Essay and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Lyricist and the value is : 0
+http://dbpedia.org/resource/Essay and http://dbpedia.org/resource/Lyricist and the value is : 0
+http://dbpedia.org/resource/Tsuboi_Kōzō and http://dbpedia.org/resource/Japanese_television_drama and the value is : 0
+http://dbpedia.org/resource/Tsuboi_Kōzō and http://dbpedia.org/resource/Power_Office_Girls and the value is : 0
+http://dbpedia.org/resource/Japanese_television_drama and http://dbpedia.org/resource/Power_Office_Girls and the value is : 0
+http://dbpedia.org/resource/Japan_Academy_Film_Prize and http://dbpedia.org/resource/82nd_Group_Army and the value is : 0
+http://dbpedia.org/resource/Japan_Academy_Film_Prize and http://dbpedia.org/resource/Blue_Ribbon_Awards and the value is : 0
+http://dbpedia.org/resource/Japan_Academy_Film_Prize and http://dbpedia.org/resource/Maborosi and the value is : 0
+http://dbpedia.org/resource/82nd_Group_Army and http://dbpedia.org/resource/Blue_Ribbon_Awards and the value is : 0
+http://dbpedia.org/resource/82nd_Group_Army and http://dbpedia.org/resource/Maborosi and the value is : 0
+http://dbpedia.org/resource/Blue_Ribbon_Awards and http://dbpedia.org/resource/Maborosi and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Japan_Academy_Film_Prize and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Inochi and the value is : 0
+http://dbpedia.org/resource/Japan_Academy_Film_Prize and http://dbpedia.org/resource/Inochi and the value is : 0
+http://dbpedia.org/resource/Extended_play and http://dbpedia.org/resource/Guitar and the value is : 0
+http://dbpedia.org/resource/Extended_play and http://dbpedia.org/resource/Tomoyasu_Hotei and the value is : 0
+http://dbpedia.org/resource/Guitar and http://dbpedia.org/resource/Tomoyasu_Hotei and the value is : 0
+http://dbpedia.org/resource/Fuji_TV and http://dbpedia.org/resource/Tibia and the value is : 0
+http://dbpedia.org/resource/Fuji_TV and http://dbpedia.org/resource/Aspergillus_oryzae and the value is : 1
+http://dbpedia.org/resource/Fuji_TV and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Fuji_TV and http://dbpedia.org/resource/Omiya_Ardija and the value is : 0
+http://dbpedia.org/resource/Tibia and http://dbpedia.org/resource/Aspergillus_oryzae and the value is : 0
+http://dbpedia.org/resource/Tibia and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Tibia and http://dbpedia.org/resource/Omiya_Ardija and the value is : 0
+http://dbpedia.org/resource/Aspergillus_oryzae and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Aspergillus_oryzae and http://dbpedia.org/resource/Omiya_Ardija and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Omiya_Ardija and the value is : 0
+http://dbpedia.org/resource/Photographer and http://dbpedia.org/resource/Mount_Kirishima and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+makiko esumi 江角真紀子 esumi makiko born april 8 1965 is a japanese actress and former fashion model. she is best known for her roles in the television series gokusen 20022005 and hanazakari no kimitachi e 2007. she has also appeared in several films including the awardwinning departures 2008. esumi was born in tokyo japan. she began her career as a fashion model in the 1980s and made her acting debut in the television drama series kaze no naka no shōjo 1991. she has since appeared in numerous television dramas films and stage productions. she won the japan academy prize for best supporting actress for her performance in departures. 
+
+Coref Resolved : 
+makiko esumi 江角真紀子 esumi makiko born april 8 1965 is a japanese actress and former fashion model. makiko esumi is best known for makiko esumi roles in the television series gokusen 20022005 and hanazakari no kimitachi e 2007. makiko esumi has also appeared in several films including the awardwinning departures 2008. makiko esumi was born in tokyo japan. makiko esumi began makiko esumi career as a fashion model in the 1980s and made makiko esumi acting debut in the television drama series kaze no naka no shōjo 1991. makiko esumi has since appeared in numerous television dramas films and stage productions. makiko esumi won the japan academy prize for best supporting actress for makiko esumi performance in the awardwinning departures 2008.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+makiko hirano 平野真紀子 hirano makiko née on 18 december 1966 in izumo shimane prefecture japan is a japanese model actress writer essayist and lyricist. esumi is most wellknown for her role as chinatsu tsuboi in the japanese television drama series shomuni. esumi won the 1995 rookie of the year award at both the 19th annual japan academy prize ceremonies and at the 38th blue ribbon awards for her role in the 1995 film maborosi. she was nominated in 2002 for the best actress award at the 26th annual japan academy prize ceremonies for her role in inochi. in 2000 she released her single one way drive featuring guitar work and production by tomoyasu hotei who also cowrote the song with esumi. she wrote a childrens book in 2005. esumi is married to fuji tv director shin hirano and is distantly related to koji ezumi a goalkeeper for omiya ardija. she was previously married to photographer rowland kirishima. she gave birth in 2005 to her first daughter with her second due to be born in december 2009. she is represented by the talent management firm kenon. 
+
+Coref Resolved : 
+makiko hirano 平野真紀子 hirano makiko née on 18 december 1966 in izumo shimane prefecture japan is a japanese model actress writer essayist and lyricist. makiko hirano is most wellknown for makiko hirano role as chinatsu tsuboi in the japanese television drama series shomuni. makiko hirano won the 1995 rookie of the year award at both the 19th annual japan academy prize ceremonies and at the 38th blue ribbon awards for makiko hirano role in the 1995 film maborosi. makiko hirano was nominated in 2002 for the best actress award at the 26th annual japan academy prize ceremonies for makiko hirano role in inochi. in 2000 makiko hirano released makiko hirano single one way drive featuring guitar work and production by tomoyasu hotei who also cowrote the song with makiko hirano . makiko hirano wrote a childrens book in 2005. makiko hirano is married to fuji tv director shin hirano and is distantly related to koji ezumi a goalkeeper for omiya ardija. makiko hirano was previously married to photographer rowland kirishima. makiko hirano gave birth in 2005to makiko hirano first daughter with makiko hirano second due to be born in december 2009. makiko hirano is represented by the talent management firm kenon.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16666666666666666 and for ground truth is : 0.07317073170731707
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate accurate minor_inaccurate 
+

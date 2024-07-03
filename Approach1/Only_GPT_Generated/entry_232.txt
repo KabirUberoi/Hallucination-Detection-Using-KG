@@ -1,0 +1,27 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Politics_of_Canada and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Lawyer and the value is : 1
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Diplomat and the value is : 0
+http://dbpedia.org/resource/Politics_of_Canada and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Politics_of_Canada and http://dbpedia.org/resource/Diplomat and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Diplomat and the value is : 0
+http://dbpedia.org/resource/Parti_Québécois and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/Premier_of_Quebec and http://dbpedia.org/resource/Referendum and the value is : 1
+http://dbpedia.org/resource/Quebec_nationalism and http://dbpedia.org/resource/Quiet_Revolution and the value is : 0
+http://dbpedia.org/resource/Patriation and http://dbpedia.org/resource/Constitution_of_Canada and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+laurier lévesque born august 8 1922 is a canadian politician lawyer and diplomat. he was the leader of the parti québécois from 1968 to 1985 and served as the 25th premier of quebec from 1976 to 1985. he was the first quebec premier to hold a referendum on sovereigntyassociation in 1980 which was defeated by a 6040 margin. he also served as a member of parliament in the house of commons of canada from 1970 to 1976. lévesque was a key figure in the development of modern quebec nationalism and the quiet revolution. he was also a major figure in the negotiations leading to the patriation of the canadian constitution in 1982. 
+
+Coref Resolved : 
+laurier lévesque born august 8 1922 is a canadian politician lawyer and diplomat. lévesque was the leader of the parti québécois from 1968 to 1985 and served as the 25th premier of quebec from 1976 to 1985 . lévesque was the first quebec premier to hold a referendum on sovereigntyassociation in 1980 which was defeated by a 6040 margin. lévesque also served as a member of parliament in the house of commons of canada from 1970 to 1976 . lévesque was a key figure in the development of modern quebec nationalism and the quiet revolution. lévesque was also a major figure in the negotiations leading to the patriation of the canadian constitution in 1982.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

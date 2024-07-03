@@ -1,0 +1,87 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/Firsthand_(TV_series) and http://dbpedia.org/resource/October_Revolution and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/University_of_Oregon and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Chicago_Outfit and the value is : 0
+http://dbpedia.org/resource/University_of_Oregon and http://dbpedia.org/resource/Chicago_Outfit and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Harvard_University and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Political_radicalism and the value is : 1
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Communist_party and the value is : 0
+http://dbpedia.org/resource/Harvard_University and http://dbpedia.org/resource/Political_radicalism and the value is : 0
+http://dbpedia.org/resource/Harvard_University and http://dbpedia.org/resource/Communist_party and the value is : 0
+http://dbpedia.org/resource/Political_radicalism and http://dbpedia.org/resource/Communist_party and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Soviet_Union and the value is : 0
+http://dbpedia.org/resource/Eastern_Europe and http://dbpedia.org/resource/Insurgency and the value is : 0
+http://dbpedia.org/resource/Eastern_Europe and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Insurgency and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Magazine and the value is : 0
+http://dbpedia.org/resource/Communist_party and http://dbpedia.org/resource/Prison and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Communism and the value is : 1
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Soviet_Union and the value is : 0
+http://dbpedia.org/resource/Communism and http://dbpedia.org/resource/Soviet_Union and the value is : 0
+http://dbpedia.org/resource/Communist_International and http://dbpedia.org/resource/Moscow and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Moscow and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/West_Bridgewater,_Massachusetts and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/West_Bridgewater,_Massachusetts and http://dbpedia.org/resource/Massachusetts and the value is : 1
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Brown_University and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Bridgewater_railway_station and the value is : 0
+http://dbpedia.org/resource/Brown_University and http://dbpedia.org/resource/Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Brown_University and http://dbpedia.org/resource/Bridgewater_railway_station and the value is : 0
+http://dbpedia.org/resource/Rhode_Island and http://dbpedia.org/resource/Bridgewater_railway_station and the value is : 1
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Great_Yarmouth and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Great_Yarmouth and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Great_Yarmouth and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/American_Antiquarian_Society and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Federalist and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Anti-Masonic_Party and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Whigs_(British_political_party) and the value is : 0
+http://dbpedia.org/resource/Federalist and http://dbpedia.org/resource/Anti-Masonic_Party and the value is : 0
+http://dbpedia.org/resource/Federalist and http://dbpedia.org/resource/Whigs_(British_political_party) and the value is : 0
+http://dbpedia.org/resource/Anti-Masonic_Party and http://dbpedia.org/resource/Whigs_(British_political_party) and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Committee and the value is : 1
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Lieutenant_governor and the value is : 1
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/West_Bridgewater,_Massachusetts and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Plymouth_County,_Massachusetts and the value is : 1
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/West_Bridgewater,_Massachusetts and http://dbpedia.org/resource/Plymouth_County,_Massachusetts and the value is : 0
+http://dbpedia.org/resource/West_Bridgewater,_Massachusetts and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Plymouth_County,_Massachusetts and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Glasnevin_Cemetery and http://dbpedia.org/resource/Bridgewater_railway_station and the value is : 0
+http://dbpedia.org/resource/Glasnevin_Cemetery and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Bridgewater_railway_station and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Phragmites and http://dbpedia.org/resource/Serbian_language and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john reed jr. 19051980 was an american journalist author and communist activist. he is best remembered for his firsthand account of the russian revolution ten days that shook the world 1919. reed was born in portland oregon to a wealthy family. he attended harvard university where he became involved in radical politics and joined the communist party of america in 1920. he traveled to the soviet union in 1921 and wrote several books about his experiences there including the war in eastern europe 1922 and insurgent mexico 1914. he also wrote for the new masses a communist magazine and was a founding member of the american writers congress. reed was arrested in 1923 for his involvement in the communist party and served a year in prison. after his release he continued to write and speak about communism and the soviet union and he was a delegate to the seventh world congress of the communist international in moscow in 1935. he died in moscow in 1980. 
+
+Coref Resolved : 
+john reed jr. 19051980 was an american journalist author and communist activist. john reed jr. 19051980 is best remembered for john reed jr. 19051980 firsthand account of the russian revolution ten days that shook the world 1919. john reed jr. 19051980 was born in portland oregon to a wealthy family. john reed jr. 19051980 attended harvard university where john reed jr. 19051980 became involved in radical politics and joined the communist party of america in 1920. john reed jr. 19051980 traveled to the soviet union in 1921 and wrote several books about john reed jr. 19051980 experiences there including the war in eastern europe 1922 and insurgent mexico 1914. john reed jr. 19051980 also wrote for the new masses a communist magazine and was a founding member of the american writers congress. john reed jr. 19051980 was arrested in 1923 for john reed jr. 19051980 involvement in the communist party of america and served a year in prison. after john reed jr. 19051980 release john reed jr. 19051980 continued to write and speak about communism and the soviet union and john reed jr. 19051980 was a delegate to the seventh world congress of the communist international in moscow in 1935. john reed jr. 19051980 died in moscow in 1980.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+john reed jr. september 2 1781 november 25 1860 was a representative from massachusetts. reed was born in west bridgewater massachusetts. he graduated from brown university providence rhode island in 1803 and was a tutor of languages in that institution for two years and principal of the bridgewater massachusetts academy in 1806 and 1807. he studied law was admitted to the bar and commenced practice in yarmouth massachusetts. reed was elected a member of the american antiquarian society in 1814. he was elected as a federalist to the thirteenth and fourteenth congresses march 4 1813 march 3 1817 elected to the seventeenth through twentythird congresses elected as an antimasonic candidate to the twentyfourth congress and elected as a whig to the twentyfifth and twentysixth congresses march 4 1821 march 3 1841. he was chairman of the committee on revisal and unfinished business twentysecond congress. he declined to be a candidate for reelection in 1840. he was the 17th lieutenant governor of massachusetts 1845 1851. reed died in west bridgewater plymouth county massachusetts. interment was in mount prospect cemetery bridgewater massachusetts. reed was the son of john reed sr. 
+
+Coref Resolved : 
+john reed jr. september 2 1781 november 25 1860 was a representative from massachusetts. john reed jr. was born in west bridgewater massachusetts. john reed jr. graduated from brown university providence rhode island in 1803 and was a tutor of languages in brown university providence rhode island for two years and principal of the bridgewater massachusettsacademy in 1806 and 1807. john reed jr. studied law was admitted to the bar and commenced practice in yarmouth massachusetts. john reed jr. was elected a member of the american antiquarian society in 1814. john reed jr. was elected as a federalist to the thirteenth and fourteenth congresses march 4 1813 march 3 1817 elected to the seventeenth through twentythird congresses elected as an antimasonic candidate to the twentyfourth congress and elected as a whig to the twentyfifth and twentysixth congresses march 4 1821 march 3 1841. john reed jr. was chairman of the committee on revisal and unfinished business twentysecond congress. john reed jr. declined to be a candidate for reelection in 1840. john reed jr. was the 17th lieutenant governor of massachusetts1845 1851. john reed jr. died in west bridgewater plymouth county massachusetts. interment was in mount prospect cemetery bridgewater massachusetts. john reed jr. was the son of john reed sr.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.08333333333333333 and for ground truth is : 0.14285714285714285
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

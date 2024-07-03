@@ -1,0 +1,68 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/The_American_Lawyer and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+http://dbpedia.org/resource/Naval_Air_Station_Pensacola and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Escambia_County,_Florida and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/State_school and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Education_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/State_school and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/State_school and http://dbpedia.org/resource/Education_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/Education_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Naval_Air_Station_Pensacola and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/January_29 and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/January_29 and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/January_29 and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Amite_County,_Mississippi and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Amite_County,_Mississippi and http://dbpedia.org/resource/Frank_Alexander_(actor) and the value is : 1
+http://dbpedia.org/resource/Amite_County,_Mississippi and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Amite_County,_Mississippi and http://dbpedia.org/resource/State_school and the value is : 0
+http://dbpedia.org/resource/Mississippi and http://dbpedia.org/resource/Frank_Alexander_(actor) and the value is : 0
+http://dbpedia.org/resource/Mississippi and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Mississippi and http://dbpedia.org/resource/State_school and the value is : 1
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/State_school and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/State_school and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Liberty and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Liberty and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/District_attorney and http://dbpedia.org/resource/Judicial_district and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Mississippi and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Constitution_of_Indiana and the value is : 0
+http://dbpedia.org/resource/Mississippi and http://dbpedia.org/resource/Constitution_of_Indiana and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Denny_McLain and the value is : 0
+http://dbpedia.org/resource/Frank_Alexander_(actor) and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Denny_McLain and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Mississippi and http://dbpedia.org/resource/City and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+frank a. mclain 18901962 american lawyer politician state florida . served member florida house representatives 1923 1925 member florida senate 1925 1929 . member democratic party . mclain born 1890 pensacola florida . attended university florida earned law degree 1914 . graduating returned pensacola began practicing law . 1923 mclain elected florida house representatives representing escambia county . served house 1925 elected florida senate . served senate 1929 . mclain strong advocate public education instrumental passage 1927 florida education act provided establishment statewide system public schools . supported creation statewide system roads highways . mclain died 1962 pensacola . remembered dedicated public 
+
+Coref Resolved : 
+frank a. mclain 18901962 american lawyer politician state florida . served member florida house representatives 1923 1925 member florida senate 1925 1929 . member democratic party . mclain born 1890 pensacola state florida . attended university state florida earned law degree 1914 . graduating returned pensacola began practicing law . 1923 mclain elected state florida house representatives representing escambia county . served house 1925 elected state florida senate . served florida senate 1929 . mclain strong advocate public education instrumental passage 1927 state florida education act provided establishment statewide system public schools . supported creation statewide system roads highways . mclain died 1962 pensacola . remembered dedicated public
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+frank alexander mclain january 29 1852 october 10 1920 u.s . representative mississippi . born near gloster amite county mississippi mclain attended public schools graduated university mississippi oxford 1874 . studied law admitted bar commenced practice liberty mississippi 1880 . served member state house representatives 18811883 district attorney judicial district 1883 january 1 1896 resigned . resumed practice law gloster mississippi served member state constitutional convention 1890 . mclain elected democrat fiftyfifth congress fill vacancy caused death william f. love . reelected fiftysixth succeeding congresses served december 12 1898 march 3 1909 . state supreme court commissioner 19101912 . died gloster mississippi october 10 1920 interred city cemetery . 
+
+Coref Resolved : 
+frank alexander mclain january 29 1852 october 10 1920 u.s . representative mississippi . born near gloster amite county mississippi frank alexander mclain attended public schools graduated university mississippi oxford 1874 . studied law admitted bar commenced practice liberty mississippi 1880 . served member state house representatives 18811883 district attorney judicial district 1883 january 1 1896 resigned . resumed practice law gloster mississippi served member state constitutional convention 1890 . frank alexander mclain elected democrat fiftyfifth congress fill vacancy caused death william f. love . reelected fiftysixth succeeding congresses served december 12 1898 march 3 1909 . state supreme court commissioner 19101912 . died gloster mississippi october 10 1920 interred city cemetery .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.07692307692307693 and for ground truth is : 0.07407407407407407
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate 
+

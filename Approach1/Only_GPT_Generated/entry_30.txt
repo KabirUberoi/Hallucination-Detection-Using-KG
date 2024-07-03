@@ -1,0 +1,42 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Quarterback and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Quarterback and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Michigan_Wolverines_football and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Wolverine and the value is : 0
+http://dbpedia.org/resource/Quarterback and http://dbpedia.org/resource/Wolverine and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/2008_NFL_season and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/1985_World_Snooker_Championship_final and the value is : 0
+http://dbpedia.org/resource/2008_NFL_season and http://dbpedia.org/resource/1985_World_Snooker_Championship_final and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Arizona_State_Sun_Devils_football and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Cheez-It_Bowl and the value is : 1
+http://dbpedia.org/resource/Arizona_State_Sun_Devils_football and http://dbpedia.org/resource/Cheez-It_Bowl and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Free_agent and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/2010_NFL_Draft and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Pittsburgh_Steelers and the value is : 1
+http://dbpedia.org/resource/Free_agent and http://dbpedia.org/resource/2010_NFL_Draft and the value is : 0
+http://dbpedia.org/resource/Free_agent and http://dbpedia.org/resource/Pittsburgh_Steelers and the value is : 0
+http://dbpedia.org/resource/2010_NFL_Draft and http://dbpedia.org/resource/Pittsburgh_Steelers and the value is : 0
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/Pittsburgh_Steelers and the value is : 1
+http://dbpedia.org/resource/Steven_Threet and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Pittsburgh_Steelers and http://dbpedia.org/resource/National_Football_League and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+steven threet born august 8 1985 is a former american football quarterback. he played college football at the university of michigan and arizona state university. threet began his college career at michigan in 2004. he was the starting quarterback for the wolverines in 2007 leading the team to a 39 record. he was injured during the 2008 season and transferred to arizona state for his final year of eligibility. he started all 12 games for the sun devils in 2009 leading the team to a 66 record and a berth in the insight bowl. threet went undrafted in the 2010 nfl draft and signed with the pittsburgh steelers as an undrafted free agent. he was released by the steelers in august 2010 and did not play in the nfl. 
+
+Coref Resolved : 
+steven threet born august 8 1985 is a former american football quarterback. steven threet born august 8 1985 played college football at the university of michigan and arizona state university. steven threet born august 8 1985 began steven threet born august 8 1985 college career at the university of michigan in 2004. steven threet born august 8 1985 was the starting quarterback for the wolverines in 2007 leading the wolverines to a 39 record. steven threet born august 8 1985 was injured during the 2008 season and transferred to arizona state universityfor steven threet born august 8 1985 final year of eligibility. steven threet born august 8 1985 started all 12 games for the sun devils in 2009 leading the sun devils to a 66 record and a berth in the insight bowl. steven threet born august 8 1985 went undrafted in the 2010 nfl draft and signed with the pittsburgh steelers as an undrafted free agent. steven threet born august 8 1985 was released by the pittsburgh steelers in august 2010 and did not play in nfl .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.36
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

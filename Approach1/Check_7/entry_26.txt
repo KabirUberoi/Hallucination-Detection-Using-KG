@@ -1,0 +1,95 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Faroe_Islands and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Faroe_Islands and http://dbpedia.org/resource/Týr and the value is : 0
+http://dbpedia.org/resource/Faroe_Islands and http://dbpedia.org/resource/Sirið_Stenberg and the value is : 0
+http://dbpedia.org/resource/Faroe_Islands and http://dbpedia.org/resource/Violin and the value is : 0
+http://dbpedia.org/resource/Týr and http://dbpedia.org/resource/Sirið_Stenberg and the value is : 0
+http://dbpedia.org/resource/Týr and http://dbpedia.org/resource/Violin and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Violin and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands_national_football_team and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Tórshavn and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Capital_city and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Violin and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/National_Youth_Orchestra_of_Great_Britain and the value is : 0
+http://dbpedia.org/resource/Tórshavn and http://dbpedia.org/resource/Capital_city and the value is : 0
+http://dbpedia.org/resource/Tórshavn and http://dbpedia.org/resource/Faroe_Islands and the value is : 0
+http://dbpedia.org/resource/Tórshavn and http://dbpedia.org/resource/Violin and the value is : 0
+http://dbpedia.org/resource/Tórshavn and http://dbpedia.org/resource/National_Youth_Orchestra_of_Great_Britain and the value is : 0
+http://dbpedia.org/resource/Capital_city and http://dbpedia.org/resource/Faroe_Islands and the value is : 0
+http://dbpedia.org/resource/Capital_city and http://dbpedia.org/resource/Violin and the value is : 0
+http://dbpedia.org/resource/Capital_city and http://dbpedia.org/resource/National_Youth_Orchestra_of_Great_Britain and the value is : 0
+http://dbpedia.org/resource/Faroe_Islands and http://dbpedia.org/resource/Violin and the value is : 0
+http://dbpedia.org/resource/Faroe_Islands and http://dbpedia.org/resource/National_Youth_Orchestra_of_Great_Britain and the value is : 1
+http://dbpedia.org/resource/Violin and http://dbpedia.org/resource/National_Youth_Orchestra_of_Great_Britain and the value is : 0
+http://dbpedia.org/resource/Týr and http://dbpedia.org/resource/Integral and the value is : 0
+http://dbpedia.org/resource/Týr and http://dbpedia.org/resource/Sirið_Stenberg and the value is : 0
+http://dbpedia.org/resource/Týr and http://dbpedia.org/resource/Faroe_Islands_national_football_team and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands_national_football_team and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Vágur and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Vágur and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Vágur and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Faroe_Islands and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Nursing and the value is : 1
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Faroe_Islands and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Health_care and the value is : 1
+http://dbpedia.org/resource/Nursing and http://dbpedia.org/resource/Faroe_Islands and the value is : 0
+http://dbpedia.org/resource/Nursing and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Faroe_Islands and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Health_care and http://dbpedia.org/resource/Suðuroy and the value is : 0
+http://dbpedia.org/resource/Løgting and http://dbpedia.org/resource/Tórshavn and the value is : 1
+http://dbpedia.org/resource/Løgting and http://dbpedia.org/resource/Ferry and the value is : 0
+http://dbpedia.org/resource/Løgting and http://dbpedia.org/resource/Suðuroy and the value is : 0
+http://dbpedia.org/resource/Tórshavn and http://dbpedia.org/resource/Ferry and the value is : 0
+http://dbpedia.org/resource/Tórshavn and http://dbpedia.org/resource/Suðuroy and the value is : 0
+http://dbpedia.org/resource/Ferry and http://dbpedia.org/resource/Suðuroy and the value is : 0
+http://dbpedia.org/resource/Head_teacher and http://dbpedia.org/resource/Health_School_FC and the value is : 0
+http://dbpedia.org/resource/Head_teacher and http://dbpedia.org/resource/Faroe_Islands and the value is : 0
+http://dbpedia.org/resource/Head_teacher and http://dbpedia.org/resource/Suðuroy and the value is : 1
+http://dbpedia.org/resource/Health_School_FC and http://dbpedia.org/resource/Faroe_Islands and the value is : 0
+http://dbpedia.org/resource/Health_School_FC and http://dbpedia.org/resource/Suðuroy and the value is : 0
+http://dbpedia.org/resource/Faroe_Islands and http://dbpedia.org/resource/Suðuroy and the value is : 0
+http://dbpedia.org/resource/Jón_Pauli_Olsen and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Jón_Pauli_Olsen and http://dbpedia.org/resource/Management and the value is : 0
+http://dbpedia.org/resource/Jón_Pauli_Olsen and http://dbpedia.org/resource/Faroe_Islands and the value is : 0
+http://dbpedia.org/resource/Jón_Pauli_Olsen and http://dbpedia.org/resource/Health_care and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Management and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Faroe_Islands and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Health_care and the value is : 1
+http://dbpedia.org/resource/Management and http://dbpedia.org/resource/Faroe_Islands and the value is : 0
+http://dbpedia.org/resource/Management and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Faroe_Islands and http://dbpedia.org/resource/Health_care and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+sirið stenberg born 28 april 1988 faroese singer songwriter . best known work faroese band týr lead vocalist plays violin . stenberg released solo albums collaborated faroese international artists . stenberg born tórshavn capital faroe islands . began playing violin age member faroese national youth orchestra age . joined týr 2004 integral bands sound . powerful emotive vocal style praised critics described talented singers faroe islands . addition work týr stenberg released solo albums collaborated faroese international artists . 
+
+Coref Resolved : 
+sirið stenberg born 28 april 1988 faroese singer songwriter . best known work faroese band týr sirið stenberg plays violin . sirið stenberg released solo albums collaborated faroese international artists . sirið stenberg born tórshavn capital faroe islands . began playing violin age member faroese national youth orchestra age . joined týr 2004 integral bands sound . powerful emotive vocal style praised critics described talented singers faroe islands . addition work týr sirið stenberg released solo albums collaborated faroese international artists .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+sirið stenberg born 26 1968 vágur faroese politician . finished education nurse 1994 nurse neonatalalogy 1998 nurse special knowledge children 07 heilsufrøðingur faroese sundhedsplejerske danish health care visitor attends gives advice mothers small children homes . 2001 worked childrens health care suðuroy . took leave employment shortly assuming office member faroese parliament located tórshavn hours away ferry suðuroy . 200608 headmaster health school faroe islands located suðuroy . married jón pauli olsen football manager faroese womens national football team social health assistant children . 
+
+Coref Resolved : 
+sirið stenberg born 26 1968 vágur faroese politician . finished education nurse 1994 nurse neonatalalogy 1998 nurse special knowledge children 07 heilsufrøðingur faroese sundhedsplejerske danish health care visitor attends gives advice mothers small children homes . 2001 worked childrens health care suðuroy . took leave employment shortly assuming office member faroese parliament located tórshavn hours away ferry suðuroy . 200608 headmaster health school faroe islands located suðuroy . married jón pauli olsen football manager faroese womens national football team social health assistant children .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.125 and for ground truth is : 0.34285714285714286
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,134 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Television_presenter and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/News_magazine and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Wprost and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Television_presenter and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/News_magazine and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Wprost and the value is : 1
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Television_presenter and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/News_magazine and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Wprost and the value is : 0
+http://dbpedia.org/resource/Television_presenter and http://dbpedia.org/resource/News_magazine and the value is : 1
+http://dbpedia.org/resource/Television_presenter and http://dbpedia.org/resource/Wprost and the value is : 0
+http://dbpedia.org/resource/News_magazine and http://dbpedia.org/resource/Wprost and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Poland and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Newsweek_Polska and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Warsaw and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/State_school and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Public_administration and the value is : 0
+http://dbpedia.org/resource/Warsaw and http://dbpedia.org/resource/State_school and the value is : 1
+http://dbpedia.org/resource/Warsaw and http://dbpedia.org/resource/Public_administration and the value is : 0
+http://dbpedia.org/resource/State_school and http://dbpedia.org/resource/Public_administration and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Investigative_journalism and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Newspaper and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Gazeta_Wyborcza and the value is : 1
+http://dbpedia.org/resource/Investigative_journalism and http://dbpedia.org/resource/Newspaper and the value is : 0
+http://dbpedia.org/resource/Investigative_journalism and http://dbpedia.org/resource/Gazeta_Wyborcza and the value is : 0
+http://dbpedia.org/resource/Newspaper and http://dbpedia.org/resource/Gazeta_Wyborcza and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/News_magazine and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Polityka and the value is : 0
+http://dbpedia.org/resource/News_magazine and http://dbpedia.org/resource/Polityka and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/News_magazine and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/News_presenter and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/TVN_(South_Korean_TV_channel) and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Fakty_TVN and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Wydarzenia and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/News_presenter and the value is : 1
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/TVN_(South_Korean_TV_channel) and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Fakty_TVN and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Wydarzenia and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/News_presenter and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/TVN_(South_Korean_TV_channel) and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Fakty_TVN and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Wydarzenia and the value is : 0
+http://dbpedia.org/resource/News_presenter and http://dbpedia.org/resource/TVN_(South_Korean_TV_channel) and the value is : 0
+http://dbpedia.org/resource/News_presenter and http://dbpedia.org/resource/Fakty_TVN and the value is : 0
+http://dbpedia.org/resource/News_presenter and http://dbpedia.org/resource/Wydarzenia and the value is : 0
+http://dbpedia.org/resource/TVN_(South_Korean_TV_channel) and http://dbpedia.org/resource/Fakty_TVN and the value is : 0
+http://dbpedia.org/resource/TVN_(South_Korean_TV_channel) and http://dbpedia.org/resource/Wydarzenia and the value is : 0
+http://dbpedia.org/resource/Fakty_TVN and http://dbpedia.org/resource/Wydarzenia and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Telewizja_Polska and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Public_broadcasting and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/News_presenter and the value is : 1
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Telewizja_Polska and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Public_broadcasting and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/News_presenter and the value is : 1
+http://dbpedia.org/resource/Telewizja_Polska and http://dbpedia.org/resource/Public_broadcasting and the value is : 0
+http://dbpedia.org/resource/Telewizja_Polska and http://dbpedia.org/resource/News_presenter and the value is : 0
+http://dbpedia.org/resource/Public_broadcasting and http://dbpedia.org/resource/News_presenter and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Correspondent and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Direct_current and the value is : 1
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Correspondent and the value is : 1
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Correspondent and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Correspondent and http://dbpedia.org/resource/Direct_current and the value is : 1
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Telewizja_Polska and http://dbpedia.org/resource/Public_broadcasting and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Fakty_TVN and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Telewizja_Polska and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/TVN_(South_Korean_TV_channel) and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Fakty_TVN and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Telewizja_Polska and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/TVN_(South_Korean_TV_channel) and the value is : 1
+http://dbpedia.org/resource/Fakty_TVN and http://dbpedia.org/resource/Telewizja_Polska and the value is : 0
+http://dbpedia.org/resource/Fakty_TVN and http://dbpedia.org/resource/TVN_(South_Korean_TV_channel) and the value is : 1
+http://dbpedia.org/resource/Telewizja_Polska and http://dbpedia.org/resource/TVN_(South_Korean_TV_channel) and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Wydarzenia and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Polsat and the value is : 1
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Wydarzenia and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Polsat and the value is : 1
+http://dbpedia.org/resource/Wydarzenia and http://dbpedia.org/resource/Polsat and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Poland and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/The_New_York_Times_Best_Seller_list and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Poland and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/The_New_York_Times_Best_Seller_list and the value is : 1
+http://dbpedia.org/resource/Poland and http://dbpedia.org/resource/The_New_York_Times_Best_Seller_list and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/News and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Wprost and the value is : 1
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/News and the value is : 0
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Wprost and the value is : 0
+http://dbpedia.org/resource/News and http://dbpedia.org/resource/Wprost and the value is : 0
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Zielona_Góra and the value is : 1
+http://dbpedia.org/resource/Tomasz_Lis and http://dbpedia.org/resource/Newsweek_Polska and the value is : 1
+http://dbpedia.org/resource/Zielona_Góra and http://dbpedia.org/resource/Newsweek_Polska and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tomasz lis born 28 april 1962 is a polish journalist television presenter and editorinchief of the polish weekly news magazine wprost. he is one of the most popular and influential journalists in poland. he is known for his strong opinions and his confrontational style of interviewing. he is also a regular contributor to the polish edition of newsweek. lis is a graduate of the university of warsaw and the national school of public administration. he began his career in journalism in the 1980s working for the polish daily newspaper gazeta wyborcza. he later moved to the weekly magazine polityka where he worked as a reporter and editor. in 1997 he joined the staff of wprost where he has been editorinchief since 2001. 
+
+Coref Resolved : 
+tomasz lis born 28 april 1962 is a polish journalist television presenter and editorinchief of the polish weekly news magazine wprost. tomasz lis is one of the most popular and influential journalists in poland. tomasz lis is known for tomasz lis strong opinions and tomasz lis confrontational style of interviewing. tomasz lis is also a regular contributor to the polish edition of newsweek. tomasz lis is a graduate of the university of warsaw and the national school of public administration. tomasz lis began tomasz lis career in journalism in the 1980s working for the polish daily newspaper gazeta wyborcza. tomasz lis later moved to the weekly magazine polityka where tomasz lis worked as a reporter and editor. in 1997 tomasz lis joined the staff of the polish weekly news magazine wprostwhere tomasz lis has been editorinchief since 2001.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+tomasz lis born march 6 1966 zielona góra is a polish journalist and former tv anchor of tvn fakty tvn facts and wydarzenia events. tomasz lis began his career in tvp polish public television in 1990 after winning an open competition for the post of a newsreader. from 1994 to 1997 he was a correspondent in washington d.c. for tvp. from 1997 to 2004 he was the coauthor of fakty tvn on the polish television station tvn. from 2006 to 2007 he was the editorinchief of wydarzenia on polsat. in 2003 he published his book co z tą polską whats with poland which became a bestseller in poland selling over 100000 copies. from late 2010 to february 2012 he was the editorinchief of the current affairs weekly wprost. in march 2012 he became the editorinchief of newsweek polska. 
+
+Coref Resolved : 
+tomasz lis born march 6 1966 zielona góra is a polish journalist and former tv anchor of tvn fakty tvn facts and wydarzenia events. tomasz lis born march 6 1966 zielona góra began tomasz lis born march 6 1966 zielona góra career in tvp polish public television in 1990 after winning an open competition for the post of a newsreader. from 1994 to 1997 tomasz lis born march 6 1966 zielona góra was a correspondent in washington d.c. for tvp polish public television . from 1997 to 2004 tomasz lis born march 6 1966 zielona góra was the coauthor of fakty tvn on the polish television station tvn. from 2006 to 2007 tomasz lis born march 6 1966 zielona góra was the editorinchief of wydarzenia on polsat. in 2003 tomasz lis born march 6 1966 zielona góra published tomasz lis born march 6 1966 zielona góra book co z tą polską whats with poland which became a bestseller in poland selling over 100000 copies. from late 2010 to february 2012 tomasz lis born march 6 1966 zielona góra was the editorinchief of the current affairs weekly wprost. in march 2012 tomasz lis born march 6 1966 zielona góra became the editorinchief of newsweek polska.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.18181818181818182 and for ground truth is : 0.3561643835616438
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

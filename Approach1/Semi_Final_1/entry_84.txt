@@ -1,0 +1,161 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Georgian_language and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/2010 and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Vancouver and the value is : 1
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/2010 and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/2010 and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/2010 and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Sport_of_athletics and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Death and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Cycling and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Knud_Enemark_Jensen and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/1960_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Sport_of_athletics and the value is : 1
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Death and the value is : 1
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Olympic_Games and the value is : 0
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Cycling and the value is : 0
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Knud_Enemark_Jensen and the value is : 1
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/1960_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Sport_of_athletics and http://dbpedia.org/resource/Death and the value is : 0
+http://dbpedia.org/resource/Sport_of_athletics and http://dbpedia.org/resource/Olympic_Games and the value is : 1
+http://dbpedia.org/resource/Sport_of_athletics and http://dbpedia.org/resource/Cycling and the value is : 0
+http://dbpedia.org/resource/Sport_of_athletics and http://dbpedia.org/resource/Knud_Enemark_Jensen and the value is : 0
+http://dbpedia.org/resource/Sport_of_athletics and http://dbpedia.org/resource/1960_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Death and http://dbpedia.org/resource/Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Death and http://dbpedia.org/resource/Cycling and the value is : 0
+http://dbpedia.org/resource/Death and http://dbpedia.org/resource/Knud_Enemark_Jensen and the value is : 1
+http://dbpedia.org/resource/Death and http://dbpedia.org/resource/1960_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Olympic_Games and http://dbpedia.org/resource/Cycling and the value is : 0
+http://dbpedia.org/resource/Olympic_Games and http://dbpedia.org/resource/Knud_Enemark_Jensen and the value is : 1
+http://dbpedia.org/resource/Olympic_Games and http://dbpedia.org/resource/1960_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Cycling and http://dbpedia.org/resource/Knud_Enemark_Jensen and the value is : 0
+http://dbpedia.org/resource/Cycling and http://dbpedia.org/resource/1960_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Knud_Enemark_Jensen and http://dbpedia.org/resource/1960_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Bakuriani and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Georgia_national_rugby_union_team and the value is : 1
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Bakuriani and the value is : 0
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Georgia_national_rugby_union_team and the value is : 0
+http://dbpedia.org/resource/Bakuriani and http://dbpedia.org/resource/Georgia_national_rugby_union_team and the value is : 1
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Austrian_Figure_Skating_Championships and the value is : 0
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Austrian_Figure_Skating_Championships and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/The_Contender_(TV_series) and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/The_Contender_(TV_series) and the value is : 1
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/The_Contender_(TV_series) and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/2010 and http://dbpedia.org/resource/Georgian_language and the value is : 1
+http://dbpedia.org/resource/2010 and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/2010 and http://dbpedia.org/resource/Whistler_Sliding_Centre and the value is : 1
+http://dbpedia.org/resource/2010 and http://dbpedia.org/resource/Luge_at_the_1994_Winter_Olympics and the value is : 1
+http://dbpedia.org/resource/2010 and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Whistler_Sliding_Centre and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Luge_at_the_1994_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Whistler_Sliding_Centre and the value is : 0
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Luge_at_the_1994_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Vancouver and the value is : 1
+http://dbpedia.org/resource/Whistler_Sliding_Centre and http://dbpedia.org/resource/Luge_at_the_1994_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Whistler_Sliding_Centre and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/Luge_at_the_1994_Winter_Olympics and http://dbpedia.org/resource/Vancouver and the value is : 1
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/2010 and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Georgian_language and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 1
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/Pachycephala and the value is : 0
+http://dbpedia.org/resource/Nodar_Kumaritashvili and http://dbpedia.org/resource/2010_Winter_Olympics_opening_ceremony and the value is : 0
+http://dbpedia.org/resource/2010 and http://dbpedia.org/resource/Georgian_language and the value is : 0
+http://dbpedia.org/resource/2010 and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/2010 and http://dbpedia.org/resource/Pachycephala and the value is : 0
+http://dbpedia.org/resource/2010 and http://dbpedia.org/resource/2010_Winter_Olympics_opening_ceremony and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/2010_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Pachycephala and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/2010_Winter_Olympics_opening_ceremony and the value is : 0
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/Pachycephala and the value is : 0
+http://dbpedia.org/resource/2010_Winter_Olympics and http://dbpedia.org/resource/2010_Winter_Olympics_opening_ceremony and the value is : 0
+http://dbpedia.org/resource/Pachycephala and http://dbpedia.org/resource/2010_Winter_Olympics_opening_ceremony and the value is : 0
+http://dbpedia.org/resource/Track_and_field and http://dbpedia.org/resource/Winter_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Track_and_field and http://dbpedia.org/resource/Skiing_in_Australia and the value is : 0
+http://dbpedia.org/resource/Track_and_field and http://dbpedia.org/resource/Ross_Milne and the value is : 1
+http://dbpedia.org/resource/Track_and_field and http://dbpedia.org/resource/Olympic_Sliding_Centre_Innsbruck and the value is : 0
+http://dbpedia.org/resource/Track_and_field and http://dbpedia.org/resource/Speed_skiing and the value is : 0
+http://dbpedia.org/resource/Track_and_field and http://dbpedia.org/resource/Nicolas_Bochatay and the value is : 0
+http://dbpedia.org/resource/Track_and_field and http://dbpedia.org/resource/1992_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Track_and_field and http://dbpedia.org/resource/Death and the value is : 1
+http://dbpedia.org/resource/Track_and_field and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Winter_Olympic_Games and http://dbpedia.org/resource/Skiing_in_Australia and the value is : 1
+http://dbpedia.org/resource/Winter_Olympic_Games and http://dbpedia.org/resource/Ross_Milne and the value is : 0
+http://dbpedia.org/resource/Winter_Olympic_Games and http://dbpedia.org/resource/Olympic_Sliding_Centre_Innsbruck and the value is : 0
+http://dbpedia.org/resource/Winter_Olympic_Games and http://dbpedia.org/resource/Speed_skiing and the value is : 0
+http://dbpedia.org/resource/Winter_Olympic_Games and http://dbpedia.org/resource/Nicolas_Bochatay and the value is : 0
+http://dbpedia.org/resource/Winter_Olympic_Games and http://dbpedia.org/resource/1992_Winter_Olympics and the value is : 1
+http://dbpedia.org/resource/Winter_Olympic_Games and http://dbpedia.org/resource/Death and the value is : 1
+http://dbpedia.org/resource/Winter_Olympic_Games and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Skiing_in_Australia and http://dbpedia.org/resource/Ross_Milne and the value is : 0
+http://dbpedia.org/resource/Skiing_in_Australia and http://dbpedia.org/resource/Olympic_Sliding_Centre_Innsbruck and the value is : 0
+http://dbpedia.org/resource/Skiing_in_Australia and http://dbpedia.org/resource/Speed_skiing and the value is : 0
+http://dbpedia.org/resource/Skiing_in_Australia and http://dbpedia.org/resource/Nicolas_Bochatay and the value is : 0
+http://dbpedia.org/resource/Skiing_in_Australia and http://dbpedia.org/resource/1992_Winter_Olympics and the value is : 1
+http://dbpedia.org/resource/Skiing_in_Australia and http://dbpedia.org/resource/Death and the value is : 0
+http://dbpedia.org/resource/Skiing_in_Australia and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Ross_Milne and http://dbpedia.org/resource/Olympic_Sliding_Centre_Innsbruck and the value is : 0
+http://dbpedia.org/resource/Ross_Milne and http://dbpedia.org/resource/Speed_skiing and the value is : 0
+http://dbpedia.org/resource/Ross_Milne and http://dbpedia.org/resource/Nicolas_Bochatay and the value is : 0
+http://dbpedia.org/resource/Ross_Milne and http://dbpedia.org/resource/1992_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Ross_Milne and http://dbpedia.org/resource/Death and the value is : 0
+http://dbpedia.org/resource/Ross_Milne and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Olympic_Sliding_Centre_Innsbruck and http://dbpedia.org/resource/Speed_skiing and the value is : 0
+http://dbpedia.org/resource/Olympic_Sliding_Centre_Innsbruck and http://dbpedia.org/resource/Nicolas_Bochatay and the value is : 0
+http://dbpedia.org/resource/Olympic_Sliding_Centre_Innsbruck and http://dbpedia.org/resource/1992_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Olympic_Sliding_Centre_Innsbruck and http://dbpedia.org/resource/Death and the value is : 0
+http://dbpedia.org/resource/Olympic_Sliding_Centre_Innsbruck and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Speed_skiing and http://dbpedia.org/resource/Nicolas_Bochatay and the value is : 1
+http://dbpedia.org/resource/Speed_skiing and http://dbpedia.org/resource/1992_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Speed_skiing and http://dbpedia.org/resource/Death and the value is : 1
+http://dbpedia.org/resource/Speed_skiing and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Nicolas_Bochatay and http://dbpedia.org/resource/1992_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Nicolas_Bochatay and http://dbpedia.org/resource/Death and the value is : 1
+http://dbpedia.org/resource/Nicolas_Bochatay and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/1992_Winter_Olympics and http://dbpedia.org/resource/Death and the value is : 0
+http://dbpedia.org/resource/1992_Winter_Olympics and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Death and http://dbpedia.org/resource/Summer_Olympic_Games and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Sledding and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Georgia_national_football_team and the value is : 0
+http://dbpedia.org/resource/Sledding and http://dbpedia.org/resource/Georgia_national_football_team and the value is : 0
+http://dbpedia.org/resource/Georgian_language and http://dbpedia.org/resource/Federation and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+nodar kumaritashvili georgian ნოდარ ქუმარითაშვილი 12 december 1988 12 february 2010 was a georgian luger who died during a training run prior to the 2010 winter olympics in vancouver. he was the first athlete to die in competition at the olympic games since the death of danish cyclist knud enemark jensen at the 1960 summer olympics. kumaritashvili was born in bakuriani georgia and began competing in luge in 2003. he was the georgian national champion in 2008 and 2009 and was the 2009 junior world champion. he was considered a medal contender for the 2010 winter olympics. on 12 february 2010 kumaritashvili was killed during a training run at the whistler sliding centre the venue for the luge events at the 2010 winter olympics. he lost control of his sled at 
+
+Coref Resolved : 
+nodar kumaritashvili georgian ნოდარ ქუმარითაშვილი 12 december 1988 12 february 2010 was a georgian luger who died during a training run prior to the 2010 winter olympics in vancouver. a georgian luger who died during a training run prior to the 2010 winter olympics in vancouverwas the first athlete to die in competition at the olympic games since the death of danish cyclist knud enemark jensen at the 1960 summer olympics. a georgian luger who died during a training run prior to the 2010 winter olympics in vancouverwas born in bakuriani georgia and began competing in luge in 2003. a georgian luger who died during a training run prior to the 2010 winter olympics in vancouverwas the georgian national champion in 2008 and 2009 and was the 2009 junior world champion. a georgian luger who died during a training run prior to the 2010 winter olympics in vancouverwas considered a medal contender for the 2010 winter olympics in vancouver. on 12 february 2010 a georgian luger who died during a training run prior to the 2010 winter olympics in vancouverwas killed during a training run at the whistler sliding centre the venue for the luge events at the 2010 winter olympics in vancouver. a georgian luger who died during a training run prior to the 2010 winter olympics in vancouverlost control of a georgian luger who died during a training run prior to the 2010 winter olympics in vancouversled at
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+nodar kumaritashvili 25 november 1988 12 february 2010 was a georgian luger who suffered a fatal crash during a training run for the 2010 winter olympics competition in whistler canada on the day of the opening ceremony. he became the fourth athlete to have died during winter olympics preparations after british luger kazimierz kayskrzypeski australian skier ross milne both innsbruck 1964 and swiss speed skier nicolas bochatay albertville 1992 and the seventh athlete to die in either a summer or winter olympic games. kumaritashvili who first began to luge when he was 13 came from a family of seasoned lugers a relative of his was the founder of organised sledding in georgia and his father competed when he was younger. a cousin of kumaritashvili on his fathers side was the head of the georgian luge federation kumaritashvili himself began competing in the 200809 luge world cup where he finished 55th out of 62 racers. outside of luge kumaritashvili had been a student at the georgian technical university where he earned an economics degree in 2009. 
+
+Coref Resolved : 
+nodar kumaritashvili 25 november 1988 12 february 2010 was a georgian luger who suffered a fatal crash during a training run for the 2010 winter olympics competition in whistler canada on the day of the opening ceremony. kumaritashvili who first began to luge when he was 13 became the fourth athlete to have died during winter olympics preparations after british luger kazimierz kayskrzypeski australian skier ross milne both innsbruck 1964 and swiss speed skier nicolas bochatay albertville 1992 and the seventh athlete to die in either a summer or winter olympic games. kumaritashvili who first began to luge when kumaritashvili who first began to luge when he was 13 was 13 came from a family of seasoned lugers a relative of kumaritashvili who first began to luge when he was 13 was the founder of organised sledding in georgia and kumaritashvili who first began to luge when he was 13 father competed when kumaritashvili who first began to luge when he was 13 was younger. a cousin of kumaritashvili who first began to luge when he was 13 on kumaritashvili who first began to luge when he was 13 fathers side was the head of the georgian luge federation kumaritashvili kumaritashvili who first began to luge when he was 13 began competing in the 200809 luge world cup where kumaritashvili who first began to luge when he was 13 finished 55th out of 62 racers. outside of luge kumaritashvili who first began to luge when he was 13 had been a student at the georgian technical university where kumaritashvili who first began to luge when he was 13 earned an economics degree in 2009.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2608695652173913 and for ground truth is : 0.15625
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate 
+

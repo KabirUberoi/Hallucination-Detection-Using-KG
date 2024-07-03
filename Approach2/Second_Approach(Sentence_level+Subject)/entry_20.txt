@@ -1,0 +1,117 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Progressive_rock and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Dixie_Dregs and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Steve_Morse and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Jordan_Rudess and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Massachusetts and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Alan_Dawson and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Joe_Jonas and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Atlanta and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Dixie_Dregs and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Dixie and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Progressive_rock and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Steve_Morse and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Jordan_Rudess and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/New_York_City and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Music_education and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Jazz_fusion and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Dixie_Dregs and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Platypus and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Steve_Morse and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/The_Jelly_Jam and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Jordan_Rudess and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Michael_Jordan and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Jazz_Is_Dead and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Modern_Drummer and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Progressive_rock and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Modern_Drummer and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Percussion_instrument and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Massachusetts and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Europe and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Modern_Drummer and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Rod Morgenstein (born April 18, 1959) is an American drummer, composer, and educator.
+He is best known for his work with the progressive rock band Winger, which he joined in 1987.
+He has also performed and recorded with Dixie Dregs, Steve Morse Band, Jordan Rudess, and many other artists.
+Morgenstein began playing drums at the age of nine, and by the time he was in high school, he was playing professionally.
+He attended the Berklee College of Music in Boston, Massachusetts, where he studied with drummers Alan Dawson and Joe Hunt.
+After graduating in 1981, he moved to Atlanta, Georgia, where he joined the Dixie Dregs.
+He has since toured and recorded with the band on several occasions.
+In 1987, Morgenstein joined Winger, with whom he has recorded six studio albums and toured extensively.
+He has also released two solo albums, The Rod Morgenstein Project (1995) and Rod Morgenstein's Winger (1998).
+In addition to his work with Winger, he has also performed and recorded with Steve Morse Band, Jordan Rudess, and many other artists.
+
+
+Coref Resolved: 
+
+Rod Morgenstein (born April 18, 1959) is an American drummer, composer, and educator.
+Rod Morgenstein (born April 18, 1959) is best known for Rod Morgenstein (born April 18, 1959) work with the progressive rock band Winger, which Rod Morgenstein (born April 18, 1959) joined in 1987.
+Rod Morgenstein (born April 18, 1959) has also performed and recorded with Dixie Dregs, Steve Morse Band, Jordan Rudess, and many other artists.
+Rod Morgenstein (born April 18, 1959) began playing drums at the age of nine, and by the time Rod Morgenstein (born April 18, 1959) was in high school, Rod Morgenstein (born April 18, 1959) was playing professionally.
+Rod Morgenstein (born April 18, 1959) attended the Berklee College of Music in Boston, Massachusetts, where Rod Morgenstein (born April 18, 1959) studied with drummers Alan Dawson and Joe Hunt.
+After graduating in 1981, Rod Morgenstein (born April 18, 1959) moved to Atlanta, Georgia, where Rod Morgenstein (born April 18, 1959) joined Dixie Dregs.
+Rod Morgenstein (born April 18, 1959) has since toured and recorded with Dixie Dregson several occasions.
+In 1987, Rod Morgenstein (born April 18, 1959) joined Winger, with whom Rod Morgenstein (born April 18, 1959) has recorded six studio albums and toured extensively.
+Rod Morgenstein (born April 18, 1959) has also released two solo albums, The Rod Morgenstein (born April 18, 1959) Project (1995) and Rod Morgenstein's Winger (1998).
+In addition to Rod Morgenstein (born April 18, 1959) work with the progressive rock band Winger, which he joined in 1987, Rod Morgenstein (born April 18, 1959) has also performed and recorded with Steve Morse Band, Jordan Rudess, and many other artists.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Rod Morgenstein (born April 19, 1953, in New York) is an American drummer and music educator.
+He is best known for his work with the late 1980s rock band Winger and with the jazz fusion band Dixie Dregs.
+He also played with Fiona, Platypus, the Steve Morse Band, and Jelly Jam.
+He has also done session work with Jordan Rudess, including his ventures with the Rudess Morgenstein Project.
+He also toured with Jazz Is Dead.
+He has also been awarded Modern Drummer's "Best Progressive Rock Drummer" five years (1986-'90), "Best All-Around Drummer" (1999) and was inducted into the magazine's Honor Roll.
+He is currently an Associate Professor teaching percussion at Berklee College of Music in Boston, Massachusetts.
+Morgenstein plays Premier drums left-handed, and he still tours with the band Winger in Europe and in the United States.
+He has also been a columnist for Modern Drummer magazine.
+Rod is known for his versatility of playing many styles of music.
+Winger released a live DVD CD in November 2007.
+ 
+
+Coref Resolved: 
+
+Rod Morgenstein (born April 19, 1953, in New York) is an American drummer and music educator.
+Rod Morgenstein is best known for Rod Morgenstein work with the late 1980s rock band Winger and with the jazz fusion band Dixie Dregs.
+Rod Morgenstein also played with Fiona, Platypus, the Steve Morse Band, and Jelly Jam.
+Rod Morgenstein has also done session work with Jordan Rudess, including Jordan Rudessventures with the Rudess Morgenstein Project.
+Rod Morgenstein also toured with Jazz Is Dead.
+Rod Morgenstein has also been awarded Modern Drummer's "Best Progressive Rock Drummer" five years (1986-'90), "Best All-Around Drummer" (1999) and was inducted into Modern Drummer's Honor Roll.
+Rod Morgenstein is currently an Associate Professor teaching percussion at Berklee College of Music in Boston, Massachusetts.
+Rod Morgenstein plays Premier drums left-handed, and Rod Morgenstein still tours with the late 1980s rock band Winger in Europe and in the United States.
+Rod Morgenstein has also been a columnist for Modern Drummer's .
+Rod Morgenstein is known for Rod Morgenstein versatility of playing many styles of music.
+the late 1980s rock band Winger released a live DVD CD in November 2007.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 0.5 1.0 0.0 0.5 0.5 0.0 0.0 0.0 0.75 
+
+Value for ground truth is : 
+0.5 0.6666666666666666 0.6666666666666666 0.5 1.0 1.0 0.6666666666666666 0.0 1.0 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate minor_inaccurate accurate 
+

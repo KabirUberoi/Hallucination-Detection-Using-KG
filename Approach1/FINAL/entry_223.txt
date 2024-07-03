@@ -1,0 +1,200 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Film_director and the value is : 1
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Film_director and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Television_show and the value is : 1
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Boondocks and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Boondocks and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Boondocks and the value is : 0
+http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and http://dbpedia.org/resource/Boondocks and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Romantic_comedy and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Broom and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Comedy-drama and the value is : 1
+http://dbpedia.org/resource/Romantic_comedy and http://dbpedia.org/resource/Broom and the value is : 0
+http://dbpedia.org/resource/Romantic_comedy and http://dbpedia.org/resource/Comedy-drama and the value is : 1
+http://dbpedia.org/resource/Broom and http://dbpedia.org/resource/Comedy-drama and the value is : 1
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/University_of_Southern_California and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Film_producer and the value is : 1
+http://dbpedia.org/resource/University_of_Southern_California and http://dbpedia.org/resource/Film_producer and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Assistant_director and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Bélé and the value is : 1
+http://dbpedia.org/resource/Assistant_director and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Assistant_director and http://dbpedia.org/resource/Bélé and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Bélé and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Moesha and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and the value is : 0
+http://dbpedia.org/resource/Moesha and http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Primetime_Emmy_Award and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Comedy and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Primetime_Emmy_Award and http://dbpedia.org/resource/Comedy and the value is : 0
+http://dbpedia.org/resource/Primetime_Emmy_Award and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Comedy and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/NAACP_Image_Awards and the value is : 0
+http://dbpedia.org/resource/Millicent_Shelton and http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and the value is : 0
+http://dbpedia.org/resource/NAACP_Image_Awards and http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Connecticut and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Music_video and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Film_director and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Music_video and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Film_director and the value is : 0
+http://dbpedia.org/resource/Music_video and http://dbpedia.org/resource/Television_director and the value is : 0
+http://dbpedia.org/resource/Music_video and http://dbpedia.org/resource/Film_director and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Film_director and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Connecticut and the value is : 1
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Wardrobe_stylist and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Production_assistant and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Spike_Lee and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Wardrobe_stylist and the value is : 1
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Production_assistant and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Spike_Lee and the value is : 0
+http://dbpedia.org/resource/Wardrobe_stylist and http://dbpedia.org/resource/Production_assistant and the value is : 0
+http://dbpedia.org/resource/Wardrobe_stylist and http://dbpedia.org/resource/Spike_Lee and the value is : 0
+http://dbpedia.org/resource/Production_assistant and http://dbpedia.org/resource/Spike_Lee and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Connecticut and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Music_video and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Mary_I_of_England and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Kelly_drive and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Aaliyah and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/CeCe_Peniston and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Music_video and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Mary_I_of_England and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Kelly_drive and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Aaliyah and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/CeCe_Peniston and the value is : 0
+http://dbpedia.org/resource/Music_video and http://dbpedia.org/resource/Mary_I_of_England and the value is : 0
+http://dbpedia.org/resource/Music_video and http://dbpedia.org/resource/Kelly_drive and the value is : 0
+http://dbpedia.org/resource/Music_video and http://dbpedia.org/resource/Aaliyah and the value is : 0
+http://dbpedia.org/resource/Music_video and http://dbpedia.org/resource/CeCe_Peniston and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Kelly_drive and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/Aaliyah and the value is : 0
+http://dbpedia.org/resource/Mary_I_of_England and http://dbpedia.org/resource/CeCe_Peniston and the value is : 0
+http://dbpedia.org/resource/Kelly_drive and http://dbpedia.org/resource/Aaliyah and the value is : 0
+http://dbpedia.org/resource/Kelly_drive and http://dbpedia.org/resource/CeCe_Peniston and the value is : 0
+http://dbpedia.org/resource/Aaliyah and http://dbpedia.org/resource/CeCe_Peniston and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Connecticut and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Film and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Californication_(TV_series) and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Earl and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/90210_(TV_series) and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Leveraged_buyout and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Primetime_Emmy_Award and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Apollo_Theater and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Film and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Californication_(TV_series) and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Earl and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/90210_(TV_series) and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Leveraged_buyout and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Primetime_Emmy_Award and the value is : 1
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Apollo_Theater and the value is : 0
+http://dbpedia.org/resource/Film and http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and the value is : 0
+http://dbpedia.org/resource/Film and http://dbpedia.org/resource/Californication_(TV_series) and the value is : 0
+http://dbpedia.org/resource/Film and http://dbpedia.org/resource/Earl and the value is : 0
+http://dbpedia.org/resource/Film and http://dbpedia.org/resource/90210_(TV_series) and the value is : 0
+http://dbpedia.org/resource/Film and http://dbpedia.org/resource/Leveraged_buyout and the value is : 0
+http://dbpedia.org/resource/Film and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Film and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Film and http://dbpedia.org/resource/Primetime_Emmy_Award and the value is : 0
+http://dbpedia.org/resource/Film and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Film and http://dbpedia.org/resource/Apollo_Theater and the value is : 0
+http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and http://dbpedia.org/resource/Californication_(TV_series) and the value is : 0
+http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and http://dbpedia.org/resource/Earl and the value is : 0
+http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and http://dbpedia.org/resource/90210_(TV_series) and the value is : 0
+http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and http://dbpedia.org/resource/Leveraged_buyout and the value is : 0
+http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and http://dbpedia.org/resource/Primetime_Emmy_Award and the value is : 1
+http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Girlfriends_(2000_TV_series) and http://dbpedia.org/resource/Apollo_Theater and the value is : 0
+http://dbpedia.org/resource/Californication_(TV_series) and http://dbpedia.org/resource/Earl and the value is : 0
+http://dbpedia.org/resource/Californication_(TV_series) and http://dbpedia.org/resource/90210_(TV_series) and the value is : 1
+http://dbpedia.org/resource/Californication_(TV_series) and http://dbpedia.org/resource/Leveraged_buyout and the value is : 0
+http://dbpedia.org/resource/Californication_(TV_series) and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Californication_(TV_series) and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Californication_(TV_series) and http://dbpedia.org/resource/Primetime_Emmy_Award and the value is : 0
+http://dbpedia.org/resource/Californication_(TV_series) and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Californication_(TV_series) and http://dbpedia.org/resource/Apollo_Theater and the value is : 0
+http://dbpedia.org/resource/Earl and http://dbpedia.org/resource/90210_(TV_series) and the value is : 0
+http://dbpedia.org/resource/Earl and http://dbpedia.org/resource/Leveraged_buyout and the value is : 0
+http://dbpedia.org/resource/Earl and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Earl and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Earl and http://dbpedia.org/resource/Primetime_Emmy_Award and the value is : 0
+http://dbpedia.org/resource/Earl and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Earl and http://dbpedia.org/resource/Apollo_Theater and the value is : 0
+http://dbpedia.org/resource/90210_(TV_series) and http://dbpedia.org/resource/Leveraged_buyout and the value is : 0
+http://dbpedia.org/resource/90210_(TV_series) and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/90210_(TV_series) and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/90210_(TV_series) and http://dbpedia.org/resource/Primetime_Emmy_Award and the value is : 0
+http://dbpedia.org/resource/90210_(TV_series) and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/90210_(TV_series) and http://dbpedia.org/resource/Apollo_Theater and the value is : 0
+http://dbpedia.org/resource/Leveraged_buyout and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Leveraged_buyout and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Leveraged_buyout and http://dbpedia.org/resource/Primetime_Emmy_Award and the value is : 0
+http://dbpedia.org/resource/Leveraged_buyout and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Leveraged_buyout and http://dbpedia.org/resource/Apollo_Theater and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Primetime_Emmy_Award and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Apollo_Theater and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Primetime_Emmy_Award and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Apollo_Theater and the value is : 0
+http://dbpedia.org/resource/Primetime_Emmy_Award and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Primetime_Emmy_Award and http://dbpedia.org/resource/Apollo_Theater and the value is : 0
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/Apollo_Theater and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Connecticut and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Princeton_University and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Millicent_Fawcett and http://dbpedia.org/resource/Tish_(Hasidic_celebration) and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Princeton_University and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Connecticut and http://dbpedia.org/resource/Tish_(Hasidic_celebration) and the value is : 0
+http://dbpedia.org/resource/Princeton_University and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Princeton_University and http://dbpedia.org/resource/Tish_(Hasidic_celebration) and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Tish_(Hasidic_celebration) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+millicent shelton is an american television and film director. she has directed episodes of many popular television series including the office 30 rock girlfriends everybody hates chris the game and the boondocks. she has also directed several feature films including the romantic comedy jumping the broom 2011 and the drama the perfect guy 2015. shelton was born in los angeles california. she attended the university of southern california where she earned a degree in film production. after graduating she worked as an assistant director on several television shows including the fresh prince of belair and martin. she then moved into directing helming episodes of moesha the parkers and girlfriends. shelton has been nominated for several awards including a primetime emmy award for outstanding directing for a comedy series for her work on 30 rock. she has also been nominated for several naacp image awards for her work on girlfriends and the game. 
+
+Coref Resolved : 
+millicent shelton is an american television and film director. millicent shelton has directed episodes of many popular television series including the office 30 rock girlfriends everybody hates chris the game and the boondocks. millicent shelton has also directed several feature films including the romantic comedy jumping the broom 2011 and the drama the perfect guy 2015. millicent shelton was born in los angeles california. millicent shelton attended the university of southern california where millicent shelton earned a degree in film production. after graduating millicent shelton worked as an assistant director on several television shows including the fresh prince of belair and martin. millicent shelton then moved into directing helming episodes of moesha the parkers and girlfriends. millicent shelton has been nominated for several awards including a primetime emmy award for outstanding directing for a comedy series for millicent shelton work on 30 rock . millicent shelton has also been nominated for several naacp image awards for millicent shelton work on girlfriends and chris the game .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+millicent b. shelton is an american music video television and film director. shelton began her career as a wardrobe production assistant on the spike lee film do the right thing 1989. she went on to direct music videos for artists such as mary j. blige r. kelly aaliyah cece peniston and saltnpepa. her other directing credits include the motion picture ride 1998 and episodes of everybody hates chris the bernie mac show girlfriends castle californication my name is earl 90210 men of a certain age pan am leverage and 30 rock for which she became the first africanamerican woman to earn a primetime emmy award nomination for outstanding directing for a comedy series for the episode apollo apollo. she is an alumna of princeton university and new york universitys tisch school of the arts. 
+
+Coref Resolved : 
+millicent b. shelton is an american music video television and film director. millicent b. shelton began millicent b. shelton career as a wardrobe production assistant on the spike lee film do the right thing 1989. millicent b. shelton went on to direct music videos for artists such as mary j. blige r. kelly aaliyah cece peniston and saltnpepa. millicent b. shelton other directing credits include the motion picture ride 1998 and episodes of everybody hates chris the bernie mac show girlfriends castle californication my name is earl 90210 men of a certain age pan am leverage and 30 rock for which millicent b. shelton became the first africanamerican woman to earn a primetime emmy award nomination for outstanding directing for a comedy series for the episode apollo apollo. millicent b. shelton is an alumna of princeton university and new york universitys tisch school of the arts.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.18604651162790697 and for ground truth is : 0.03875968992248062
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate accurate major_inaccurate 
+

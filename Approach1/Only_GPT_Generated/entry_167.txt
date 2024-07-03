@@ -1,0 +1,43 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/York_Racecourse and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/York_Racecourse and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/York_Racecourse and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Teen_idol and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Teen_idol and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Love_song and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/York_Racecourse and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Love_song and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Love_song and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Frankie_Lymon and the value is : 1
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Love_song and http://dbpedia.org/resource/Frankie_Lymon and the value is : 0
+http://dbpedia.org/resource/Love_song and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Addiction and the value is : 0
+http://dbpedia.org/resource/Frankie_Lymon and http://dbpedia.org/resource/Drug_overdose and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+frankie lymon september 30 1942 february 27 1968 was an american rock and rollrhythm and blues singer and songwriter best known as the lead singer of the new york citybased early rock and roll group the teenagers. lymon was one of the first africanamerican teenagers to be widely accepted as a teen idol. he was noted for his highpitched voice and his ability to sing in a whining style. his group the teenagers was composed of five boys all of whom were in their midteens. the group had a number of hit singles including why do fools fall in love which was lymons biggest hit and one of the biggest hits of the rock and roll era. lymons success as a singer and a performer was shortlived however as he struggled with drug addiction and personal problems. he died of a drug overdose at the age of 25. 
+
+Coref Resolved : 
+frankie lymon september 30 1942 february 27 1968 was an american rock and rollrhythm and blues singer and songwriter best known as the lead singer of the new york citybased early rock and roll group the teenagers. frankie lymon was one of the first africanamerican teenagers to be widely accepted as a teen idol. frankie lymon was noted for frankie lymon highpitched voice and frankie lymon ability to sing in a whining style. frankie lymon group the teenagers was composed of five boys all of whom were in five boys all of whom were in their midteensmidteens. the new york citybased early rock and roll group the teenagershad a number of hit singles including why do fools fall in love which was frankie lymon biggest hit and one of the biggest hits of the rock and roll era. frankie lymon success as a singer and a performer was shortlived however as frankie lymon struggled with drug addiction and personal problems. frankie lymon died of a drug overdose at the age of 25.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.038461538461538464
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate accurate accurate 
+

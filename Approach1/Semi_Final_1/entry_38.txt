@@ -1,0 +1,123 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Dance and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Dance and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Petticoat_Junction and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Reba_McEntire and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/John_Peabody_Harrington and the value is : 0
+http://dbpedia.org/resource/Petticoat_Junction and http://dbpedia.org/resource/Television_show and the value is : 1
+http://dbpedia.org/resource/Petticoat_Junction and http://dbpedia.org/resource/Reba_McEntire and the value is : 0
+http://dbpedia.org/resource/Petticoat_Junction and http://dbpedia.org/resource/John_Peabody_Harrington and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Reba_McEntire and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/John_Peabody_Harrington and the value is : 0
+http://dbpedia.org/resource/Reba_McEntire and http://dbpedia.org/resource/John_Peabody_Harrington and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Naval_Air_Station_Joint_Reserve_Base_Fort_Worth and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Police_officer and the value is : 0
+http://dbpedia.org/resource/Naval_Air_Station_Joint_Reserve_Base_Fort_Worth and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Naval_Air_Station_Joint_Reserve_Base_Fort_Worth and http://dbpedia.org/resource/Police_officer and the value is : 0
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/Police_officer and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Dance and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Bye_Bye_Birdie and the value is : 1
+http://dbpedia.org/resource/Dance and http://dbpedia.org/resource/Bye_Bye_Birdie and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Hollywood and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/The_Andy_Griffith_Show and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Beverly_Depot and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Hillbilly and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/The_Dick_Van_Dyke_Show and the value is : 0
+http://dbpedia.org/resource/Hollywood and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Hollywood and http://dbpedia.org/resource/The_Andy_Griffith_Show and the value is : 0
+http://dbpedia.org/resource/Hollywood and http://dbpedia.org/resource/Beverly_Depot and the value is : 0
+http://dbpedia.org/resource/Hollywood and http://dbpedia.org/resource/Hillbilly and the value is : 0
+http://dbpedia.org/resource/Hollywood and http://dbpedia.org/resource/The_Dick_Van_Dyke_Show and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/The_Andy_Griffith_Show and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Beverly_Depot and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Hillbilly and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/The_Dick_Van_Dyke_Show and the value is : 0
+http://dbpedia.org/resource/The_Andy_Griffith_Show and http://dbpedia.org/resource/Beverly_Depot and the value is : 0
+http://dbpedia.org/resource/The_Andy_Griffith_Show and http://dbpedia.org/resource/Hillbilly and the value is : 0
+http://dbpedia.org/resource/The_Andy_Griffith_Show and http://dbpedia.org/resource/The_Dick_Van_Dyke_Show and the value is : 0
+http://dbpedia.org/resource/Beverly_Depot and http://dbpedia.org/resource/Hillbilly and the value is : 0
+http://dbpedia.org/resource/Beverly_Depot and http://dbpedia.org/resource/The_Dick_Van_Dyke_Show and the value is : 0
+http://dbpedia.org/resource/Hillbilly and http://dbpedia.org/resource/The_Dick_Van_Dyke_Show and the value is : 1
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Wheeler_Dealers and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Chicken_as_food and the value is : 0
+http://dbpedia.org/resource/Wheeler_Dealers and http://dbpedia.org/resource/Chicken_as_food and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Petticoat_Junction and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Petticoat_Junction and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Corporate_spin-off and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Green_Acres and the value is : 0
+http://dbpedia.org/resource/Corporate_spin-off and http://dbpedia.org/resource/Green_Acres and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Television_film and the value is : 0
+http://dbpedia.org/resource/SpeXial and http://dbpedia.org/resource/Green_Acres and the value is : 0
+http://dbpedia.org/resource/Television_film and http://dbpedia.org/resource/Green_Acres and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Ciudad_Madera and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Ciudad_Madera and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/U.S._Route_66 and the value is : 1
+http://dbpedia.org/resource/The_Wild_Wild_West and http://dbpedia.org/resource/Willem_Duyn and the value is : 1
+http://dbpedia.org/resource/The_Wild_Wild_West and http://dbpedia.org/resource/Fever_Heat and the value is : 0
+http://dbpedia.org/resource/The_Wild_Wild_West and http://dbpedia.org/resource/Electra_(band) and the value is : 1
+http://dbpedia.org/resource/The_Wild_Wild_West and http://dbpedia.org/resource/Gliding and the value is : 0
+http://dbpedia.org/resource/Willem_Duyn and http://dbpedia.org/resource/Fever_Heat and the value is : 0
+http://dbpedia.org/resource/Willem_Duyn and http://dbpedia.org/resource/Electra_(band) and the value is : 1
+http://dbpedia.org/resource/Willem_Duyn and http://dbpedia.org/resource/Gliding and the value is : 0
+http://dbpedia.org/resource/Fever_Heat and http://dbpedia.org/resource/Electra_(band) and the value is : 1
+http://dbpedia.org/resource/Fever_Heat and http://dbpedia.org/resource/Gliding and the value is : 0
+http://dbpedia.org/resource/Electra_(band) and http://dbpedia.org/resource/Gliding and the value is : 0
+http://dbpedia.org/resource/Petticoat_Junction and http://dbpedia.org/resource/CBS and the value is : 0
+http://dbpedia.org/resource/Petticoat_Junction and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Sitcom and the value is : 1
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Petticoat_Junction and the value is : 1
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Gunilla_Hutton and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Meredith_MacRae and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Petticoat_Junction and the value is : 1
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Gunilla_Hutton and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Meredith_MacRae and the value is : 1
+http://dbpedia.org/resource/Petticoat_Junction and http://dbpedia.org/resource/Gunilla_Hutton and the value is : 1
+http://dbpedia.org/resource/Petticoat_Junction and http://dbpedia.org/resource/Meredith_MacRae and the value is : 0
+http://dbpedia.org/resource/Gunilla_Hutton and http://dbpedia.org/resource/Meredith_MacRae and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Variety_show and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Hee_Haw and the value is : 0
+http://dbpedia.org/resource/Variety_show and http://dbpedia.org/resource/Hee_Haw and the value is : 1
+http://dbpedia.org/resource/Takeoff and http://dbpedia.org/resource/Ginger_Grant and the value is : 1
+http://dbpedia.org/resource/Takeoff and http://dbpedia.org/resource/Tina_Louise and the value is : 0
+http://dbpedia.org/resource/Takeoff and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/Takeoff and http://dbpedia.org/resource/Trail and the value is : 0
+http://dbpedia.org/resource/Ginger_Grant and http://dbpedia.org/resource/Tina_Louise and the value is : 0
+http://dbpedia.org/resource/Ginger_Grant and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/Ginger_Grant and http://dbpedia.org/resource/Trail and the value is : 0
+http://dbpedia.org/resource/Tina_Louise and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/Tina_Louise and http://dbpedia.org/resource/Trail and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Trail and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+jeanine riley born jeanine marie riley october 13 1940 is an american actress singer and dancer. she is best known for her roles as billie jo bradley on the television series petticoat junction 19641970 and as reba harrington on the television series the real mccoys 19621963. riley was born in fort worth texas the daughter of a career army officer. she began her career as a dancer appearing in the broadway production of bye bye birdie in 1960. she then moved to hollywood where she appeared in numerous television shows including the real mccoys the andy griffith show the beverly hillbillies and the dick van dyke show. she also appeared in the films the wheeler dealers 1963 and the ghost and mr. chicken 1966. riley is best known for her role as billie jo bradley on the television series petticoat junction 19641970. she also appeared in the spinoff series green acres 19651971. she also appeared in the television movie return to green acres 1990. 
+
+Coref Resolved : 
+jeanine riley born jeanine marie riley october 13 1940 is an american actress singer and dancer. jeanine riley is best known for jeanine riley roles as billie jo bradley on the television series petticoat junction 19641970 and as reba harrington on the television series the real mccoys 19621963. jeanine riley was born in fort worth texas the daughter of a career army officer. jeanine riley began jeanine riley career as a dancer appearing in the broadway production of bye bye birdie in 1960. jeanine riley then moved to hollywood where jeanine riley appeared in numerous television shows including the television series the real mccoys 19621963the andy griffith show the beverly hillbillies and the dick van dyke show. jeanine riley also appeared in the films the wheeler dealers 1963 and the ghost and mr. chicken 1966. jeanine riley is best known for jeanine riley role as billie jo bradley on the television series petticoat junction 19641970 . jeanine riley also appeared in the spinoff series green acres 19651971. jeanine riley also appeared in the television movie return to green acres 1990.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+jeanine riley born october 1 1940 in madera california usa is an american actress. riley has appeared in guest roles on numerous television series route 66 the man from u.n.c.l.e. the wild wild west and a few feature films such as the big mouth 1967 fever heat 1968 the comic 1969 and electra glide in blue 1973. she also made a guest appearance in an episode of the virginian. she is perhaps best known for her role as billie jo bradley on the first two seasons of the cbs sitcom petticoat junction 19631965. riley left the series in 1965 to pursue movies and she was replaced by gunilla hutton for season three and by meredith macrae from seasons four to seven. she also had a regular cast member role on the comedy variety series hee haw 19691971. she played lulu mcqueen a takeoff on ginger grant played by tina louise from gilligans island on the western sitcom dustys trail which aired from 1973 to 1974. 
+
+Coref Resolved : 
+jeanine riley born october 1 1940 in madera california usa is an american actress. riley has appeared in guest roles on numerous television series route 66 the man from u.n.c.l.e. the wild wild west and a few feature films such as the big mouth 1967 fever heat 1968 the comic 1969 and electra glide in blue 1973. riley also made a guest appearance in an episode of the virginian. riley is perhaps best known for riley role as billie jo bradley on the first two seasons of the cbs sitcom petticoat junction 19631965. riley left the cbs sitcom petticoat junction in 1965 to pursue movies and riley was replaced by gunilla hutton for season three and by meredith macrae from seasons four to seven. riley also had a regular cast member role on the comedy variety series hee haw 19691971. riley played lulu mcqueen a takeoff on ginger grant played by tina louise from gilligans island on the western sitcom dustys trail which aired from 1973 to 1974.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.07272727272727272 and for ground truth is : 0.3
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

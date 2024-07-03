@@ -1,0 +1,45 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Virginia_Bottomley and http://dbpedia.org/resource/Baron and the value is : 0
+http://dbpedia.org/resource/Virginia_Bottomley and http://dbpedia.org/resource/Nettlestone and the value is : 0
+http://dbpedia.org/resource/Virginia_Bottomley and http://dbpedia.org/resource/Political_correctness and the value is : 0
+http://dbpedia.org/resource/Virginia_Bottomley and http://dbpedia.org/resource/Conservative_Party_(UK) and the value is : 0
+http://dbpedia.org/resource/Virginia_Bottomley and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Baron and http://dbpedia.org/resource/Nettlestone and the value is : 1
+http://dbpedia.org/resource/Baron and http://dbpedia.org/resource/Political_correctness and the value is : 0
+http://dbpedia.org/resource/Baron and http://dbpedia.org/resource/Conservative_Party_(UK) and the value is : 0
+http://dbpedia.org/resource/Baron and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Nettlestone and http://dbpedia.org/resource/Political_correctness and the value is : 0
+http://dbpedia.org/resource/Nettlestone and http://dbpedia.org/resource/Conservative_Party_(UK) and the value is : 0
+http://dbpedia.org/resource/Nettlestone and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Political_correctness and http://dbpedia.org/resource/Conservative_Party_(UK) and the value is : 0
+http://dbpedia.org/resource/Political_correctness and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Conservative_Party_(UK) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/John_Major and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Cultural_heritage and the value is : 0
+http://dbpedia.org/resource/John_Major and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/John_Major and http://dbpedia.org/resource/Cultural_heritage and the value is : 0
+http://dbpedia.org/resource/Health_care and http://dbpedia.org/resource/Cultural_heritage and the value is : 0
+http://dbpedia.org/resource/Independent_politician and http://dbpedia.org/resource/Putney_High_School and the value is : 0
+http://dbpedia.org/resource/Independent_politician and http://dbpedia.org/resource/University_of_Leicester and the value is : 0
+http://dbpedia.org/resource/Putney_High_School and http://dbpedia.org/resource/University_of_Leicester and the value is : 0
+http://dbpedia.org/resource/South_West_Surrey_(UK_Parliament_constituency) and http://dbpedia.org/resource/Parliamentary_Under-Secretary_of_State and the value is : 0
+http://dbpedia.org/resource/South_West_Surrey_(UK_Parliament_constituency) and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Parliamentary_Under-Secretary_of_State and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/1997_United_Kingdom_general_election and http://dbpedia.org/resource/Backbencher and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+virginia bottomley baroness bottomley of nettlestone pc dl born 12 may 1948 is a british conservative party politician. she was a member of parliament mp from 1984 to 2005 and held several ministerial posts in the government of john major including secretary of state for health 199295 and secretary of state for national heritage 199597. she was made a life peer in 2005. bottomley was born in london and educated at the independent putney high school and the university of leicester where she graduated with a degree in economics. she worked as a management consultant before entering politics. she was elected as mp for south west surrey in 1984 and served as a junior minister in the department of health from 1989 to 1992. in 1992 she was promoted to secretary of state for health a post she held until 1995. she then served as secretary of state for national heritage until 1997. after the 1997 general election she returned to the backbenches. she stood down from the house of commons at the 2005 general election. 
+
+Coref Resolved : 
+virginia bottomley baroness bottomley of nettlestone pc dl born 12 may 1948 is a british conservative party politician. bottomley was a member of parliament mp from 1984 to 2005 and held several ministerial posts in the government of john major including secretary of state for health 199295 and secretary of state for national heritage 199597. bottomley was made a life peer in 2005 . bottomley was born in london and educated at the independent putney high school and the university of leicester where bottomley graduated with a degree in economics. bottomley worked as a management consultant before entering politics. bottomley was elected as mp for south west surrey in 1984 and served as a junior minister in the department of health from 1989 to 1992. in 1992bottomley was promoted to secretary of state for health a post bottomley held until 1995. bottomley then served as secretary of state for national heritage until 1997. after the 1997 general election bottomley returned to the backbenches. bottomley stood down from the house of commons at the 2005 general election.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.07142857142857142
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate major_inaccurate major_inaccurate accurate accurate accurate accurate accurate 
+

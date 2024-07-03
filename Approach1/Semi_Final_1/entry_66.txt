@@ -1,0 +1,116 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Reign_FC and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Bellevue_School_District and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Reign_FC and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Washington_Spirit and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Bellevue_School_District and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Reign_FC and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Bellevue_School_District and the value is : 1
+http://dbpedia.org/resource/Reign_FC and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 1
+http://dbpedia.org/resource/Reign_FC and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/Reign_FC and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Reign_FC and http://dbpedia.org/resource/University_of_Washington and the value is : 1
+http://dbpedia.org/resource/Reign_FC and http://dbpedia.org/resource/Bellevue_School_District and the value is : 0
+http://dbpedia.org/resource/National_Women's_Soccer_League and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 1
+http://dbpedia.org/resource/National_Women's_Soccer_League and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/National_Women's_Soccer_League and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/National_Women's_Soccer_League and http://dbpedia.org/resource/Bellevue_School_District and the value is : 0
+http://dbpedia.org/resource/Seattle_Sounders_Women and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Seattle_Sounders_Women and http://dbpedia.org/resource/University_of_Washington and the value is : 1
+http://dbpedia.org/resource/Seattle_Sounders_Women and http://dbpedia.org/resource/Bellevue_School_District and the value is : 1
+http://dbpedia.org/resource/Washington_Spirit and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Washington_Spirit and http://dbpedia.org/resource/Bellevue_School_District and the value is : 1
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Bellevue_School_District and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Freedom and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/2010_WPS_Draft and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Washington_Freedom and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/2010_WPS_Draft and the value is : 0
+http://dbpedia.org/resource/Washington_Freedom and http://dbpedia.org/resource/2010_WPS_Draft and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Atlanta_Beat_(WPS) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Atlanta_Beat_(WPS) and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Freedom and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Washington_Freedom and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Kate_Deines and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Washington_Spirit and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 1
+http://dbpedia.org/resource/Washington_Spirit and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Washington_Spirit and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/National_Women's_Soccer_League and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/1._FFC_Turbine_Potsdam and http://dbpedia.org/resource/Frauen-Bundesliga and the value is : 0
+http://dbpedia.org/resource/1._FFC_Turbine_Potsdam and http://dbpedia.org/resource/Reign_FC and the value is : 0
+http://dbpedia.org/resource/1._FFC_Turbine_Potsdam and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Frauen-Bundesliga and http://dbpedia.org/resource/Reign_FC and the value is : 0
+http://dbpedia.org/resource/Frauen-Bundesliga and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Reign_FC and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Atlanta_Beat_(WPS) and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Atlanta_Beat_(WPS) and http://dbpedia.org/resource/2012_WPS_Draft and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/2012_WPS_Draft and the value is : 0
+http://dbpedia.org/resource/Women's_Professional_Soccer and http://dbpedia.org/resource/2012_NFL_season and the value is : 0
+http://dbpedia.org/resource/Women's_Professional_Soccer and http://dbpedia.org/resource/January_30 and the value is : 0
+http://dbpedia.org/resource/2012_NFL_season and http://dbpedia.org/resource/January_30 and the value is : 0
+http://dbpedia.org/resource/Rejoined and http://dbpedia.org/resource/Seattle_Sounders_Women and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Reign_FC and the value is : 0
+http://dbpedia.org/resource/FC_Kansas_City and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/FC_Kansas_City and http://dbpedia.org/resource/2015_NFL_season and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/2015_NFL_season and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+kate deines born april 15 1988 is an american professional soccer player who currently plays for reign fc of the national womens soccer league nwsl. she previously played for the seattle sounders women of the wleague the washington spirit of the nwsl and the seattle reign fc of the nwsl. deines was born in seattle washington and attended newport high school in bellevue washington. she played college soccer at the university of washington from 2006 to 2009. during her college career she was named to the allpac10 first team in 2008 and 2009. deines was drafted by the washington freedom in the 2010 wps draft. she made her professional debut on april 11 2010 in a match against the atlanta beat. she played for the freedom until the team folded in 2011. in 2012 deines signed with the seattle sounders women of the wleague. she played for the sounders for two seasons helping the team win the wleague championship in 2013. in 2014 deines signed with the washington spirit of the nwsl. she made her debut for the 
+
+Coref Resolved : 
+kate deines born april 15 1988 is an american professional soccer player who currently plays for reign fc of the national womens soccer league nwsl. kate deines born april 15 1988 previously played for the seattle sounders women of the wleague the washington spirit of the national womens soccer league nwsland the seattle reign fc of the national womens soccer league nwsl. kate deines born april 15 1988 was born in seattle washington and attended newport high school in bellevue washington. kate deines born april 15 1988 played college soccer at the university of washington from 2006 to 2009. during kate deines born april 15 1988 college career kate deines born april 15 1988 was named to the allpac10 first team in 2008 and 2009. kate deines born april 15 1988 was drafted by the washington freedom in the 2010 wps draft. kate deines born april 15 1988 made kate deines born april 15 1988 professional debut on april 11 2010 in a match against the atlanta beat. kate deines born april 15 1988 played for the washington freedom until the washington freedom folded in 2011. in 2012 kate deines born april 15 1988 signed with the seattle sounders women of the wleague . kate deines born april 15 1988 played for the seattle sounders women of the wleaguefor two seasons helping the seattle sounders women of the wleaguewin the the wleague championship in 2013. in 2014 kate deines born april 15 1988 signed with the washington spirit of the national womens soccer league nwsl. kate deines born april 15 1988 made kate deines born april 15 1988 debut for the
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+kathleen kate ann deines born september 17 1989 is an american soccer midfielderdefender. she most recently played for turbine potsdam in the german bundesliga and seattle reign fc of the national womens soccer league. deines was a fourth round pick 23rd overall of the atlanta beat of womens professional soccer in the 2012 wps draft of college seniors on january 13 2012. the wps board of governors voted to suspend the 2012 season on january 30 citing pending legal issues. subsequently she was free to sign with other teams and rejoined the seattle sounders women the organization she had previously played for from 2007 to 2009. after the formation of the national womens soccer league in late 2012 deines played for the seattle reign during the leagues first two seasons. she was traded to fc kansas city in late 2014 but announced her retirement from professional soccer on march 31 2015 before the 2015 season began. 
+
+Coref Resolved : 
+kathleen kate ann deines born september 17 1989 is an american soccer midfielderdefender. kathleen kate ann deines born september 17 1989 most recently played for turbine potsdam in the german bundesliga and seattle reign fc of the national womens soccer league. kathleen kate ann deines born september 17 1989 was a fourth round pick 23rd overall of the atlanta beat of womens professional soccer in the 2012 wps draft of college seniors on january 13 2012. the wps board of governors voted to suspend the 2012 season on january 30 citing pending legal issues. subsequently kathleen kate ann deines born september 17 1989 was free to sign with other teams and rejoined the seattle sounders women the organization kathleen kate ann deines born september 17 1989 had previously played for from 2007 to 2009. after the formation of the national womens soccer leaguein late 2012 kathleen kate ann deines born september 17 1989 played for seattle reign fc of the national womens soccer leagueduring the national womens soccer leaguefirst two seasons. kathleen kate ann deines born september 17 1989 was traded to fc kansas city in late 2014 but announced kathleen kate ann deines born september 17 1989 retirement from professional soccer on march 31 2015 before the 2015 season began.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2535211267605634 and for ground truth is : 0.17647058823529413
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate 
+

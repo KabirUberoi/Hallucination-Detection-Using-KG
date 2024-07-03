@@ -1,0 +1,190 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/American_football_positions and the value is : 1
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Washington_Huskies_football and the value is : 1
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/American_football_positions and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Washington_Huskies_football and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/National_Football_League and the value is : 1
+http://dbpedia.org/resource/American_football_positions and http://dbpedia.org/resource/Washington_Huskies_football and the value is : 0
+http://dbpedia.org/resource/American_football_positions and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Washington_Huskies_football and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/American_football_positions and the value is : 1
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/Pittsburgh_Steelers and the value is : 0
+http://dbpedia.org/resource/American_football_positions and http://dbpedia.org/resource/Pittsburgh_Steelers and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/American_football_positions and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/Jacksonville_Jaguars and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/Jaguar and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/Tampa_Bay_Buccaneers and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/Chicago_Bulls and the value is : 0
+http://dbpedia.org/resource/American_football_positions and http://dbpedia.org/resource/Jacksonville_Jaguars and the value is : 0
+http://dbpedia.org/resource/American_football_positions and http://dbpedia.org/resource/Jaguar and the value is : 1
+http://dbpedia.org/resource/American_football_positions and http://dbpedia.org/resource/Tampa_Bay_Buccaneers and the value is : 0
+http://dbpedia.org/resource/American_football_positions and http://dbpedia.org/resource/Chicago_Bulls and the value is : 0
+http://dbpedia.org/resource/Jacksonville_Jaguars and http://dbpedia.org/resource/Jaguar and the value is : 0
+http://dbpedia.org/resource/Jacksonville_Jaguars and http://dbpedia.org/resource/Tampa_Bay_Buccaneers and the value is : 0
+http://dbpedia.org/resource/Jacksonville_Jaguars and http://dbpedia.org/resource/Chicago_Bulls and the value is : 0
+http://dbpedia.org/resource/Jaguar and http://dbpedia.org/resource/Tampa_Bay_Buccaneers and the value is : 0
+http://dbpedia.org/resource/Jaguar and http://dbpedia.org/resource/Chicago_Bulls and the value is : 0
+http://dbpedia.org/resource/Tampa_Bay_Buccaneers and http://dbpedia.org/resource/Chicago_Bulls and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/Detroit_Lions and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/Miami_Dolphins and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/Cleveland_Browns and the value is : 0
+http://dbpedia.org/resource/Detroit_Lions and http://dbpedia.org/resource/Miami_Dolphins and the value is : 0
+http://dbpedia.org/resource/Detroit_Lions and http://dbpedia.org/resource/Cleveland_Browns and the value is : 0
+http://dbpedia.org/resource/Miami_Dolphins and http://dbpedia.org/resource/Cleveland_Browns and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/American_football_positions and the value is : 1
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/American_football_positions and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/American_football_positions and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/Placekicker and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/Reed_pipe and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/Chris_Gardocki and the value is : 0
+http://dbpedia.org/resource/Metalsmith and http://dbpedia.org/resource/Antwaan_Randle_El and the value is : 0
+http://dbpedia.org/resource/Placekicker and http://dbpedia.org/resource/Reed_pipe and the value is : 1
+http://dbpedia.org/resource/Placekicker and http://dbpedia.org/resource/Quarterback and the value is : 1
+http://dbpedia.org/resource/Placekicker and http://dbpedia.org/resource/Chris_Gardocki and the value is : 0
+http://dbpedia.org/resource/Placekicker and http://dbpedia.org/resource/Antwaan_Randle_El and the value is : 0
+http://dbpedia.org/resource/Reed_pipe and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/Reed_pipe and http://dbpedia.org/resource/Chris_Gardocki and the value is : 0
+http://dbpedia.org/resource/Reed_pipe and http://dbpedia.org/resource/Antwaan_Randle_El and the value is : 1
+http://dbpedia.org/resource/Quarterback and http://dbpedia.org/resource/Chris_Gardocki and the value is : 1
+http://dbpedia.org/resource/Quarterback and http://dbpedia.org/resource/Antwaan_Randle_El and the value is : 0
+http://dbpedia.org/resource/Chris_Gardocki and http://dbpedia.org/resource/Antwaan_Randle_El and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/American_football_positions and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Pittsburgh_Steelers and the value is : 1
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/American_football_positions and http://dbpedia.org/resource/Pittsburgh_Steelers and the value is : 1
+http://dbpedia.org/resource/American_football_positions and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Pittsburgh_Steelers and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Pittsburgh_Steelers and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Pittsburgh_Steelers and http://dbpedia.org/resource/Blacksmith and the value is : 0
+http://dbpedia.org/resource/Pittsburgh_Steelers and http://dbpedia.org/resource/Washington_Redskins and the value is : 1
+http://dbpedia.org/resource/Pittsburgh_Steelers and http://dbpedia.org/resource/American_football_positions and the value is : 0
+http://dbpedia.org/resource/Pittsburgh_Steelers and http://dbpedia.org/resource/Buffalo_Bills and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Blacksmith and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Washington_Redskins and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/American_football_positions and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/Blacksmith and http://dbpedia.org/resource/Washington_Redskins and the value is : 1
+http://dbpedia.org/resource/Blacksmith and http://dbpedia.org/resource/American_football_positions and the value is : 1
+http://dbpedia.org/resource/Blacksmith and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/Washington_Redskins and http://dbpedia.org/resource/American_football_positions and the value is : 1
+http://dbpedia.org/resource/Washington_Redskins and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/American_football_positions and http://dbpedia.org/resource/Buffalo_Bills and the value is : 1
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/African_buffalo and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/American_football_positions and the value is : 0
+http://dbpedia.org/resource/African_buffalo and http://dbpedia.org/resource/Buffalo_Bills and the value is : 0
+http://dbpedia.org/resource/African_buffalo and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/African_buffalo and http://dbpedia.org/resource/American_football_positions and the value is : 0
+http://dbpedia.org/resource/Buffalo_Bills and http://dbpedia.org/resource/American_football and the value is : 0
+http://dbpedia.org/resource/Buffalo_Bills and http://dbpedia.org/resource/American_football_positions and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/American_football_positions and the value is : 1
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Field_goal_percentage and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Professional_wrestling_strikes and the value is : 0
+http://dbpedia.org/resource/Field_goal_percentage and http://dbpedia.org/resource/Professional_wrestling_strikes and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Position_coach and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Detroit_Lions and the value is : 0
+http://dbpedia.org/resource/Position_coach and http://dbpedia.org/resource/Detroit_Lions and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Philadelphia_Eagles and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/American_football_positions and the value is : 1
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Defensive_back and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Eagles and http://dbpedia.org/resource/American_football_positions and the value is : 1
+http://dbpedia.org/resource/Philadelphia_Eagles and http://dbpedia.org/resource/Defensive_back and the value is : 0
+http://dbpedia.org/resource/American_football_positions and http://dbpedia.org/resource/Defensive_back and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Danny_Smith_(writer) and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Georgia_Tech_Yellow_Jackets_football and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Running_back and the value is : 0
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Position_coach and the value is : 1
+http://dbpedia.org/resource/American_football and http://dbpedia.org/resource/Defensive_back and the value is : 1
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Georgia_Tech_Yellow_Jackets_football and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Running_back and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Position_coach and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Defensive_back and the value is : 0
+http://dbpedia.org/resource/Georgia_Tech_Yellow_Jackets_football and http://dbpedia.org/resource/Running_back and the value is : 0
+http://dbpedia.org/resource/Georgia_Tech_Yellow_Jackets_football and http://dbpedia.org/resource/Position_coach and the value is : 0
+http://dbpedia.org/resource/Georgia_Tech_Yellow_Jackets_football and http://dbpedia.org/resource/Defensive_back and the value is : 0
+http://dbpedia.org/resource/Running_back and http://dbpedia.org/resource/Position_coach and the value is : 1
+http://dbpedia.org/resource/Running_back and http://dbpedia.org/resource/Defensive_back and the value is : 1
+http://dbpedia.org/resource/Position_coach and http://dbpedia.org/resource/Defensive_back and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Yellowjacket and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/NCAA_Men's_Ice_Hockey_Championship and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Colorado_Buffaloes_football and the value is : 0
+http://dbpedia.org/resource/Yellowjacket and http://dbpedia.org/resource/NCAA_Men's_Ice_Hockey_Championship and the value is : 0
+http://dbpedia.org/resource/Yellowjacket and http://dbpedia.org/resource/Colorado_Buffaloes_football and the value is : 0
+http://dbpedia.org/resource/NCAA_Men's_Ice_Hockey_Championship and http://dbpedia.org/resource/Colorado_Buffaloes_football and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Graduate_assistant and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Nebraska_Cornhuskers_football and the value is : 1
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Edinboro_University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Graduate_assistant and http://dbpedia.org/resource/Nebraska_Cornhuskers_football and the value is : 0
+http://dbpedia.org/resource/Graduate_assistant and http://dbpedia.org/resource/Edinboro_University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Nebraska_Cornhuskers_football and http://dbpedia.org/resource/Edinboro_University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Citadel and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Mary_II_of_England and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Clemson_Tigers_football and the value is : 0
+http://dbpedia.org/resource/Citadel and http://dbpedia.org/resource/Mary_II_of_England and the value is : 0
+http://dbpedia.org/resource/Citadel and http://dbpedia.org/resource/Clemson_Tigers_football and the value is : 1
+http://dbpedia.org/resource/Mary_II_of_England and http://dbpedia.org/resource/Clemson_Tigers_football and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Nebraska_Cornhuskers_football and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Central_Catholic_Marianist_High_School and the value is : 1
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Pittsburgh_Panthers_football and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Miami_Dolphins and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Quarterback and the value is : 1
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Dan_Marino and the value is : 0
+http://dbpedia.org/resource/Nebraska_Cornhuskers_football and http://dbpedia.org/resource/Central_Catholic_Marianist_High_School and the value is : 0
+http://dbpedia.org/resource/Nebraska_Cornhuskers_football and http://dbpedia.org/resource/Pittsburgh_Panthers_football and the value is : 0
+http://dbpedia.org/resource/Nebraska_Cornhuskers_football and http://dbpedia.org/resource/Miami_Dolphins and the value is : 0
+http://dbpedia.org/resource/Nebraska_Cornhuskers_football and http://dbpedia.org/resource/Quarterback and the value is : 1
+http://dbpedia.org/resource/Nebraska_Cornhuskers_football and http://dbpedia.org/resource/Dan_Marino and the value is : 0
+http://dbpedia.org/resource/Central_Catholic_Marianist_High_School and http://dbpedia.org/resource/Pittsburgh_Panthers_football and the value is : 0
+http://dbpedia.org/resource/Central_Catholic_Marianist_High_School and http://dbpedia.org/resource/Miami_Dolphins and the value is : 0
+http://dbpedia.org/resource/Central_Catholic_Marianist_High_School and http://dbpedia.org/resource/Quarterback and the value is : 0
+http://dbpedia.org/resource/Central_Catholic_Marianist_High_School and http://dbpedia.org/resource/Dan_Marino and the value is : 0
+http://dbpedia.org/resource/Pittsburgh_Panthers_football and http://dbpedia.org/resource/Miami_Dolphins and the value is : 0
+http://dbpedia.org/resource/Pittsburgh_Panthers_football and http://dbpedia.org/resource/Quarterback and the value is : 1
+http://dbpedia.org/resource/Pittsburgh_Panthers_football and http://dbpedia.org/resource/Dan_Marino and the value is : 1
+http://dbpedia.org/resource/Miami_Dolphins and http://dbpedia.org/resource/Quarterback and the value is : 1
+http://dbpedia.org/resource/Miami_Dolphins and http://dbpedia.org/resource/Dan_Marino and the value is : 0
+http://dbpedia.org/resource/Quarterback and http://dbpedia.org/resource/Dan_Marino and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Nebraska_Cornhuskers_football and the value is : 1
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Edinboro_University_of_Pennsylvania and the value is : 1
+http://dbpedia.org/resource/Nebraska_Cornhuskers_football and http://dbpedia.org/resource/Edinboro_University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Elaine_Benes and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Erin_Anttila and the value is : 0
+http://dbpedia.org/resource/Danny_Smith_(writer) and http://dbpedia.org/resource/Jason and the value is : 0
+http://dbpedia.org/resource/Elaine_Benes and http://dbpedia.org/resource/Erin_Anttila and the value is : 0
+http://dbpedia.org/resource/Elaine_Benes and http://dbpedia.org/resource/Jason and the value is : 0
+http://dbpedia.org/resource/Erin_Anttila and http://dbpedia.org/resource/Jason and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+danny smith born october 28 1956 is an american football coach who is currently the special teams coordinator for the washington football team of the national football league nfl. he was previously the special teams coordinator for the pittsburgh steelers from 2007 to 2018. smith has also served as the special teams coordinator for the jacksonville jaguars tampa bay buccaneers and chicago bears. he has also been an assistant coach for the detroit lions miami dolphins and cleveland browns. smith has been coaching in the nfl since 1993. smith is known for his ability to develop special teams units that consistently rank among the best in the nfl. he has been credited with helping to develop pro bowlers such as kicker jeff reed punter chris gardocki and returner antwaan randle el. smith has also been praised for his ability to develop young players and get the most out of them. 
+
+Coref Resolved : 
+danny smith born october 28 1956 is an american football coach who is currently the special teams coordinator for the washington football team of the national football league nfl. smith was previously the special teams coordinator for the pittsburgh steelers from 2007 to 2018. smith has also served as the special teams coordinator for the jacksonville jaguars tampa bay buccaneers and chicago bears. smith has also been an assistant coach for the detroit lions miami dolphins and cleveland browns. smith has been coaching in the national football league nflsince 1993. smith is known for smith ability to develop special teams units that consistently rank among the best in the national football league nfl. smith has been credited with helping to develop pro bowlers such as kicker jeff reed punter chris gardocki and returner antwaan randle el. smith has also been praised for smith ability to develop young players and get the most out of young players .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+danny smith born november 7 1953 is the special teams coordinator for the pittsburgh steelers of the national football league. prior to the steelers smith coached the washington redskins special teams from 20042012 and the buffalo bills special teams from 200103. in smiths last year in buffalo the bills finished third in the nfl in kickoff coverage. his kicking specialists ranked in the top 10 in field goal percentage and gross and net punting average. smith was tight ends coach with the detroit lions from 19992000. he had a fouryear stint with the philadelphia eagles from 199598 serving two seasons as special teams coach and two coaching the defensive backs. before joining the nfl coaching ranks smith spent eight years at georgia tech 198794 where he coached several positions including running backs wide receivers and defensive backs. he helped coach the yellow jackets team that split the ncaa national championship with colorado in 1990. smith began his college coaching career as a graduate assistant at his alma mater edinboro state. he also coached at the citadel william mary and clemson. smith entered the coaching ranks at his high school alma mater central catholic high school in pittsburgh where he helped tutor future miami dolphins quarterback and hall of famer dan marino. smith graduated from edinboro state. he and his wife elaine have three children erin courtney and jason. 
+
+Coref Resolved : 
+danny smith born november 7 1953 is the special teams coordinator for the pittsburgh steelers of the national football league. prior to the pittsburgh steelers of the national football leaguedanny smith born november 7 1953 coached the washington redskins special teams from 20042012 and the buffalo bills special teams from 200103. in danny smith born november 7 1953 last year in buffalo the buffalo bills finished third in the national football leaguein kickoff coverage. danny smith born november 7 1953 kicking specialists ranked in the top 10 in field goal percentage and gross and net punting average. danny smith born november 7 1953 was tight ends coach with the detroit lions from 19992000. danny smith born november 7 1953 had a fouryear stint with the philadelphia eagles from 199598 serving two seasons as special teams coach and two coaching the defensive backs. before joining the the national football leaguecoaching ranks danny smith born november 7 1953 spent eight years at georgia tech 198794 where danny smith born november 7 1953 coached several positions including running backs wide receivers and defensive backs. danny smith born november 7 1953 helped coach the yellow jackets team that split the ncaa national championship with colorado in 1990. danny smith born november 7 1953 began danny smith born november 7 1953 college coaching career as a graduate assistant at danny smith born november 7 1953 alma mater edinboro state. danny smith born november 7 1953 also coached at the citadel william mary and clemson. danny smith born november 7 1953 entered the coaching ranks at danny smith born november 7 1953 high school alma mater central catholic high school in pittsburgh where danny smith born november 7 1953 helped tutor future miami dolphins quarterback and hall of famer dan marino. danny smith born november 7 1953 graduated from his alma mater edinboro state. danny smith born november 7 1953 and danny smith born november 7 1953 wife elaine have three children erin courtney and jason.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.19642857142857142 and for ground truth is : 0.24528301886792453
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate 
+

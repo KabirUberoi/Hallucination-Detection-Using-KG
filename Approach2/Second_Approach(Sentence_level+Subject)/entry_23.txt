@@ -1,0 +1,82 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Richard_Garnons_Williams and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Kansas and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Kansas and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/Carry_On_(franchise) and the value is : 0
+http://dbpedia.org/resource/Rich_Williams and http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/David_Ragsdale and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/David_Ragsdale and http://dbpedia.org/resource/Kansas and the value is : 0
+http://dbpedia.org/resource/David_Ragsdale and http://dbpedia.org/resource/Richard_Allen and the value is : 0
+http://dbpedia.org/resource/David_Ragsdale and http://dbpedia.org/resource/Rich_Robinson and the value is : 0
+http://dbpedia.org/resource/David_Ragsdale and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/David_Ragsdale and http://dbpedia.org/resource/Guitar and the value is : 1
+http://dbpedia.org/resource/David_Ragsdale and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/David_Ragsdale and http://dbpedia.org/resource/Portrait_(He_Knew) and the value is : 0
+http://dbpedia.org/resource/David_Ragsdale and http://dbpedia.org/resource/The_Young_and_the_Hopeless and the value is : 0
+http://dbpedia.org/resource/David_Ragsdale and http://dbpedia.org/resource/Carry_On_(franchise) and the value is : 0
+http://dbpedia.org/resource/David_Ragsdale and http://dbpedia.org/resource/The_Wayward_Pines_Trilogy and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Rich Williams (born Richard Williams, October 19, 1949) is an American guitarist, singer, songwriter, and record producer.
+He is best known as the lead guitarist and a founding member of the rock band Kansas.
+Williams has been with the band since its inception in 1973 and is the only original member still with the group.
+He has written or co-written several of the band's biggest hits, including "Carry On Wayward Son" and "Dust in the Wind".
+He has also released several solo albums and collaborated with other artists.
+
+
+Coref Resolved: 
+
+Rich Williams (born Richard Williams, October 19, 1949) is an American guitarist, singer, songwriter, and record producer.
+Rich Williams is best known as the lead guitarist and a founding member of the rock band Kansas.
+Rich Williams has been with the rock band Kansassince the rock band Kansasinception in 1973 and is the only original member still with the rock band Kansas.
+Rich Williams has written or co-written several of the rock band Kansasbiggest hits, including "Carry On Wayward Son" and "Dust in the Wind".
+Rich Williams has also released several solo albums and collaborated with other artists.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Richard Allen "Rich" Williams (born February 1, 1950) is the guitarist for the rock band Kansas, and has been with them since their 1974 self-titled debut album.
+Williams lost his right eye in a childhood fireworks accident.
+He wore a prosthetic eye for many years, but now wears an eye patch instead.
+In the beginning, Williams shared guitar duties with keyboardist guitarist Kerry Livgren.
+In the late 1980s, he shared guitar-playing with Steve Morse.
+After various personnel changes in Kansas, Williams is now the band's only guitarist, although David Ragsdale might play the extra guitar parts when the band plays "Portrait (He Knew)", "Hold On", "Fight Fire with Fire", and "Carry On Wayward Son".
+Williams and Phil Ehart are the only two members of Kansas who have never left the band, and have played on all Kansas' albums.
+Among the songs he co-wrote with the band are "Can I Tell You", "No Room for a Stranger", and the hit "Play the Game Tonight".
+ 
+
+Coref Resolved: 
+
+Richard Allen "Rich" Williams (born February 1, 1950) is the guitarist for the rock band Kansas, and has been with the rock band Kansassince the rock band Kansas1974 self-titled debut album.
+Richard Allen "Rich" Williams (born February 1, 1950) lost Richard Allen "Rich" Williams (born February 1, 1950) right eye in a childhood fireworks accident.
+Richard Allen "Rich" Williams (born February 1, 1950) wore a prosthetic eye for many years, but now wears an eye patch instead.
+In the beginning, Richard Allen "Rich" Williams (born February 1, 1950) shared guitar duties with keyboardist guitarist Kerry Livgren.
+In the late 1980s, Richard Allen "Rich" Williams (born February 1, 1950) shared guitar-playing with Steve Morse.
+After various personnel changes in the rock band Kansas, Richard Allen "Rich" Williams (born February 1, 1950) is now the rock band Kansasonly guitarist, although David Ragsdale might play the extra guitar parts when the rock band Kansasplays "Portrait (He Knew)", "Hold On", "Fight Fire with Fire", and "Carry On Wayward Son".
+Richard Allen "Rich" Williams (born February 1, 1950) and Phil Ehart are the only two members of the rock band Kansaswho have never left the rock band Kansas, and have played on all the rock band Kansasalbums.
+Among the songs Richard Allen "Rich" Williams (born February 1, 1950) co-wrote with the rock band Kansasare "Can I Tell You", "No Room for a Stranger", and the hit "Play the Game Tonight".
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.5 0.75 0.3333333333333333 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 0.36363636363636365 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate accurate 
+

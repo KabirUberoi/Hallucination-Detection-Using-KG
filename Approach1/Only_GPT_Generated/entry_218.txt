@@ -1,0 +1,30 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_R._Holman and http://dbpedia.org/resource/Chemistry and the value is : 0
+http://dbpedia.org/resource/John_R._Holman and http://dbpedia.org/resource/Physical_organic_chemistry and the value is : 0
+http://dbpedia.org/resource/Chemistry and http://dbpedia.org/resource/Physical_organic_chemistry and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/University_of_Manchester and the value is : 0
+http://dbpedia.org/resource/Organic_reaction and http://dbpedia.org/resource/Political_radicalism and the value is : 0
+http://dbpedia.org/resource/Holman_Rule and http://dbpedia.org/resource/Chemical_reaction and the value is : 0
+http://dbpedia.org/resource/Holman_Rule and http://dbpedia.org/resource/Political_radicalism and the value is : 0
+http://dbpedia.org/resource/Chemical_reaction and http://dbpedia.org/resource/Political_radicalism and the value is : 0
+http://dbpedia.org/resource/Royal_Society and http://dbpedia.org/resource/Davy_Medal and the value is : 0
+http://dbpedia.org/resource/Royal_Medal and http://dbpedia.org/resource/Royal_Society and the value is : 1
+http://dbpedia.org/resource/Editorial_board and http://dbpedia.org/resource/Royal_Society_of_Chemistry and the value is : 0
+http://dbpedia.org/resource/Editorial_board and http://dbpedia.org/resource/Organic_chemistry and the value is : 1
+http://dbpedia.org/resource/Royal_Society_of_Chemistry and http://dbpedia.org/resource/Organic_chemistry and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john holman 19192006 was a british chemist who made significant contributions to the field of physical organic chemistry. he was a professor at the university of manchester from 1956 to 1984. holmans research focused on the mechanisms of organic reactions particularly those involving radicals. he developed the concept of the holman pathway to describe the reaction of radicals with other molecules. he also developed the holman rule to explain the relative reactivity of different radicals. holman was a fellow of the royal society and a recipient of the davy medal. he was also awarded the royal medal of the royal society in 1975. he was a member of the editorial board of the journal of the chemical society and the journal of organic chemistry. 
+
+Coref Resolved : 
+john holman 19192006 was a british chemist who made significant contributions to the field of physical organic chemistry. holman was a professor at the university of manchester from 1956 to 1984. holman research focused on the mechanisms of organic reactions particularly those involving radicals. holman developed the concept of the holman pathway to describe the reaction of radicals with other molecules. holman also developed the holman rule to explain the relative reactivity of different radicals. holman was a fellow of the royal society and a recipient of the davy medal. holman was also awarded the royal medal of the royal society in 1975. holman was a member of the editorial board of the journal of the chemical society and the journal of organic chemistry.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.23076923076923078
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

@@ -1,0 +1,103 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/The_American_Lawyer and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Columbia_University and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Columbia_University and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Columbia_University and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/1860_Republican_National_Convention and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Literature and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Literature and the value is : 1
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Literature and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Abraham_Lincoln and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Ulysses_(band) and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Abraham_Lincoln and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Ulysses_(band) and the value is : 0
+http://dbpedia.org/resource/Abraham_Lincoln and http://dbpedia.org/resource/Ulysses_(band) and the value is : 1
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Merchant and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Investor and the value is : 0
+http://dbpedia.org/resource/Cicero_Hunt_Lewis and http://dbpedia.org/resource/Oregon and the value is : 0
+http://dbpedia.org/resource/Merchant and http://dbpedia.org/resource/Investor and the value is : 0
+http://dbpedia.org/resource/Merchant and http://dbpedia.org/resource/Oregon and the value is : 0
+http://dbpedia.org/resource/Investor and http://dbpedia.org/resource/Oregon and the value is : 0
+http://dbpedia.org/resource/Lucius_Allen and http://dbpedia.org/resource/Continental_Europe and the value is : 0
+http://dbpedia.org/resource/Lucius_Allen and http://dbpedia.org/resource/Dry_goods and the value is : 0
+http://dbpedia.org/resource/Lucius_Allen and http://dbpedia.org/resource/Grocery_store and the value is : 0
+http://dbpedia.org/resource/Lucius_Allen and http://dbpedia.org/resource/American_frontier and the value is : 0
+http://dbpedia.org/resource/Lucius_Allen and http://dbpedia.org/resource/Market_town and the value is : 0
+http://dbpedia.org/resource/Lucius_Allen and http://dbpedia.org/resource/Willamette_River and the value is : 0
+http://dbpedia.org/resource/Continental_Europe and http://dbpedia.org/resource/Dry_goods and the value is : 0
+http://dbpedia.org/resource/Continental_Europe and http://dbpedia.org/resource/Grocery_store and the value is : 0
+http://dbpedia.org/resource/Continental_Europe and http://dbpedia.org/resource/American_frontier and the value is : 0
+http://dbpedia.org/resource/Continental_Europe and http://dbpedia.org/resource/Market_town and the value is : 1
+http://dbpedia.org/resource/Continental_Europe and http://dbpedia.org/resource/Willamette_River and the value is : 0
+http://dbpedia.org/resource/Dry_goods and http://dbpedia.org/resource/Grocery_store and the value is : 0
+http://dbpedia.org/resource/Dry_goods and http://dbpedia.org/resource/American_frontier and the value is : 0
+http://dbpedia.org/resource/Dry_goods and http://dbpedia.org/resource/Market_town and the value is : 0
+http://dbpedia.org/resource/Dry_goods and http://dbpedia.org/resource/Willamette_River and the value is : 0
+http://dbpedia.org/resource/Grocery_store and http://dbpedia.org/resource/American_frontier and the value is : 0
+http://dbpedia.org/resource/Grocery_store and http://dbpedia.org/resource/Market_town and the value is : 0
+http://dbpedia.org/resource/Grocery_store and http://dbpedia.org/resource/Willamette_River and the value is : 0
+http://dbpedia.org/resource/American_frontier and http://dbpedia.org/resource/Market_town and the value is : 0
+http://dbpedia.org/resource/American_frontier and http://dbpedia.org/resource/Willamette_River and the value is : 0
+http://dbpedia.org/resource/Market_town and http://dbpedia.org/resource/Willamette_River and the value is : 0
+http://dbpedia.org/resource/Lucius_Allen and http://dbpedia.org/resource/Allen_Montgomery_Lewis and the value is : 0
+http://dbpedia.org/resource/Lucius_Allen and http://dbpedia.org/resource/Wholesaling and the value is : 1
+http://dbpedia.org/resource/Lucius_Allen and http://dbpedia.org/resource/Oregon_Coast and the value is : 0
+http://dbpedia.org/resource/Allen_Montgomery_Lewis and http://dbpedia.org/resource/Wholesaling and the value is : 0
+http://dbpedia.org/resource/Allen_Montgomery_Lewis and http://dbpedia.org/resource/Oregon_Coast and the value is : 0
+http://dbpedia.org/resource/Wholesaling and http://dbpedia.org/resource/Oregon_Coast and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Oregon and the value is : 1
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Navigability and the value is : 0
+http://dbpedia.org/resource/Oregon and http://dbpedia.org/resource/Navigability and the value is : 0
+http://dbpedia.org/resource/Library and http://dbpedia.org/resource/Water_supply and the value is : 0
+http://dbpedia.org/resource/Clementine and http://dbpedia.org/resource/Couch and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+cicero hunt lewis 18251904 was an american lawyer politician and author. he was born in new york city and graduated from columbia college in 1845. he was admitted to the bar in 1848 and practiced law in new york city. he was a member of the new york state assembly in 1854 and 1855 and was a member of the new york state senate from 1856 to 1859. he was a delegate to the 1860 republican national convention. lewis was a prolific author writing on a variety of topics including law politics history and literature. he wrote several books including the law of nations 1862 the life of abraham lincoln 1865 and the life of ulysses s. grant 1868. he also wrote a number of articles for magazines and newspapers. he died in 1904 in new york city. 
+
+Coref Resolved : 
+cicero hunt lewis 18251904 was an american lawyer politician and author. cicero hunt lewis was born in new york city and graduated from columbia college in 1845. cicero hunt lewis was admitted to the bar in 1848 and practiced law in new york city . cicero hunt lewis was a member of the new york state assembly in 1854 and 1855 and was a member of the new york state senate from 1856 to 1859. cicero hunt lewis was a delegate to the 1860 republican national convention. cicero hunt lewis was a prolific author writing on a variety of topics including law politics history and literature. cicero hunt lewis wrote several books including the law of nations 1862 the life of abraham lincoln 1865 and the life of ulysses s. grant 1868. cicero hunt lewis also wrote a number of articles for magazines and newspapers. cicero hunt lewis died in 1904 in new york city .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+cicero hunt lewis 18261897 was a prominent merchant and investor in portland in the u.s. state of oregon during the second half of the 19th century. born in new jersey lewis and a friend lucius allen traveled across the continent in 1851 to open a dry goods and grocery store in what was then a frontier town of about 800 people living along the west bank of the willamette river. by 1880 their firm allen lewis had become one of the leading wholesale grocery companies on the west coast. supporting transportation projects that affected his business he was a member of the portland river channel improvement committee in the 1860s invested in the oregon railway and navigation company in the 1870s and was appointed to the original port of portland commission in the 1890s. he helped form a local subscription library in the 1860s and he was named to the citys first water board in the 1880s. married to clementine couch daughter of another prominent portland pioneer lewis fathered 11 children and after 1881 lived in a large elegantly furnished house within walking distance of his office. he spent most of his time at work or at home and had few other interests aside from church and charitable donations. he died in 1897 while walking to work on a saturday afternoon. 
+
+Coref Resolved : 
+cicero hunt lewis 18261897 was a prominent merchant and investor in portland in the u.s. state of oregon during the second half of the 19th century. born in new jersey lewis and a friend lucius allen traveled across the continent in 1851 to open a dry goods and grocery store in what was then a frontier town of about 800 people living along the west bank of the willamette river. by 1880 lewis and a friend lucius allen firm allen lewis had become one of the leading wholesale grocery companies on the west coast. supporting transportation projects that affected lewis business lewis was a member of the portland river channel improvement committee in the 1860s invested in the oregon railway and navigation company in the 1870s and was appointed to the original port of portland commission in the 1890s. lewis helped form a local subscription library in the 1860s and lewis was named to portland first water board in the 1880s. married to clementine couch daughter of another prominent portland pioneer lewis fathered 11 children and after 1881 lived in a large elegantly furnished house within walking distance of lewis office. lewis spent most of lewis time at work or at home and had few other interests aside from church and charitable donations. lewis died in 1897 while walking to work on a saturday afternoon.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.13513513513513514 and for ground truth is : 0.07894736842105263
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

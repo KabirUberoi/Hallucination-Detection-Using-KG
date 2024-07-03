@@ -1,0 +1,176 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Forgiveness and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Forgiveness and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Forgiveness and the value is : 1
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Christian_theology and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Sacrifice and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Forgiveness and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Christian_theology and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Sacrifice and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 1
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Christian_theology and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Sacrifice and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 0
+http://dbpedia.org/resource/Christian_theology and http://dbpedia.org/resource/Symbol and the value is : 1
+http://dbpedia.org/resource/Christian_theology and http://dbpedia.org/resource/Sacrifice and the value is : 0
+http://dbpedia.org/resource/Christian_theology and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 0
+http://dbpedia.org/resource/Symbol and http://dbpedia.org/resource/Sacrifice and the value is : 0
+http://dbpedia.org/resource/Symbol and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 0
+http://dbpedia.org/resource/Sacrifice and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Forgiveness and the value is : 1
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Eucharist and the value is : 1
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Rite and the value is : 1
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Body_of_Christ and the value is : 1
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Sacramental_wine and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Forgiveness and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Eucharist and the value is : 1
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Rite and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Body_of_Christ and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Sacramental_wine and the value is : 1
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Eucharist and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Rite and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Body_of_Christ and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Sacramental_wine and the value is : 0
+http://dbpedia.org/resource/Eucharist and http://dbpedia.org/resource/Rite and the value is : 0
+http://dbpedia.org/resource/Eucharist and http://dbpedia.org/resource/Body_of_Christ and the value is : 0
+http://dbpedia.org/resource/Eucharist and http://dbpedia.org/resource/Sacramental_wine and the value is : 1
+http://dbpedia.org/resource/Rite and http://dbpedia.org/resource/Body_of_Christ and the value is : 0
+http://dbpedia.org/resource/Rite and http://dbpedia.org/resource/Sacramental_wine and the value is : 0
+http://dbpedia.org/resource/Body_of_Christ and http://dbpedia.org/resource/Sacramental_wine and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Forgiveness and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Symbol and the value is : 1
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Christian_Church and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Forgiveness and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Christian_Church and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Christian_Church and the value is : 0
+http://dbpedia.org/resource/Symbol and http://dbpedia.org/resource/Christian_Church and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Gothic_metal and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Summer and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Anathema and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Summer and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Anathema and the value is : 0
+http://dbpedia.org/resource/Gothic_metal and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Anathema and the value is : 0
+http://dbpedia.org/resource/Summer and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Anathema and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Benjamin_Ryan and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Benjamin_Ryan and http://dbpedia.org/resource/Anathema and the value is : 0
+http://dbpedia.org/resource/Benjamin_Ryan and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Bassinet and http://dbpedia.org/resource/Anathema and the value is : 0
+http://dbpedia.org/resource/Bassinet and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Anathema and http://dbpedia.org/resource/Darren_White_(politician) and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Bassist and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/The_Blood_Divine and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Peaceville_Records and the value is : 0
+http://dbpedia.org/resource/Drummer and http://dbpedia.org/resource/Bassist and the value is : 0
+http://dbpedia.org/resource/Drummer and http://dbpedia.org/resource/The_Blood_Divine and the value is : 0
+http://dbpedia.org/resource/Drummer and http://dbpedia.org/resource/Peaceville_Records and the value is : 0
+http://dbpedia.org/resource/Bassist and http://dbpedia.org/resource/The_Blood_Divine and the value is : 0
+http://dbpedia.org/resource/Bassist and http://dbpedia.org/resource/Peaceville_Records and the value is : 0
+http://dbpedia.org/resource/The_Blood_Divine and http://dbpedia.org/resource/Peaceville_Records and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Going_for_the_One and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Bride and the value is : 0
+http://dbpedia.org/resource/Early_Summer and http://dbpedia.org/resource/Blood and the value is : 0
+http://dbpedia.org/resource/Early_Summer and http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and the value is : 0
+http://dbpedia.org/resource/Early_Summer and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Early_Summer and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Early_Summer and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/Early_Summer and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Paul_McCartney and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Rejoined and the value is : 1
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Rejoined and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Peaceville_Records and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Gothic_metal and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Orange_Goblin and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/County_of_Holland and the value is : 0
+http://dbpedia.org/resource/Orange_Goblin and http://dbpedia.org/resource/County_of_Holland and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Benjamin_Ryan and the value is : 1
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Benjamin_Ryan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Benjamin_Ryan and http://dbpedia.org/resource/Blood and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Compilation_album and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Rise_Pantheon_Dreams and the value is : 0
+http://dbpedia.org/resource/Compilation_album and http://dbpedia.org/resource/Rise_Pantheon_Dreams and the value is : 0
+http://dbpedia.org/resource/Going_for_the_One and http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and the value is : 0
+http://dbpedia.org/resource/Going_for_the_One and http://dbpedia.org/resource/Rebellion and the value is : 0
+http://dbpedia.org/resource/Going_for_the_One and http://dbpedia.org/resource/Aureola and the value is : 0
+http://dbpedia.org/resource/Going_for_the_One and http://dbpedia.org/resource/Crazy_Horses and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Rebellion and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Aureola and the value is : 0
+http://dbpedia.org/resource/Mystica_(Axel_Rudi_Pell_album) and http://dbpedia.org/resource/Crazy_Horses and the value is : 0
+http://dbpedia.org/resource/Rebellion and http://dbpedia.org/resource/Aureola and the value is : 0
+http://dbpedia.org/resource/Rebellion and http://dbpedia.org/resource/Crazy_Horses and the value is : 0
+http://dbpedia.org/resource/Aureola and http://dbpedia.org/resource/Crazy_Horses and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Rejoined and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Rejoined and http://dbpedia.org/resource/Bassinet and the value is : 0
+http://dbpedia.org/resource/Bassinet and http://dbpedia.org/resource/Drummer and the value is : 1
+http://dbpedia.org/resource/Bassinet and http://dbpedia.org/resource/Adrian_Erlandsson and the value is : 1
+http://dbpedia.org/resource/Bassinet and http://dbpedia.org/resource/Martin_Marthus_Škaroupka and the value is : 0
+http://dbpedia.org/resource/Drummer and http://dbpedia.org/resource/Adrian_Erlandsson and the value is : 0
+http://dbpedia.org/resource/Drummer and http://dbpedia.org/resource/Martin_Marthus_Škaroupka and the value is : 0
+http://dbpedia.org/resource/Adrian_Erlandsson and http://dbpedia.org/resource/Martin_Marthus_Škaroupka and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+the blood divine is a term used to refer to the blood of jesus christ which is believed to have been shed for the remission of sins. it is a central part of christian theology and is seen as a symbol of the sacrificial death of jesus and the atonement of sins. the term is derived from the latin sanguis divinus which literally translates to divine blood. the concept of the blood divine is closely related to the concept of the eucharist which is the ritual of consuming bread and wine in remembrance of jesus death. the blood divine is also seen as a symbol of the unity of the church as it is believed to be shared by all believers. 
+
+Coref Resolved : 
+the blood divine is a term used to refer to the blood of jesus christ which is believed to have been shed for the remission of sins. the blood of jesus christ which is believed to have been shed for the remission of sinsis a central part of christian theology and is seen as a symbol of the sacrificial death of jesus christ and the atonement of sins. the blood divine is derived from the latin sanguis divinus which literally translates to divine blood. the concept of the blood of jesus christ which is believed to have been shed for the remission of sinsis closely related to the concept of the eucharist which is the ritual of consuming bread and wine in remembrance of jesus christ death. the blood of jesus christ which is believed to have been shed for the remission of sinsis also seen as a symbol of the unity of the church as the blood of jesus christ which is believed to have been shed for the remission of sinsis believed to be shared by all believers.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+the blood divine was a british gothic metal band founded in the summer of 1995 by paul allender brothers paul and benjamin ryan after the three left cradle of filth during the recording of the v empire or dark faerytales in phallustein ep and ousted anathema singer darren white. they recruited drummer william a. w.a.s. sarginson and bassist steve maloney and were quickly signed up by peaceville records. their debut album awaken was recorded in early 1996 and released through peaceville records later that year. at the end of 1996 they toured throughout europe with cathedral and label mates my dying bride. in the early summer of 1997 they recorded their second album mystica and guitarist paul allender left the band to spend more time with his family however he eventually rejoined cradle of filth. mystica was released later that year again through peaceville records. the album had less of a goth sound and more of a classic rockinfluenced progressive sound. the band continued and toured as a fivepiece touring the uk with orange goblin supporting and then a short tour of holland at the beginning of 1998. the band were looking to develop their sound and keyboard player benjamin ryan was told to leave the band in april 1998. however this dismayed paul ryan and shortly afterwards the band split up. in 2002 peaceville released the blood divine compilation album rise pantheon dreams. the tracklist included songs from both awaken and mystica as well as two previouslyunreleased tracks revolt and forever belongs a live version of aureole and a live cover of the osmonds crazy horses. allender later rejoined cradle of filth. sarginson briefly joined cradle of filth before the band settled in with swedish drummer adrian erlandsson who was later replaced by martin škaroupka. in 2004 darren white formed a new band serotonal. 
+
+Coref Resolved : 
+the blood divine was a british gothic metal band founded in the summer of 1995 by paul allender brothers paul and benjamin ryan after paul allender brothers paul and benjamin ryan left cradle of filth during the recording of the v empire or dark faerytales in phallustein ep and ousted anathema singer darren white. the blood divine recruited drummer william a. w.a.s. sarginson and bassist steve maloney and were quickly signed up by peaceville records. the blood divine debut album awaken was recorded in early 1996 and released through peaceville recordslater that year. at the end of 1996 the blood divine toured throughout europe with cathedral and label mates my dying bride. in the early summer of 1997 the blood divine recorded the blood divine second album mystica and paul allender left the blood divine to spend more time with paul allender family however paul allender eventually rejoined cradle of filth . mystica was released later that year again through peaceville records. mystica had less of a goth sound and more of a classic rockinfluenced progressive sound. the blood divine continued and toured as a fivepiece touring the uk with orange goblin supporting and then a short tour of holland at the beginning of 1998. the blood divine were looking to develop the blood divine sound and benjamin ryan was told to leave the blood divine in april 1998. however leave dismayed benjamin ryan and shortly afterwards the blood divine split up. in 2002 peaceville recordsreleased the blood divine compilation album rise pantheon dreams. the tracklist included songs from both their debut album awaken and mystica as well as two previouslyunreleased tracks revolt and forever belongs a live version of aureole and a live cover of the osmonds crazy horses. paul allender later rejoined cradle of filth . sarginson briefly joined cradle of filth before cradle of filth settled in with swedish drummer adrian erlandsson who was later replaced by martin škaroupka. in 2004 darren white formed a new band serotonal.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21428571428571427 and for ground truth is : 0.043478260869565216
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

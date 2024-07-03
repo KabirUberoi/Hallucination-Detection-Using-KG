@@ -1,0 +1,47 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Mummy and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Mummy and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Swedish_Royal_Academies and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Swedish_Royal_Academies and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Holby_City and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Holby_City and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Holby_City and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Mummy and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Mummy and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/House_of_Tudor and the value is : 0
+http://dbpedia.org/resource/Lucy_Akhurst and http://dbpedia.org/resource/Emma_Frost and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/House_of_Tudor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Emma_Frost and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/House_of_Tudor and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Emma_Frost and the value is : 0
+http://dbpedia.org/resource/House_of_Tudor and http://dbpedia.org/resource/Emma_Frost and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+lucy akhurst born 28 april 1971 is an english actress. she is best known for her roles in the films the mummy returns 2001 the libertine 2004 and the descent 2005. akhurst was born in london england. she attended the royal academy of dramatic art graduating in 1993. she has appeared in numerous television series including the bill casualty and holby city. she has also appeared in the films the mummy returns 2001 the libertine 2004 and the descent 2005. akhurst has also appeared in the stage productions of the seagull the cherry orchard and the taming of the shrew. she has also appeared in the television series the tudors the shadow line and the white queen. 
+
+Coref Resolved : 
+lucy akhurst born 28 april 1971 is an english actress. lucy akhurst born 28 april 1971 is best known for lucy akhurst born 28 april 1971 roles in the films the mummy returns 2001 the libertine 2004 and the descent 2005. lucy akhurst born 28 april 1971 was born in london england. lucy akhurst born 28 april 1971 attended the royal academy of dramatic art graduating in 1993. lucy akhurst born 28 april 1971 has appeared in numerous television series including the bill casualty and holby city. lucy akhurst born 28 april 1971 has also appeared in the films the mummy returns 2001 the libertine 2004 and the descent 2005. lucy akhurst born 28 april 1971 has also appeared in the stage productions of the seagull the cherry orchard and the taming of the shrew. lucy akhurst born 28 april 1971 has also appeared in the television series the tudors the shadow line and the white queen.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.03333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

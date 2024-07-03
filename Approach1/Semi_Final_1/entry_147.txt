@@ -1,0 +1,101 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Antonia_Iacobescu and the value is : 1
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Ballet_dancer and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Antonia_Iacobescu and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Antonia_Iacobescu and http://dbpedia.org/resource/Ballet_dancer and the value is : 0
+http://dbpedia.org/resource/Antonia_Iacobescu and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ballet_dancer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Ballet_dancer and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Culture_of_Spain and the value is : 1
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Campo_de_Criptana and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Province_of_Ciudad_Real and the value is : 0
+http://dbpedia.org/resource/Campo_de_Criptana and http://dbpedia.org/resource/Province_of_Ciudad_Real and the value is : 1
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Latin_America and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/La_Violetera and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/The_Last_Torch_Song and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/La_Belleza,_Santander and the value is : 0
+http://dbpedia.org/resource/La_Violetera and http://dbpedia.org/resource/The_Last_Torch_Song and the value is : 0
+http://dbpedia.org/resource/La_Violetera and http://dbpedia.org/resource/La_Belleza,_Santander and the value is : 0
+http://dbpedia.org/resource/The_Last_Torch_Song and http://dbpedia.org/resource/La_Belleza,_Santander and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Musician and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Amor_de_mis_amores and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Naturalization and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Naturalization and http://dbpedia.org/resource/Mexico and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Campo_de_Criptana and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Antonia_Iacobescu and the value is : 0
+http://dbpedia.org/resource/Campo_de_Criptana and http://dbpedia.org/resource/Antonia_Iacobescu and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/The_Last_Torch_Song and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Latin_America and the value is : 0
+http://dbpedia.org/resource/The_Last_Torch_Song and http://dbpedia.org/resource/Latin_America and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Beijing and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/The_Last_Torch_Song and the value is : 1
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/La_Violetera and the value is : 0
+http://dbpedia.org/resource/The_Last_Torch_Song and http://dbpedia.org/resource/La_Violetera and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Antonia_Iacobescu and the value is : 1
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Don_Quixote and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Cinema_of_Spain and the value is : 0
+http://dbpedia.org/resource/Antonia_Iacobescu and http://dbpedia.org/resource/Don_Quixote and the value is : 0
+http://dbpedia.org/resource/Antonia_Iacobescu and http://dbpedia.org/resource/Cinema_of_Spain and the value is : 1
+http://dbpedia.org/resource/Don_Quixote and http://dbpedia.org/resource/Cinema_of_Spain and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Pedro_Almodóvar and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Bad_Education_(TV_series) and the value is : 1
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Drag_queen and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Gael_García_Bernal and the value is : 1
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Cross-dressing and the value is : 0
+http://dbpedia.org/resource/Sara_Montiel and http://dbpedia.org/resource/Zahara_de_la_Sierra and the value is : 0
+http://dbpedia.org/resource/Pedro_Almodóvar and http://dbpedia.org/resource/Bad_Education_(TV_series) and the value is : 0
+http://dbpedia.org/resource/Pedro_Almodóvar and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Pedro_Almodóvar and http://dbpedia.org/resource/Drag_queen and the value is : 0
+http://dbpedia.org/resource/Pedro_Almodóvar and http://dbpedia.org/resource/Gael_García_Bernal and the value is : 0
+http://dbpedia.org/resource/Pedro_Almodóvar and http://dbpedia.org/resource/Cross-dressing and the value is : 0
+http://dbpedia.org/resource/Pedro_Almodóvar and http://dbpedia.org/resource/Zahara_de_la_Sierra and the value is : 1
+http://dbpedia.org/resource/Bad_Education_(TV_series) and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Bad_Education_(TV_series) and http://dbpedia.org/resource/Drag_queen and the value is : 0
+http://dbpedia.org/resource/Bad_Education_(TV_series) and http://dbpedia.org/resource/Gael_García_Bernal and the value is : 1
+http://dbpedia.org/resource/Bad_Education_(TV_series) and http://dbpedia.org/resource/Cross-dressing and the value is : 0
+http://dbpedia.org/resource/Bad_Education_(TV_series) and http://dbpedia.org/resource/Zahara_de_la_Sierra and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Drag_queen and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Gael_García_Bernal and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Cross-dressing and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Zahara_de_la_Sierra and the value is : 0
+http://dbpedia.org/resource/Drag_queen and http://dbpedia.org/resource/Gael_García_Bernal and the value is : 0
+http://dbpedia.org/resource/Drag_queen and http://dbpedia.org/resource/Cross-dressing and the value is : 1
+http://dbpedia.org/resource/Drag_queen and http://dbpedia.org/resource/Zahara_de_la_Sierra and the value is : 0
+http://dbpedia.org/resource/Gael_García_Bernal and http://dbpedia.org/resource/Cross-dressing and the value is : 1
+http://dbpedia.org/resource/Gael_García_Bernal and http://dbpedia.org/resource/Zahara_de_la_Sierra and the value is : 0
+http://dbpedia.org/resource/Cross-dressing and http://dbpedia.org/resource/Zahara_de_la_Sierra and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+sara montiel born maría antonia abad fernández 10 march 1928 8 april 2013 was a spanish singer dancer and actress. she was a major figure in spanish culture from the 1950s through the 1970s. montiel was born in campo de criptana ciudad real castilela mancha spain. she began her career as a singer in the early 1940s and by the 1950s had become a major film star in spain and latin america. she starred in films such as la violetera 1958 el último cuplé 1957 and la belleza del día 1962. montiel was also a successful recording artist releasing several albums throughout her career. she was known for her flamboyant style and her signature song amor de mis amores. montiel died in madrid in 2013 at the age of 85. 
+
+Coref Resolved : 
+sara montiel born maría antonia abad fernández 10 march 1928 8 april 2013 was a spanish singer dancer and actress. sara montiel was a major figure in spanish culture from the 1950s through the 1970s. sara montiel was born in campo de criptana ciudad real castilela mancha spain. sara montiel began sara montiel career as a singer in the early 1940s and by the 1950s had become a major film star in spainand latin america. sara montiel starred in films such as la violetera 1958 el último cuplé 1957 and la belleza del día 1962. sara montiel was also a successful recording artist releasing several albums throughout sara montiel career. sara montiel was known for sara montiel flamboyant style and sara montiel signature song amor de mis amores. sara montiel died in madrid in 2013 at the age of 85.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+sara montiel also sarita montiel or saritísima 10 march 1928 8 april 2013 was a spanish singer and actress. she was a naturalized citizen of mexico. montiel was born in campo de criptana in the region of castilela mancha in 1928 as maría antonia abad complete name maría antonia alejandra vicenta elpidia isidora abad fernández. after her work in juan de orduñas el último cuplé in 1957 montiel worked in europe and latin america. montiels film varietes was banned in beijing in 1973. her films el último cuplé and la violetera netted the highest gross revenues ever recorded for films made in the spanishspeaking movie industry during the 1950s60s. she played the role of antonia the niece of don quixote in the 1947 spanish film version of cervantess great novel. she was portrayed in the pedro almodóvar film bad education by a male actor in drag gael garcía bernal as the crossdressing character zahara and a film clip from one of her movies was used as well. 
+
+Coref Resolved : 
+sara montiel also sarita montiel or saritísima 10 march 1928 8 april 2013 was a spanish singer and actress. sara montiel was a naturalized citizen of mexico. sara montiel was born in campo de criptana in the region of castilela mancha in 1928 as maría antonia abad complete name maría antonia alejandra vicenta elpidia isidora abad fernández. after sara montiel work in juan de orduñas el último cuplé in 1957 sara montiel worked in europe and latin america. sara montiel film varietes was banned in beijing in 1973. sara montiel films el último cuplé and la violetera netted the highest gross revenues ever recorded for films made in the spanishspeaking movie industry during the 1950s60s. sara montiel played the role of antonia the niece of don quixote in the 1947 spanish film version of cervantess great novel. sara montiel was portrayed in the pedro almodóvar film bad education by a male actor in drag gael garcía bernal as the crossdressing character zahara and a film clip from one of sara montiel movies was used as well.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21739130434782608 and for ground truth is : 0.24
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate minor_inaccurate accurate minor_inaccurate accurate 
+

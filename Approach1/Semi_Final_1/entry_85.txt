@@ -1,0 +1,180 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Commonwealth_Games and the value is : 1
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Gold_medal and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Commonwealth_Games and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Commonwealth_Games and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Sea_captain and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 1
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Federation_Hall and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Federation_Hall and the value is : 1
+http://dbpedia.org/resource/New_Zealand_national_netball_team and http://dbpedia.org/resource/Federation_Hall and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/South_Africa_national_rugby_union_team and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/South_Africa_national_rugby_union_team and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/South_Africa_national_rugby_union_team and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 1
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/South_Africa_national_rugby_union_team and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/South_Africa_national_rugby_union_team and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Personal_name and the value is : 1
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Oncourt and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Commonwealth_Games and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Defenceman and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Goalkeeper and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Oncourt and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Commonwealth_Games and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Defenceman and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Goalkeeper and the value is : 1
+http://dbpedia.org/resource/Oncourt and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Oncourt and http://dbpedia.org/resource/Commonwealth_Games and the value is : 0
+http://dbpedia.org/resource/Oncourt and http://dbpedia.org/resource/Defenceman and the value is : 0
+http://dbpedia.org/resource/Oncourt and http://dbpedia.org/resource/Goalkeeper and the value is : 0
+http://dbpedia.org/resource/New_Zealand_national_netball_team and http://dbpedia.org/resource/Commonwealth_Games and the value is : 0
+http://dbpedia.org/resource/New_Zealand_national_netball_team and http://dbpedia.org/resource/Defenceman and the value is : 1
+http://dbpedia.org/resource/New_Zealand_national_netball_team and http://dbpedia.org/resource/Goalkeeper and the value is : 0
+http://dbpedia.org/resource/Commonwealth_Games and http://dbpedia.org/resource/Defenceman and the value is : 1
+http://dbpedia.org/resource/Commonwealth_Games and http://dbpedia.org/resource/Goalkeeper and the value is : 0
+http://dbpedia.org/resource/Defenceman and http://dbpedia.org/resource/Goalkeeper and the value is : 1
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 1
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Pregnancy and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 1
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Pregnancy and the value is : 0
+http://dbpedia.org/resource/New_Zealand_national_netball_team and http://dbpedia.org/resource/Pregnancy and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Personal_name and the value is : 1
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Southern_Sting and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Capital_Shakers and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Waikato_Rugby_Union and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Magic_in_fiction and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Northern_Force and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/National_Bank_Cup and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Southern_Sting and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Capital_Shakers and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Waikato_Rugby_Union and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Magic_in_fiction and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Northern_Force and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/National_Bank_Cup and the value is : 0
+http://dbpedia.org/resource/Southern_Sting and http://dbpedia.org/resource/Capital_Shakers and the value is : 0
+http://dbpedia.org/resource/Southern_Sting and http://dbpedia.org/resource/Waikato_Rugby_Union and the value is : 0
+http://dbpedia.org/resource/Southern_Sting and http://dbpedia.org/resource/Magic_in_fiction and the value is : 1
+http://dbpedia.org/resource/Southern_Sting and http://dbpedia.org/resource/Northern_Force and the value is : 1
+http://dbpedia.org/resource/Southern_Sting and http://dbpedia.org/resource/National_Bank_Cup and the value is : 0
+http://dbpedia.org/resource/Capital_Shakers and http://dbpedia.org/resource/Waikato_Rugby_Union and the value is : 1
+http://dbpedia.org/resource/Capital_Shakers and http://dbpedia.org/resource/Magic_in_fiction and the value is : 0
+http://dbpedia.org/resource/Capital_Shakers and http://dbpedia.org/resource/Northern_Force and the value is : 0
+http://dbpedia.org/resource/Capital_Shakers and http://dbpedia.org/resource/National_Bank_Cup and the value is : 0
+http://dbpedia.org/resource/Waikato_Rugby_Union and http://dbpedia.org/resource/Magic_in_fiction and the value is : 0
+http://dbpedia.org/resource/Waikato_Rugby_Union and http://dbpedia.org/resource/Northern_Force and the value is : 0
+http://dbpedia.org/resource/Waikato_Rugby_Union and http://dbpedia.org/resource/National_Bank_Cup and the value is : 0
+http://dbpedia.org/resource/Magic_in_fiction and http://dbpedia.org/resource/Northern_Force and the value is : 1
+http://dbpedia.org/resource/Magic_in_fiction and http://dbpedia.org/resource/National_Bank_Cup and the value is : 0
+http://dbpedia.org/resource/Northern_Force and http://dbpedia.org/resource/National_Bank_Cup and the value is : 0
+http://dbpedia.org/resource/ANZ_Championship and http://dbpedia.org/resource/Leana_de_Bruin and the value is : 0
+http://dbpedia.org/resource/ANZ_Championship and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/ANZ_Championship and http://dbpedia.org/resource/Auckland_Rugby_Union and the value is : 0
+http://dbpedia.org/resource/ANZ_Championship and http://dbpedia.org/resource/Northern_Mystics and the value is : 0
+http://dbpedia.org/resource/ANZ_Championship and http://dbpedia.org/resource/Professional_sports_league_organization and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Auckland_Rugby_Union and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Northern_Mystics and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Professional_sports_league_organization and the value is : 1
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Auckland_Rugby_Union and the value is : 1
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Northern_Mystics and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Professional_sports_league_organization and the value is : 1
+http://dbpedia.org/resource/Auckland_Rugby_Union and http://dbpedia.org/resource/Northern_Mystics and the value is : 0
+http://dbpedia.org/resource/Auckland_Rugby_Union and http://dbpedia.org/resource/Professional_sports_league_organization and the value is : 0
+http://dbpedia.org/resource/Northern_Mystics and http://dbpedia.org/resource/Professional_sports_league_organization and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Southern_Sting and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Capital_Shakers and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Waikato_Rugby_Union and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Magic_in_fiction and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Hamilton_Academical_F.C. and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Circle and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Casey_Demons and the value is : 0
+http://dbpedia.org/resource/Southern_Sting and http://dbpedia.org/resource/Capital_Shakers and the value is : 0
+http://dbpedia.org/resource/Southern_Sting and http://dbpedia.org/resource/Waikato_Rugby_Union and the value is : 0
+http://dbpedia.org/resource/Southern_Sting and http://dbpedia.org/resource/Magic_in_fiction and the value is : 0
+http://dbpedia.org/resource/Southern_Sting and http://dbpedia.org/resource/Hamilton_Academical_F.C. and the value is : 0
+http://dbpedia.org/resource/Southern_Sting and http://dbpedia.org/resource/Circle and the value is : 0
+http://dbpedia.org/resource/Southern_Sting and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Southern_Sting and http://dbpedia.org/resource/Casey_Demons and the value is : 0
+http://dbpedia.org/resource/Capital_Shakers and http://dbpedia.org/resource/Waikato_Rugby_Union and the value is : 0
+http://dbpedia.org/resource/Capital_Shakers and http://dbpedia.org/resource/Magic_in_fiction and the value is : 0
+http://dbpedia.org/resource/Capital_Shakers and http://dbpedia.org/resource/Hamilton_Academical_F.C. and the value is : 0
+http://dbpedia.org/resource/Capital_Shakers and http://dbpedia.org/resource/Circle and the value is : 0
+http://dbpedia.org/resource/Capital_Shakers and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Capital_Shakers and http://dbpedia.org/resource/Casey_Demons and the value is : 0
+http://dbpedia.org/resource/Waikato_Rugby_Union and http://dbpedia.org/resource/Magic_in_fiction and the value is : 0
+http://dbpedia.org/resource/Waikato_Rugby_Union and http://dbpedia.org/resource/Hamilton_Academical_F.C. and the value is : 0
+http://dbpedia.org/resource/Waikato_Rugby_Union and http://dbpedia.org/resource/Circle and the value is : 0
+http://dbpedia.org/resource/Waikato_Rugby_Union and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Waikato_Rugby_Union and http://dbpedia.org/resource/Casey_Demons and the value is : 0
+http://dbpedia.org/resource/Magic_in_fiction and http://dbpedia.org/resource/Hamilton_Academical_F.C. and the value is : 0
+http://dbpedia.org/resource/Magic_in_fiction and http://dbpedia.org/resource/Circle and the value is : 0
+http://dbpedia.org/resource/Magic_in_fiction and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Magic_in_fiction and http://dbpedia.org/resource/Casey_Demons and the value is : 0
+http://dbpedia.org/resource/Hamilton_Academical_F.C. and http://dbpedia.org/resource/Circle and the value is : 0
+http://dbpedia.org/resource/Hamilton_Academical_F.C. and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Hamilton_Academical_F.C. and http://dbpedia.org/resource/Casey_Demons and the value is : 0
+http://dbpedia.org/resource/Circle and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Circle and http://dbpedia.org/resource/Casey_Demons and the value is : 0
+http://dbpedia.org/resource/New_Zealand_national_netball_team and http://dbpedia.org/resource/Casey_Demons and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Pregnancy and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Pregnancy and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/Southern_Steel and the value is : 0
+http://dbpedia.org/resource/Leana_de_Bruin and http://dbpedia.org/resource/2010_NFL_season and the value is : 1
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/New_Zealand_national_netball_team and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Southern_Steel and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/2010_NFL_season and the value is : 0
+http://dbpedia.org/resource/New_Zealand_national_netball_team and http://dbpedia.org/resource/Southern_Steel and the value is : 0
+http://dbpedia.org/resource/New_Zealand_national_netball_team and http://dbpedia.org/resource/2010_NFL_season and the value is : 1
+http://dbpedia.org/resource/Southern_Steel and http://dbpedia.org/resource/2010_NFL_season and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+leana de bruin born 28 april 1977 is a new zealand former netball player. she is one of the most successful netballers of all time having won four commonwealth games gold medals two world championships gold medals and two world cup gold medals. she was the captain of the new zealand national netball team the silver ferns from 2006 to 2011. de bruin was the first new zealander to be inducted into the international netball federation hall of fame in 2011. she retired from international netball in 2011 having played a total of 101 tests for the silver ferns. 
+
+Coref Resolved : 
+leana de bruin born 28 april 1977 is a new zealand former netball player. leana de bruin born 28 april 1977 is one of the most successful netballers of all time having won four commonwealth games gold medals two world championships gold medals and two world cup gold medals. leana de bruin born 28 april 1977 was the captain of the new zealand national netball team the silver ferns from 2006 to 2011. leana de bruin born 28 april 1977 was the first new zealander to be inducted into the international netball federation hall of fame in 2011. leana de bruin born 28 april 1977 retired from international netball in 2011having played a total of 101 tests for the new zealand national netball team the silver ferns .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+leana de bruin née du plooy born 9 july 1977 is a south african and new zealand international netball player. de bruin played 34 tests for south africa before moving to new zealand in 2000. she made her oncourt debut for the silver ferns in 2003 and has gone on to represent new zealand at the commonwealth games and netball world championships playing in the goal defence and goal keeper positions. in 2009 she pulled out of the team due to pregnancy before returning the following year. de bruin played for the southern sting capital shakers waikato bay of plenty magic and the northern force in the national bank cup. with the start of the anz championship in 2008 de bruin stayed in auckland with the new northern mystics franchise. the following year she returned to the magic in hamilton partnering in the defensive circle with silver ferns teammate casey williams. de bruin played most of the 2009 roundrobin season before pulling out due to pregnancy. she returned to competitive netball the following year signing with the southern steel for the 2010 season. 
+
+Coref Resolved : 
+leana de bruin née du plooy born 9 july 1977 is a south african and new zealand international netball player. leana de bruin née du plooy born 9 july 1977 played 34 tests for south africa before moving to new zealand in 2000. leana de bruin née du plooy born 9 july 1977 made leana de bruin née du plooy born 9 july 1977 oncourt debut for the silver ferns in 2003 and has gone on to represent new zealand at the commonwealth games and netball world championships playing in the goal defence and goal keeper positions. in 2009 leana de bruin née du plooy born 9 july 1977 pulled out of the silver ferns due to pregnancy before returning the following year. leana de bruin née du plooy born 9 july 1977 played for the southern sting capital shakers waikato bay of plenty magic and the northern force in the national bank cup. with the start of the anz championship in 2008 leana de bruin née du plooy born 9 july 1977 stayed in auckland with the new northern mystics franchise. the following yearleana de bruin née du plooy born 9 july 1977 returned to the southern sting capital shakers waikato bay of plenty magic in hamilton partnering in the defensive circle with the silver ferns teammate casey williams. leana de bruin née du plooy born 9 july 1977 played most of the 2009 roundrobin season before pulling out due to pregnancy. leana de bruin née du plooy born 9 july 1977 returned to competitive netball the following yearsigning with the southern steel for the 2010 season.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.20833333333333334 and for ground truth is : 0.140625
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

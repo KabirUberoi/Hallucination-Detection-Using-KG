@@ -1,0 +1,93 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Timpani and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Pottery and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Drum and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Classical_music and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Music and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Pottery and the value is : 1
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Drum and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Classical_music and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Drum and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Classical_music and the value is : 1
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Classical_music and the value is : 1
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Music and the value is : 1
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Classical_music and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Classical_music and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Timpani and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Pottery and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Drum and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Ceramic and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Terracotta and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Pottery and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Drum and the value is : 1
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Ceramic and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Terracotta and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Drum and the value is : 1
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Ceramic and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Terracotta and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Ceramic and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Terracotta and the value is : 0
+http://dbpedia.org/resource/Ceramic and http://dbpedia.org/resource/Terracotta and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Timpani and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Pottery and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Drum and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Skin and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Calfskin and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Heavy_metal_music and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Pottery and the value is : 1
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Drum and the value is : 1
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Skin and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Calfskin and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 1
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Drum and the value is : 1
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Skin and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Calfskin and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Skin and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Calfskin and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+http://dbpedia.org/resource/Drum and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 0
+http://dbpedia.org/resource/Skin and http://dbpedia.org/resource/Calfskin and the value is : 0
+http://dbpedia.org/resource/Skin and http://dbpedia.org/resource/Heavy_metal_music and the value is : 1
+http://dbpedia.org/resource/Skin and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 0
+http://dbpedia.org/resource/Calfskin and http://dbpedia.org/resource/Heavy_metal_music and the value is : 0
+http://dbpedia.org/resource/Calfskin and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 0
+http://dbpedia.org/resource/Heavy_metal_music and http://dbpedia.org/resource/Araucaria_cunninghamii and the value is : 1
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Timpani and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Pottery and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Drum and the value is : 1
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Pottery and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Drum and the value is : 0
+http://dbpedia.org/resource/Pottery and http://dbpedia.org/resource/Drum and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Timpani and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Timbre and the value is : 0
+http://dbpedia.org/resource/Clay and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Timbre and the value is : 0
+http://dbpedia.org/resource/Timpani and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+http://dbpedia.org/resource/Timbre and http://dbpedia.org/resource/Musical_theatre and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+clay timpani also known as pot drums are a type of drum used in classical music jazz and other genres. they are made from a ceramic material usually terracotta and have a shallow bowllike shape. the head of the drum is made from a thin sheet of animal skin usually calfskin and is held in place by a metal hoop. the sound of the drum is produced by striking the head with a mallet. clay timpani are known for their warm mellow tone and are often used to provide a subtle background to a musical passage. 
+
+Coref Resolved : 
+clay timpani also known as pot drums are a type of drum used in classical music jazz and other genres. clay timpani also known as pot drums are made from a ceramic material usually terracotta and have a shallow bowllike shape. the head of clay timpani also known as pot drums is made from a thin sheet of animal skin usually calfskin and is held in place by a metal hoop. the sound of clay timpani also known as pot drums is produced by striking the head of the drum with a mallet. clay timpani are known for clay timpani warm mellow tone and are often used to provide a subtle background to a musical passage.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2894736842105263
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

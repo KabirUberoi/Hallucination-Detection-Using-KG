@@ -1,0 +1,57 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Silent_film and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Sound_film and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Silent_film and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Sound_film and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Silent_film and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Sound_film and the value is : 0
+http://dbpedia.org/resource/Silent_film and http://dbpedia.org/resource/Sound_film and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Mitsubishi_Debonair and the value is : 1
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Leading_man and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Silent_film and the value is : 0
+http://dbpedia.org/resource/Leading_man and http://dbpedia.org/resource/Silent_film and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Romance_film and the value is : 1
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Mary_Pickford and the value is : 1
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Lillian_Gish and the value is : 1
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Clara_Bow and the value is : 0
+http://dbpedia.org/resource/Romance_film and http://dbpedia.org/resource/Mary_Pickford and the value is : 0
+http://dbpedia.org/resource/Romance_film and http://dbpedia.org/resource/Lillian_Gish and the value is : 0
+http://dbpedia.org/resource/Romance_film and http://dbpedia.org/resource/Clara_Bow and the value is : 0
+http://dbpedia.org/resource/Mary_Pickford and http://dbpedia.org/resource/Lillian_Gish and the value is : 0
+http://dbpedia.org/resource/Mary_Pickford and http://dbpedia.org/resource/Clara_Bow and the value is : 0
+http://dbpedia.org/resource/Lillian_Gish and http://dbpedia.org/resource/Clara_Bow and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Western_fiction and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Covered_wagon and the value is : 1
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Horse_racing and the value is : 0
+http://dbpedia.org/resource/Western_fiction and http://dbpedia.org/resource/Covered_wagon and the value is : 0
+http://dbpedia.org/resource/Western_fiction and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Western_fiction and http://dbpedia.org/resource/Horse_racing and the value is : 0
+http://dbpedia.org/resource/Covered_wagon and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Covered_wagon and http://dbpedia.org/resource/Horse_racing and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Horse_racing and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Sound_film and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Invisibility and the value is : 0
+http://dbpedia.org/resource/Sound_film and http://dbpedia.org/resource/Invisibility and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+alan dinehart april 17 1888 october 28 1944 was an american actor of the silent and early sound film eras. he appeared in more than 200 films between 1915 and 1944 often playing suave debonair leading men. dinehart was born in new york city and began his career on the stage. he made his film debut in 1915 and quickly became a popular leading man in silent films. he was often cast as a romantic lead opposite stars such as mary pickford lillian gish and clara bow. he also appeared in a number of westerns including the covered wagon 1923 and the iron horse 1924. in the early 1930s dinehart transitioned to sound films appearing in a number of popular films such as the big broadcast 1932 the invisible man 1933 and the little minister 1934. he continued to appear in films until his death in 1944. 
+
+Coref Resolved : 
+alan dinehart april 17 1888 october 28 1944 was an american actor of the silent and early sound film eras. alan dinehart appeared in more than 200 films between 1915 and 1944 often playing suave debonair leading men. alan dinehart was born in new york city and began alan dinehart career on the stage. alan dinehart made alan dinehart film debut in 1915 and quickly became a popular leading man in silent films. alan dinehart was often cast as a romantic lead opposite stars such as mary pickford lillian gish and clara bow. alan dinehart also appeared in a number of westerns including the covered wagon 1923 and the iron horse 1924. in the early 1930s alan dinehart transitioned to sound films appearing in a number of popular films such as the big broadcast 1932 the invisible man 1933 and the little minister 1934. alan dinehart continued to appear in films until alan dinehart death in 1944 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.15
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate accurate 
+

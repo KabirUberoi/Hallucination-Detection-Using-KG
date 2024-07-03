@@ -1,0 +1,59 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Barrister and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Barrister and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/Barrister and http://dbpedia.org/resource/Author and the value is : 1
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Barrister and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Eton_College and the value is : 1
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Trinity_College,_Cambridge and the value is : 0
+http://dbpedia.org/resource/Barrister and http://dbpedia.org/resource/Eton_College and the value is : 0
+http://dbpedia.org/resource/Barrister and http://dbpedia.org/resource/Trinity_College,_Cambridge and the value is : 0
+http://dbpedia.org/resource/Eton_College and http://dbpedia.org/resource/Trinity_College,_Cambridge and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Queen_regnant and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Judge and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Courts_of_England_and_Wales and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Ohio_Courts_of_Common_Pleas and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Knight_Bachelor and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Courts_of_England_and_Wales and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Ohio_Courts_of_Common_Pleas and the value is : 0
+http://dbpedia.org/resource/Judge and http://dbpedia.org/resource/Knight_Bachelor and the value is : 0
+http://dbpedia.org/resource/Courts_of_England_and_Wales and http://dbpedia.org/resource/Ohio_Courts_of_Common_Pleas and the value is : 0
+http://dbpedia.org/resource/Courts_of_England_and_Wales and http://dbpedia.org/resource/Knight_Bachelor and the value is : 0
+http://dbpedia.org/resource/Ohio_Courts_of_Common_Pleas and http://dbpedia.org/resource/Knight_Bachelor and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Fender_Wide_Range and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Fender_Wide_Range and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Common_law and the value is : 1
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Defamation and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Copyright and the value is : 0
+http://dbpedia.org/resource/Common_law and http://dbpedia.org/resource/Defamation and the value is : 0
+http://dbpedia.org/resource/Common_law and http://dbpedia.org/resource/Copyright and the value is : 0
+http://dbpedia.org/resource/Defamation and http://dbpedia.org/resource/Copyright and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/English_literature and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Saturday_Review_(U.S._magazine) and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/William_Shakespeare and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Mystery_fiction and the value is : 1
+http://dbpedia.org/resource/Saturday_Review_(U.S._magazine) and http://dbpedia.org/resource/William_Shakespeare and the value is : 0
+http://dbpedia.org/resource/Saturday_Review_(U.S._magazine) and http://dbpedia.org/resource/Mystery_fiction and the value is : 1
+http://dbpedia.org/resource/William_Shakespeare and http://dbpedia.org/resource/Mystery_fiction and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/Poet and the value is : 0
+http://dbpedia.org/resource/John_Russell_Reynolds and http://dbpedia.org/resource/John_Keats and the value is : 0
+http://dbpedia.org/resource/Poet and http://dbpedia.org/resource/John_Keats and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john russell reynolds 18201876 was an english lawyer judge and author. he was born in london the son of a barrister and was educated at eton college and trinity college cambridge. he was called to the bar in 1845 and became a queens counsel in 1859. he was appointed a judge of the court of common pleas in 1867 and was knighted in 1871. reynolds was a prolific author writing on a wide range of topics. he wrote several books on legal topics including the law of libel and slander 1863 the law of copyright 1865 and the law of patents for inventions 1868. he also wrote on a variety of other topics including history biography and literature. he was a frequent contributor to the saturday review and wrote several books on shakespeare including the mystery of william shakespeare 1848 and the authorship of shakespeare 1875. he also wrote a biography of the poet john keats 1848. 
+
+Coref Resolved : 
+john russell reynolds 18201876 was an english lawyer judge and author. john russell reynolds was born in london the son of a barrister and was educated at eton college and trinity college cambridge. john russell reynolds was called to the bar in 1845 and became a queens counsel in 1859. john russell reynolds was appointed a judge of the court of common pleas in 1867 and was knighted in 1871. john russell reynolds was a prolific author writing on a wide range of topics. john russell reynolds wrote several books on legal topics including the law of libel and slander 1863 the law of copyright 1865 and the law of patents for inventions 1868. john russell reynolds also wrote on a variety of other topics including history biography and literature. john russell reynolds was a frequent contributor to the saturday review and wrote several books on shakespeare including the mystery of william shakespeare 1848 and the authorship of shakespeare 1875. john russell reynolds also wrote a biography of the poet john keats 1848.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.11904761904761904
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

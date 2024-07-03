@@ -1,0 +1,154 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/American_Farmer and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Soldier and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/American_Farmer and http://dbpedia.org/resource/Soldier and the value is : 1
+http://dbpedia.org/resource/American_Farmer and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/American_Farmer and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 1
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/American_Revolutionary_War and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 1
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Cincinnati and the value is : 0
+http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and http://dbpedia.org/resource/Cincinnati and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 1
+http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Serbian_language and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Farmer and the value is : 1
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Soldier and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/American_Revolutionary_War and the value is : 1
+http://dbpedia.org/resource/Farmer and http://dbpedia.org/resource/Soldier and the value is : 0
+http://dbpedia.org/resource/Farmer and http://dbpedia.org/resource/American_Revolutionary_War and the value is : 0
+http://dbpedia.org/resource/Soldier and http://dbpedia.org/resource/American_Revolutionary_War and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Cincinnati and the value is : 0
+http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and http://dbpedia.org/resource/Cincinnati and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 1
+http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/South_Kingstown,_Rhode_Island and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Governor and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Governor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Colony_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 1
+http://dbpedia.org/resource/Governor and http://dbpedia.org/resource/Colony_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Governor and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 1
+http://dbpedia.org/resource/Colony_of_Virginia and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Mary_Harris_(musician) and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Settler and the value is : 1
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Baptists and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Chad_Brown_(horse_trainer) and the value is : 0
+http://dbpedia.org/resource/Mary_Harris_(musician) and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Mary_Harris_(musician) and http://dbpedia.org/resource/Settler and the value is : 1
+http://dbpedia.org/resource/Mary_Harris_(musician) and http://dbpedia.org/resource/Baptists and the value is : 0
+http://dbpedia.org/resource/Mary_Harris_(musician) and http://dbpedia.org/resource/Chad_Brown_(horse_trainer) and the value is : 0
+http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and http://dbpedia.org/resource/Settler and the value is : 0
+http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and http://dbpedia.org/resource/Baptists and the value is : 0
+http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and http://dbpedia.org/resource/Chad_Brown_(horse_trainer) and the value is : 0
+http://dbpedia.org/resource/Settler and http://dbpedia.org/resource/Baptists and the value is : 0
+http://dbpedia.org/resource/Settler and http://dbpedia.org/resource/Chad_Brown_(horse_trainer) and the value is : 0
+http://dbpedia.org/resource/Baptists and http://dbpedia.org/resource/Chad_Brown_(horse_trainer) and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Wards_of_the_City_of_London and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Governor and the value is : 0
+http://dbpedia.org/resource/Wards_of_the_City_of_London and http://dbpedia.org/resource/Governor and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/North_Providence,_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/North_Providence,_Rhode_Island and http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Martha_Jefferson and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Deborah and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Silversmith and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Gregory_Dexter and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Roger_Williams and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Thomas_Angell and the value is : 0
+http://dbpedia.org/resource/Martha_Jefferson and http://dbpedia.org/resource/Deborah and the value is : 0
+http://dbpedia.org/resource/Martha_Jefferson and http://dbpedia.org/resource/Silversmith and the value is : 1
+http://dbpedia.org/resource/Martha_Jefferson and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/Martha_Jefferson and http://dbpedia.org/resource/Gregory_Dexter and the value is : 0
+http://dbpedia.org/resource/Martha_Jefferson and http://dbpedia.org/resource/Roger_Williams and the value is : 0
+http://dbpedia.org/resource/Martha_Jefferson and http://dbpedia.org/resource/Thomas_Angell and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Silversmith and the value is : 1
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Gregory_Dexter and the value is : 1
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Roger_Williams and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Thomas_Angell and the value is : 0
+http://dbpedia.org/resource/Silversmith and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Silversmith and http://dbpedia.org/resource/Gregory_Dexter and the value is : 0
+http://dbpedia.org/resource/Silversmith and http://dbpedia.org/resource/Roger_Williams and the value is : 0
+http://dbpedia.org/resource/Silversmith and http://dbpedia.org/resource/Thomas_Angell and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Gregory_Dexter and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Roger_Williams and the value is : 1
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Thomas_Angell and the value is : 0
+http://dbpedia.org/resource/Gregory_Dexter and http://dbpedia.org/resource/Roger_Williams and the value is : 0
+http://dbpedia.org/resource/Gregory_Dexter and http://dbpedia.org/resource/Thomas_Angell and the value is : 0
+http://dbpedia.org/resource/Roger_Williams and http://dbpedia.org/resource/Thomas_Angell and the value is : 0
+http://dbpedia.org/resource/Martha_Jefferson and http://dbpedia.org/resource/Deborah and the value is : 0
+http://dbpedia.org/resource/Martha_Jefferson and http://dbpedia.org/resource/Silversmith and the value is : 0
+http://dbpedia.org/resource/Martha_Jefferson and http://dbpedia.org/resource/Elisha_Brown and the value is : 0
+http://dbpedia.org/resource/Martha_Jefferson and http://dbpedia.org/resource/Frank_Hamilton_Cushing and the value is : 0
+http://dbpedia.org/resource/Martha_Jefferson and http://dbpedia.org/resource/Elijah and the value is : 0
+http://dbpedia.org/resource/Martha_Jefferson and http://dbpedia.org/resource/James_Barker_(Rhode_Island) and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Silversmith and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Elisha_Brown and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Frank_Hamilton_Cushing and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Elijah and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/James_Barker_(Rhode_Island) and the value is : 0
+http://dbpedia.org/resource/Silversmith and http://dbpedia.org/resource/Elisha_Brown and the value is : 0
+http://dbpedia.org/resource/Silversmith and http://dbpedia.org/resource/Frank_Hamilton_Cushing and the value is : 1
+http://dbpedia.org/resource/Silversmith and http://dbpedia.org/resource/Elijah and the value is : 0
+http://dbpedia.org/resource/Silversmith and http://dbpedia.org/resource/James_Barker_(Rhode_Island) and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Frank_Hamilton_Cushing and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Elijah and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/James_Barker_(Rhode_Island) and the value is : 0
+http://dbpedia.org/resource/Frank_Hamilton_Cushing and http://dbpedia.org/resource/Elijah and the value is : 0
+http://dbpedia.org/resource/Frank_Hamilton_Cushing and http://dbpedia.org/resource/James_Barker_(Rhode_Island) and the value is : 0
+http://dbpedia.org/resource/Elijah and http://dbpedia.org/resource/James_Barker_(Rhode_Island) and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/John_Brown_of_Pittsfield and the value is : 1
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Abolitionism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/Elisha_Brown and http://dbpedia.org/resource/Moses_Brown and the value is : 0
+http://dbpedia.org/resource/John_Brown_of_Pittsfield and http://dbpedia.org/resource/Abolitionism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/John_Brown_of_Pittsfield and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/John_Brown_of_Pittsfield and http://dbpedia.org/resource/Moses_Brown and the value is : 0
+http://dbpedia.org/resource/Abolitionism_in_the_United_States and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/Abolitionism_in_the_United_States and http://dbpedia.org/resource/Moses_Brown and the value is : 0
+http://dbpedia.org/resource/Activism and http://dbpedia.org/resource/Moses_Brown and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+elisha brown jr. 17761852 was an american farmer soldier and politician from rhode island. he was a veteran of the american revolutionary war and served in the rhode island general assembly. he was a member of the rhode island society of the cincinnati. brown was born in 1776 in south kingstown rhode island. he was the son of elisha brown sr. and mary tillinghast brown. he was a farmer and a soldier in the american revolutionary war. he served in the rhode island general assembly from 1809 to 1810. he was a member of the rhode island society of the cincinnati. brown died in 1852 in south kingstown rhode island. he is buried in the brown family cemetery in south kingstown. 
+
+Coref Resolved : 
+elisha brown jr. 17761852 was an american farmer soldier and politician from rhode island. elisha brown jr. 17761852 was a veteran of the american revolutionary war and served in the rhode islandgeneral assembly. elisha brown jr. 17761852 was a member of the rhode island society of the cincinnati. elisha brown jr. 17761852 was born in 1776 in south kingstown rhode island. elisha brown jr. 17761852 was the son of elisha brown sr. and mary tillinghast brown. elisha brown jr. 17761852 was a farmer and a soldier in the american revolutionary war . elisha brown jr. 17761852 served in the rhode islandgeneral assembly from 1809 to 1810. elisha brown jr. 17761852 was a member of the rhode island society of the cincinnati. elisha brown jr. 17761852 died in 1852 in south kingstown rhode island. elisha brown jr. 17761852 is buried in the brown family cemetery in south kingstown rhode island.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+elisha brown 25 may 1717 20 april 1802 was a deputy governor of the colony of rhode island and providence plantations. he was the son of james and mary harris brown and the greatgrandson of early rhode island settler and baptist minister chad brown. brown was a member of the general assembly and possessed a large property which was lost during the financial difficulties of the mid18th century. during the wardhopkins controversy he sided with samuel ward and during wards term as governor from 1765 to 1767 brown was selected as his deputy governor. later in life brown moved to wenscutt located in north providence rhode island and became a member of the society of friends. he had first married martha the daughter of john and deborah angell smith and a greatgranddaughter of both colonial president gregory dexter as well as roger williams associate thomas angell. following her death he married hannah cushing the widow of elijah cushing and the daughter of james barker. he was the uncle of wealthy businessman john brown and antislavery activist moses brown. 
+
+Coref Resolved : 
+elisha brown 25 may 1717 20 april 1802 was a deputy governor of the colony of rhode island and providence plantations. elisha brown was the son of james and mary harris brown and the greatgrandson of early rhode island settler and baptist minister chad brown. elisha brown was a member of the general assembly and possessed a large property which was lost during the financial difficulties of the mid18th century. during the wardhopkins controversy elisha brown sided with samuel ward and during samuel ward term as governor from 1765 to 1767 elisha brown was selected as samuel ward deputy governor. later in life elisha brown moved to wenscutt located in north providence rhode island and became a member of the society of friends. elisha brown had first married martha the daughter of john and deborah angell smith and a greatgranddaughter of both colonial president gregory dexter as well as roger williams associate thomas angell. following martha the daughter of john and deborah angell smith death elisha brown married hannah cushing the widow of elijah cushing and the daughter of james barker. elisha brown was the uncle of wealthy businessman john brown and antislavery activist moses brown.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.25 and for ground truth is : 0.13333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

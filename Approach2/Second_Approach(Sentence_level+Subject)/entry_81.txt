@@ -1,0 +1,97 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Buckingham and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Royal_United_Services_Institute and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Military_history and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Zulu_people and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Anglo-Zulu_War and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Queen_Victoria and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/British_Empire and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/British_Indian_Army and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Homicidal and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Earl_of_Cardigan and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Real_Crime and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Jack_Harkness and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Battle_of_Waterloo and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Monmouth and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Monmouthshire and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Wales and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Anglo-Zulu_War and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Herefordshire and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Monmouthshire and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/A-Level and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Ampleforth_College and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Master_of_Arts and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/University_of_Edinburgh and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/University_of_Glasgow and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Kingston_upon_Hull and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Buckingham and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Buckingham and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Master_of_Arts and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/BBC and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Zulu_people and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Time_Commanders and the value is : 1
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/The_Greatest_(1977_film) and the value is : 0
+http://dbpedia.org/resource/Saul_David and http://dbpedia.org/resource/Bandage and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Saul David (born 1962) is a British historian, author and broadcaster.
+He is Professor of Military History at the University of Buckingham and a Senior Fellow at the Royal United Services Institute.
+He is the author of several books on military history, including Zulu The Heroism and Tragedy of the Zulu War of 1879, and Victoria's Wars The Rise of Empire.
+He has also written extensively on the British Army in the 20th century, including The Indian Army 1914 1947 and The Homicidal Earl The Life of Lord Cardigan.
+He has presented and appeared in several television documentaries, including The Real Crime of Jack the Ripper and The Battle of Waterloo.
+
+
+Coref Resolved: 
+
+Saul David (born 1962) is a British historian, author and broadcaster.
+Saul David (born 1962) is Professor of Military History at the University of Buckingham and a Senior Fellow at the Royal United Services Institute.
+Saul David (born 1962) is the author of several books on military history, including Zulu The Heroism and Tragedy of the Zulu War of 1879, and Victoria's Wars The Rise of Empire.
+Saul David (born 1962) has also written extensively on the British Army in the 20th century, including The Indian Army 1914 1947 and The Homicidal Earl The Life of Lord Cardigan.
+Saul David (born 1962) has presented and appeared in several television documentaries, including The Real Crime of Jack the Ripper and The Battle of Waterloo.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Professor Saul David (born Julian Saul David, 1966, in Monmouth, Monmouthshire, Wales) is an academic military historian and broadcaster.
+He is best known for his work on the Indian Mutiny and the Anglo-Zulu War, as well as for presenting and appearing in documentaries on British television covering imperial and military themes.
+David was educated at various local schools in Herefordshire and Monmouthshire before studying for his A-levels at Ampleforth College.
+He studied for an MA in History at Edinburgh University for which he was awarded a 2 1, and read for his PhD at the University of Glasgow.
+He was Visiting Chair in Military History at the University of Hull for 2007-2008.
+In 2009, he was appointed Professor of Military History at the University of Buckingham and has since been directing the institution's MA programme.
+David's books include The Indian Mutiny, which was shortlisted for the Duke of Westminster's Medal for Military Literature, Military Blunders, Zulu The Heroism and Tragedy of the Zulu War of 1879 (a Waterstone's Military History Book of the Year) and Zulu and Victoria's Wars.
+He has presented and appeared in a number of BBC programmes, including Zulu The True Story, Time Commanders, The Greatest Knight (2008) and Bullets, Boots and Bandages How to Really Win at War (2012).
+Professor David is a popular speaker at corporate and academic events and is represented by the speaking agency Military Speakers.
+ 
+
+Coref Resolved: 
+
+Professor Saul David (born Julian Saul David, 1966, in Monmouth, Monmouthshire, Wales) is an academic military historian and broadcaster.
+Professor Saul David is best known for Professor Saul David work on the Indian Mutiny and the Anglo-Zulu War, as well as for presenting and appearing in documentaries on British television covering imperial and military themes.
+Professor Saul David was educated at various local schools in Herefordshire and Monmouthshire before studying for Professor Saul David A-levels at Ampleforth College.
+Professor Saul David studied for an MA in History at Edinburgh University for which Professor Saul David was awarded a 2 1, and read for Professor Saul David PhD at the University of Glasgow.
+Professor Saul David was Visiting Chair in Military History at the University of Hull for 2007-2008.
+In 2009, Professor Saul David was appointed Professor of Military History at the University of Buckingham and has since been directing Buckingham MA programme.
+Professor Saul David books include The Indian Mutiny, which was shortlisted for the Duke of Westminster's Medal for Military Literature, Military Blunders, Zulu The Heroism and Tragedy of the Zulu War of 1879 (a Waterstone's Military History Book of the Year) and Zulu and Victoria's Wars.
+Professor Saul David has presented and appeared in a number of BBC programmes, including Zulu The True Story, Time Commanders, The Greatest Knight (2008) and Bullets, Boots and Bandages How to Really Win at War (2012).
+Professor Saul David is a popular speaker at corporate and academic events and is represented by the speaking agency Military Speakers.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 0.0 0.6 0.0 0.0 
+
+Value for ground truth is : 
+1.0 1.0 0.75 0.6666666666666666 0.0 0.0 -1 0.4 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate 
+

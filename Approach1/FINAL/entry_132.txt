@@ -1,0 +1,86 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/Hebrew_language and the value is : 1
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/August_4 and the value is : 0
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/Israel_Defense_Forces and the value is : 0
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/Bus and the value is : 0
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/Arab_citizens_of_Israel and the value is : 0
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/August_4 and the value is : 0
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/Israel_Defense_Forces and the value is : 0
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/Bus and the value is : 0
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/Arab_citizens_of_Israel and the value is : 0
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Israel_Defense_Forces and the value is : 0
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Bus and the value is : 0
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Arab_citizens_of_Israel and the value is : 0
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Israel_Defense_Forces and http://dbpedia.org/resource/Bus and the value is : 0
+http://dbpedia.org/resource/Israel_Defense_Forces and http://dbpedia.org/resource/Arab_citizens_of_Israel and the value is : 0
+http://dbpedia.org/resource/Israel_Defense_Forces and http://dbpedia.org/resource/Town and the value is : 1
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Arab_citizens_of_Israel and the value is : 0
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Arab_citizens_of_Israel and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Desertion and http://dbpedia.org/resource/Israel_Defense_Forces and the value is : 1
+http://dbpedia.org/resource/Desertion and http://dbpedia.org/resource/Mental_disorder and the value is : 0
+http://dbpedia.org/resource/Israel_Defense_Forces and http://dbpedia.org/resource/Mental_disorder and the value is : 0
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Arab_citizens_of_Israel and the value is : 0
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Town and the value is : 1
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/August_4 and the value is : 0
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Wave and the value is : 0
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Cabinet_of_Israel and the value is : 0
+http://dbpedia.org/resource/Bus and http://dbpedia.org/resource/Palestinian_political_violence and the value is : 0
+http://dbpedia.org/resource/Arab_citizens_of_Israel and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Arab_citizens_of_Israel and http://dbpedia.org/resource/August_4 and the value is : 0
+http://dbpedia.org/resource/Arab_citizens_of_Israel and http://dbpedia.org/resource/Wave and the value is : 0
+http://dbpedia.org/resource/Arab_citizens_of_Israel and http://dbpedia.org/resource/Cabinet_of_Israel and the value is : 0
+http://dbpedia.org/resource/Arab_citizens_of_Israel and http://dbpedia.org/resource/Palestinian_political_violence and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/August_4 and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Wave and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Cabinet_of_Israel and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Palestinian_political_violence and the value is : 0
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Wave and the value is : 0
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Cabinet_of_Israel and the value is : 0
+http://dbpedia.org/resource/August_4 and http://dbpedia.org/resource/Palestinian_political_violence and the value is : 0
+http://dbpedia.org/resource/Wave and http://dbpedia.org/resource/Cabinet_of_Israel and the value is : 0
+http://dbpedia.org/resource/Wave and http://dbpedia.org/resource/Palestinian_political_violence and the value is : 0
+http://dbpedia.org/resource/Cabinet_of_Israel and http://dbpedia.org/resource/Palestinian_political_violence and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/Israel_Defense_Forces and the value is : 0
+http://dbpedia.org/resource/Garden_of_Eden and http://dbpedia.org/resource/Bus and the value is : 0
+http://dbpedia.org/resource/Israel_Defense_Forces and http://dbpedia.org/resource/Bus and the value is : 1
+http://dbpedia.org/resource/Israeli_disengagement_from_Gaza and http://dbpedia.org/resource/Orange_ribbon and the value is : 0
+http://dbpedia.org/resource/Israeli_disengagement_from_Gaza and http://dbpedia.org/resource/Pocket and the value is : 0
+http://dbpedia.org/resource/Israeli_disengagement_from_Gaza and http://dbpedia.org/resource/Orange_Revolution and the value is : 0
+http://dbpedia.org/resource/Israeli_disengagement_from_Gaza and http://dbpedia.org/resource/Emblem and the value is : 0
+http://dbpedia.org/resource/Orange_ribbon and http://dbpedia.org/resource/Pocket and the value is : 0
+http://dbpedia.org/resource/Orange_ribbon and http://dbpedia.org/resource/Orange_Revolution and the value is : 0
+http://dbpedia.org/resource/Orange_ribbon and http://dbpedia.org/resource/Emblem and the value is : 0
+http://dbpedia.org/resource/Pocket and http://dbpedia.org/resource/Orange_Revolution and the value is : 0
+http://dbpedia.org/resource/Pocket and http://dbpedia.org/resource/Emblem and the value is : 1
+http://dbpedia.org/resource/Orange_Revolution and http://dbpedia.org/resource/Emblem and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+eden natanzada hebrew עדן נתןזדה august 5 1984 august 4 2005 was an israeli soldier who perpetrated a shooting attack on a bus in the israeli arab town of shfaram on august 4 2005. natanzada was a deserter from the israel defense forces idf who had been discharged from the army after being diagnosed with a mental disorder. he was killed by a mob of angry townspeople after he opened fire on the bus killing four people and wounding several others. the attack sparked a wave of protests by israeli arabs who accused the israeli government of failing to protect them from violence. 
+
+Coref Resolved : 
+eden natanzada hebrew עדן נתןזדה august 5 1984 august 4 2005 was an israeli soldier who perpetrated a shooting attack on a bus in the israeli arab town of shfaram on august 4 2005 . natanzada was a deserter from the israel defense forces idf who had been discharged from the army after being diagnosed with a mental disorder. natanzada was killed by a mob of angry townspeople after natanzada opened fire on a bus killing four people and wounding several others. a shooting attack on a bus in the israeli arab town of shfaram on august 4 2005sparked a wave of protests by israeli arabs who accused the israeli government of failing to protect israeli arabs who accused the israeli government of failing to protect them from violencefrom violence.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+eden natanzada born 9 july 1986 died 4 august 2005 was an israeli soldier who opened fire in a bus in shefaamr in northern israel on 4 august 2005 killing four israeliarabs and wounding twelve others. he was restrained disarmed and handcuffed when he tried to reload to prepare for another round of shooting. after he was restrained and handcuffed he was beaten to death by the crowd as recorded on video. it has been inferred that the shooting was a personal protest against the israeli governments disengagement plan since an orange ribbon was found attached to natanzadas pocket orange being an emblem color of antidisengagement activism. no group had taken credit for the terror attack and one official in the settler movement denounced it. natanzada was absent without leave and in hiding from the idf at the time of the shooting. he had recently become religious after getting involved with farright activists. 
+
+Coref Resolved : 
+eden natanzada born 9 july 1986 died 4 august 2005 was an israeli soldier who the shooting fire in a bus in shefaamr in northern israel on 4 august 2005 killing four israeliarabs and wounding twelve others. natanzadas was restrained disarmed and handcuffed when natanzadas tried to reload to prepare for another round of shooting. after natanzadas was restrained and handcuffed natanzadas was beaten to death by the crowd as recorded on video. it has been inferred that the shooting was a personal protest against the israeli governments disengagement plan since an orange ribbon was found attached to natanzadas pocket orange being an emblem color of antidisengagement activism. no group had taken credit for the shooting and one official in the settler movement denounced the shooting . natanzadas was absent without leave and in hiding from the idf at the time of the shooting . natanzadas had recently become religious after getting involved with farright activists.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.08888888888888889 and for ground truth is : 0.15384615384615385
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate minor_inaccurate 
+

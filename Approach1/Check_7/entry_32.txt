@@ -1,0 +1,90 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Attorneys_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Attorneys_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Attorneys_in_the_United_States and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Irish_republicanism and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Irish_republicanism and http://dbpedia.org/resource/California's_48th_State_Assembly_district and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/California's_48th_State_Assembly_district and the value is : 1
+http://dbpedia.org/resource/University_of_Chicago and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/University_of_Chicago and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Ignatius_of_Loyola and http://dbpedia.org/resource/College-preparatory_school and the value is : 0
+http://dbpedia.org/resource/University_of_Notre_Dame and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/University_of_Notre_Dame and http://dbpedia.org/resource/Illinois_College and the value is : 0
+http://dbpedia.org/resource/University_of_Notre_Dame and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Juris_Doctor and http://dbpedia.org/resource/Illinois_College and the value is : 0
+http://dbpedia.org/resource/Juris_Doctor and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/Illinois_College and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Irish_republicanism and http://dbpedia.org/resource/Floor_leader and the value is : 0
+http://dbpedia.org/resource/Irish_republicanism and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Floor_leader and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/Irish_republicanism and http://dbpedia.org/resource/Committee_on_Jewish_Law_and_Standards and the value is : 1
+http://dbpedia.org/resource/Criminal_justice_reform_in_the_United_States and http://dbpedia.org/resource/Incarceration_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Criminal_justice_reform_in_the_United_States and http://dbpedia.org/resource/Bail and the value is : 1
+http://dbpedia.org/resource/Incarceration_in_the_United_States and http://dbpedia.org/resource/Bail and the value is : 1
+http://dbpedia.org/resource/Sexual_assault and http://dbpedia.org/resource/Domestic_violence and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Born_4 and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Australians and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Australians and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Australians and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Solicitor and http://dbpedia.org/resource/Diploma and the value is : 0
+http://dbpedia.org/resource/Solicitor and http://dbpedia.org/resource/Scots_law and the value is : 0
+http://dbpedia.org/resource/Solicitor and http://dbpedia.org/resource/University_of_Sydney and the value is : 0
+http://dbpedia.org/resource/Diploma and http://dbpedia.org/resource/Scots_law and the value is : 0
+http://dbpedia.org/resource/Diploma and http://dbpedia.org/resource/University_of_Sydney and the value is : 1
+http://dbpedia.org/resource/Scots_law and http://dbpedia.org/resource/University_of_Sydney and the value is : 0
+http://dbpedia.org/resource/Liberal_Party and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Liberal_Party and http://dbpedia.org/resource/Electoral_district_of_Campbelltown and the value is : 0
+http://dbpedia.org/resource/Liberal_Party and http://dbpedia.org/resource/National_League_of_Young_Liberals and the value is : 1
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Electoral_district_of_Campbelltown and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/National_League_of_Young_Liberals and the value is : 0
+http://dbpedia.org/resource/Electoral_district_of_Campbelltown and http://dbpedia.org/resource/National_League_of_Young_Liberals and the value is : 0
+http://dbpedia.org/resource/Australians and http://dbpedia.org/resource/Scots_law and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/2006_Canadian_federal_election and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/Western_Australian_Legislative_Council and the value is : 1
+http://dbpedia.org/resource/2006_Canadian_federal_election and http://dbpedia.org/resource/Western_Australian_Legislative_Council and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Australian_Labor_Party and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Reform_the_Legal_System and the value is : 0
+http://dbpedia.org/resource/Australian_Labor_Party and http://dbpedia.org/resource/Reform_the_Legal_System and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/2006_Canadian_federal_election and the value is : 1
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Australian_Senate and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Ricky_Muir and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Australian_Motoring_Enthusiast_Party and the value is : 0
+http://dbpedia.org/resource/Australian_Senate and http://dbpedia.org/resource/Ricky_Muir and the value is : 0
+http://dbpedia.org/resource/Australian_Senate and http://dbpedia.org/resource/Australian_Motoring_Enthusiast_Party and the value is : 0
+http://dbpedia.org/resource/Ricky_Muir and http://dbpedia.org/resource/Australian_Motoring_Enthusiast_Party and the value is : 0
+http://dbpedia.org/resource/Miscarriage and http://dbpedia.org/resource/Murder_in_English_law and the value is : 0
+http://dbpedia.org/resource/Miscarriage and http://dbpedia.org/resource/Murder_of_Janine_Balding and the value is : 0
+http://dbpedia.org/resource/Murder_in_English_law and http://dbpedia.org/resource/Murder_of_Janine_Balding and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+peter breen born october 28 1965 american politician attorney state illinois . member republican party served member illinois house representatives 48th district 2013 2019 . breen born chicago illinois attended st . ignatius college prep . received bachelors degree university notre dame law degree university illinois college law . breen elected illinois house representatives 2012 . time house served republican floor leader member appropriationshuman services judiciarycriminal law transportation motor vehicles committees . republican spokesperson judiciarycriminal law committee . breen vocal advocate criminal justice reform sponsoring legislation reduce states prison population reform states bail system . sponsored legislation protect rights victims sexual assault domestic violence . strong supporter school choice sponsored 
+
+Coref Resolved : 
+peter breen born october 28 1965 american politician attorney state illinois . member republican party served member illinois house representatives 48th district 2013 2019 . breen born chicago illinois attended st . ignatius college prep . received bachelors degree university notre dame law degree university illinois college law . breen elected illinois house representatives 2012 . time house served republican floor leader member appropriationshuman services judiciarycriminal law transportation motor vehicles committees . republican spokesperson judiciarycriminal law committee . breen vocal advocate criminal justice reform sponsoring legislation reduce states prison population reform states bail system . sponsored legislation protect rights victims sexual assault domestic violence . strong supporter school choice sponsored
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+peter james breen born 4 november 1947 australian politician . solicitor entering politics achieving diploma law sydney university . originally member liberal party serving president campbelltown young liberals 19711972 . 19951998 secretary australian bill rights group 1998 joined reform legal system . 1999 new south wales election elected legislative council . breen joined australian labor party 5 2006 resigned 18 july form human rights party . unsuccessfully contested 2007 new south wales state election . 2014 breen adviser senator ricky muir australian motoring enthusiast party sacked 5 august 2014 . campaigned alleged miscarriage justice conviction stephen wayne shorty jamieson 1988 murder janine balding . 
+
+Coref Resolved : 
+peter james breen born 4 november 1947 australian politician . solicitor entering politics achieving diploma law sydney university . originally member liberal party serving president campbelltown young liberals 19711972 . 19951998 secretary australian bill rights group 1998 joined reform legal system . 1999 new south wales election elected legislative council . peter james breen joined australian labor party 5 2006 resigned 18 july form human rights party . unsuccessfully contested 2007 new south wales state election . 2014 peter james breen adviser senator ricky muir australian motoring enthusiast party sacked 5 august 2014 . campaigned alleged miscarriage justice conviction stephen wayne shorty jamieson 1988 murder janine balding .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2222222222222222 and for ground truth is : 0.11428571428571428
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,103 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Governor_of_New_York and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Territory_of_Alaska and the value is : 1
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/California_State_Assembly and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Speaker_of_the_New_South_Wales_Legislative_Assembly and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/California_State_Assembly and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Grover_Cleveland and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/United_States_federal_judge and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Territory_of_Alaska and the value is : 1
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Governor_of_New_York and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Territory_of_Alaska and the value is : 1
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/William_Howard_Taft and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/Governor_of_New_York and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Anthony_Dimond and http://dbpedia.org/resource/United_States and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Anthony_Joseph and the value is : 0
+http://dbpedia.org/resource/Dimond_High_School and http://dbpedia.org/resource/Portage and the value is : 0
+http://dbpedia.org/resource/Dimond_High_School and http://dbpedia.org/resource/Anthony_Joseph and the value is : 0
+http://dbpedia.org/resource/Franklin_D._Roosevelt and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/Franklin_D._Roosevelt and http://dbpedia.org/resource/Benjamin_Franklin and the value is : 0
+http://dbpedia.org/resource/Franklin_D._Roosevelt and http://dbpedia.org/resource/Zionism and the value is : 0
+http://dbpedia.org/resource/Franklin_D._Roosevelt and http://dbpedia.org/resource/Anthony_Joseph and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Anthony Dimond (1850 1927) was an American politician who served as the third Governor of Alaska Territory from 1909 to 1913.
+He was born in 1850 in New York City and moved to California in 1868.
+He was admitted to the bar in 1875 and practiced law in San Francisco.
+He was elected to the California State Assembly in 1883 and served as Speaker of the Assembly in 1885.
+In 1889, he was elected to the United States House of Representatives, where he served until 1895.
+In 1895, he was appointed by President Grover Cleveland as the first United States District Judge for Alaska.
+He served in that capacity until 1909, when he was appointed Governor of Alaska Territory by President William Howard Taft.
+He served as Governor until 1913, when he resigned to become a judge of the United States Court of Appeals for the Ninth Circuit.
+He served on the court until his death in 1927.
+
+
+Coref Resolved: 
+
+Anthony Dimond (1850 1927) was an American politician who served as the third Governor of Alaska Territory from 1909 to 1913.
+Anthony Dimond was born in 1850 in New York City and moved to California in 1868.
+Anthony Dimond was admitted to the bar in 1875 and practiced law in San Francisco.
+Anthony Dimond was elected to the California State Assembly in 1883 and served as Speaker of the California State Assembly in 1885.
+In 1889, Anthony Dimond was elected to the United States House of Representatives, where Anthony Dimond served until 1895.
+In 1895, Anthony Dimond was appointed by President Grover Cleveland as the first United States District Judge for Alaska Territory .
+Anthony Dimond served in that capacity until 1909, when Anthony Dimond was appointed Governor of Alaska Territory by President William Howard Taft.
+Anthony Dimond served as Governor until 1913, when Anthony Dimond resigned to become a judge of the United States Court of Appeals for the Ninth Circuit.
+Anthony Dimond served on the United States Court of Appeals for the Ninth Circuituntil Anthony Dimond death in 1927.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Anthony Joseph Dimond (November 30, 1881 May 28, 1953) was an American Democratic Party politician who was the Alaska Territory delegate in the United States House of Representatives for many years (1933 1945).
+Dimond was also an early champion of Alaska statehood.
+He was born in Palatine Bridge, Montgomery County, New York and attended Catholic schools, taught school in Montgomery County (1900 1903), and was a prospector miner in Alaska (1904 1912) before studying law and beginning practice in Valdez (1913).
+Dimond's political experience includes US Commissioner in Chisana, Alaska (1913 1914) Special Assistant US Attorney for the 3rd Judicial Division of Alaska in Valdez (1917) .
+Mayor of Valdez (1920 1922, 1925 1932) Alaska Territorial Senate (1923 1926, 1929 1932) and District Judge for the 3rd Division of Alaska (1945 1953).
+He also served as a delegate to the Democratic National Convention in 1936 and 1940.
+He died on May 28, 1953 in Anchorage.
+A Roman Catholic, Dimond was a member of organizations such as the Elks, Moose, and Eagles.
+His secretary, Bob Bartlett, eventually became a United States Senator from Alaska.
+Today, November 30 is celebrated by the state of Alaska as "Anthony Dimond Day".
+In Anchorage, A. J. Dimond High School and Dimond Boulevard, a major thoroughfare, are named after him.
+In 1940, when President Franklin D. Roosevelt was considering making Alaska an international Jewish homeland, Dimond was the main force behind defeating the effort.
+ 
+
+Coref Resolved: 
+
+Anthony Joseph Dimond (November 30, 1881 May 28, 1953) was an American Democratic Party politician who was the Alaska Territory delegate in the United States House of Representatives for many years (1933 1945).
+Anthony Joseph Dimond (November 30, 1881 May 28, 1953) was also an early champion of Alaska Territory statehood.
+Anthony Joseph Dimond (November 30, 1881 May 28, 1953) was born in Palatine Bridge, Montgomery County, New York and attended Catholic schools, taught school in Montgomery County, New York (1900 1903), and was a prospector miner in Alaska Territory (1904 1912) before studying law and beginning practice in Valdez (1913).
+Anthony Joseph Dimond (November 30, 1881 May 28, 1953) political experience includes US Commissioner in Chisana, Alaska Territory (1913 1914)Special Assistant US Attorney for the 3rd Judicial Division of Alaska Territory in Valdez (1917) .
+Mayor of Valdez (1920 1922, 1925 1932)Alaska Territorial Senate (1923 1926, 1929 1932) and District Judge for the 3rd Division of Alaska Territory (1945 1953).
+Anthony Joseph Dimond (November 30, 1881 May 28, 1953) also served as a delegate to the Democratic National Convention in 1936 and 1940.
+Anthony Joseph Dimond (November 30, 1881 May 28, 1953) died on May 28, 1953 in Anchorage.
+A Roman Catholic, Anthony Joseph Dimond (November 30, 1881 May 28, 1953) was a member of organizations such as the Elks, Moose, and Eagles.
+Anthony Joseph Dimond (November 30, 1881 May 28, 1953) secretary, Bob Bartlett, eventually became a United States Senator from Alaska Territory .
+Today, November 30 is celebrated by Alaska Territory as "Anthony Joseph Dimond (November 30, 1881 May 28, 1953) Day".
+In Anchorage, A. J. Dimond High School and Dimond Boulevard, a major thoroughfare, are named after Anthony Joseph Dimond (November 30, 1881 May 28, 1953) .
+In 1940, when President Franklin D. Roosevelt was considering the effortAlaska Territory an international Jewish homeland, Anthony Joseph Dimond (November 30, 1881 May 28, 1953) was the main force behind defeating the effort.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5 0.0 0.0 0.0 0.0 0.25 0.25 0.0 0.0 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 0.0 -1 -1 0.0 0.25 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

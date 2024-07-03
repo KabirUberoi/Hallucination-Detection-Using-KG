@@ -1,0 +1,59 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Midfielder and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Midfielder and the value is : 1
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C. and the value is : 0
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Bristol_City_F.C. and the value is : 1
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 1
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/West_Bromwich_Albion_F.C. and the value is : 1
+http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C. and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C. and http://dbpedia.org/resource/Bristol_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C. and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C. and http://dbpedia.org/resource/West_Bromwich_Albion_F.C. and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Bristol_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/West_Bromwich_Albion_F.C. and the value is : 1
+http://dbpedia.org/resource/Bristol_City_F.C. and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 1
+http://dbpedia.org/resource/Bristol_City_F.C. and http://dbpedia.org/resource/West_Bromwich_Albion_F.C. and the value is : 1
+http://dbpedia.org/resource/Birmingham_City_F.C. and http://dbpedia.org/resource/West_Bromwich_Albion_F.C. and the value is : 1
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/San_Jose_Earthquakes and the value is : 1
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C. and the value is : 1
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/EFL_Cup and the value is : 0
+http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C. and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C. and http://dbpedia.org/resource/EFL_Cup and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/EFL_Cup and the value is : 1
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Birmingham_City_F.C. and the value is : 0
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Swansea_City_A.F.C. and the value is : 0
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Liverpool_F.C. and the value is : 1
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Wigan_Athletic_F.C. and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Swansea_City_A.F.C. and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Liverpool_F.C. and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Wigan_Athletic_F.C. and the value is : 0
+http://dbpedia.org/resource/Swansea_City_A.F.C. and http://dbpedia.org/resource/Liverpool_F.C. and the value is : 1
+http://dbpedia.org/resource/Swansea_City_A.F.C. and http://dbpedia.org/resource/Wigan_Athletic_F.C. and the value is : 0
+http://dbpedia.org/resource/Liverpool_F.C. and http://dbpedia.org/resource/Wigan_Athletic_F.C. and the value is : 0
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Head_coach and the value is : 1
+http://dbpedia.org/resource/Steve_Cooper_(football_manager) and http://dbpedia.org/resource/Under17 and the value is : 1
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Under17 and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+steve cooper born 1964 is an english former professional footballer who played as a midfielder. he began his career at his hometown club wolverhampton wanderers in 1982 and went on to play for a number of clubs in the english football league including bristol city birmingham city and west bromwich albion. he also had a spell in the united states with the san jose earthquakes. he retired from professional football in 1998. cooper was a member of the wolverhampton wanderers team that won the football league cup in 1980. he also won the football league trophy with birmingham city in 1991. after retiring from playing cooper moved into coaching and has held a number of positions at clubs in the english football league including swansea city liverpool and wigan athletic. he is currently the head coach of the england under17 team. 
+
+Coref Resolved : 
+steve cooper born 1964 is an english former professional footballer who played as a midfielder. steve cooper born 1964 began steve cooper born 1964 career at steve cooper born 1964 hometown club wolverhampton wanderers in 1982 and went on to play for a number of clubs in the english football league including bristol city birmingham city and west bromwich albion. steve cooper born 1964 also had a spell in the united states with the san jose earthquakes. steve cooper born 1964 retired from professional football in 1998. steve cooper born 1964 was a member of the his hometown club wolverhampton wanderers team that won the football league cup in 1980. steve cooper born 1964 also won the football league trophy with birmingham city in 1991. after retiring from playing steve cooper born 1964 moved into coaching and has held a number of positions at clubs in the english football league including swansea city liverpool and wigan athletic. steve cooper born 1964 is currently the head coach of the england under17 team.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.6190476190476191
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

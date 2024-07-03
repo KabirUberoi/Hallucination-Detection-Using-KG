@@ -1,0 +1,48 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Officer and the value is : 0
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/Officer and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Nazi_concentration_camp_commandant and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 0
+http://dbpedia.org/resource/Nazi_concentration_camp_commandant and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 1
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Oswald_Schmiedeberg and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Upper_Silesia and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Oswald_Schmiedeberg and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Upper_Silesia and the value is : 0
+http://dbpedia.org/resource/Oswald_Schmiedeberg and http://dbpedia.org/resource/Upper_Silesia and the value is : 1
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Nazi_Party and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Nazi_Party and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Rudolf_Höss and the value is : 0
+http://dbpedia.org/resource/Auschwitz_concentration_camp and http://dbpedia.org/resource/Rudolf_Höss and the value is : 1
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Holocaust_trains and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/History_of_the_Jews_in_Hungary and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Gas_chamber and the value is : 1
+http://dbpedia.org/resource/Holocaust_trains and http://dbpedia.org/resource/History_of_the_Jews_in_Hungary and the value is : 0
+http://dbpedia.org/resource/Holocaust_trains and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 1
+http://dbpedia.org/resource/Holocaust_trains and http://dbpedia.org/resource/Gas_chamber and the value is : 1
+http://dbpedia.org/resource/History_of_the_Jews_in_Hungary and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 0
+http://dbpedia.org/resource/History_of_the_Jews_in_Hungary and http://dbpedia.org/resource/Gas_chamber and the value is : 0
+http://dbpedia.org/resource/Auschwitz_concentration_camp and http://dbpedia.org/resource/Gas_chamber and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Auschwitz_concentration_camp and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Richard_Baer and the value is : 0
+http://dbpedia.org/resource/Alfred_Fischer_(architect) and http://dbpedia.org/resource/Gestapo and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+alfred fischer 18991945 was a german ss officer during world war ii. he was a member of the sstotenkopfverbände and was the commandant of the auschwitz concentration camp from may 1944 to november 1944. fischer was born in 1899 in the small town of schmiedeberg in silesia. he joined the nazi party in 1933 and the ss in 1934. he was assigned to the auschwitz concentration camp in may 1944 replacing rudolf höss. during his tenure fischer was responsible for the deportation of hungarian jews to auschwitz and the selection of prisoners for the gas chambers. he was also responsible for the construction of the auschwitz iiimonowitz concentration camp. fischer was removed from his post in november 1944 and was replaced by richard baer. he was later arrested by the gestapo and executed in 1945. 
+
+Coref Resolved : 
+alfred fischer 18991945 was a german ss officer during world war ii. alfred fischer 18991945 was a member of the sstotenkopfverbände and was the commandant of the auschwitz concentration camp from may 1944 to november 1944. alfred fischer 18991945 was born in 1899 in the small town of schmiedeberg in silesia. alfred fischer 18991945 joined the nazi party in 1933 and the ss in 1934. alfred fischer 18991945 was assigned to the auschwitz concentration camp in may 1944 replacing rudolf höss. during alfred fischer 18991945 tenure alfred fischer 18991945 was responsible for the deportation of hungarian jews to the auschwitz concentration camp and the selection of prisoners for the gas chambers. alfred fischer 18991945 was also responsible for the construction of the auschwitz iiimonowitz concentration camp. alfred fischer 18991945 was removed from alfred fischer 18991945 post in november 1944and was replaced by richard baer. alfred fischer 18991945 was later arrested by the gestapo and executed in 1945.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1935483870967742
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate accurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,40 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Socialite and the value is : 0
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Queen_consort and the value is : 1
+http://dbpedia.org/resource/Hope_Cooke and http://dbpedia.org/resource/Sikkim and the value is : 1
+http://dbpedia.org/resource/Socialite and http://dbpedia.org/resource/Queen_consort and the value is : 1
+http://dbpedia.org/resource/Socialite and http://dbpedia.org/resource/Sikkim and the value is : 0
+http://dbpedia.org/resource/Queen_consort and http://dbpedia.org/resource/Sikkim and the value is : 0
+http://dbpedia.org/resource/House_of_York and http://dbpedia.org/resource/Burmese_alphabet and the value is : 0
+http://dbpedia.org/resource/Chapin_School and http://dbpedia.org/resource/House_of_York and the value is : 1
+http://dbpedia.org/resource/Chapin_School and http://dbpedia.org/resource/Madeira_School and the value is : 0
+http://dbpedia.org/resource/Chapin_School and http://dbpedia.org/resource/McLean,_Virginia and the value is : 0
+http://dbpedia.org/resource/House_of_York and http://dbpedia.org/resource/Madeira_School and the value is : 0
+http://dbpedia.org/resource/House_of_York and http://dbpedia.org/resource/McLean,_Virginia and the value is : 0
+http://dbpedia.org/resource/Madeira_School and http://dbpedia.org/resource/McLean,_Virginia and the value is : 0
+http://dbpedia.org/resource/Chogyal and http://dbpedia.org/resource/Sikkim and the value is : 0
+http://dbpedia.org/resource/Queen_consort and http://dbpedia.org/resource/Sikkim and the value is : 0
+http://dbpedia.org/resource/American_Woman and http://dbpedia.org/resource/Queen_consort and the value is : 0
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/Modernization_theory and the value is : 0
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/Democracy and the value is : 0
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/Sikkim and the value is : 0
+http://dbpedia.org/resource/Modernization_theory and http://dbpedia.org/resource/Democracy and the value is : 0
+http://dbpedia.org/resource/Modernization_theory and http://dbpedia.org/resource/Sikkim and the value is : 0
+http://dbpedia.org/resource/Democracy and http://dbpedia.org/resource/Sikkim and the value is : 0
+http://dbpedia.org/resource/Annexation and http://dbpedia.org/resource/Monarchy and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+hope cooke born october 8 1940 is an american socialite and former queen consort of sikkim. she was the second wife of the chogyal king of sikkim palden thondup namgyal. cooke was born in new york city to an american father and a burmese mother. she was educated at the chapin school in new york city and at the madeira school in mclean virginia. in 1963 cooke met the chogyal of sikkim palden thondup namgyal while he was on a visit to the united states. they married in 1963 and she moved to sikkim becoming the queen consort of sikkim. she was the first american woman to become a queen consort in asia. cooke was instrumental in the modernization of sikkim and the introduction of democracy to the country. she was also a strong advocate for the rights of women and children in sikkim. in 1975 sikkim was annexed by india and the monarchy was abolished. cooke and her husband were forced to leave the country and they settled 
+
+Coref Resolved : 
+hope cooke born october 8 1940 is an american socialite and former queen consort of sikkim. cooke was the second wife of the chogyal king of sikkimpalden thondup namgyal. cooke was born in new york city to an american father and a burmese mother. cooke was educated at the chapin school in new york city and at the madeira school in mclean virginia. in 1963 cooke met the chogyal of sikkimpalden thondup namgyal while the chogyal king of sikkim palden thondup namgyalwas on a visit to the united states. cooke and her husband married in 1963 and cooke moved to sikkimbecoming the queen consort of sikkim. cooke was the first american woman to become a queen consort in asia. cooke was instrumental in the modernization of sikkimand the introduction of democracy to sikkim. cooke was also a strong advocate for the rights of women and children in sikkim. in 1975 sikkimwas annexed by india and the monarchy was abolished. cooke and cooke husband were forced to leave sikkimand cooke and her husband settled
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.17391304347826086
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate accurate major_inaccurate accurate accurate major_inaccurate major_inaccurate accurate minor_inaccurate 
+

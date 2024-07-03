@@ -1,0 +1,101 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Labour_Party_(UK) and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Sunderland_station and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Labour_Party_(UK) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Sunderland_station and the value is : 0
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Sunderland_station and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Sunderland_station and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Sunderland_station and the value is : 1
+http://dbpedia.org/resource/City_of_Sunderland and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/City_of_Sunderland and http://dbpedia.org/resource/Comprehensive_school and the value is : 0
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Comprehensive_school and the value is : 0
+http://dbpedia.org/resource/Trade_union and http://dbpedia.org/resource/GMB_(trade_union) and the value is : 1
+http://dbpedia.org/resource/Trade_union and http://dbpedia.org/resource/Councillor and the value is : 0
+http://dbpedia.org/resource/Trade_union and http://dbpedia.org/resource/Sunderland_City_Council and the value is : 0
+http://dbpedia.org/resource/GMB_(trade_union) and http://dbpedia.org/resource/Councillor and the value is : 0
+http://dbpedia.org/resource/GMB_(trade_union) and http://dbpedia.org/resource/Sunderland_City_Council and the value is : 0
+http://dbpedia.org/resource/Councillor and http://dbpedia.org/resource/Sunderland_City_Council and the value is : 0
+http://dbpedia.org/resource/1992_United_Kingdom_general_election and http://dbpedia.org/resource/Chris_Mullin and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Co-operative_Party and http://dbpedia.org/resource/GMB_(trade_union) and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Government_of_Australia and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Government_of_Australia and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Government_of_Australia and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Division_of_Parramatta and the value is : 0
+http://dbpedia.org/resource/Government_of_Australia and http://dbpedia.org/resource/Division_of_Parramatta and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Electoral_district_of_Ballina and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/South_Wales and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Master_of_Letters and the value is : 0
+http://dbpedia.org/resource/Electoral_district_of_Ballina and http://dbpedia.org/resource/South_Wales and the value is : 0
+http://dbpedia.org/resource/Electoral_district_of_Ballina and http://dbpedia.org/resource/Master_of_Letters and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/Master_of_Letters and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Lecturer and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Division_of_Reid and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Australian_Public_Service and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Civil_Services_of_India and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/John_Brown_of_Pittsfield and the value is : 0
+http://dbpedia.org/resource/Lecturer and http://dbpedia.org/resource/Division_of_Reid and the value is : 0
+http://dbpedia.org/resource/Lecturer and http://dbpedia.org/resource/Australian_Public_Service and the value is : 0
+http://dbpedia.org/resource/Lecturer and http://dbpedia.org/resource/Civil_Services_of_India and the value is : 0
+http://dbpedia.org/resource/Lecturer and http://dbpedia.org/resource/John_Brown_of_Pittsfield and the value is : 0
+http://dbpedia.org/resource/Division_of_Reid and http://dbpedia.org/resource/Australian_Public_Service and the value is : 1
+http://dbpedia.org/resource/Division_of_Reid and http://dbpedia.org/resource/Civil_Services_of_India and the value is : 0
+http://dbpedia.org/resource/Division_of_Reid and http://dbpedia.org/resource/John_Brown_of_Pittsfield and the value is : 0
+http://dbpedia.org/resource/Australian_Public_Service and http://dbpedia.org/resource/Civil_Services_of_India and the value is : 0
+http://dbpedia.org/resource/Australian_Public_Service and http://dbpedia.org/resource/John_Brown_of_Pittsfield and the value is : 0
+http://dbpedia.org/resource/Civil_Services_of_India and http://dbpedia.org/resource/John_Brown_of_Pittsfield and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Alderman and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/City_of_Parramatta and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/City_of_Parramatta and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/City_of_Parramatta and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Parliament_of_Australia and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/1990_Australian_federal_election and the value is : 0
+http://dbpedia.org/resource/Parliament_of_Australia and http://dbpedia.org/resource/1990_Australian_federal_election and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Parliamentary_secretary and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Treasurer_of_Australia and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Paul_Keating and the value is : 0
+http://dbpedia.org/resource/Parliamentary_secretary and http://dbpedia.org/resource/Treasurer_of_Australia and the value is : 1
+http://dbpedia.org/resource/Parliamentary_secretary and http://dbpedia.org/resource/Paul_Keating and the value is : 1
+http://dbpedia.org/resource/Treasurer_of_Australia and http://dbpedia.org/resource/Paul_Keating and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Parliamentary_secretary and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Tourism and the value is : 0
+http://dbpedia.org/resource/Parliamentary_secretary and http://dbpedia.org/resource/Tourism and the value is : 1
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/1996_Australian_federal_election and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+paul elliott born 28 april 1964 is a british labour party politician who has been the member of parliament mp for sunderland central since 2010. elliott was born in sunderland and educated at st aidans comprehensive school and the university of sunderland. he worked as a trade union official for the gmb union and was a councillor on sunderland city council from 2002 to 2010. elliott was elected to the house of commons at the 2010 general election succeeding the labour mp chris mullin. he was reelected in 2015 and 2017. in parliament he has served on the work and pensions select committee since 2015. he is a member of the cooperative party and the gmb union. 
+
+Coref Resolved : 
+paul elliott born 28 april 1964 is a british labour party politician who has been the member of parliament mp for sunderland central since 2010. elliott was born in sunderland and educated at st aidans comprehensive school and the university of sunderland . elliott worked as a trade union official for the gmb union and was a councillor on sunderland city council from 2002 to 2010. elliott was elected to the house of commons at the 2010general election succeeding the labour mp chris mullin. elliott was reelected in 2015 and 2017. in parliament elliott has served on the work and pensions select committee since 2015 . elliott is a member of the cooperative party and the gmb union .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+robert paul elliott born 24 september 1954 is an australian politician. he was a labor member of the australian house of representatives from 1990 to 1996 representing the division of parramatta. elliott was born in ballina new south wales and earned a bachelor of arts and an mlitt at the university of new england. he worked as a lecturer at the university of western sydney a public servant and an electoral officer to labor mp john brown. he was elected as an alderman on parramatta city council in 1977 and was mayor from 1984 to 1986. following the retirement of john brown elliott was elected to federal parliament at the 1990 election. he was appointed parliamentary secretary to the treasurer in the keating government in december 1993. in june 1994 he became parliamentary secretary to the minister for communications and the arts and parliamentary secretary to the minister for tourism as well. he was defeated at the 1996 election. 
+
+Coref Resolved : 
+robert paul elliott born 24 september 1954 is an australian politician. robert paul elliott born 24 september 1954 was a labor member of the australian house of representatives from 1990 to 1996 representing the division of parramatta. robert paul elliott born 24 september 1954 was born in ballina new south wales and earned a bachelor of arts and an mlitt at the university of new england. robert paul elliott born 24 september 1954 worked as a lecturer at the university of western sydney a public servant and an electoral officer to labor mp john brown. robert paul elliott born 24 september 1954 was elected as an alderman on parramatta city council in 1977 and was mayor from 1984 to 1986. following the retirement of labor mp john brownrobert paul elliott born 24 september 1954 was elected to federal parliament at the 1990 election. robert paul elliott born 24 september 1954 was appointed parliamentary secretary to the treasurer in the keating government in december 1993. in june 1994 robert paul elliott born 24 september 1954 became parliamentary secretary to the minister for communications and the arts and parliamentary secretary to the minister for tourism as well. robert paul elliott born 24 september 1954 was defeated at the 1996 election.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.07407407407407407 and for ground truth is : 0.08695652173913043
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

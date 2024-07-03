@@ -1,0 +1,45 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Panzer_IV and the value is : 1
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Smallville and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Supernatural and the value is : 0
+http://dbpedia.org/resource/Panzer_IV and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Panzer_IV and http://dbpedia.org/resource/Smallville and the value is : 0
+http://dbpedia.org/resource/Panzer_IV and http://dbpedia.org/resource/Supernatural and the value is : 1
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Smallville and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Supernatural and the value is : 0
+http://dbpedia.org/resource/Smallville and http://dbpedia.org/resource/Supernatural and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Butterfly and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Fog and the value is : 1
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Exorcism and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Anneliese_Michel and the value is : 0
+http://dbpedia.org/resource/Butterfly and http://dbpedia.org/resource/Fog and the value is : 0
+http://dbpedia.org/resource/Butterfly and http://dbpedia.org/resource/Exorcism and the value is : 0
+http://dbpedia.org/resource/Butterfly and http://dbpedia.org/resource/Anneliese_Michel and the value is : 0
+http://dbpedia.org/resource/Fog and http://dbpedia.org/resource/Exorcism and the value is : 0
+http://dbpedia.org/resource/Fog and http://dbpedia.org/resource/Anneliese_Michel and the value is : 0
+http://dbpedia.org/resource/Exorcism and http://dbpedia.org/resource/Anneliese_Michel and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Stargate_SG-1 and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Stargate_Atlantis and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Stargate_SG-1 and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Stargate_Atlantis and the value is : 0
+http://dbpedia.org/resource/Stargate_SG-1 and http://dbpedia.org/resource/Stargate_Atlantis and the value is : 0
+http://dbpedia.org/resource/Tom_Butler_(actor) and http://dbpedia.org/resource/Television_film and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tom butler is a canadian actor. he is best known for his roles in the films saw iii saw iv and saw v as well as the television series smallville supernatural and the 4400. he has also appeared in the films the butterfly effect the fog and the exorcism of emily rose. he has also had guest roles on the television series stargate sg1 stargate atlantis and the dead zone. he has also appeared in the television movie the day the earth stopped. 
+
+Coref Resolved : 
+tom butler is a canadian actor. tom butler is best known for tom butler roles in the films saw iii saw iv and saw v as well as the television series smallville supernatural and the 4400. tom butler has also appeared in the films the butterfly effect the fog and the exorcism of emily rose. tom butler has also had guest roles on the television series stargate sg1 stargate atlantis and the dead zone. tom butler has also appeared in the television movie the day the earth stopped.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.14285714285714285
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate 
+

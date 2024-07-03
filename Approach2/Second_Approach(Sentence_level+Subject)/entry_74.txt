@@ -1,0 +1,96 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Sound_recording_and_reproduction and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/West_End_theatre and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Sound_recording_and_reproduction and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Columbia_Graphophone_Company and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Electronic_dance_music and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Jack_Hylton and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Decca_Records and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Vera_Lynn and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Gracie_Fields and the value is : 1
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/George_Formby and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Sound_recording_and_reproduction and the value is : 0
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Music_Producers_Guild and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Crass and http://dbpedia.org/resource/Record_label and the value is : 0
+http://dbpedia.org/resource/Crass and http://dbpedia.org/resource/Southern_Records and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+John Loder (1904 1972) was a British sound engineer and record producer.
+He was one of the pioneers of the British recording industry, and was responsible for the production of some of the earliest British recordings.
+Loder was born in London in 1904.
+He began his career in the music industry in the 1920s, working as a sound engineer for the British branch of the Columbia Graphophone Company.
+He was responsible for the production of some of the earliest British recordings, including those of the popular dance band leader Jack Hylton.
+In the 1930s, Loder moved to the Decca label, where he worked as a sound engineer and producer.
+He was responsible for the production of some of the most successful British recordings of the era, including those of Vera Lynn, Gracie Fields, and George Formby.
+Loder continued to work in the music industry until his death in 1972.
+He was posthumously inducted into the Music Producers Guild Hall of Fame in 2008.
+
+
+Coref Resolved: 
+
+John Loder (1904 1972) was a British sound engineer and record producer.
+John Loder (1904 1972) was one of the pioneers of the British recording industry, and was responsible for the production of some of the earliest British recordings.
+John Loder (1904 1972) was born in London in 1904.
+John Loder (1904 1972) began John Loder (1904 1972) career in the British recording industryin the 1920s, working as a sound engineer for the British branch of the Columbia Graphophone Company.
+John Loder (1904 1972) was responsible for the production of some of the earliest British recordings, including those of the popular dance band leader Jack Hylton.
+In the 1930s, John Loder (1904 1972) moved to the Decca label, where John Loder (1904 1972) worked as a sound engineer and producer.
+John Loder (1904 1972) was responsible for the production of some of the most successful British recordings of the 1930s, including those of Vera Lynn, Gracie Fields, and George Formby.
+John Loder (1904 1972) continued to work in the British recording industryuntil John Loder (1904 1972) death in 1972.
+John Loder (1904 1972) was posthumously inducted into the Music Producers Guild Hall of Fame in 2008.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+John F. Loder (7 April 1946 12 August 2005) was an English sound engineer, record producer, and founder of Southern Studios, as well as a former member of Exit and co-founder of the Southern Records distribution company with his wife Sue.
+He was also the studio engineer of choice for Crass Records and was often considered to be the band's "ninth member".
+Loder was born near Plymouth and educated at boarding school before studying electrical engineering at London's City University.
+During his post-graduate work there, he became involved in early experiments in digital encoding of audio for the military.
+By 1970, he had joined Exit, alongside Penny Rimbaud, utilizing a one-track tape-recorder.
+This led to Loder eventually founding a record studio in his garage after the disbanding of Exit in 1974. .
+Loder was recording advertising jingles in 1977 when his path crossed once again with Rimbaud, who had by then co-founded Crass, and at this point invited Loder to become the band's engineer and financial manager, roles Loder happily accepted.
+When Crass founded their own record label, Loder worked as an engineer on most of the label's releases, and when Loder saw potential in a number of bands turned away by Crass Records due to ideological differences, he set up Southern Records.
+Loder engineered and produced for many bands other than Crass, among them The Jesus and Mary Chain, for whom he engineered the recordings of the "Psychocandy" album, Big Black's "Songs About Fucking", PJ Harvey, Babes in Toyland, Fugazi, Ministry, and Shellac. .
+In the mid-1980s, Loder established a television production facility at Southern.
+Its notable output included the music show "Snub TV", which after first being syndicated nationwide in the USA, went on to further success on BBC2 and in other countries.
+Loder was responsible for encouraging and establishing independent alternative internet ezines, donating the use of Southern's servers and bandwidth, taking part in pioneering online media streaming and simulcasting.
+Loder died of a brain tumour in 2005, aged 59.
+ 
+
+Coref Resolved: 
+
+John F. Loder (7 April 1946 12 August 2005) was an English sound engineer, record producer, and founder of Southern Studios, as well as a former member of Exit and co-founder of the Southern Records distribution company with John F. Loder wife Sue.
+John F. Loder was also the studio engineer of choice for Crass Records and was often considered to be Crass Records "ninth member".
+John F. Loder was born near Plymouth and educated at boarding school before studying electrical engineering at London's City University.
+During John F. Loder post-graduate work there, John F. Loder became involved in early experiments in digital encoding of audio for the military.
+By 1970, John F. Loder had joined Exit , alongside Penny Rimbaud, utilizing a one-track tape-recorder.
+joined led to John F. Loder eventually founding a record studio in John F. Loder garage after the disbanding of Exit in 1974. .
+John F. Loder was recording advertising jingles in 1977 when John F. Loder path crossed once again with Rimbaud, who had by then co-founded Crass Records , and at this point invited John F. Loder to become Crass Records engineer and financial manager, roles John F. Loder happily accepted.
+When Crass Records founded Crass Records own record label, John F. Loder worked as an engineer on most of their own record labelreleases, and when John F. Loder saw potential in a number of bands turned away by Crass Records due to ideological differences, John F. Loder set up the Southern Records distribution company .
+John F. Loder engineered and produced for many bands other than Crass Records , among them The Jesus and Mary Chain, for whom John F. Loder engineered the recordings of the "Psychocandy" album, Big Black's "Songs About Fucking", PJ Harvey, Babes in Toyland, Fugazi, Ministry, and Shellac. .
+In the mid-1980s, John F. Loder established a television production facility at the Southern Records distribution company .
+a television production facility at Southernnotable output included the music show "Snub TV", which after first being syndicated nationwide in the USA, went on to further success on BBC2 and in other countries.
+John F. Loder was responsible for encouraging and establishing independent alternative internet ezines, donating the use of the Southern Records distribution company servers and bandwidth, taking part in pioneering online media streaming and simulcasting.
+John F. Loder died of a brain tumour in 2005, aged 59.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.0 0.0 0.0 0.3333333333333333 0.0 0.0 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 0.5 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

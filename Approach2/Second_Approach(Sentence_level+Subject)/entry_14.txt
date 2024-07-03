@@ -1,0 +1,111 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Noel_Gallagher and the value is : 0
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Limerick and the value is : 1
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/The_Cranberries and the value is : 1
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Noel_Gallagher and the value is : 0
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Limerick and the value is : 1
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Noel_Gallagher and the value is : 0
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Limerick and the value is : 1
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Mono_Band and http://dbpedia.org/resource/Noel_Gallagher and the value is : 0
+http://dbpedia.org/resource/Mono_Band and http://dbpedia.org/resource/Moyross and the value is : 0
+http://dbpedia.org/resource/Mono_Band and http://dbpedia.org/resource/Limerick and the value is : 1
+http://dbpedia.org/resource/Mono_Band and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Mono_Band and http://dbpedia.org/resource/Noel_Gallagher and the value is : 0
+http://dbpedia.org/resource/Mono_Band and http://dbpedia.org/resource/Moyross and the value is : 0
+http://dbpedia.org/resource/Mono_Band and http://dbpedia.org/resource/Limerick and the value is : 1
+http://dbpedia.org/resource/Mono_Band and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Slick_Rick and http://dbpedia.org/resource/Noel_Gallagher and the value is : 0
+http://dbpedia.org/resource/Slick_Rick and http://dbpedia.org/resource/Moyross and the value is : 0
+http://dbpedia.org/resource/Slick_Rick and http://dbpedia.org/resource/Limerick and the value is : 0
+http://dbpedia.org/resource/Slick_Rick and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Slick_Rick and http://dbpedia.org/resource/Mono_Band and the value is : 0
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Noel_Gallagher and the value is : 0
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Limerick and the value is : 1
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Noel_Gallagher and the value is : 0
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Limerick and the value is : 1
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Gohan and the value is : 0
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/UK_Albums_Chart and the value is : 0
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Noel_Gallagher and the value is : 0
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Limerick and the value is : 1
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Moyross and http://dbpedia.org/resource/Limerick and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Noel Anthony Hogan (born 25 December 1971) is an Irish musician, singer-songwriter and record producer.
+He is best known as the lead guitarist and co-songwriter of the alternative rock band The Cranberries.
+Hogan formed the band in 1989 with vocalist Dolores O'Riordan, bassist Mike Hogan and drummer Fergal Lawler.
+The band achieved international success in the 1990s with their debut album Everybody Else Is Doing It, So Why Can't We .
+and the hit singles "Linger" and "Zombie".
+Hogan wrote or co-wrote the majority of the band's material, including their biggest hits.
+He also produced the band's albums Bury the Hatchet (1999) and Wake Up and Smell the Coffee (2001).
+After The Cranberries disbanded in 2003, Hogan formed the band Mono Band and released two albums, Mono Band (2005) and Mono Band 2 (2008).
+He has also released two solo albums, The Sky Road (2009) and Ten Songs (2013).
+Hogan has also produced albums for other artists, including The Cranberries' Something Else (2017) and Noel Gallagher's High.
+
+
+Coref Resolved: 
+
+Noel Anthony Hogan (born 25 December 1971) is an Irish musician, singer-songwriter and record producer.
+Noel Anthony Hogan is best known as the lead guitarist and co-songwriter of the alternative rock band The Cranberries.
+Noel Anthony Hogan formed the alternative rock band The Cranberriesin 1989 with vocalist Dolores O'Riordan, bassist Mike Hogan and drummer Fergal Lawler.
+the alternative rock band The Cranberriesachieved international success in the 1990s with the alternative rock bandThe Cranberriesdebut album Everybody Else Is Doing It,So Why Can't We .
+and the hit singles "Linger" and "Zombie".
+Noel Anthony Hogan wrote or co-wrote the majority of the alternative rock band The Cranberriesmaterial, including the alternative rock band The Cranberriesbiggest hits.
+Noel Anthony Hogan also produced the alternative rock band The Cranberriesalbums Bury the Hatchet (1999) and Wake Up and Smell the Coffee (2001).
+After the alternative rock band The Cranberriesdisbanded in 2003, Noel Anthony Hogan formed the band Mono Band and released two albums, Mono Band (2005) and Mono Band 2 (2008).
+Noel Anthony Hogan has also released two solo albums, The Sky Road (2009) and Ten Songs (2013).
+Noel Anthony Hogan has also produced albums for other artists, including the alternative rock band The CranberriesSomething Else (2017) and Noel Gallagher's High.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Noel Anthony Hogan (born 25 December 1971, Moyross, Limerick, Ireland) is the current guitarist and co-songwriter on some of the recent tracks with The Cranberries.
+With The Cranberries on hiatus from 2003 to 2009, Hogan turned to focus on his own music.
+He began working with programmer Matt Vaughan, who had already done work on unreleased Cranberries songs and Dolores O'Riordan's solo material.
+Mono Band was born with Noel as the sole band member.
+With vocals being supplied by Richard Walters, Alexandra Hamnede, Kate Havnevik, and other guest artists, Noel worked with Cranberries' veteran producer Stephen Street to compile a mix of twelve tracks.
+Working on his side project at the same time, saw their resulting debut album, "Mono Band", released on 20 May 2005.
+Hogan and Mono Band vocalist Richard Walters went on to form Arkitekt.
+Arkitekt released two EPs at that time in 2009.
+Working on new material, Hogan's work independent of The Cranberries has been released on his own label, Gohan Records, and is published through Fairwood Music (UK) Ltd. for the world.
+Hogan has also been producing bands on the local music scene of Limerick.
+Gohan Records has recently released, in collaboration with Limerick Live 95FM's Green and Live show, Tonelist, a collection featuring better-known and up-and-coming musicians in the Limerick music scene.
+ 
+
+Coref Resolved: 
+
+Noel Anthony Hogan (born 25 December 1971, Moyross, Limerick, Ireland) is the current guitarist and co-songwriter on some of the recent tracks with The Cranberries.
+With The Cranberrieson hiatus from 2003 to 2009, Noel Anthony Hogan (born 25 December 1971, Moyross, Limerick, Ireland) turned to focus on Noel Anthony Hogan (born 25 December 1971, Moyross, Limerick, Ireland) own music.
+Noel Anthony Hogan (born 25 December 1971, Moyross, Limerick, Ireland) began working with programmer Matt Vaughan, who had already done work on unreleased The Cranberriessongs and Dolores O'Riordan's solo material.
+Mono Band was born with Noel Anthony Hogan (born 25 December 1971, Moyross, Limerick, Ireland) as the sole band member.
+With vocals being supplied by Richard Walters, Alexandra Hamnede, Kate Havnevik, and other guest artists, Noel Anthony Hogan (born 25 December 1971, Moyross, Limerick, Ireland) worked with The Cranberriesveteran producer Stephen Street to compile a mix of twelve tracks.
+Working on Noel Anthony Hogan (born 25 December 1971, Moyross, Limerick, Ireland) side project at the same time, saw Mono Band resulting debut album, "Mono Band", released on 20 May 2005.
+Noel Anthony Hogan (born 25 December 1971, Moyross, Limerick, Ireland) and Mono Band vocalist Richard Walters went on to form Arkitekt.
+Arkitektreleased two EPs at that time in 2009.
+Working on new material, Noel Anthony Hogan (born 25 December 1971, Moyross, Limerick, Ireland) work independent of The Cranberrieshas been released on Noel Anthony Hogan (born 25 December 1971, Moyross, Limerick, Ireland) own label, Gohan Records, and is published through Fairwood Music (UK) Ltd. for the world.
+Noel Anthony Hogan (born 25 December 1971, Moyross, Limerick, Ireland) has also been producing bands on the local music scene of Limerick.
+his own label, Gohan Recordshas recently released, in collaboration with Limerick Live 95FM's Green and Live show, Tonelist, a collection featuring better-known and up-and-coming musicians in the Limerickmusic scene.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+Value for ground truth is : 
+0.75 0.6666666666666666 -1 0.5 -1 0.5 0.0 -1 0.5 0.75 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate accurate accurate minor_inaccurate major_inaccurate accurate 
+

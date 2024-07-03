@@ -1,0 +1,58 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Heart and http://dbpedia.org/resource/Slapshot and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Rugby_union_positions and the value is : 1
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Rugby_union_positions and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Scarsdale_station and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Scarsdale_station and the value is : 1
+http://dbpedia.org/resource/Harvard_University and http://dbpedia.org/resource/American_literature and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Obie_Award and http://dbpedia.org/resource/Marriage_in_Islam and the value is : 0
+http://dbpedia.org/resource/Obie_Award and http://dbpedia.org/resource/Bette_Davis and the value is : 0
+http://dbpedia.org/resource/Marriage_in_Islam and http://dbpedia.org/resource/Bette_Davis and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/Heart and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Heart and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/ADO_Den_Haag and the value is : 1
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Heart and the value is : 0
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Academy_Awards and the value is : 1
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Heart and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Heart and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Slapshot and the value is : 0
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/David and the value is : 0
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Daytime_Emmy_Award and the value is : 0
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/CBS_Schoolbreak_Special and the value is : 0
+http://dbpedia.org/resource/Daytime_Emmy_Award and http://dbpedia.org/resource/CBS_Schoolbreak_Special and the value is : 0
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Grammy_Award and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+lindsay crouse born may 12 1948 is an american actress. she is known for her roles in the films house of games 1987 places in the heart 1984 and slap shot 1977. she has also appeared in the television series the west wing law order and the good wife. crouse was born in new york city and raised in nearby scarsdale. she attended harvard university where she studied english and american literature. after graduating in 1970 she moved to new york city and began her acting career. she made her broadway debut in 1972 in the play that championship season. crouse has appeared in numerous films and television shows throughout her career. she won an obie award for her performance in the play the marriage of bette and boo in 1985. she was nominated for an academy award for best supporting actress for her role in places in the heart. in addition to her acting career crouse has also written and directed several plays and films. 
+
+Coref Resolved : 
+lindsay crouse born may 12 1948 is an american actress. crouse is known for crouse roles in the films house of games 1987 places in the heart 1984 and slap shot 1977. crouse has also appeared in the television series the west wing law order and the good wife. crouse was born in new york city and raised in nearby scarsdale. crouse attended harvard university where crouse studied english and american literature. after graduating in 1970 crouse moved to new york city and began crouse acting career. crouse made crouse broadway debut in 1972 in the play that championship season. crouse has appeared in numerous films and television shows throughout crouse career. crouse won an obie award for crouse performance in the play the marriage of bette and boo in 1985. crouse was nominated for an academy award for best supporting actress for crouse role in places in the heart 1984 . in addition to crouse acting career crouse has also written and directed several plays and films.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+lindsay ann crouse born may 12 1948 is an american actress. she made her broadway debut in the 1972 revival of much ado about nothing and appeared in her first film in 1976 in all the presidents men. for her role in the 1984 film places in the heart she received an academy award nomination for best supporting actress. her other films include slap shot 1977 between the lines 1977 the verdict 1982 prefontaine 1997 and the insider 1999. she also had a leading role in the 1987 film house of games which was directed by her thenhusband david mamet. in 1996 she received a daytime emmy award nomination for between mother and daughter an episode of cbs schoolbreak special. she is also a grammy award nominee. 
+
+Coref Resolved : 
+lindsay ann crouse born may 12 1948 is an american actress. lindsay ann crouse born may 12 1948 made lindsay ann crouse born may 12 1948 broadway debut in the 1972 revival of much ado about nothing and appeared in lindsay ann crouse born may 12 1948 first film in 1976 in all the presidents men. for lindsay ann crouse born may 12 1948 role in the 1984 film places in the heart lindsay ann crouse born may 12 1948 received an academy award nomination for best supporting actress. lindsay ann crouse born may 12 1948 other films include slap shot 1977 between the lines 1977 the verdict 1982 prefontaine 1997 and the insider 1999. lindsay ann crouse born may 12 1948 also had a leading role in the 1987 film house of games which was directed by lindsay ann crouse born may 12 1948 thenhusband david mamet. in 1996 lindsay ann crouse born may 12 1948 received a daytime emmy award nomination for between mother and daughter an episode of cbs schoolbreak special. lindsay ann crouse born may 12 1948 is also a grammy award nominee.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.125 and for ground truth is : 0.2857142857142857
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate major_inaccurate accurate minor_inaccurate accurate major_inaccurate accurate major_inaccurate 
+

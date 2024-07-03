@@ -1,0 +1,56 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/American_Educator and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Liberal_arts_college and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Liberal_arts_college and the value is : 0
+http://dbpedia.org/resource/Smith_College and http://dbpedia.org/resource/Liberal_arts_college and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Harvard_University and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Harvard_University and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/English_literature and the value is : 0
+http://dbpedia.org/resource/Harvard_University and http://dbpedia.org/resource/Professor and the value is : 1
+http://dbpedia.org/resource/Harvard_University and http://dbpedia.org/resource/English_literature and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/English_literature and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Smith_College and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/National_university and the value is : 0
+http://dbpedia.org/resource/Smith_College and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Smith_College and http://dbpedia.org/resource/National_university and the value is : 1
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/National_university and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Curriculum and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 0
+http://dbpedia.org/resource/Curriculum and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Master_of_Social_Work and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Summer_school and the value is : 0
+http://dbpedia.org/resource/Smith_College and http://dbpedia.org/resource/Master_of_Social_Work and the value is : 0
+http://dbpedia.org/resource/Smith_College and http://dbpedia.org/resource/Summer_school and the value is : 0
+http://dbpedia.org/resource/Master_of_Social_Work and http://dbpedia.org/resource/Summer_school and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Liberal_arts_college and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Liberal_arts_college and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+william allan neilson 18691946 was an american educator and scholar. he was the president of smith college from 1910 to 1939 and was a major figure in the development of the modern liberal arts college. neilson was born in 1869 in new york city. he attended harvard university where he earned his bachelors degree in 1891 and his masters degree in 1892. he then went on to teach at harvard eventually becoming a professor of english literature. in 1910 he was appointed president of smith college a position he held until 1939. during his tenure at smith neilson was instrumental in transforming the college from a small local institution into a major national university. he increased the size of the faculty expanded the curriculum and improved the colleges financial stability. he also established a number of new programs including the smith college school for social work and the smith college summer school for women workers in industry. neilson was a strong advocate for womens education and he was a major figure in the development of the modern liberal arts college. neilson retired from smith in 
+
+Coref Resolved : 
+william allan neilson 18691946 was an american educator and scholar. william allan neilson was the president of smith college from 1910 to 1939 and was a major figure in the development of the modern liberal arts college. william allan neilson was born in 1869 in new york city. william allan neilson attended harvard university where william allan neilson earned william allan neilson bachelors degree in 1891 and william allan neilson masters degree in 1892. william allan neilson then went on to teach at harvard university eventually becoming a professor of english literature. in 1910 william allan neilson was appointed president of smith college a position william allan neilson held until 1939 . during william allan neilson tenure at smith college william allan neilson was instrumental in transforming smith college from a small local institution into a major national university. william allan neilson increased the size of the faculty expanded the curriculum and improved smith college financial stability. william allan neilson also established a number of new programs including the smith college school for social work and the smith college summer school for women workers in industry. william allan neilson was a strong advocate for womens education and william allan neilson was a major figure in the development of the modern liberal arts college. william allan neilson retired from smith college in
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.28205128205128205
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate major_inaccurate minor_inaccurate accurate minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

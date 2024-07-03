@@ -1,0 +1,116 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Spring_and_Autumn_period and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/History_of_China and the value is : 0
+http://dbpedia.org/resource/Spring_and_Autumn_period and http://dbpedia.org/resource/History_of_China and the value is : 1
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Huai_River and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Emperor_Yi_of_Chu and the value is : 0
+http://dbpedia.org/resource/Huai_River and http://dbpedia.org/resource/Emperor_Yi_of_Chu and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/613_BC and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Zhou_dynasty and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Catty and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Guqin and the value is : 0
+http://dbpedia.org/resource/Catty and http://dbpedia.org/resource/Guqin and the value is : 0
+http://dbpedia.org/resource/614_BC and http://dbpedia.org/resource/Standard_Zhuang and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Independence and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Annexation and the value is : 0
+http://dbpedia.org/resource/Independence and http://dbpedia.org/resource/Annexation and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Economy and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Peace and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Chinese_literature and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Monarch and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Spring_and_Autumn_period and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/History_of_China and the value is : 1
+http://dbpedia.org/resource/Monarch and http://dbpedia.org/resource/Spring_and_Autumn_period and the value is : 0
+http://dbpedia.org/resource/Monarch and http://dbpedia.org/resource/History_of_China and the value is : 1
+http://dbpedia.org/resource/Spring_and_Autumn_period and http://dbpedia.org/resource/History_of_China and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Xiong_County and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Tai_Lue_language and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Mi_(surname) and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Posthumous_name and the value is : 0
+http://dbpedia.org/resource/Xiong_County and http://dbpedia.org/resource/Tai_Lue_language and the value is : 0
+http://dbpedia.org/resource/Xiong_County and http://dbpedia.org/resource/Mi_(surname) and the value is : 0
+http://dbpedia.org/resource/Xiong_County and http://dbpedia.org/resource/Posthumous_name and the value is : 0
+http://dbpedia.org/resource/Tai_Lue_language and http://dbpedia.org/resource/Mi_(surname) and the value is : 0
+http://dbpedia.org/resource/Tai_Lue_language and http://dbpedia.org/resource/Posthumous_name and the value is : 0
+http://dbpedia.org/resource/Mi_(surname) and http://dbpedia.org/resource/Posthumous_name and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Hegemony and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Wrest_Park and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Congee and the value is : 0
+http://dbpedia.org/resource/Hegemony and http://dbpedia.org/resource/Wrest_Park and the value is : 0
+http://dbpedia.org/resource/Hegemony and http://dbpedia.org/resource/Congee and the value is : 0
+http://dbpedia.org/resource/Wrest_Park and http://dbpedia.org/resource/Congee and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/613_BC and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Hotel_California_(Eagles_album) and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Hunting and the value is : 0
+http://dbpedia.org/resource/Hotel_California_(Eagles_album) and http://dbpedia.org/resource/Hunting and the value is : 0
+http://dbpedia.org/resource/Senior_Minister and http://dbpedia.org/resource/Standard_Zhuang and the value is : 0
+http://dbpedia.org/resource/Senior_Minister and http://dbpedia.org/resource/Royal_court and the value is : 0
+http://dbpedia.org/resource/Senior_Minister and http://dbpedia.org/resource/Chinese_nationalism and the value is : 0
+http://dbpedia.org/resource/Senior_Minister and http://dbpedia.org/resource/Pride_(Kendrick_Lamar_song) and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Royal_court and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Chinese_nationalism and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Pride_(Kendrick_Lamar_song) and the value is : 0
+http://dbpedia.org/resource/Royal_court and http://dbpedia.org/resource/Chinese_nationalism and the value is : 0
+http://dbpedia.org/resource/Royal_court and http://dbpedia.org/resource/Pride_(Kendrick_Lamar_song) and the value is : 0
+http://dbpedia.org/resource/Chinese_nationalism and http://dbpedia.org/resource/Pride_(Kendrick_Lamar_song) and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Sunshu_Ao and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Chancellor_of_the_Tang_dynasty and the value is : 0
+http://dbpedia.org/resource/Sunshu_Ao and http://dbpedia.org/resource/Chancellor_of_the_Tang_dynasty and the value is : 1
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Sunshu_Ao and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Reservoir and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Anhui and the value is : 0
+http://dbpedia.org/resource/Sunshu_Ao and http://dbpedia.org/resource/Reservoir and the value is : 0
+http://dbpedia.org/resource/Sunshu_Ao and http://dbpedia.org/resource/Anhui and the value is : 0
+http://dbpedia.org/resource/Reservoir and http://dbpedia.org/resource/Anhui and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Annexation and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Yong_(Korean_name) and the value is : 0
+http://dbpedia.org/resource/Annexation and http://dbpedia.org/resource/Yong_(Korean_name) and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Chu_Army and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Houmuwu_ding and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Congee and the value is : 0
+http://dbpedia.org/resource/Chu_Army and http://dbpedia.org/resource/Houmuwu_ding and the value is : 0
+http://dbpedia.org/resource/Chu_Army and http://dbpedia.org/resource/Congee and the value is : 0
+http://dbpedia.org/resource/Houmuwu_ding and http://dbpedia.org/resource/Congee and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Tripod and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Euphemism and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Ultimate_Power and the value is : 0
+http://dbpedia.org/resource/Tripod and http://dbpedia.org/resource/Euphemism and the value is : 0
+http://dbpedia.org/resource/Tripod and http://dbpedia.org/resource/Ultimate_Power and the value is : 0
+http://dbpedia.org/resource/Euphemism and http://dbpedia.org/resource/Ultimate_Power and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Chu_Army and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Catty and the value is : 0
+http://dbpedia.org/resource/Chu_Army and http://dbpedia.org/resource/Catty and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Five_Hegemons and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Regent and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Five_Hegemons and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Chengyu and the value is : 0
+http://dbpedia.org/resource/Regent and http://dbpedia.org/resource/Five_Hegemons and the value is : 0
+http://dbpedia.org/resource/Regent and http://dbpedia.org/resource/Chengyu and the value is : 0
+http://dbpedia.org/resource/Five_Hegemons and http://dbpedia.org/resource/Chengyu and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+zhuang of chu died 621 bc was the last ruler of the state of chu during the spring and autumn period of ancient china. he was the son of king huai of chu and the younger brother of king huai ii. he succeeded his brother in 613 bc and reigned until his death in 621 bc. during his reign zhuang of chu faced numerous challenges from the other states of the zhou dynasty. he was forced to cede territory to the state of jin and was defeated by the state of qin in 614 bc. he also faced internal strife from his own ministers who were divided into two factions. despite these challenges zhuang of chu was able to maintain the independence of chu and kept it from being annexed by the other states. he was also able to expand chus territory and strengthen its economy. zhuang of chu was a wise and capable ruler who was respected by his contemporaries. he was known for his generosity and kindness and was praised for his ability to maintain peace and stability in chu. he was also a patron of the arts and literature 
+
+Coref Resolved : 
+zhuang of chu died 621 bc was the last ruler of chu during the spring and autumn period of ancient china. zhuang of chu was the son of king huai of chu and the younger brother of king huai ii. zhuang of chu succeeded zhuang of chu brother in 613 bc and reigned until zhuang of chu death in 621 bc . during zhuang of chu reign zhuang of chu faced numerous challenges from the other states of the zhou dynasty. zhuang of chu was forced to cede territory to the state of jin and was defeated by the state of qin in 614 bc. zhuang of chu also faced internal strife from zhuang of chu own ministers who were divided into two factions. despite these challenges zhuang of chu was able to maintain the independence of chu and kept chu from being annexed by the other states. zhuang of chu was also able to expand chu territory and strengthen chu economy. zhuang of chu was a wise and capable ruler who was respected by zhuang of chu contemporaries. zhuang of chu was known for zhuang of chu generosity and kindness and was praised for zhuang of chu ability to maintain peace and stability in chu . zhuang of chu was also a patron of the arts and literature
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+king zhuang of chu died 591 bc was a monarch of the zhou dynasty state of chu during the spring and autumn period of ancient chinese history. his personal name was xiong lü ancestral name mi 芈 and king zhuang was his posthumous title. he became one of the five hegemons and attempted to wrest control of china from the king of zhou. king zhuang ascended the throne in 613 bc at a time when the kingdom of chu was in disarray. for the first three years of his reign zhuang wasted time on excessive hunting and lavish partying. several courtiers were anxious about the king but none dared speak up as he had given orders that anyone who challenged his authority would be killed. when a particularly senior minister challenged him through a riddle the king responded that he had been waiting for three years for someone from his court to show some nationalistic pride. the king made sunshu ao chancellor and began a series of reforms. chus agricultural output improved significantly during his reign aided by sunshu aos comprehensive damworks and an enormous planned reservoir created in modernday northern anhui province. in 611 bc he annexed the state of yong 庸国 a move which made chu much stronger. after some overwhelming victories at the head of his army king zhuang attempted to take the place of king ding of zhou. he asked a messenger from zhou about the weight of the nine tripod cauldrons which zhou possessed a euphemism for seeking ultimate power in china at the time but was rebuffed. in the battle of bi his army defeated the state of jin another strong state at that time. later he achieved hegemony amongst some other states. his progress from lazy regent to a hegemon of his time gave rise to the chinese fourcharacter idiom of yī mǐng jīng rén 一冥而惊人. 
+
+Coref Resolved : 
+king zhuang of chu died 591 bc was a monarch of chu during the spring and autumn period of ancient chinese history. king zhuang of chu personal name was xiong lü ancestral name mi 芈 and king zhuang was king zhuang of chu posthumous title. king zhuang of chu became one of the five hegemons and attempted to wrest control of china from the king of zhou. king zhuang of chu ascended the throne in 613 bc at a time when chu was in disarray. for the first three years of king zhuang of chu reign king zhuang of chu wasted time on excessive hunting and lavish partying. several courtiers were anxious about king zhuang of chu but none dared speak up as king zhuang of chu had given orders that anyone who challenged king zhuang of chu authority would be killed. when a particularly senior minister challenged king zhuang of chu through a riddle king zhuang of chu responded that king zhuang of chu had been waiting for three years for someone from king zhuang of chu court to show some nationalistic pride. king zhuang of chu made sunshu ao chancellor and began a series of reforms. chu agricultural output improved significantly during king zhuang of chu reign aided by sunshu ao comprehensive damworks and an enormous planned reservoir created in modernday northern anhui province. in 611 bc king zhuang of chu annexed the state of yong 庸国 a move which made chu much stronger. after some overwhelming victories at the head of king zhuang of chu army king zhuang of chu attempted to take the place of king ding of zhou. king zhuang of chu asked a messenger from zhouabout the weight of the nine tripod cauldrons which zhoupossessed a euphemism for seeking ultimate power in china at the time but was rebuffed. in the battle of bi king zhuang of chu army defeated the state of jin another strong state at that time. later king zhuang of chu achieved hegemony amongst some other states. king zhuang of chu progress from lazy regent to a hegemon of king zhuang of chu time gave rise to the chinese fourcharacter idiom of yī mǐng jīng rén 一冥而惊人.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1111111111111111 and for ground truth is : 0.04285714285714286
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate accurate accurate accurate accurate minor_inaccurate 
+

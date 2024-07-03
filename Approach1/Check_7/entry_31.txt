@@ -1,0 +1,71 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/St_Mirren_F.C. and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/Glasgow and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 1
+http://dbpedia.org/resource/Glasgow and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/St_Mirren_F.C. and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/Scottish_Cup and http://dbpedia.org/resource/St_Mirren_F.C. and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Five-prime_cap and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Five-prime_cap and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 0
+http://dbpedia.org/resource/Five-prime_cap and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Aberdeen_F.C. and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/SATB and the value is : 1
+http://dbpedia.org/resource/Aberdeen_F.C. and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Cap_(sport) and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Rutherglen and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Aberdeen_F.C. and the value is : 1
+http://dbpedia.org/resource/Autobiography and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Aberdeen_F.C. and the value is : 1
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Exhibition_game and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Belgium and the value is : 1
+http://dbpedia.org/resource/Exhibition_game and http://dbpedia.org/resource/Belgium and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scotland_national_football_team and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Jimmy_Delaney and the value is : 0
+http://dbpedia.org/resource/Scotland_national_football_team and http://dbpedia.org/resource/Jimmy_Delaney and the value is : 1
+http://dbpedia.org/resource/Players_International and http://dbpedia.org/resource/Archie_Baird and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Aberdeen_F.C. and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scottish_League_Cup and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scottish_Football_League_XI and the value is : 0
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Scottish_Cup and the value is : 1
+http://dbpedia.org/resource/Aberdeen_F.C. and http://dbpedia.org/resource/Scottish_League_Cup and the value is : 1
+http://dbpedia.org/resource/Aberdeen_F.C. and http://dbpedia.org/resource/Scottish_Football_League_XI and the value is : 0
+http://dbpedia.org/resource/Aberdeen_F.C. and http://dbpedia.org/resource/Scottish_Cup and the value is : 0
+http://dbpedia.org/resource/Scottish_League_Cup and http://dbpedia.org/resource/Scottish_Football_League_XI and the value is : 0
+http://dbpedia.org/resource/Scottish_League_Cup and http://dbpedia.org/resource/Scottish_Cup and the value is : 1
+http://dbpedia.org/resource/Scottish_Football_League_XI and http://dbpedia.org/resource/Scottish_Cup and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Sports_journalism and the value is : 1
+http://dbpedia.org/resource/Archie_Baird and http://dbpedia.org/resource/Sleep and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+archie baird 18901962 scottish footballer played rangers st mirren scotland . born glasgow began career rangers 1910 . debut club scottish cup tie st mirren 1911 . went 200 appearances club winning scottish league titles scottish cups . baird capped seven times scotland making debut england 1912 . represented scottish league xi occasions . left rangers 1923 joined st mirren 100 appearances retiring 1927 . died 1962 . 
+
+Coref Resolved : 
+archie baird 18901962 scottish footballer played rangers st mirren scotland . born glasgow began career rangers st mirren scotland 1910 . debut club scottish cup tie rangers st mirren 1911 . went 200 appearances club winning scottish league titles scottish cups . archie baird 18901962 scottish footballer capped seven times scotland making debut england 1912 . represented scottish league xi occasions . left rangers 1923 joined rangers st mirren 100 appearances retiring 1927 . died 1962 .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+archie baird 8 1919 3 november 2009 scottish association football player played aberdeen st . johnstone . capped scotland national football team . baird born rutherglen . baird signed aberdeen second world war war started team . joined british army captured held prisoner war . escaped lived italian family son . 1989 published autobiography family described experiences . baird returned aberdeen end war . good form period earned selection scotland friendly match belgium early 1946 . baird scotland players making international debut match jimmy delaney having significant experience . debutants players international appearance including baird . baird helped aberdeen win southern league cup forerunner scottish league cup 1946 1947 scottish cup appearances restricted injuries . 104 league appearances aberdeen scoring 26 goals matches . transferred 1953 st . johnstone played seasons retiring 1956 . retiring player baird worked teacher sports journalist . baird celebrated 90th birthday 2009 died quietly sleep 3 november 2009 . 
+
+Coref Resolved : 
+archie baird 8 1919 3 november 2009 archie baird played aberdeen st . johnstone . capped scotland national football team . archie baird born rutherglen . archie baird signed aberdeen second world war war started team . joined british army captured held prisoner war . escaped lived italian family son . 1989 published autobiography family described experiences . archie baird returned aberdeen end war . good form period earned selection scotland friendly match belgium early 1946 . archie baird scotland players making international debut match jimmy delaney having significant experience . debutants players international appearance including archie baird . archie baird helped aberdeen win southern league cup forerunner scottish league cup 1946 1947 scottish cup appearances restricted injuries . 104 league appearances aberdeen scoring 26 goals matches . transferred 1953 st . johnstone played seasons retiring 1956 . retiring player archie baird worked teacher sports journalist . archie baird celebrated 90th birthday 2009 died quietly sleep 3 november 2009 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.6875 and for ground truth is : 0.5185185185185185
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

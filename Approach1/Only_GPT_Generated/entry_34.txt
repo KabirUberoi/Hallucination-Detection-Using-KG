@@ -1,0 +1,73 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Forgiveness and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Forgiveness and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Forgiveness and the value is : 1
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Christian_theology and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Sacrifice and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Forgiveness and the value is : 1
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Christian_theology and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Sacrifice and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Christian_theology and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Sacrifice and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 0
+http://dbpedia.org/resource/Christian_theology and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Christian_theology and http://dbpedia.org/resource/Sacrifice and the value is : 0
+http://dbpedia.org/resource/Christian_theology and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 0
+http://dbpedia.org/resource/Symbol and http://dbpedia.org/resource/Sacrifice and the value is : 0
+http://dbpedia.org/resource/Symbol and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 0
+http://dbpedia.org/resource/Sacrifice and http://dbpedia.org/resource/Substitutionary_atonement and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Latin and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Forgiveness and the value is : 1
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Eucharist and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Rite and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Body_of_Christ and the value is : 1
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Sacramental_wine and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Forgiveness and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Eucharist and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Rite and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Body_of_Christ and the value is : 1
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Sacramental_wine and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Eucharist and the value is : 1
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Rite and the value is : 1
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Body_of_Christ and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Sacramental_wine and the value is : 1
+http://dbpedia.org/resource/Eucharist and http://dbpedia.org/resource/Rite and the value is : 0
+http://dbpedia.org/resource/Eucharist and http://dbpedia.org/resource/Body_of_Christ and the value is : 0
+http://dbpedia.org/resource/Eucharist and http://dbpedia.org/resource/Sacramental_wine and the value is : 1
+http://dbpedia.org/resource/Rite and http://dbpedia.org/resource/Body_of_Christ and the value is : 0
+http://dbpedia.org/resource/Rite and http://dbpedia.org/resource/Sacramental_wine and the value is : 1
+http://dbpedia.org/resource/Body_of_Christ and http://dbpedia.org/resource/Sacramental_wine and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Forgiveness and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Blood and http://dbpedia.org/resource/Christian_Church and the value is : 1
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Forgiveness and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Christian_Church and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Symbol and the value is : 0
+http://dbpedia.org/resource/Forgiveness and http://dbpedia.org/resource/Christian_Church and the value is : 0
+http://dbpedia.org/resource/Symbol and http://dbpedia.org/resource/Christian_Church and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+the blood divine is a term used to refer to the blood of jesus christ which is believed to have been shed for the remission of sins. it is a central part of christian theology and is seen as a symbol of the sacrificial death of jesus and the atonement of sins. the term is derived from the latin sanguis divinus which literally translates to divine blood. the concept of the blood divine is closely related to the concept of the eucharist which is the ritual of consuming bread and wine in remembrance of jesus death. the blood divine is also seen as a symbol of the unity of the church as it is believed to be shared by all believers. 
+
+Coref Resolved : 
+the blood divine is a term used to refer to the blood of jesus christ which is believed to have been shed for the remission of sins. the blood of jesus christ which is believed to have been shed for the remission of sinsis a central part of christian theology and is seen as a symbol of the sacrificial death of jesus christ and the atonement of sins. the blood divine is derived from the latin sanguis divinus which literally translates to divine blood. the concept of the blood of jesus christ which is believed to have been shed for the remission of sinsis closely related to the concept of the eucharist which is the ritual of consuming bread and wine in remembrance of jesus christ death. the blood of jesus christ which is believed to have been shed for the remission of sinsis also seen as a symbol of the unity of the church as the blood of jesus christ which is believed to have been shed for the remission of sinsis believed to be shared by all believers.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21428571428571427
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

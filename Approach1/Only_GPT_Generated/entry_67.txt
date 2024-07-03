@@ -1,0 +1,54 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Indian_independence_movement and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Subhas_Chandra_Bose and http://dbpedia.org/resource/Indian_independence_movement and the value is : 0
+http://dbpedia.org/resource/Subhas_Chandra_Bose and http://dbpedia.org/resource/Lawyer and the value is : 1
+http://dbpedia.org/resource/Subhas_Chandra_Bose and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Indian_independence_movement and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Indian_independence_movement and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Village and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Kanchrapara and the value is : 0
+http://dbpedia.org/resource/Subhas_Chandra_Bose and http://dbpedia.org/resource/Village and the value is : 0
+http://dbpedia.org/resource/Subhas_Chandra_Bose and http://dbpedia.org/resource/Kanchrapara and the value is : 0
+http://dbpedia.org/resource/Village and http://dbpedia.org/resource/Kanchrapara and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 1
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Kolkata and the value is : 1
+http://dbpedia.org/resource/Subhas_Chandra_Bose and http://dbpedia.org/resource/Kolkata and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Indian_National_Congress and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Swaraj_Party and the value is : 0
+http://dbpedia.org/resource/Subhas_Chandra_Bose and http://dbpedia.org/resource/Indian_National_Congress and the value is : 1
+http://dbpedia.org/resource/Subhas_Chandra_Bose and http://dbpedia.org/resource/Swaraj_Party and the value is : 0
+http://dbpedia.org/resource/Indian_National_Congress and http://dbpedia.org/resource/Swaraj_Party and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 1
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Constituent_Assembly_of_India and the value is : 0
+http://dbpedia.org/resource/Subhas_Chandra_Bose and http://dbpedia.org/resource/Constituent_Assembly_of_India and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 0
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 1
+http://dbpedia.org/resource/Ānanda and http://dbpedia.org/resource/Subhas_Chandra_Bose and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+c. v. ananda bose 18861954 was an indian freedom fighter lawyer and politician. he was born in 1886 in the village of kanchrapara in bengal. he was educated at the university of calcutta and the university of london. he was a member of the indian national congress and was a leader of the swaraj party. he was a member of the constituent assembly of india and was a member of the indian delegation to the united nations in 1948. he was a member of the indian delegation to the united nations in 1950. he was a member of the indian delegation to the united nations in 1951. he was a member of the indian delegation to the united nations in 1952. he was a member of the indian delegation to the united nations in 1953. he was a member of the indian delegation to the united nations in 1954. he was a member of the indian delegation to the united nations in 1955. he was a member of the indian delegation to the united nations in 1956. he was a member of the indian delegation to the united nations in 1957. he was a 
+
+Coref Resolved : 
+c. v. ananda bose 18861954 was an indian freedom fighter lawyer and politician. c. v. ananda bose was born in 1886 in the village of kanchrapara in bengal. c. v. ananda bose was educated at the university of calcutta and the university of london. c. v. ananda bose was a member of the indian national congress and was a leader of the swaraj party. c. v. ananda bose was a member of the constituent assembly of india and was a member of the indian delegation to the united nations in 1948. c. v. ananda bose was a member of the indian delegation to the united nations in 1950. c. v. ananda bose was a member of the indian delegation to the united nations in 1951. c. v. ananda bose was a member of the indian delegation to the united nations in 1952. c. v. ananda bose was a member of the indian delegation to the united nations in 1953. c. v. ananda bose was a member of the indian delegation to the united nations in 1954. c. v. ananda bose was a member of the indian delegation to the united nations in 1955. c. v. ananda bose was a member of the indian delegation to the united nations in 1956. c. v. ananda bose was a member of the indian delegation to the united nations in 1957. c. v. ananda bose was a
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16216216216216217
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

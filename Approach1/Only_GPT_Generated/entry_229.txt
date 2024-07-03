@@ -1,0 +1,56 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Vallely and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Vallely and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Houston_Cougars_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Houston_Cougars_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Atlanta_Hawks and http://dbpedia.org/resource/Houston_Cougars_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and the value is : 1
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 1
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 1
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Volleyball and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 0
+http://dbpedia.org/resource/Volleyball and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Houston_Cougars_men's_basketball and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Sociology and the value is : 0
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 1
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/Sociology and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Sociology and the value is : 0
+http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and http://dbpedia.org/resource/Sociology and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Scouting and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/Houston_Cougars_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Scouting and http://dbpedia.org/resource/Houston_Cougars_men's_basketball and the value is : 0
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 1
+http://dbpedia.org/resource/California_Golden_Bears_men's_basketball and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Lakers and http://dbpedia.org/resource/UCLA_Bruins_men's_basketball and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john vallely born april 28 1947 is an american former professional basketball player. he played in the national basketball association nba from 1970 to 1980 as a guard for the los angeles lakers atlanta hawks and houston rockets. vallely was born in los angeles california. he attended the university of california los angeles ucla where he was a member of the schools 196970 ncaa championship team. he was selected by the lakers in the second round of the 1970 nba draft. vallely played in the nba for 10 seasons averaging 8.2 points 3.2 assists and 2.2 rebounds per game. he was a member of the lakers 197273 championship team and was a part of the rockets 197980 championship team. vallely retired from the nba in 1980 and returned to ucla to complete his degree in sociology. he later worked as a broadcaster for the lakers and as a scout for the rockets. he was inducted into the ucla athletics hall of fame in 2003. 
+
+Coref Resolved : 
+john vallely born april 28 1947 is an american former professional basketball player. he played in the national basketball association nba from 1970 to 1980 as a guard for the los angeles lakers atlanta hawks and houston rockets. he was born in los angeles california. he attended the university of california los angeles ucla where he was a member of the university of california los angeles ucla 196970 ncaa championship team. he was selected by los angeles lakers in the second round of the 1970 the national basketball association nba draft. he played in the national basketball association nba for 10 seasons averaging 8.2 points 3.2 assists and 2.2 rebounds per game. he was a member of the los angeles lakers 197273 championship team and was a part of houston rockets197980 championship team. he retired from the national basketball association nba in 1980 and returned to the university of california los angeles ucla to complete he degree in sociology. he later worked as a broadcaster for los angeles lakers and as a scout for houston rockets. he was inducted into the the university of california los angeles ucla athletics hall of fame in 2003.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.4358974358974359
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

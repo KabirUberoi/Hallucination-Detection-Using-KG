@@ -1,0 +1,129 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Stuart_Scott and http://dbpedia.org/resource/Sports_commentator and the value is : 0
+http://dbpedia.org/resource/Stuart_Scott and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Stuart_Scott and http://dbpedia.org/resource/SportsCenter and the value is : 0
+http://dbpedia.org/resource/Sports_commentator and http://dbpedia.org/resource/ESPN and the value is : 1
+http://dbpedia.org/resource/Sports_commentator and http://dbpedia.org/resource/SportsCenter and the value is : 1
+http://dbpedia.org/resource/ESPN and http://dbpedia.org/resource/SportsCenter and the value is : 0
+http://dbpedia.org/resource/Stuart_Scott and http://dbpedia.org/resource/Hip_hop and the value is : 1
+http://dbpedia.org/resource/Stuart_Scott and http://dbpedia.org/resource/Booyah_(stew) and the value is : 1
+http://dbpedia.org/resource/Stuart_Scott and http://dbpedia.org/resource/Pillow and the value is : 0
+http://dbpedia.org/resource/Hip_hop and http://dbpedia.org/resource/Booyah_(stew) and the value is : 1
+http://dbpedia.org/resource/Hip_hop and http://dbpedia.org/resource/Pillow and the value is : 1
+http://dbpedia.org/resource/Booyah_(stew) and http://dbpedia.org/resource/Pillow and the value is : 0
+http://dbpedia.org/resource/Stuart_Scott and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Stuart_Scott and http://dbpedia.org/resource/Sunday_NFL_Countdown and the value is : 0
+http://dbpedia.org/resource/Stuart_Scott and http://dbpedia.org/resource/NBA_Countdown and the value is : 1
+http://dbpedia.org/resource/Stuart_Scott and http://dbpedia.org/resource/Baseball_Tonight and the value is : 0
+http://dbpedia.org/resource/ESPN and http://dbpedia.org/resource/Sunday_NFL_Countdown and the value is : 0
+http://dbpedia.org/resource/ESPN and http://dbpedia.org/resource/NBA_Countdown and the value is : 1
+http://dbpedia.org/resource/ESPN and http://dbpedia.org/resource/Baseball_Tonight and the value is : 0
+http://dbpedia.org/resource/Sunday_NFL_Countdown and http://dbpedia.org/resource/NBA_Countdown and the value is : 1
+http://dbpedia.org/resource/Sunday_NFL_Countdown and http://dbpedia.org/resource/Baseball_Tonight and the value is : 1
+http://dbpedia.org/resource/NBA_Countdown and http://dbpedia.org/resource/Baseball_Tonight and the value is : 0
+http://dbpedia.org/resource/Stuart_Scott and http://dbpedia.org/resource/2014_ESPY_Awards and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Sports_commentator and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/SportsCenter and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/Sports_commentator and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/SportsCenter and the value is : 1
+http://dbpedia.org/resource/Sports_commentator and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Sports_commentator and http://dbpedia.org/resource/SportsCenter and the value is : 0
+http://dbpedia.org/resource/ESPN and http://dbpedia.org/resource/SportsCenter and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Hip_hop and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/College_football and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/National_Football_League and the value is : 1
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/Hip_hop and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/ESPN and the value is : 1
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/College_football and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Hip_hop and http://dbpedia.org/resource/ESPN and the value is : 1
+http://dbpedia.org/resource/Hip_hop and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Hip_hop and http://dbpedia.org/resource/College_football and the value is : 0
+http://dbpedia.org/resource/Hip_hop and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/ESPN and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/ESPN and http://dbpedia.org/resource/College_football and the value is : 0
+http://dbpedia.org/resource/ESPN and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/College_football and the value is : 0
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/College_football and http://dbpedia.org/resource/National_Football_League and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Television_station and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/Television_station and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Television_station and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Alice_Springs and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and the value is : 0
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Hip_hop and the value is : 1
+http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census and http://dbpedia.org/resource/Television and the value is : 1
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Hip_hop and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/Hip_hop and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Hip_hop and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Radio_programming and the value is : 1
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/ESPN and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/Radio_programming and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/ESPN and http://dbpedia.org/resource/Radio_programming and the value is : 0
+http://dbpedia.org/resource/ESPN and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Radio_programming and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Appendectomy and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Addendum and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/Appendectomy and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/Addendum and the value is : 0
+http://dbpedia.org/resource/Appendectomy and http://dbpedia.org/resource/Addendum and the value is : 0
+http://dbpedia.org/resource/Cure and http://dbpedia.org/resource/Alice_Springs and the value is : 0
+http://dbpedia.org/resource/Cure and http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and the value is : 0
+http://dbpedia.org/resource/Cure and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/ESPY_Award and the value is : 0
+http://dbpedia.org/resource/Alice_Springs and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/ESPY_Award and the value is : 0
+http://dbpedia.org/resource/Scotts_Miracle-Gro_Company and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/ESPY_Award and http://dbpedia.org/resource/Cancer and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+stuart scott july 19 1965 january 4 2015 was an american sportscaster and anchor on espn most notably on the networks sportscenter. well known for his hiphop style and use of catchphrases such as booyah and as cool as the other side of the pillow scott was a regular presence on sportscenter from 1993 until his death in 2015. he was also a contributor to espns sunday nfl countdown nba countdown and baseball tonight. he was honored with the jimmy v award for perseverance at the 2014 espy awards. 
+
+Coref Resolved : 
+stuart scott july 19 1965 january 4 2015 was an american sportscaster and anchor on espn most notably on the networks sportscenter. well known for stuart scott hiphop style and use of catchphrases such as booyah and as cool as the other side of the pillow stuart scott was a regular presence on the networks sportscenterfrom 1993 until stuart scott death in 2015. stuart scott was also a contributor to espn sunday nfl countdown nba countdown and baseball tonight. stuart scott was honored with the jimmy v award for perseverance at the 2014 espy awards.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+stuart orlando scott july 19 1965 january 4 2015 was an american sportscaster and anchor on espn most notably on sportscenter. wellknown for his hiphop style and use of catchphrases scott was also a regular for the network in its national basketball association nba and national football league nfl coverage. scott grew up in north carolina and graduated from the university of north carolina at chapel hill. he began his career with various local television stations before joining espn in 1993. although there were already accomplished africanamerican sportscasters his blending of hiphop with sportscasting was unique for television. by 2008 he was a staple in espns programming and also began on abc as lead host for their coverage of the nba. in 2007 scott had an appendectomy and learned that his appendix was cancerous. after going into remission he was again diagnosed with cancer in 2011 and 2013. scott was honored at the espy awards in 2014 with the jimmy v award for his fight against cancer shortly before his death in 2015 at the age of 49. 
+
+Coref Resolved : 
+stuart orlando scott july 19 1965 january 4 2015 was an american sportscaster and anchor on espn most notably on sportscenter. wellknown for stuart orlando scott hiphop style and use of catchphrases stuart orlando scott was also a regular for espn in espn national basketball association nba and national football league nfl coverage. stuart orlando scott grew up in north carolina and graduated from the university of north carolina at chapel hill. stuart orlando scott began stuart orlando scott career with various local television stations before joining espn in 1993. although there were already accomplished africanamerican sportscasters stuart orlando scott blending of hiphop with sportscasting was unique for television. by 2008 stuart orlando scott was a staple in espn programming and also began on abc as lead host for abc coverage of national basketball association nba . in 2007 stuart orlando scott had an appendectomy and learned that stuart orlando scott appendix was cancerous. after going into remission stuart orlando scott was again diagnosed with cancer in 2011 and 2013. stuart orlando scott was honored at the espy awards in 2014 with the jimmy v award for stuart orlando scott fight against cancer shortly before stuart orlando scott death in 2015 at the age of 49.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.4782608695652174 and for ground truth is : 0.08974358974358974
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate 
+

@@ -1,0 +1,48 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Democratic_socialism and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Vice_President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/William_Jennings_Bryan and the value is : 0
+http://dbpedia.org/resource/Democratic_socialism and http://dbpedia.org/resource/Vice_President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Democratic_socialism and http://dbpedia.org/resource/William_Jennings_Bryan and the value is : 0
+http://dbpedia.org/resource/Vice_President_of_the_United_States and http://dbpedia.org/resource/William_Jennings_Bryan and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Samuel_Sewall and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Bowdoin_College and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Family and the value is : 1
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Sawmill and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Shipbuilding and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Olivia_Benson and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Sawmill and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Shipbuilding and the value is : 1
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Olivia_Benson and the value is : 0
+http://dbpedia.org/resource/Sawmill and http://dbpedia.org/resource/Shipbuilding and the value is : 0
+http://dbpedia.org/resource/Sawmill and http://dbpedia.org/resource/Olivia_Benson and the value is : 0
+http://dbpedia.org/resource/Shipbuilding and http://dbpedia.org/resource/Olivia_Benson and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/1896_Democratic_National_Convention and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Democratic_socialism and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Vice_President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/William_Jennings_Bryan and the value is : 0
+http://dbpedia.org/resource/Democratic_socialism and http://dbpedia.org/resource/Vice_President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Democratic_socialism and http://dbpedia.org/resource/William_Jennings_Bryan and the value is : 0
+http://dbpedia.org/resource/Vice_President_of_the_United_States and http://dbpedia.org/resource/William_Jennings_Bryan and the value is : 1
+http://dbpedia.org/resource/Republicanism and http://dbpedia.org/resource/William_McKinley and the value is : 0
+http://dbpedia.org/resource/Republicanism and http://dbpedia.org/resource/Garret_Hobart and the value is : 0
+http://dbpedia.org/resource/William_McKinley and http://dbpedia.org/resource/Garret_Hobart and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+arthur sewall august 9 1835 april 14 1900 was an american businessman and politician from maine. he was the democratic partys nominee for vice president of the united states in 1896 running on a ticket with william jennings bryan. sewall was born in bath maine the son of hannah and samuel sewall. he attended bowdoin college graduating in 1856. he then worked in the family lumber business and later became a partner in the shipbuilding firm of sewall benson. he was a member of the maine house of representatives from 1871 to 1872 and served in the maine senate from 1873 to 1874. he was a delegate to the democratic national convention in 1876 and 1880. in 1896 sewall was chosen as the democratic vice presidential nominee running with william jennings bryan. the ticket was defeated by the republican ticket of william mckinley and garret hobart. sewall died in 1900 in bath maine. 
+
+Coref Resolved : 
+arthur sewall august 9 1835 april 14 1900 was an american businessman and politician from maine. arthur sewall was the democratic partys nominee for vice president of the united states in 1896 running on a ticket with william jennings bryan. arthur sewall was born in bath maine the son of hannah and samuel sewall. arthur sewall attended bowdoin college graduating in 1856. arthur sewall then worked in the family lumber business and later became a partner in the shipbuilding firm of sewall benson. arthur sewall was a member of the mainehouse of representatives from 1871 to 1872 and served in the mainesenate from 1873 to 1874. arthur sewall was a delegate to the democratic national convention in 1876 and 1880. in 1896 arthur sewall was chosen as the democratic vice presidential nominee running with william jennings bryan. a ticket with william jennings bryanwas defeated by the republican ticket of william mckinley and garret hobart. arthur sewall died in 1900 in bath maine .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0967741935483871
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate accurate accurate accurate 
+

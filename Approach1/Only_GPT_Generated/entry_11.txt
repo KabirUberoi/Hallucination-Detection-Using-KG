@@ -1,0 +1,50 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Science_fiction and the value is : 1
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Fantasy and the value is : 1
+http://dbpedia.org/resource/Science_fiction and http://dbpedia.org/resource/Fantasy and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Iron and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Otherwise_Award and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Nebula_Award and the value is : 1
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Otherwise_Award and the value is : 0
+http://dbpedia.org/resource/Iron and http://dbpedia.org/resource/Nebula_Award and the value is : 0
+http://dbpedia.org/resource/Otherwise_Award and http://dbpedia.org/resource/Nebula_Award and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Wrestling_ring and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Sword and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Metalsmith and the value is : 1
+http://dbpedia.org/resource/Wrestling_ring and http://dbpedia.org/resource/Sword and the value is : 0
+http://dbpedia.org/resource/Wrestling_ring and http://dbpedia.org/resource/Metalsmith and the value is : 1
+http://dbpedia.org/resource/Sword and http://dbpedia.org/resource/Metalsmith and the value is : 1
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Nebula_Award and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and the value is : 1
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/Nebula_Award and the value is : 0
+http://dbpedia.org/resource/Short_story and http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and the value is : 0
+http://dbpedia.org/resource/Nebula_Award and http://dbpedia.org/resource/Nebula_Award_for_Best_Novelette and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Gender and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Ecology and the value is : 1
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Native_Americans_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/Gender and http://dbpedia.org/resource/Ecology and the value is : 0
+http://dbpedia.org/resource/Gender and http://dbpedia.org/resource/Native_Americans_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Ecology and http://dbpedia.org/resource/Native_Americans_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Science_fiction and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Fantasy and the value is : 0
+http://dbpedia.org/resource/Eleanor_Arnason and http://dbpedia.org/resource/Storytelling and the value is : 0
+http://dbpedia.org/resource/Science_fiction and http://dbpedia.org/resource/Fantasy and the value is : 0
+http://dbpedia.org/resource/Science_fiction and http://dbpedia.org/resource/Storytelling and the value is : 1
+http://dbpedia.org/resource/Fantasy and http://dbpedia.org/resource/Storytelling and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+eleanor arnason born 1942 is an american science fiction and fantasy writer. she is best known for her novel a woman of the iron people 1991 which won the james tiptree jr. award and was a finalist for the nebula award for best novel. her other works include ring of swords 1993 the sword smith 1998 and the hound of merin 2002. she has also written several short stories including dapple 1991 which won the nebula award for best novelette. arnasons work often focuses on themes of gender ecology and native american culture. she has been praised for her ability to combine elements of science fiction and fantasy with traditional storytelling. 
+
+Coref Resolved : 
+eleanor arnason born 1942 is an american science fiction and fantasy writer. eleanor arnason born 1942 is best known for eleanor arnason born 1942 novel a woman of the iron people 1991 which won the james tiptree jr. award and was a finalist for the nebula award for best novel. eleanor arnason born 1942 other works include ring of swords 1993 the sword smith 1998 and the hound of merin 2002. eleanor arnason born 1942 has also written several short stories including dapple 1991 which won the nebula award for best novelette. eleanor arnason born 1942 work often focuses on themes of gender ecology and native american culture. eleanor arnason born 1942 has been praised for eleanor arnason born 1942 ability to combine elements of science fiction and fantasy with traditional storytelling.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3333333333333333
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate accurate 
+

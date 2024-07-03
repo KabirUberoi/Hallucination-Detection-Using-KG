@@ -1,0 +1,68 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Crime_family and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Crime_family and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 0
+http://dbpedia.org/resource/Crime_family and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Lance_Corporal_Jones and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Crime_family and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Crime_family and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Crime_family and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 0
+http://dbpedia.org/resource/Crime_family and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/Lance_Corporal_Jones and http://dbpedia.org/resource/Paper and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Laboratory and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Clapp_Hall and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Dormitory and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Clapp_Memorial_Library and the value is : 0
+http://dbpedia.org/resource/Laboratory and http://dbpedia.org/resource/Clapp_Hall and the value is : 0
+http://dbpedia.org/resource/Laboratory and http://dbpedia.org/resource/Dormitory and the value is : 0
+http://dbpedia.org/resource/Laboratory and http://dbpedia.org/resource/Clapp_Memorial_Library and the value is : 0
+http://dbpedia.org/resource/Clapp_Hall and http://dbpedia.org/resource/Dormitory and the value is : 1
+http://dbpedia.org/resource/Clapp_Hall and http://dbpedia.org/resource/Clapp_Memorial_Library and the value is : 0
+http://dbpedia.org/resource/Dormitory and http://dbpedia.org/resource/Clapp_Memorial_Library and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philadelphia_Orchestra and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Fine_art and the value is : 1
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Philadelphia_Orchestra and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Fine_art and the value is : 1
+http://dbpedia.org/resource/Philadelphia_Orchestra and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Orchestra and http://dbpedia.org/resource/Fine_art and the value is : 0
+http://dbpedia.org/resource/University_of_Pennsylvania and http://dbpedia.org/resource/Fine_art and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Union_League_of_Philadelphia and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philadelphia and the value is : 1
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/George_Hubbard_Clapp and http://dbpedia.org/resource/Philadelphia_Club and the value is : 1
+http://dbpedia.org/resource/Union_League_of_Philadelphia and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/Union_League_of_Philadelphia and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 1
+http://dbpedia.org/resource/Union_League_of_Philadelphia and http://dbpedia.org/resource/Philadelphia_Club and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/University_of_Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Philadelphia and http://dbpedia.org/resource/Philadelphia_Club and the value is : 1
+http://dbpedia.org/resource/University_of_Pennsylvania and http://dbpedia.org/resource/Philadelphia_Club and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+george hubbard clapp 18581941 was an american businessman and philanthropist. he was born in philadelphia pennsylvania and attended the university of pennsylvania. after graduating he worked in the family business clapp jones a manufacturer of paper and paper products. he eventually became president of the company. clapp was a major philanthropist donating to a variety of causes. he was a major benefactor of the university of pennsylvania donating money for the construction of the george h. clapp laboratory the clapp hall dormitory and the clapp memorial library. he also donated to the philadelphia museum of art the philadelphia orchestra and the pennsylvania academy of the fine arts. he was a member of the union league of philadelphia and the philadelphia club. he died in 1941. 
+
+Coref Resolved : 
+george hubbard clapp 18581941 was an american businessman and philanthropist. george hubbard clapp was born in philadelphia pennsylvania and attended the university of pennsylvania. after graduating george hubbard clapp worked in the family business clapp jones a manufacturer of paper and paper products. george hubbard clapp eventually became president of the family business clapp jones a manufacturer of paper and paper products. george hubbard clapp was a major philanthropist donating to a variety of causes. george hubbard clapp was a major benefactor of the university of pennsylvaniadonating money for the construction of the george hubbard clapp laboratory the clapp hall dormitory and the clapp memorial library. george hubbard clapp also donated to the philadelphia museum of art the philadelphia orchestra and the pennsylvania academy of the fine arts. george hubbard clapp was a member of the union league of philadelphia pennsylvania and the philadelphia club. george hubbard clapp died in 1941.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1568627450980392
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

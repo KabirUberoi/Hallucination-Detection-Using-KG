@@ -1,0 +1,38 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Journalist and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Tank and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Bilateralism and the value is : 0
+http://dbpedia.org/resource/Tank and http://dbpedia.org/resource/Bilateralism and the value is : 1
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Senate and the value is : 1
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Senate and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/National_Assembly_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/National_Assembly_of_Pakistan and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Pakistan_Muslim_League_(N) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+mushahid hussain syed born 1 april 1947 is a pakistani politician and journalist who served as a senator from 1985 to 2018. he was the secretary general of the pakistan muslim league pml from 2002 to 2008 and the minister for information and broadcasting from 2008 to 2013. he is currently the chairman of the pakistanchina institute a think tank dedicated to promoting bilateral relations between the two countries. he is also the chairman of the senate standing committee on foreign affairs. he is a former member of the national assembly of pakistan and a former member of the senate of pakistan. he is a prominent leader of the pakistan muslim league nawaz. 
+
+Coref Resolved : 
+mushahid hussain syed born 1 april 1947 is a pakistani politician and journalist who served as a senator from 1985 to 2018. mushahid hussain syed was the secretary general of the pakistan muslim league pml from 2002 to 2008 and the minister for information and broadcasting from 2008 to 2013. mushahid hussain syed is currently the chairman of the pakistanchina institute a think tank dedicated to promoting bilateral relations between the two countries. mushahid hussain syed is also the chairman of the senate standing committee on foreign affairs. mushahid hussain syed is a former member of the national assembly of pakistan and a former member of the senate of pakistan . mushahid hussain syed is a prominent leader of the pakistan muslim league nawaz.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.14285714285714285
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate accurate accurate 
+

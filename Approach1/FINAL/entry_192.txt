@@ -1,0 +1,174 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Film_producer and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Film_producer and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Social_network and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Amazing_Stories and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Spider-Man and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Social_network and http://dbpedia.org/resource/Amazing_Stories and the value is : 0
+http://dbpedia.org/resource/Social_network and http://dbpedia.org/resource/Spider-Man and the value is : 0
+http://dbpedia.org/resource/Social_network and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Amazing_Stories and http://dbpedia.org/resource/Spider-Man and the value is : 1
+http://dbpedia.org/resource/Amazing_Stories and http://dbpedia.org/resource/Electrical_fault and the value is : 1
+http://dbpedia.org/resource/Spider-Man and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Southern_California and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Southern_California and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Special_Victims_Unit and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Hollywood_blacklist and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Special_Victims_Unit and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Hollywood_blacklist and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Special_Victims_Unit and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Hollywood_blacklist and the value is : 1
+http://dbpedia.org/resource/Special_Victims_Unit and http://dbpedia.org/resource/Hollywood_blacklist and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Social_network and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Amazing_Stories and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Spider-Man and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Social_network and http://dbpedia.org/resource/Amazing_Stories and the value is : 0
+http://dbpedia.org/resource/Social_network and http://dbpedia.org/resource/Spider-Man and the value is : 0
+http://dbpedia.org/resource/Social_network and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Amazing_Stories and http://dbpedia.org/resource/Spider-Man and the value is : 0
+http://dbpedia.org/resource/Amazing_Stories and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Spider-Man and http://dbpedia.org/resource/Electrical_fault and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Summer and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Film_director and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Film_director and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Duke_University and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Duke_University and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Duke_University and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Filmmaking and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Southern_California and the value is : 0
+http://dbpedia.org/resource/Filmmaking and http://dbpedia.org/resource/Southern_California and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Assistant_director and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Assistant_director and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Crankshaft and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Short_film and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Documentary_film and the value is : 0
+http://dbpedia.org/resource/Short_film and http://dbpedia.org/resource/Documentary_film and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Sunset_Strip and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Feature_film and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Sunset_Strip and http://dbpedia.org/resource/Feature_film and the value is : 0
+http://dbpedia.org/resource/Sunset_Strip and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Sunset_Strip and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Sunset_Strip and http://dbpedia.org/resource/Feature_film and the value is : 0
+http://dbpedia.org/resource/Sunset_Strip and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Sunset_Strip and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Sunset_Strip and http://dbpedia.org/resource/Art_Linson and the value is : 0
+http://dbpedia.org/resource/Sunset_Strip and http://dbpedia.org/resource/Simon_Baker and the value is : 0
+http://dbpedia.org/resource/Sunset_Strip and http://dbpedia.org/resource/Nick_Stahl and the value is : 0
+http://dbpedia.org/resource/Sunset_Strip and http://dbpedia.org/resource/Jared_Leto and the value is : 0
+http://dbpedia.org/resource/Sunset_Strip and http://dbpedia.org/resource/Anna_Friel and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Art_Linson and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Simon_Baker and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Nick_Stahl and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Jared_Leto and the value is : 0
+http://dbpedia.org/resource/Feature_film and http://dbpedia.org/resource/Anna_Friel and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Art_Linson and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Simon_Baker and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Nick_Stahl and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Jared_Leto and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Anna_Friel and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Art_Linson and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Simon_Baker and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Nick_Stahl and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Jared_Leto and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Anna_Friel and the value is : 0
+http://dbpedia.org/resource/Art_Linson and http://dbpedia.org/resource/Simon_Baker and the value is : 0
+http://dbpedia.org/resource/Art_Linson and http://dbpedia.org/resource/Nick_Stahl and the value is : 0
+http://dbpedia.org/resource/Art_Linson and http://dbpedia.org/resource/Jared_Leto and the value is : 0
+http://dbpedia.org/resource/Art_Linson and http://dbpedia.org/resource/Anna_Friel and the value is : 0
+http://dbpedia.org/resource/Simon_Baker and http://dbpedia.org/resource/Nick_Stahl and the value is : 0
+http://dbpedia.org/resource/Simon_Baker and http://dbpedia.org/resource/Jared_Leto and the value is : 0
+http://dbpedia.org/resource/Simon_Baker and http://dbpedia.org/resource/Anna_Friel and the value is : 0
+http://dbpedia.org/resource/Nick_Stahl and http://dbpedia.org/resource/Jared_Leto and the value is : 0
+http://dbpedia.org/resource/Nick_Stahl and http://dbpedia.org/resource/Anna_Friel and the value is : 1
+http://dbpedia.org/resource/Jared_Leto and http://dbpedia.org/resource/Anna_Friel and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Aspen_Shortsfest and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Austin_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Hamptons_International_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Palm_Springs_International_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Aspen_Shortsfest and http://dbpedia.org/resource/Austin_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Aspen_Shortsfest and http://dbpedia.org/resource/Hamptons_International_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Aspen_Shortsfest and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Aspen_Shortsfest and http://dbpedia.org/resource/Independent_film and the value is : 1
+http://dbpedia.org/resource/Aspen_Shortsfest and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Aspen_Shortsfest and http://dbpedia.org/resource/Comedy_film and the value is : 1
+http://dbpedia.org/resource/Aspen_Shortsfest and http://dbpedia.org/resource/Palm_Springs_International_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Austin_Film_Festival and http://dbpedia.org/resource/Hamptons_International_Film_Festival and the value is : 1
+http://dbpedia.org/resource/Austin_Film_Festival and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Austin_Film_Festival and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Austin_Film_Festival and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Austin_Film_Festival and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Austin_Film_Festival and http://dbpedia.org/resource/Palm_Springs_International_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Hamptons_International_Film_Festival and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Hamptons_International_Film_Festival and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Hamptons_International_Film_Festival and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Hamptons_International_Film_Festival and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Hamptons_International_Film_Festival and http://dbpedia.org/resource/Palm_Springs_International_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Independent_film and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Palm_Springs_International_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Independent_film and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Independent_film and http://dbpedia.org/resource/Comedy_film and the value is : 1
+http://dbpedia.org/resource/Independent_film and http://dbpedia.org/resource/Palm_Springs_International_Film_Festival and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Comedy_film and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Palm_Springs_International_Film_Festival and the value is : 1
+http://dbpedia.org/resource/Comedy_film and http://dbpedia.org/resource/Palm_Springs_International_Film_Festival and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+adam collis born october 28 1983 is an american actor writer and producer. he is best known for his roles in the films the social network 2010 the amazing spiderman 2012 and the fault in our stars 2014. collis was born in los angeles california. he attended the university of southern california where he studied theater and film. after graduating he moved to new york city to pursue an acting career. he has appeared in numerous television shows including law order special victims unit the good wife and the blacklist. collis has also appeared in several films including the social network the amazing spiderman and the fault in our stars. he has also written and produced several short films including the last day of summer 2012 and the last goodbye 2014. collis is currently based in los angeles where he continues to pursue his acting career. he is also a member of the los angelesbased theater company the actors gang. 
+
+Coref Resolved : 
+adam collis born october 28 1983 is an american actor writer and producer. adam collis born october 28 1983 is best known for adam collis born october 28 1983 roles in the films the social network 2010 the amazing spiderman 2012 and the fault in our stars 2014. adam collis born october 28 1983 was born in los angeles california. adam collis born october 28 1983 attended the university of southern california where adam collis born october 28 1983 studied theater and film. after graduating adam collis born october 28 1983 moved to new york city to pursue an acting career. adam collis born october 28 1983 has appeared in numerous television shows including law order special victims unit the good wife and the blacklist. adam collis born october 28 1983 has also appeared in several films including the social network 2010 the amazing spiderman 2012 and the fault in our stars 2014. adam collis born october 28 1983 has also written and produced several short films including the last day of summer 2012 and the last goodbye 2014. adam collis born october 28 1983 is currently based in los angeles californiawhere adam collis born october 28 1983 continues to pursue adam collis born october 28 1983 acting career. adam collis born october 28 1983 is also a member of the los angeles californiatheater company the actors gang.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+adam collis is an american filmmaker and actor. he attended duke university from 1986 to 1990 and the university of california los angeles from 2007 to 2010. he also studied cinema at the university of southern california from 1991 to 1997. collis first work was as the assistant director for scott derricksons short love in the ruins 1995. in 1998 he played crankshaft in eric koyanagis hundred percent. he has also directed several shorts and documentaries including the awardwinning short film mad boy ill blow your blues away. in 2000 collis directed sunset strip a feature film about the los angeles rock n roll scene in the early 1970s. the film was produced by art linson and starred simon baker nick stahl jared leto and anna friel. he received awards and nominations from the aspen shortsfest austin film festival hamptons international film festival los angeles independent film festival new york comedy festival and palm springs international festival of short films. he is famous amongst his students for coining the terms image size variation and psychoemotional instrument when referring to directing actors. 
+
+Coref Resolved : 
+adam collis is an american filmmaker and actor. adam collis attended duke university from 1986 to 1990 and the university of california los angeles from 2007 to 2010. adam collis also studied cinema at the university of southern california from 1991 to 1997. adam collis first work was as the assistant director for scott derricksons short love in the ruins 1995. in 1998 adam collis played crankshaft in eric koyanagis hundred percent. adam collis has also directed several shorts and documentaries including the awardwinning short film mad boy ill blow your blues away. in 2000 adam collis directed sunset strip a feature film about the los angeles rock n roll scene in the early 1970s. sunset strip a feature film about the los angeles rock n roll scene in the early 1970swas produced by art linson and starred simon baker nick stahl jared leto and anna friel. adam collis received awards and nominations from the aspen shortsfest austin film festival hamptons international film festival los angeles independent film festival new york comedy festival and palm springs international festival of short films. adam collis is famous amongst adam collis students for coining the terms image size variation and psychoemotional instrument when referring to directing actors.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.13333333333333333 and for ground truth is : 0.13861386138613863
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

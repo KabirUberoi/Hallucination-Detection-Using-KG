@@ -1,0 +1,31 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Audio_engineer and the value is : 1
+http://dbpedia.org/resource/John_Loder_(actor) and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Record_producer and the value is : 1
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Music_industry and http://dbpedia.org/resource/Columbia_Graphophone_Company and the value is : 1
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Columbia_Graphophone_Company and the value is : 0
+http://dbpedia.org/resource/Social_dance and http://dbpedia.org/resource/Jack_Hylton and the value is : 0
+http://dbpedia.org/resource/Decca_Records and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Decca_Records and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Audio_engineer and http://dbpedia.org/resource/Record_producer and the value is : 1
+http://dbpedia.org/resource/Vera_Lynn and http://dbpedia.org/resource/Gracie_Fields and the value is : 0
+http://dbpedia.org/resource/Vera_Lynn and http://dbpedia.org/resource/George_Formby and the value is : 0
+http://dbpedia.org/resource/Gracie_Fields and http://dbpedia.org/resource/George_Formby and the value is : 0
+http://dbpedia.org/resource/List_of_awards and http://dbpedia.org/resource/Music_Producers_Guild and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john loder 19041972 was a british sound engineer and record producer. he was one of the pioneers of the british recording industry and was responsible for the production of some of the earliest british recordings. loder was born in london in 1904. he began his career in the music industry in the 1920s working as a sound engineer for the british branch of the columbia graphophone company. he was responsible for the production of some of the earliest british recordings including those of the popular dance band leader jack hylton. in the 1930s loder moved to the decca label where he worked as a sound engineer and producer. he was responsible for the production of some of the most successful british recordings of the era including those of vera lynn gracie fields and george formby. loder continued to work in the music industry until his death in 1972. he was posthumously inducted into the music producers guild hall of fame in 2008. 
+
+Coref Resolved : 
+john loder 19041972 was a british sound engineer and record producer. loder was one of the pioneers of the british recording industry and was responsible for the production of some of the earliest british recordings. loder was born in london in 1904. loder began loder career in the music industry in the 1920s working as a sound engineer for the british branch of the columbia graphophone company. loder was responsible for the production of some of the earliest british recordings including those of the popular dance band leader jack hylton. in the 1930s loder moved to the decca label where loder worked as a sound engineer and producer. loder was responsible for the production of some of the most successful british recordings of the 1930s including those of vera lynn gracie fields and george formby. loder continued to work in the music industry until loder death in 1972. loder was posthumously inducted into the music producers guild hall of fame in 2008.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.35714285714285715
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,45 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Castro_culture and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Castro_culture and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Castro_culture and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Herbie_Hancock and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Ron_Mael and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Wynton_Marsalis and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Herbie_Hancock and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Ron_Mael and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Wynton_Marsalis and the value is : 0
+http://dbpedia.org/resource/Herbie_Hancock and http://dbpedia.org/resource/Ron_Mael and the value is : 1
+http://dbpedia.org/resource/Herbie_Hancock and http://dbpedia.org/resource/Wynton_Marsalis and the value is : 1
+http://dbpedia.org/resource/Ron_Mael and http://dbpedia.org/resource/Wynton_Marsalis and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Montreux_Jazz_Festival and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/North_Sea_Jazz_Festival and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Montreal_International_Jazz_Festival and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Montreux_Jazz_Festival and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/North_Sea_Jazz_Festival and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Montreal_International_Jazz_Festival and the value is : 0
+http://dbpedia.org/resource/Montreux_Jazz_Festival and http://dbpedia.org/resource/North_Sea_Jazz_Festival and the value is : 0
+http://dbpedia.org/resource/Montreux_Jazz_Festival and http://dbpedia.org/resource/Montreal_International_Jazz_Festival and the value is : 0
+http://dbpedia.org/resource/North_Sea_Jazz_Festival and http://dbpedia.org/resource/Montreal_International_Jazz_Festival and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+ithamara koorax born ithamara koorax de castro lobo april 28 1958 is a brazilian jazz singer. she has released more than 20 albums and has performed with many of the worlds leading jazz musicians including herbie hancock ron carter and wynton marsalis. koorax has been praised for her ability to combine brazilian rhythms with jazz and for her powerful and emotive vocal style. she has been described as one of the most important brazilian jazz singers of the last two decades. koorax has performed at many of the worlds leading jazz festivals including the montreux jazz festival the north sea jazz festival and the montreal international jazz festival. 
+
+Coref Resolved : 
+ithamara koorax born ithamara koorax de castro lobo april 28 1958 is a brazilian jazz singer. ithamara koorax has released more than 20 albums and has performed with many of the worlds leading jazz musicians including herbie hancock ron carter and wynton marsalis. ithamara koorax has been praised for ithamara koorax ability to combine brazilian rhythms with jazz and for ithamara koorax powerful and emotive vocal style. ithamara koorax has been described as one of the most important brazilian jazz singers of the last two decades. ithamara koorax has performed at many of the worlds leading jazz festivals including the montreux jazz festival the north sea jazz festival and the montreal international jazz festival.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.42857142857142855
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate minor_inaccurate 
+

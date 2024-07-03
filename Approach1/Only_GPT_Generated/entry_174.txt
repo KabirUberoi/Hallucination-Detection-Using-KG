@@ -1,0 +1,54 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Legislative_assembly and the value is : 1
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Legislative_assembly and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/British_Columbia and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/British_Columbia_Liberal_Party and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Legislative_assembly and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/British_Columbia and the value is : 1
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/2001_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Legislative_assembly and http://dbpedia.org/resource/2001_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/British_Columbia and http://dbpedia.org/resource/2001_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/2013_Nova_Scotia_general_election and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Mining and the value is : 1
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Deregulation and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Intergovernmentalism and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Global_warming and the value is : 1
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Rural_development and the value is : 0
+http://dbpedia.org/resource/Mining and http://dbpedia.org/resource/Deregulation and the value is : 0
+http://dbpedia.org/resource/Mining and http://dbpedia.org/resource/Intergovernmentalism and the value is : 0
+http://dbpedia.org/resource/Mining and http://dbpedia.org/resource/Global_warming and the value is : 0
+http://dbpedia.org/resource/Mining and http://dbpedia.org/resource/Rural_development and the value is : 0
+http://dbpedia.org/resource/Deregulation and http://dbpedia.org/resource/Intergovernmentalism and the value is : 0
+http://dbpedia.org/resource/Deregulation and http://dbpedia.org/resource/Global_warming and the value is : 0
+http://dbpedia.org/resource/Deregulation and http://dbpedia.org/resource/Rural_development and the value is : 0
+http://dbpedia.org/resource/Intergovernmentalism and http://dbpedia.org/resource/Global_warming and the value is : 0
+http://dbpedia.org/resource/Intergovernmentalism and http://dbpedia.org/resource/Rural_development and the value is : 0
+http://dbpedia.org/resource/Global_warming and http://dbpedia.org/resource/Rural_development and the value is : 1
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/Tracy_Redies and the value is : 0
+http://dbpedia.org/resource/Gordie_Hogg and http://dbpedia.org/resource/2017_British_Columbia_general_election and the value is : 0
+http://dbpedia.org/resource/Tracy_Redies and http://dbpedia.org/resource/2017_British_Columbia_general_election and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+gordon hogg born october 28 1951 is a canadian politician who served as the member of the legislative assembly of british columbia for surreywhite rock from 2001 to 2017. he was a member of the british columbia liberal party. hogg was first elected to the legislative assembly in the 2001 provincial election. he was reelected in the 2005 2009 and 2013 provincial elections. he served as minister of state for mining minister of state for actnow bc minister of state for deregulation minister of state for intergovernmental relations minister of state for climate action minister of state for seniors and minister of state for rural development. hogg announced his retirement from politics in april 2017. he was succeeded by tracy redies in the 2017 provincial election. 
+
+Coref Resolved : 
+gordon hogg born october 28 1951 is a canadian politician who served as the member of the legislative assembly of british columbia for surreywhite rock from 2001 to 2017. gordon hogg born october 28 1951 was a member of the british columbia liberal party. gordon hogg born october 28 1951 was first elected to the legislative assembly of british columbia in the 2001 provincial election. gordon hogg born october 28 1951 was reelected in the 2005 2009 and 2013 provincial elections. gordon hogg born october 28 1951 served as minister of state for mining minister of state for actnow bc minister of state for deregulation minister of state for intergovernmental relations minister of state for climate action minister of state for seniors and minister of state for rural development. gordon hogg born october 28 1951 announced gordon hogg born october 28 1951 retirement from politics in april 2017. gordon hogg born october 28 1951 was succeeded by tracy redies in the 2017 provincial election.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.13513513513513514
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate accurate accurate 
+

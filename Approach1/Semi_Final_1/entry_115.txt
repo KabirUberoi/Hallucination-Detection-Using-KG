@@ -1,0 +1,81 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Jerusalem and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Real_estate and http://dbpedia.org/resource/Energy_industry and the value is : 0
+http://dbpedia.org/resource/Real_estate and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Energy_industry and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Health_care and the value is : 1
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Welfare and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Welfare and the value is : 0
+http://dbpedia.org/resource/Health_care and http://dbpedia.org/resource/Welfare and the value is : 1
+http://dbpedia.org/resource/Hebrew_University_of_Jerusalem and http://dbpedia.org/resource/Jerusalem and the value is : 0
+http://dbpedia.org/resource/Hebrew_University_of_Jerusalem and http://dbpedia.org/resource/Business_administration and the value is : 1
+http://dbpedia.org/resource/Jerusalem and http://dbpedia.org/resource/Business_administration and the value is : 0
+http://dbpedia.org/resource/Oncology and http://dbpedia.org/resource/Health_policy and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/Kabbalah and the value is : 1
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/Rabbi and the value is : 0
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/Spirituality and the value is : 0
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/Netivot and the value is : 1
+http://dbpedia.org/resource/Hebrew_language and http://dbpedia.org/resource/Town and the value is : 1
+http://dbpedia.org/resource/Kabbalah and http://dbpedia.org/resource/Rabbi and the value is : 0
+http://dbpedia.org/resource/Kabbalah and http://dbpedia.org/resource/Spirituality and the value is : 0
+http://dbpedia.org/resource/Kabbalah and http://dbpedia.org/resource/Netivot and the value is : 0
+http://dbpedia.org/resource/Kabbalah and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Rabbi and http://dbpedia.org/resource/Spirituality and the value is : 0
+http://dbpedia.org/resource/Rabbi and http://dbpedia.org/resource/Netivot and the value is : 0
+http://dbpedia.org/resource/Rabbi and http://dbpedia.org/resource/Town and the value is : 1
+http://dbpedia.org/resource/Spirituality and http://dbpedia.org/resource/Netivot and the value is : 0
+http://dbpedia.org/resource/Spirituality and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Netivot and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Nachman_of_Breslov and http://dbpedia.org/resource/Hasidic_Judaism and the value is : 0
+http://dbpedia.org/resource/Shalom and http://dbpedia.org/resource/Tomb and the value is : 0
+http://dbpedia.org/resource/Shalom and http://dbpedia.org/resource/Netivot and the value is : 0
+http://dbpedia.org/resource/Shalom and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Shalom and http://dbpedia.org/resource/Mausoleum and the value is : 0
+http://dbpedia.org/resource/Shalom and http://dbpedia.org/resource/Gala_Event and the value is : 0
+http://dbpedia.org/resource/Shalom and http://dbpedia.org/resource/Acts_of_reparation and the value is : 0
+http://dbpedia.org/resource/Tomb and http://dbpedia.org/resource/Netivot and the value is : 1
+http://dbpedia.org/resource/Tomb and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Tomb and http://dbpedia.org/resource/Mausoleum and the value is : 0
+http://dbpedia.org/resource/Tomb and http://dbpedia.org/resource/Gala_Event and the value is : 0
+http://dbpedia.org/resource/Tomb and http://dbpedia.org/resource/Acts_of_reparation and the value is : 1
+http://dbpedia.org/resource/Netivot and http://dbpedia.org/resource/Town and the value is : 0
+http://dbpedia.org/resource/Netivot and http://dbpedia.org/resource/Mausoleum and the value is : 0
+http://dbpedia.org/resource/Netivot and http://dbpedia.org/resource/Gala_Event and the value is : 0
+http://dbpedia.org/resource/Netivot and http://dbpedia.org/resource/Acts_of_reparation and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Mausoleum and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Gala_Event and the value is : 0
+http://dbpedia.org/resource/Town and http://dbpedia.org/resource/Acts_of_reparation and the value is : 0
+http://dbpedia.org/resource/Mausoleum and http://dbpedia.org/resource/Gala_Event and the value is : 0
+http://dbpedia.org/resource/Mausoleum and http://dbpedia.org/resource/Acts_of_reparation and the value is : 0
+http://dbpedia.org/resource/Gala_Event and http://dbpedia.org/resource/Acts_of_reparation and the value is : 0
+http://dbpedia.org/resource/Nochi_Dankner and http://dbpedia.org/resource/Israeli_new_shekel and the value is : 0
+http://dbpedia.org/resource/Yedioth_Ahronoth and http://dbpedia.org/resource/Israeli_new_shekel and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+yaakov israel ifargan born in jerusalem israel in 1945 is an israeli businessman and philanthropist. he is the founder and chairman of the ifargan group a leading israeli business group with interests in real estate energy and technology. he is also the founder and chairman of the ifargan foundation a philanthropic organization that supports education health and social welfare initiatives in israel and around the world. ifargan is a graduate of the hebrew university of jerusalem where he earned a degree in economics and business administration. he began his career in the israeli business world in the early 1970s and has since become one of the most successful and influential businessmen in the country. he has served on the boards of numerous companies and organizations including the israelamerica chamber of commerce the israelchina chamber of commerce and the israelindia chamber of commerce. he is also a member of the world economic forum. ifargan is a major supporter of numerous charitable causes including the israel cancer association the israel national institute for health policy research and the israel national institute for 
+
+Coref Resolved : 
+yaakov israel ifargan born in jerusalem israel in 1945 is an israeli businessman and philanthropist. yaakov israel ifargan is the founder and chairman of the ifargan group a leading israeli business group with interests in real estate energy and technology. yaakov israel ifargan is also the founder and chairman of the ifargan foundation a philanthropic organization that supports education health and social welfare initiatives in israel and around the world. yaakov israel ifargan is a graduate of the hebrew university of jerusalem where yaakov israel ifargan earned a degree in economics and business administration. yaakov israel ifargan began yaakov israel ifargan career in the israeli business world in the early 1970s and has since become one of the most successful and influential businessmen in israel . yaakov israel ifargan has served on the boards of numerous companies and organizations including the israelamerica chamber of commerce the israelchina chamber of commerce and the israelindia chamber of commerce. yaakov israel ifargan is also a member of the world economic forum. yaakov israel ifargan is a major supporter of numerous charitable causes including the israel cancer association the israel national institute for health policy research and the israel national institute for
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+yaakov israel ifargan born 1966 also known as the xray hebrew harentgen is an israeli kabbalist rabbi and spiritual adviser who operates in netivot a town in southern israel. he is known among his followers for his supposed healing and prognostic powers. ifargans admirers include a mix of lowincome mizrahi jewish people from southern israel as well as highprofile israeli politicians businessmen and celebrities. ifargan also has a following among a group of breslov hasidim. ifargan is the son of shalom ifargan baba shalom and he transformed his fathers tomb in netivot into an ultramodern pyramidshaped mausoleum where he conducts an annual gala event and holds his midnight tikkun reparation ceremonies. ifargan provides blessings and business advice to some of israels most prominent businessmen and politicians for a fee and adherents believe he has the ability to diagnose patients by eyesight only. others claim he is a charlatan who has grown into a multimillionaire from selling amulets and from other illicit businesses. he is one of the wealthiest rabbis in israel with an estimated net worth of 23 million as of 2012. one of the foremost followers of the rabbi is nochi dankner a leading israeli businessman who has donated hundreds of thousands of israeli shekels to the rabbis causes. a 2001 report by the daily yedioth ahronoth claimed that most of the sums donated are not made known to the israeli tax authorities although this is denied by ifargan. 
+
+Coref Resolved : 
+yaakov israel ifargan born 1966 also known as the xray hebrew harentgen is an israeli kabbalist rabbi and spiritual adviser who operates in netivot a town in southern israel. israel ifargan is known among israel ifargan followers for israel ifargan supposed healing and prognostic powers. israel ifargan admirers include a mix of lowincome mizrahi jewish people from southern israelas well as highprofile israeli politicians businessmen and celebrities. israel ifargan also has a following among a group of breslov hasidim. israel ifargan is the son of shalom ifargan baba shalom and israel ifargan transformed israel ifargan fathers tomb in netivot a town in southern israelinto an ultramodern pyramidshaped mausoleum where israel ifargan conducts an annual gala event and holds israel ifargan midnight tikkun reparation ceremonies. israel ifargan provides blessings and business advice to some of israels most prominent businessmen and politicians for a fee and adherents believe israel ifargan has the ability to diagnose patients by eyesight only. others claim israel ifargan is a charlatan who has grown into a multimillionaire from selling amulets and from other illicit businesses. israel ifargan is one of the wealthiest rabbis in israels with an estimated net worth of 23 million as of 2012. one of the foremost followers of israel ifargan is nochi dankner a leading israeli businessman who has donated hundreds of thousands of israeli shekels to the rabbis causes. a 2001 report by the daily yedioth ahronoth claimed that most of hundreds of thousands of israeli shekels are not made known to the israeli tax authorities although claimed is denied by israel ifargan .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.21428571428571427 and for ground truth is : 0.15384615384615385
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

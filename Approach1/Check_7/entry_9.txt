@@ -1,0 +1,102 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Motorcycle_sport and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 1
+http://dbpedia.org/resource/Motorcycle_sport and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Isle_of_Man_TT and http://dbpedia.org/resource/Senior_TT and the value is : 1
+http://dbpedia.org/resource/North_West_200 and http://dbpedia.org/resource/Ulster_Grand_Prix and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Mechanic and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Freddie_Frith and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Grimsby and the value is : 1
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Lincolnshire and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/1988_British_Grand_Prix and the value is : 0
+http://dbpedia.org/resource/Frederick_Lee,_Baron_Lee_of_Newton and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Order_of_the_British_Empire and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Grimsby and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Lincolnshire and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/1988_British_Grand_Prix and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 1
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Grimsby and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Lincolnshire and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/1988_British_Grand_Prix and the value is : 0
+http://dbpedia.org/resource/Order_of_the_British_Empire and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 0
+http://dbpedia.org/resource/Grimsby and http://dbpedia.org/resource/Lincolnshire and the value is : 0
+http://dbpedia.org/resource/Grimsby and http://dbpedia.org/resource/1988_British_Grand_Prix and the value is : 0
+http://dbpedia.org/resource/Grimsby and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 0
+http://dbpedia.org/resource/Lincolnshire and http://dbpedia.org/resource/1988_British_Grand_Prix and the value is : 1
+http://dbpedia.org/resource/Lincolnshire and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 0
+http://dbpedia.org/resource/1988_British_Grand_Prix and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Retail and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Grimsby and the value is : 0
+http://dbpedia.org/resource/Stonemasonry and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and http://dbpedia.org/resource/Retail and the value is : 0
+http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and http://dbpedia.org/resource/Grimsby and the value is : 0
+http://dbpedia.org/resource/Grand_Prix_motorcycle_racing and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 1
+http://dbpedia.org/resource/Retail and http://dbpedia.org/resource/Grimsby and the value is : 1
+http://dbpedia.org/resource/Retail and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Grimsby and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 0
+http://dbpedia.org/resource/Racing and http://dbpedia.org/resource/Manx_Grand_Prix and the value is : 0
+http://dbpedia.org/resource/Racing and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Racing and http://dbpedia.org/resource/Velocette_KTT and the value is : 0
+http://dbpedia.org/resource/Manx_Grand_Prix and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Manx_Grand_Prix and http://dbpedia.org/resource/Velocette_KTT and the value is : 0
+http://dbpedia.org/resource/Equestrianism and http://dbpedia.org/resource/Velocette_KTT and the value is : 0
+http://dbpedia.org/resource/Racing and http://dbpedia.org/resource/Motorcycle_engine and the value is : 0
+http://dbpedia.org/resource/Racing and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Motorcycle_engine and http://dbpedia.org/resource/Equestrianism and the value is : 0
+http://dbpedia.org/resource/Manx_Grand_Prix and http://dbpedia.org/resource/Norton_Motorcycle_Company and the value is : 0
+http://dbpedia.org/resource/Manx_Grand_Prix and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 1
+http://dbpedia.org/resource/Norton_Motorcycle_Company and http://dbpedia.org/resource/Isle_of_Man_TT and the value is : 1
+http://dbpedia.org/resource/Junior_TT and http://dbpedia.org/resource/Senior_TT and the value is : 1
+http://dbpedia.org/resource/Junior_TT and http://dbpedia.org/resource/2009_European_Championship_of_Ski_Mountaineering and the value is : 0
+http://dbpedia.org/resource/Senior_TT and http://dbpedia.org/resource/2009_European_Championship_of_Ski_Mountaineering and the value is : 0
+http://dbpedia.org/resource/Isle_of_Man_TT and http://dbpedia.org/resource/Moto_Guzzi and the value is : 1
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Birmingham_Small_Arms_Company and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Matchless and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Keswick_Convention and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Non-commissioned_officer and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/CrossCountry and the value is : 0
+http://dbpedia.org/resource/Birmingham_Small_Arms_Company and http://dbpedia.org/resource/Matchless and the value is : 0
+http://dbpedia.org/resource/Birmingham_Small_Arms_Company and http://dbpedia.org/resource/Keswick_Convention and the value is : 0
+http://dbpedia.org/resource/Birmingham_Small_Arms_Company and http://dbpedia.org/resource/Non-commissioned_officer and the value is : 0
+http://dbpedia.org/resource/Birmingham_Small_Arms_Company and http://dbpedia.org/resource/CrossCountry and the value is : 0
+http://dbpedia.org/resource/Matchless and http://dbpedia.org/resource/Keswick_Convention and the value is : 1
+http://dbpedia.org/resource/Matchless and http://dbpedia.org/resource/Non-commissioned_officer and the value is : 0
+http://dbpedia.org/resource/Matchless and http://dbpedia.org/resource/CrossCountry and the value is : 0
+http://dbpedia.org/resource/Keswick_Convention and http://dbpedia.org/resource/Non-commissioned_officer and the value is : 0
+http://dbpedia.org/resource/Keswick_Convention and http://dbpedia.org/resource/CrossCountry and the value is : 1
+http://dbpedia.org/resource/Non-commissioned_officer and http://dbpedia.org/resource/CrossCountry and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Norton_Motorcycle_Company and the value is : 0
+http://dbpedia.org/resource/Freddie_Frith and http://dbpedia.org/resource/Skiddaw and the value is : 0
+http://dbpedia.org/resource/Norton_Motorcycle_Company and http://dbpedia.org/resource/Skiddaw and the value is : 0
+http://dbpedia.org/resource/Roadwork and http://dbpedia.org/resource/Freddie_Frith and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+freddie frith 19171994 english motorcycle racer competed isle man tt races international events . born london began racing 1930s . won isle man tt 1938 1939 rider win senior tt twice succession . won north west 200 1938 1939 ulster grand prix 1938 1939 . frith popular figure racing world known daring aggressive riding style . known willingness help riders seen helping push riders bikes start line . retired racing 1947 continued involved sport working mechanic team manager . died 1994 aged 77 . 
+
+Coref Resolved : 
+freddie frith 19171994 english motorcycle racer competed isle man tt races international events . born london began racing 1930s . won isle man tt 1938 1939 rider win senior tt twice succession . won north west 200 1938 1939 ulster grand prix 1938 1939 . freddie frith popular figure racing world known daring aggressive riding style . known willingness help riders seen helping push riders bikes start line . retired racing 1947 continued involved sport working mechanic team manager . died 1994 aged 77 .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+frederick lee freddie frith obe born 30 1909 grimsby lincolnshire england 24 1988 british grand prix motorcycle road racing world champion . stonemason later motorcycle retailer grimsby stylish rider fivetime winner isle man tt . frith distinction win tt races second world war . entered major race manx grand prix 1930 riding overthecounter 350 cc velocette ktt junior event finishing speed 60.34 mph . retired 500 cc race blown engine riding 350 holding place . won 1935 junior manx grand prix joined norton team 1936 tt races . winning combination claimed junior tt finished second senior tt winning 350 cc european championship . 1937 went better senior took brilliant win setting 90 mph plus lap snaefell mountain course . finishing 1939 senior missed 1947 tt practice spill 500 cc moto guzzi . turning velocettes 1948 won junior race repeating success year later . freddie distinction 350 cc world champion 1949 won events inaugural campaign . frith alongside riders bsa ariel matchless works teams served army world war ii infantry driving maintenance school stationed keswick officers ncos learned ride crosscountry . sgt . freddie frith taught teams norton 500s skiddaw weathers . special treat day reserved roadwork following friths trackstyle fast cornering . 
+
+Coref Resolved : 
+frederick lee freddie frith obe born 30 1909 grimsby lincolnshire england 24 1988 british grand prix motorcycle road racing world champion . stonemason later motorcycle retailer grimsby stylish rider fivetime winner isle man tt . freddie frith distinction win tt races second world war . entered major race manx grand prix 1930 riding overthecounter 350 cc velocette ktt junior event finishing speed 60.34 mph . retired 500 cc race blown engine riding 350 holding place . won 1935 junior manx grand prix joined norton team 1936 tt races . winning combination claimed junior tt finished second senior tt winning 350 cc european championship . 1937 went better senior took brilliant win setting 90 mph plus lap snaefell mountain course . finishing 1939 senior missed 1947 tt practice spill 500 cc moto guzzi . turning velocettes 1948 won junior race repeating success year later . freddie distinction 350 cc world champion 1949 won events inaugural campaign . freddie frith alongside riders bsa ariel matchless works teams served army world war ii infantry driving maintenance school stationed keswick officers ncos learned ride crosscountry . freddie frith taught teams norton 500s skiddaw weathers . special treat day reserved roadwork following freddie frith trackstyle fast cornering .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.42857142857142855 and for ground truth is : 0.22388059701492538
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

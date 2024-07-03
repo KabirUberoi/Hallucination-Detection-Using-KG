@@ -1,0 +1,97 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/John_Christopher and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Danish_language and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norwegians and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norwegians and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norwegians and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Landscape_painting and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Romanticism and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Copenhagen and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Flemish_painting and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/History_painting and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Christian_August_Lorentzen and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Dresden and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Landscape_painting and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Caspar_David_Friedrich and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norwegians and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Dutch_Golden_Age_painting and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/German_Romanticism and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norwegians and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norwegians and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Romanticism and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Dutch_Golden_Age and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norwegians and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norwegians and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Landscape_painting and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norwegians and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norway and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norwegians and the value is : 1
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Shah_Wali_Kot_District and the value is : 0
+http://dbpedia.org/resource/Johan_Christian_Dahl and http://dbpedia.org/resource/Norway and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Johan Christian Dahl (also known as John Christopher Dahl, Danish dɑːl 12 November 1788 14 October 1857) was a Norwegian artist.
+He is considered the first great romantic painter in Norway, the founder of the "golden age" of Norwegian painting.
+He was also the first acquire genuine fame and cultural renown abroad.
+Dahl is often described as "the father of Norwegian landscape painting" and is regarded as one of the great European Romantic painters.
+His work has influenced various generations of later Norwegian artists.
+Dahl studied in Copenhagen under the Flemish history painter, Christian August Lorentzen, and in 1818 he went to Dresden to study with the German landscape painter, Caspar David Friedrich.
+He was inspired by the art of the Norwegian "golden age" of the 17th century as well as the Dutch Golden Age and the German Romanticism.
+His early works are often dark and gloomy, but after 1820 he began to paint more brightly coloured landscapes.
+He is best known for his paintings of Norwegian fjords and mountains, and he often depicted wild storms and dramatic light.
+
+
+Coref Resolved: 
+
+Johan Christian Dahl (also known as John Christopher Dahl, Danish dɑːl 12 November 1788 14 October 1857) was a Norwegian artist.
+Johan Christian Dahl is considered the first great romantic painter in Norway, the founder of the "golden age" of Norwegian painting.
+Johan Christian Dahl was also the first acquire genuine fame and cultural renown abroad.
+Johan Christian Dahl is often described as "the father of Norwegian landscape painting" and is regarded as one of the great European Romantic painters.
+Johan Christian Dahl work has influenced various generations of later Norwegian artists.
+Johan Christian Dahl studied in Copenhagen under the Flemish history painter, Christian August Lorentzen, and in 1818 Johan Christian Dahl went to Dresden to study with the German landscape painter, Caspar David Friedrich.
+Johan Christian Dahl was inspired by the art of the Norwegian "golden age" of the 17th century as well as the Dutch Golden Age and the German Romanticism.
+Johan Christian Dahl early works are often dark and gloomy, but after 1820 Johan Christian Dahl began to paint more brightly coloured landscapes.
+Johan Christian Dahl is best known for Johan Christian Dahl paintings of Norwegian fjords and mountains, and Johan Christian Dahl often depicted wild storms and dramatic light.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahl, was a Norwegian artist who is considered the first great Romantic painter in Norway, the founder of the "Golden Age" of Norwegian painting, and one of the greatest European artists of all time.
+He is often described as "the father of Norwegian landscape painting" and is regarded as the first Norwegian painter ever to reach a level of artistic accomplishment comparable to that attained by the greatest European artists of his day.
+He was also the first to acquire genuine fame and cultural renown abroad.
+As one critic has put it, "J.C. Dahl occupies a central position in Norwegian artistic life of the first half of the 19th century.
+" Although Dahl spent much of his life outside of Norway, his love for his country is clear in the motifs he chose for his paintings and in his extraordinary efforts on behalf of Norwegian culture generally.
+Indeed, if one sets aside his own monumental artistic creations, his other activities on behalf of art, history, and culture would still have guaranteed him a place at the very heart of the artistic and cultural history of Norway.
+He was, for example, a key figure in the founding of the Norwegian National Gallery and of several other major art institutions in Norway, as well as in the preservation of Norwegian stave churches and the restoration of the Nidaros Cathedral in Trondheim and Håkonshallen in Bergen.
+ 
+
+Coref Resolved: 
+
+Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahl, was a Norwegian artist who is considered the first great Romantic painter in Norway, the founder of the "Golden Age" of Norwegian painting, and one of the greatest European artists of all time.
+Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahlis often described as "the father of Norwegian landscape painting" and is regarded as the first Norwegian painter ever to reach a level of artistic accomplishment comparable to that attained by the greatest European artists of Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahlday.
+Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahlwas also the first to acquire genuine fame and cultural renown abroad.
+As one critic has put it, "Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahloccupies a central position in Norwegian artistic life of the first half of the 19th century.
+" Although Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahlspent much of Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahllife outside of Norway, Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahllove for Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahlcountry is clear in the motifs Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahlchose for Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahlpaintings and in Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahlextraordinary efforts on behalf of Norwegian culture generally.
+Indeed, if one sets aside Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahlown monumental artistic creations, Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahlother activities on behalf of art, history, and culture would still have guaranteed Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahla place at the very heart of the artistic and cultural history of Norway.
+Johan Christian Claussen Dahl (February 24, 1788 October 14, 1857), often known as J.C. Dahlwas, for example, a key figure in the founding of the Norwegian National Gallery and of several other major art institutions in Norway, as well as in the preservation of Norwegian stave churches and the restoration of the Nidaros Cathedral in Trondheim and Håkonshallen in Bergen.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.3333333333333333 1.0 -1 1.0 -1 0.7142857142857143 0.6666666666666666 -1 1.0 
+
+Value for ground truth is : 
+0.8 1.0 -1 -1 1.0 0.5 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate accurate accurate minor_inaccurate minor_inaccurate accurate 
+

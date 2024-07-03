@@ -1,0 +1,176 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Old_Style_and_New_Style_dates and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/January_20 and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosopher and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Old_Style_and_New_Style_dates and the value is : 1
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/January_20 and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Philosopher and the value is : 0
+http://dbpedia.org/resource/Old_Style_and_New_Style_dates and http://dbpedia.org/resource/January_20 and the value is : 0
+http://dbpedia.org/resource/Old_Style_and_New_Style_dates and http://dbpedia.org/resource/Philosopher and the value is : 0
+http://dbpedia.org/resource/January_20 and http://dbpedia.org/resource/Philosopher and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Bestseller and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Moral_universalism and the value is : 0
+http://dbpedia.org/resource/Bestseller and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 0
+http://dbpedia.org/resource/Bestseller and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Bestseller and http://dbpedia.org/resource/Moral_universalism and the value is : 0
+http://dbpedia.org/resource/Atlas_Shrugged and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Atlas_Shrugged and http://dbpedia.org/resource/Moral_universalism and the value is : 0
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Moral_universalism and the value is : 0
+http://dbpedia.org/resource/Russia and http://dbpedia.org/resource/Ayn_Rand and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Non-fiction and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Non-fiction and http://dbpedia.org/resource/Philosophy and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Novelist and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Playwright and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Screenwriting and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Novelist and the value is : 1
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Screenwriting and the value is : 1
+http://dbpedia.org/resource/Novelist and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Novelist and http://dbpedia.org/resource/Playwright and the value is : 1
+http://dbpedia.org/resource/Novelist and http://dbpedia.org/resource/Screenwriting and the value is : 0
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Screenwriting and the value is : 0
+http://dbpedia.org/resource/Playwright and http://dbpedia.org/resource/Screenwriting and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Bestseller and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Moral_universalism and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Bestseller and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Moral_universalism and the value is : 0
+http://dbpedia.org/resource/Bestseller and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 0
+http://dbpedia.org/resource/Bestseller and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Bestseller and http://dbpedia.org/resource/Moral_universalism and the value is : 0
+http://dbpedia.org/resource/Atlas_Shrugged and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Atlas_Shrugged and http://dbpedia.org/resource/Moral_universalism and the value is : 0
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Moral_universalism and the value is : 0
+http://dbpedia.org/resource/Russia and http://dbpedia.org/resource/Ayn_Rand and the value is : 0
+http://dbpedia.org/resource/Russia and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Non-fiction and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Non-fiction and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Philosophy and the value is : 1
+http://dbpedia.org/resource/Non-fiction and http://dbpedia.org/resource/Philosophy and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Faith and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Religion and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Faith and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Religion and the value is : 0
+http://dbpedia.org/resource/Faith and http://dbpedia.org/resource/Religion and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Rational_egoism and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Ethical_egoism and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Altruism and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Rational_egoism and the value is : 1
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Ethical_egoism and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Altruism and the value is : 0
+http://dbpedia.org/resource/Rational_egoism and http://dbpedia.org/resource/Ethical_egoism and the value is : 1
+http://dbpedia.org/resource/Rational_egoism and http://dbpedia.org/resource/Altruism and the value is : 0
+http://dbpedia.org/resource/Ethical_egoism and http://dbpedia.org/resource/Altruism and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Collectivism and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Statism and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Anarchism and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Laissez-faire and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Individual_and_group_rights and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Collectivism and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Statism and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Anarchism and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Laissez-faire and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Individual_and_group_rights and the value is : 0
+http://dbpedia.org/resource/Collectivism and http://dbpedia.org/resource/Statism and the value is : 0
+http://dbpedia.org/resource/Collectivism and http://dbpedia.org/resource/Anarchism and the value is : 0
+http://dbpedia.org/resource/Collectivism and http://dbpedia.org/resource/Laissez-faire and the value is : 0
+http://dbpedia.org/resource/Collectivism and http://dbpedia.org/resource/Individual_and_group_rights and the value is : 1
+http://dbpedia.org/resource/Statism and http://dbpedia.org/resource/Anarchism and the value is : 0
+http://dbpedia.org/resource/Statism and http://dbpedia.org/resource/Laissez-faire and the value is : 0
+http://dbpedia.org/resource/Statism and http://dbpedia.org/resource/Individual_and_group_rights and the value is : 1
+http://dbpedia.org/resource/Anarchism and http://dbpedia.org/resource/Laissez-faire and the value is : 0
+http://dbpedia.org/resource/Anarchism and http://dbpedia.org/resource/Individual_and_group_rights and the value is : 0
+http://dbpedia.org/resource/Laissez-faire and http://dbpedia.org/resource/Individual_and_group_rights and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Romantic_realism and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Romantic_realism and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Aristotelianism and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Classicism and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Classical_liberalism and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Aristotelianism and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Classicism and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Classical_liberalism and the value is : 1
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Aristotelianism and the value is : 0
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Classicism and the value is : 1
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Classical_liberalism and the value is : 0
+http://dbpedia.org/resource/Aristotelianism and http://dbpedia.org/resource/Classicism and the value is : 1
+http://dbpedia.org/resource/Aristotelianism and http://dbpedia.org/resource/Classical_liberalism and the value is : 0
+http://dbpedia.org/resource/Classicism and http://dbpedia.org/resource/Classical_liberalism and the value is : 1
+http://dbpedia.org/resource/Literary_criticism and http://dbpedia.org/resource/Ayn_Rand and the value is : 0
+http://dbpedia.org/resource/Literary_criticism and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Literary_criticism and http://dbpedia.org/resource/Fiction and the value is : 1
+http://dbpedia.org/resource/Literary_criticism and http://dbpedia.org/resource/Academy and the value is : 0
+http://dbpedia.org/resource/Literary_criticism and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Fiction and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Academy and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosophy and the value is : 1
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Fiction and the value is : 1
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Academy and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Fiction and http://dbpedia.org/resource/Academy and the value is : 1
+http://dbpedia.org/resource/Fiction and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Academy and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Objectivist_movement and http://dbpedia.org/resource/Ayn_Rand and the value is : 0
+http://dbpedia.org/resource/Objectivist_movement and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Libertarianism and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Libertarianism and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Libertarianism and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+ayn rand born alisa zinovyevna rosenbaum february 2 o.s. january 20 1905 march 6 1982 was a russianamerican writer and philosopher. she is known for her two bestselling novels the fountainhead and atlas shrugged and for developing a philosophical system she called objectivism. educated in russia she moved to the united states in 1926. she had a play produced on broadway in 1935 and 1936. after two early novels that were initially unsuccessful she achieved fame with her 1943 novel the fountainhead. in 1957 rand published her bestknown work the novel atlas shrugged. afterward she turned to nonfiction to promote her philosophy publishing her own magazines and releasing several collections of essays until her death in 1982. 
+
+Coref Resolved : 
+ayn rand born alisa zinovyevna rosenbaum february 2 o.s. january 20 1905 march 6 1982 was a russianamerican writer and philosopher. ayn rand is known for ayn rand two bestselling novels the fountainhead and atlas shrugged and for developing a philosophical system ayn rand called objectivism. educated in russia ayn rand moved to the united states in 1926. ayn rand had a play produced on broadway in 1935 and 1936. after two early novels that were initially unsuccessful ayn rand achieved fame with ayn rand 1943 novel the fountainhead. in 1957 ayn rand published ayn rand bestknown work the novel atlas shrugged. afterward ayn rand turned to nonfiction to promote ayn rand philosophy publishing ayn rand own magazines and releasing several collections of essays until ayn rand death in 1982 .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+ayn rand born alisa zinovyevna rosenbaum march 6 1982 was a russianborn american novelist philosopher playwright and screenwriter. she is known for her two bestselling novels the fountainhead and atlas shrugged and for developing a philosophical system she called objectivism. born and educated in russia rand moved to the united states in 1926. she had a play produced on broadway in 19351936. after two early novels that were initially unsuccessful in america she achieved fame with her 1943 novel the fountainhead. in 1957 she published her bestknown work the novel atlas shrugged. afterward she turned to nonfiction to promote her philosophy publishing her own magazines and releasing several collections of essays until her death in 1982. rand advocated reason as the only means of acquiring knowledge and rejected faith and religion. she supported rational and ethical egoism and rejected altruism. in politics she condemned the initiation of force as immoral and opposed collectivism and statism as well as anarchism instead supporting laissezfaire capitalism which she defined as the system based on recognizing individual rights. in art rand promoted romantic realism. she was sharply critical of most philosophers and philosophical traditions known to her except for some aristotelians and classical liberals. literary critics received rands fiction with mixed reviews and academia generally ignored or rejected her philosophy though academic interest has increased in recent decades. the objectivist movement attempts to spread her ideas both to the public and in academic settings. she has been a significant influence among libertarians and american conservatives. 
+
+Coref Resolved : 
+ayn rand born alisa zinovyevna rosenbaum march 6 1982 was a russianborn american novelist philosopher playwright and screenwriter. ayn rand born alisa zinovyevna rosenbaum march 6 1982 is known for ayn rand born alisa zinovyevna rosenbaum march 6 1982 two bestselling novels the fountainhead and atlas shrugged and for developing a philosophical system ayn rand born alisa zinovyevna rosenbaum march 6 1982 called objectivism. born and educated in russia ayn rand born alisa zinovyevna rosenbaum march 6 1982 moved to the united states in 1926. ayn rand born alisa zinovyevna rosenbaum march 6 1982 had a play produced on broadway in 19351936. after two early novels that were initially unsuccessful in the united states ayn rand born alisa zinovyevna rosenbaum march 6 1982 achieved fame with ayn rand born alisa zinovyevna rosenbaum march 6 1982 1943 novel the fountainhead. in 1957 ayn rand born alisa zinovyevna rosenbaum march 6 1982 published ayn rand born alisa zinovyevna rosenbaum march 6 1982 bestknown work the novel atlas shrugged. afterward ayn rand born alisa zinovyevna rosenbaum march 6 1982 turned to nonfiction to promote ayn rand born alisa zinovyevna rosenbaum march 6 1982 philosophy publishing ayn rand born alisa zinovyevna rosenbaum march 6 1982 own magazines and releasing several collections of essays until ayn rand born alisa zinovyevna rosenbaum march 6 1982 death in 1982. ayn rand born alisa zinovyevna rosenbaum march 6 1982 advocated reason as the only means of acquiring knowledge and rejected faith and religion. ayn rand born alisa zinovyevna rosenbaum march 6 1982 supported rational and ethical egoism and rejected altruism. in politics ayn rand born alisa zinovyevna rosenbaum march 6 1982 condemned the initiation of force as immoral and opposed collectivism and statism as well as anarchism instead supporting laissezfaire capitalism which ayn rand born alisa zinovyevna rosenbaum march 6 1982 defined as the system based on recognizing individual rights. in art ayn rand born alisa zinovyevna rosenbaum march 6 1982 promoted romantic realism. ayn rand born alisa zinovyevna rosenbaum march 6 1982 was sharply critical of most philosophers and philosophical traditions known to ayn rand born alisa zinovyevna rosenbaum march 6 1982 except for some aristotelians and classical liberals. literary critics received ayn rand born alisa zinovyevna rosenbaum march 6 1982 fiction with mixed reviews and academia generally ignored or rejected ayn rand born alisa zinovyevna rosenbaum march 6 1982 philosophy though academic interest has increased in recent decades. the objectivist movement attempts to spread ayn rand born alisa zinovyevna rosenbaum march 6 1982 ideas both to the public and in academic settings. ayn rand born alisa zinovyevna rosenbaum march 6 1982 has been a significant influence among libertarians and american conservatives.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.08 and for ground truth is : 0.21138211382113822
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate accurate accurate 
+

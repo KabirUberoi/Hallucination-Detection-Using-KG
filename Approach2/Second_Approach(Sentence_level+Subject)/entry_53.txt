@@ -1,0 +1,86 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/Michigan_Wolverines_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/Michigan_State_Spartans_football and the value is : 0
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/Basketball and the value is : 0
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/College_basketball and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/Michigan_Wolverines_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/Michigan_State_Spartans_football and the value is : 0
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/Michigan_Wolverines_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/Michigan_State_Spartans_football and the value is : 0
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/TeamTO and the value is : 0
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/Big_Ten_Conference and the value is : 1
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/Big_Ten_Conference and the value is : 1
+http://dbpedia.org/resource/NCAA_Division_I and http://dbpedia.org/resource/Big_Ten_Conference and the value is : 1
+http://dbpedia.org/resource/NCAA_Division_I and http://dbpedia.org/resource/Tom_Izzo and the value is : 0
+http://dbpedia.org/resource/NCAA_Division_I and http://dbpedia.org/resource/Coaching_tree and the value is : 0
+http://dbpedia.org/resource/NCAA_Division_I and http://dbpedia.org/resource/Tom_Izzo and the value is : 0
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/Big_Ten_Conference and the value is : 1
+http://dbpedia.org/resource/Tom_Izzo and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Tom Izzo (born January 30, 1955) is an American college basketball coach.
+He has been the head coach for the Michigan State Spartans men's basketball team since 1995.
+Under Izzo, the Spartans have won one national championship (in 2000), eight Big Ten Conference championships, and made seven Final Four appearances, including five in a row from 1999 to 2003.
+He was elected to the Naismith Basketball Hall of Fame in 2016.
+Izzo is considered one of the most successful and respected college basketball coaches of all time.
+
+
+Coref Resolved: 
+
+Tom Izzo (born January 30, 1955) is an American college basketball coach.
+Tom Izzo (born January 30, 1955) has been the head coach for the Michigan State Spartans men's basketball team since 1995.
+Under Tom Izzo (born January 30, 1955) , the Michigan State Spartans men's basketball team have won one national championship (in 2000), eight Big Ten Conference championships, and made seven Final Four appearances, including five in a row from 1999 to 2003.
+Tom Izzo (born January 30, 1955) was elected to the Naismith Basketball Hall of Fame in 2016.
+Tom Izzo (born January 30, 1955) is considered one of the most successful and respected college basketball coaches of all time.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Tom Izzo (born January 30, 1955) is an American college basketball coach.
+Since 1995, he has been the head coach for the Michigan State Spartans men's basketball team, presiding over a prolonged period of success.
+Under Izzo, the Michigan State program has been one of the most successful in the country.
+Izzo has led the Spartans to the 2000 NCAA Division I National Championship, the 2009 NCAA Division I National Championship game, seven Final Fours, and seven Big Ten Championships in his first 18 years at Michigan State.
+The coach with the most wins in school history, Izzo's teams have earned invitations to the past 18 consecutive NCAA tournaments, in addition to setting the Big Ten record for the longest home winning streak.
+These accomplishments led analyst Andy Katz at ESPN to deem Michigan State the top college basketball program for the decade from 1998 to 2007.
+Currently the longest tenured coach in the Big Ten Conference, Izzo, whose teams are often recognized for their rebounding prowess and defensive tenacity, has won four national coach of the year awards and maintains a considerable coaching tree several of his former assistants are currently head coaches at other Division I schools.
+Izzo is just the fifth coach in Big Ten history to win seven conference titles.
+His immense success during the NCAA tournament has earned Izzo the nickname "Mr. March" among active coaches.
+ 
+
+Coref Resolved: 
+
+Tom Izzo (born January 30, 1955) is an American college basketball coach.
+Since 1995, Tom Izzo (born January 30, 1955) has been the head coach for the Michigan State Spartans men's basketball team, presiding over a prolonged period of success.
+Under Tom Izzo (born January 30, 1955) , the Michigan State Spartans program has been one of the most successful in the country.
+Tom Izzo (born January 30, 1955) has led the Michigan State Spartans men's basketball teamto the 2000 NCAA Division I National Championship, the 2009 NCAA Division I National Championship game, seven Final Fours, and seven Big Ten Championships in Tom Izzo (born January 30, 1955)first 18 years at Michigan State Spartans .
+Tom Izzo (born January 30, 1955) , Tom Izzo (born January 30, 1955) teams have earned invitations to the past 18 consecutive NCAA tournaments, in addition to setting the Big Ten record for the longest home winning streak.
+These accomplishments led analyst Andy Katz at ESPN to deem Michigan State Spartans the top college basketball program for the decade from 1998 to 2007.
+Currently the longest tenured coach in Big Ten , Tom Izzo (born January 30, 1955) , has won four national coach of the year awards and maintains a considerable coaching tree several of Tom Izzo (born January 30, 1955) former assistants are currently head coaches at other Division I schools.
+Tom Izzo (born January 30, 1955) is just the fifth coach in Big Ten history to win seven conference titles.
+Tom Izzo (born January 30, 1955) immense success during the NCAA tournament has earned Tom Izzo (born January 30, 1955) the nickname "Mr. March" among active coaches.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.3333333333333333 -1 -1 1.0 
+
+Value for ground truth is : 
+1.0 0.6666666666666666 -1 0.42857142857142855 -1 0.5 -1 0.25 1.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate accurate accurate 
+

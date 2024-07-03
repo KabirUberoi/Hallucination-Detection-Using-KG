@@ -1,0 +1,296 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Arrangement and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Arrangement and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Arrangement and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Arrangement and the value is : 1
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Pop_music and the value is : 1
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Kenny_Rankin and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Gino_Vannelli and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Joni_Mitchell and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Chaka_Khan and the value is : 1
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Canadian_Brass and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Pop_music and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Kenny_Rankin and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Gino_Vannelli and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Joni_Mitchell and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Chaka_Khan and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Canadian_Brass and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Pop_music and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Kenny_Rankin and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Gino_Vannelli and the value is : 1
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Joni_Mitchell and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Chaka_Khan and the value is : 1
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Canadian_Brass and the value is : 1
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Pop_music and the value is : 1
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Popular_music and the value is : 1
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Kenny_Rankin and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Gino_Vannelli and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Joni_Mitchell and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Chaka_Khan and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Canadian_Brass and the value is : 0
+http://dbpedia.org/resource/Pop_music and http://dbpedia.org/resource/Popular_music and the value is : 1
+http://dbpedia.org/resource/Pop_music and http://dbpedia.org/resource/Kenny_Rankin and the value is : 0
+http://dbpedia.org/resource/Pop_music and http://dbpedia.org/resource/Gino_Vannelli and the value is : 0
+http://dbpedia.org/resource/Pop_music and http://dbpedia.org/resource/Joni_Mitchell and the value is : 1
+http://dbpedia.org/resource/Pop_music and http://dbpedia.org/resource/Chaka_Khan and the value is : 0
+http://dbpedia.org/resource/Pop_music and http://dbpedia.org/resource/Canadian_Brass and the value is : 1
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Kenny_Rankin and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Gino_Vannelli and the value is : 1
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Joni_Mitchell and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Chaka_Khan and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Canadian_Brass and the value is : 0
+http://dbpedia.org/resource/Kenny_Rankin and http://dbpedia.org/resource/Gino_Vannelli and the value is : 0
+http://dbpedia.org/resource/Kenny_Rankin and http://dbpedia.org/resource/Joni_Mitchell and the value is : 0
+http://dbpedia.org/resource/Kenny_Rankin and http://dbpedia.org/resource/Chaka_Khan and the value is : 0
+http://dbpedia.org/resource/Kenny_Rankin and http://dbpedia.org/resource/Canadian_Brass and the value is : 0
+http://dbpedia.org/resource/Gino_Vannelli and http://dbpedia.org/resource/Joni_Mitchell and the value is : 0
+http://dbpedia.org/resource/Gino_Vannelli and http://dbpedia.org/resource/Chaka_Khan and the value is : 0
+http://dbpedia.org/resource/Gino_Vannelli and http://dbpedia.org/resource/Canadian_Brass and the value is : 0
+http://dbpedia.org/resource/Joni_Mitchell and http://dbpedia.org/resource/Chaka_Khan and the value is : 0
+http://dbpedia.org/resource/Joni_Mitchell and http://dbpedia.org/resource/Canadian_Brass and the value is : 0
+http://dbpedia.org/resource/Chaka_Khan and http://dbpedia.org/resource/Canadian_Brass and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Composer and the value is : 1
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz_guitarist and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Wes_Montgomery and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Joe_Pass and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/George_Benson and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Composer and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Jazz_guitarist and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Wes_Montgomery and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Joe_Pass and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/George_Benson and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Composer and the value is : 1
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Jazz_guitarist and the value is : 1
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Wes_Montgomery and the value is : 1
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Joe_Pass and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/George_Benson and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Jazz_guitarist and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Wes_Montgomery and the value is : 1
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Joe_Pass and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/George_Benson and the value is : 1
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Wes_Montgomery and the value is : 0
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/Joe_Pass and the value is : 0
+http://dbpedia.org/resource/Jazz_guitarist and http://dbpedia.org/resource/George_Benson and the value is : 0
+http://dbpedia.org/resource/Wes_Montgomery and http://dbpedia.org/resource/Joe_Pass and the value is : 0
+http://dbpedia.org/resource/Wes_Montgomery and http://dbpedia.org/resource/George_Benson and the value is : 1
+http://dbpedia.org/resource/Joe_Pass and http://dbpedia.org/resource/George_Benson and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 1
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Toronto and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Boston and the value is : 1
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Boston and the value is : 1
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Boston and the value is : 1
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Berklee_College_of_Music and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz_guitar and the value is : 1
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Senate_of_Canada and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Montreal and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Bistro and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Jazz_guitar and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Senate_of_Canada and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Montreal and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Bistro and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Senate_of_Canada and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Montreal and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Bistro and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Senate_of_Canada and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Montreal and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Bistro and the value is : 0
+http://dbpedia.org/resource/Senate_of_Canada and http://dbpedia.org/resource/Montreal and the value is : 0
+http://dbpedia.org/resource/Senate_of_Canada and http://dbpedia.org/resource/Bistro and the value is : 0
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Bistro and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Brian_(software) and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Jazz_guitar and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Brian_(software) and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Jazz_guitar and http://dbpedia.org/resource/Brian_(software) and the value is : 1
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Brian_(software) and the value is : 1
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Brian_(software) and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Smooth_jazz and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Brian_Hughes_(musician) and http://dbpedia.org/resource/Latin_music and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Smooth_jazz and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Latin_music and the value is : 1
+http://dbpedia.org/resource/Smooth_jazz and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/Smooth_jazz and http://dbpedia.org/resource/Latin_music and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Latin_music and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Bouzouki and the value is : 1
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Balalaika and the value is : 0
+http://dbpedia.org/resource/Bouzouki and http://dbpedia.org/resource/Balalaika and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Popular_music and http://dbpedia.org/resource/Instrumental and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Software_release_life_cycle and http://dbpedia.org/resource/Train and the value is : 0
+http://dbpedia.org/resource/Sirius_XM_Satellite_Radio and http://dbpedia.org/resource/Extended_memory and the value is : 0
+http://dbpedia.org/resource/Sirius_XM_Satellite_Radio and http://dbpedia.org/resource/Watercolor_painting and the value is : 0
+http://dbpedia.org/resource/Extended_memory and http://dbpedia.org/resource/Watercolor_painting and the value is : 0
+http://dbpedia.org/resource/Alberta and http://dbpedia.org/resource/MacEwan_University and the value is : 0
+http://dbpedia.org/resource/Alberta and http://dbpedia.org/resource/Edmonton and the value is : 1
+http://dbpedia.org/resource/Alberta and http://dbpedia.org/resource/Banff_Centre and the value is : 1
+http://dbpedia.org/resource/Alberta and http://dbpedia.org/resource/Bachelor_of_Fine_Arts and the value is : 0
+http://dbpedia.org/resource/Alberta and http://dbpedia.org/resource/Gene_Bertoncini and the value is : 0
+http://dbpedia.org/resource/MacEwan_University and http://dbpedia.org/resource/Edmonton and the value is : 1
+http://dbpedia.org/resource/MacEwan_University and http://dbpedia.org/resource/Banff_Centre and the value is : 1
+http://dbpedia.org/resource/MacEwan_University and http://dbpedia.org/resource/Bachelor_of_Fine_Arts and the value is : 0
+http://dbpedia.org/resource/MacEwan_University and http://dbpedia.org/resource/Gene_Bertoncini and the value is : 1
+http://dbpedia.org/resource/Edmonton and http://dbpedia.org/resource/Banff_Centre and the value is : 1
+http://dbpedia.org/resource/Edmonton and http://dbpedia.org/resource/Bachelor_of_Fine_Arts and the value is : 1
+http://dbpedia.org/resource/Edmonton and http://dbpedia.org/resource/Gene_Bertoncini and the value is : 0
+http://dbpedia.org/resource/Banff_Centre and http://dbpedia.org/resource/Bachelor_of_Fine_Arts and the value is : 1
+http://dbpedia.org/resource/Banff_Centre and http://dbpedia.org/resource/Gene_Bertoncini and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Fine_Arts and http://dbpedia.org/resource/Gene_Bertoncini and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Joe_Diorio and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Robben_Ford and the value is : 1
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Joe_Diorio and the value is : 1
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Robben_Ford and the value is : 0
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/Joe_Diorio and the value is : 1
+http://dbpedia.org/resource/Pat_Martino and http://dbpedia.org/resource/Robben_Ford and the value is : 0
+http://dbpedia.org/resource/Joe_Diorio and http://dbpedia.org/resource/Robben_Ford and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Loreena_McKennitt and the value is : 0
+http://dbpedia.org/resource/Toronto and http://dbpedia.org/resource/Justin_Time_Records and the value is : 1
+http://dbpedia.org/resource/Loreena_McKennitt and http://dbpedia.org/resource/Justin_Time_Records and the value is : 0
+http://dbpedia.org/resource/Justin_Time_Records and http://dbpedia.org/resource/House_music and the value is : 0
+http://dbpedia.org/resource/Justin_Time_Records and http://dbpedia.org/resource/Warner_Music_Canada and the value is : 0
+http://dbpedia.org/resource/Justin_Time_Records and http://dbpedia.org/resource/Music_licensing and the value is : 0
+http://dbpedia.org/resource/House_music and http://dbpedia.org/resource/Warner_Music_Canada and the value is : 0
+http://dbpedia.org/resource/House_music and http://dbpedia.org/resource/Music_licensing and the value is : 0
+http://dbpedia.org/resource/Warner_Music_Canada and http://dbpedia.org/resource/Music_licensing and the value is : 0
+http://dbpedia.org/resource/A440 and http://dbpedia.org/resource/Popular_music and the value is : 0
+http://dbpedia.org/resource/House_music and http://dbpedia.org/resource/Record_label and the value is : 0
+http://dbpedia.org/resource/House_music and http://dbpedia.org/resource/Indian_reservation and the value is : 0
+http://dbpedia.org/resource/House_music and http://dbpedia.org/resource/Train and the value is : 0
+http://dbpedia.org/resource/Record_label and http://dbpedia.org/resource/Indian_reservation and the value is : 0
+http://dbpedia.org/resource/Record_label and http://dbpedia.org/resource/Train and the value is : 0
+http://dbpedia.org/resource/Indian_reservation and http://dbpedia.org/resource/Train and the value is : 0
+http://dbpedia.org/resource/Society_of_Composers,_Authors_and_Music_Publishers_of_Canada and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Society_of_Composers,_Authors_and_Music_Publishers_of_Canada and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Society_of_Composers,_Authors_and_Music_Publishers_of_Canada and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Instrumental and the value is : 1
+http://dbpedia.org/resource/Jazz and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Juno_Award and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Juno_Award and http://dbpedia.org/resource/Loreena_McKennitt and the value is : 0
+http://dbpedia.org/resource/Record_producer and http://dbpedia.org/resource/Loreena_McKennitt and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+brian hughes born october 28 1956 is a canadian jazz guitarist composer and arranger. he has released several albums as a leader and has performed and recorded with a variety of jazz pop and world music artists including kenny rankin gino vannelli joni mitchell chaka khan and the canadian brass. hughes was born in toronto ontario canada. he began playing guitar at the age of nine and was influenced by jazz guitarists such as wes montgomery joe pass and george benson. he studied music at york university in toronto and later at the berklee college of music in boston. hughes has released several albums as a leader including his debut album first flight 1985 and one 2 one 1995. he has also released several albums with his group the brian hughes quartet including live at the senator 1997 and live at the montreal bistro 1999. he has also released several albums with his world music group the brian hughesmichael o 
+
+Coref Resolved : 
+brian hughes born october 28 1956 is a canadian jazz guitarist composer and arranger. brian hughes born october 28 1956 is a canadian jazz guitarist composer and arrangerhas released several albums as a leader and has performed and recorded with a variety of jazz pop and world music artists including kenny rankin gino vannelli joni mitchell chaka khan and the canadian brass. brian hughes born october 28 1956 is a canadian jazz guitarist composer and arrangerwas born in toronto ontario canada. brian hughes born october 28 1956 is a canadian jazz guitarist composer and arrangerbegan playing guitar at the age of nine and was influenced by jazz guitarists such as wes montgomery joe pass and george benson. brian hughes born october 28 1956 is a canadian jazz guitarist composer and arrangerstudied music at york university in toronto ontario canadaand later at the berklee college of music in boston. brian hughes born october 28 1956 is a canadian jazz guitarist composer and arrangerhas released several albums as a leader including brian hughes born october 28 1956 is a canadian jazz guitarist composer and arrangerdebut album first flight 1985 and one 2 one 1995. brian hughes born october 28 1956 is a canadian jazz guitarist composer and arrangerhas also released several albums with brian hughes born october 28 1956 is a canadian jazz guitarist composer and arrangergroup the brian hughes quartet including live at the senator 1997 and live at the montreal bistro 1999. brian hughes born october 28 1956 is a canadian jazz guitarist composer and arrangerhas also released several albums with brian hughes born october 28 1956 is a canadian jazz guitarist composer and arrangerworld music group the brian hughesmichael o
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+brian hughes born 1955 is a canadian guitarist whose work draws from both the smooth jazz and world music genres of the latter his influences have thus far been primarily latin. not restricted entirely to conventional guitars hughes has also been known to employ the oud bouzouki and balalaika. he has for over twentyfour years worked in the studio with singersongwriter loreena mckennitt coproduced many of her recordings and leads her touring band. hughes has many albums starting from the early 1990s. his music is contemporary jazz using the jazz guitar for his instrumental music. his latest release is the cd fast train to a quiet place released in july 2011. many of his works can be heard on the weather channels local on the 8s and on sirius xms watercolors channel. hughes grew up in alberta canada and studied at grant macewan college now macewan university in edmonton and the banff school of fine arts with guitarists ed bickert and gene bertoncini. in 1981 he moved temporarily to los angeles where he studied at the guitar institute with pat martino joe diorio and robben ford. in 1987 hughes relocated to toronto where he began working with harpist loreena mckennitt and in 1991 recorded his first album as a leader for justin time records. hughes subsequently recorded under one sky for justin time in 1992 and then started his own label sylvan house music in 1995 which was distributed by warner music canada and licensed to higher octaveemi in the usa and abroad. brian recorded three more albums straight to you one 2 one and shakin not stirred under this arrangement before releasing along the way with a440 music group in 2003. hughes returned to his sylvan house music imprint for the release of live 2007 no reservations concert dvd 2009 and fast train to a quiet place in july 2011. brian relocated to los angeles in 2000 where he continues to reside. awards brian received the socan society of canadian authors and composers jazz and instrumental composer of the year award in 1997 1998 1999 2000 2001 2006 and 2008. he was also nominated for a juno award as producer of the year in 1991 for the loreena mckennitt album the visit. 
+
+Coref Resolved : 
+brian hughes born 1955 is a canadian guitarist whose work draws from both the smooth jazz and world music genres of the latter hughes influences have thus far been primarily latin. not restricted entirely to conventional guitars hughes has also been known to employ the oud bouzouki and balalaika. hughes has for over twentyfour years worked in the studio with singersongwriter loreena mckennitt coproduced many of singersongwriter loreena mckennitt recordings and leads singersongwriter loreena mckennitt touring band. hughes has many albums starting from the early 1990s. hughes music is contemporary jazz using the jazz guitar for hughes instrumental music. hughes latest release is the cd fast train to a quiet place released in july 2011. many of hughes works can be heard on the weather channels local on the 8s and on sirius xms watercolors channel. hughes grew up in alberta canada and studied at grant macewan college now macewan university in edmonton and the banff school of fine arts with guitarists ed bickert and gene bertoncini. in 1981 hughes moved temporarily to los angeles where hughes studied at the guitar institute with pat martino joe diorio and robben ford. in 1987 hughes relocated to toronto where hughes began working with singersongwriter loreena mckennitt and in 1991 recorded hughes first album as a leader for justin time records. hughes subsequently recorded under one sky for justin time recordsin 1992 and then started hughes own label sylvan house music in 1995 which was distributed by warner music canada and licensed to higher octaveemi in the usa and abroad. hughes recorded three more albums straight to you one 2 one and shakin not stirred under this arrangement before releasing along the way with a440 music group in 2003. hughes returned to hughes sylvan house music imprint for the release of live 2007 no reservations concert dvd 2009 and fast train to a quiet place in july 2011. hughes relocated to los angeles in 2000 where hughes continues to reside. awards hughes received the socan society of canadian authors and composers jazz and instrumental composer of the year award in 1997 1998 1999 2000 2001 2006 and 2008. hughes was also nominated for a juno award as producer of the year in 1991 for the singersongwriter loreena mckennitt album the visit.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.20512820512820512 and for ground truth is : 0.2191780821917808
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

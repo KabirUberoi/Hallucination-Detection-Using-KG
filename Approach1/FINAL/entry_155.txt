@@ -1,0 +1,214 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Professors_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Santa_Barbara_Unified_School_District and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Computer_graphics and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Santa_Barbara_Unified_School_District and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Computer_graphics and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Robotics and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Santa_Barbara_Unified_School_District and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Computer_graphics and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Santa_Barbara_Unified_School_District and http://dbpedia.org/resource/Computer_graphics and the value is : 1
+http://dbpedia.org/resource/Santa_Barbara_Unified_School_District and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/Santa_Barbara_Unified_School_District and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Electrical_engineering and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/National_Taiwan_University and the value is : 1
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Science and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 1
+http://dbpedia.org/resource/Electrical_engineering and http://dbpedia.org/resource/National_Taiwan_University and the value is : 0
+http://dbpedia.org/resource/Electrical_engineering and http://dbpedia.org/resource/Master_of_Science and the value is : 1
+http://dbpedia.org/resource/Electrical_engineering and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/National_Taiwan_University and http://dbpedia.org/resource/Master_of_Science and the value is : 1
+http://dbpedia.org/resource/National_Taiwan_University and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 1
+http://dbpedia.org/resource/Master_of_Science and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/University_of_Southern_California and the value is : 0
+http://dbpedia.org/resource/Computer_science and http://dbpedia.org/resource/Jet_Propulsion_Laboratory and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Professors_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Computer_science and the value is : 1
+http://dbpedia.org/resource/Professors_in_the_United_States and http://dbpedia.org/resource/Computer_science and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Medical_physics and the value is : 0
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/Robotics and the value is : 1
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/Medical_physics and the value is : 0
+http://dbpedia.org/resource/Robotics and http://dbpedia.org/resource/Medical_physics and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/National_Science_Foundation_CAREER_Awards and the value is : 1
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/IEEE_Computer_Society and the value is : 0
+http://dbpedia.org/resource/Computer_graphics and http://dbpedia.org/resource/SIGGRAPH and the value is : 0
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/Robotics and the value is : 1
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/National_Science_Foundation_CAREER_Awards and the value is : 1
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/IEEE_Computer_Society and the value is : 0
+http://dbpedia.org/resource/Computer_vision and http://dbpedia.org/resource/SIGGRAPH and the value is : 0
+http://dbpedia.org/resource/Robotics and http://dbpedia.org/resource/National_Science_Foundation_CAREER_Awards and the value is : 0
+http://dbpedia.org/resource/Robotics and http://dbpedia.org/resource/IEEE_Computer_Society and the value is : 0
+http://dbpedia.org/resource/Robotics and http://dbpedia.org/resource/SIGGRAPH and the value is : 0
+http://dbpedia.org/resource/National_Science_Foundation_CAREER_Awards and http://dbpedia.org/resource/IEEE_Computer_Society and the value is : 0
+http://dbpedia.org/resource/National_Science_Foundation_CAREER_Awards and http://dbpedia.org/resource/SIGGRAPH and the value is : 0
+http://dbpedia.org/resource/IEEE_Computer_Society and http://dbpedia.org/resource/SIGGRAPH and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Chinese_Americans and http://dbpedia.org/resource/Pianist and the value is : 0
+http://dbpedia.org/resource/Gulangyu and http://dbpedia.org/resource/South_Central_China and the value is : 0
+http://dbpedia.org/resource/Pastor and http://dbpedia.org/resource/Hymn and the value is : 0
+http://dbpedia.org/resource/Pastor and http://dbpedia.org/resource/Piano and the value is : 0
+http://dbpedia.org/resource/Hymn and http://dbpedia.org/resource/Piano and the value is : 0
+http://dbpedia.org/resource/Pianist and http://dbpedia.org/resource/Hymn and the value is : 1
+http://dbpedia.org/resource/Pianist and http://dbpedia.org/resource/Ear and the value is : 0
+http://dbpedia.org/resource/Hymn and http://dbpedia.org/resource/Ear and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Pianist and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Shanghai_Conservatory_of_Music and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Child_prodigy and the value is : 0
+http://dbpedia.org/resource/Pianist and http://dbpedia.org/resource/Shanghai_Conservatory_of_Music and the value is : 0
+http://dbpedia.org/resource/Pianist and http://dbpedia.org/resource/Child_prodigy and the value is : 0
+http://dbpedia.org/resource/Shanghai_Conservatory_of_Music and http://dbpedia.org/resource/Child_prodigy and the value is : 0
+http://dbpedia.org/resource/Chopin_(unit) and http://dbpedia.org/resource/Étude and the value is : 0
+http://dbpedia.org/resource/Chopin_(unit) and http://dbpedia.org/resource/Shanghaiing and the value is : 0
+http://dbpedia.org/resource/Chopin_(unit) and http://dbpedia.org/resource/Orchestra and the value is : 1
+http://dbpedia.org/resource/Étude and http://dbpedia.org/resource/Shanghaiing and the value is : 0
+http://dbpedia.org/resource/Étude and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Shanghaiing and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Queen_Elisabeth_Competition and http://dbpedia.org/resource/Belgium and the value is : 0
+http://dbpedia.org/resource/Labor_camp and http://dbpedia.org/resource/Ballet_dancer and the value is : 0
+http://dbpedia.org/resource/Labor_camp and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Ballet_dancer and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/King_Arthur and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Arthur_Rubinstein and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Pianist and the value is : 0
+http://dbpedia.org/resource/King_Arthur and http://dbpedia.org/resource/Arthur_Rubinstein and the value is : 0
+http://dbpedia.org/resource/King_Arthur and http://dbpedia.org/resource/Pianist and the value is : 0
+http://dbpedia.org/resource/Arthur_Rubinstein and http://dbpedia.org/resource/Pianist and the value is : 0
+http://dbpedia.org/resource/Gina_Bachauer_International_Piano_Competition and http://dbpedia.org/resource/Memorial and the value is : 0
+http://dbpedia.org/resource/Gina_Bachauer_International_Piano_Competition and http://dbpedia.org/resource/Pianist and the value is : 0
+http://dbpedia.org/resource/Gina_Bachauer_International_Piano_Competition and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/Memorial and http://dbpedia.org/resource/Pianist and the value is : 0
+http://dbpedia.org/resource/Memorial and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/Pianist and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Alice_Tully_Hall and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Carnegie_Hall and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Abraham_Lincoln and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/John_F._Kennedy_Center_for_the_Performing_Arts and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/South_America and the value is : 0
+http://dbpedia.org/resource/Alice_Tully_Hall and http://dbpedia.org/resource/Carnegie_Hall and the value is : 0
+http://dbpedia.org/resource/Alice_Tully_Hall and http://dbpedia.org/resource/Abraham_Lincoln and the value is : 0
+http://dbpedia.org/resource/Alice_Tully_Hall and http://dbpedia.org/resource/John_F._Kennedy_Center_for_the_Performing_Arts and the value is : 0
+http://dbpedia.org/resource/Alice_Tully_Hall and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Alice_Tully_Hall and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Alice_Tully_Hall and http://dbpedia.org/resource/South_America and the value is : 0
+http://dbpedia.org/resource/Carnegie_Hall and http://dbpedia.org/resource/Abraham_Lincoln and the value is : 0
+http://dbpedia.org/resource/Carnegie_Hall and http://dbpedia.org/resource/John_F._Kennedy_Center_for_the_Performing_Arts and the value is : 0
+http://dbpedia.org/resource/Carnegie_Hall and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Carnegie_Hall and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Carnegie_Hall and http://dbpedia.org/resource/South_America and the value is : 0
+http://dbpedia.org/resource/Abraham_Lincoln and http://dbpedia.org/resource/John_F._Kennedy_Center_for_the_Performing_Arts and the value is : 0
+http://dbpedia.org/resource/Abraham_Lincoln and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/Abraham_Lincoln and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Abraham_Lincoln and http://dbpedia.org/resource/South_America and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy_Center_for_the_Performing_Arts and http://dbpedia.org/resource/University_of_Washington and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy_Center_for_the_Performing_Arts and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy_Center_for_the_Performing_Arts and http://dbpedia.org/resource/South_America and the value is : 1
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/University_of_Washington and http://dbpedia.org/resource/South_America and the value is : 0
+http://dbpedia.org/resource/Direct_current and http://dbpedia.org/resource/South_America and the value is : 0
+http://dbpedia.org/resource/Virtuoso and http://dbpedia.org/resource/Anthony_Horowitz and the value is : 0
+http://dbpedia.org/resource/Virtuoso and http://dbpedia.org/resource/Pianism and the value is : 0
+http://dbpedia.org/resource/Anthony_Horowitz and http://dbpedia.org/resource/Pianism and the value is : 0
+http://dbpedia.org/resource/Juilliard_School and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Juilliard_School and http://dbpedia.org/resource/Sascha_Gorodnitzki and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Sascha_Gorodnitzki and the value is : 0
+http://dbpedia.org/resource/Germany and http://dbpedia.org/resource/Andorra and the value is : 1
+http://dbpedia.org/resource/Germany and http://dbpedia.org/resource/Switzerland and the value is : 1
+http://dbpedia.org/resource/Andorra and http://dbpedia.org/resource/Switzerland and the value is : 0
+http://dbpedia.org/resource/Ballet_dancer and http://dbpedia.org/resource/Montreal_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Ballet_dancer and http://dbpedia.org/resource/Charles_Dutoit and the value is : 0
+http://dbpedia.org/resource/Ballet_dancer and http://dbpedia.org/resource/Moscow and the value is : 0
+http://dbpedia.org/resource/Ballet_dancer and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Ballet_dancer and http://dbpedia.org/resource/Russia and the value is : 0
+http://dbpedia.org/resource/Ballet_dancer and http://dbpedia.org/resource/Music_festival and the value is : 1
+http://dbpedia.org/resource/Montreal_Symphony_Orchestra and http://dbpedia.org/resource/Charles_Dutoit and the value is : 0
+http://dbpedia.org/resource/Montreal_Symphony_Orchestra and http://dbpedia.org/resource/Moscow and the value is : 0
+http://dbpedia.org/resource/Montreal_Symphony_Orchestra and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Montreal_Symphony_Orchestra and http://dbpedia.org/resource/Russia and the value is : 0
+http://dbpedia.org/resource/Montreal_Symphony_Orchestra and http://dbpedia.org/resource/Music_festival and the value is : 1
+http://dbpedia.org/resource/Charles_Dutoit and http://dbpedia.org/resource/Moscow and the value is : 0
+http://dbpedia.org/resource/Charles_Dutoit and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Charles_Dutoit and http://dbpedia.org/resource/Russia and the value is : 0
+http://dbpedia.org/resource/Charles_Dutoit and http://dbpedia.org/resource/Music_festival and the value is : 0
+http://dbpedia.org/resource/Moscow and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Moscow and http://dbpedia.org/resource/Russia and the value is : 1
+http://dbpedia.org/resource/Moscow and http://dbpedia.org/resource/Music_festival and the value is : 0
+http://dbpedia.org/resource/Orchestra and http://dbpedia.org/resource/Russia and the value is : 0
+http://dbpedia.org/resource/Orchestra and http://dbpedia.org/resource/Music_festival and the value is : 0
+http://dbpedia.org/resource/Russia and http://dbpedia.org/resource/Music_festival and the value is : 0
+http://dbpedia.org/resource/China_National_Symphony_Orchestra and http://dbpedia.org/resource/Beijing and the value is : 0
+http://dbpedia.org/resource/China_National_Symphony_Orchestra and http://dbpedia.org/resource/Shanghai_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/China_National_Symphony_Orchestra and http://dbpedia.org/resource/Shanghaiing and the value is : 0
+http://dbpedia.org/resource/China_National_Symphony_Orchestra and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/China_National_Symphony_Orchestra and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/China_National_Symphony_Orchestra and http://dbpedia.org/resource/Kyushu_University and the value is : 0
+http://dbpedia.org/resource/Beijing and http://dbpedia.org/resource/Shanghai_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Beijing and http://dbpedia.org/resource/Shanghaiing and the value is : 0
+http://dbpedia.org/resource/Beijing and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Beijing and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Beijing and http://dbpedia.org/resource/Kyushu_University and the value is : 0
+http://dbpedia.org/resource/Shanghai_Symphony_Orchestra and http://dbpedia.org/resource/Shanghaiing and the value is : 0
+http://dbpedia.org/resource/Shanghai_Symphony_Orchestra and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Shanghai_Symphony_Orchestra and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Shanghai_Symphony_Orchestra and http://dbpedia.org/resource/Kyushu_University and the value is : 0
+http://dbpedia.org/resource/Shanghaiing and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Shanghaiing and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Shanghaiing and http://dbpedia.org/resource/Kyushu_University and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Radio_personality and http://dbpedia.org/resource/Kyushu_University and the value is : 1
+http://dbpedia.org/resource/Orchestra and http://dbpedia.org/resource/Kyushu_University and the value is : 0
+http://dbpedia.org/resource/Sony_Classical_Records and http://dbpedia.org/resource/RCA_Records and the value is : 0
+http://dbpedia.org/resource/Sony_Classical_Records and http://dbpedia.org/resource/Hugo_Boss and the value is : 0
+http://dbpedia.org/resource/Sony_Classical_Records and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/RCA_Records and http://dbpedia.org/resource/Hugo_Boss and the value is : 0
+http://dbpedia.org/resource/RCA_Records and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Hugo_Boss and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Romantic_music and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Romantic_music and http://dbpedia.org/resource/Composer and the value is : 1
+http://dbpedia.org/resource/Romantic_music and http://dbpedia.org/resource/Huang_(jade) and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Huang_(jade) and the value is : 0
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Huang_(jade) and the value is : 0
+http://dbpedia.org/resource/Traffic_collision and http://dbpedia.org/resource/Concert and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+feiping hsu chinese 許飛平 born october 28 1962 is a taiwaneseamerican computer scientist and professor at the university of california santa barbara. he is best known for his research in computer graphics computer vision and robotics. hsu received his b.s. degree in electrical engineering from national taiwan university in 1985 and his m.s. and ph.d. degrees in computer science from the university of southern california in 1988 and 1991 respectively. he was a research scientist at the jet propulsion laboratory from 1991 to 1993. he joined the faculty of the university of california santa barbara in 1993 where he is currently a professor in the department of computer science. hsus research interests include computer graphics computer vision robotics and medical imaging. he has published over 200 papers in these areas and has received numerous awards including the national science foundation career award the ieee computer society technical achievement award and the acm siggraph significant new researcher award. 
+
+Coref Resolved : 
+feiping hsu chinese 許飛平 born october 28 1962 is a taiwaneseamerican computer scientist and professor at the university of california santa barbara. feiping hsu chinese 許飛平 born october 28 1962 is best known for feiping hsu chinese 許飛平 born october 28 1962 research in computer graphics computer vision and robotics. feiping hsu chinese 許飛平 born october 28 1962 received feiping hsu chinese 許飛平 born october 28 1962 b.s. degree in electrical engineering from national taiwan university in 1985 and feiping hsu chinese 許飛平 born october 28 1962 m.s. and ph.d. degrees in computer science from the university of southern california in 1988 and 1991 respectively. feiping hsu chinese 許飛平 born october 28 1962 was a research scientist at the jet propulsion laboratory from 1991 to 1993. feiping hsu chinese 許飛平 born october 28 1962 joined the faculty of the university of california santa barbarain 1993where feiping hsu chinese 許飛平 born october 28 1962 is currently a professor in the department of computer science. feiping hsu chinese 許飛平 born october 28 1962 research interests include computer graphics computer vision robotics and medical imaging. feiping hsu chinese 許飛平 born october 28 1962 has published over 200 papers in computer graphics computer vision robotics and medical imagingand has received numerous awards including the national science foundation career award the ieee computer society technical achievement award and the acm siggraph significant new researcher award.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+feiping hsu b. 1952 d. 2001 was a renowned chinese american pianist known for his sensitive brilliant and poetic interpretations. mr. hsu was born on the island of gulangyu in southeast china. as the youngest son of a christian pastor he grew up singing hymns while his mother played on an upright piano. one day when his mother was ill the fiveyearold feiping went to the piano and played the hymns by ear. the family realized his tremendous talent and encouraged him to study music. when he was eight years old he had a rare opportunity to meet professor jisen fan the head of the piano department of the shanghai conservatory and was recognized as a child prodigy. by the time he was twelve he already played the complete chopin etudes and had performed with the shanghai philharmonic. feiping was invited to perform for queen elisabeth of belgium who was so impressed with his ability that she personally invited feiping to study and perform in europe under her sponsorship. unfortunately he was not allowed to accept this invitation due to the advent of the cultural revolution during the 1960s. however he survived the labor camps and became well known in china touring extensively throughout the far east as a soloist with the central philharmonic the foremost leading orchestra. he was a gold medal winner at the arthur rubinstein international piano competition the first pianist in the competitions history from the peoples republic of china. he also garnered top prizes in other international competitions including the gina bachauer memorial piano scholarship competition the university of maryland international competition and the paloma oshea international competition spain. mr. hsu made his new york recital debut at alice tully hall in 1983 and performed throughout the united states including notable appearances at carnegie hall lincoln center and the kennedy center in washington d.c. he also frequently toured europe south america and the far east. mr. hsu was especially noted for his largerthanlife virtuosic style of horowitzian pianism. in 1979 feiping hsu received permission to study in the united states. among others he attended the juilliard school of music under the tutelage of sascha gorodnitzki. he had given numerous concerts in germany france andorra switzerland and italy. he has appeared as a soloist with major orchestras including the montreal symphony orchestra under the baton of maestro charles dutoit the moscow philharmonic in russia the finnish tempere symphony orchestra in europe as well as numerous orchestras in the united states performing in various concert halls and music festivals. mr. hsu was also actively engaged in his native asia where his collaborations include appearances with the china national symphony orchestra in beijing the shanghai symphony orchestra the shanghai radio symphony orchestra and the kyushu symphony orchestra in japan. since the early 1970s mr. hsu had recorded for major labels such as columbia records rca victor records hugo records roi productions and ma recordings in japan. highly regarded as one of the foremost pianists of the western and romantic traditions hsu was also an early champion of the music of the modern composer huang anlun. his life was cut short in a road accident while on a concert tour in china on november 27 2001 and he is remembered by many to this day. he is survived by his wife and daughter. 
+
+Coref Resolved : 
+feiping hsu b. 1952 d. 2001 was a renowned chinese american pianist known for feiping hsu sensitive brilliant and poetic interpretations. feiping hsu was born on the island of gulangyu in southeast china. as the youngest son of a christian pastor feiping hsu grew up singing hymns while feiping hsu mother played on an upright piano. one day when feiping hsu mother was ill feiping hsu went to the piano and played hymns by ear. the family realized feiping hsu tremendous talent and encouraged feiping hsu to study music. when feiping hsu was eight years old feiping hsu had a rare opportunity to meet professor jisen fan the head of the piano department of the shanghai conservatory and was recognized as a child prodigy. by the time feiping hsu was twelve feiping hsu already played the complete chopin etudes and had performed with the shanghai philharmonic. feiping hsu was invited to perform for queen elisabeth of belgium who was so impressed with feiping hsu ability that she personally this invitation feiping hsu to study and perform in europe under she sponsorship. unfortunately feiping hsu was not allowed to accept this invitation due to the advent of the cultural revolution during the 1960s. however feiping hsu survived the labor camps and became well known in china touring extensively throughout the far east as a soloist with the central philharmonic the foremost leading orchestra. feiping hsu was a gold medal winner at the arthur rubinstein international piano competition the first pianist in the arthur rubinstein international piano competition history from china . feiping hsu also garnered top prizes in other international competitions including the gina bachauer memorial piano scholarship competition the university of maryland international competition and the paloma oshea international competition spain. feiping hsu made feiping hsu new york recital debut at alice tully hall in 1983 and performed throughout the united states including notable appearances at carnegie hall lincoln center and the kennedy center in washington d.c. feiping hsu also frequently toured europe south america and the far east . feiping hsu was especially noted for feiping hsu largerthanlife virtuosic style of horowitzian pianism. in 1979 feiping hsu received permission to study in the united states . among others feiping hsu attended the juilliard school of music under the tutelage of sascha gorodnitzki. feiping hsu had given numerous concerts in germany france andorra switzerland and italy. feiping hsu has appeared as a soloist with major orchestras including the montreal symphony orchestra under the baton of maestro charles dutoit the moscow philharmonic in russia the finnish tempere symphony orchestra in europe as well as numerous orchestras in the united states performing in various concert halls and music festivals. feiping hsu was also actively engaged in feiping hsu native asia where feiping hsu collaborations include appearances with the china national symphony orchestra in beijing the shanghai symphony orchestra the shanghai radio symphony orchestra and the kyushu symphony orchestra in japan. since the early 1970s feiping hsu had recorded for major labels such as columbia records rca victor records hugo records roi productions and ma recordings in japan. highly regarded as one of the foremost pianists of the western and romantic traditions feiping hsu was also an early champion of the music of the modern composer huang anlun. feiping hsu life was cut short in a road accident while on a concert tour in china on november 27 2001 and feiping hsu is remembered by many to this day. feiping hsu is survived by feiping hsu wife and daughter.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2807017543859649 and for ground truth is : 0.08527131782945736
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

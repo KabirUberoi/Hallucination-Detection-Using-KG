@@ -1,0 +1,39 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Bryan_Cranston and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Mayor and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Bryan_Cranston and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 1
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/Bryan_Cranston and the value is : 0
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Bryan_Cranston and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 1
+http://dbpedia.org/resource/University_of_Rhode_Island and http://dbpedia.org/resource/Bryan_Cranston and the value is : 0
+http://dbpedia.org/resource/University_of_Rhode_Island and http://dbpedia.org/resource/Bachelor_of_Business_Administration and the value is : 1
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/University_of_Rhode_Island and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/University_of_Rhode_Island and http://dbpedia.org/resource/Party_leaders_of_the_United_States_Senate and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Party_leaders_of_the_United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Bryan_Cranston and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Bryan_Cranston and http://dbpedia.org/resource/Philadelphia_City_Council and the value is : 0
+http://dbpedia.org/resource/University_of_Rhode_Island and http://dbpedia.org/resource/Philadelphia_City_Council and the value is : 0
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/Bryan_Cranston and the value is : 0
+http://dbpedia.org/resource/Mayor and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 0
+http://dbpedia.org/resource/Bryan_Cranston and http://dbpedia.org/resource/University_of_Rhode_Island and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+william j. flanagan jr. born october 28 1945 is an american politician and lawyer who served as the mayor of cranston rhode island from 2003 to 2019. he was first elected in 2003 and was reelected in 2006 2010 and 2014. he is a member of the democratic party. flanagan was born in providence rhode island and graduated from cranston high school east in 1963. he attended the university of rhode island graduating in 1967 with a bachelor of science degree in business administration. he then attended the new england school of law graduating in 1970 with a juris doctor degree. flanagan was a member of the rhode island house of representatives from 1975 to 1983. he was a member of the rhode island senate from 1983 to 2003 serving as senate majority leader from 1995 to 2003. he was also a member of the cranston city council from 1990 to 2003. in 2003 flanagan was elected mayor of cranston. he was reelected in 2006 2010 and 2014. during his tenure he was credited with helping to reduce 
+
+Coref Resolved : 
+william j. flanagan jr. born october 28 1945 is an american politician and lawyer who served as the mayor of cranston rhode island from 2003 to 2019. william j. flanagan jr. born october 28 1945 was first elected in 2003 and was reelected in 2006 2010 and 2014. william j. flanagan jr. born october 28 1945 is a member of the democratic party. william j. flanagan jr. born october 28 1945 was born in providence rhode island and graduated from cranston rhode island high school east in 1963. william j. flanagan jr. born october 28 1945 attended the university of rhode island graduating in 1967 with a bachelor of science degree in business administration. william j. flanagan jr. born october 28 1945 then attended the new england school of law graduating in 1970 with a juris doctor degree. william j. flanagan jr. born october 28 1945 was a member of the rhode island house of representatives from 1975 to 1983. william j. flanagan jr. born october 28 1945 was a member of the rhode island senate from 1983to 2003 serving as senate majority leader from 1995 to 2003 . william j. flanagan jr. born october 28 1945 was also a member of the cranston rhode island city council from 1990 to 2003 . in 2003 william j. flanagan jr. born october 28 1945 was elected mayor of cranston rhode island . william j. flanagan jr. born october 28 1945 was reelected in 2006 2010 and 2014. during william j. flanagan jr. born october 28 1945 tenure william j. flanagan jr. born october 28 1945 was credited with helping to reduce
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.18181818181818182
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

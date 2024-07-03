@@ -1,0 +1,39 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/The_Donnas and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/The_Donnas and the value is : 1
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/The_Donnas and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/San_Francisco_Bay_Area and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/San_Francisco_Bay_Area and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/San_Francisco_Bay_Area and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Musical_theatre and the value is : 1
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Torry_Castellano and http://dbpedia.org/resource/Charity_supergroup and the value is : 0
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Musical_theatre and http://dbpedia.org/resource/Charity_supergroup and the value is : 1
+http://dbpedia.org/resource/Punk_rock and http://dbpedia.org/resource/Charity_supergroup and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+torry castellano born august 21 1979 is an american musician best known as the drummer for the punk rock band the donnas. she was born in los angeles california and grew up in the san francisco bay area. castellano began playing drums at the age of 11 and joined the donnas in 1993 when she was 14. she has been the bands drummer ever since. castellano has also been involved in other musical projects including the allfemale punk band the frustrators and the punk rock supergroup the coverups. she has also done session work for other bands including the eyeliners and the dollyrots. 
+
+Coref Resolved : 
+torry castellano born august 21 1979 is an american musician best known as the drummer for the punk rock band the donnas. torry castellano born august 21 1979 was born in los angeles california and grew up in the san francisco bay area. torry castellano born august 21 1979 began playing drums at the age of 11 and joined the punk rock band the donnasin 1993 when torry castellano born august 21 1979 was 14. torry castellano born august 21 1979 has been the punk rock band the donnasdrummer ever since. torry castellano born august 21 1979 has also been involved in other musical projects including the allfemale punk band the frustrators and the punk rock supergroup the coverups. torry castellano born august 21 1979 has also done session work for other bands including the eyeliners and the dollyrots.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.22727272727272727
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate minor_inaccurate major_inaccurate major_inaccurate 
+

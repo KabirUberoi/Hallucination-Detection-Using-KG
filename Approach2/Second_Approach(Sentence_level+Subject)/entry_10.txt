@@ -1,0 +1,110 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/CBS and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/How_I_Met_Your_Mother and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Ravi_Kapoor and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/American_Broadcasting_Company and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Dharma_Productions and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Tehran and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Iran and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Cheers and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/The_Big_Lebowski and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/The_Wedding_Planner and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Shohreh_Aghdashloo and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/California and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Mashhad and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Iran and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Iranian_Americans and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Cleveland_Brown and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Boston_Legal and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/How_I_Met_Your_Mother and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Bangladeshis and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Burn_Notice and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Persons_Unknown_(TV_series) and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/The_X-Files and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Earned_run and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/NYPD_Blue and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Prison_Break and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Prime_Minister_of_India and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Mamata_Banerjee and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/True_Lies and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Stealing_Harvard and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/The_Big_Lebowski and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Kazaam and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/The_Poseidon_Adventure_(1972_film) and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Shri and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Home_Alone and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Night and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Cameo_appearance and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Madonna and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Hung_Up and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Noor_Iranian_Film_Festival and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Marshall Manesh (born October 24, 1956) is an American actor.
+He is best known for his roles as Ranjit on the CBS sitcom How I Met Your Mother and as Dr. Ravi Kapoor on the ABC sitcom Dharma Greg.
+Manesh was born in Tehran, Iran, and moved to the United States in 1975.
+He attended the University of California, Los Angeles, where he earned a degree in theater.
+He began his acting career in the late 1980s, appearing in television shows such as L.A. Law, Cheers, and Seinfeld.
+He has also appeared in films such as The Big Lebowski and The Wedding Planner.
+Manesh has been married to actress Shohreh Aghdashloo since 1992.
+They have two children.
+He currently resides in Los Angeles, California.
+
+
+Coref Resolved: 
+
+Marshall Manesh (born October 24, 1956) is an American actor.
+Marshall Manesh is best known for Marshall Manesh roles as Ranjit on the CBS sitcom How I Met Your Mother and as Dr. Ravi Kapoor on the ABC sitcom Dharma Greg.
+Marshall Manesh was born in Tehran, Iran, and moved to the United States in 1975.
+Marshall Manesh attended the University of California, Los Angeles, where Marshall Manesh earned a degree in theater.
+Marshall Manesh began Marshall Manesh acting career in the late 1980s, appearing in television shows such as L.A. Law, Cheers, and Seinfeld.
+Marshall Manesh has also appeared in films such as The Big Lebowski and The Wedding Planner.
+Marshall Manesh has been married to actress Shohreh Aghdashloo since 1992.
+They have two children.
+Marshall Manesh currently resides in Los Angeles, California.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Marshall Manesh (born August 16, 1950 in Mashhad, Iran) is an Iranian American actor.
+Manesh has appeared in recurring roles on the television shows "Will Grace", "Scrubs", "Andy Barker, P.I.", "Hot in Cleveland", "Boston Legal", and, most notably, "How I Met Your Mother", where he plays the Bangladeshi taxi town car limo driver Ranjit.
+He has also guest starred on many shows, including "Burn Notice", "Persons Unknown", "The X-Files", "Scrubs", "ER", "JAG", "NYPD Blue", and "Prison Break" as the Indian Prime Minister Nandu Banerjee.
+Manesh has acted in several movies, including "True Lies" (his debut), "Stealing Harvard", "The Big Lebowski", "Kazaam", "The Poseidon Adventure", "Seeking a Friend for the End of the World", as Sri Sumbhajee, one of the Pirate Lords, and as Hossein in the vampire western "A Girl Walks Home Alone at Night".
+He has also had a cameo appearance as the cab driver on Madonna's 2005 video for "Hung Up".
+He served as a judge at the 6th Annual Noor Iranian Film Festival.
+ 
+
+Coref Resolved: 
+
+Marshall Manesh (born August 16, 1950 in Mashhad, Iran) is an Iranian American actor.
+Marshall Manesh has appeared in recurring roles on the television shows "Will Grace", "Scrubs", "Andy Barker, P.I.", "Hot in Cleveland", "Boston Legal", and, most notably, "How I Met Your Mother", where Marshall Manesh plays the Bangladeshi taxi town car limo driver Ranjit.
+Marshall Manesh has also guest starred on many shows, including "Burn Notice", "Persons Unknown", "The X-Files", "Scrubs", "ER", "JAG", "NYPD Blue", and "Prison Break" as the Indian Prime Minister Nandu Banerjee.
+Marshall Manesh has acted in several movies, including "True Lies" (Marshall Manesh debut), "Stealing Harvard", "The Big Lebowski", "Kazaam", "The Poseidon Adventure", "Seeking a Friend for the End of the World", as Sri Sumbhajee, one of the Pirate Lords, and as Hossein in the vampire western "A Girl Walks Home Alone at Night".
+Marshall Manesh has also had a cameo appearance as the cab driver on Madonna's 2005 video for "Hung Up".
+Marshall Manesh served as a judge at the 6th Annual Noor Iranian Film Festival.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 0.14285714285714285 0.0 0.0 0.0 0.5 0.0 -1 0.0 
+
+Value for ground truth is : 
+0.3333333333333333 0.5 0.625 0.5 0.3333333333333333 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate accurate 
+

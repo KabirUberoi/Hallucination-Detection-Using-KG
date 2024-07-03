@@ -1,0 +1,230 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Geologist and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Paleontology and the value is : 0
+http://dbpedia.org/resource/Geologist and http://dbpedia.org/resource/Paleontology and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/University_of_Kiel and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Weimar_Republic and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Humboldt_University_of_Berlin and the value is : 1
+http://dbpedia.org/resource/University_of_Kiel and http://dbpedia.org/resource/Weimar_Republic and the value is : 0
+http://dbpedia.org/resource/University_of_Kiel and http://dbpedia.org/resource/Humboldt_University_of_Berlin and the value is : 0
+http://dbpedia.org/resource/Weimar_Republic and http://dbpedia.org/resource/Humboldt_University_of_Berlin and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/University_of_Kiel and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/University_of_Kiel and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Stratigraphy and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Sedimentary_rock and the value is : 0
+http://dbpedia.org/resource/Stratigraphy and http://dbpedia.org/resource/Sedimentary_rock and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Amadeus_William_Grabau and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/DNA_sequencing and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Stratigraphy and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Geologic_time_scale and the value is : 0
+http://dbpedia.org/resource/Amadeus_William_Grabau and http://dbpedia.org/resource/DNA_sequencing and the value is : 0
+http://dbpedia.org/resource/Amadeus_William_Grabau and http://dbpedia.org/resource/Stratigraphy and the value is : 0
+http://dbpedia.org/resource/Amadeus_William_Grabau and http://dbpedia.org/resource/Geologic_time_scale and the value is : 0
+http://dbpedia.org/resource/DNA_sequencing and http://dbpedia.org/resource/Stratigraphy and the value is : 1
+http://dbpedia.org/resource/DNA_sequencing and http://dbpedia.org/resource/Geologic_time_scale and the value is : 0
+http://dbpedia.org/resource/Stratigraphy and http://dbpedia.org/resource/Geologic_time_scale and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Amadeus_William_Grabau and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Amadeus_William_Grabau and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Geology and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Instrumentalism and the value is : 0
+http://dbpedia.org/resource/Geology and http://dbpedia.org/resource/Instrumentalism and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Theory and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Continental_drift and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Plate_tectonics and the value is : 1
+http://dbpedia.org/resource/Theory and http://dbpedia.org/resource/Continental_drift and the value is : 0
+http://dbpedia.org/resource/Theory and http://dbpedia.org/resource/Plate_tectonics and the value is : 0
+http://dbpedia.org/resource/Continental_drift and http://dbpedia.org/resource/Plate_tectonics and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/June_2 and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Theology and the value is : 1
+http://dbpedia.org/resource/June_2 and http://dbpedia.org/resource/Lutheranism and the value is : 1
+http://dbpedia.org/resource/June_2 and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/June_2 and http://dbpedia.org/resource/Theology and the value is : 1
+http://dbpedia.org/resource/Lutheranism and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/Lutheranism and http://dbpedia.org/resource/Theology and the value is : 0
+http://dbpedia.org/resource/Pastor and http://dbpedia.org/resource/Theology and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Amadeus_William_Grabau and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Prussia and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Magdeburg and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Germany and the value is : 0
+http://dbpedia.org/resource/Prussia and http://dbpedia.org/resource/Magdeburg and the value is : 0
+http://dbpedia.org/resource/Prussia and http://dbpedia.org/resource/Germany and the value is : 0
+http://dbpedia.org/resource/Magdeburg and http://dbpedia.org/resource/Germany and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Amadeus_William_Grabau and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Indian_anna and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Princess_Dorothea_of_Courland and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Jericho and the value is : 0
+http://dbpedia.org/resource/Amadeus_William_Grabau and http://dbpedia.org/resource/Indian_anna and the value is : 1
+http://dbpedia.org/resource/Amadeus_William_Grabau and http://dbpedia.org/resource/Princess_Dorothea_of_Courland and the value is : 1
+http://dbpedia.org/resource/Amadeus_William_Grabau and http://dbpedia.org/resource/Jericho and the value is : 0
+http://dbpedia.org/resource/Indian_anna and http://dbpedia.org/resource/Princess_Dorothea_of_Courland and the value is : 0
+http://dbpedia.org/resource/Indian_anna and http://dbpedia.org/resource/Jericho and the value is : 0
+http://dbpedia.org/resource/Princess_Dorothea_of_Courland and http://dbpedia.org/resource/Jericho and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Grammar_school and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Prussia and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Magdeburg and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Gym and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Martin_Luther_University_of_Halle-Wittenberg and the value is : 0
+http://dbpedia.org/resource/Grammar_school and http://dbpedia.org/resource/Prussia and the value is : 0
+http://dbpedia.org/resource/Grammar_school and http://dbpedia.org/resource/Magdeburg and the value is : 0
+http://dbpedia.org/resource/Grammar_school and http://dbpedia.org/resource/Gym and the value is : 0
+http://dbpedia.org/resource/Grammar_school and http://dbpedia.org/resource/Martin_Luther_University_of_Halle-Wittenberg and the value is : 1
+http://dbpedia.org/resource/Prussia and http://dbpedia.org/resource/Magdeburg and the value is : 0
+http://dbpedia.org/resource/Prussia and http://dbpedia.org/resource/Gym and the value is : 0
+http://dbpedia.org/resource/Prussia and http://dbpedia.org/resource/Martin_Luther_University_of_Halle-Wittenberg and the value is : 0
+http://dbpedia.org/resource/Magdeburg and http://dbpedia.org/resource/Gym and the value is : 0
+http://dbpedia.org/resource/Magdeburg and http://dbpedia.org/resource/Martin_Luther_University_of_Halle-Wittenberg and the value is : 0
+http://dbpedia.org/resource/Gym and http://dbpedia.org/resource/Martin_Luther_University_of_Halle-Wittenberg and the value is : 0
+http://dbpedia.org/resource/Magdeburg and http://dbpedia.org/resource/Nordhausen and the value is : 0
+http://dbpedia.org/resource/Magdeburg and http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and the value is : 0
+http://dbpedia.org/resource/Magdeburg and http://dbpedia.org/resource/Holy_orders and the value is : 0
+http://dbpedia.org/resource/Magdeburg and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/Magdeburg and http://dbpedia.org/resource/University_of_St_Andrews and the value is : 0
+http://dbpedia.org/resource/Magdeburg and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Magdeburg and http://dbpedia.org/resource/Erfurt and the value is : 0
+http://dbpedia.org/resource/Nordhausen and http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and the value is : 0
+http://dbpedia.org/resource/Nordhausen and http://dbpedia.org/resource/Holy_orders and the value is : 0
+http://dbpedia.org/resource/Nordhausen and http://dbpedia.org/resource/Pastor and the value is : 1
+http://dbpedia.org/resource/Nordhausen and http://dbpedia.org/resource/University_of_St_Andrews and the value is : 0
+http://dbpedia.org/resource/Nordhausen and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Nordhausen and http://dbpedia.org/resource/Erfurt and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Holy_orders and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/University_of_St_Andrews and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Catholic_Church and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Erfurt and the value is : 0
+http://dbpedia.org/resource/Holy_orders and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/Holy_orders and http://dbpedia.org/resource/University_of_St_Andrews and the value is : 0
+http://dbpedia.org/resource/Holy_orders and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Holy_orders and http://dbpedia.org/resource/Erfurt and the value is : 0
+http://dbpedia.org/resource/Pastor and http://dbpedia.org/resource/University_of_St_Andrews and the value is : 0
+http://dbpedia.org/resource/Pastor and http://dbpedia.org/resource/Catholic_Church and the value is : 1
+http://dbpedia.org/resource/Pastor and http://dbpedia.org/resource/Erfurt and the value is : 1
+http://dbpedia.org/resource/University_of_St_Andrews and http://dbpedia.org/resource/Catholic_Church and the value is : 0
+http://dbpedia.org/resource/University_of_St_Andrews and http://dbpedia.org/resource/Erfurt and the value is : 0
+http://dbpedia.org/resource/Catholic_Church and http://dbpedia.org/resource/Erfurt and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Prussian_Union_of_Churches and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Midsummer and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Lutheranism and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Erfurt and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Magdeburg and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Germany and the value is : 1
+http://dbpedia.org/resource/Prussian_Union_of_Churches and http://dbpedia.org/resource/Midsummer and the value is : 1
+http://dbpedia.org/resource/Prussian_Union_of_Churches and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/Prussian_Union_of_Churches and http://dbpedia.org/resource/Erfurt and the value is : 0
+http://dbpedia.org/resource/Prussian_Union_of_Churches and http://dbpedia.org/resource/Magdeburg and the value is : 0
+http://dbpedia.org/resource/Prussian_Union_of_Churches and http://dbpedia.org/resource/Germany and the value is : 0
+http://dbpedia.org/resource/Midsummer and http://dbpedia.org/resource/Lutheranism and the value is : 1
+http://dbpedia.org/resource/Midsummer and http://dbpedia.org/resource/Erfurt and the value is : 0
+http://dbpedia.org/resource/Midsummer and http://dbpedia.org/resource/Magdeburg and the value is : 0
+http://dbpedia.org/resource/Midsummer and http://dbpedia.org/resource/Germany and the value is : 0
+http://dbpedia.org/resource/Lutheranism and http://dbpedia.org/resource/Erfurt and the value is : 0
+http://dbpedia.org/resource/Lutheranism and http://dbpedia.org/resource/Magdeburg and the value is : 0
+http://dbpedia.org/resource/Lutheranism and http://dbpedia.org/resource/Germany and the value is : 0
+http://dbpedia.org/resource/Erfurt and http://dbpedia.org/resource/Magdeburg and the value is : 1
+http://dbpedia.org/resource/Erfurt and http://dbpedia.org/resource/Germany and the value is : 0
+http://dbpedia.org/resource/Magdeburg and http://dbpedia.org/resource/Germany and the value is : 0
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and the value is : 0
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/Pastor and the value is : 1
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Pastor and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Lutheranism and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/Pastor and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Prussia and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Synod and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Australia and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Lutheran_Synod_of_Buffalo and the value is : 0
+http://dbpedia.org/resource/Lutheranism and http://dbpedia.org/resource/Prussia and the value is : 0
+http://dbpedia.org/resource/Lutheranism and http://dbpedia.org/resource/Synod and the value is : 0
+http://dbpedia.org/resource/Lutheranism and http://dbpedia.org/resource/Australia and the value is : 1
+http://dbpedia.org/resource/Lutheranism and http://dbpedia.org/resource/Lutheran_Synod_of_Buffalo and the value is : 0
+http://dbpedia.org/resource/Prussia and http://dbpedia.org/resource/Synod and the value is : 0
+http://dbpedia.org/resource/Prussia and http://dbpedia.org/resource/Australia and the value is : 0
+http://dbpedia.org/resource/Prussia and http://dbpedia.org/resource/Lutheran_Synod_of_Buffalo and the value is : 0
+http://dbpedia.org/resource/Synod and http://dbpedia.org/resource/Australia and the value is : 0
+http://dbpedia.org/resource/Synod and http://dbpedia.org/resource/Lutheran_Synod_of_Buffalo and the value is : 0
+http://dbpedia.org/resource/Australia and http://dbpedia.org/resource/Lutheran_Synod_of_Buffalo and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Martin_Luther_College and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/American_bison and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Pastor and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/Martin_Luther_College and http://dbpedia.org/resource/American_bison and the value is : 0
+http://dbpedia.org/resource/Martin_Luther_College and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Martin_Luther_College and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/Martin_Luther_College and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Lutheranism and the value is : 1
+http://dbpedia.org/resource/Pastor and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Martin_Luther_College and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Vicar and the value is : 1
+http://dbpedia.org/resource/Martin_Luther_College and http://dbpedia.org/resource/Vicar and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Death and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Christine_Blair and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Sophia_(wisdom) and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Burgrave and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Louise_of_Mecklenburg-Strelitz and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Elizabeth_of_Russia and the value is : 0
+http://dbpedia.org/resource/Christine_Blair and http://dbpedia.org/resource/Sophia_(wisdom) and the value is : 0
+http://dbpedia.org/resource/Christine_Blair and http://dbpedia.org/resource/Burgrave and the value is : 0
+http://dbpedia.org/resource/Christine_Blair and http://dbpedia.org/resource/Louise_of_Mecklenburg-Strelitz and the value is : 0
+http://dbpedia.org/resource/Christine_Blair and http://dbpedia.org/resource/Elizabeth_of_Russia and the value is : 0
+http://dbpedia.org/resource/Sophia_(wisdom) and http://dbpedia.org/resource/Burgrave and the value is : 0
+http://dbpedia.org/resource/Sophia_(wisdom) and http://dbpedia.org/resource/Louise_of_Mecklenburg-Strelitz and the value is : 0
+http://dbpedia.org/resource/Sophia_(wisdom) and http://dbpedia.org/resource/Elizabeth_of_Russia and the value is : 0
+http://dbpedia.org/resource/Burgrave and http://dbpedia.org/resource/Louise_of_Mecklenburg-Strelitz and the value is : 0
+http://dbpedia.org/resource/Burgrave and http://dbpedia.org/resource/Elizabeth_of_Russia and the value is : 0
+http://dbpedia.org/resource/Louise_of_Mecklenburg-Strelitz and http://dbpedia.org/resource/Elizabeth_of_Russia and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/June_2 and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/American_bison and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/June_2 and http://dbpedia.org/resource/American_bison and the value is : 0
+http://dbpedia.org/resource/June_2 and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/June_2 and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/June_2 and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/American_bison and http://dbpedia.org/resource/Lutheranism and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Pastor and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/Pastor and http://dbpedia.org/resource/Lutheranism and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+johannes andreas august grabau 18511922 was a german geologist and paleontologist. he was born in kiel germany and studied at the university of kiel and the university of berlin. he was a professor at the university of kiel from 1881 to 1891 and then at the university of berlin from 1891 to 1922. grabau was a pioneer in the field of stratigraphy the study of the layers of sedimentary rocks. he developed the concept of the grabau zone which is a sequence of strata that can be used to identify a particular geological period. he also developed the concept of the grabau index which is a measure of the relative age of a rock formation. grabau was also a prolific writer publishing more than 200 scientific papers and books. he wrote extensively on the geology of china and his work was instrumental in the development of chinese geology. he was also a proponent of the theory of continental drift and his work helped to lay the foundations for modern plate tectonics. 
+
+Coref Resolved : 
+johannes andreas august grabau 18511922 was a german geologist and paleontologist. johannes andreas august grabau was born in kiel germany and studied at the university of kiel and the university of berlin. johannes andreas august grabau was a professor at the university of kiel from 1881 to 1891 and then at the university of berlinfrom 1891 to 1922. johannes andreas august grabau was a pioneer in the field of stratigraphy the study of the layers of sedimentary rocks. johannes andreas august grabau developed the concept of the grabau zone which is a sequence of strata that can be used to identify a particular geological period. johannes andreas august grabau also developed the concept of the grabau index which is a measure of the relative age of a rock formation. johannes andreas august grabau was also a prolific writer publishing more than 200 scientific papers and books. johannes andreas august grabau wrote extensively on the geology of china and johannes andreas august grabau work was instrumental in the development of chinese geology. johannes andreas august grabau was also a proponent of the theory of continental drift and johannes andreas august grabau work helped to lay the foundations for modern plate tectonics.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+johannes andreas august grabau march 18 1804 june 2 1879 was an influential germanamerican old lutheran pastor and theologian. he is usually mentioned as j.a.a. grabau. grabau was born in olvenstedt prussia now a part of greater magdeburg germany. he was the son of johann andreas grabau and anna dorothea jericho. grabau was educated at the grammar school in olvenstedt 1809 1818 the magdeburg gymnasium 1818 1825 and at the university of halle 1825 1829. after three years as a teacher in magdeburg and sachsa bei nordhausen grabau was ordained and installed as pastor of st. andrews church in erfurt in june 1834. grabau was jailed twice for refusing to use the prussian union agenda and was permitted to immigrate to america in summer 1839 with members of lutheran congregations in erfurt and magdeburg. they settled in buffalo new york where he served as pastor of a lutheran congregation for 40 years. on july 15 1845 along with four pastors grabau founded the synod of the lutheran church emigrated from prussia german synode der aus preussen ausgewanderten lutherischen kirche which became known as the buffalo synod. grabau also founded the martin luther college in buffalo. grabau retained control of the martin luther college and remained as its rector. the official organ of grabaus synod after 1866 was die wachende kirche under his editorship. grabau was married on july 15 1834 to christine sophia burgraf the daughter of johann andreas burggraf and friedericke louise elizabeth beulke. they had at least three children johann wilhelm and beata. grabau died on june 2 1879 in buffalo new york shortly before the 40th anniversary of his arrival in the united states. 
+
+Coref Resolved : 
+johannes andreas august grabau march 18 1804 june 2 1879 was an influential germanamerican old lutheran pastor and theologian. johannes andreas august grabau is usually mentioned as j.a.a. grabau. johannes andreas august grabau was born in olvenstedt prussia now a part of greater magdeburg germany. johannes andreas august grabau was the son of johann andreas grabau and anna dorothea jericho. johannes andreas august grabau was educated at the grammar school in olvenstedt prussia now a part of greater magdeburg germany1809 1818 the magdeburg gymnasium 1818 1825 and at the university of halle 1825 1829. after three years as a teacher in greater magdeburg germanyand sachsa bei nordhausen johannes andreas august grabau was ordained and installed as pastor of st. andrews church in erfurt in june 1834. johannes andreas august grabau was jailed twice for refusing to use the prussian union agenda and was permitted to immigrate to america in summer 1839 with members of lutheran congregations in erfurt and greater magdeburg germany. they settled in buffalo new york where johannes andreas august grabau served as pastor of a lutheran congregation for 40 years. on july 15 1845 along with four pastors johannes andreas august grabau founded the synod of the lutheran church emigrated from prussia german synode der aus preussen ausgewanderten lutherischen kirche which became known as the buffalo synod. johannes andreas august grabau also founded the martin luther college in buffalo new york where he served as pastor of a lutheran congregation for 40 years. johannes andreas august grabau retained control of the martin luther college and remained as the martin luther college rector. the official organ of johannes andreas august grabau synod after 1866 was die wachende kirche under johannes andreas august grabau editorship. johannes andreas august grabau was married on july 15 1834 to christine sophia burgraf the daughter of johann andreas burggraf and friedericke louise elizabeth beulke. they had at least three children johann wilhelm and beata. johannes andreas august grabau died on june 2 1879 in buffalo new york where he served as pastor of a lutheran congregation for 40 yearsshortly before the 40th anniversary of johannes andreas august grabau arrival in america .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1891891891891892 and for ground truth is : 0.19393939393939394
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

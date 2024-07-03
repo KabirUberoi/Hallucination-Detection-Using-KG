@@ -1,0 +1,89 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Colonial_Service and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Colonial_Service and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Barrister and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Trinity_College_Dublin and the value is : 0
+http://dbpedia.org/resource/Barrister and http://dbpedia.org/resource/Trinity_College_Dublin and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Governor and the value is : 1
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Gibraltar and the value is : 0
+http://dbpedia.org/resource/Governor and http://dbpedia.org/resource/Gibraltar and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Baron and the value is : 0
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/North_America and the value is : 0
+http://dbpedia.org/resource/Baron and http://dbpedia.org/resource/North_America and the value is : 1
+http://dbpedia.org/resource/Baron_Aylmer and http://dbpedia.org/resource/Westminster_Abbey and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Admiral and http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and the value is : 0
+http://dbpedia.org/resource/Admiral and http://dbpedia.org/resource/Royal_Navy and the value is : 1
+http://dbpedia.org/resource/Admiral and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Royal_Navy and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Royal_Navy and http://dbpedia.org/resource/Officer_cadet and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/William_IV_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Orange_Revolution and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Torbay and the value is : 1
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Royal_Navy and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Glorious_Revolution and the value is : 1
+http://dbpedia.org/resource/William_IV_of_the_United_Kingdom and http://dbpedia.org/resource/Orange_Revolution and the value is : 1
+http://dbpedia.org/resource/William_IV_of_the_United_Kingdom and http://dbpedia.org/resource/Torbay and the value is : 0
+http://dbpedia.org/resource/William_IV_of_the_United_Kingdom and http://dbpedia.org/resource/Royal_Navy and the value is : 1
+http://dbpedia.org/resource/William_IV_of_the_United_Kingdom and http://dbpedia.org/resource/Glorious_Revolution and the value is : 0
+http://dbpedia.org/resource/Orange_Revolution and http://dbpedia.org/resource/Torbay and the value is : 0
+http://dbpedia.org/resource/Orange_Revolution and http://dbpedia.org/resource/Royal_Navy and the value is : 1
+http://dbpedia.org/resource/Orange_Revolution and http://dbpedia.org/resource/Glorious_Revolution and the value is : 0
+http://dbpedia.org/resource/Torbay and http://dbpedia.org/resource/Royal_Navy and the value is : 1
+http://dbpedia.org/resource/Torbay and http://dbpedia.org/resource/Glorious_Revolution and the value is : 0
+http://dbpedia.org/resource/Royal_Navy and http://dbpedia.org/resource/Glorious_Revolution and the value is : 1
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Bantry_Bay and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Beachy_Head and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Battles_of_Barfleur_and_La_Hougue and the value is : 1
+http://dbpedia.org/resource/Bantry_Bay and http://dbpedia.org/resource/Beachy_Head and the value is : 0
+http://dbpedia.org/resource/Bantry_Bay and http://dbpedia.org/resource/Battles_of_Barfleur_and_La_Hougue and the value is : 0
+http://dbpedia.org/resource/Beachy_Head and http://dbpedia.org/resource/Battles_of_Barfleur_and_La_Hougue and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Royal_Navy and the value is : 1
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Convoy and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Cargo_ship and the value is : 1
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/French_ship_Superbe_(1784) and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Harley_ministry and the value is : 0
+http://dbpedia.org/resource/Convoy and http://dbpedia.org/resource/Cargo_ship and the value is : 0
+http://dbpedia.org/resource/Convoy and http://dbpedia.org/resource/French_ship_Superbe_(1784) and the value is : 0
+http://dbpedia.org/resource/Convoy and http://dbpedia.org/resource/Harley_ministry and the value is : 0
+http://dbpedia.org/resource/Cargo_ship and http://dbpedia.org/resource/French_ship_Superbe_(1784) and the value is : 0
+http://dbpedia.org/resource/Cargo_ship and http://dbpedia.org/resource/Harley_ministry and the value is : 0
+http://dbpedia.org/resource/French_ship_Superbe_(1784) and http://dbpedia.org/resource/Harley_ministry and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Marquess_Townshend and the value is : 0
+http://dbpedia.org/resource/George_(band) and http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and the value is : 0
+http://dbpedia.org/resource/Marquess_Townshend and http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Governor and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Old_Royal_Naval_College and the value is : 0
+http://dbpedia.org/resource/Matthew_Aylmer,_1st_Baron_Aylmer and http://dbpedia.org/resource/Royal_Hospital_School and the value is : 0
+http://dbpedia.org/resource/Governor and http://dbpedia.org/resource/Old_Royal_Naval_College and the value is : 1
+http://dbpedia.org/resource/Governor and http://dbpedia.org/resource/Royal_Hospital_School and the value is : 0
+http://dbpedia.org/resource/Old_Royal_Naval_College and http://dbpedia.org/resource/Royal_Hospital_School and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+matthew aylmer 1st baron aylmer 17081794 was an irish soldier and colonial administrator. he was born in dublin the son of a barrister and was educated at trinity college dublin. he joined the british army in 1727 and served in the war of the austrian succession and the seven years war. he was promoted to lieutenantgeneral in 1772 and was appointed governor of gibraltar in 1775. he was made a baron in 1782 and was appointed commanderinchief of the british forces in north america in 1783. he was recalled in 1790 and died in london in 1794. he was buried in westminster abbey. 
+
+Coref Resolved : 
+matthew aylmer 1st baron aylmer 17081794 was an irish soldier and colonial administrator. matthew aylmer 1st baron aylmer 17081794 was born in dublin the son of a barrister and was educated at trinity college dublin . matthew aylmer 1st baron aylmer 17081794 joined the british army in 1727 and served in the war of the austrian succession and the seven years war. matthew aylmer 1st baron aylmer 17081794 was promoted to lieutenantgeneral in 1772 and was appointed governor of gibraltar in 1775. matthew aylmer 1st baron aylmer 17081794 was made a baron in 1782 and was appointed commanderinchief of the british forces in north america in 1783. matthew aylmer 1st baron aylmer 17081794 was recalled in 1790 and died in london in 1794. matthew aylmer 1st baron aylmer 17081794 was buried in westminster abbey.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+admiral of the fleet matthew aylmer 1st baron aylmer ca. 1650 18 august 1720 was a royal navy officer. he was one of the captains who sent a letter to prince william of orange who had just landed at torbay assuring the prince of the captains support the princes response ultimately led to the royal navy switching allegiance to the prince and the glorious revolution of november 1688. aylmer saw action at the battle of bantry bay in may 1689 at the battle of beachy head in july 1690 and again at the battle of barfleur in may 1692 during the nine years war. aylmer became commanderinchief of the navy on 12 november 1709. however when aylmer met a french squadron and convoy he was only able to capture one merchantman and the 56gun superbe the new harley ministry used this failure as an excuse to remove him as commanderinchief and did so a few months later. following the accession of george i and the appointment of the townshend ministry aylmer was reappointed commanderinchief on 5 november 1714. he was also appointed governor of greenwich hospital in this post he founded the royal hospital school for the sons of seamen. 
+
+Coref Resolved : 
+admiral of the fleet matthew aylmer matthew aylmer ca. 1650 18 august 1720 was a royal navy officer. matthew aylmer was one of the captains who sent a letter to prince william of orange who had just landed at torbay assuring prince william of orange who had just landed at torbay of the captains support prince william of orange who had just landed at torbay response ultimately led to royal navy switching allegiance to prince william of orange who had just landed at torbay and the glorious revolution of november 1688. matthew aylmer saw action at the battle of bantry bay in may 1689 at the battle of beachy head in july 1690 and again at the battle of barfleur in may 1692 during the nine years war. matthew aylmer became commanderinchief of royal navy on 12 november 1709. however when matthew aylmer met a french squadron and convoy matthew aylmer was only able to this failure one merchantman and the 56gun superbe the new harley ministry used this failure as an excuse to remove matthew aylmer as commanderinchief and did so a few months later. following the accession of george i and the appointment of the townshend ministry matthew aylmer was reappointed commanderinchief on 5 november 1714. matthew aylmer was also appointed governor of greenwich hospital in governor of greenwich hospital matthew aylmer founded the royal hospital school for the sons of seamen.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.14285714285714285 and for ground truth is : 0.2553191489361702
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

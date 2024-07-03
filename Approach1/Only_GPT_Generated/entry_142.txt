@@ -1,0 +1,66 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/James_Clarke_(composer) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/James_Clarke_(composer) and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/James_Clarke_(composer) and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Victoria_Cross and the value is : 0
+http://dbpedia.org/resource/Captain_(cricket) and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Victoria_Cross and http://dbpedia.org/resource/Commonwealth_of_Nations and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Bob_Clarke_(illustrator) and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Battalion and the value is : 1
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Deed and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Battalion and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Deed and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Captain_(cricket) and the value is : 1
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Rifleman and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 1
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Deed and the value is : 0
+http://dbpedia.org/resource/Battalion and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 1
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/Deed and the value is : 0
+http://dbpedia.org/resource/Rifleman and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Indian_Rebellion_of_1857 and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Deed and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Indian_Rebellion_of_1857 and http://dbpedia.org/resource/Deed and the value is : 0
+http://dbpedia.org/resource/Indian_Rebellion_of_1857 and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Deed and http://dbpedia.org/resource/Captain_(cricket) and the value is : 0
+http://dbpedia.org/resource/Lucknow and http://dbpedia.org/resource/Sergeant and the value is : 0
+http://dbpedia.org/resource/Lucknow and http://dbpedia.org/resource/Bob_Clarke_(illustrator) and the value is : 0
+http://dbpedia.org/resource/Lucknow and http://dbpedia.org/resource/Wounded_Man and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Bob_Clarke_(illustrator) and the value is : 1
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Wounded_Man and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Wounded_Man and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Bob_Clarke_(illustrator) and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Wounded_Man and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Wounded_Man and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Bob_Clarke_(illustrator) and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/St._Marys,_Georgia and the value is : 0
+http://dbpedia.org/resource/Sergeant and http://dbpedia.org/resource/Islington and the value is : 1
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/St._Marys,_Georgia and the value is : 0
+http://dbpedia.org/resource/Bob_Clarke_(illustrator) and http://dbpedia.org/resource/Islington and the value is : 0
+http://dbpedia.org/resource/St._Marys,_Georgia and http://dbpedia.org/resource/Islington and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+james clarke vc 18311864 was an english recipient of the victoria cross the highest and most prestigious award for gallantry in the face of the enemy that can be awarded to british and commonwealth forces. he was approximately 33 years old and a sergeant in the 2nd battalion the rifle brigade prince consorts own british army during the indian mutiny when the following deed took place for which he was awarded the vc. on 16 november 1857 at lucknow india sergeant clarke with two other sergeants volunteered to go out and bring in a wounded man who was lying close to the enemys position. the three sergeants succeeded in rescuing the man but sergeant clarke was severely wounded in the attempt. he died of his wounds on 28 december 1864 at the age of 33 and was buried in st. marys churchyard islington london. 
+
+Coref Resolved : 
+james clarke vc 18311864 was an english recipient of the victoria cross the highest and most prestigious award for gallantry in the face of the enemy that can be awarded to british and commonwealth forces. sergeant clarke was approximately 33 years old and a sergeant in the 2nd battalion the rifle brigade prince consorts own british army during the indian mutiny when the following deed took place for which sergeant clarke was awarded the vc. on 16 november 1857 at lucknow india sergeant clarke with two other sergeants volunteered to go out and bring in a wounded man who was lying close to the enemys position. sergeant clarke with two other sergeants succeeded in rescuing a wounded man who was lying close to the enemys positionbut sergeant clarke was severely wounded in the attempt. sergeant clarke died of sergeant clarke wounds on 28 december 1864 at the age of 33 and was buried in st. marys churchyard islington london.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.12244897959183673
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,58 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Australia_national_rugby_league_team and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Rugby_league and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Australia_national_rugby_league_team and http://dbpedia.org/resource/Rugby_league and the value is : 0
+http://dbpedia.org/resource/Australia_national_rugby_league_team and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Rugby_league and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/South_Sydney_Rabbitohs and the value is : 1
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Sydney_Roosters and the value is : 1
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/North_Sydney_Bears and the value is : 1
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Balmain_Tigers and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/South_Wales and the value is : 1
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Rugby_league and the value is : 0
+http://dbpedia.org/resource/South_Sydney_Rabbitohs and http://dbpedia.org/resource/Sydney_Roosters and the value is : 0
+http://dbpedia.org/resource/South_Sydney_Rabbitohs and http://dbpedia.org/resource/North_Sydney_Bears and the value is : 1
+http://dbpedia.org/resource/South_Sydney_Rabbitohs and http://dbpedia.org/resource/Balmain_Tigers and the value is : 0
+http://dbpedia.org/resource/South_Sydney_Rabbitohs and http://dbpedia.org/resource/South_Wales and the value is : 1
+http://dbpedia.org/resource/South_Sydney_Rabbitohs and http://dbpedia.org/resource/Rugby_league and the value is : 0
+http://dbpedia.org/resource/Sydney_Roosters and http://dbpedia.org/resource/North_Sydney_Bears and the value is : 0
+http://dbpedia.org/resource/Sydney_Roosters and http://dbpedia.org/resource/Balmain_Tigers and the value is : 0
+http://dbpedia.org/resource/Sydney_Roosters and http://dbpedia.org/resource/South_Wales and the value is : 1
+http://dbpedia.org/resource/Sydney_Roosters and http://dbpedia.org/resource/Rugby_league and the value is : 0
+http://dbpedia.org/resource/North_Sydney_Bears and http://dbpedia.org/resource/Balmain_Tigers and the value is : 0
+http://dbpedia.org/resource/North_Sydney_Bears and http://dbpedia.org/resource/South_Wales and the value is : 0
+http://dbpedia.org/resource/North_Sydney_Bears and http://dbpedia.org/resource/Rugby_league and the value is : 0
+http://dbpedia.org/resource/Balmain_Tigers and http://dbpedia.org/resource/South_Wales and the value is : 0
+http://dbpedia.org/resource/Balmain_Tigers and http://dbpedia.org/resource/Rugby_league and the value is : 1
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/Rugby_league and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Agility and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/South_Sydney_Rabbitohs and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Rugby_league_positions and the value is : 1
+http://dbpedia.org/resource/South_Sydney_Rabbitohs and http://dbpedia.org/resource/Rugby_league_positions and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/South_Sydney_Rabbitohs and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Grand_final and the value is : 0
+http://dbpedia.org/resource/South_Sydney_Rabbitohs and http://dbpedia.org/resource/Grand_final and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/South_Wales and the value is : 1
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/1985_State_of_Origin_series and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/1985_State_of_Origin_series and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Sydney_Roosters and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/North_Sydney_Bears and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Balmain_Tigers and the value is : 1
+http://dbpedia.org/resource/North_Sydney_Bears and http://dbpedia.org/resource/Balmain_Tigers and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+geoff griffin born 28 august 1965 is an australian former professional rugby league footballer who played in the 1980s and 1990s. he played for the south sydney rabbitohs the eastern suburbs roosters the north sydney bears and the balmain tigers in the new south wales rugby league premiership. griffin was a talented player who was known for his speed and agility. he was a regular member of the south sydney rabbitohs team from 1985 to 1988 playing in the centres and on the wing. he was a part of the rabbitohs 1985 premiershipwinning team scoring a try in the grand final. he also represented new south wales in the state of origin series in 1986 and 1987. in 1989 griffin moved to the eastern suburbs roosters where he played for two seasons. he then moved to the north sydney bears in 1991 where he played for two seasons before joining the balmain tigers in 1993. he retired from the game at the end of the 1993 season. 
+
+Coref Resolved : 
+geoff griffin born 28 august 1965 is an australian former professional rugby league footballer who played in the 1980s and 1990s. geoff griffin played for the south sydney rabbitohs the eastern suburbs roosters the north sydney bears and the balmain tigers in the new south wales rugby league premiership. geoff griffin was a talented player who was known for geoff griffin speed and agility. geoff griffin was a regular member of the south sydney rabbitohs team from 1985 to 1988 playing in the centres and on the wing. geoff griffin was a part of the south sydney rabbitohs 1985 premiershipwinning team scoring a try in the grand final. geoff griffin also represented new south wales in the state of origin series in 1986 and 1987. in 1989 geoff griffin moved to the eastern suburbs roosters where geoff griffin played for two seasons. geoff griffin then moved to the north sydney bears in 1991 where geoff griffin played for two seasons before joining the balmain tigers in 1993. geoff griffin retired from the game at the end of the 1993season.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3170731707317073
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

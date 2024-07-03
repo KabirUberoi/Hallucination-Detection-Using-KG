@@ -1,0 +1,75 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/County_Dublin and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/County_Dublin and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/County_Dublin and the value is : 0
+http://dbpedia.org/resource/European_Parliament and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 0
+http://dbpedia.org/resource/European_Parliament and http://dbpedia.org/resource/County_Dublin and the value is : 1
+http://dbpedia.org/resource/Member_of_the_European_Parliament and http://dbpedia.org/resource/County_Dublin and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Seanad_Éireann and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Seanad_Éireann and the value is : 0
+http://dbpedia.org/resource/European_Parliament and http://dbpedia.org/resource/Seanad_Éireann and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Progressive_Democrats and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Progressive_Democrats and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/University_College_Dublin and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_College_Dublin and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/University_College_Dublin and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Barrister and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Barrister and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Seanad_Éireann and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Seanad_Éireann and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Seanad_Éireann and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Progressive_Democrats and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Progressive_Democrats and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Human_rights and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Human_rights and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Human_rights and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Palestinian_Legislative_Council and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Palestinian_Legislative_Council and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/United_Nations_General_Assembly and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/United_Nations_General_Assembly and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/United_Nations_General_Assembly and http://dbpedia.org/resource/York and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john cushnahan born 28 april 1945 is an irish politician and former member of the european parliament mep for the dublin constituency. he was a member of the european parliament from 1989 to 2004 and was a member of the irish senate from 1981 to 1989. he was a member of the progressive democrats from 1985 to 2007. cushnahan was born in dublin and educated at university college dublin where he studied law. he was called to the bar in 1969 and practised as a barrister until 1981. he was a member of the irish senate from 1981 to 1989 and was elected to the european parliament in 1989. he was reelected in 1994 and 1999. he was a member of the progressive democrats from 1985 to 2007. cushnahan was a member of the european parliaments committee on foreign affairs and its subcommittee on human rights. he was also a member of the delegation for relations with the united states and the delegation for relations with the palestinian legislative council. he was a member of the european parliaments delegation to the united nations general assembly in new york in 2000. 
+
+Coref Resolved : 
+john cushnahan born 28 april 1945 is an irish politician and former member of the european parliament mep for the dublin constituency. john cushnahan born 28 april 1945 was a member of the european parliament from 1989 to 2004 and was a member of the irish senate from 1981 to 1989 . john cushnahan born 28 april 1945 was a member of the progressive democrats from 1985 to 2007. john cushnahan born 28 april 1945 was born in dublin and educated at university college dublin where john cushnahan born 28 april 1945 studied law. john cushnahan born 28 april 1945 was called to the bar in 1969 and practised as a barrister until 1981 . john cushnahan born 28 april 1945 was a member of the irish senate from 1981 to 1989 and was elected to the european parliament in 1989 . john cushnahan born 28 april 1945 was reelected in 1994 and 1999. john cushnahan born 28 april 1945 was a member of the progressive democrats from 1985 to 2007. john cushnahan born 28 april 1945 was a member of the european parliaments committee on foreign affairs and the european parliaments subcommittee on human rights. john cushnahan born 28 april 1945 was also a member of the delegation for relations with the united states and the delegation for relations with the palestinian legislative council. john cushnahan born 28 april 1945 was a member of the european parliaments delegation to the united nations general assembly in new york in 2000.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10344827586206896
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,66 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Deborah and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Joshua and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Nigerians and the value is : 1
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Joshua and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Nigerians and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Deborah and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Nigerians and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Joshua and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Nigerians and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Nigerians and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Album and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Album and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Hit_song and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Seyi_Shay and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/2015_Nigeria_Entertainment_Awards and the value is : 0
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/Seyi_Shay and the value is : 0
+http://dbpedia.org/resource/Hit_song and http://dbpedia.org/resource/2015_Nigeria_Entertainment_Awards and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/2015_Nigeria_Entertainment_Awards and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Yolo_County,_California and the value is : 1
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Gimme_Love and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Yolo_County,_California and the value is : 1
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Gimme_Love and the value is : 0
+http://dbpedia.org/resource/Yolo_County,_California and http://dbpedia.org/resource/Gimme_Love and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Wizkid and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Olamide and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Runtown and the value is : 1
+http://dbpedia.org/resource/Wizkid and http://dbpedia.org/resource/Olamide and the value is : 0
+http://dbpedia.org/resource/Wizkid and http://dbpedia.org/resource/Runtown and the value is : 0
+http://dbpedia.org/resource/Olamide and http://dbpedia.org/resource/Runtown and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Album and the value is : 0
+http://dbpedia.org/resource/Seyi_Shay and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Gimme and the value is : 1
+http://dbpedia.org/resource/Album and http://dbpedia.org/resource/Vibraphone and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Gimme and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Vibraphone and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Gimme and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/Vibraphone and the value is : 0
+http://dbpedia.org/resource/Gimme and http://dbpedia.org/resource/Vibraphone and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+seyi shay born deborah oluwaseyi joshua 21 december 1985 is a nigerian singer songwriter and actress. she started her career as a backup singer for various artists and released her debut studio album seyi or shay in 2014. the album spawned the hit single irawo which earned her two nominations at the 2015 nigeria entertainment awards. she has since released several singles including yolo yolo right now and gimme love. she has collaborated with several artists including wizkid olamide and runtown. in 2017 she released her second studio album electric package. the album featured the singles gimme love and weekend vibes. 
+
+Coref Resolved : 
+seyi shay born deborah oluwaseyi joshua 21 december 1985 is a nigerian singer songwriter and actress. seyi shay started seyi shay career as a backup singer for various artists and released seyi shay debut studio album seyi or shay in 2014. her debut studio album seyi or shay spawned the hit single irawo which earned seyi shay two nominations at the 2015 nigeria entertainment awards. seyi shay has since released several singles including yolo yolo right now and gimme love. seyi shay has collaborated with several artists including wizkid olamide and runtown. in 2017 seyi shay released seyi shay second studio album electric package. her second studio album electric packagefeatured the singles gimme loveand weekend vibes.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10204081632653061
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate 
+

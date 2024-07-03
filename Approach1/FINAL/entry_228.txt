@@ -1,0 +1,85 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Financial_analyst and http://dbpedia.org/resource/Author and the value is : 1
+http://dbpedia.org/resource/Financial_analyst and http://dbpedia.org/resource/Entrepreneurship and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Entrepreneurship and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/The_Wall_Street_Journal and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Personal_finance and the value is : 0
+http://dbpedia.org/resource/The_Wall_Street_Journal and http://dbpedia.org/resource/Personal_finance and the value is : 0
+http://dbpedia.org/resource/Financial_services and http://dbpedia.org/resource/Stockbroker and the value is : 0
+http://dbpedia.org/resource/Financial_services and http://dbpedia.org/resource/Financial_analyst and the value is : 0
+http://dbpedia.org/resource/Stockbroker and http://dbpedia.org/resource/Financial_analyst and the value is : 1
+http://dbpedia.org/resource/Stock_market and http://dbpedia.org/resource/Mutual_fund and the value is : 0
+http://dbpedia.org/resource/The_Wall_Street_Journal and http://dbpedia.org/resource/Barron's_(newspaper) and the value is : 0
+http://dbpedia.org/resource/The_Wall_Street_Journal and http://dbpedia.org/resource/Money_(magazine) and the value is : 0
+http://dbpedia.org/resource/Barron's_(newspaper) and http://dbpedia.org/resource/Money_(magazine) and the value is : 1
+http://dbpedia.org/resource/CNBC and http://dbpedia.org/resource/Bloomberg_Television and the value is : 1
+http://dbpedia.org/resource/CNBC and http://dbpedia.org/resource/Fox_Business_Network and the value is : 0
+http://dbpedia.org/resource/Bloomberg_Television and http://dbpedia.org/resource/Fox_Business_Network and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Finance and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Economics and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Independent_school and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Financial_analyst and the value is : 0
+http://dbpedia.org/resource/Finance and http://dbpedia.org/resource/Economics and the value is : 0
+http://dbpedia.org/resource/Finance and http://dbpedia.org/resource/Independent_school and the value is : 0
+http://dbpedia.org/resource/Finance and http://dbpedia.org/resource/Financial_analyst and the value is : 0
+http://dbpedia.org/resource/Economics and http://dbpedia.org/resource/Independent_school and the value is : 0
+http://dbpedia.org/resource/Economics and http://dbpedia.org/resource/Financial_analyst and the value is : 1
+http://dbpedia.org/resource/Independent_school and http://dbpedia.org/resource/Financial_analyst and the value is : 1
+http://dbpedia.org/resource/Bond_market and http://dbpedia.org/resource/Newsletter and the value is : 0
+http://dbpedia.org/resource/Armand_Denis and http://dbpedia.org/resource/Manhattan and the value is : 0
+http://dbpedia.org/resource/Armand_Denis and http://dbpedia.org/resource/Matriculation and the value is : 1
+http://dbpedia.org/resource/Armand_Denis and http://dbpedia.org/resource/Fordham_Preparatory_School and the value is : 0
+http://dbpedia.org/resource/Armand_Denis and http://dbpedia.org/resource/The_Bronx and the value is : 0
+http://dbpedia.org/resource/Armand_Denis and http://dbpedia.org/resource/Fordham_University and the value is : 0
+http://dbpedia.org/resource/Manhattan and http://dbpedia.org/resource/Matriculation and the value is : 0
+http://dbpedia.org/resource/Manhattan and http://dbpedia.org/resource/Fordham_Preparatory_School and the value is : 0
+http://dbpedia.org/resource/Manhattan and http://dbpedia.org/resource/The_Bronx and the value is : 0
+http://dbpedia.org/resource/Manhattan and http://dbpedia.org/resource/Fordham_University and the value is : 0
+http://dbpedia.org/resource/Matriculation and http://dbpedia.org/resource/Fordham_Preparatory_School and the value is : 0
+http://dbpedia.org/resource/Matriculation and http://dbpedia.org/resource/The_Bronx and the value is : 0
+http://dbpedia.org/resource/Matriculation and http://dbpedia.org/resource/Fordham_University and the value is : 0
+http://dbpedia.org/resource/Fordham_Preparatory_School and http://dbpedia.org/resource/The_Bronx and the value is : 0
+http://dbpedia.org/resource/Fordham_Preparatory_School and http://dbpedia.org/resource/Fordham_University and the value is : 0
+http://dbpedia.org/resource/The_Bronx and http://dbpedia.org/resource/Fordham_University and the value is : 0
+http://dbpedia.org/resource/Journalism and http://dbpedia.org/resource/Barron's_(newspaper) and the value is : 0
+http://dbpedia.org/resource/Bond_market and http://dbpedia.org/resource/Newsletter and the value is : 0
+http://dbpedia.org/resource/Bond_market and http://dbpedia.org/resource/Newsletter and the value is : 1
+http://dbpedia.org/resource/Bond_market and http://dbpedia.org/resource/Doug_Henwood and the value is : 0
+http://dbpedia.org/resource/Newsletter and http://dbpedia.org/resource/Doug_Henwood and the value is : 1
+http://dbpedia.org/resource/Mount_Sinai_Medical_Center and http://dbpedia.org/resource/Manhattan and the value is : 1
+http://dbpedia.org/resource/Mount_Sinai_Medical_Center and http://dbpedia.org/resource/Liver_cancer and the value is : 0
+http://dbpedia.org/resource/Mount_Sinai_Medical_Center and http://dbpedia.org/resource/Kidney_failure and the value is : 0
+http://dbpedia.org/resource/Mount_Sinai_Medical_Center and http://dbpedia.org/resource/Infection and the value is : 0
+http://dbpedia.org/resource/Manhattan and http://dbpedia.org/resource/Liver_cancer and the value is : 0
+http://dbpedia.org/resource/Manhattan and http://dbpedia.org/resource/Kidney_failure and the value is : 0
+http://dbpedia.org/resource/Manhattan and http://dbpedia.org/resource/Infection and the value is : 0
+http://dbpedia.org/resource/Liver_cancer and http://dbpedia.org/resource/Kidney_failure and the value is : 0
+http://dbpedia.org/resource/Liver_cancer and http://dbpedia.org/resource/Infection and the value is : 1
+http://dbpedia.org/resource/Kidney_failure and http://dbpedia.org/resource/Infection and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john liscio born october 28 1951 is an american financial analyst author and entrepreneur. he is the founder and president of john liscio report a financial research and analysis firm. he is also the author of several books on investing including the wall street journal guide to understanding money investing the wall street journal guide to the new rules of personal finance and the wall street journal guide to understanding money investing. liscio began his career in the financial services industry in the early 1970s working as a stockbroker and financial analyst. he later founded his own firm john liscio report in 1982. the firm provides research and analysis on the stock market mutual funds and other investments. liscio has been featured in numerous publications including the wall street journal barrons and money magazine. he has also appeared on cnbc bloomberg tv and fox business news. 
+
+Coref Resolved : 
+john liscio born october 28 1951 is an american financial analyst author and entrepreneur. john liscio born october 28 1951 is the founder and president of john liscio report a financial research and analysis firm. john liscio born october 28 1951 is also the author of several books on investing including the wall street journal guide to understanding money investing the wall street journal guide to the new rules of personal finance and the wall street journal guide to understanding money investing. john liscio born october 28 1951 began john liscio born october 28 1951 career in the financial services industry in the early 1970s working as a stockbroker and financial analyst. john liscio born october 28 1951 later founded john liscio born october 28 1951 own firm john liscio report in 1982. john liscio report a financial research and analysis firmprovides research and analysis on the stock market mutual funds and other investments. john liscio born october 28 1951 has been featured in numerous publications including the wall street journal barrons and money magazine. john liscio born october 28 1951 has also appeared on cnbc bloomberg tv and fox business news.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+john liscio 1949 november 29 2000 was an american journalist covering finance and the economy as well as an independent financial analyst. he was the founder of the influential bond market newsletter the liscio report. liscio was born to armand and josephine liscio in manhattan and matriculated from fordham preparatory school in the bronx to fordham university where he earned a bachelors degree. he served in the marine corps before becoming a financial writer and analyst in the late 1970s. he was a senior editor at u.s. news world report and worked at barrons in the late 1980s into the early 1990s. in 1992 he started the liscio report a financial newsletter that became influential on wall street and especially so among bond traders. upon his death in 2000 the newsletter was continued by trusted associates doug henwood and phillipa dunne. liscio died aged 51 on november 29 2000 at mount sinai hospital in manhattan from liver and kidney failure complications due to a hepatitis c infection. he was survived by his wife frances pelzman liscio a humor writer two preadolescent children both his parents and a sister. 
+
+Coref Resolved : 
+john liscio 1949 november 29 2000 was an american journalist covering finance and the economy as well as an independent financial analyst. liscio was the founder of the influential bond market newsletter the liscio report. liscio was born to armand and josephine liscio in manhattan and matriculated from fordham preparatory school in the bronx to fordham university where liscio earned a bachelors degree. liscio served in the marine corps before becoming a financial writer and analyst in the late 1970s. liscio was a senior editor at u.s. news world report and worked at barrons in the late 1980s into the early 1990s. in 1992 liscio started the influential bond market newsletter the liscio report. upon liscio death in 2000 the influential bond market newsletter the liscio reportwas continued by trusted associates doug henwood and phillipa dunne. liscio died aged 51 on november 29 2000 at mount sinai hospital in manhattan from liver and kidney failure complications due to a hepatitis c infection. liscio was survived by liscio wife frances pelzman liscio a humor writer two preadolescent children both liscio parents and a sister.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.25 and for ground truth is : 0.1951219512195122
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate accurate minor_inaccurate accurate minor_inaccurate minor_inaccurate 
+

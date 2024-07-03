@@ -1,0 +1,98 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/South_Korea and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/South_Korea and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Korean_drama and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Misaeng:_Incomplete_Life and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Reply_1988 and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Misaeng:_Incomplete_Life and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Reply_1988 and the value is : 0
+http://dbpedia.org/resource/Misaeng:_Incomplete_Life and http://dbpedia.org/resource/Reply_1988 and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Korean_drama and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Korean_drama and the value is : 1
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Romantic_comedy and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Bride and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Sageuk and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Romantic_comedy and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Bride and the value is : 1
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Sageuk and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 0
+http://dbpedia.org/resource/Romantic_comedy and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Romantic_comedy and http://dbpedia.org/resource/Bride and the value is : 0
+http://dbpedia.org/resource/Romantic_comedy and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Romantic_comedy and http://dbpedia.org/resource/Sageuk and the value is : 0
+http://dbpedia.org/resource/Romantic_comedy and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 0
+http://dbpedia.org/resource/Love and http://dbpedia.org/resource/Bride and the value is : 0
+http://dbpedia.org/resource/Love and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Love and http://dbpedia.org/resource/Sageuk and the value is : 0
+http://dbpedia.org/resource/Love and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 0
+http://dbpedia.org/resource/Bride and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Bride and http://dbpedia.org/resource/Sageuk and the value is : 0
+http://dbpedia.org/resource/Bride and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 0
+http://dbpedia.org/resource/Crime_film and http://dbpedia.org/resource/Sageuk and the value is : 0
+http://dbpedia.org/resource/Crime_film and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 0
+http://dbpedia.org/resource/Sageuk and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 1
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Adjudicator and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Korean_mask and the value is : 0
+http://dbpedia.org/resource/Adjudicator and http://dbpedia.org/resource/Korean_mask and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Korean_language and the value is : 1
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Hanja and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Speed_skating and the value is : 0
+http://dbpedia.org/resource/Korean_language and http://dbpedia.org/resource/Hanja and the value is : 0
+http://dbpedia.org/resource/Korean_language and http://dbpedia.org/resource/Speed_skating and the value is : 0
+http://dbpedia.org/resource/Hanja and http://dbpedia.org/resource/Speed_skating and the value is : 0
+http://dbpedia.org/resource/Points_classification and http://dbpedia.org/resource/Calgary and the value is : 1
+http://dbpedia.org/resource/2000_Summer_Olympics and http://dbpedia.org/resource/2002_Winter_Olympics and the value is : 1
+http://dbpedia.org/resource/2000_Summer_Olympics and http://dbpedia.org/resource/Lake and the value is : 0
+http://dbpedia.org/resource/2000_Summer_Olympics and http://dbpedia.org/resource/Administrative_divisions_of_South_Korea and the value is : 0
+http://dbpedia.org/resource/2000_Summer_Olympics and http://dbpedia.org/resource/South_Korea and the value is : 0
+http://dbpedia.org/resource/2000_Summer_Olympics and http://dbpedia.org/resource/2006_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/2000_Summer_Olympics and http://dbpedia.org/resource/Turin and the value is : 0
+http://dbpedia.org/resource/2002_Winter_Olympics and http://dbpedia.org/resource/Lake and the value is : 0
+http://dbpedia.org/resource/2002_Winter_Olympics and http://dbpedia.org/resource/Administrative_divisions_of_South_Korea and the value is : 0
+http://dbpedia.org/resource/2002_Winter_Olympics and http://dbpedia.org/resource/South_Korea and the value is : 1
+http://dbpedia.org/resource/2002_Winter_Olympics and http://dbpedia.org/resource/2006_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/2002_Winter_Olympics and http://dbpedia.org/resource/Turin and the value is : 0
+http://dbpedia.org/resource/Lake and http://dbpedia.org/resource/Administrative_divisions_of_South_Korea and the value is : 1
+http://dbpedia.org/resource/Lake and http://dbpedia.org/resource/South_Korea and the value is : 0
+http://dbpedia.org/resource/Lake and http://dbpedia.org/resource/2006_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/Lake and http://dbpedia.org/resource/Turin and the value is : 0
+http://dbpedia.org/resource/Administrative_divisions_of_South_Korea and http://dbpedia.org/resource/South_Korea and the value is : 0
+http://dbpedia.org/resource/Administrative_divisions_of_South_Korea and http://dbpedia.org/resource/2006_Winter_Olympics and the value is : 1
+http://dbpedia.org/resource/Administrative_divisions_of_South_Korea and http://dbpedia.org/resource/Turin and the value is : 1
+http://dbpedia.org/resource/South_Korea and http://dbpedia.org/resource/2006_Winter_Olympics and the value is : 0
+http://dbpedia.org/resource/South_Korea and http://dbpedia.org/resource/Turin and the value is : 0
+http://dbpedia.org/resource/2006_Winter_Olympics and http://dbpedia.org/resource/Turin and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+choi jaebong born october 28 1962 is a south korean actor. he is best known for his roles in the television series misaeng 2014 reply 1988 2015 and stranger 2017. choi began his career in the early 1990s appearing in television dramas such as the last match 1994 and the great ambition 2002. he has since appeared in numerous films and television series including the romantic comedy my love my bride 2014 the crime thriller the target 2014 and the historical drama six flying dragons 2015. in addition to his acting career choi has also appeared as a host on various variety shows including the popular talk show radio star 2006present. he has also served as a judge on the singing competition show king of mask singer 2015present. 
+
+Coref Resolved : 
+choi jaebong born october 28 1962 is a south korean actor. choi jaebong born october 28 1962 is best known for choi jaebong born october 28 1962 roles in the television series misaeng 2014 reply 1988 2015 and stranger 2017. choi jaebong born october 28 1962 began choi jaebong born october 28 1962 career in the early 1990s appearing in television dramas such as the last match 1994 and the great ambition 2002. choi jaebong born october 28 1962 has since appeared in numerous films and television series including the romantic comedy my love my bride 2014 the crime thriller the target 2014 and the historical drama six flying dragons 2015. in addition to choi jaebong born october 28 1962 acting career choi jaebong born october 28 1962 has also appeared as a host on various variety shows including the popular talk show radio star 2006present. choi jaebong born october 28 1962 has also served as a judge on the singing competition show king of mask singer 2015present.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+choi jaebong korean 최재봉 hanja 崔財鳳 born 19 june 1980 is a south korean speed skater. he represented his country at the 1998 winter olympics in nagano. at that time he was the holder of the junior world record at 1500 m set in early december 1997 in thialf heerenveen where he clocked 152.25 to break the record. in nagano where he finished in 12th position he broke his own world junior record to a new best time of 151.47 which was 0.78 of a second faster. he also finished in 29th position at the 5000 m. in november 1998 he broke the junior world record over 500 m into a new time of 36.30 in calgary and a day later he broke his own 1500 m record again this time 149.71 was his new best time. due to these records and some other decent results in that same weekend he also broke the junior world record for the small allround classification to 153.689 points. that same season he won the bronze medal at the world junior allround championships and broke another two world records. he set 110.87 at the 1000 m in february 1999 and a total of 143.965 points for the sprint classification again in calgary. as a senior during his second olympic games the 2002 winter olympics in salt lake city he finished 17th at the 500 m 12th at the 1000 m and 21st at the 1500 m. he also represented south korea four years later during the 2006 winter olympics in turin. in italy he achieved his alltime best olympic result by becoming 8th at the 500 m. he also became 17th at the 1000 m. 
+
+Coref Resolved : 
+choi jaebong korean 최재봉 hanja 崔財鳳 born 19 june 1980 is a south korean speed skater. he represented he country at the 1998 winter olympics in nagano. at that time he was the holder of the junior world record at 1500 m set in early december 1997 in thialf heerenveen where he clocked 152.25 to break the record. in nagano where he finished in 12th position he broke he own world junior record to a new best time of 151.47 which was 0.78 of a second faster. he also finished in 29th position at the 5000 m. in november 1998 he broke the junior world record over 500 m into a new time of 36.30 in calgary and a day later he broke he own 1500 m record again this time 149.71 was he new best time. due to these records and some other decent results in that same weekend he also broke the junior world record for the small allround classification to 153.689 points. that same season he won the bronze medal at the world junior allround championships and broke another two world records. he set 110.87 at the 1000 m in february 1999 and a total of 143.965 points for the sprint classification again in calgary . as a senior during he second olympic games the 2002 winter olympics in salt lake city he finished 17th at the 500 m 12th at the 1000 m and 21st at the 1500 m. he also represented south korea four years later during the 2006 winter olympics in turin. in italy he achieved he alltime best olympic result by becoming 8th at the 500 m. he also became 17th at the 1000 m.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.07142857142857142 and for ground truth is : 0.2857142857142857
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,50 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Trade_union and the value is : 1
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Civil_and_political_rights and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/Trade_union and http://dbpedia.org/resource/Civil_and_political_rights and the value is : 0
+http://dbpedia.org/resource/Trade_union and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/Civil_and_political_rights and http://dbpedia.org/resource/Activism and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/San_Antonio and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Immigration and the value is : 0
+http://dbpedia.org/resource/San_Antonio and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/San_Antonio and http://dbpedia.org/resource/Immigration and the value is : 0
+http://dbpedia.org/resource/Texas and http://dbpedia.org/resource/Immigration and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Labour_movement and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/United_Farm_Workers and the value is : 0
+http://dbpedia.org/resource/Labour_movement and http://dbpedia.org/resource/United_Farm_Workers and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Delano_grape_strike and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Trade_union and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Delano_grape_strike and http://dbpedia.org/resource/Trade_union and the value is : 0
+http://dbpedia.org/resource/Delano_grape_strike and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Trade_union and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Civil_and_political_rights and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Chicano_Movement and the value is : 0
+http://dbpedia.org/resource/Civil_and_political_rights and http://dbpedia.org/resource/Chicano_Movement and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Immigration and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Major_Force and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Social_justice and the value is : 0
+http://dbpedia.org/resource/Immigration and http://dbpedia.org/resource/Major_Force and the value is : 0
+http://dbpedia.org/resource/Immigration and http://dbpedia.org/resource/Social_justice and the value is : 0
+http://dbpedia.org/resource/Major_Force and http://dbpedia.org/resource/Social_justice and the value is : 0
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/United_Farm_Workers and the value is : 1
+http://dbpedia.org/resource/Rudy_Fernandez_(actor) and http://dbpedia.org/resource/Civil_and_political_rights and the value is : 0
+http://dbpedia.org/resource/United_Farm_Workers and http://dbpedia.org/resource/Civil_and_political_rights and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+rudy fernandez 19412008 was a labor leader and civil rights activist from the united states. he was born in san antonio texas and was the son of mexican immigrants. he was a leader in the labor movement in the united states and was a founding member of the united farm workers of america ufw. he was a key figure in the successful grape boycott of the 1960s and 1970s which led to the unionization of thousands of farm workers in california. he was also a leader in the struggle for civil rights and was a key figure in the chicano movement of the 1960s and 1970s. he was a tireless advocate for the rights of workers and immigrants and was a major force in the fight for social justice. he was a mentor to many young activists and his legacy lives on in the work of the ufw and other labor and civil rights organizations. 
+
+Coref Resolved : 
+rudy fernandez 19412008 was a labor leader and civil rights activist from the united states. rudy fernandez 19412008 was born in san antonio texas and was the son of mexican immigrants. rudy fernandez 19412008 was a leader in the labor movement in the united statesand was a founding member of the united farm workers of america ufw. rudy fernandez 19412008 was a key figure in the successful grape boycott of the 1960s and 1970s which led to the unionization of thousands of farm workers in california. rudy fernandez 19412008 was also a leader in the struggle for civil rights and was a key figure in the chicano movement of the 1960s and 1970s . rudy fernandez 19412008 was a tireless advocate for the rights of workers and immigrants and was a major force in the fight for social justice. rudy fernandez 19412008 was a mentor to many young activists and rudy fernandez 19412008 legacy lives on in the work of the united farm workers of america ufwand other labor and civil rights organizations.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.09090909090909091
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate 
+

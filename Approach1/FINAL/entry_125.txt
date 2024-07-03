@@ -1,0 +1,107 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/First-class_cricket and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/First-class_cricket and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Batting_(cricket) and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Cricket and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Cricket and the value is : 1
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Cricket and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 1
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/1891_English_cricket_season and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/1891_English_cricket_season and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 1
+http://dbpedia.org/resource/1891_English_cricket_season and http://dbpedia.org/resource/Lancashire_County_Cricket_Club and the value is : 1
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/1891_English_cricket_season and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1892 and the value is : 0
+http://dbpedia.org/resource/1891_English_cricket_season and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1892 and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1895 and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Wicket and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Innings and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Bowling_average and the value is : 1
+http://dbpedia.org/resource/Wicket and http://dbpedia.org/resource/Innings and the value is : 1
+http://dbpedia.org/resource/Wicket and http://dbpedia.org/resource/Bowling_average and the value is : 0
+http://dbpedia.org/resource/Innings and http://dbpedia.org/resource/Bowling_average and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Caught and the value is : 0
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and the value is : 1
+http://dbpedia.org/resource/George_Milne,_1st_Baron_Milne and http://dbpedia.org/resource/Derby and the value is : 0
+http://dbpedia.org/resource/Derbyshire_County_Cricket_Club and http://dbpedia.org/resource/Derby and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/First-class_cricket and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Handedness and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Batting_(cricket) and the value is : 1
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Glossary_of_cricket_terms and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Orthodox_Judaism and the value is : 0
+http://dbpedia.org/resource/Handedness and http://dbpedia.org/resource/Batting_(cricket) and the value is : 0
+http://dbpedia.org/resource/Handedness and http://dbpedia.org/resource/Glossary_of_cricket_terms and the value is : 0
+http://dbpedia.org/resource/Handedness and http://dbpedia.org/resource/Orthodox_Judaism and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Glossary_of_cricket_terms and the value is : 0
+http://dbpedia.org/resource/Batting_(cricket) and http://dbpedia.org/resource/Orthodox_Judaism and the value is : 0
+http://dbpedia.org/resource/Glossary_of_cricket_terms and http://dbpedia.org/resource/Orthodox_Judaism and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Newcastle_upon_Tyne and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/River_Tyne and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Northumberland_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Newcastle_upon_Tyne and http://dbpedia.org/resource/River_Tyne and the value is : 0
+http://dbpedia.org/resource/Newcastle_upon_Tyne and http://dbpedia.org/resource/Northumberland_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/River_Tyne and http://dbpedia.org/resource/Northumberland_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Minor_Counties_Cricket_Championship and the value is : 1
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Yorkshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Minor_Counties_Cricket_Championship and http://dbpedia.org/resource/Yorkshire_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Minor_Counties_Cricket_Championship and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Minor_Counties_of_English_and_Welsh_cricket and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/South_African_cricket_team_in_England_in_1901 and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Bristol_County_Ground and the value is : 0
+http://dbpedia.org/resource/Minor_Counties_of_English_and_Welsh_cricket and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/Minor_Counties_of_English_and_Welsh_cricket and http://dbpedia.org/resource/South_African_cricket_team_in_England_in_1901 and the value is : 0
+http://dbpedia.org/resource/Minor_Counties_of_English_and_Welsh_cricket and http://dbpedia.org/resource/Bristol_County_Ground and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/South_African_cricket_team_in_England_in_1901 and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Bristol_County_Ground and the value is : 0
+http://dbpedia.org/resource/South_African_cricket_team_in_England_in_1901 and http://dbpedia.org/resource/Bristol_County_Ground and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/FirstClass and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/At_bat and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Glossary_of_cricket_terms and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Minor_Counties_of_English_and_Welsh_cricket and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Batting_(cricket) and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/At_bat and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Glossary_of_cricket_terms and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Minor_Counties_of_English_and_Welsh_cricket and the value is : 0
+http://dbpedia.org/resource/FirstClass and http://dbpedia.org/resource/Batting_(cricket) and the value is : 0
+http://dbpedia.org/resource/At_bat and http://dbpedia.org/resource/Glossary_of_cricket_terms and the value is : 0
+http://dbpedia.org/resource/At_bat and http://dbpedia.org/resource/Minor_Counties_of_English_and_Welsh_cricket and the value is : 0
+http://dbpedia.org/resource/At_bat and http://dbpedia.org/resource/Batting_(cricket) and the value is : 1
+http://dbpedia.org/resource/Glossary_of_cricket_terms and http://dbpedia.org/resource/Minor_Counties_of_English_and_Welsh_cricket and the value is : 0
+http://dbpedia.org/resource/Glossary_of_cricket_terms and http://dbpedia.org/resource/Batting_(cricket) and the value is : 0
+http://dbpedia.org/resource/Minor_Counties_of_English_and_Welsh_cricket and http://dbpedia.org/resource/Batting_(cricket) and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Minor_Counties_of_English_and_Welsh_cricket and the value is : 1
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/Durham_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Minor_Counties_of_English_and_Welsh_cricket and http://dbpedia.org/resource/Durham_County_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/List_of_Planet_of_the_Apes_characters and http://dbpedia.org/resource/City_status_in_the_United_Kingdom and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+george milne 18 april 1868 28 april 1945 was an english cricketer. he was a righthanded batsman and a rightarm mediumpace bowler who played for derbyshire between 1891 and 1895. milne made his debut for derbyshire in the 1891 season against lancashire. he played two further matches in the 1891 season and two in the 1892 season. his next appearance was in the 1895 season when he played three matches. milnes highest score was 33 which he made against lancashire in 1891. he took four wickets in an innings twice with his best bowling figures being 437 against lancashire in 1891. he also took three catches in the field. milne left derbyshire at the end of the 1895 season and died in 1945 in derby. 
+
+Coref Resolved : 
+george milne 18 april 1868 28 april 1945 was an english cricketer. george milne was a righthanded batsman and a rightarm mediumpace bowler who played for derbyshire between 1891 and 1895. george milne made george milne debut for derbyshire in the 1891 season against lancashire. george milne played two further matches in the 1891 season and two in the 1892 season. george milne next appearance was in the 1895 season when george milne played three matches. george milne highest score was 33 which george milne made against lancashirein 1891 . george milne took four wickets in an innings twice with george milne best bowling figures being 437 against lancashirein 1891 . george milne also took three catches in the field. george milne left derbyshire at the end of the 1895season and died in 1945 in derby.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+george taylor milne 18 january 1877 3 november 1968 was an english cricketer. milne was a lefthanded batsman who bowled slow leftarm orthodox. he was born in newcastle upon tyne northumberland. milne made his debut in county cricket for northumberland in the 1901 minor counties championship against the yorkshire second xi. between 1904 and the start of world war i in 1914 milne made 81 appearances for northumberland in the minor counties championship. in 1912 he was selected to play in a combined minor counties cricket team for its inaugural appearance in firstclass cricket against the touring south africans at the county ground stokeontrent in 1912. in what was milnes only firstclass appearance he batted once in the match scoring an unbeaten 9 runs in the minor counties firstinnings as a lowerorder batsman. following world war i he made 65 further appearances in the minor counties championship for northumberland with his final appearance coming against durham in 1928. he died in the city of his birth on 3 november 1968. 
+
+Coref Resolved : 
+george taylor milne 18 january 1877 3 november 1968 was an english cricketer. george taylor milne was a lefthanded batsman who bowled slow leftarm orthodox. george taylor milne was born in newcastle upon tyne northumberland. george taylor milne made george taylor milne debut in county cricket for northumberlandin the 1901 minor counties championship against the yorkshire second xi. between 1904 and the start of world war i in 1914 george taylor milne made 81 appearances for northumberlandin the minor counties championship. in 1912 george taylor milne was selected to play in a combined minor counties cricket team for a combined minor counties cricket team inaugural appearance in firstclass cricket against the touring south africans at the county ground stokeontrent in 1912 . in what was george taylor milne only firstclass appearance george taylor milne batted once in the match scoring an unbeaten 9 runs in the minor counties firstinnings as a lowerorder batsman. following world war i george taylor milne made 65 further appearances in the minor counties championshipfor northumberlandwith george taylor milne final appearance coming against durham in 1928. george taylor milne died in the city of george taylor milne birth on 3 november 1968 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2413793103448276 and for ground truth is : 0.08
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,94 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Democratic_socialism and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Vice_President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/William_Jennings_Bryan and the value is : 0
+http://dbpedia.org/resource/Democratic_socialism and http://dbpedia.org/resource/Vice_President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Democratic_socialism and http://dbpedia.org/resource/William_Jennings_Bryan and the value is : 0
+http://dbpedia.org/resource/Vice_President_of_the_United_States and http://dbpedia.org/resource/William_Jennings_Bryan and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Samuel_Sewall and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Bowdoin_College and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Sawmill and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Shipbuilding and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Olivia_Benson and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Sawmill and the value is : 0
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Shipbuilding and the value is : 1
+http://dbpedia.org/resource/Family and http://dbpedia.org/resource/Olivia_Benson and the value is : 0
+http://dbpedia.org/resource/Sawmill and http://dbpedia.org/resource/Shipbuilding and the value is : 0
+http://dbpedia.org/resource/Sawmill and http://dbpedia.org/resource/Olivia_Benson and the value is : 0
+http://dbpedia.org/resource/Shipbuilding and http://dbpedia.org/resource/Olivia_Benson and the value is : 1
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/1896_Democratic_National_Convention and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Democratic_socialism and the value is : 1
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Vice_President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/William_Jennings_Bryan and the value is : 0
+http://dbpedia.org/resource/Democratic_socialism and http://dbpedia.org/resource/Vice_President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Democratic_socialism and http://dbpedia.org/resource/William_Jennings_Bryan and the value is : 0
+http://dbpedia.org/resource/Vice_President_of_the_United_States and http://dbpedia.org/resource/William_Jennings_Bryan and the value is : 0
+http://dbpedia.org/resource/Republicanism and http://dbpedia.org/resource/William_McKinley and the value is : 0
+http://dbpedia.org/resource/Republicanism and http://dbpedia.org/resource/Garret_Hobart and the value is : 0
+http://dbpedia.org/resource/William_McKinley and http://dbpedia.org/resource/Garret_Hobart and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Democratic_socialism and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Chester_A._Arthur and http://dbpedia.org/resource/Running_mate and the value is : 0
+http://dbpedia.org/resource/Democratic_socialism and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Democratic_socialism and http://dbpedia.org/resource/Running_mate and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Running_mate and the value is : 0
+http://dbpedia.org/resource/People's_Party_(United_States) and http://dbpedia.org/resource/Running_mate and the value is : 0
+http://dbpedia.org/resource/People's_Party_(United_States) and http://dbpedia.org/resource/THOMAS and the value is : 0
+http://dbpedia.org/resource/People's_Party_(United_States) and http://dbpedia.org/resource/Watson_(computer) and the value is : 0
+http://dbpedia.org/resource/Running_mate and http://dbpedia.org/resource/THOMAS and the value is : 0
+http://dbpedia.org/resource/Running_mate and http://dbpedia.org/resource/Watson_(computer) and the value is : 0
+http://dbpedia.org/resource/THOMAS and http://dbpedia.org/resource/Watson_(computer) and the value is : 0
+http://dbpedia.org/resource/Shipbuilding and http://dbpedia.org/resource/Business_magnate and the value is : 0
+http://dbpedia.org/resource/Maine_Central_Railroad_Company and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Maine_Central_Railroad_Company and http://dbpedia.org/resource/History_of_central_banking_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/History_of_central_banking_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/Conservatism_in_the_United_States and http://dbpedia.org/resource/Populism and the value is : 0
+http://dbpedia.org/resource/The_New_Church_(Swedenborgian) and http://dbpedia.org/resource/Religion and the value is : 0
+http://dbpedia.org/resource/The_New_Church_(Swedenborgian) and http://dbpedia.org/resource/Theology and the value is : 0
+http://dbpedia.org/resource/The_New_Church_(Swedenborgian) and http://dbpedia.org/resource/Emanuel_Swedenborg and the value is : 0
+http://dbpedia.org/resource/Religion and http://dbpedia.org/resource/Theology and the value is : 0
+http://dbpedia.org/resource/Religion and http://dbpedia.org/resource/Emanuel_Swedenborg and the value is : 0
+http://dbpedia.org/resource/Theology and http://dbpedia.org/resource/Emanuel_Swedenborg and the value is : 0
+http://dbpedia.org/resource/Hobart and http://dbpedia.org/resource/Bank and the value is : 0
+http://dbpedia.org/resource/Hobart and http://dbpedia.org/resource/Business_magnate and the value is : 1
+http://dbpedia.org/resource/Hobart and http://dbpedia.org/resource/Committee and the value is : 1
+http://dbpedia.org/resource/Bank and http://dbpedia.org/resource/Business_magnate and the value is : 0
+http://dbpedia.org/resource/Bank and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Business_magnate and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Running_mate and http://dbpedia.org/resource/Democratic_socialism and the value is : 0
+http://dbpedia.org/resource/Running_mate and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Democratic_socialism and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Sumner_Sewall and http://dbpedia.org/resource/Governor_of_Indiana and the value is : 0
+http://dbpedia.org/resource/Sumner_Sewall and http://dbpedia.org/resource/Republicanism and the value is : 0
+http://dbpedia.org/resource/Governor_of_Indiana and http://dbpedia.org/resource/Republicanism and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+arthur sewall august 9 1835 april 14 1900 was an american businessman and politician from maine. he was the democratic partys nominee for vice president of the united states in 1896 running on a ticket with william jennings bryan. sewall was born in bath maine the son of hannah and samuel sewall. he attended bowdoin college graduating in 1856. he then worked in the family lumber business and later became a partner in the shipbuilding firm of sewall benson. he was a member of the maine house of representatives from 1871 to 1872 and served in the maine senate from 1873 to 1874. he was a delegate to the democratic national convention in 1876 and 1880. in 1896 sewall was chosen as the democratic vice presidential nominee running with william jennings bryan. the ticket was defeated by the republican ticket of william mckinley and garret hobart. sewall died in 1900 in bath maine. 
+
+Coref Resolved : 
+arthur sewall august 9 1835 april 14 1900 was an american businessman and politician from maine. arthur sewall was the democratic partys nominee for vice president of the united states in 1896 running on a ticket with william jennings bryan. arthur sewall was born in bath maine the son of hannah and samuel sewall. arthur sewall attended bowdoin college graduating in 1856. arthur sewall then worked in the family lumber business and later became a partner in the shipbuilding firm of sewall benson. arthur sewall was a member of the mainehouse of representatives from 1871 to 1872 and served in the mainesenate from 1873 to 1874. arthur sewall was a delegate to the democratic national convention in 1876 and 1880. in 1896 arthur sewall was chosen as the democratic vice presidential nominee running with william jennings bryan. a ticket with william jennings bryanwas defeated by the republican ticket of william mckinley and garret hobart. arthur sewall died in 1900 in bath maine .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+arthur sewall november 25 1835 september 5 1900 was a u.s. democratic politician from maine most notable as william jennings bryans first running mate in 1896. as the populist party nominee bryan had another running mate as well thomas e. watson. sewall never held elective office although he was a member of the democratic national committee from 1888 to 1896. sewalls main claim to fame had been as an exceptionally successful wealthy shipbuilder and new england industrialist. he was a director of the maine central railroad and president of the bath national bank for years. his selection is believed to have been an effort to win votes among conservative and new england members of the party who were disturbed by the populist aspects of william jennings bryan. sewall is also one of the few politicians to be an adherent of swedenborgianism a religion based on the writings of swedish theologian emanuel swedenborg. his main vicepresidential opponent garret a. hobart rep. was also an eastern banker and industrialist who had served on his partys national committee. sewall was bryans running mate for the first of bryans three times as the democratic presidential nominee. he died not long after bryan was nominated for the second time in 1900. sewalls grandson sumner sewall served as governor of maine from 1941 to 1945 as a republican. 
+
+Coref Resolved : 
+arthur sewall november 25 1835 september 5 1900 was a u.s. democratic politician from maine most notable as william jennings bryans first running mate in 1896. as the populist party nominee william jennings bryans had another running mate as well thomas e. watson. sewall never held elective office although sewall was a member of the democratic national committee from 1888 to 1896. sewall main claim to fame had been as an exceptionally successful wealthy shipbuilder and new england industrialist. sewall was a director of the maine central railroad and president of the bath national bank for years. sewall selection is believed to have been an effort to win votes among conservative and new england members of the party who were disturbed by the populist aspects of william jennings bryans . sewall is also one of the few politicians to be an adherent of swedenborgianism a religion based on the writings of swedish theologian emanuel swedenborg. sewall main vicepresidential opponent garret a. hobart rep. was also an eastern banker and industrialist who had served on the party national committee. sewall was william jennings bryans running mate for the first of william jennings bryans three times as the democratic presidential nominee. sewall died not long after william jennings bryans was nominated for the second time in 1900. sewall grandson sumner sewall served as governor of maine from 1941 to 1945 as a republican.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0967741935483871 and for ground truth is : 0.08571428571428572
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate accurate accurate accurate 
+

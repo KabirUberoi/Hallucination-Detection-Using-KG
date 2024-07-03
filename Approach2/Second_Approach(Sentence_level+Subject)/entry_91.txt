@@ -1,0 +1,120 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Pakistanis and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/General_officer and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Pakistan and the value is : 1
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Tank and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Bilateralism and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/National_Assembly_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Pakistan and the value is : 1
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Pakistan and the value is : 1
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/G._M._Syed and http://dbpedia.org/resource/Pakistan_Muslim_League_(N) and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Political_science and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Geostrategy and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Pakistan_Muslim_League_(Q) and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Pakistan and the value is : 1
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Secretary-General_of_the_United_Nations and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Pakistan_Muslim_League_(Q) and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Forman_Christian_College and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Georgetown_University and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Muslims and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Military_police and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Coup_d'état and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Muhammad_Zia-ul-Haq and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Chagai-I and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/General_officer and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Pervez_Musharraf and the value is : 1
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/1999_Pakistani_coup_d'état and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Prime_Minister_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Nawaz_Sharif and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Pakistan_Muslim_League_(Q) and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Pakistan and the value is : 1
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/President_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Asif_Ali_(actor) and the value is : 0
+http://dbpedia.org/resource/Sayyid and http://dbpedia.org/resource/Asif_Ali_Zardari and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Mushahid Hussain Syed (born 1 April 1947) is a Pakistani politician and journalist who served as a Senator from 1985 to 2018.
+He was the Secretary General of the Pakistan Muslim League (PML) from 2002 to 2008 and the Minister for Information and Broadcasting from 2008 to 2013.
+He is currently the Chairman of the Pakistan-China Institute, a think tank dedicated to promoting bilateral relations between the two countries.
+He is also the Chairman of the Senate Standing Committee on Foreign Affairs.
+He is a former member of the National Assembly of Pakistan and a former member of the Senate of Pakistan.
+He is a prominent leader of the Pakistan Muslim League (Nawaz).
+
+
+Coref Resolved: 
+
+Mushahid Hussain Syed (born 1 April 1947) is a Pakistani politician and journalist who served as a Senator from 1985 to 2018.
+Mushahid Hussain Syed was the Secretary General of the Pakistan Muslim League (PML) from 2002 to 2008 and the Minister for Information and Broadcasting from 2008 to 2013.
+Mushahid Hussain Syed is currently the Chairman of the Pakistan-China Institute, a think tank dedicated to promoting bilateral relations between the two countries.
+Mushahid Hussain Syed is also the Chairman of the Senate Standing Committee on Foreign Affairs.
+Mushahid Hussain Syed is a former member of the National Assembly of Pakistan and a former member of the Senate of Pakistan.
+Mushahid Hussain Syed is a prominent leader of the Pakistan Muslim League (Nawaz).
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Mushahid Hussain Syed (b. 1953) is a conservative journalist, political scientist, geostrategist, and former media mogul currently serving as a Senator on the Pakistan Muslim League (Q) platform to the Senate of Pakistan.
+As of current, he is the Secretary-General of the Pakistan Muslim League, a centrist party.
+Educated and graduated from the Forman Christian College University in Pakistan and Georgetown University in the United States, Syed started his career in journalism when he became the founding editor of the former leading newspaper, "The Muslim" in the 1970s and was subsequently arrested by the military police for staging a demonstration movement against the military coup d'état by General Zia-ul-Haq in 1979. .
+He came to public limelight and international notice in 1997 when Syed was appointed as the Minister of Ministry of Information and Mass-Media Broadcasting and subsequently called for successful nuclear tests (see "Chagai-I" in 1998).
+Syed was the principle media spokesperson and had control of the media representative services in the country during his stay as Minister. .
+Syed was again arrested in 1999 by General Pervez Musharraf who successfully staged a 1999 coup d'état against the government of Prime Minister Nawaz Sharif.
+Syed was subsequently released in 2000 and later defected to a splinter group of the Pakistan Muslim League, and was appointed as General-Secretary of the splinter group.
+In 2008, he secured the nomination for the office of President of Pakistan but conceded his defeat in favour of Asif Ali Zardari.
+ 
+
+Coref Resolved: 
+
+Mushahid Hussain Syed (b. 1953) is a conservative journalist, political scientist, geostrategist, and former media mogul currently serving as a Senator on the Pakistan Muslim League (Q) platform to the Senate of Pakistan.
+As of current, Mushahid Hussain Syed is the Secretary-General of Pakistan Muslim League (Q) .
+Educated and graduated from the Forman Christian College University in Pakistanand Georgetown University in the United States, Mushahid Hussain Syed started Mushahid Hussain Syed career in journalism when Mushahid Hussain Syed became the founding editor of the former leading newspaper, "The Muslim" in the 1970s and was subsequently arrested by the military police for staging a demonstration movement against the military coup d'état by General Zia-ul-Haq in 1979. .
+Mushahid Hussain Syed came to public limelight and international notice in 1997 when Mushahid Hussain Syed was appointed as the Minister of Ministry of Information and Mass-Media Broadcasting and subsequently called for successful nuclear tests (see "Chagai-I" in 1998).
+Mushahid Hussain Syed was the principle media spokesperson and had control of the media representative services in Pakistanduring Mushahid Hussain Syed stay as Minister. .
+Mushahid Hussain Syed was again arrested in 1999 by General Pervez Musharraf who successfully staged a 1999 coup d'état against the government of Prime Minister Nawaz Sharif.
+Mushahid Hussain Syed was subsequently released in 2000 and later defected to a splinter group of Pakistan Muslim League (Q) , and was appointed as General-Secretary of a splinter group of the Pakistan Muslim League.
+In 2008, Mushahid Hussain Syed secured the nomination for the office of President of Pakistanbut conceded Mushahid Hussain Syed defeat in favour of Asif Ali Zardari.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.2 0.0 0.0 0.4 0.0 
+
+Value for ground truth is : 
+0.16666666666666666 0.0 0.0 0.0 0.0 0.16666666666666666 0.25 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate accurate accurate 
+

@@ -1,0 +1,35 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Spring_and_Autumn_period and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/History_of_China and the value is : 0
+http://dbpedia.org/resource/Spring_and_Autumn_period and http://dbpedia.org/resource/History_of_China and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Huai_River and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Emperor_Yi_of_Chu and the value is : 0
+http://dbpedia.org/resource/Huai_River and http://dbpedia.org/resource/Emperor_Yi_of_Chu and the value is : 1
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/613_BC and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Zhou_dynasty and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Catty and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Guqin and the value is : 0
+http://dbpedia.org/resource/Catty and http://dbpedia.org/resource/Guqin and the value is : 0
+http://dbpedia.org/resource/614_BC and http://dbpedia.org/resource/Standard_Zhuang and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Independence and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Annexation and the value is : 0
+http://dbpedia.org/resource/Independence and http://dbpedia.org/resource/Annexation and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Economy and the value is : 0
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Peace and the value is : 1
+http://dbpedia.org/resource/Standard_Zhuang and http://dbpedia.org/resource/Chinese_literature and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+zhuang of chu died 621 bc was the last ruler of the state of chu during the spring and autumn period of ancient china. he was the son of king huai of chu and the younger brother of king huai ii. he succeeded his brother in 613 bc and reigned until his death in 621 bc. during his reign zhuang of chu faced numerous challenges from the other states of the zhou dynasty. he was forced to cede territory to the state of jin and was defeated by the state of qin in 614 bc. he also faced internal strife from his own ministers who were divided into two factions. despite these challenges zhuang of chu was able to maintain the independence of chu and kept it from being annexed by the other states. he was also able to expand chus territory and strengthen its economy. zhuang of chu was a wise and capable ruler who was respected by his contemporaries. he was known for his generosity and kindness and was praised for his ability to maintain peace and stability in chu. he was also a patron of the arts and literature 
+
+Coref Resolved : 
+zhuang of chu died 621 bc was the last ruler of chu during the spring and autumn period of ancient china. zhuang of chu was the son of king huai of chu and the younger brother of king huai ii. zhuang of chu succeeded zhuang of chu brother in 613 bc and reigned until zhuang of chu death in 621 bc . during zhuang of chu reign zhuang of chu faced numerous challenges from the other states of the zhou dynasty. zhuang of chu was forced to cede territory to the state of jin and was defeated by the state of qin in 614 bc. zhuang of chu also faced internal strife from zhuang of chu own ministers who were divided into two factions. despite these challenges zhuang of chu was able to maintain the independence of chu and kept chu from being annexed by the other states. zhuang of chu was also able to expand chu territory and strengthen chu economy. zhuang of chu was a wise and capable ruler who was respected by zhuang of chu contemporaries. zhuang of chu was known for zhuang of chu generosity and kindness and was praised for zhuang of chu ability to maintain peace and stability in chu . zhuang of chu was also a patron of the arts and literature
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1111111111111111
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate accurate accurate accurate accurate minor_inaccurate 
+

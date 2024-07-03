@@ -1,0 +1,168 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Conducting and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Bournemouth_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Conducting and http://dbpedia.org/resource/Bournemouth_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Kiev and the value is : 1
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Ukraine and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Music and the value is : 1
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/University_of_Manchester and the value is : 0
+http://dbpedia.org/resource/Kiev and http://dbpedia.org/resource/Ukraine and the value is : 1
+http://dbpedia.org/resource/Kiev and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Kiev and http://dbpedia.org/resource/University_of_Manchester and the value is : 0
+http://dbpedia.org/resource/Ukraine and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Ukraine and http://dbpedia.org/resource/University_of_Manchester and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/University_of_Manchester and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Conducting and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/National_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Ukraine and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Bournemouth and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Conducting and http://dbpedia.org/resource/National_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Conducting and http://dbpedia.org/resource/Ukraine and the value is : 0
+http://dbpedia.org/resource/Conducting and http://dbpedia.org/resource/Bournemouth and the value is : 0
+http://dbpedia.org/resource/Conducting and http://dbpedia.org/resource/Orchestra and the value is : 1
+http://dbpedia.org/resource/National_Symphony_Orchestra and http://dbpedia.org/resource/Ukraine and the value is : 0
+http://dbpedia.org/resource/National_Symphony_Orchestra and http://dbpedia.org/resource/Bournemouth and the value is : 0
+http://dbpedia.org/resource/National_Symphony_Orchestra and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Ukraine and http://dbpedia.org/resource/Bournemouth and the value is : 0
+http://dbpedia.org/resource/Ukraine and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Bournemouth and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Conducting and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/BBC_Philharmonic and the value is : 0
+http://dbpedia.org/resource/Conducting and http://dbpedia.org/resource/BBC_Philharmonic and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/London_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Berlin_Philharmonic and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Vienna_Philharmonic and the value is : 1
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Los_Angeles_Philharmonic and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Chicago and the value is : 1
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Philadelphia_Orchestra and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/San_Francisco_Symphony and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Cleveland_Orchestra and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/NHK_Symphony_Orchestra and the value is : 1
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/La_Scala and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 0
+http://dbpedia.org/resource/Kirill_Karabits and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 0
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and the value is : 0
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/Berlin_Philharmonic and the value is : 0
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/Vienna_Philharmonic and the value is : 0
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/Los_Angeles_Philharmonic and the value is : 0
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/Philadelphia_Orchestra and the value is : 1
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/San_Francisco_Symphony and the value is : 0
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/Cleveland_Orchestra and the value is : 1
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/NHK_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and the value is : 0
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/La_Scala and the value is : 0
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 0
+http://dbpedia.org/resource/London_Symphony_Orchestra and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 0
+http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and http://dbpedia.org/resource/Berlin_Philharmonic and the value is : 0
+http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and http://dbpedia.org/resource/Vienna_Philharmonic and the value is : 0
+http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and http://dbpedia.org/resource/Los_Angeles_Philharmonic and the value is : 0
+http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and http://dbpedia.org/resource/Chicago and the value is : 1
+http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and http://dbpedia.org/resource/Philadelphia_Orchestra and the value is : 0
+http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and http://dbpedia.org/resource/San_Francisco_Symphony and the value is : 0
+http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and http://dbpedia.org/resource/Cleveland_Orchestra and the value is : 0
+http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and http://dbpedia.org/resource/NHK_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and the value is : 1
+http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and http://dbpedia.org/resource/La_Scala and the value is : 0
+http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 1
+http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 0
+http://dbpedia.org/resource/Berlin_Philharmonic and http://dbpedia.org/resource/Vienna_Philharmonic and the value is : 0
+http://dbpedia.org/resource/Berlin_Philharmonic and http://dbpedia.org/resource/Los_Angeles_Philharmonic and the value is : 0
+http://dbpedia.org/resource/Berlin_Philharmonic and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Berlin_Philharmonic and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Berlin_Philharmonic and http://dbpedia.org/resource/Philadelphia_Orchestra and the value is : 1
+http://dbpedia.org/resource/Berlin_Philharmonic and http://dbpedia.org/resource/San_Francisco_Symphony and the value is : 1
+http://dbpedia.org/resource/Berlin_Philharmonic and http://dbpedia.org/resource/Cleveland_Orchestra and the value is : 0
+http://dbpedia.org/resource/Berlin_Philharmonic and http://dbpedia.org/resource/NHK_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Berlin_Philharmonic and http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and the value is : 0
+http://dbpedia.org/resource/Berlin_Philharmonic and http://dbpedia.org/resource/La_Scala and the value is : 0
+http://dbpedia.org/resource/Berlin_Philharmonic and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 0
+http://dbpedia.org/resource/Berlin_Philharmonic and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 0
+http://dbpedia.org/resource/Vienna_Philharmonic and http://dbpedia.org/resource/Los_Angeles_Philharmonic and the value is : 0
+http://dbpedia.org/resource/Vienna_Philharmonic and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Vienna_Philharmonic and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Vienna_Philharmonic and http://dbpedia.org/resource/Philadelphia_Orchestra and the value is : 0
+http://dbpedia.org/resource/Vienna_Philharmonic and http://dbpedia.org/resource/San_Francisco_Symphony and the value is : 0
+http://dbpedia.org/resource/Vienna_Philharmonic and http://dbpedia.org/resource/Cleveland_Orchestra and the value is : 0
+http://dbpedia.org/resource/Vienna_Philharmonic and http://dbpedia.org/resource/NHK_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Vienna_Philharmonic and http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and the value is : 1
+http://dbpedia.org/resource/Vienna_Philharmonic and http://dbpedia.org/resource/La_Scala and the value is : 0
+http://dbpedia.org/resource/Vienna_Philharmonic and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 0
+http://dbpedia.org/resource/Vienna_Philharmonic and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Philharmonic and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Philharmonic and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Philharmonic and http://dbpedia.org/resource/Philadelphia_Orchestra and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Philharmonic and http://dbpedia.org/resource/San_Francisco_Symphony and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Philharmonic and http://dbpedia.org/resource/Cleveland_Orchestra and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Philharmonic and http://dbpedia.org/resource/NHK_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Philharmonic and http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Philharmonic and http://dbpedia.org/resource/La_Scala and the value is : 0
+http://dbpedia.org/resource/Los_Angeles_Philharmonic and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 1
+http://dbpedia.org/resource/Los_Angeles_Philharmonic and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Orchestra and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Philadelphia_Orchestra and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/San_Francisco_Symphony and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Cleveland_Orchestra and the value is : 1
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/NHK_Symphony_Orchestra and the value is : 1
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/La_Scala and the value is : 1
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 1
+http://dbpedia.org/resource/Orchestra and http://dbpedia.org/resource/Philadelphia_Orchestra and the value is : 0
+http://dbpedia.org/resource/Orchestra and http://dbpedia.org/resource/San_Francisco_Symphony and the value is : 0
+http://dbpedia.org/resource/Orchestra and http://dbpedia.org/resource/Cleveland_Orchestra and the value is : 0
+http://dbpedia.org/resource/Orchestra and http://dbpedia.org/resource/NHK_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Orchestra and http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and the value is : 0
+http://dbpedia.org/resource/Orchestra and http://dbpedia.org/resource/La_Scala and the value is : 0
+http://dbpedia.org/resource/Orchestra and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 0
+http://dbpedia.org/resource/Orchestra and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 1
+http://dbpedia.org/resource/Philadelphia_Orchestra and http://dbpedia.org/resource/San_Francisco_Symphony and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Orchestra and http://dbpedia.org/resource/Cleveland_Orchestra and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Orchestra and http://dbpedia.org/resource/NHK_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Orchestra and http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Orchestra and http://dbpedia.org/resource/La_Scala and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Orchestra and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 1
+http://dbpedia.org/resource/Philadelphia_Orchestra and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 0
+http://dbpedia.org/resource/San_Francisco_Symphony and http://dbpedia.org/resource/Cleveland_Orchestra and the value is : 0
+http://dbpedia.org/resource/San_Francisco_Symphony and http://dbpedia.org/resource/NHK_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/San_Francisco_Symphony and http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and the value is : 0
+http://dbpedia.org/resource/San_Francisco_Symphony and http://dbpedia.org/resource/La_Scala and the value is : 0
+http://dbpedia.org/resource/San_Francisco_Symphony and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 0
+http://dbpedia.org/resource/San_Francisco_Symphony and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 0
+http://dbpedia.org/resource/Cleveland_Orchestra and http://dbpedia.org/resource/NHK_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Cleveland_Orchestra and http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and the value is : 0
+http://dbpedia.org/resource/Cleveland_Orchestra and http://dbpedia.org/resource/La_Scala and the value is : 0
+http://dbpedia.org/resource/Cleveland_Orchestra and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 0
+http://dbpedia.org/resource/Cleveland_Orchestra and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 0
+http://dbpedia.org/resource/NHK_Symphony_Orchestra and http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and the value is : 0
+http://dbpedia.org/resource/NHK_Symphony_Orchestra and http://dbpedia.org/resource/La_Scala and the value is : 0
+http://dbpedia.org/resource/NHK_Symphony_Orchestra and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 0
+http://dbpedia.org/resource/NHK_Symphony_Orchestra and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 0
+http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and http://dbpedia.org/resource/La_Scala and the value is : 0
+http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 0
+http://dbpedia.org/resource/Accademia_Nazionale_di_Santa_Cecilia and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 0
+http://dbpedia.org/resource/La_Scala and http://dbpedia.org/resource/Mariinsky_Theatre and the value is : 0
+http://dbpedia.org/resource/La_Scala and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 0
+http://dbpedia.org/resource/Mariinsky_Theatre and http://dbpedia.org/resource/Age_of_Enlightenment and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+kirill karabits born 28 august 1975 is a ukrainian conductor and the current music director of the bournemouth symphony orchestra. he was born in kiev ukraine and studied at the kiev conservatory and the royal northern college of music in manchester. karabits has held the position of chief conductor of the national symphony orchestra of ukraine since 2008 and was appointed music director of the bournemouth symphony orchestra in 2009. he has also held the position of principal guest conductor of the bbc philharmonic since 2011. karabits has conducted many of the worlds leading orchestras including the london symphony orchestra the royal concertgebouw orchestra the berlin philharmonic the vienna philharmonic the los angeles philharmonic the chicago symphony orchestra the philadelphia orchestra the san francisco symphony the cleveland orchestra the nhk symphony orchestra the orchestra dellaccademia nazionale di santa cecilia the orchestra filarmonica della scala the orchestra of the mariinsky theatre and the orchestra of the age of enlightenment. he has also 
+
+Coref Resolved : 
+kirill karabits born 28 august 1975 is a ukrainian conductor and the current music director of the bournemouth symphony orchestra. kirill karabits born 28 august 1975 was born in kiev ukraine and studied at the kiev conservatory and the royal northern college of music in manchester. kirill karabits born 28 august 1975 has held the position of chief conductor of the national symphony orchestra of ukraine since 2008 and was appointed music director of the bournemouth symphony orchestrain 2009. kirill karabits born 28 august 1975 has also held the position of principal guest conductor of the bbc philharmonic since 2011. kirill karabits born 28 august 1975 has conducted many of the worlds leading orchestras including the london symphony orchestra the royal concertgebouw orchestra the berlin philharmonic the vienna philharmonic the los angeles philharmonic the chicago symphony orchestra the philadelphia orchestra the san francisco symphony the cleveland orchestra the nhk symphony orchestra the orchestra dellaccademia nazionale di santa cecilia the orchestra filarmonica della scala the orchestra of the mariinsky theatre and the orchestra of the age of enlightenment. kirill karabits born 28 august 1975 has also
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1456953642384106
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

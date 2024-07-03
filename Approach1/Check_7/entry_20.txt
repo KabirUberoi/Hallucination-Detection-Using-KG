@@ -1,0 +1,105 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Music_education and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Drummer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Composer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Music_education and the value is : 0
+http://dbpedia.org/resource/Drummer and http://dbpedia.org/resource/Composer and the value is : 1
+http://dbpedia.org/resource/Drummer and http://dbpedia.org/resource/Music_education and the value is : 1
+http://dbpedia.org/resource/Composer and http://dbpedia.org/resource/Music_education and the value is : 1
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Midfielder and the value is : 1
+http://dbpedia.org/resource/Dixie_Dregs and http://dbpedia.org/resource/Steve_Morse and the value is : 0
+http://dbpedia.org/resource/Dixie_Dregs and http://dbpedia.org/resource/Jordan_Rudess and the value is : 1
+http://dbpedia.org/resource/Steve_Morse and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Berklee_College_of_Music and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Berklee_College_of_Music and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Berklee_College_of_Music and http://dbpedia.org/resource/Alan_Dawson and the value is : 0
+http://dbpedia.org/resource/Berklee_College_of_Music and http://dbpedia.org/resource/Joe_Hunt and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Boston and the value is : 1
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Alan_Dawson and the value is : 0
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Joe_Hunt and the value is : 1
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Alan_Dawson and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Joe_Hunt and the value is : 0
+http://dbpedia.org/resource/Alan_Dawson and http://dbpedia.org/resource/Joe_Hunt and the value is : 1
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/University_of_Georgia and the value is : 0
+http://dbpedia.org/resource/Atlanta and http://dbpedia.org/resource/Dixie_Dregs and the value is : 1
+http://dbpedia.org/resource/University_of_Georgia and http://dbpedia.org/resource/Dixie_Dregs and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Progressive_rock and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Midfielder and the value is : 1
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Progressive_rock and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Midfielder and the value is : 1
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Steve_Morse and the value is : 1
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/Steve_Morse and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+http://dbpedia.org/resource/Steve_Morse and http://dbpedia.org/resource/Jordan_Rudess and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Music_education and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Music_education and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Music_education and the value is : 0
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Jazz_fusion and the value is : 0
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Dixie_Dregs and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/Jazz_fusion and the value is : 0
+http://dbpedia.org/resource/Midfielder and http://dbpedia.org/resource/Dixie_Dregs and the value is : 0
+http://dbpedia.org/resource/Jazz_fusion and http://dbpedia.org/resource/Dixie_Dregs and the value is : 0
+http://dbpedia.org/resource/Kid_vs._Kat and http://dbpedia.org/resource/Platypus and the value is : 0
+http://dbpedia.org/resource/Kid_vs._Kat and http://dbpedia.org/resource/Steve_Morse and the value is : 1
+http://dbpedia.org/resource/Kid_vs._Kat and http://dbpedia.org/resource/The_Jelly_Jam and the value is : 0
+http://dbpedia.org/resource/Platypus and http://dbpedia.org/resource/Steve_Morse and the value is : 0
+http://dbpedia.org/resource/Platypus and http://dbpedia.org/resource/The_Jelly_Jam and the value is : 1
+http://dbpedia.org/resource/Steve_Morse and http://dbpedia.org/resource/The_Jelly_Jam and the value is : 1
+http://dbpedia.org/resource/Progressive_rock and http://dbpedia.org/resource/Honors_student and the value is : 0
+http://dbpedia.org/resource/Associate_professor and http://dbpedia.org/resource/Percussion_instrument and the value is : 0
+http://dbpedia.org/resource/Associate_professor and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 1
+http://dbpedia.org/resource/Associate_professor and http://dbpedia.org/resource/Music and the value is : 1
+http://dbpedia.org/resource/Associate_professor and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Percussion_instrument and http://dbpedia.org/resource/Berklee_College_of_Music and the value is : 0
+http://dbpedia.org/resource/Percussion_instrument and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Percussion_instrument and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Berklee_College_of_Music and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Berklee_College_of_Music and http://dbpedia.org/resource/Boston and the value is : 1
+http://dbpedia.org/resource/Music and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Handedness and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Handedness and the value is : 0
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Handedness and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Columnist and http://dbpedia.org/resource/Modern_Drummer and the value is : 0
+http://dbpedia.org/resource/Rod_Morgenstein and http://dbpedia.org/resource/Music and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+rod morgenstein born april 18 1959 american drummer composer educator . best known work progressive rock band winger joined 1987 . performed recorded dixie dregs steve morse band jordan rudess artists . morgenstein began playing drums age time high school playing professionally . attended berklee college music boston massachusetts studied drummers alan dawson joe hunt . graduating 1981 moved atlanta georgia joined dixie dregs . toured recorded band occasions . 1987 morgenstein joined winger recorded studio albums toured extensively . released solo albums rod morgenstein project 1995 rod morgensteins winger 1998 . addition work winger performed recorded steve morse band jordan rudess artists 
+
+Coref Resolved : 
+rod morgenstein born april 18 1959 american drummer composer educator . best known work progressive rock band winger joined 1987 . performed recorded dixie dregs steve morse band jordan rudess artists . rod morgenstein began playing drums age time high school playing professionally . attended berklee college music boston massachusetts studied drummers alan dawson joe hunt . graduating 1981 moved atlanta georgia joined dixie dregs . toured recorded band occasions . 1987 rod morgenstein joined progressive rock band winger recorded studio albums toured extensively . released solo albums rod morgenstein project 1995 rod morgensteins progressive rock band winger 1998 . addition work progressive rock band winger performed recorded steve morse band jordan rudess artists
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+rod morgenstein born april 19 1953 new york american drummer music educator . best known work late 1980s rock band winger jazz fusion band dixie dregs . played fiona platypus steve morse band jelly jam . session work jordan rudess including ventures rudessmorgenstein project . toured jazz dead . awarded modern drummers best progressive rock drummer years 198690 best allaround drummer 1999 inducted magazines honor roll . currently associate professor teaching percussion berklee college music boston massachusetts . morgenstein plays premier drums lefthanded tours band winger europe united states . columnist modern drummer magazine . rod known versatility playing styles music . winger released live dvdcd november 2007 . 
+
+Coref Resolved : 
+rod morgenstein born april 19 1953 new york american drummer music educator . best known work late 1980s rock band winger jazz fusion band dixie dregs . played fiona platypus steve morse band jelly jam . session work jordan rudess including ventures rudessmorgenstein project . toured jazz dead . awarded modern drummers best progressive rock drummer years 198690 best allaround drummer 1999 inducted magazines honor roll . currently associate professor teaching percussion berklee college music boston massachusetts . rod morgenstein plays premier drums lefthanded tours band winger europe united states . columnist modern drummer magazine . rod morgenstein known versatility playing styles music . band winger released live dvdcd november 2007 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.35 and for ground truth is : 0.16216216216216217
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate minor_inaccurate accurate 
+

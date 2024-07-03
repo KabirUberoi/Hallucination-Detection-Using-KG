@@ -1,0 +1,189 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Twila_Shively and http://dbpedia.org/resource/Tennis and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/San_Francisco and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/California_Golden_Bears and http://dbpedia.org/resource/George_Berkeley and the value is : 1
+http://dbpedia.org/resource/18S_ribosomal_RNA and http://dbpedia.org/resource/National_championship and the value is : 0
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/U.S._Men's_Clay_Court_Championships and the value is : 1
+http://dbpedia.org/resource/Types_of_tennis_match and http://dbpedia.org/resource/U.S._National_Indoor_Championships and the value is : 0
+http://dbpedia.org/resource/U.S._Men's_Clay_Court_Championships and http://dbpedia.org/resource/U.S._National_Indoor_Championships and the value is : 0
+http://dbpedia.org/resource/1966_French_Championships_(tennis) and http://dbpedia.org/resource/1966_Wimbledon_Championships and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Outfielder and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Listed_building and http://dbpedia.org/resource/Rail_profile and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Left_fielder and the value is : 0
+http://dbpedia.org/resource/Ankle and http://dbpedia.org/resource/Switch and the value is : 0
+http://dbpedia.org/resource/Decatur_station and http://dbpedia.org/resource/Illinois_Fighting_Illini_football and the value is : 0
+http://dbpedia.org/resource/Decatur_station and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/Decatur_station and http://dbpedia.org/resource/Bryant_University and the value is : 0
+http://dbpedia.org/resource/Decatur_station and http://dbpedia.org/resource/Shively,_Kentucky and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Bryant_University and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Shively,_Kentucky and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Bryant_University and the value is : 1
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Shively,_Kentucky and the value is : 0
+http://dbpedia.org/resource/Bryant_University and http://dbpedia.org/resource/Shively,_Kentucky and the value is : 0
+http://dbpedia.org/resource/Softball and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Bratislava and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Bratislava and http://dbpedia.org/resource/Journalism and the value is : 1
+http://dbpedia.org/resource/Bratislava and http://dbpedia.org/resource/Hedy_Lamarr and the value is : 1
+http://dbpedia.org/resource/Bratislava and http://dbpedia.org/resource/Softball and the value is : 0
+http://dbpedia.org/resource/Bratislava and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Bratislava and http://dbpedia.org/resource/Ty_Cobb and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Journalism and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Hedy_Lamarr and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Softball and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Ty_Cobb and the value is : 0
+http://dbpedia.org/resource/Journalism and http://dbpedia.org/resource/Hedy_Lamarr and the value is : 1
+http://dbpedia.org/resource/Journalism and http://dbpedia.org/resource/Softball and the value is : 0
+http://dbpedia.org/resource/Journalism and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Journalism and http://dbpedia.org/resource/Ty_Cobb and the value is : 0
+http://dbpedia.org/resource/Hedy_Lamarr and http://dbpedia.org/resource/Softball and the value is : 1
+http://dbpedia.org/resource/Hedy_Lamarr and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Hedy_Lamarr and http://dbpedia.org/resource/Ty_Cobb and the value is : 0
+http://dbpedia.org/resource/Softball and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Softball and http://dbpedia.org/resource/Ty_Cobb and the value is : 0
+http://dbpedia.org/resource/Run_batted_in and http://dbpedia.org/resource/Ty_Cobb and the value is : 0
+http://dbpedia.org/resource/Savvy_Gupta and http://dbpedia.org/resource/Pretty_Face and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/All-American_Girls_Professional_Baseball_League and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Grand_Rapids_Chicks and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Peoria_Redwings and the value is : 0
+http://dbpedia.org/resource/Grand_Rapids_Chicks and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Grand_Rapids_Chicks and http://dbpedia.org/resource/Peoria_Redwings and the value is : 1
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Peoria_Redwings and the value is : 0
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Outfield and the value is : 0
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Thelma_Eisen and the value is : 0
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Center_fielder and the value is : 0
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Elizabeth_Wicken and the value is : 0
+http://dbpedia.org/resource/Outfield and http://dbpedia.org/resource/Thelma_Eisen and the value is : 0
+http://dbpedia.org/resource/Outfield and http://dbpedia.org/resource/Center_fielder and the value is : 1
+http://dbpedia.org/resource/Outfield and http://dbpedia.org/resource/Elizabeth_Wicken and the value is : 1
+http://dbpedia.org/resource/Thelma_Eisen and http://dbpedia.org/resource/Center_fielder and the value is : 0
+http://dbpedia.org/resource/Thelma_Eisen and http://dbpedia.org/resource/Elizabeth_Wicken and the value is : 0
+http://dbpedia.org/resource/Center_fielder and http://dbpedia.org/resource/Elizabeth_Wicken and the value is : 0
+http://dbpedia.org/resource/Batting_average and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Batting_average and http://dbpedia.org/resource/Stolen_base and the value is : 0
+http://dbpedia.org/resource/Batting_average and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Run_batted_in and http://dbpedia.org/resource/Stolen_base and the value is : 0
+http://dbpedia.org/resource/Run_batted_in and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Stolen_base and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Fielding_percentage and http://dbpedia.org/resource/Putout and the value is : 1
+http://dbpedia.org/resource/Fielding_percentage and http://dbpedia.org/resource/Fort_Wayne_Daisies and the value is : 1
+http://dbpedia.org/resource/Fielding_percentage and http://dbpedia.org/resource/Penny and the value is : 0
+http://dbpedia.org/resource/Putout and http://dbpedia.org/resource/Fort_Wayne_Daisies and the value is : 0
+http://dbpedia.org/resource/Putout and http://dbpedia.org/resource/Penny and the value is : 0
+http://dbpedia.org/resource/Fort_Wayne_Daisies and http://dbpedia.org/resource/Penny and the value is : 0
+http://dbpedia.org/resource/Walk-off_home_run and http://dbpedia.org/resource/Home_run and the value is : 0
+http://dbpedia.org/resource/Run_(baseball) and http://dbpedia.org/resource/Hits_allowed and the value is : 0
+http://dbpedia.org/resource/Run_(baseball) and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Run_(baseball) and http://dbpedia.org/resource/At_bat and the value is : 0
+http://dbpedia.org/resource/Run_(baseball) and http://dbpedia.org/resource/Stolen_base and the value is : 0
+http://dbpedia.org/resource/Run_(baseball) and http://dbpedia.org/resource/Games_played and the value is : 0
+http://dbpedia.org/resource/Hits_allowed and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Hits_allowed and http://dbpedia.org/resource/At_bat and the value is : 1
+http://dbpedia.org/resource/Hits_allowed and http://dbpedia.org/resource/Stolen_base and the value is : 0
+http://dbpedia.org/resource/Hits_allowed and http://dbpedia.org/resource/Games_played and the value is : 0
+http://dbpedia.org/resource/Run_batted_in and http://dbpedia.org/resource/At_bat and the value is : 0
+http://dbpedia.org/resource/Run_batted_in and http://dbpedia.org/resource/Stolen_base and the value is : 0
+http://dbpedia.org/resource/Run_batted_in and http://dbpedia.org/resource/Games_played and the value is : 1
+http://dbpedia.org/resource/At_bat and http://dbpedia.org/resource/Stolen_base and the value is : 0
+http://dbpedia.org/resource/At_bat and http://dbpedia.org/resource/Games_played and the value is : 0
+http://dbpedia.org/resource/Stolen_base and http://dbpedia.org/resource/Games_played and the value is : 0
+http://dbpedia.org/resource/Anna_May_Hutchison and http://dbpedia.org/resource/Betty_Luna and the value is : 0
+http://dbpedia.org/resource/Anna_May_Hutchison and http://dbpedia.org/resource/SoX and the value is : 0
+http://dbpedia.org/resource/Anna_May_Hutchison and http://dbpedia.org/resource/Carolyn_Morris and the value is : 1
+http://dbpedia.org/resource/Anna_May_Hutchison and http://dbpedia.org/resource/Amy_Applegren and the value is : 0
+http://dbpedia.org/resource/Anna_May_Hutchison and http://dbpedia.org/resource/Connie_Wisniewski and the value is : 0
+http://dbpedia.org/resource/Anna_May_Hutchison and http://dbpedia.org/resource/Dottie_Wiltse_Collins and the value is : 0
+http://dbpedia.org/resource/Anna_May_Hutchison and http://dbpedia.org/resource/Bellis_perennis and the value is : 0
+http://dbpedia.org/resource/Anna_May_Hutchison and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Betty_Luna and http://dbpedia.org/resource/SoX and the value is : 0
+http://dbpedia.org/resource/Betty_Luna and http://dbpedia.org/resource/Carolyn_Morris and the value is : 0
+http://dbpedia.org/resource/Betty_Luna and http://dbpedia.org/resource/Amy_Applegren and the value is : 0
+http://dbpedia.org/resource/Betty_Luna and http://dbpedia.org/resource/Connie_Wisniewski and the value is : 0
+http://dbpedia.org/resource/Betty_Luna and http://dbpedia.org/resource/Dottie_Wiltse_Collins and the value is : 0
+http://dbpedia.org/resource/Betty_Luna and http://dbpedia.org/resource/Bellis_perennis and the value is : 1
+http://dbpedia.org/resource/Betty_Luna and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/SoX and http://dbpedia.org/resource/Carolyn_Morris and the value is : 1
+http://dbpedia.org/resource/SoX and http://dbpedia.org/resource/Amy_Applegren and the value is : 0
+http://dbpedia.org/resource/SoX and http://dbpedia.org/resource/Connie_Wisniewski and the value is : 0
+http://dbpedia.org/resource/SoX and http://dbpedia.org/resource/Dottie_Wiltse_Collins and the value is : 1
+http://dbpedia.org/resource/SoX and http://dbpedia.org/resource/Bellis_perennis and the value is : 0
+http://dbpedia.org/resource/SoX and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Carolyn_Morris and http://dbpedia.org/resource/Amy_Applegren and the value is : 0
+http://dbpedia.org/resource/Carolyn_Morris and http://dbpedia.org/resource/Connie_Wisniewski and the value is : 0
+http://dbpedia.org/resource/Carolyn_Morris and http://dbpedia.org/resource/Dottie_Wiltse_Collins and the value is : 0
+http://dbpedia.org/resource/Carolyn_Morris and http://dbpedia.org/resource/Bellis_perennis and the value is : 0
+http://dbpedia.org/resource/Carolyn_Morris and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Amy_Applegren and http://dbpedia.org/resource/Connie_Wisniewski and the value is : 0
+http://dbpedia.org/resource/Amy_Applegren and http://dbpedia.org/resource/Dottie_Wiltse_Collins and the value is : 0
+http://dbpedia.org/resource/Amy_Applegren and http://dbpedia.org/resource/Bellis_perennis and the value is : 1
+http://dbpedia.org/resource/Amy_Applegren and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Connie_Wisniewski and http://dbpedia.org/resource/Dottie_Wiltse_Collins and the value is : 0
+http://dbpedia.org/resource/Connie_Wisniewski and http://dbpedia.org/resource/Bellis_perennis and the value is : 0
+http://dbpedia.org/resource/Connie_Wisniewski and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Dottie_Wiltse_Collins and http://dbpedia.org/resource/Bellis_perennis and the value is : 0
+http://dbpedia.org/resource/Dottie_Wiltse_Collins and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Bellis_perennis and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Indiana_University and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Physical_education and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Washington_Huskies_football and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/South_Bend_Blue_Sox and the value is : 0
+http://dbpedia.org/resource/Illinois_Fighting_Illini_football and http://dbpedia.org/resource/Indiana_Hoosiers_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Indiana_University and http://dbpedia.org/resource/Physical_education and the value is : 0
+http://dbpedia.org/resource/Indiana_University and http://dbpedia.org/resource/Washington_Huskies_football and the value is : 0
+http://dbpedia.org/resource/Indiana_University and http://dbpedia.org/resource/South_Bend_Blue_Sox and the value is : 1
+http://dbpedia.org/resource/Indiana_University and http://dbpedia.org/resource/Indiana_Hoosiers_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Physical_education and http://dbpedia.org/resource/Washington_Huskies_football and the value is : 0
+http://dbpedia.org/resource/Physical_education and http://dbpedia.org/resource/South_Bend_Blue_Sox and the value is : 0
+http://dbpedia.org/resource/Physical_education and http://dbpedia.org/resource/Indiana_Hoosiers_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Washington_Huskies_football and http://dbpedia.org/resource/South_Bend_Blue_Sox and the value is : 0
+http://dbpedia.org/resource/Washington_Huskies_football and http://dbpedia.org/resource/Indiana_Hoosiers_men's_basketball and the value is : 0
+http://dbpedia.org/resource/South_Bend_Blue_Sox and http://dbpedia.org/resource/Indiana_Hoosiers_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Softball and http://dbpedia.org/resource/Volleyball and the value is : 0
+http://dbpedia.org/resource/Softball and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Volleyball and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Douglas_Aircraft_Company and http://dbpedia.org/resource/University_of_Michigan and the value is : 0
+http://dbpedia.org/resource/Douglas_Aircraft_Company and http://dbpedia.org/resource/Thanksgiving and the value is : 0
+http://dbpedia.org/resource/Douglas_Aircraft_Company and http://dbpedia.org/resource/Disease and the value is : 0
+http://dbpedia.org/resource/Douglas_Aircraft_Company and http://dbpedia.org/resource/Lung_cancer and the value is : 0
+http://dbpedia.org/resource/University_of_Michigan and http://dbpedia.org/resource/Thanksgiving and the value is : 0
+http://dbpedia.org/resource/University_of_Michigan and http://dbpedia.org/resource/Disease and the value is : 0
+http://dbpedia.org/resource/University_of_Michigan and http://dbpedia.org/resource/Lung_cancer and the value is : 0
+http://dbpedia.org/resource/Thanksgiving and http://dbpedia.org/resource/Disease and the value is : 0
+http://dbpedia.org/resource/Thanksgiving and http://dbpedia.org/resource/Lung_cancer and the value is : 0
+http://dbpedia.org/resource/Disease and http://dbpedia.org/resource/Lung_cancer and the value is : 0
+http://dbpedia.org/resource/All-American_Girls_Professional_Baseball_League and http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum and the value is : 0
+http://dbpedia.org/resource/All-American_Girls_Professional_Baseball_League and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/All-American_Girls_Professional_Baseball_League and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+twila shively born october 28 1945 is an american former professional tennis player. she was born in san francisco california and attended the university of california berkeley. shively was a topranked junior player in the united states and won the us girls 18s national championship in 1962. she was a member of the u.s. wightman cup team in 1964 and 1965. she won the singles title at the 1965 u.s. clay court championships and the doubles title at the 1966 u.s. indoor championships. she reached the quarterfinals of the 1966 french championships and the fourth round of the 1966 wimbledon championships. shively was ranked in the worlds top 10 in 1966 and 1967. she retired from professional tennis in 1968. 
+
+Coref Resolved : 
+twila shively born october 28 1945 is an american former professional tennis player. she was born in san francisco california and attended the university of california berkeley. she was a topranked junior player in the united states and won the us girls 18s national championship in 1962. she was a member of the u.s. wightman cup team in 1964 and 1965. she won the singles title at the 1965 u.s. clay court championships and the doubles title at the 1966 u.s. indoor championships. she reached the quarterfinals of the 1966 french championships and the fourth round of the 1966 wimbledon championships. she was ranked in the worlds top 10 in 1966 and 1967. she retired from professional tennis in 1968.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+twila shively march 20 1920 november 25 1999 was an american competitive baseball player. an outfielder she played from 1945 through 1950 in the allamerican girls professional baseball league. listed at 52 128 lb. she batted and threw righthanded. shively spent five of her six years in the aagpbl playing in the left field. a solid defensive player she showed speed good hands an accurate throwing arm and lived in a constant state of readiness. routinely she ranked among the top defensive outfielders in several categories until a severe ankle injury limited her ability to perform and she had to switch to first base. offensively she made consistent contact knew when to take the extra base and excelled as a basestealer. born in decatur illinois twila shively was the daughter of glenn and eva née bryant shively. she began playing softball at age eight and moved up in the softball ranks in chicago as early as 1942. by then she was featured in an article signed by carl guldager and published in the chicago daily news with the headline shes hedy lamarr of softball twila shively looks like model runs bases like ty cobb. has baseball savvy plus pretty face. in 1944 shively became a member of the rockola chicks team of the newly formed national girls baseball league. the ngbl was organized in chicago to keep the best local players from migrating to the aagpbl which had been stabilized in 1943. after that both circuits competed against each other to see who could associate itself with the biggest stars. shively entered the aagpbl in 1945 with the grand rapids chicks playing for them three years before joining the chicago colleens 1948 and peoria redwings 19481950. in her rookie year she formed part of a chicks outfield that included thelma eisen in the center field and elizabeth wicken at right field. shively collected a .196 batting average and a .276 onbase percentage in 106 games driving in 23 runs and scoring 42 times while her 46 stolen bases ranked her fifth in the league. she also led all outfielders with a .968 fielding percentage and finished second for the most putouts 234 behind fort wayne daisies penny obrian 236. during the regular season she achieved a career highlight when she belted a twoout walkoff grand slam to give her team the victory. her most productive season came in 1946 when she posted career numbers in average .247 runs scored 78 hits 101 runs batted in 45 steals 45 and games played 111. considering the year was great for many pitchers her numbers were quite respectable. four nohitters were recorded by anna mae hutchison belles betty luna blue sox carolyn morris peaches and amy irene applegren lassies while connie wisniewski chicks and dorothy wiltse daisies topped the league in earned run average with 0.81 and 0.83 respectively. as a result more than half of the circuits players averaged under .200. dorothy kamenshek peaches was the only hitter to reach the .300 mark .316. following her baseball career shively graduated from illinois state normal and indiana university and worked as a physical education teacher at washington high school in south bend indiana. she also coached the schools softball and volleyball teams to city championships inspiring children for almost 30 years. twila shively died in douglas michigan on thanksgiving day 1999 at the age of 79 after suffering four years of alzheimers disease and a yearlong fight with lung cancer. she is part of the aagpbl permanent display at the baseball hall of fame and museum at cooperstown new york unveiled in 1988 which is dedicated to the entire league rather than any individual personality. 
+
+Coref Resolved : 
+a solid defensive player march 20 1920 november 25 1999 was an american competitive baseball player. an outfielder a solid defensive player played from 1945 through 1950 in the allamerican girls professional baseball league. listed at 52 128 lb. a solid defensive player batted and threw righthanded. a solid defensive player spent five of a solid defensive player six years in the allamerican girls professional baseball leagueplaying in the left field. a solid defensive player a solid defensive player showed speed good hands an accurate throwing arm and lived in a constant state of readiness. routinely a solid defensive player ranked among the top defensive outfielders in several categories until a severe ankle injury limited a solid defensive player ability to perform and a solid defensive player had to switch to first base. offensively a solid defensive player made consistent contact knew when to take the extra base and excelled as a basestealer. born in decatur illinois a solid defensive player was the daughter of glenn and eva née bryant shively. a solid defensive player began playing softball at age eight and moved up in the softball ranks in chicago as early as 1942. by then a solid defensive player was featured in an article signed by carl guldager and published in the chicago daily news with the headline a solid defensive player s hedy lamarr of softball a solid defensive player looks like model runs bases like ty cobb. has baseball savvy plus pretty face. in 1944 a solid defensive player became a member of the rockola chicks team of the newly formed national girls baseball league. the newly formed national girls baseball leaguewas organized in chicago to keep the best local players from migrating to the aagpbl which had been stabilized in 1943. after that both circuits competed against each other to see who could associate itself with the biggest stars. a solid defensive player entered the allamerican girls professional baseball leaguein 1945 with the grand rapids chicks playing for the allamerican girls professional baseball leaguethree years before joining the chicago colleens 1948 and peoria redwings 19481950. in a solid defensive player rookie year a solid defensive player formed part of a chicks outfield that included thelma eisen in the center field and elizabeth wicken at right field. a solid defensive player collected a .196 batting average and a .276 onbase percentage in 106 games driving in 23 runs and scoring 42 times while a solid defensive player 46 stolen bases ranked a solid defensive player fifth in the allamerican girls professional baseball league. a solid defensive player also led all outfielders with a .968 fielding percentage and finished second for the most putouts 234 behind fort wayne daisies penny obrian 236. during the regular season a solid defensive player achieved a career highlight when a solid defensive player belted a twoout walkoff grand slam to give a solid defensive player team the victory. a solid defensive player most productive season came in the year when a solid defensive player posted career numbers in average .247 runs scored 78 hits 101 runs batted in 45 steals 45 and games played 111. considering the year was great for many pitchers a solid defensive player numbers were quite respectable. four nohitters were recorded by anna mae hutchison belles betty luna blue sox carolyn morris peaches and amy irene applegren lassies while connie wisniewski chicks and dorothy wiltse daisies topped the allamerican girls professional baseball leaguein earned run average with 0.81 and 0.83 respectively. as a result more than half of the allamerican girls professional baseball leagueplayers averaged under .200. dorothy kamenshek peaches was the only hitter to reach the .300 mark .316. following a solid defensive player baseball career a solid defensive player graduated from illinois state normal and indiana university and worked as a physical education teacher at washington high school in south bend indiana. a solid defensive player also coached the schools softball and volleyball teams to city championships inspiring children for almost 30 years. a solid defensive player died in douglas michigan on thanksgiving day 1999 at the age of 79 after suffering four years of alzheimers disease and a yearlong fight with lung cancer. a solid defensive player is part of the aagpbl permanent display at the baseball hall of fame and museum at cooperstown new york unveiled in 1988 which is dedicated to the allamerican girls professional baseball leaguerather than any individual personality.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2222222222222222 and for ground truth is : 0.16447368421052633
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,59 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/South_Korea and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/South_Korea and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Korean_drama and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Misaeng:_Incomplete_Life and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Reply_1988 and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Misaeng:_Incomplete_Life and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Reply_1988 and the value is : 1
+http://dbpedia.org/resource/Misaeng:_Incomplete_Life and http://dbpedia.org/resource/Reply_1988 and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Korean_drama and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Korean_drama and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Romantic_comedy and the value is : 1
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Bride and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Sageuk and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Romantic_comedy and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Bride and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Sageuk and the value is : 0
+http://dbpedia.org/resource/Korean_drama and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 1
+http://dbpedia.org/resource/Romantic_comedy and http://dbpedia.org/resource/Love and the value is : 0
+http://dbpedia.org/resource/Romantic_comedy and http://dbpedia.org/resource/Bride and the value is : 0
+http://dbpedia.org/resource/Romantic_comedy and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Romantic_comedy and http://dbpedia.org/resource/Sageuk and the value is : 0
+http://dbpedia.org/resource/Romantic_comedy and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 0
+http://dbpedia.org/resource/Love and http://dbpedia.org/resource/Bride and the value is : 0
+http://dbpedia.org/resource/Love and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Love and http://dbpedia.org/resource/Sageuk and the value is : 0
+http://dbpedia.org/resource/Love and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 0
+http://dbpedia.org/resource/Bride and http://dbpedia.org/resource/Crime_film and the value is : 0
+http://dbpedia.org/resource/Bride and http://dbpedia.org/resource/Sageuk and the value is : 0
+http://dbpedia.org/resource/Bride and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 0
+http://dbpedia.org/resource/Crime_film and http://dbpedia.org/resource/Sageuk and the value is : 0
+http://dbpedia.org/resource/Crime_film and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 0
+http://dbpedia.org/resource/Sageuk and http://dbpedia.org/resource/Hong_Kong_Flying_Dragons and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Radio_personality and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Adjudicator and the value is : 0
+http://dbpedia.org/resource/Ada_Choi and http://dbpedia.org/resource/Korean_mask and the value is : 0
+http://dbpedia.org/resource/Adjudicator and http://dbpedia.org/resource/Korean_mask and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+choi jaebong born october 28 1962 is a south korean actor. he is best known for his roles in the television series misaeng 2014 reply 1988 2015 and stranger 2017. choi began his career in the early 1990s appearing in television dramas such as the last match 1994 and the great ambition 2002. he has since appeared in numerous films and television series including the romantic comedy my love my bride 2014 the crime thriller the target 2014 and the historical drama six flying dragons 2015. in addition to his acting career choi has also appeared as a host on various variety shows including the popular talk show radio star 2006present. he has also served as a judge on the singing competition show king of mask singer 2015present. 
+
+Coref Resolved : 
+choi jaebong born october 28 1962 is a south korean actor. choi jaebong born october 28 1962 is best known for choi jaebong born october 28 1962 roles in the television series misaeng 2014 reply 1988 2015 and stranger 2017. choi jaebong born october 28 1962 began choi jaebong born october 28 1962 career in the early 1990s appearing in television dramas such as the last match 1994 and the great ambition 2002. choi jaebong born october 28 1962 has since appeared in numerous films and television series including the romantic comedy my love my bride 2014 the crime thriller the target 2014 and the historical drama six flying dragons 2015. in addition to choi jaebong born october 28 1962 acting career choi jaebong born october 28 1962 has also appeared as a host on various variety shows including the popular talk show radio star 2006present. choi jaebong born october 28 1962 has also served as a judge on the singing competition show king of mask singer 2015present.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.07142857142857142
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

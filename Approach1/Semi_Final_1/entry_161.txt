@@ -1,0 +1,138 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Box_lacrosse and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/KMT2A and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/National_Lacrosse_League and the value is : 0
+http://dbpedia.org/resource/Box_lacrosse and http://dbpedia.org/resource/KMT2A and the value is : 1
+http://dbpedia.org/resource/Box_lacrosse and http://dbpedia.org/resource/National_Lacrosse_League and the value is : 1
+http://dbpedia.org/resource/KMT2A and http://dbpedia.org/resource/National_Lacrosse_League and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 1
+http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Philadelphia_Barrage and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/KMT2A and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Barrage and http://dbpedia.org/resource/KMT2A and the value is : 0
+http://dbpedia.org/resource/Philadelphia_Barrage and http://dbpedia.org/resource/NBA_draft and the value is : 0
+http://dbpedia.org/resource/KMT2A and http://dbpedia.org/resource/NBA_draft and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Boston_Cannons and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Box_lacrosse and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Box_lacrosse and http://dbpedia.org/resource/Gold_medal and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/January_12 and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Field_lacrosse and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Northampton_Area_High_School and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/KMT2A and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Lizard and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/National_Lacrosse_League and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Field_lacrosse and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Northampton_Area_High_School and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/KMT2A and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Lizard and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/National_Lacrosse_League and the value is : 1
+http://dbpedia.org/resource/Field_lacrosse and http://dbpedia.org/resource/Northampton_Area_High_School and the value is : 0
+http://dbpedia.org/resource/Field_lacrosse and http://dbpedia.org/resource/KMT2A and the value is : 0
+http://dbpedia.org/resource/Field_lacrosse and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Field_lacrosse and http://dbpedia.org/resource/Lizard and the value is : 0
+http://dbpedia.org/resource/Field_lacrosse and http://dbpedia.org/resource/National_Lacrosse_League and the value is : 0
+http://dbpedia.org/resource/Northampton_Area_High_School and http://dbpedia.org/resource/KMT2A and the value is : 0
+http://dbpedia.org/resource/Northampton_Area_High_School and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Northampton_Area_High_School and http://dbpedia.org/resource/Lizard and the value is : 1
+http://dbpedia.org/resource/Northampton_Area_High_School and http://dbpedia.org/resource/National_Lacrosse_League and the value is : 0
+http://dbpedia.org/resource/KMT2A and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/KMT2A and http://dbpedia.org/resource/Lizard and the value is : 0
+http://dbpedia.org/resource/KMT2A and http://dbpedia.org/resource/National_Lacrosse_League and the value is : 1
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Lizard and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/National_Lacrosse_League and the value is : 0
+http://dbpedia.org/resource/Lizard and http://dbpedia.org/resource/National_Lacrosse_League and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/January_12 and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Field_lacrosse and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/College_soccer and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Field_lacrosse and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/College_soccer and the value is : 0
+http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and http://dbpedia.org/resource/Field_lacrosse and the value is : 0
+http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and http://dbpedia.org/resource/College_soccer and the value is : 0
+http://dbpedia.org/resource/Field_lacrosse and http://dbpedia.org/resource/College_soccer and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/January_12 and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Princeton_University and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Field_lacrosse and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Ivy_League and the value is : 1
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Princeton_University and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Field_lacrosse and the value is : 1
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 1
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Ivy_League and the value is : 0
+http://dbpedia.org/resource/Princeton_University and http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and the value is : 1
+http://dbpedia.org/resource/Princeton_University and http://dbpedia.org/resource/Field_lacrosse and the value is : 0
+http://dbpedia.org/resource/Princeton_University and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Princeton_University and http://dbpedia.org/resource/Ivy_League and the value is : 0
+http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and http://dbpedia.org/resource/Field_lacrosse and the value is : 1
+http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 1
+http://dbpedia.org/resource/Princeton_Tigers_men's_lacrosse and http://dbpedia.org/resource/Ivy_League and the value is : 0
+http://dbpedia.org/resource/Field_lacrosse and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Field_lacrosse and http://dbpedia.org/resource/Ivy_League and the value is : 0
+http://dbpedia.org/resource/National_Collegiate_Athletic_Association and http://dbpedia.org/resource/Ivy_League and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/January_12 and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Field_lacrosse and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/United_States_Intercollegiate_Lacrosse_Association and the value is : 1
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Field_lacrosse and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/United_States_Intercollegiate_Lacrosse_Association and the value is : 0
+http://dbpedia.org/resource/Field_lacrosse and http://dbpedia.org/resource/United_States_Intercollegiate_Lacrosse_Association and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/January_12 and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/College_soccer and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Princeton_University and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/College_soccer and the value is : 1
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Princeton_University and the value is : 0
+http://dbpedia.org/resource/College_soccer and http://dbpedia.org/resource/Princeton_University and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/January_12 and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Steinfeld_Trophy and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/KMT2A and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Most_valuable_player and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Steinfeld_Trophy and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/KMT2A and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Most_valuable_player and the value is : 0
+http://dbpedia.org/resource/Steinfeld_Trophy and http://dbpedia.org/resource/KMT2A and the value is : 0
+http://dbpedia.org/resource/Steinfeld_Trophy and http://dbpedia.org/resource/Most_valuable_player and the value is : 0
+http://dbpedia.org/resource/KMT2A and http://dbpedia.org/resource/Most_valuable_player and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/January_12 and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/United_States_national_team and the value is : 0
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Field_lacrosse and the value is : 1
+http://dbpedia.org/resource/Matt_Striebel and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/United_States_national_team and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Field_lacrosse and the value is : 0
+http://dbpedia.org/resource/January_12 and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/United_States_national_team and http://dbpedia.org/resource/Field_lacrosse and the value is : 0
+http://dbpedia.org/resource/United_States_national_team and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Field_lacrosse and http://dbpedia.org/resource/Gold_medal and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+matt striebel born october 15 1978 is a former american lacrosse player who played professionally in major league lacrosse mll and the national lacrosse league nll. he was a fourtime allamerican at princeton university where he was a member of the 2001 ncaa championship team. he was drafted by the philadelphia barrage in the first round of the 2002 mll draft and played for the barrage until the team folded in 2008. he then joined the boston cannons where he played until his retirement in 2013. striebel was also a member of the united states mens national lacrosse team winning a gold medal at the 2010 fil world lacrosse championship. 
+
+Coref Resolved : 
+matt striebel born october 15 1978 is a former american lacrosse player who played professionally in major league lacrosse mll and the national lacrosse league nll. matt striebel born october 15 1978 was a fourtime allamerican at princeton university where matt striebel born october 15 1978 was a member of the 2001 ncaa championship team. matt striebel born october 15 1978 was drafted by the philadelphia barrage in the first round of the 2002 mll draft and played for the philadelphia barrage until the philadelphia barrage folded in 2008. matt striebel born october 15 1978 then joined the boston cannons where matt striebel born october 15 1978 played until matt striebel born october 15 1978 retirement in 2013. matt striebel born october 15 1978 was also a member of the united states mens national lacrosse team winning a gold medal at the 2010 fil world lacrosse championship.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+matt striebel born january 12 1979 is a high school lacrosse coach at northampton high school and a professional lacrosse midfielder who plays professional field lacrosse in the major league lacrosse mll for the new york lizards and formerly played professional box lacrosse in the national lacrosse league nll. he starred as a member of the princeton tigers mens lacrosse team from 1998 through 2001 and the princeton tigers mens soccer team from 1997 through 2000. during his time at princeton the team qualified for the ncaa mens lacrosse championship all four years reached the championship game three times won the championship game twice and won four ivy league championships. he was a twotime honorable mention united states intercollegiate lacrosse association usila allamerican and threetime allivy league selection once first team twice second team. he was also an allivy league performer in soccer and earned princeton coathlete of the year allsport honors as a senior. as a professional he has earned three mll championships a league record eight mll allstar recognitions and an mll championship game mvp award. he is also a threetime team usa representative and twotime world lacrosse championship gold medalist. 
+
+Coref Resolved : 
+matt striebel born january 12 1979 is a high school lacrosse coach at northampton high school and a professional lacrosse midfielder who plays professional field lacrosse in the major league lacrosse mll for the new york lizards and formerly played professional box lacrosse in the national lacrosse league nll. matt striebel born january 12 1979 starred as a member of the princeton tigers mens lacrosse team from 1998 through 2001 and the princeton tigers mens soccer team from 1997 through 2000. during matt striebel born january 12 1979 time at princeton the princeton tigers mens lacrosse team qualified for the ncaa mens lacrosse championship all four years reached the championship game three times won the championship game twice and won four ivy league championships. matt striebel born january 12 1979 was a twotime honorable mention united states intercollegiate lacrosse association usila allamerican and threetime allivy league selection once first team twice second team. matt striebel born january 12 1979 was also an allivy league performer in soccer and earned princeton coathlete of the year allsport honors as a senior. as a professional matt striebel born january 12 1979 has earned three mll championships a league record eight mll allstar recognitions and an mll championship game mvp award. matt striebel born january 12 1979 is also a threetime team usa representative and twotime world lacrosse championship gold medalist.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3684210526315789 and for ground truth is : 0.25274725274725274
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate 
+

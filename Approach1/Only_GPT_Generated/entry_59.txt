@@ -1,0 +1,50 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/Massachusetts and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/History_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/History_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/History_of_the_United_States_Democratic_Party and the value is : 0
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/History_of_the_United_States_Democratic_Party and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/History_of_the_United_States_Democratic_Party and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/Republicanism_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/Incumbent and the value is : 0
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/George_Cabot_Lodge and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Republicanism_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Incumbent and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/George_Cabot_Lodge and the value is : 0
+http://dbpedia.org/resource/Republicanism_in_the_United_States and http://dbpedia.org/resource/Incumbent and the value is : 1
+http://dbpedia.org/resource/Republicanism_in_the_United_States and http://dbpedia.org/resource/George_Cabot_Lodge and the value is : 0
+http://dbpedia.org/resource/Incumbent and http://dbpedia.org/resource/George_Cabot_Lodge and the value is : 1
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/Healthcare_reform_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Healthcare_reform_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/Civil_rights_movement and the value is : 1
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/Immigration_to_the_United_States and the value is : 0
+http://dbpedia.org/resource/Ted_Kennedy and http://dbpedia.org/resource/Nationality and the value is : 0
+http://dbpedia.org/resource/Civil_rights_movement and http://dbpedia.org/resource/Immigration_to_the_United_States and the value is : 0
+http://dbpedia.org/resource/Civil_rights_movement and http://dbpedia.org/resource/Nationality and the value is : 1
+http://dbpedia.org/resource/Immigration_to_the_United_States and http://dbpedia.org/resource/Nationality and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+harry s. kennedy born may 29 1925 is an american politician who served as a united states senator from massachusetts from 1962 to 2009. he was the secondlongestserving senator in american history and the thirdlongestserving member of congress. kennedy was a member of the democratic party and was the brother of president john f. kennedy and senator robert f. kennedy. kennedy was first elected to the senate in 1962 defeating republican incumbent george cabot lodge jr. he was reelected seven times and served in the senate for almost 47 years the fourthlongest tenure in senate history. kennedy was the most senior member of the senate when he retired in 2009. during his time in the senate kennedy was known as a leader in health care reform and as a strong advocate for the rights of the disabled. he was also a strong supporter of the civil rights movement and was a key figure in the passage of the immigration and nationality act of 1965. 
+
+Coref Resolved : 
+harry s. kennedy born may 29 1925 is an american politician who served as a united states senator from massachusetts from 1962 to 2009. harry s. kennedy was the secondlongestserving senator in american history and the thirdlongestserving member of congress. harry s. kennedy was a member of the democratic party and was the brother of president john f. kennedy and senator robert f. kennedy. harry s. kennedy was first elected to the senate in 1962 defeating republican incumbent george cabot lodge jr. harry s. kennedy was reelected seven times and served in the senate for almost 47 years the fourthlongest tenure in senate history. harry s. kennedy was the most senior member of the senate when harry s. kennedy retired in 2009. during harry s. kennedy time in the senate harry s. kennedy was known as a leader in health care reform and as a strong advocate for the rights of the disabled. harry s. kennedy was also a strong supporter of the civil rights movement and was a key figure in the passage of the immigration and nationality act of 1965.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.42424242424242425
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

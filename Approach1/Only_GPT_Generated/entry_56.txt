@@ -1,0 +1,56 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Entrepreneurship and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Angel_investor and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Entrepreneurship and http://dbpedia.org/resource/Angel_investor and the value is : 0
+http://dbpedia.org/resource/Entrepreneurship and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Angel_investor and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Chief_executive_officer and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Venture_capital and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Venture_capital and the value is : 0
+http://dbpedia.org/resource/Chief_executive_officer and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Venture_capital and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Philanthropy and the value is : 1
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Education and the value is : 1
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Economic_development and the value is : 1
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Economic_development and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Health_care and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Economic_development and the value is : 0
+http://dbpedia.org/resource/Health_care and http://dbpedia.org/resource/Economic_development and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Software_engineer and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Venture_capital and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Venture_capital and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Information_technology and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Education and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Education and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Global_education and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Nonprofit_organization and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Developing_country and the value is : 0
+http://dbpedia.org/resource/Global_education and http://dbpedia.org/resource/Nonprofit_organization and the value is : 0
+http://dbpedia.org/resource/Global_education and http://dbpedia.org/resource/Developing_country and the value is : 1
+http://dbpedia.org/resource/Nonprofit_organization and http://dbpedia.org/resource/Developing_country and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Learning_disability and the value is : 0
+http://dbpedia.org/resource/Steve_Ridzik and http://dbpedia.org/resource/Nonprofit_organization and the value is : 0
+http://dbpedia.org/resource/Learning_disability and http://dbpedia.org/resource/Nonprofit_organization and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+steve ridzik born october 28 1965 is an american entrepreneur investor and philanthropist. he is the founder and ceo of ridzik enterprises a venture capital firm that invests in earlystage technology companies. he is also the founder of the ridzik foundation a philanthropic organization that supports education health and economic development initiatives in the united states and abroad. ridzik began his career as a software engineer at microsoft in the early 1990s. he left microsoft in 1997 to pursue his own entrepreneurial ventures. he founded ridzik enterprises in 2000 and has since invested in over 50 technology companies. he has also served as a board member for several technology companies including microsoft amazon and google. ridzik is a passionate advocate for education and has been involved in numerous philanthropic initiatives. he is a founding member of the global education fund a nonprofit organization that provides educational opportunities to children in developing countries. he is also a board member of the national center for learning disabilities a nonprofit organization that works to improve the lives of individuals with learning disabilities. 
+
+Coref Resolved : 
+steve ridzik born october 28 1965 is an american entrepreneur investor and philanthropist. steve ridzik born october 28 1965 is the founder and ceo of ridzik enterprises a venture capital firm that invests in earlystage technology companies. steve ridzik born october 28 1965 is also the founder of the ridzik foundation a philanthropic organization that supports education health and economic development initiatives in the united states and abroad. steve ridzik born october 28 1965 began steve ridzik born october 28 1965 career as a software engineer at microsoft in the early 1990s. steve ridzik born october 28 1965 left microsoft in 1997 to pursue steve ridzik born october 28 1965 own entrepreneurial ventures. steve ridzik born october 28 1965 founded ridzik enterprises a venture capital firm that invests in earlystage technology companiesin 2000 and has since invested in over 50 technology companies. steve ridzik born october 28 1965 has also served as a board member for several technology companies including microsoft amazon and google. steve ridzik born october 28 1965 is a passionate advocate for education and has been involved in numerous philanthropic initiatives. steve ridzik born october 28 1965 is a founding member of the global education fund a nonprofit organization that provides educational opportunities to children in developing countries. steve ridzik born october 28 1965 is also a board member of the national center for learning disabilities a nonprofit organization that works to improve the lives of individuals with learning disabilities.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10256410256410256
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

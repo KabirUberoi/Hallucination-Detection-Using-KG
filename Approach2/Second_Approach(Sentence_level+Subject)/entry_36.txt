@@ -1,0 +1,72 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+William J. Flanagan, Jr. (born October 28, 1945) is an American politician and lawyer who served as the Mayor of Cranston, Rhode Island from 2003 to 2019.
+He was first elected in 2003 and was re-elected in 2006, 2010, and 2014.
+He is a member of the Democratic Party.
+Flanagan was born in Providence, Rhode Island and graduated from Cranston High School East in 1963.
+He attended the University of Rhode Island, graduating in 1967 with a Bachelor of Science degree in Business Administration.
+He then attended the New England School of Law, graduating in 1970 with a Juris Doctor degree.
+Flanagan was a member of the Rhode Island House of Representatives from 1975 to 1983.
+He was a member of the Rhode Island Senate from 1983 to 2003, serving as Senate Majority Leader from 1995 to 2003.
+He was also a member of the Cranston City Council from 1990 to 2003.
+In 2003, Flanagan was elected Mayor of Cranston.
+He was re-elected in 2006, 2010, and 2014.
+During his tenure, he was credited with helping to reduce.
+
+
+Coref Resolved: 
+
+William J. Flanagan, Jr. (born October 28, 1945) is an American politician and lawyer who served as the Mayor of Cranston, Rhode Island from 2003 to 2019.
+William J. Flanagan, Jr. (born October 28, 1945) was first elected in 2003 and was re-elected in 2006, 2010, and 2014.
+William J. Flanagan, Jr. (born October 28, 1945) is a member of the Democratic Party.
+William J. Flanagan, Jr. (born October 28, 1945) was born in Providence, Rhode Island and graduated from Cranston High School East in 1963.
+William J. Flanagan, Jr. (born October 28, 1945) attended the University of Rhode Island, graduating in 1967 with a Bachelor of Science degree in Business Administration.
+William J. Flanagan, Jr. (born October 28, 1945) then attended the New England School of Law, graduating in 1970 with a Juris Doctor degree.
+William J. Flanagan, Jr. (born October 28, 1945) was a member of the Rhode Island House of Representatives from 1975 to 1983.
+William J. Flanagan, Jr. (born October 28, 1945) was a member of the Rhode Island Senate from 1983to 2003 , serving as Senate Majority Leader from 1995 to 2003 .
+William J. Flanagan, Jr. (born October 28, 1945) was also a member of the Cranston, Rhode Island City Council from 1990 to 2003 .
+In 2003 , William J. Flanagan, Jr. (born October 28, 1945) was elected Mayor of Cranston, Rhode Island .
+William J. Flanagan, Jr. (born October 28, 1945) was re-elected in 2006, 2010, and 2014.
+During William J. Flanagan, Jr. (born October 28, 1945) tenure, William J. Flanagan, Jr. (born October 28, 1945) was credited with helping to reduce.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Admiral William J. Flanagan, Jr., born on March 27, 1943, is a retired United States Navy four-star admiral who served as Commander in Chief, U.S. Atlantic Fleet (CINCLANTFLT) from 1994 to 1996.
+William John Flanagan, Jr. was born in 1943 to parents William J. Flanagan, Sr. and Eleanor F. (née Corrigan) Flanagan.
+The Flanagan household consisted of eight children Patricia Mary, William John Jr., Kathleen, John J., Peter A., Mary Margaret, Anne, and Joseph M. William Flanagan, Sr. was a member of the Massachusetts National Guard.
+He served in the Pacific Theater in World War II as a captain in the U.S. Army.
+Both prior to and after the war, he served in the Massachusetts State Police, retiring from the force in 1975.
+Flanagan is married to the former Barbara Ann Brendes and they have three daughters Kathryn, Elizabeth, and Margaret.
+In addition to his bachelor's degree in Marine Transportation, Flanagan received a master's degree in Political Science from the American University and earned a degree from Harvard Business School.
+ 
+
+Coref Resolved: 
+
+Admiral William J. Flanagan, Jr., born on March 27, 1943, is a retired United States Navy four-star admiral who served as Commander in Chief, U.S. Atlantic Fleet (CINCLANTFLT) from 1994 to 1996.
+Admiral William J. Flanagan, Jr., born on March 27, 1943, was born in 1943 to parents William J. Flanagan, Sr. and Eleanor F. (née Corrigan) Flanagan.
+The Flanagan household consisted of eight children Patricia Mary, Admiral William J. Flanagan, Jr., born on March 27, 1943, , Kathleen, John J., Peter A., Mary Margaret, Anne, and Joseph M. William J. Flanagan, Sr. was a member of the Massachusetts National Guard.
+William J. Flanagan, Sr. served in the Pacific Theater in World War II as a captain in the U.S. Army.
+Both prior to and after World War II , William J. Flanagan, Sr. served in the Massachusetts State Police, retiring from the Massachusetts State Policein 1975.
+William J. Flanagan, Sr. is married to the former Barbara Ann Brendes and they have three daughters Kathryn, Elizabeth, and Margaret.
+In addition to William J. Flanagan, Sr. bachelor's degree in Marine Transportation, Admiral William J. Flanagan, Jr., born on March 27, 1943, received a master's degree in Political Science from the American University and earned a degree from Harvard Business School.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

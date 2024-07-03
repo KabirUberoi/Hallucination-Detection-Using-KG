@@ -1,0 +1,97 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Port-au-Prince and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haiti and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Culture_of_Haiti and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Beaux-Arts_de_Paris and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Port-au-Prince and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Beaux-Arts_de_Paris and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Centre_d'Art and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Port-au-Prince and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haiti and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Emotion and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Port-au-Prince and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Jean-Claude_Garoute and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Saint_Patrick and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Saint_Casimir and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Graphic_arts and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/France and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Graphic_design and the value is : 0
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Rotary_International and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Haiti and the value is : 1
+http://dbpedia.org/resource/Philippe_Dodard and http://dbpedia.org/resource/Culture_of_Haiti and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Philippe Dodard (born in 1954 in Port-au-Prince, Haiti) is a Haitian artist, sculptor, and painter.
+He is known for his vibrant and colorful works that often depict Haitian culture and history.
+He is considered one of the most important contemporary Haitian artists.
+Dodard studied at the École des Beaux-Arts in Port-au-Prince and the École des Beaux-Arts in Paris.
+He has exhibited his work in numerous galleries and museums around the world, including the Centre d'Art in Port-au-Prince, the Museum of Modern Art in New York, and the Musée d'Art Moderne in Paris.
+Dodard's work is often inspired by Haitian folklore and mythology, as well as the country's history and culture.
+He often uses bright colors and bold shapes to create powerful images that evoke emotion and tell stories.
+He has also created sculptures and installations that explore the relationship between art and nature.
+Dodard's work has been featured in several books and publications, including the book "Haitian Art The Legacy of Philippe Dod.
+
+
+Coref Resolved: 
+
+Philippe Dodard (born in 1954 in Port-au-Prince, Haiti) is a Haitian artist, sculptor, and painter.
+Philippe Dodard is known for Philippe Dodard vibrant and colorful works that often depict Haitian culture and history.
+Philippe Dodard is considered one of the most important contemporary Haitian artists.
+Philippe Dodard studied at the École des Beaux-Arts in Port-au-Prince, Haitiand the École des Beaux-Arts in Paris.
+Philippe Dodard has exhibited Philippe Dodard work in numerous galleries and museums around the world, including the Centre d'Art in Port-au-Prince, Haiti, the Museum of Modern Art in New York, and the Musée d'Art Moderne in Paris.
+Philippe Dodard work is often inspired by Haitian folklore and mythology, as well as Haitihistory and culture.
+Philippe Dodard often uses bright colors and bold shapes to create powerful images that evoke emotion and tell stories.
+Philippe Dodard has also created sculptures and installations that explore the relationship between art and nature.
+Philippe Dodard work has been featured in several books and publications, including the book "Haitian Art The Legacy of Philippe Dod.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Philippe Dodard (born 1954) is a Haitian graphic artist and painter.
+Born in Port-au-Prince, Dodard worked as an advertising illustrator.
+His works have been exhibited throughout Europe and the Americas.
+He received the first prize in drawing at the Junior Seminary of St-Martial's College in 1966.
+He studied at the Potomitan Art School with Jean-Claude "Tiga" Garoute, Patrick Vilaire, and Frido Casimir.
+In 1973, he entered the Academy of Fine Arts.
+He then worked as a layout artist and founded a studio of audiovisual graphic arts.
+In 1978, he received a scholarship to the International School in Bordeaux, France, enabling him to specialize in pedagogic graphic design.
+Two years later, he received a scholarship from the Rotary International Foundation and left on tour with the Group Study Exchange of Haiti to give conferences on Haitian culture.
+His artwork has evolved to include large sculptures, fine iron works, and fine jewelry design.
+His paintings have inspired American fashion designer Donna Karan's 2012 Spring Collection and a joint exhibition with her at the Museum of Contemporary Art North Miami in Miami, Florida.
+ 
+
+Coref Resolved: 
+
+Philippe Dodard (born 1954) is a Haitian graphic artist and painter.
+Born in Port-au-Prince, Philippe Dodard worked as an advertising illustrator.
+Philippe Dodard works have been exhibited throughout Europe and the Americas.
+Philippe Dodard received the first prize in drawing at the Junior Seminary of St-Martial's College in 1966.
+Philippe Dodard studied at the Potomitan Art School with Jean-Claude "Tiga" Garoute, Patrick Vilaire, and Frido Casimir.
+In 1973, Philippe Dodard entered the Academy of Fine Arts.
+Philippe Dodard then worked as a layout artist and founded a studio of audiovisual graphic arts.
+In 1978, Philippe Dodard received a scholarship to the International School in Bordeaux, France, enabling Philippe Dodard to specialize in pedagogic graphic design.
+Two years later, Philippe Dodard received a scholarship from the Rotary International Foundation and left on tour with the Group Study Exchange of Haiti to give conferences on Haitian culture.
+Philippe Dodard artwork has evolved to include large sculptures, fine iron works, and fine jewelry design.
+Philippe Dodard paintings have inspired American fashion designer Donna Karan's 2012 Spring Collection and a joint exhibition with American fashion designer Donna Karan's at the Museum of Contemporary Art North Miami in Miami, Florida.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.0 -1 0.25 0.4 -1 0.0 -1 -1 
+
+Value for ground truth is : 
+-1 1.0 -1 -1 0.3333333333333333 -1 0.0 0.0 0.6666666666666666 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate 
+

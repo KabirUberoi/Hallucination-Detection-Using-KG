@@ -1,0 +1,50 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/CBS and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Ravi_Kapoor and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Dharma and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Sitcom and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Ravi_Kapoor and the value is : 0
+http://dbpedia.org/resource/CBS and http://dbpedia.org/resource/Dharma and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Ravi_Kapoor and the value is : 0
+http://dbpedia.org/resource/Sitcom and http://dbpedia.org/resource/Dharma and the value is : 0
+http://dbpedia.org/resource/Ravi_Kapoor and http://dbpedia.org/resource/Dharma and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Tehran and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Iran and the value is : 1
+http://dbpedia.org/resource/Tehran and http://dbpedia.org/resource/Iran and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/L.A._Law and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/L.A._Law and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/L.A._Law and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Wedding_planner and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Shohreh_Aghdashloo and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Shohreh_Aghdashloo and the value is : 1
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Marshall_Manesh and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+marshall manesh born october 24 1956 is an american actor. he is best known for his roles as ranjit on the cbs sitcom how i met your mother and as dr. ravi kapoor on the abc sitcom dharma greg. manesh was born in tehran iran and moved to the united states in 1975. he attended the university of california los angeles where he earned a degree in theater. he began his acting career in the late 1980s appearing in television shows such as l.a. law cheers and seinfeld. he has also appeared in films such as the big lebowski and the wedding planner. manesh has been married to actress shohreh aghdashloo since 1992. they have two children. he currently resides in los angeles california. 
+
+Coref Resolved : 
+marshall manesh born october 24 1956 is an american actor. marshall manesh born october 24 1956 is best known for marshall manesh born october 24 1956 roles as ranjit on the cbs sitcom how i met your mother and as dr. ravi kapoor on the abc sitcom dharma greg. marshall manesh born october 24 1956 was born in tehran iran and moved to the united states in 1975. marshall manesh born october 24 1956 attended the university of california los angeles where marshall manesh born october 24 1956 earned a degree in theater. marshall manesh born october 24 1956 began marshall manesh born october 24 1956 acting career in the late 1980s appearing in television shows such as l.a. law cheers and seinfeld. marshall manesh born october 24 1956 has also appeared in films such as the big lebowski and the wedding planner. marshall manesh born october 24 1956 has been married to actress shohreh aghdashloo since 1992. they have two children. marshall manesh born october 24 1956 currently resides in los angeles california.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.09090909090909091
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate accurate 
+

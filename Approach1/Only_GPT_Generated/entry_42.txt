@@ -1,0 +1,39 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Mark_Fite and http://dbpedia.org/resource/Stand-up_comedy and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Stand-up_comedy and the value is : 0
+http://dbpedia.org/resource/Cable_television and http://dbpedia.org/resource/Wedding and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Seinfeld and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Drag_queen and the value is : 0
+http://dbpedia.org/resource/Seinfeld and http://dbpedia.org/resource/Drag_queen and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Stand-up_comedy and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Stand-up_comedy and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Stand-up_comedy and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Cable_television and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Wedding and the value is : 1
+http://dbpedia.org/resource/Cable_television and http://dbpedia.org/resource/Wedding and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Seinfeld and the value is : 1
+http://dbpedia.org/resource/Improvisational_theatre and http://dbpedia.org/resource/The_Groundlings and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+mark fite born october 28 1965 is an american actor comedian and writer. he is best known for his roles in the films the big lebowski 1998 the cable guy 1996 and the wedding singer 1998. he has also appeared in numerous television shows including seinfeld friends and the king of queens. fite was born in los angeles california. he attended the university of california los angeles where he studied theater and film. after graduating he began performing standup comedy in los angeles and new york city. he has appeared in numerous television shows and films including the big lebowski the cable guy and the wedding singer. he has also written for television shows including seinfeld and friends. fite currently resides in los angeles where he continues to act and write. he is also a member of the improvisational comedy troupe the groundlings. 
+
+Coref Resolved : 
+mark fite born october 28 1965 is an american actor comedian and writer. fite is best known for fite roles in the films the big lebowski 1998 the cable guy 1996 and the wedding singer 1998. fite has also appeared in numerous television shows including seinfeld friends and the king of queens. fite was born in los angeles california. fite attended the university of california los angeles where fite studied theater and film. after graduating fite began performing standup comedy in los angeles californiaand new york city. fite has appeared in numerous television shows and films including the big lebowski 1998 the cable guy 1996 and the wedding singer . fite has also written for television shows including seinfeld and friends. fite currently resides in los angeles californiawhere fite continues to act and write. fite is also a member of the improvisational comedy troupe the groundlings.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2727272727272727
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

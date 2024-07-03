@@ -1,0 +1,51 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/December_28 and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Emeritus and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Emeritus and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Library_science and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Information_retrieval and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Citation_analysis and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Bibliometrics and the value is : 0
+http://dbpedia.org/resource/Information_retrieval and http://dbpedia.org/resource/Citation_analysis and the value is : 1
+http://dbpedia.org/resource/Information_retrieval and http://dbpedia.org/resource/Bibliometrics and the value is : 0
+http://dbpedia.org/resource/Citation_analysis and http://dbpedia.org/resource/Bibliometrics and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Bachelor_of_Arts and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/University_of_Minnesota and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Master_of_Arts and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Arts and http://dbpedia.org/resource/University_of_Minnesota and the value is : 0
+http://dbpedia.org/resource/Bachelor_of_Arts and http://dbpedia.org/resource/Master_of_Arts and the value is : 1
+http://dbpedia.org/resource/Bachelor_of_Arts and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/University_of_Minnesota and http://dbpedia.org/resource/Master_of_Arts and the value is : 1
+http://dbpedia.org/resource/University_of_Minnesota and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Master_of_Arts and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Library_science and http://dbpedia.org/resource/University_of_Chicago and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Graduate_school and the value is : 0
+http://dbpedia.org/resource/Swanson and http://dbpedia.org/resource/Library_science and the value is : 0
+http://dbpedia.org/resource/Graduate_school and http://dbpedia.org/resource/Library_science and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+don r. swanson born december 28 1932 is an american professor emeritus of library and information science at the university of illinois at urbanachampaign. he is known for his work in information science particularly in the areas of information retrieval citation analysis and bibliometrics. swanson received his b.a. in english from the university of minnesota in 1954 and his m.a. in library science from the university of minnesota in 1956. he received his ph.d. in library science from the university of chicago in 1962. swanson was a professor at the university of illinois at urbanachampaign from 1962 to 1998. he was the founding director of the graduate school of library and information science from 1975 to 1985. he was also the founding director of the center for informatics research in science and scholarship from 1985 to 1998. swanson has authored or coauthored over 200 publications including books journal articles and conference papers. he has received numerous awards and honors including the american society for information science award of merit in 1988 the american society 
+
+Coref Resolved : 
+don r. swanson born december 28 1932 is an american professor emeritus of library and information science at the university of illinois at urbanachampaign. don r. swanson is known for don r. swanson work in information science particularly in the areas of information retrieval citation analysis and bibliometrics. don r. swanson received don r. swanson b.a. in english from the university of minnesota in 1954 and don r. swanson m.a. in library science from the university of minnesota in 1956. don r. swanson received don r. swanson ph.d. in library science from the university of chicago in 1962. don r. swanson was a professor at the university of illinois at urbanachampaignfrom 1962to 1998. don r. swanson was the founding director of the graduate school of library and information science from 1975 to 1985. don r. swanson was also the founding director of the center for informatics research in science and scholarship from 1985to 1998. don r. swanson has authored or coauthored over 200 publications including books journal articles and conference papers. don r. swanson has received numerous awards and honors including the american society for information science award of merit in 1988 the american society
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.08823529411764706
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

@@ -1,0 +1,23 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Lee_Naylor_(footballer) and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Lee_Naylor_(footballer) and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C. and http://dbpedia.org/resource/Celtic_music and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Scottish_Premier_League and the value is : 0
+http://dbpedia.org/resource/Celtic_music and http://dbpedia.org/resource/Preston_North_End_F.C. and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+lee naylor born 15 april 1977 is an english former professional footballer who played as a left back. he began his career with wolverhampton wanderers making his debut in 1995. he went on to make over 200 appearances for the club before joining celtic in 2004. he spent four years at celtic winning two scottish premier league titles and two scottish cups. he left celtic in 2008 and joined preston north end where he spent two seasons before retiring in 2010. 
+
+Coref Resolved : 
+lee naylor born 15 april 1977 is an english former professional footballer who played as a left back. he began he career with wolverhampton wanderers making he debut in 1995. he went on to make over 200 appearances for wolverhampton wanderers before joining celtic in 2004. he spent four years at celtic winning two scottish premier league titles and two scottish cups. he left celtic in 2008 and joined preston north end where he spent two seasons before retiring in 2010.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

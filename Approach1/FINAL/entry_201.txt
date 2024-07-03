@@ -1,0 +1,130 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Defender_(association_football) and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Ligue_1 and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Bordeaux_wine and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/France_national_football_team and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Defender_(association_football) and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Ligue_1 and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Bordeaux_wine and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/France_national_football_team and the value is : 1
+http://dbpedia.org/resource/Defender_(association_football) and http://dbpedia.org/resource/Ligue_1 and the value is : 1
+http://dbpedia.org/resource/Defender_(association_football) and http://dbpedia.org/resource/Bordeaux_wine and the value is : 1
+http://dbpedia.org/resource/Defender_(association_football) and http://dbpedia.org/resource/France_national_football_team and the value is : 1
+http://dbpedia.org/resource/Ligue_1 and http://dbpedia.org/resource/Bordeaux_wine and the value is : 0
+http://dbpedia.org/resource/Ligue_1 and http://dbpedia.org/resource/France_national_football_team and the value is : 0
+http://dbpedia.org/resource/Bordeaux_wine and http://dbpedia.org/resource/France_national_football_team and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/En_Avant_de_Guingamp and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/FC_Lorient and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/FC_Lorient and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Brest_Arsenal and the value is : 0
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/Brest_Arsenal and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Brest_Arsenal and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/FA_Cup and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/FA_Community_Shield and the value is : 1
+http://dbpedia.org/resource/Brest_Arsenal and http://dbpedia.org/resource/FA_Cup and the value is : 1
+http://dbpedia.org/resource/Brest_Arsenal and http://dbpedia.org/resource/FA_Community_Shield and the value is : 0
+http://dbpedia.org/resource/FA_Cup and http://dbpedia.org/resource/FA_Community_Shield and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Professional_Footballers'_Association and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/UEFA and the value is : 0
+http://dbpedia.org/resource/Professional_Footballers'_Association and http://dbpedia.org/resource/UEFA and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/FIFA and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/UEFA_Euro_2016 and the value is : 1
+http://dbpedia.org/resource/FIFA and http://dbpedia.org/resource/UEFA_Euro_2016 and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Brest_Arsenal and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/France_national_football_team and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Brest_Arsenal and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/France_national_football_team and the value is : 0
+http://dbpedia.org/resource/Brest_Arsenal and http://dbpedia.org/resource/France_national_football_team and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Tulle and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Amateur_sports and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/CA_Brive and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Corrèze and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Limoges and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Tulle and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Amateur_sports and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/CA_Brive and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Corrèze and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Limoges and the value is : 1
+http://dbpedia.org/resource/Tulle and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Tulle and http://dbpedia.org/resource/Amateur_sports and the value is : 0
+http://dbpedia.org/resource/Tulle and http://dbpedia.org/resource/CA_Brive and the value is : 1
+http://dbpedia.org/resource/Tulle and http://dbpedia.org/resource/Corrèze and the value is : 0
+http://dbpedia.org/resource/Tulle and http://dbpedia.org/resource/Limoges and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Amateur_sports and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/CA_Brive and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Corrèze and the value is : 1
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Limoges and the value is : 1
+http://dbpedia.org/resource/Amateur_sports and http://dbpedia.org/resource/CA_Brive and the value is : 1
+http://dbpedia.org/resource/Amateur_sports and http://dbpedia.org/resource/Corrèze and the value is : 0
+http://dbpedia.org/resource/Amateur_sports and http://dbpedia.org/resource/Limoges and the value is : 0
+http://dbpedia.org/resource/CA_Brive and http://dbpedia.org/resource/Corrèze and the value is : 1
+http://dbpedia.org/resource/CA_Brive and http://dbpedia.org/resource/Limoges and the value is : 1
+http://dbpedia.org/resource/Corrèze and http://dbpedia.org/resource/Limoges and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/En_Avant_de_Guingamp and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Ligue_1 and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Ligue_2 and the value is : 1
+http://dbpedia.org/resource/Ligue_1 and http://dbpedia.org/resource/Ligue_2 and the value is : 0
+http://dbpedia.org/resource/Ligue_1 and http://dbpedia.org/resource/FC_Lorient and the value is : 1
+http://dbpedia.org/resource/Ligue_1 and http://dbpedia.org/resource/Laurent_Koscielny and the value is : 1
+http://dbpedia.org/resource/Ligue_1 and http://dbpedia.org/resource/Human_eye and the value is : 0
+http://dbpedia.org/resource/Ligue_1 and http://dbpedia.org/resource/Brest_Arsenal and the value is : 0
+http://dbpedia.org/resource/Ligue_1 and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Ligue_1 and http://dbpedia.org/resource/Arsène_Wenger and the value is : 0
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/Laurent_Koscielny and the value is : 1
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/Human_eye and the value is : 0
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/Brest_Arsenal and the value is : 1
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 1
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/Arsène_Wenger and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Human_eye and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Brest_Arsenal and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Arsène_Wenger and the value is : 1
+http://dbpedia.org/resource/Human_eye and http://dbpedia.org/resource/Brest_Arsenal and the value is : 0
+http://dbpedia.org/resource/Human_eye and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Human_eye and http://dbpedia.org/resource/Arsène_Wenger and the value is : 0
+http://dbpedia.org/resource/Brest_Arsenal and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Brest_Arsenal and http://dbpedia.org/resource/Arsène_Wenger and the value is : 0
+http://dbpedia.org/resource/England_national_football_team_manager and http://dbpedia.org/resource/Arsène_Wenger and the value is : 0
+http://dbpedia.org/resource/Arsenal_F.C._supporters and http://dbpedia.org/resource/Laurent_Koscielny and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/France_national_rugby_union_team and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/UEFA_Euro_2012 and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/FIFA and the value is : 0
+http://dbpedia.org/resource/France_national_rugby_union_team and http://dbpedia.org/resource/UEFA_Euro_2012 and the value is : 0
+http://dbpedia.org/resource/France_national_rugby_union_team and http://dbpedia.org/resource/FIFA and the value is : 0
+http://dbpedia.org/resource/UEFA_Euro_2012 and http://dbpedia.org/resource/FIFA and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Poland and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Family and the value is : 0
+http://dbpedia.org/resource/Poland and http://dbpedia.org/resource/Family and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+laurent koscielny born 10 september 1985 is a french professional footballer who plays as a centreback for ligue 1 club bordeaux and the france national team. he began his career at guingamp in 2004 spending three seasons at the club before joining tours in 2007. after two seasons at tours he joined lorient in 2009. he spent three seasons at the club making over 100 appearances before joining arsenal in 2010. koscielny has made over 300 appearances for arsenal winning three fa cups and two fa community shields. he was named in the pfa team of the year in 201213 and was included in the uefa team of the year in 2015. he was also named in the fifpro world xi in 2016. he has also represented france at the 2014 fifa world cup and uefa euro 2016 helping them to the final of the latter tournament. 
+
+Coref Resolved : 
+laurent koscielny born 10 september 1985 is a french professional footballer who plays as a centreback for ligue 1 club bordeaux and the france national team. laurent koscielny born 10 september 1985 began laurent koscielny born 10 september 1985 career at guingamp in 2004 spending three seasons at guingamp before joining tours in 2007. after two seasons at tours laurent koscielny born 10 september 1985 joined lorient in 2009. laurent koscielny born 10 september 1985 spent three seasons at lorient making over 100 appearances before joining arsenal in 2010. laurent koscielny born 10 september 1985 has made over 300 appearances for arsenal winning three fa cups and two fa community shields. laurent koscielny born 10 september 1985 was named in the pfa team of the year in 201213 and was included in the uefa team of the year in 2015. laurent koscielny born 10 september 1985 was also named in the fifpro world xi in 2016. laurent koscielny born 10 september 1985 has also represented france at the 2014 fifa world cup and uefa euro 2016 helping france to the final of uefa euro 2016 .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+laurent koscielny born 10 september 1985 is a french footballer who plays as a defender for arsenal and the french national team. he primarily plays as a centre back but he can also play as a right back a position where he started his career. he has been described as an aggressive strong quick and ballplaying defender. koscielny was born in the city of tulle and began his football career playing for a host of amateur and youth clubs such as brive tulle corrèze and limoges. in 2003 he moved to guingamp where he made his professional debut the following year. koscielny joined tours for an undisclosed fee to play in the third tier of the french league in 2007 and enjoyed promotion with his new side before being named in the ligue 2 team of the season the following campaign. in 2009 newly promoted ligue 1 side lorient signed koscielny for around 1.7 million and his performances caught the eye of arsenal manager arsène wenger who signed him in 2010. arsenal fans voted laurent koscielny as wengers most effective signing of 201011 following an impressive debut campaign. koscielny was called up to the french national team on 4 february 2011 and represented the country at uefa euro 2012 and the 2014 fifa world cup. prior to his callup for france he was also eligible to play for poland as a result of his family roots. 
+
+Coref Resolved : 
+laurent koscielny born 10 september 1985 is a french footballer who plays as a defender for arsenal and the french national team. laurent koscielny born 10 september 1985 primarily plays as a centre back but laurent koscielny born 10 september 1985 can also play as a right back a position where laurent koscielny born 10 september 1985 started laurent koscielny born 10 september 1985 career. laurent koscielny born 10 september 1985 has been described as an aggressive strong quick and ballplaying defender. laurent koscielny born 10 september 1985 was born in the city of tulle and began laurent koscielny born 10 september 1985 football career playing for a host of amateur and youth clubs such as brive tulle corrèze and limoges. in 2003 laurent koscielny born 10 september 1985 moved to guingamp where laurent koscielny born 10 september 1985 made laurent koscielny born 10 september 1985 professional debut the following year. laurent koscielny born 10 september 1985 joined tours for an undisclosed fee to play in the third tier of the french league in 2007 and enjoyed promotion with laurent koscielny born 10 september 1985 new side before being named in the ligue 2 team of the season the following campaign. in 2009 newly promoted ligue 1 side lorient signed laurent koscielny born 10 september 1985 for around 1.7 million and laurent koscielny born 10 september 1985 performances caught the eye of arsenal manager arsène wenger who signed laurent koscielny born 10 september 1985 in 2010. arsenal fans voted laurent koscielny born 10 september 1985 as wengers most effective signing of 201011 following an impressive debut campaign. laurent koscielny born 10 september 1985 was called up to the french national teamon 4 february 2011 and represented the country at uefa euro 2012 and the 2014 fifa world cup. prior to laurent koscielny born 10 september 1985 callup for the country laurent koscielny born 10 september 1985 was also eligible to play for poland as a result of laurent koscielny born 10 september 1985 family roots.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.46875 and for ground truth is : 0.32857142857142857
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate accurate major_inaccurate major_inaccurate accurate 
+

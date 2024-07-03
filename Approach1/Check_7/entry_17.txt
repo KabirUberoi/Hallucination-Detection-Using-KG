@@ -1,0 +1,88 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Dance and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Dance and the value is : 0
+http://dbpedia.org/resource/Misfits_Gaming and http://dbpedia.org/resource/Unforgiven and the value is : 0
+http://dbpedia.org/resource/Misfits_Gaming and http://dbpedia.org/resource/Ocean_sunfish and the value is : 0
+http://dbpedia.org/resource/Unforgiven and http://dbpedia.org/resource/Ocean_sunfish and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Dance and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Broadway_theatre and the value is : 0
+http://dbpedia.org/resource/Dance and http://dbpedia.org/resource/Broadway_theatre and the value is : 0
+http://dbpedia.org/resource/Misfits_Gaming and http://dbpedia.org/resource/Clark_Gable and the value is : 0
+http://dbpedia.org/resource/Misfits_Gaming and http://dbpedia.org/resource/Marilyn_Monroe and the value is : 0
+http://dbpedia.org/resource/Clark_Gable and http://dbpedia.org/resource/Marilyn_Monroe and the value is : 0
+http://dbpedia.org/resource/Unforgiven and http://dbpedia.org/resource/Ocean_sunfish and the value is : 0
+http://dbpedia.org/resource/Unforgiven and http://dbpedia.org/resource/The_Godfather_Part_III and the value is : 0
+http://dbpedia.org/resource/Ocean_sunfish and http://dbpedia.org/resource/The_Godfather_Part_III and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Rockford and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/The_Waltons and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/The_Golden_Girls and the value is : 0
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Rockford and http://dbpedia.org/resource/The_Waltons and the value is : 0
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Rockford and http://dbpedia.org/resource/The_Golden_Girls and the value is : 0
+http://dbpedia.org/resource/The_Waltons and http://dbpedia.org/resource/The_Golden_Girls and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Matlock_Town_F.C. and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Island_Son and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Matlock_Town_F.C. and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Island_Son and the value is : 1
+http://dbpedia.org/resource/Matlock_Town_F.C. and http://dbpedia.org/resource/Island_Son and the value is : 1
+http://dbpedia.org/resource/Des_Plaines_River and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Des_Plaines_River and http://dbpedia.org/resource/Forest_View_High_School and the value is : 0
+http://dbpedia.org/resource/Des_Plaines_River and http://dbpedia.org/resource/Wheaton_College_(Illinois) and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Forest_View_High_School and the value is : 1
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Wheaton_College_(Illinois) and the value is : 0
+http://dbpedia.org/resource/Forest_View_High_School and http://dbpedia.org/resource/Wheaton_College_(Illinois) and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/List_of_The_Flash_characters and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Snow and the value is : 0
+http://dbpedia.org/resource/List_of_The_Flash_characters and http://dbpedia.org/resource/Snow and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Forest_View_High_School and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Des_Plaines_River and the value is : 1
+http://dbpedia.org/resource/Carol_Huston and http://dbpedia.org/resource/Performing_arts and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Forest_View_High_School and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Des_Plaines_River and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Performing_arts and the value is : 0
+http://dbpedia.org/resource/Forest_View_High_School and http://dbpedia.org/resource/Des_Plaines_River and the value is : 0
+http://dbpedia.org/resource/Forest_View_High_School and http://dbpedia.org/resource/Performing_arts and the value is : 0
+http://dbpedia.org/resource/Des_Plaines_River and http://dbpedia.org/resource/Performing_arts and the value is : 0
+http://dbpedia.org/resource/Trial_of_Clay_Shaw and http://dbpedia.org/resource/Swanson and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Chicago and http://dbpedia.org/resource/Goodman_Theatre and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Goodman_Theatre and the value is : 1
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Paul_Newman and the value is : 1
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Tom_Cruise and the value is : 1
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Tom_Hanks and the value is : 0
+http://dbpedia.org/resource/Paul_McCartney and http://dbpedia.org/resource/Jackie_Gleason and the value is : 0
+http://dbpedia.org/resource/Paul_Newman and http://dbpedia.org/resource/Tom_Cruise and the value is : 0
+http://dbpedia.org/resource/Paul_Newman and http://dbpedia.org/resource/Tom_Hanks and the value is : 1
+http://dbpedia.org/resource/Paul_Newman and http://dbpedia.org/resource/Jackie_Gleason and the value is : 1
+http://dbpedia.org/resource/Tom_Cruise and http://dbpedia.org/resource/Tom_Hanks and the value is : 0
+http://dbpedia.org/resource/Tom_Cruise and http://dbpedia.org/resource/Jackie_Gleason and the value is : 0
+http://dbpedia.org/resource/Tom_Hanks and http://dbpedia.org/resource/Jackie_Gleason and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+carol huston born october 17 1934 american actress singer dancer . best known roles films misfits 1961 unforgiven 1960 mambo kings 1992 . huston began career dancer 1950s performing broadway musicals guys dolls cancan . film debut misfits starring alongside clark gable marilyn monroe . went appear films including unforgiven mambo kings godfather iii . appeared television series rockford files waltons golden girls . 
+
+Coref Resolved : 
+carol huston born october 17 1934 american actress singer dancer . best known roles films misfits 1961 unforgiven 1960 mambo kings 1992 . carol huston began career dancer 1950s performing broadway musicals guys dolls cancan . film debut misfits starring alongside clark gable marilyn monroe . went appear films including unforgiven mambo kings godfather iii . appeared television series rockford files waltons golden girls .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+carol huston american actress famous roles nbctv series matlock charmings island son . grew des plaines illinois attended forest view high school wheaton college . appeared episode tv series open shut . huston replaced caitlin oheaney snow charming charmings 1987 . huston born chicago attended famous public forest view high school nearby des plaines participated performing arts program headed dr . jack martin jerry swanson . started early professional training singer actress . attended wheaton college voice major . time performed chicago actor singer notably goodman theater . appeared paul newman tom cruise color money 1986 tom hanks jackie gleason common 1986 . relocating permanently southern california area . 
+
+Coref Resolved : 
+carol huston american actress famous roles nbctv series matlock charmings island son . grew des plaines illinois attended forest view high school wheaton college . appeared episode tv series open shut . carol huston replaced caitlin oheaney snow charming charmings 1987 . carol huston born chicago attended famous public forest view high school nearby des plaines participated performing arts program headed dr . jack martin jerry swanson . started early professional training singer actress . attended wheaton college voice major . time performed chicago actor singer notably goodman theater . appeared paul newman tom cruise color money 1986 tom hanks jackie gleason common 1986 . relocating permanently southern california area .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.09523809523809523 and for ground truth is : 0.28205128205128205
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

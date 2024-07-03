@@ -1,0 +1,84 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Security and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Confidence_trick and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Forgery and the value is : 1
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Romanov_impostors and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Security and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Confidence_trick and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Forgery and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Romanov_impostors and the value is : 0
+http://dbpedia.org/resource/Security and http://dbpedia.org/resource/Confidence_trick and the value is : 0
+http://dbpedia.org/resource/Security and http://dbpedia.org/resource/Forgery and the value is : 0
+http://dbpedia.org/resource/Security and http://dbpedia.org/resource/Romanov_impostors and the value is : 0
+http://dbpedia.org/resource/Confidence_trick and http://dbpedia.org/resource/Forgery and the value is : 0
+http://dbpedia.org/resource/Confidence_trick and http://dbpedia.org/resource/Romanov_impostors and the value is : 0
+http://dbpedia.org/resource/Forgery and http://dbpedia.org/resource/Romanov_impostors and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Famous_Impostors and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Aircraft_pilot and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Physician and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Famous_Impostors and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Aircraft_pilot and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Physician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Famous_Impostors and http://dbpedia.org/resource/Aircraft_pilot and the value is : 0
+http://dbpedia.org/resource/Famous_Impostors and http://dbpedia.org/resource/Physician and the value is : 0
+http://dbpedia.org/resource/Famous_Impostors and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Physician and the value is : 0
+http://dbpedia.org/resource/Aircraft_pilot and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Physician and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Police and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Taxiing and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Airliner and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Police and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Taxiing and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Airliner and the value is : 0
+http://dbpedia.org/resource/Police and http://dbpedia.org/resource/Taxiing and the value is : 0
+http://dbpedia.org/resource/Police and http://dbpedia.org/resource/Airliner and the value is : 0
+http://dbpedia.org/resource/Taxiing and http://dbpedia.org/resource/Airliner and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Prison and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Federal_government_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Prison and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Federal_government_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Prison and http://dbpedia.org/resource/Federal_government_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Lecturer and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/FBI_Academy and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Lecturer and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/FBI_Academy and the value is : 0
+http://dbpedia.org/resource/Lecturer and http://dbpedia.org/resource/FBI_Academy and the value is : 1
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Steven_Spielberg and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Leonardo_DiCaprio and the value is : 1
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Tom_Hanks and the value is : 0
+http://dbpedia.org/resource/Frank_Abagnale and http://dbpedia.org/resource/Federal_Bureau_of_Investigation and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Steven_Spielberg and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Leonardo_DiCaprio and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Tom_Hanks and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Federal_Bureau_of_Investigation and the value is : 0
+http://dbpedia.org/resource/Steven_Spielberg and http://dbpedia.org/resource/Leonardo_DiCaprio and the value is : 1
+http://dbpedia.org/resource/Steven_Spielberg and http://dbpedia.org/resource/Tom_Hanks and the value is : 0
+http://dbpedia.org/resource/Steven_Spielberg and http://dbpedia.org/resource/Federal_Bureau_of_Investigation and the value is : 1
+http://dbpedia.org/resource/Leonardo_DiCaprio and http://dbpedia.org/resource/Tom_Hanks and the value is : 1
+http://dbpedia.org/resource/Leonardo_DiCaprio and http://dbpedia.org/resource/Federal_Bureau_of_Investigation and the value is : 0
+http://dbpedia.org/resource/Tom_Hanks and http://dbpedia.org/resource/Federal_Bureau_of_Investigation and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+frank abagnale jr. born april 27 1948 is an american security consultant known for his history as a former con artist check forger and impostor between the ages of 15 and 21. he became one of the most famous impostors ever claiming to have assumed no fewer than eight identities including an airline pilot a physician a u.s. bureau of prisons agent and a lawyer. he escaped from police custody twice once from a taxiing airliner and once from a u.s. federal penitentiary. he served less than five years in prison before starting to work for the federal government. he is currently a consultant and lecturer for the fbi academy and field offices. abagnales story was depicted in the film catch me if you can directed by steven spielberg and starring leonardo dicaprio as abagnale and tom hanks as an fbi agent. 
+
+Coref Resolved : 
+frank abagnale jr. born april 27 1948 is an american security consultant known for frank abagnale jr. born april 27 1948 history as a former con artist check forger and impostor between the ages of 15 and 21. frank abagnale jr. born april 27 1948 became one of the most famous impostors ever claiming to have assumed no fewer than eight identities including an airline pilot a physician a u.s. bureau of prisons agent and a lawyer. frank abagnale jr. born april 27 1948 escaped from police custody twice once from a taxiing airliner and once from a u.s. federal penitentiary. frank abagnale jr. born april 27 1948 served less than five years in prison before starting to work for the federal government. frank abagnale jr. born april 27 1948 is currently a consultant and lecturer for the fbi academy and field offices. frank abagnale jr. born april 27 1948 story was depicted in the film catch me if you can directed by steven spielberg and starring leonardo dicaprio as frank abagnale jr. born april 27 1948 and tom hanks as an fbi agent.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.14925373134328357
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate accurate minor_inaccurate accurate accurate 
+

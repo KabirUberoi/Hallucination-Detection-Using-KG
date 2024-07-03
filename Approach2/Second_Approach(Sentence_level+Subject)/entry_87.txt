@@ -1,0 +1,71 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Kermit_Davis and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Kermit_Davis and http://dbpedia.org/resource/Mississippi_State_Bulldogs and the value is : 1
+http://dbpedia.org/resource/Kermit_Davis and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Kermit_Davis and http://dbpedia.org/resource/Tennessee_Lady_Volunteers_basketball and the value is : 0
+http://dbpedia.org/resource/Kermit_Davis and http://dbpedia.org/resource/History_of_the_Oakland_Raiders and the value is : 0
+http://dbpedia.org/resource/Kermit_Davis and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Kermit_Davis and http://dbpedia.org/resource/Conference_USA and the value is : 1
+http://dbpedia.org/resource/Kermit_Davis and http://dbpedia.org/resource/Idaho_Vandals_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Kermit_Davis and http://dbpedia.org/resource/Texas_Longhorns_football and the value is : 0
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Kermit Davis (born April 28, 1959) is an American college basketball coach and the current head coach of the Mississippi State Bulldogs men's basketball team.
+He was previously the head coach of the Middle Tennessee Blue Raiders men's basketball team from 2002 to 2018.
+During his tenure at Middle Tennessee, Davis led the Blue Raiders to five NCAA Tournament appearances, including a first-round upset of Michigan State in 2016.
+He was named Conference USA Coach of the Year in 2013 and 2017.
+Davis was also the head coach at Idaho from 1998 to 2002 and at Texas A M from 1988 to 1990.
+
+
+Coref Resolved: 
+
+Kermit Davis (born April 28, 1959) is an American college basketball coach and the current head coach of the Mississippi State Bulldogs men's basketball team.
+Kermit Davis (born April 28, 1959) was previously the head coach of the Middle Tennessee Blue Raiders men's basketball team from 2002 to 2018.
+During Kermit Davis (born April 28, 1959) tenure at Middle Tennessee Blue Raiders , Kermit Davis (born April 28, 1959) led the Middle Tennessee Blue Raiders men's basketball team to five NCAA Tournament appearances, including a first-round upset of Michigan State in 2016.
+Kermit Davis (born April 28, 1959) was named Conference USA Coach of the Year in 2013 and 2017.
+Kermit Davis (born April 28, 1959) was also the head coach at Idaho from 1998 to 2002 and at Texas A M from 1988 to 1990.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Kermit "Froggy" Davis, Jr. (born December 14, 1959) is an American college basketball coach and the men's head coach at Middle Tennessee State University since 2002.
+Davis was previously the associate head coach at LSU for five seasons.
+His head coaching experience included brief stops at Idaho (twice) and.
+Texas A M.
+When promoted from assistant to head coach at Idaho in 1988 at age 28, Davis was the youngest head coach in NCAA Division I.
+He had been an assistant for two seasons with the Vandals under new and first-time head coach Tim Floyd, who left for New Orleans.
+Floyd had rejuvenated the program and under Davis, Idaho had consecutive 25-6 seasons in 1989 and 1990, winning the Big Sky regular season and tournament titles to make the NCAA tournament both years.
+He left the Palouse for Texas A M of the Southwest Conference in March 1990, but resigned a year later after an 8-21 first season.
+After three years at a junior college in Florida and two seasons as an assistant at Utah State, Davis returned to Idaho as head coach in March 1996, then left a year later to become associate head coach under John Brady at LSU.
+ 
+
+Coref Resolved: 
+
+Kermit "Froggy" Davis, Jr. (born December 14, 1959) is an American college basketball coach and the men's head coach at Middle Tennessee State University since 2002.
+Kermit "Froggy" Davis, Jr. (born December 14, 1959) was previously the associate head coach at LSU for five seasons.
+Kermit "Froggy" Davis, Jr. (born December 14, 1959) head coaching experience included brief stops at Idaho (twice) and.
+Texas A M.
+When promoted from assistant to head coach at Idaho in 1988 at age 28, Kermit "Froggy" Davis, Jr. (born December 14, 1959) was the youngest head coach in NCAA Division I.
+Kermit "Froggy" Davis, Jr. (born December 14, 1959) had been an assistant for two seasons with Idaho under new and first-time head coach Tim Floyd, who left for New Orleans.
+new and first-time head coach Tim Floyd, who left for New Orleanshad rejuvenated the program and under Kermit "Froggy" Davis, Jr. (born December 14, 1959) , Idaho had consecutive 25-6 seasons in 1989 and 1990, winning the Big Sky regular season and tournament titles to make the NCAA tournament both years.
+Kermit "Froggy" Davis, Jr. (born December 14, 1959) left the Palouse for Texas A M.in March 1990, but resigned a year later after an 8-21 first season.
+After three years at a junior college in Florida and two seasons as an assistant at Utah State, Kermit "Froggy" Davis, Jr. (born December 14, 1959) returned to Idaho as head coach in March 1996, then left a year later to become associate head coach under John Brady at LSU .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.3333333333333333 -1 1.0 0.5 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

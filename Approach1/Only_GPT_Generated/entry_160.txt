@@ -1,0 +1,78 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Minder and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/EastEnders and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Minder and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/EastEnders and the value is : 0
+http://dbpedia.org/resource/Minder and http://dbpedia.org/resource/EastEnders and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Swedish_Royal_Academies and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Mario_Artist and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/Mario_Artist and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Television_show and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Villain and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Lists_of_Doctor_Who_episodes and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Sun and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Gynoid and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Kamelion and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Planet and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Villain and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Lists_of_Doctor_Who_episodes and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Sun and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Gynoid and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Kamelion and the value is : 0
+http://dbpedia.org/resource/Television_show and http://dbpedia.org/resource/Planet and the value is : 0
+http://dbpedia.org/resource/Villain and http://dbpedia.org/resource/Lists_of_Doctor_Who_episodes and the value is : 0
+http://dbpedia.org/resource/Villain and http://dbpedia.org/resource/Sun and the value is : 0
+http://dbpedia.org/resource/Villain and http://dbpedia.org/resource/Gynoid and the value is : 0
+http://dbpedia.org/resource/Villain and http://dbpedia.org/resource/Kamelion and the value is : 0
+http://dbpedia.org/resource/Villain and http://dbpedia.org/resource/Planet and the value is : 0
+http://dbpedia.org/resource/Lists_of_Doctor_Who_episodes and http://dbpedia.org/resource/Sun and the value is : 0
+http://dbpedia.org/resource/Lists_of_Doctor_Who_episodes and http://dbpedia.org/resource/Gynoid and the value is : 0
+http://dbpedia.org/resource/Lists_of_Doctor_Who_episodes and http://dbpedia.org/resource/Kamelion and the value is : 0
+http://dbpedia.org/resource/Lists_of_Doctor_Who_episodes and http://dbpedia.org/resource/Planet and the value is : 0
+http://dbpedia.org/resource/Sun and http://dbpedia.org/resource/Gynoid and the value is : 0
+http://dbpedia.org/resource/Sun and http://dbpedia.org/resource/Kamelion and the value is : 0
+http://dbpedia.org/resource/Sun and http://dbpedia.org/resource/Planet and the value is : 0
+http://dbpedia.org/resource/Gynoid and http://dbpedia.org/resource/Kamelion and the value is : 0
+http://dbpedia.org/resource/Gynoid and http://dbpedia.org/resource/Planet and the value is : 0
+http://dbpedia.org/resource/Kamelion and http://dbpedia.org/resource/Planet and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Corporate_spin-off and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Police_dog and the value is : 0
+http://dbpedia.org/resource/Corporate_spin-off and http://dbpedia.org/resource/Police_dog and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Science_fiction_on_television and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Travis_McElroy and the value is : 0
+http://dbpedia.org/resource/Science_fiction_on_television and http://dbpedia.org/resource/Travis_McElroy and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Drama and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Villain and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 0
+http://dbpedia.org/resource/BBC and http://dbpedia.org/resource/Drama and the value is : 0
+http://dbpedia.org/resource/BBC and http://dbpedia.org/resource/Villain and the value is : 1
+http://dbpedia.org/resource/BBC and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 1
+http://dbpedia.org/resource/Drama and http://dbpedia.org/resource/Villain and the value is : 0
+http://dbpedia.org/resource/Drama and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 0
+http://dbpedia.org/resource/Villain and http://dbpedia.org/resource/Lance_Corporal_Jones and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Drama and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Minder and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/Drama and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/Minder and the value is : 0
+http://dbpedia.org/resource/Drama and http://dbpedia.org/resource/Minder and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+david collings born 3 may 1940 is an english actor. he is best known for his roles in television series such as doctor who blakes 7 the professionals minder and eastenders. collings was born in london and trained at the royal academy of dramatic art. he made his stage debut in 1962 and his first television appearance was in the bbcs play of the month in 1965. he has since appeared in numerous television series including doctor who in which he played the villainous vorus in the 1977 serial the sun makers and the android kamelion in the 1983 serial planet of fire. he also appeared in the doctor who spinoff k9 and company in 1981. collings has also appeared in the science fiction series blakes 7 playing the role of servalans aide avons nemesis travis in the first two series. he also appeared in the bbc drama series the professionals playing the role of the villainous mr. jones in the episode hunterhunted. he has also appeared in the itv drama series minder 
+
+Coref Resolved : 
+david collings born 3 may 1940 is an english actor. david collings born 3 may 1940 is best known for david collings born 3 may 1940 roles in television series such as doctor who blakes 7 the professionals minder and eastenders. david collings born 3 may 1940 was born in london and trained at the royal academy of dramatic art. david collings born 3 may 1940 made david collings born 3 may 1940 stage debut in 1962 and david collings born 3 may 1940 first television appearance was in the bbcs play of the month in 1965. david collings born 3 may 1940 has since appeared in numerous television series including doctor who in which david collings born 3 may 1940 played the villainous vorus in the 1977 serial the sun makers and the android kamelion in the 1983 serial planet of fire. david collings born 3 may 1940 also appeared in the doctor who spinoff k9 and company in 1981. david collings born 3 may 1940 has also appeared in the science fiction series blakes 7 playing the role of servalans aide avons nemesis travis in the first two series. david collings born 3 may 1940 also appeared in the bbc drama series the professionals playing the role of the villainous mr. jones in the episode hunterhunted. david collings born 3 may 1940 has also appeared in the itv drama series minder
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.06557377049180328
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

@@ -1,0 +1,160 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Attorneys_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Illinois and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Attorneys_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Attorneys_in_the_United_States and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Irish_republicanism and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/California's_48th_State_Assembly_district and the value is : 0
+http://dbpedia.org/resource/Irish_republicanism and http://dbpedia.org/resource/California's_48th_State_Assembly_district and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/University_of_Chicago and the value is : 1
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/St._Ignatius_College_Prep and the value is : 0
+http://dbpedia.org/resource/University_of_Chicago and http://dbpedia.org/resource/Illinois and the value is : 1
+http://dbpedia.org/resource/University_of_Chicago and http://dbpedia.org/resource/St._Ignatius_College_Prep and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/St._Ignatius_College_Prep and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/University_of_Notre_Dame and the value is : 1
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Illinois_College and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/University_of_Notre_Dame and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/University_of_Notre_Dame and http://dbpedia.org/resource/Illinois_College and the value is : 0
+http://dbpedia.org/resource/University_of_Notre_Dame and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Juris_Doctor and http://dbpedia.org/resource/Illinois_College and the value is : 0
+http://dbpedia.org/resource/Juris_Doctor and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Illinois_College and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Irish_republicanism and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Floor_leader and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Irish_republicanism and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Floor_leader and the value is : 0
+http://dbpedia.org/resource/Illinois and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Irish_republicanism and http://dbpedia.org/resource/Floor_leader and the value is : 0
+http://dbpedia.org/resource/Irish_republicanism and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Floor_leader and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Irish_republicanism and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Committee_on_Jewish_Law_and_Standards and the value is : 0
+http://dbpedia.org/resource/Irish_republicanism and http://dbpedia.org/resource/Committee_on_Jewish_Law_and_Standards and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Criminal_justice_reform_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Incarceration_in_the_United_States and the value is : 1
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Bail and the value is : 1
+http://dbpedia.org/resource/Criminal_justice_reform_in_the_United_States and http://dbpedia.org/resource/Incarceration_in_the_United_States and the value is : 0
+http://dbpedia.org/resource/Criminal_justice_reform_in_the_United_States and http://dbpedia.org/resource/Bail and the value is : 0
+http://dbpedia.org/resource/Incarceration_in_the_United_States and http://dbpedia.org/resource/Bail and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Sexual_assault and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/Domestic_violence and the value is : 0
+http://dbpedia.org/resource/Sexual_assault and http://dbpedia.org/resource/Domestic_violence and the value is : 0
+http://dbpedia.org/resource/Peter_Breen_(Australian_politician) and http://dbpedia.org/resource/School_choice and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Born_4 and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Australians and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Australians and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Australians and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Born_4 and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Solicitor and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Diploma and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Scots_law and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/University_of_Sydney and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Solicitor and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Diploma and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Scots_law and the value is : 1
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/University_of_Sydney and the value is : 0
+http://dbpedia.org/resource/Solicitor and http://dbpedia.org/resource/Diploma and the value is : 0
+http://dbpedia.org/resource/Solicitor and http://dbpedia.org/resource/Scots_law and the value is : 0
+http://dbpedia.org/resource/Solicitor and http://dbpedia.org/resource/University_of_Sydney and the value is : 0
+http://dbpedia.org/resource/Diploma and http://dbpedia.org/resource/Scots_law and the value is : 0
+http://dbpedia.org/resource/Diploma and http://dbpedia.org/resource/University_of_Sydney and the value is : 0
+http://dbpedia.org/resource/Scots_law and http://dbpedia.org/resource/University_of_Sydney and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Born_4 and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Liberal_Party and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Electoral_district_of_Campbelltown and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/National_League_of_Young_Liberals and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Liberal_Party and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Electoral_district_of_Campbelltown and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/National_League_of_Young_Liberals and the value is : 0
+http://dbpedia.org/resource/Liberal_Party and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Liberal_Party and http://dbpedia.org/resource/Electoral_district_of_Campbelltown and the value is : 0
+http://dbpedia.org/resource/Liberal_Party and http://dbpedia.org/resource/National_League_of_Young_Liberals and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Electoral_district_of_Campbelltown and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/National_League_of_Young_Liberals and the value is : 0
+http://dbpedia.org/resource/Electoral_district_of_Campbelltown and http://dbpedia.org/resource/National_League_of_Young_Liberals and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Born_4 and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Australians and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Scots_law and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Australians and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Scots_law and the value is : 0
+http://dbpedia.org/resource/Australians and http://dbpedia.org/resource/Scots_law and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/2006_Canadian_federal_election and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/Peter_James_(writer) and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/Born_4 and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/Western_Australian_Legislative_Council and the value is : 0
+http://dbpedia.org/resource/2006_Canadian_federal_election and http://dbpedia.org/resource/Peter_James_(writer) and the value is : 0
+http://dbpedia.org/resource/2006_Canadian_federal_election and http://dbpedia.org/resource/Born_4 and the value is : 0
+http://dbpedia.org/resource/2006_Canadian_federal_election and http://dbpedia.org/resource/Western_Australian_Legislative_Council and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Born_4 and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Western_Australian_Legislative_Council and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Western_Australian_Legislative_Council and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Born_4 and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Australian_Labor_Party and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Reform_the_Legal_System and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Australian_Labor_Party and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Reform_the_Legal_System and the value is : 0
+http://dbpedia.org/resource/Australian_Labor_Party and http://dbpedia.org/resource/Reform_the_Legal_System and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Born_4 and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/South_Wales and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/2006_Canadian_federal_election and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/South_Wales and the value is : 1
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/2006_Canadian_federal_election and the value is : 0
+http://dbpedia.org/resource/South_Wales and http://dbpedia.org/resource/2006_Canadian_federal_election and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Born_4 and the value is : 1
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Australian_Senate and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Ricky_Muir and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Australian_Motoring_Enthusiast_Party and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Australian_Senate and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Ricky_Muir and the value is : 1
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Australian_Motoring_Enthusiast_Party and the value is : 0
+http://dbpedia.org/resource/Australian_Senate and http://dbpedia.org/resource/Ricky_Muir and the value is : 0
+http://dbpedia.org/resource/Australian_Senate and http://dbpedia.org/resource/Australian_Motoring_Enthusiast_Party and the value is : 0
+http://dbpedia.org/resource/Ricky_Muir and http://dbpedia.org/resource/Australian_Motoring_Enthusiast_Party and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Born_4 and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Miscarriage and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Murder_in_English_law and the value is : 0
+http://dbpedia.org/resource/Peter_James_(writer) and http://dbpedia.org/resource/Murder_of_Janine_Balding and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Miscarriage and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Murder_in_English_law and the value is : 0
+http://dbpedia.org/resource/Born_4 and http://dbpedia.org/resource/Murder_of_Janine_Balding and the value is : 0
+http://dbpedia.org/resource/Miscarriage and http://dbpedia.org/resource/Murder_in_English_law and the value is : 0
+http://dbpedia.org/resource/Miscarriage and http://dbpedia.org/resource/Murder_of_Janine_Balding and the value is : 0
+http://dbpedia.org/resource/Murder_in_English_law and http://dbpedia.org/resource/Murder_of_Janine_Balding and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+peter breen born october 28 1965 is an american politician and attorney from the state of illinois. he is a member of the republican party and served as a member of the illinois house of representatives from the 48th district from 2013 to 2019. breen was born in chicago illinois and attended st. ignatius college prep. he received his bachelors degree from the university of notre dame and his law degree from the university of illinois college of law. breen was first elected to the illinois house of representatives in 2012. during his time in the house he served as the republican floor leader and was a member of the appropriationshuman services judiciarycriminal law and transportation motor vehicles committees. he was also the republican spokesperson for the judiciarycriminal law committee. breen was a vocal advocate for criminal justice reform sponsoring legislation to reduce the states prison population and reform the states bail system. he also sponsored legislation to protect the rights of victims of sexual assault and domestic violence. he was a strong supporter of school choice and sponsored 
+
+Coref Resolved : 
+peter breen born october 28 1965 is an american politician and attorney from the state of illinois. peter breen born october 28 1965 is a member of the republican party and served as a member of the the state of illinoishouse of representatives from the 48th district from 2013 to 2019. peter breen born october 28 1965 was born in chicago illinois and attended st. ignatius college prep. peter breen born october 28 1965 received peter breen born october 28 1965 bachelors degree from the university of notre dame and peter breen born october 28 1965 law degree from the university of illinois college of law. peter breen born october 28 1965 was first elected to the the state of illinoishouse of representatives in 2012. during peter breen born october 28 1965 time in the illinois house of representatives peter breen born october 28 1965 served as the republican floor leader and was a member of the appropriationshuman services judiciarycriminal law and transportation motor vehicles committees. peter breen born october 28 1965 was also the republican spokesperson for the judiciarycriminal law committee. peter breen born october 28 1965 was a vocal advocate for criminal justice reform sponsoring legislation to reduce the states prison population and reform the states bail system. peter breen born october 28 1965 also sponsored legislation to protect the rights of victims of sexual assault and domestic violence. peter breen born october 28 1965 was a strong supporter of school choice and sponsored
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+peter james breen born 4 november 1947 is a former australian politician. he was a solicitor before entering politics achieving a diploma of law from sydney university. he was originally a member of the liberal party serving as president of the campbelltown young liberals from 19711972. from 19951998 he was secretary of the australian bill of rights group and in 1998 joined reform the legal system. in the 1999 new south wales election he was elected to the legislative council. breen joined the australian labor party on 5 may 2006 but resigned on 18 july to form the human rights party. he unsuccessfully contested the 2007 new south wales state election. in 2014 breen became an adviser to senator ricky muir of the australian motoring enthusiast party but was sacked on 5 august 2014. he has campaigned over an alleged miscarriage of justice in the conviction of stephen wayne shorty jamieson for the 1988 murder of janine balding. 
+
+Coref Resolved : 
+peter james breen born 4 november 1947 is a former australian politician. peter james breen born 4 november 1947 was a solicitor before entering politics achieving a diploma of law from sydney university. peter james breen born 4 november 1947 was originally a member of the liberal party serving as president of the campbelltown young liberals from 19711972. from 19951998 peter james breen born 4 november 1947 was secretary of the australian bill of rights group and in 1998 joined reform the legal system. in the 1999 new south wales election peter james breen born 4 november 1947 was elected to the legislative council. peter james breen born 4 november 1947 joined the australian labor party on 5 may 2006 but resigned on 18 july to form the human rights party. peter james breen born 4 november 1947 unsuccessfully contested the 2007 new south wales state election. in 2014 peter james breen born 4 november 1947 became an adviser to senator ricky muir of the australian motoring enthusiast party but was sacked on 5 august 2014. peter james breen born 4 november 1947 has campaigned over an alleged miscarriage of justice in the conviction of stephen wayne shorty jamieson for the 1988 murder of janine balding.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.125 and for ground truth is : 0.047619047619047616
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

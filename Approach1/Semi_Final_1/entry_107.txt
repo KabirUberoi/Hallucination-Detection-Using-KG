@@ -1,0 +1,129 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Indiana_Pacers and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Indiana_Pacers and the value is : 1
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Indiana_Pacers and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Virginia_Cavaliers_men's_basketball and the value is : 1
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Virginia_Cavaliers_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Milwaukee_Bucks and the value is : 1
+http://dbpedia.org/resource/National_Basketball_Association and http://dbpedia.org/resource/Milwaukee_Bucks and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Indiana_Pacers and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/National_Basketball_Association and the value is : 1
+http://dbpedia.org/resource/Indiana_Pacers and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Social_justice and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Racial_equality and the value is : 1
+http://dbpedia.org/resource/Social_justice and http://dbpedia.org/resource/Racial_equality and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/John_Adams and the value is : 1
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Virginia_Cavaliers_men's_basketball and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Virginia_Cavaliers_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Virginia_Cavaliers_men's_basketball and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Virginia_Cavaliers_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/John_Adams and the value is : 1
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/East_Coast_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/East_Coast_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/East_Coast_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/John_Adams and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 1
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Redshirt_(college_sports) and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Redshirt_(college_sports) and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Redshirt_(college_sports) and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/John_Adams and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 1
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Virginia_Cavaliers_men's_basketball and the value is : 1
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 1
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Virginia_Cavaliers_men's_basketball and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Virginia_Cavaliers_men's_basketball and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Virginia_Cavaliers_men's_basketball and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/John_Adams and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 1
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Volleyball and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 1
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Volleyball and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Volleyball and the value is : 0
+http://dbpedia.org/resource/Israeli_Basketball_Premier_League_Statistical_Leaders and http://dbpedia.org/resource/Volleyball and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/John_Adams and the value is : 1
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 1
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Honors_student and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Master_of_Public_Policy and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Frank_Batten and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Honors_student and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Master_of_Public_Policy and the value is : 1
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Frank_Batten and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Honors_student and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Master_of_Public_Policy and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Frank_Batten and the value is : 0
+http://dbpedia.org/resource/Honors_student and http://dbpedia.org/resource/Master_of_Public_Policy and the value is : 0
+http://dbpedia.org/resource/Honors_student and http://dbpedia.org/resource/Frank_Batten and the value is : 0
+http://dbpedia.org/resource/Master_of_Public_Policy and http://dbpedia.org/resource/Frank_Batten and the value is : 1
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/John_Adams and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/John_Adams and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Training_camp and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Pan_American_Games and the value is : 0
+http://dbpedia.org/resource/Moses and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Malcolm_Brogdon and the value is : 1
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Training_camp and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/College_basketball and the value is : 1
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Pan_American_Games and the value is : 0
+http://dbpedia.org/resource/John_Adams and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Training_camp and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Pan_American_Games and the value is : 0
+http://dbpedia.org/resource/Malcolm_Brogdon and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/Training_camp and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Training_camp and http://dbpedia.org/resource/Pan_American_Games and the value is : 0
+http://dbpedia.org/resource/Training_camp and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Pan_American_Games and the value is : 0
+http://dbpedia.org/resource/College_basketball and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/Pan_American_Games and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+malcolm brogdon born december 11 1992 is an american professional basketball player for the indiana pacers of the national basketball association nba. he played college basketball for the virginia cavaliers where he was the acc player of the year and an allamerican in 2016. he was selected in the second round of the 2016 nba draft by the milwaukee bucks with the 36th overall pick. brogdon was named the nba rookie of the year in 2017. he was traded to the pacers in 2019. brogdon is a twotime nba allstar and was named to the alldefensive second team in 2019. he is known for his defensive prowess and his ability to shoot from long range. he is also an advocate for social justice and has been involved in several initiatives to promote racial equality. 
+
+Coref Resolved : 
+malcolm brogdon born december 11 1992 is an american professional basketball player for the indiana pacers of the national basketball association nba. brogdon played college basketball for the virginia cavaliers where brogdon was the acc player of the year and an allamerican in 2016. brogdon was selected in the second round of the 2016 the national basketball association nbadraft by the milwaukee bucks with the 36th overall pick. brogdon was named the the national basketball association nbarookie of the year in 2017. brogdon was traded to the indiana pacers of the national basketball association nbain 2019. brogdon is a twotime the national basketball association nbaallstar and was named to the alldefensive second team in 2019. brogdon is known for brogdon defensive prowess and brogdon ability to shoot from long range. brogdon is also an advocate for social justice and has been involved in several initiatives to promote racial equality.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+malcolm moses adams brogdon born december 11 1992 is an american basketball player who currently plays for the virginia cavaliers mens basketball team. he was named to the allatlantic coast conference acc first team in 2014 by the leagues coaches and to the third team by the media. brogdon redshirted his sophomore year after suffering a serious foot injury the prior season. he was known as one of the top contributors to the teams successful 201314 and 201415 seasons. in the 201314 season brogdon averaged 12.7 points 5.4 rebounds and 2.7 assists per game. he is a member of the academic honor roll and is currently pursuing a masters degree in public policy at the frank batten school of leadership and public policy. in 2015 he was named a consensus secondteam all american as well as the allacc first team and acc codefensive player of the year. in july 2015 he participated in the training camp for the united states mens national basketball team and represented the united states at the 2015 pan american games where the team took the bronze medal. 
+
+Coref Resolved : 
+malcolm moses adams brogdon born december 11 1992 is an american basketball player who currently plays for the virginia cavaliers mens basketball team. malcolm moses adams brogdon born december 11 1992 was named to the allatlantic coast conference acc first team in 2014 by the leagues coaches and to the third team by the media. malcolm moses adams brogdon born december 11 1992 redshirted malcolm moses adams brogdon born december 11 1992 sophomore year after suffering a serious foot injury the prior season. malcolm moses adams brogdon born december 11 1992 was known as one of the top contributors to the virginia cavaliers mens basketball teamsuccessful 201314 and 201415 seasons. in the 201314 season malcolm moses adams brogdon born december 11 1992 averaged 12.7 points 5.4 rebounds and 2.7 assists per game. malcolm moses adams brogdon born december 11 1992 is a member of the academic honor roll and is currently pursuing a masters degree in public policy at the frank batten school of leadership and public policy. in 2015 malcolm moses adams brogdon born december 11 1992 was named a consensus secondteam all american as well as the allacc first team and acc codefensive player of the year. in july 2015 malcolm moses adams brogdon born december 11 1992 participated in the training camp for the united states mens national basketball team and represented united states at the 2015 pan american games where the united states mens national basketball team took the bronze medal.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.8 and for ground truth is : 0.19753086419753085
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate minor_inaccurate accurate major_inaccurate 
+

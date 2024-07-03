@@ -1,0 +1,254 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Rick_Mahler and http://dbpedia.org/resource/Alan_Dawa_Dolma and the value is : 1
+http://dbpedia.org/resource/Rick_Mahler and http://dbpedia.org/resource/Gustav_Mahler and the value is : 0
+http://dbpedia.org/resource/Rick_Mahler and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Rick_Mahler and http://dbpedia.org/resource/Atlanta_Falcons and the value is : 0
+http://dbpedia.org/resource/Rick_Mahler and http://dbpedia.org/resource/Georgia_Bulldogs and the value is : 1
+http://dbpedia.org/resource/Rick_Mahler and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Rick_Mahler and http://dbpedia.org/resource/Pitcher and the value is : 0
+http://dbpedia.org/resource/Rick_Mahler and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Rick_Mahler and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 1
+http://dbpedia.org/resource/Rick_Mahler and http://dbpedia.org/resource/Montreal_Expos and the value is : 0
+http://dbpedia.org/resource/Rick_Mahler and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Rick_Mahler and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Rick_Mahler and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Gustav_Mahler and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Atlanta_Falcons and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Georgia_Bulldogs and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Pitcher and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Montreal_Expos and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Atlanta_Falcons and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Georgia_Bulldogs and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Pitcher and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Montreal_Expos and the value is : 1
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Atlanta_Falcons and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Georgia_Bulldogs and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Pitcher and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Montreal_Expos and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Atlanta_Falcons and http://dbpedia.org/resource/Georgia_Bulldogs and the value is : 0
+http://dbpedia.org/resource/Atlanta_Falcons and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Atlanta_Falcons and http://dbpedia.org/resource/Pitcher and the value is : 1
+http://dbpedia.org/resource/Atlanta_Falcons and http://dbpedia.org/resource/Atlanta_Braves and the value is : 1
+http://dbpedia.org/resource/Atlanta_Falcons and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Atlanta_Falcons and http://dbpedia.org/resource/Montreal_Expos and the value is : 0
+http://dbpedia.org/resource/Atlanta_Falcons and http://dbpedia.org/resource/Minnesota_Twins and the value is : 1
+http://dbpedia.org/resource/Atlanta_Falcons and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Atlanta_Falcons and http://dbpedia.org/resource/Mega- and the value is : 1
+http://dbpedia.org/resource/Georgia_Bulldogs and http://dbpedia.org/resource/Professional_baseball and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs and http://dbpedia.org/resource/Pitcher and the value is : 1
+http://dbpedia.org/resource/Georgia_Bulldogs and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs and http://dbpedia.org/resource/Montreal_Expos and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Georgia_Bulldogs and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Pitcher and the value is : 1
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Montreal_Expos and the value is : 1
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Atlanta_Braves and the value is : 1
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Montreal_Expos and the value is : 0
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Minnesota_Twins and the value is : 1
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Mega- and the value is : 1
+http://dbpedia.org/resource/Atlanta_Braves and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Atlanta_Braves and http://dbpedia.org/resource/Montreal_Expos and the value is : 0
+http://dbpedia.org/resource/Atlanta_Braves and http://dbpedia.org/resource/Minnesota_Twins and the value is : 1
+http://dbpedia.org/resource/Atlanta_Braves and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Atlanta_Braves and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Cincinnati_Reds and http://dbpedia.org/resource/Montreal_Expos and the value is : 0
+http://dbpedia.org/resource/Cincinnati_Reds and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Cincinnati_Reds and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Cincinnati_Reds and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Montreal_Expos and http://dbpedia.org/resource/Minnesota_Twins and the value is : 0
+http://dbpedia.org/resource/Montreal_Expos and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Montreal_Expos and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Minnesota_Twins and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Minnesota_Twins and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Mega- and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Gustav_Mahler and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/1975_Major_League_Baseball_draft and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/1975_Major_League_Baseball_draft and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Starting_pitcher and the value is : 1
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Gustav_Mahler and the value is : 0
+http://dbpedia.org/resource/Alan_Dawa_Dolma and http://dbpedia.org/resource/Innings_pitched and the value is : 1
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Innings_pitched and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Gustav_Mahler and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Austin,_Texas and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Starting_pitcher and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Montreal_Expos and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Austin,_Texas and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Starting_pitcher and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 1
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Montreal_Expos and the value is : 0
+http://dbpedia.org/resource/Austin,_Texas and http://dbpedia.org/resource/Starting_pitcher and the value is : 0
+http://dbpedia.org/resource/Austin,_Texas and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Austin,_Texas and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Austin,_Texas and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Austin,_Texas and http://dbpedia.org/resource/Montreal_Expos and the value is : 1
+http://dbpedia.org/resource/Starting_pitcher and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Starting_pitcher and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Starting_pitcher and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Starting_pitcher and http://dbpedia.org/resource/Montreal_Expos and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Montreal_Expos and the value is : 0
+http://dbpedia.org/resource/Atlanta_Braves and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Atlanta_Braves and http://dbpedia.org/resource/Montreal_Expos and the value is : 0
+http://dbpedia.org/resource/Cincinnati_Reds and http://dbpedia.org/resource/Montreal_Expos and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Pitcher and the value is : 0
+http://dbpedia.org/resource/TripleA and http://dbpedia.org/resource/Richmond_Braves and the value is : 1
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Gustav_Mahler and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Strikeout and the value is : 1
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Innings_pitched and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Strikeout and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Innings_pitched and the value is : 0
+http://dbpedia.org/resource/Strikeout and http://dbpedia.org/resource/Innings_pitched and the value is : 1
+http://dbpedia.org/resource/Austin,_Texas and http://dbpedia.org/resource/Richard_Keith_(actor) and the value is : 0
+http://dbpedia.org/resource/Austin,_Texas and http://dbpedia.org/resource/Gustav_Mahler and the value is : 1
+http://dbpedia.org/resource/Austin,_Texas and http://dbpedia.org/resource/John_Jay_High_School_(San_Antonio) and the value is : 1
+http://dbpedia.org/resource/Austin,_Texas and http://dbpedia.org/resource/Trinity_Tigers and the value is : 0
+http://dbpedia.org/resource/Austin,_Texas and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Gustav_Mahler and the value is : 1
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/John_Jay_High_School_(San_Antonio) and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Trinity_Tigers and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/John_Jay_High_School_(San_Antonio) and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Trinity_Tigers and the value is : 1
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/John_Jay_High_School_(San_Antonio) and http://dbpedia.org/resource/Trinity_Tigers and the value is : 0
+http://dbpedia.org/resource/John_Jay_High_School_(San_Antonio) and http://dbpedia.org/resource/Texas and the value is : 0
+http://dbpedia.org/resource/Trinity_Tigers and http://dbpedia.org/resource/Texas and the value is : 1
+http://dbpedia.org/resource/Atlanta_Braves and http://dbpedia.org/resource/Amateur_sports and the value is : 0
+http://dbpedia.org/resource/Atlanta_Braves and http://dbpedia.org/resource/Free_agent and the value is : 0
+http://dbpedia.org/resource/Atlanta_Braves and http://dbpedia.org/resource/1979_in_baseball and the value is : 0
+http://dbpedia.org/resource/Amateur_sports and http://dbpedia.org/resource/Free_agent and the value is : 0
+http://dbpedia.org/resource/Amateur_sports and http://dbpedia.org/resource/1979_in_baseball and the value is : 0
+http://dbpedia.org/resource/Free_agent and http://dbpedia.org/resource/1979_in_baseball and the value is : 1
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Gustav_Mahler and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/National_League_West and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/National_League_West and the value is : 0
+http://dbpedia.org/resource/Atlanta_Braves and http://dbpedia.org/resource/National_League_West and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball_postseason and http://dbpedia.org/resource/Atlanta_Braves and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball_postseason and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Atlanta_Braves and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Gustav_Mahler and the value is : 1
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Glossary_of_baseball_(S) and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Relief_pitcher and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Glossary_of_baseball_(S) and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Relief_pitcher and the value is : 0
+http://dbpedia.org/resource/Cincinnati_Reds and http://dbpedia.org/resource/Glossary_of_baseball_(S) and the value is : 0
+http://dbpedia.org/resource/Cincinnati_Reds and http://dbpedia.org/resource/Relief_pitcher and the value is : 0
+http://dbpedia.org/resource/Glossary_of_baseball_(S) and http://dbpedia.org/resource/Relief_pitcher and the value is : 0
+http://dbpedia.org/resource/Montreal_Expos and http://dbpedia.org/resource/Atlanta_Braves and the value is : 1
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Gustav_Mahler and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Coach_(baseball) and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Kansas_City_Royals and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Miami_Marlins and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Northern_cardinal and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Coach_(baseball) and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Kansas_City_Royals and the value is : 1
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Miami_Marlins and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Northern_cardinal and the value is : 0
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Coach_(baseball) and the value is : 0
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Kansas_City_Royals and the value is : 0
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Miami_Marlins and the value is : 0
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Northern_cardinal and the value is : 0
+http://dbpedia.org/resource/Coach_(baseball) and http://dbpedia.org/resource/Kansas_City_Royals and the value is : 0
+http://dbpedia.org/resource/Coach_(baseball) and http://dbpedia.org/resource/Miami_Marlins and the value is : 0
+http://dbpedia.org/resource/Coach_(baseball) and http://dbpedia.org/resource/SATB and the value is : 1
+http://dbpedia.org/resource/Coach_(baseball) and http://dbpedia.org/resource/Northern_cardinal and the value is : 1
+http://dbpedia.org/resource/Kansas_City_Royals and http://dbpedia.org/resource/Miami_Marlins and the value is : 1
+http://dbpedia.org/resource/Kansas_City_Royals and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Kansas_City_Royals and http://dbpedia.org/resource/Northern_cardinal and the value is : 0
+http://dbpedia.org/resource/Miami_Marlins and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/Miami_Marlins and http://dbpedia.org/resource/Northern_cardinal and the value is : 0
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Northern_cardinal and the value is : 0
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Texas_League and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Gustav_Mahler and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Myocardial_infarction and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Coach_(baseball) and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Richard_Keith_(actor) and http://dbpedia.org/resource/Metadata_Encoding_and_Transmission_Standard and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Myocardial_infarction and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Coach_(baseball) and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Gustav_Mahler and http://dbpedia.org/resource/Metadata_Encoding_and_Transmission_Standard and the value is : 0
+http://dbpedia.org/resource/Myocardial_infarction and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Myocardial_infarction and http://dbpedia.org/resource/Coach_(baseball) and the value is : 0
+http://dbpedia.org/resource/Myocardial_infarction and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Myocardial_infarction and http://dbpedia.org/resource/Metadata_Encoding_and_Transmission_Standard and the value is : 0
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Coach_(baseball) and the value is : 0
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Metadata_Encoding_and_Transmission_Standard and the value is : 0
+http://dbpedia.org/resource/Coach_(baseball) and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Coach_(baseball) and http://dbpedia.org/resource/Metadata_Encoding_and_Transmission_Standard and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Metadata_Encoding_and_Transmission_Standard and the value is : 0
+http://dbpedia.org/resource/Timothy_Tyler and http://dbpedia.org/resource/Shannon_(unit) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+rick mahler born richard alan mahler april 18 1957 atlanta georgia american professional baseball pitcher played atlanta braves cincinnati reds montreal expos minnesota twins major league baseball mlb 1978 1990 . twotime allstar won national league nl era title 1985 . mahler drafted braves round 1975 amateur draft . major league debut braves 1978 member teams starting rotation seasons . allstar 1983 1985 won nl era title 1985 2.87 era . traded reds 1984 expos 1986 . traded twins 1989 finished career 1990 . mahler known durability pitched 200 innings consecutive seasons 1983 1988 . finished career record 119121 3.90 era 107 
+
+Coref Resolved : 
+rick mahler born richard alan mahler april 18 1957 atlanta georgia american professional baseball pitcher played atlanta braves cincinnati reds montreal expos minnesota twins major league baseball mlb 1978 1990 . twotime allstar won national league nl era title 1985 . richard alan mahler drafted braves round 1975 amateur draft . major league debut braves 1978 member teams starting rotation seasons . allstar 1983 1985 won nl era title 1985 2.87 era . traded reds 1984 expos 1986 . traded twins 1989 finished career 1990 . richard alan mahler known durability pitched 200 innings consecutive seasons 1983 1988 . finished career record 119121 3.90 era 107
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+richard keith mahler august 5 1953 austin texas march 2 2005 jupiter florida starting pitcher major league baseball played atlanta braves 19791988 1991 cincinnati reds 19891990 montreal expos 1991 . brother mickey major league pitcher teammates 1979 . previously teammates playing triplea richmond braves . 13year career mahler posted 96111 record 952 strikeouts 3.99 era 1951.1 innings . born austin texas mahler graduated john jay high school attended trinity university san antonio texas . signed braves amateur free agent 1975 debut 1979 season . mahler started opening day braves 1982 atlanta won national league west title . straight opening day starts beginning 1985 . 1987 tied nl record opening day shutout . best season came 1985 went 1715 3.48 era . pitched twice postseason braves 1982 1990 world series champion cincinnati reds . mahler key member reds pitching staff spot starter reliever going 76 contributing saves . appeared games montreal expos 1991 returning atlanta midseason . retiring mahler served minor league pitching coach kansas city royals florida marlins roving instructor st . louis cardinals . managed st . louis doublea affiliate texas league 1996 1997 . mahler died age 51 heart attack home jupiter florida preparing second season minor league pitching coach new york mets . survived wife sheryl children ricky robby timothy tyler shannon . 
+
+Coref Resolved : 
+richard keith mahler august 5 1953 austin texas march 2 2005 jupiter florida starting pitcher major league baseball played atlanta braves 19791988 1991 cincinnati reds 19891990 montreal expos 1991 . brother mickey major league pitcher teammates 1979 . previously teammates playing triplea richmond braves . 13year career richard keith mahler posted 96111 record 952 strikeouts 3.99 era 1951.1 innings . born austin texas richard keith mahler graduated john jay high school attended trinity university san antonio texas . signed atlanta braves amateur free agent 1975 debut 1979 season . richard keith mahler started opening day braves 1982 atlanta braves won national league west title . straight opening day starts beginning 1985 . 1987 tied nl record opening day shutout . best season came 1985 went 1715 3.48 era . pitched twice postseason atlanta braves 1982 1990 world series champion cincinnati reds . richard keith mahler key member cincinnati reds pitching staff spot starter reliever going 76 contributing saves . appeared games montreal expos 1991 returning atlanta braves midseason . retiring richard keith mahler served minor league pitching coach kansas city royals florida marlins roving instructor st . louis cardinals . managed st . louis doublea affiliate texas league 1996 1997 . richard keith mahler died age 51 heart attack home jupiter florida preparing second season minor league pitching coach new york mets . survived wife sheryl children ricky robby timothy tyler shannon .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.25510204081632654 and for ground truth is : 0.1484375
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

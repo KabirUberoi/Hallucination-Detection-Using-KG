@@ -1,0 +1,100 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Týr and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Violin and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/International_Artists and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Tórshavn and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Violin and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/National_Youth_Orchestra_of_Great_Britain and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Týr and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Integral and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Týr and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Týr and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Violin and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/International_Artists and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Vágur and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Danish_language and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Suðuroy and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Løgting and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Tórshavn and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Ferry and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Suðuroy and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Suðuroy and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Jón_Pauli_Olsen and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Management and the value is : 0
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Faroe_Islands and the value is : 1
+http://dbpedia.org/resource/Sirið_Stenberg and http://dbpedia.org/resource/Association_football and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Sirið Stenberg (born 28 April 1988) is a Faroese singer and songwriter.
+She is best known for her work with the Faroese band Týr, in which she is the lead vocalist and plays the violin.
+Stenberg has also released two solo albums, and has collaborated with various other Faroese and international artists.
+Stenberg was born in Tórshavn, the capital of the Faroe Islands.
+She began playing the violin at the age of five, and was a member of the Faroese National Youth Orchestra from the age of nine.
+She joined Týr in 2004, and has since become an integral part of the band's sound.
+Her powerful and emotive vocal style has been praised by critics, and she has been described as one of the most talented singers in the Faroe Islands.
+In addition to her work with Týr, Stenberg has released two solo albums, and has collaborated with various other Faroese and international artists.
+
+
+Coref Resolved: 
+
+Sirið Stenberg (born 28 April 1988) is a Faroese singer and songwriter.
+Sirið Stenberg is best known for Sirið Stenberg work with the Faroese band Týr, in which Sirið Stenberg is the lead vocalist and plays the violin.
+Sirið Stenberg has also released two solo albums, and has collaborated with various other Faroese and international artists.
+Sirið Stenberg was born in Tórshavn, the capital of the Faroe Islands.
+Sirið Stenberg began playing the violin at the age of five, and was a member of the Faroese National Youth Orchestra from the age of nine.
+Sirið Stenberg joined the Faroese band Týr, in which she is the lead vocalist and plays the violinin 2004, and has since become an integral part of the Faroese band Týr, in which she is the lead vocalist and plays the violinsound.
+Sirið Stenberg powerful and emotive vocal style has been praised by critics, and Sirið Stenberg has been described as one of the most talented singers in the Faroe Islands.
+In addition to Sirið Stenberg work with the Faroese band Týr, in which she is the lead vocalist and plays the violin, Sirið Stenberg has released two solo albums, and has collaborated with various other Faroese and international artists.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Sirið Stenberg (born 26 May 1968 in Vágur) is a Faroese politician.
+She finished her education as a nurse in 1994 and as a nurse in neonatalalogy in 1998 and as a nurse with special knowledge of children from 0-7 ("Heilsufrøðingur" in Faroese, "Sundhedsplejerske" in Danish, a health care visitor who attends to and gives advice to the mothers and their small children in their homes).
+Since 2001, she has worked in the children's health care in Suðuroy.
+She took leave from this employment shortly after assuming office as a member of the Faroese Parliament, which is located in Tórshavn, two hours away by ferry from Suðuroy.
+From 2006-08, she was headmaster of the Health School of the Faroe Islands, which is located in Suðuroy.
+She is married to Jón Pauli Olsen, who is football manager of the Faroese women's national football team and social and health assistant together, they have three children.
+ 
+
+Coref Resolved: 
+
+Sirið Stenberg (born 26 May 1968 in Vágur) is a Faroese politician.
+Sirið Stenberg finished Sirið Stenberg education as a nurse in 1994 and as a nurse in neonatalalogy in 1998 and as a nurse with special knowledge of children from 0-7 ("Heilsufrøðingur" in Faroese, "Sundhedsplejerske" in Danish, a health care visitor who attends to and gives advice to the mothers and the mothers small children in the mothers and their small children in their homeshomes).
+Since 2001, Sirið Stenberg has this employment in the children's health care in Suðuroy.
+Sirið Stenberg took leave from this employment shortly after assuming office as a member of the Faroese Parliament, which is located in Tórshavn, two hours away by ferry from Suðuroy.
+From 2006-08, Sirið Stenberg was headmaster of the Health School of the Faroe Islands, which is located in Suðuroy.
+Sirið Stenberg is married to Jón Pauli Olsen, who is football manager of the Faroese women's national football team and social and health assistant together, they have three children.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.3333333333333333 0.5 0.5 0.3333333333333333 0.4 1.0 0.4 
+
+Value for ground truth is : 
+1.0 1.0 1.0 0.5 1.0 0.4 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

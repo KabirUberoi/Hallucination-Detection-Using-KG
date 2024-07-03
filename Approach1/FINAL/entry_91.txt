@@ -1,0 +1,125 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Journalist and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Senate and the value is : 1
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Tank and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Bilateralism and the value is : 0
+http://dbpedia.org/resource/Tank and http://dbpedia.org/resource/Bilateralism and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Senate and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/National_Assembly_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/National_Assembly_of_Pakistan and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Pakistan_Muslim_League_(N) and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Conservatism_in_Pakistan and the value is : 1
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Political_science and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Geostrategy and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Media_proprietor and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 1
+http://dbpedia.org/resource/Conservatism_in_Pakistan and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Conservatism_in_Pakistan and http://dbpedia.org/resource/Political_science and the value is : 0
+http://dbpedia.org/resource/Conservatism_in_Pakistan and http://dbpedia.org/resource/Geostrategy and the value is : 0
+http://dbpedia.org/resource/Conservatism_in_Pakistan and http://dbpedia.org/resource/Media_proprietor and the value is : 0
+http://dbpedia.org/resource/Conservatism_in_Pakistan and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Conservatism_in_Pakistan and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Political_science and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Geostrategy and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Media_proprietor and the value is : 1
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 0
+http://dbpedia.org/resource/Political_science and http://dbpedia.org/resource/Geostrategy and the value is : 0
+http://dbpedia.org/resource/Political_science and http://dbpedia.org/resource/Media_proprietor and the value is : 0
+http://dbpedia.org/resource/Political_science and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Political_science and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 0
+http://dbpedia.org/resource/Geostrategy and http://dbpedia.org/resource/Media_proprietor and the value is : 0
+http://dbpedia.org/resource/Geostrategy and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Geostrategy and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 0
+http://dbpedia.org/resource/Media_proprietor and http://dbpedia.org/resource/Senate and the value is : 0
+http://dbpedia.org/resource/Media_proprietor and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 0
+http://dbpedia.org/resource/Senate and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 1
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 1
+http://dbpedia.org/resource/Forman_Christian_College and http://dbpedia.org/resource/Georgetown_University and the value is : 1
+http://dbpedia.org/resource/Forman_Christian_College and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Forman_Christian_College and http://dbpedia.org/resource/Media_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Forman_Christian_College and http://dbpedia.org/resource/Newspaper and the value is : 0
+http://dbpedia.org/resource/Forman_Christian_College and http://dbpedia.org/resource/Islam and the value is : 0
+http://dbpedia.org/resource/Forman_Christian_College and http://dbpedia.org/resource/Pakistan_Army_Corps_of_Military_Police and the value is : 0
+http://dbpedia.org/resource/Forman_Christian_College and http://dbpedia.org/resource/Coup_d'état and the value is : 0
+http://dbpedia.org/resource/Georgetown_University and http://dbpedia.org/resource/Mushahid_Hussain and the value is : 0
+http://dbpedia.org/resource/Georgetown_University and http://dbpedia.org/resource/Media_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Georgetown_University and http://dbpedia.org/resource/Newspaper and the value is : 0
+http://dbpedia.org/resource/Georgetown_University and http://dbpedia.org/resource/Islam and the value is : 0
+http://dbpedia.org/resource/Georgetown_University and http://dbpedia.org/resource/Pakistan_Army_Corps_of_Military_Police and the value is : 0
+http://dbpedia.org/resource/Georgetown_University and http://dbpedia.org/resource/Coup_d'état and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Media_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Newspaper and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Islam and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Pakistan_Army_Corps_of_Military_Police and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Coup_d'état and the value is : 0
+http://dbpedia.org/resource/Media_of_Pakistan and http://dbpedia.org/resource/Newspaper and the value is : 0
+http://dbpedia.org/resource/Media_of_Pakistan and http://dbpedia.org/resource/Islam and the value is : 0
+http://dbpedia.org/resource/Media_of_Pakistan and http://dbpedia.org/resource/Pakistan_Army_Corps_of_Military_Police and the value is : 0
+http://dbpedia.org/resource/Media_of_Pakistan and http://dbpedia.org/resource/Coup_d'état and the value is : 0
+http://dbpedia.org/resource/Newspaper and http://dbpedia.org/resource/Islam and the value is : 0
+http://dbpedia.org/resource/Newspaper and http://dbpedia.org/resource/Pakistan_Army_Corps_of_Military_Police and the value is : 0
+http://dbpedia.org/resource/Newspaper and http://dbpedia.org/resource/Coup_d'état and the value is : 0
+http://dbpedia.org/resource/Islam and http://dbpedia.org/resource/Pakistan_Army_Corps_of_Military_Police and the value is : 1
+http://dbpedia.org/resource/Islam and http://dbpedia.org/resource/Coup_d'état and the value is : 1
+http://dbpedia.org/resource/Pakistan_Army_Corps_of_Military_Police and http://dbpedia.org/resource/Coup_d'état and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Massmedia and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Pokhran-II and the value is : 1
+http://dbpedia.org/resource/Massmedia and http://dbpedia.org/resource/Pokhran-II and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Pervez_Musharraf and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/1999_Pakistani_coup_d'état and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Prime_Minister_of_Pakistan and the value is : 1
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Nawaz_Sharif and the value is : 1
+http://dbpedia.org/resource/Pervez_Musharraf and http://dbpedia.org/resource/1999_Pakistani_coup_d'état and the value is : 1
+http://dbpedia.org/resource/Pervez_Musharraf and http://dbpedia.org/resource/Prime_Minister_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Pervez_Musharraf and http://dbpedia.org/resource/Nawaz_Sharif and the value is : 1
+http://dbpedia.org/resource/1999_Pakistani_coup_d'état and http://dbpedia.org/resource/Prime_Minister_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/1999_Pakistani_coup_d'état and http://dbpedia.org/resource/Nawaz_Sharif and the value is : 1
+http://dbpedia.org/resource/Prime_Minister_of_Pakistan and http://dbpedia.org/resource/Nawaz_Sharif and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Defection and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 0
+http://dbpedia.org/resource/Defection and http://dbpedia.org/resource/Pakistan_Muslim_League and the value is : 0
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/Mushahid_Hussain and http://dbpedia.org/resource/Asif_Ali_Zardari and the value is : 1
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Asif_Ali_Zardari and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+mushahid hussain syed born 1 april 1947 is a pakistani politician and journalist who served as a senator from 1985 to 2018. he was the secretary general of the pakistan muslim league pml from 2002 to 2008 and the minister for information and broadcasting from 2008 to 2013. he is currently the chairman of the pakistanchina institute a think tank dedicated to promoting bilateral relations between the two countries. he is also the chairman of the senate standing committee on foreign affairs. he is a former member of the national assembly of pakistan and a former member of the senate of pakistan. he is a prominent leader of the pakistan muslim league nawaz. 
+
+Coref Resolved : 
+mushahid hussain syed born 1 april 1947 is a pakistani politician and journalist who served as a senator from 1985 to 2018. mushahid hussain syed was the secretary general of the pakistan muslim league pml from 2002 to 2008 and the minister for information and broadcasting from 2008 to 2013. mushahid hussain syed is currently the chairman of the pakistanchina institute a think tank dedicated to promoting bilateral relations between the two countries. mushahid hussain syed is also the chairman of the senate standing committee on foreign affairs. mushahid hussain syed is a former member of the national assembly of pakistan and a former member of the senate of pakistan . mushahid hussain syed is a prominent leader of the pakistan muslim league nawaz.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+mushahid hussain syed b. 1953 is a conservative journalist political scientist geostrategist and former media mogul currently serving as a senator on the pakistan muslim league q platform to the senate of pakistan. as of current he is the secretarygeneral of the pakistan muslim league a centrist party. educated and graduated from the forman christian college university in pakistan and georgetown university in the united states syed started his career in journalism when he became the founding editor of the former leading newspaper the muslim in the 1970s and was subsequently arrested by the military police for staging a demonstration movement against the military coup détat by general ziaulhaq in 1979. he came to public limelight and international notice in 1997 when syed was appointed as the minister of ministry of information and massmedia broadcasting and subsequently called for successful nuclear tests see chagaii in 1998. syed was the principle media spokesperson and had control of the media representative services in the country during his stay as minister. syed was again arrested in 1999 by general pervez musharraf who successfully staged a 1999 coup détat against the government of prime minister nawaz sharif. syed was subsequently released in 2000 and later defected to a splinter group of the pakistan muslim league and was appointed as generalsecretary of the splinter group. in 2008 he secured the nomination for the office of president of pakistan but conceded his defeat in favour of asif ali zardari. 
+
+Coref Resolved : 
+mushahid hussain syed b. 1953 is a conservative journalist political scientist geostrategist and former media mogul currently serving as a senator on the pakistan muslim league q platform to the senate of pakistan. as of current mushahid hussain syed is the secretarygeneral of pakistan muslim league . educated and graduated from the forman christian college university in pakistanand georgetown university in the united states mushahid hussain syed started mushahid hussain syed career in journalism when mushahid hussain syed became the founding editor of the former leading newspaper the muslim in the 1970s and was subsequently arrested by the military police for staging a demonstration movement against the military coup détat by general ziaulhaq in 1979. mushahid hussain syed came to public limelight and international notice in 1997 when mushahid hussain syed was appointed as the minister of ministry of information and massmedia broadcasting and subsequently called for successful nuclear tests see chagaii in 1998. mushahid hussain syed was the principle media spokesperson and had control of the media representative services in pakistanduring mushahid hussain syed stay as minister. mushahid hussain syed was again arrested in 1999 by general pervez musharraf who successfully staged a 1999 coup détat against the government of prime minister nawaz sharif. mushahid hussain syed was subsequently released in 2000 and later defected to a splinter group of pakistan muslim league and was appointed as generalsecretary of a splinter group of the pakistan muslim league . in 2008 mushahid hussain syed secured the nomination for the office of president of pakistanbut conceded mushahid hussain syed defeat in favour of asif ali zardari.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.14285714285714285 and for ground truth is : 0.2236842105263158
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate accurate accurate 
+

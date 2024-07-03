@@ -1,0 +1,125 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Don_Estelle and the value is : 0
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Merle_(dog_coat) and the value is : 0
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Merle_(dog_coat) and the value is : 1
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Thompson_River and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Merle_(dog_coat) and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Anne_Boleyn and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Henry_VIII_of_England and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Anne_Boleyn and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Henry_VIII_of_England and the value is : 0
+http://dbpedia.org/resource/Thompson_River and http://dbpedia.org/resource/Anne_Boleyn and the value is : 0
+http://dbpedia.org/resource/Thompson_River and http://dbpedia.org/resource/Henry_VIII_of_England and the value is : 0
+http://dbpedia.org/resource/Anne_Boleyn and http://dbpedia.org/resource/Henry_VIII_of_England and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Merle_(dog_coat) and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Anagallis_arvensis and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Samuel_Goldwyn and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Anagallis_arvensis and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Samuel_Goldwyn and the value is : 1
+http://dbpedia.org/resource/Thompson_River and http://dbpedia.org/resource/Anagallis_arvensis and the value is : 0
+http://dbpedia.org/resource/Thompson_River and http://dbpedia.org/resource/Samuel_Goldwyn and the value is : 0
+http://dbpedia.org/resource/Anagallis_arvensis and http://dbpedia.org/resource/Samuel_Goldwyn and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Merle_(dog_coat) and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/I_Come_in_Peace and the value is : 1
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/I_Come_in_Peace and the value is : 0
+http://dbpedia.org/resource/Thompson_River and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Thompson_River and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Thompson_River and http://dbpedia.org/resource/I_Come_in_Peace and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/I_Come_in_Peace and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/I_Come_in_Peace and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Merle_(dog_coat) and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Wuthering_Heights and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Wuthering_Heights and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Thompson_River and http://dbpedia.org/resource/Wuthering_Heights and the value is : 0
+http://dbpedia.org/resource/Thompson_River and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Thompson_River and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Wuthering_Heights and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Wuthering_Heights and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Merle_(dog_coat) and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Thompson_River and http://dbpedia.org/resource/Bishop_in_the_Catholic_Church and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Merle_(dog_coat) and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Merle_(dog_coat) and the value is : 0
+http://dbpedia.org/resource/Don_Estelle and http://dbpedia.org/resource/Thompson_River and the value is : 0
+http://dbpedia.org/resource/Merle_(dog_coat) and http://dbpedia.org/resource/Thompson_River and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Actor and the value is : 1
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Anne_Boleyn and the value is : 0
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Henry_VIII_of_England and the value is : 0
+http://dbpedia.org/resource/Anne_Boleyn and http://dbpedia.org/resource/Henry_VIII_of_England and the value is : 0
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Anagallis_arvensis and the value is : 0
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Samuel_Goldwyn and the value is : 1
+http://dbpedia.org/resource/Anagallis_arvensis and http://dbpedia.org/resource/Samuel_Goldwyn and the value is : 1
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/I_Come_in_Peace and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Academy_Awards and http://dbpedia.org/resource/I_Come_in_Peace and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/I_Come_in_Peace and the value is : 0
+http://dbpedia.org/resource/Traffic_collision and http://dbpedia.org/resource/Merle_Oberon and the value is : 0
+http://dbpedia.org/resource/Traffic_collision and http://dbpedia.org/resource/Wuthering_Heights and the value is : 1
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Wuthering_Heights and the value is : 0
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Cultural_heritage and the value is : 0
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Fiction and the value is : 0
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Tasmania and the value is : 0
+http://dbpedia.org/resource/Cultural_heritage and http://dbpedia.org/resource/Fiction and the value is : 0
+http://dbpedia.org/resource/Cultural_heritage and http://dbpedia.org/resource/Tasmania and the value is : 1
+http://dbpedia.org/resource/Fiction and http://dbpedia.org/resource/Tasmania and the value is : 0
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Fiction and the value is : 0
+http://dbpedia.org/resource/Merle_Oberon and http://dbpedia.org/resource/Tasmania and the value is : 0
+http://dbpedia.org/resource/Fiction and http://dbpedia.org/resource/Tasmania and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+merle oberon born estelle merle obrien thompson 19 february 1911 23 november 1979 was an angloindian actress. she began her film career in british films as anne boleyn in the private life of henry viii 1933. after her success in the scarlet pimpernel 1934 she travelled to the united states to make films for samuel goldwyn. she was nominated for an academy award for best actress for her performance in the dark angel 1935. throughout her career she appeared in a variety of films including wuthering heights 1939 which earned her an academy award nomination for best actress. other notable films include the ghost goes west 1935 the citadel 1938 and the lodger 1944. she received critical acclaim for her performances in the bishops wife 1947 and i want to live 1958. her later years were marred by personal problems and illness. she died in 1979 aged 68. 
+
+Coref Resolved : 
+merle oberon born estelle merle obrien thompson 19 february 1911 23 november 1979 was an angloindian actress. estelle merle obrien thompson began estelle merle obrien thompson film career in british films as anne boleyn in the private life of henry viii 1933. after estelle merle obrien thompson success in the scarlet pimpernel 1934 estelle merle obrien thompson travelled to the united states to make films for samuel goldwyn. estelle merle obrien thompson was nominated for an academy award for best actress for estelle merle obrien thompson performance in the dark angel 1935. throughout estelle merle obrien thompson career estelle merle obrien thompson appeared in a variety of films including wuthering heights 1939 which earned estelle merle obrien thompson an academy award nomination for best actress. other notable films include the ghost goes west 1935 the citadel 1938 and the lodger 1944. estelle merle obrien thompson received critical acclaim for estelle merle obrien thompson performances in the bishops wife 1947 and i want to live 1958. estelle merle obrien thompson later years were marred by personal problems and illness. estelle merle obrien thompson died in 1979 aged 68.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+merle oberon 19 february 1911 23 november 1979 was an angloindian actress. she began her film career in british films as anne boleyn in the private life of henry viii 1933. after her success in the scarlet pimpernel 1934 she travelled to the united states to make films for samuel goldwyn. she was nominated for an academy award for best actress for her performance in the dark angel 1935. a traffic collision in 1937 caused facial injuries that could have ended her career but she soon followed this with her most renowned performance in wuthering heights 1939. throughout her adult life in order to conceal her indian heritage she maintained the fiction that she was born in tasmania australia she concocted a story that all her school records had been destroyed in a fire which meant it could be neither proven nor disproven. she maintained these fictions throughout her professional life. the year before she died she finally admitted this story was not true and records located since her death have confirmed her true origin. 
+
+Coref Resolved : 
+merle oberon 19 february 1911 23 november 1979 was an angloindian actress. merle oberon began merle oberon film career in british films as anne boleyn in the private life of henry viii 1933. after merle oberon success in the scarlet pimpernel 1934 merle oberon travelled to the united states to make films for samuel goldwyn. merle oberon was nominated for an academy award for best actress for merle oberon performance in the dark angel 1935. a traffic collision in 1937 caused facial injuries that could have ended merle oberon career but merle oberon soon followed a traffic collision in 1937 with merle oberon most renowned performance in wuthering heights 1939. throughout merle oberon adult life in order to conceal merle oberon indian heritage merle oberon maintained the fiction that merle oberon was born in tasmania australia merle oberon concocted a story that all merle oberon school records had been destroyed in a fire which meant a story that all her school records had been destroyed in a fire which meant it could be neither proven nor disprovencould be neither proven nor disproven. merle oberon maintained these fictions throughout merle oberon professional life. the year before merle oberon died merle oberon finally admitted the fiction that she was born in tasmania australia was not true and records located since merle oberon death have confirmed merle oberon true origin.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.041666666666666664 and for ground truth is : 0.2
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate accurate accurate 
+

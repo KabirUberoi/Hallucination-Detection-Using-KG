@@ -1,0 +1,160 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Deacon and the value is : 1
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_Football_League and the value is : 1
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Australian_Football_League and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Australian_rules_football_positions and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_rules_football_positions and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Australia_national_rugby_league_team and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australia_national_rugby_league_team and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Australia_national_rugby_league_team and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Copeland_Trophy and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Copeland_Trophy and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Copeland_Trophy and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Victorian_era and the value is : 1
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Victorian_era and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Bert_and_Ernie and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Deacon and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Australian_Football_League and the value is : 1
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Brownlow_Medal and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Brownlow_Medal and the value is : 1
+http://dbpedia.org/resource/Australian_Football_League and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Australian_Football_League and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Australian_Football_League and http://dbpedia.org/resource/Brownlow_Medal and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 1
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Brownlow_Medal and the value is : 0
+http://dbpedia.org/resource/Carlton_Football_Club and http://dbpedia.org/resource/Brownlow_Medal and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Darwin,_Northern_Territory and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Brownlow_Medal and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Sea_captain and the value is : 1
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Ern_Henfry and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Darwin,_Northern_Territory and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Brownlow_Medal and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Ern_Henfry and the value is : 0
+http://dbpedia.org/resource/Carlton_Football_Club and http://dbpedia.org/resource/Darwin,_Northern_Territory and the value is : 0
+http://dbpedia.org/resource/Carlton_Football_Club and http://dbpedia.org/resource/Brownlow_Medal and the value is : 0
+http://dbpedia.org/resource/Carlton_Football_Club and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Carlton_Football_Club and http://dbpedia.org/resource/Ern_Henfry and the value is : 0
+http://dbpedia.org/resource/Darwin,_Northern_Territory and http://dbpedia.org/resource/Brownlow_Medal and the value is : 1
+http://dbpedia.org/resource/Darwin,_Northern_Territory and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Darwin,_Northern_Territory and http://dbpedia.org/resource/Ern_Henfry and the value is : 0
+http://dbpedia.org/resource/Brownlow_Medal and http://dbpedia.org/resource/Sea_captain and the value is : 0
+http://dbpedia.org/resource/Brownlow_Medal and http://dbpedia.org/resource/Ern_Henfry and the value is : 0
+http://dbpedia.org/resource/Sea_captain and http://dbpedia.org/resource/Ern_Henfry and the value is : 0
+http://dbpedia.org/resource/2012–13_Premier_League and http://dbpedia.org/resource/Bertram_and_Diana_Firestone and the value is : 1
+http://dbpedia.org/resource/2012–13_Premier_League and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/2012–13_Premier_League and http://dbpedia.org/resource/Brownlow_Medal and the value is : 0
+http://dbpedia.org/resource/2012–13_Premier_League and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Brownlow_Medal and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Brownlow_Medal and the value is : 1
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 1
+http://dbpedia.org/resource/Brownlow_Medal and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 1
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Deacon and the value is : 1
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 1
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/1951_VFL_season and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Northern_Blues and the value is : 1
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/1951_VFL_season and the value is : 1
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Northern_Blues and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/Carlton_Football_Club and http://dbpedia.org/resource/1951_VFL_season and the value is : 0
+http://dbpedia.org/resource/Carlton_Football_Club and http://dbpedia.org/resource/Northern_Blues and the value is : 0
+http://dbpedia.org/resource/Carlton_Football_Club and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Carlton_Football_Club and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/1951_VFL_season and http://dbpedia.org/resource/Northern_Blues and the value is : 0
+http://dbpedia.org/resource/1951_VFL_season and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/1951_VFL_season and http://dbpedia.org/resource/Victorian_Football_League and the value is : 1
+http://dbpedia.org/resource/Northern_Blues and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Northern_Blues and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Kenneth_Luke and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Kenneth_Luke and the value is : 0
+http://dbpedia.org/resource/Australian_Football_League and http://dbpedia.org/resource/Carlton_Football_Club and the value is : 0
+http://dbpedia.org/resource/Australian_Football_League and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Australian_Football_League and http://dbpedia.org/resource/Kenneth_Luke and the value is : 0
+http://dbpedia.org/resource/Carlton_Football_Club and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/Carlton_Football_Club and http://dbpedia.org/resource/Kenneth_Luke and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Kenneth_Luke and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Myocardial_infarction and the value is : 1
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Balnarring,_Victoria and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Myocardial_infarction and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Balnarring,_Victoria and the value is : 0
+http://dbpedia.org/resource/Myocardial_infarction and http://dbpedia.org/resource/Balnarring,_Victoria and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Northern_Blues and the value is : 0
+http://dbpedia.org/resource/Bertram_and_Diana_Firestone and http://dbpedia.org/resource/Pat_Foley and the value is : 1
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Northern_Blues and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Pat_Foley and the value is : 0
+http://dbpedia.org/resource/Northern_Blues and http://dbpedia.org/resource/Pat_Foley and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+bert deacon 19 april 1925 28 august 2002 was an australian rules footballer who played for the collingwood football club in the victorian football league vfl. deacon was a key member of collingwoods famous machine teams of the 1950s playing in four premiership sides. he was a rover and was known for his courage and tenacity. he was a member of the collingwood team of the century and was inducted into the australian football hall of fame in 1996. deacon was a threetime copeland trophy winner collingwoods best and fairest award and was named in the allaustralian team in 1956. he was also a member of the victorian state team in 1954 and 1956. after retiring from football deacon became a successful businessman and was a director of the collingwood football club from 1975 to 1981. 
+
+Coref Resolved : 
+bert deacon 19 april 1925 28 august 2002 was an australian rules footballer who played for the collingwood football club in the victorian football league vfl. bert deacon was a key member of the collingwood football club famous machine teams of the 1950s playing in four premiership sides. bert deacon was a rover and was known for bert deacon courage and tenacity. bert deacon was a member of the the collingwood football club team of the century and was inducted into the australian football hall of fame in 1996. bert deacon was a threetime copeland trophy winner the collingwood football club best and fairest award and was named in the allaustralian team in 1956. bert deacon was also a member of the victorian state team in 1954 and 1956. after retiring from football bert deacon became a successful businessman and was a director of the collingwood football club from 1975 to 1981.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+bertram deacon 8 november 1922 3 january 1974 was an australian rules footballer who played for carlton in the victorian football league vfl. he is remembered for being carltons first ever brownlow medal winner. a centre half back deacon began his league career in 1942. he was a premiership player for carlton in 1945 after acting as captaincoach of an army stores team that won all ten games in a services competition in darwin and 1947 the latter in a year which he won both a brownlow medal and shared carltons best and fairest medal with his captain ern henfry. the previous season deacon had finished fourth in the brownlow medal count but this time around finished on top thus becoming carltons inaugural winner of the award. deacon left carlton after the 1951 season and became captaincoach for preston in the victorian football association vfa the club where he had played for prior to being recruited by carlton. he later served as carlton vicepresident and club secretary. he is the centre half back in carltons official team of the century. off the field deacon worked for many years for longserving vfl and carlton president sir kenneth luke. bertram deacon died of a heart attack on 3 january 1974 while on holiday at balnarring. deacon was just 51 years of age and died despite the desperate efforts of his preston teammate pat foley to revive him. 
+
+Coref Resolved : 
+bertram deacon 8 november 1922 3 january 1974 was an australian rules footballer who played for carlton in the victorian football league vfl. bertram deacon is remembered for being carlton first ever brownlow medal winner. bertram deacon began bertram deacon league career in 1942. bertram deacon was a premiership player for carlton in 1945 after acting as captaincoach of an army stores team that won all ten games in a services competition in darwin and 1947 1947 in a year which bertram deacon won both a brownlow medal and shared carlton best and fairest medal with bertram deacon captain ern henfry. the previous season bertram deacon had finished fourth in the brownlow medal count but this time around finished on top thus becoming carlton inaugural winner of brownlow . bertram deacon left carlton after the 1951 season and became captaincoach for preston in the victorian football association vfa the club where bertram deacon had played for prior to being recruited by carlton . bertram deacon later served as carlton vicepresident and club secretary. bertram deacon is the centre half back in carlton official team of the century. off the field bertram deacon worked for many years for longserving vfl and carlton president sir kenneth luke. bertram deacon died of a heart attack on 3 january 1974 while on holiday at balnarring. bertram deacon was just 51 years of age and died despite the desperate efforts of bertram deacon preston teammate pat foley to revive bertram deacon .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0967741935483871 and for ground truth is : 0.18811881188118812
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

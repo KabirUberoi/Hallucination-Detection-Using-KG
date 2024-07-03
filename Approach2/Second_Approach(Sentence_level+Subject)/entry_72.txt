@@ -1,0 +1,160 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Christianity and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Missionary and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Ecuador and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Indiana and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Florida and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Wheaton_College_(Illinois) and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/University_of_Illinois_Urbana-Champaign and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Aerospace_engineering and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Mission_Aviation_Fellowship and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Belgian_Congo and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Marj and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Jim_Elliot and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Pete_Fleming and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Ed_McCully and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Roger_Youderian and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Mission_Aviation_Fellowship and the value is : 1
+http://dbpedia.org/resource/Roger_Youderian and http://dbpedia.org/resource/Nate_Saint and the value is : 1
+http://dbpedia.org/resource/Roger_Youderian and http://dbpedia.org/resource/Jim_Elliot and the value is : 1
+http://dbpedia.org/resource/Roger_Youderian and http://dbpedia.org/resource/Pete_Fleming and the value is : 1
+http://dbpedia.org/resource/Roger_Youderian and http://dbpedia.org/resource/Ed_McCully and the value is : 1
+http://dbpedia.org/resource/Roger_Youderian and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Roger_Youderian and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Roger_Youderian and http://dbpedia.org/resource/Ecuador and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Evangelicalism and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Missionary and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Ecuador and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Operation_Auca and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Sam_Winchester and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/American_Airlines and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Las_Vegas_Strip and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Yosemite_National_Park and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Jim_Elliot and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Ed_McCully and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Pete_Fleming and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Roger_Youderian and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/S.D._Aucas and the value is : 0
+http://dbpedia.org/resource/Huaorani_people and http://dbpedia.org/resource/Ecuador and the value is : 1
+http://dbpedia.org/resource/Rachel_Saint and http://dbpedia.org/resource/Nate_Saint and the value is : 1
+http://dbpedia.org/resource/Rachel_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/Grampa_Simpson and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/HCJB and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/Marjorie_Bruce and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/Marj_Brasch and the value is : 0
+http://dbpedia.org/resource/Le_Puy-en-Velay and http://dbpedia.org/resource/Cancer and the value is : 0
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Steve_Saint and the value is : 1
+http://dbpedia.org/resource/Nate_Saint and http://dbpedia.org/resource/Huaorani_people and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Nate Saint (August 28, 1923 January 8, 1956) was an American Christian missionary pilot and one of five martyrs killed while attempting to evangelize the Huaorani people of eastern Ecuador.
+Saint was born in Fort Wayne, Indiana, and grew up in Florida.
+He attended Wheaton College in Illinois, where he studied aeronautical engineering and earned his pilot's license.
+After graduating in 1947, he worked as a pilot for Mission Aviation Fellowship (MAF) in the Belgian Congo.
+In 1950, he returned to the United States and married Marj Saint.
+In 1953, Saint and four other missionaries Jim Elliot, Peter Fleming, Ed McCully, and Roger Youderian formed the Missionary Aviation Fellowship's (MAF) Ecuadorian Mission.
+The group's goal was to evangelize the Huaorani people, a tribe of hunter-gatherers living in the Amazon rainforest.
+On January 8, 1956, Saint and the other four missionaries were killed by Huaorani warriors while attempting to make contact with the tribe.
+
+
+Coref Resolved: 
+
+Nate Saint (August 28, 1923 January 8, 1956) was an American Christian missionary pilot and one of five martyrs killed while attempting to evangelize the Huaorani people of eastern Ecuador.
+Nate Saint was born in Fort Wayne, Indiana, and grew up in Florida.
+Nate Saint attended Wheaton College in Illinois, where Nate Saint studied aeronautical engineering and earned Nate Saint pilot's license.
+After graduating in 1947, Nate Saint worked as a pilot for Mission Aviation Fellowship (MAF) in the Belgian Congo.
+In 1950, Nate Saint returned to the United States and married Marj Saint.
+In 1953, Nate Saint and four other missionaries Jim Elliot, Peter Fleming, Ed McCully, and Roger Youderian formed the Missionary Aviation Fellowship's (MAF) Ecuadorian Mission.
+the Missionary Aviation Fellowship's (MAF) Ecuadorian Missiongoal was to evangelize the Huaorani people of eastern Ecuador.
+On January 8, 1956, Nate Saint and four other missionaries Jim Elliot, Peter Fleming, Ed McCully, and Roger Youderian were killed by the Huaorani people of eastern Ecuadorwarriors while attempting to make contact with the Huaorani people of eastern Ecuador.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Nate Saint (August 30, 1923 - January 8, 1956) was an evangelical Christian missionary pilot to Ecuador who, along with four others, was killed while attempting to evangelize the Huaorani people through efforts known as Operation Auca.
+Nate Saint was born in 1923.
+When he was seven, he took his first plane ride with his brother Sam, who would eventually become a commercial pilot for American Airlines.
+While in the airplane, he discovered a love of flying.
+His family was somewhat unusual his brothers made a sleeping patio on the roof of their home, and his dad built a roller coaster in the backyard. .
+When he joined the army, he was stationed in Las Vegas, NV, but was transferred to several other locations over the years.
+A leg injury from a sledding accident caused him some problems while he was in the army.
+About a year before he was discharged, he almost died while climbing a mountain in Yosemite National Park.
+After that incident, he learned to live life to the fullest. .
+In September 1955, Nate was joined by his teammates, Jim Elliot, Ed McCully, Pete Fleming, and Roger Youderian.
+Saint finally found a settlement of the Huaorani, also known as Aucas, while searching by air.
+To reach the tribe, Saint and the team lowered gifts to the Huaorani in a bucket tied to the plane.
+The Huaorani were widely feared by other Ecuadoreans, because they combined a desire to be left alone with a willingness to use force they attacked and killed any intruders without provocation.
+Nevertheless, the tribe was excited on receiving the gifts and gave some gifts back. .
+Finally, the missionaries decided to try to meet the Huaorani on the ground and, on January 3, 1956, using the beach as a landing strip, they set up camp four miles from the Huaorani settlement.
+Their initial contact was encouraging however, on Sunday, January 8, 1956, the entire team was killed on the beach (known as "Palm Beach") when armed Huaorani met and speared them. .
+Saint and the other four men became famous worldwide as a result.
+"Life" magazine published a 10-page photo essay on the story, which was also covered in Reader's Digest and many other publications.
+Today, a small school for missionary children in Shell, Ecuador, bears Nate Saint's name.
+Rachel Saint, Nate's sister, continued the mission efforts to the Huaorani, which eventually came to fruition.
+This resulted in many of these natives becoming Christians, including those who had killed Saint. .
+In 1966, Marjorie (Marj) Farris Saint married Abe Van Der Puy, president of HCJB World Radio.
+Abe died in 2003 and Marj died in 2004, from cancer.
+She is buried in Hillcrest Memorial Gardens, south of Ocala, Florida.
+Nate's older son, Steve Saint, spent time as a child visiting his missionary family members and friends and getting to know the Huaorani.
+Steve was baptized in the name of Jesus Christ by Mincaye, who was the very man who killed his father but later converted to Christ.
+Steve Saint now works with the Huaorani people and travels around the world, preaching the gospel, often accompanied by Mincaye. .
+A documentary based on the story, "Through the Gates of Splendor", was released in 2005.
+The following year, a feature film, "End of the Spear", was released on January 20, a week and a half after the 50-year anniversary of the killings.
+Steve Saint also helped write "Jungle Pilot", based on his father's diary about his time in Ecuador and work with the Huaorani Indians.
+ 
+
+Coref Resolved: 
+
+Nate Saint (August 30, 1923 - January 8, 1956) was an evangelical Christian missionary pilot to Ecuador who, along with four others, was killed while attempting to evangelize the Huaorani people through efforts known as Operation Auca.
+Nate Saint was born in 1923.
+When Nate Saint was seven, Nate Saint took Nate Saint first plane ride with Nate Saint brother Sam, who would eventually become a commercial pilot for American Airlines.
+While in the airplane, Nate Saint discovered a love of flying.
+Nate Saint family was somewhat unusual Nate Saint brothers made a sleeping patio on the roof of his brothers home, and Nate Saint dad built a roller coaster in the backyard. .
+When Nate Saint joined the army, Nate Saint was stationed in Las Vegas, NV, but was transferred to several other locations over the years.
+A leg injury from a sledding accident caused Nate Saint some problems while Nate Saint was in the army.
+About a year before Nate Saint was discharged, Nate Saint almost died while climbing a mountain in Yosemite National Park.
+After that incident, Nate Saint learned to live life to the fullest. .
+In September 1955, Nate Saint was joined by Nate Saint teammates, Jim Elliot, Ed McCully, Pete Fleming, and Roger Youderian.
+Nate Saint finally found a settlement of the Huaorani, also known as Aucas, while searching by air.
+To reach the tribe, Nate Saint and the team lowered gifts to the Huaorani people in a bucket tied to the plane.
+the Huaorani people were widely feared by other Ecuadoreans, because the Huaorani people combined a desire to be left alone with a willingness to use force the Huaorani people attacked and killed any intruders without provocation.
+Nevertheless, the tribewas excited on receiving gifts and gave some gifts back. .
+Finally, Saint and the team decided to try to meet the Huaorani people on the ground and, on January 3, 1956, using the beach as a landing strip, Saint and the team set up camp four miles from a settlement of the Huaorani, also known as Aucas.
+Saint and the team initial contact was encouraging however, on Sunday, January 8, 1956, Saint and the team was killed on the beach when armed Huaorani met and speared Saint and the team . .
+Nate Saint and the other four men became famous worldwide as a result.
+"Life" magazine published a 10-page photo essay on the story, which was also covered in Reader's Digest and many other publications.
+Today, a small school for missionary children in Shell, Ecuador , bears Nate Saint name.
+Rachel Saint, Nate Saint sister, continued the mission efforts to the Huaorani people , which eventually came to fruition.
+the mission efforts to the Huaorani, which eventually came to fruitionresulted in many of the Huaorani people becoming Christians, including those who had killed Nate Saint . .
+In 1966, Marjorie (Marj) Farris Saint married Abe Van Der Puy, president of HCJB World Radio.
+Abe Van Der Puy, president of HCJB World Radiodied in 2003 and Marjorie (Marj) Farris Saint died in 2004, from cancer.
+Marjorie (Marj) Farris Saint is buried in Hillcrest Memorial Gardens, south of Ocala, Florida.
+Nate Saint older son, Steve Saint, spent time as a child visiting Nate's older son, Steve Saintmissionary family members and friends and getting to know the Huaorani people .
+Nate's older son, Steve Saintwas baptized in the name of Jesus Christ by Mincaye, who was the very man who killed Nate's older son, Steve Saintfather but later converted to Jesus Christ .
+Nate's older son, Steve Saintnow works with the Huaorani people and travels around the world, preaching the gospel, often accompanied by Mincaye, who was the very man who killed his father but later converted to Christ. .
+A documentary based on the story, "Through the Gates of Splendor", was released in 2005.
+The following year, a feature film, "End of the Spear", was released on January 20, a week and a half after the 50-year anniversary of the killings.
+Nate's older son, Steve Saintalso helped write "Jungle Pilot", based on Nate's older son, Steve Saintfather's diary about Nate Saint time in Ecuador and work with the Huaorani people .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.75 0.0 0.3333333333333333 0.5 0.0 1.0 -1 0.7142857142857143 
+
+Value for ground truth is : 
+1.0 -1 0.0 -1 -1 0.0 -1 0.0 -1 1.0 0.5 -1 1.0 -1 -1 -1 -1 -1 -1 0.5 -1 -1 0.0 -1 1.0 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate major_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate 
+

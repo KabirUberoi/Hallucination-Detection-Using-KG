@@ -1,0 +1,147 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Richard_Carpenter_(musician) and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Richard_Carpenter_(musician) and http://dbpedia.org/resource/Screenwriter and the value is : 0
+http://dbpedia.org/resource/Richard_Carpenter_(musician) and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Richard_Carpenter_(musician) and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Screenwriter and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/Screenwriter and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Screenwriter and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay and http://dbpedia.org/resource/Casino_Royale_(1967_film) and the value is : 0
+http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay and http://dbpedia.org/resource/Willy_Wonka_&_the_Chocolate_Factory and the value is : 0
+http://dbpedia.org/resource/Casino_Royale_(1967_film) and http://dbpedia.org/resource/Willy_Wonka_&_the_Chocolate_Factory and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/Daily_Express and the value is : 0
+http://dbpedia.org/resource/Journalist and http://dbpedia.org/resource/The_Sunday_Times and the value is : 0
+http://dbpedia.org/resource/Daily_Express and http://dbpedia.org/resource/The_Sunday_Times and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Armchair_Theatre and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/ITVS and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Television_director and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/Armchair_Theatre and http://dbpedia.org/resource/ITVS and the value is : 0
+http://dbpedia.org/resource/Armchair_Theatre and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Armchair_Theatre and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/ITVS and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/ITVS and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/Dark_Avengers and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay and the value is : 0
+http://dbpedia.org/resource/British_Academy_of_Film_and_Television_Arts and http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay and the value is : 0
+http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay and http://dbpedia.org/resource/Casino_Royale_(1967_film) and the value is : 0
+http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay and http://dbpedia.org/resource/Willy_Wonka_&_the_Chocolate_Factory and the value is : 0
+http://dbpedia.org/resource/Casino_Royale_(1967_film) and http://dbpedia.org/resource/Willy_Wonka_&_the_Chocolate_Factory and the value is : 0
+http://dbpedia.org/resource/Game_of_Thrones and http://dbpedia.org/resource/Film_adaptation and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Screenwriter and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Television_in_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Sherwood_Forest and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Catweazle and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Screenwriter and the value is : 1
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Television_in_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Sherwood_Forest and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Catweazle and the value is : 0
+http://dbpedia.org/resource/Screenwriter and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Screenwriter and http://dbpedia.org/resource/Television_in_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Screenwriter and http://dbpedia.org/resource/Sherwood_Forest and the value is : 0
+http://dbpedia.org/resource/Screenwriter and http://dbpedia.org/resource/Catweazle and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Television_in_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Sherwood_Forest and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Catweazle and the value is : 0
+http://dbpedia.org/resource/Television_in_the_United_Kingdom and http://dbpedia.org/resource/Sherwood_Forest and the value is : 0
+http://dbpedia.org/resource/Television_in_the_United_Kingdom and http://dbpedia.org/resource/Catweazle and the value is : 0
+http://dbpedia.org/resource/Sherwood_Forest and http://dbpedia.org/resource/Catweazle and the value is : 0
+http://dbpedia.org/resource/Norfolk and http://dbpedia.org/resource/Kip_Carpenter and the value is : 0
+http://dbpedia.org/resource/Norfolk and http://dbpedia.org/resource/Tony_Hancock and the value is : 0
+http://dbpedia.org/resource/Norfolk and http://dbpedia.org/resource/BBC and the value is : 1
+http://dbpedia.org/resource/Norfolk and http://dbpedia.org/resource/Bowmans,_South_Australia and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Tony_Hancock and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Bowmans,_South_Australia and the value is : 0
+http://dbpedia.org/resource/Tony_Hancock and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/Tony_Hancock and http://dbpedia.org/resource/Bowmans,_South_Australia and the value is : 0
+http://dbpedia.org/resource/BBC and http://dbpedia.org/resource/Bowmans,_South_Australia and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Docking_and_berthing_of_spacecraft and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/The_Gideons_International and the value is : 0
+http://dbpedia.org/resource/Docking_and_berthing_of_spacecraft and http://dbpedia.org/resource/The_Gideons_International and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Catweazle and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Writers'_Guild_of_Great_Britain and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Catweazle and the value is : 0
+http://dbpedia.org/resource/Writers'_Guild_of_Great_Britain and http://dbpedia.org/resource/Catweazle and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Ghost and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Dick_Turpin and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Doctor_Snuggles and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Black_Beauty and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Cloud_computing and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Outer_space and the value is : 0
+http://dbpedia.org/resource/Ghost and http://dbpedia.org/resource/Dick_Turpin and the value is : 0
+http://dbpedia.org/resource/Ghost and http://dbpedia.org/resource/Doctor_Snuggles and the value is : 0
+http://dbpedia.org/resource/Ghost and http://dbpedia.org/resource/Black_Beauty and the value is : 0
+http://dbpedia.org/resource/Ghost and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Ghost and http://dbpedia.org/resource/Cloud_computing and the value is : 1
+http://dbpedia.org/resource/Ghost and http://dbpedia.org/resource/Outer_space and the value is : 0
+http://dbpedia.org/resource/Dick_Turpin and http://dbpedia.org/resource/Doctor_Snuggles and the value is : 0
+http://dbpedia.org/resource/Dick_Turpin and http://dbpedia.org/resource/Black_Beauty and the value is : 0
+http://dbpedia.org/resource/Dick_Turpin and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Dick_Turpin and http://dbpedia.org/resource/Cloud_computing and the value is : 0
+http://dbpedia.org/resource/Dick_Turpin and http://dbpedia.org/resource/Outer_space and the value is : 0
+http://dbpedia.org/resource/Doctor_Snuggles and http://dbpedia.org/resource/Black_Beauty and the value is : 0
+http://dbpedia.org/resource/Doctor_Snuggles and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Doctor_Snuggles and http://dbpedia.org/resource/Cloud_computing and the value is : 0
+http://dbpedia.org/resource/Doctor_Snuggles and http://dbpedia.org/resource/Outer_space and the value is : 0
+http://dbpedia.org/resource/Black_Beauty and http://dbpedia.org/resource/ITV_(Thailand) and the value is : 0
+http://dbpedia.org/resource/Black_Beauty and http://dbpedia.org/resource/Cloud_computing and the value is : 0
+http://dbpedia.org/resource/Black_Beauty and http://dbpedia.org/resource/Outer_space and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/Cloud_computing and the value is : 0
+http://dbpedia.org/resource/ITV_(Thailand) and http://dbpedia.org/resource/Outer_space and the value is : 0
+http://dbpedia.org/resource/Cloud_computing and http://dbpedia.org/resource/Outer_space and the value is : 0
+http://dbpedia.org/resource/Smuggling and http://dbpedia.org/resource/Adventure and the value is : 0
+http://dbpedia.org/resource/Smuggling and http://dbpedia.org/resource/Hrvatska_Radiotelevizija and the value is : 0
+http://dbpedia.org/resource/Smuggling and http://dbpedia.org/resource/Sherwood_Forest and the value is : 0
+http://dbpedia.org/resource/Adventure and http://dbpedia.org/resource/Hrvatska_Radiotelevizija and the value is : 0
+http://dbpedia.org/resource/Adventure and http://dbpedia.org/resource/Sherwood_Forest and the value is : 0
+http://dbpedia.org/resource/Hrvatska_Radiotelevizija and http://dbpedia.org/resource/Sherwood_Forest and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Pom-pom and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Anagallis_arvensis and the value is : 0
+http://dbpedia.org/resource/Pom-pom and http://dbpedia.org/resource/Anagallis_arvensis and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Ghost and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Smuggling and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Sherwood_Forest and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Dick_Turpin and the value is : 0
+http://dbpedia.org/resource/Ghost and http://dbpedia.org/resource/Smuggling and the value is : 0
+http://dbpedia.org/resource/Ghost and http://dbpedia.org/resource/Sherwood_Forest and the value is : 0
+http://dbpedia.org/resource/Ghost and http://dbpedia.org/resource/Dick_Turpin and the value is : 0
+http://dbpedia.org/resource/Smuggling and http://dbpedia.org/resource/Sherwood_Forest and the value is : 0
+http://dbpedia.org/resource/Smuggling and http://dbpedia.org/resource/Dick_Turpin and the value is : 0
+http://dbpedia.org/resource/Sherwood_Forest and http://dbpedia.org/resource/Dick_Turpin and the value is : 0
+http://dbpedia.org/resource/Kip_Carpenter and http://dbpedia.org/resource/Embolism and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+richard carpenter born 17 april 1934 is an english screenwriter best known for creating the longrunning itv series the avengers. he also wrote the screenplay for the 1967 film adaptation of the novel the prisoner and wrote and directed the 1971 film adaptation of the novel the power game. carpenter was born in london and educated at st pauls school. he began his career as a journalist writing for the daily express and the sunday times. he then moved into television writing for the bbcs armchair theatre and itvs the avengers. he also wrote for the bbcs doctor who and the saint. carpenters work on the avengers was highly acclaimed and he was nominated for a bafta award for best british screenplay in 1967. he also wrote the screenplay for the 1967 film adaptation of the novel the prisoner and wrote and directed the 1971 film adaptation of the novel the power game. carpenters other works include the television series the protectors the film adaptation of the novel the eagle has landed and the television series 
+
+Coref Resolved : 
+richard carpenter born 17 april 1934 is an english screenwriter best known for creating the longrunning itv series the avengers. carpenter also wrote the screenplay for the 1967 film adaptation of the novel the prisoner and wrote and directed the 1971 film adaptation of the novel the power game. carpenter was born in london and educated at st pauls school. carpenter began carpenter career as a journalist writing for the daily express and the sunday times. carpenter then moved into television writing for the bbcs armchair theatre and itvs the longrunning itv series the avengers. carpenter also wrote for the bbcs doctor who and the saint. carpenter work on the longrunning itv series the avengerswas highly acclaimed and carpenter was nominated for a bafta award for best british screenplay in 1967 . carpenter also wrote the screenplay for the 1967 film adaptation of the novel the prisoner and wrote and directed the 1971 film adaptation of the novel the power game. carpenter other works include the television series the protectors the film adaptation of the novel the eagle has landed and the television series
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+richard michael kip carpenter 14 august 1929 26 february 2012 was an english television screenwriter author and actor who created a number of british television series including robin of sherwood and catweazle. born in kings lynn norfolk carpenter attended the old vic theatre school before starting an acting career by working in rep. he appeared in occasional films but was mostly active on british tv in the 1960s as a character player on one occasion opposite tony hancock in one of his last shows for the bbc commonly known as the bowmans. other tv shows in which he appeared in the 1960s included zcars dixon of dock green and gideons way. in 1969 carpenter created catweazle the childrens series about an unfortunate wizard from the 11th century who is accidentally transported to the present day. this changed the course of his career substantially. carpenter earned international recognition and a writers guild award for creating the cult childrens tv series. during the 1970s he wrote the series the ghosts of motley hall 197678 dick turpin 197982 parts of the series the famous five and doctor snuggles and seventeen episodes of the adventures of black beauty for itv companies and cloud burst the boy from space and the kings dragon as part of bbcs look and read 19672004 programme for schools some episodes of which he also presented. in the 1980s came the historical adventures smuggler and its later antipodeanbased followup adventurer and between them the lavish htv production robin of sherwood which ran for three series. carpenter then worked on a number of series for children and families in the 1990s the winjin pom stanleys dragon and out of sight some of which the borrowers the return of the borrowers and the scarlet pimpernel were based on classic novels. carpenter wrote novelisations of many of the early series he created catweazle cloud burst the ghosts of motley hall smuggler robin of sherwood two books and two books of dick turpin. carpenter died from a pulmonary embolism on 26 february 2012 at the age of 82. 
+
+Coref Resolved : 
+richard michael kip carpenter 14 august 1929 26 february 2012 was an english television screenwriter author and actor who created a number of british television series including robin of sherwood and catweazle. born in kings lynn norfolk richard michael kip carpenter attended the old vic theatre school before starting an acting career by working in rep. richard michael kip carpenter appeared in occasional films but was mostly active on british tv in the 1960s as a character player on one occasion opposite tony hancock in one of richard michael kip carpenter last shows for the bbc commonly known as the bowmans. other tv shows in which richard michael kip carpenter appeared in the 1960s included zcars dixon of dock green and gideons way. in 1969 richard michael kip carpenter created catweazle. created changed the course of richard michael kip carpenter career substantially. richard michael kip carpenter earned international recognition and a writers guild award for creating catweazle. during the 1970s richard michael kip carpenter wrote the series the ghosts of motley hall 197678 dick turpin 197982 parts of the series the famous five and doctor snuggles and seventeen episodes of the adventures of black beauty for itv companies and cloud burst the boy from space and the kings dragon as part of bbcs look and read 19672004 programme for schools some episodes of which richard michael kip carpenter also presented. in the 1980s came the historical adventures smuggler and smuggler later antipodeanbased followup adventurer and between the historical adventures smuggler and its later antipodeanbased followup adventurer the lavish htv production robin of sherwood which ran for three series. richard michael kip carpenter then worked on a number of series for children and families in the 1990s the winjin pom stanleys dragon and out of sight some of which the borrowers the return of the borrowers and the scarlet pimpernel were based on classic novels. richard michael kip carpenter wrote novelisations of many of the early series richard michael kip carpenter created catweazlecloud burst the ghosts of motley hall smuggler robin of sherwood two books and two books of dick turpin . richard michael kip carpenter died from a pulmonary embolism on 26 february 2012 at the age of 82.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0 and for ground truth is : 0.03488372093023256
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

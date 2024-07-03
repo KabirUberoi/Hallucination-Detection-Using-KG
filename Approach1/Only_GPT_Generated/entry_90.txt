@@ -1,0 +1,48 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Australian_Football_League and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Australian_rules_football_positions and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_rules_football_positions and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Australia_national_rugby_league_team and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australia_national_rugby_league_team and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Australia_national_rugby_league_team and the value is : 1
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Copeland_Trophy and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Copeland_Trophy and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Copeland_Trophy and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Victorian_era and the value is : 0
+http://dbpedia.org/resource/Deacon and http://dbpedia.org/resource/Victorian_era and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Bert_and_Ernie and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Deacon and the value is : 0
+http://dbpedia.org/resource/Bert_and_Ernie and http://dbpedia.org/resource/Deacon and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+bert deacon 19 april 1925 28 august 2002 was an australian rules footballer who played for the collingwood football club in the victorian football league vfl. deacon was a key member of collingwoods famous machine teams of the 1950s playing in four premiership sides. he was a rover and was known for his courage and tenacity. he was a member of the collingwood team of the century and was inducted into the australian football hall of fame in 1996. deacon was a threetime copeland trophy winner collingwoods best and fairest award and was named in the allaustralian team in 1956. he was also a member of the victorian state team in 1954 and 1956. after retiring from football deacon became a successful businessman and was a director of the collingwood football club from 1975 to 1981. 
+
+Coref Resolved : 
+bert deacon 19 april 1925 28 august 2002 was an australian rules footballer who played for the collingwood football club in the victorian football league vfl. bert deacon was a key member of the collingwood football club famous machine teams of the 1950s playing in four premiership sides. bert deacon was a rover and was known for bert deacon courage and tenacity. bert deacon was a member of the the collingwood football club team of the century and was inducted into the australian football hall of fame in 1996. bert deacon was a threetime copeland trophy winner the collingwood football club best and fairest award and was named in the allaustralian team in 1956. bert deacon was also a member of the victorian state team in 1954 and 1956. after retiring from football bert deacon became a successful businessman and was a director of the collingwood football club from 1975 to 1981.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0967741935483871
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

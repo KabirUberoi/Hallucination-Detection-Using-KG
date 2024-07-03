@@ -1,0 +1,263 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/December_28 and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/The_American_Lawyer and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Intellectual_property and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Patent_attorney and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 1
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/The_American_Lawyer and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Patent_attorney and the value is : 1
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 0
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/Patent_attorney and the value is : 0
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/The_American_Lawyer and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/Patent_attorney and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 0
+http://dbpedia.org/resource/Patent_attorney and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/Patent_attorney and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 0
+http://dbpedia.org/resource/Trademark and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/December_28 and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Barack_Obama and the value is : 1
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Barack_Obama and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Barack_Obama and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/December_28 and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/December_28 and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/December_28 and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Electrical_engineering and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Institute_of_technology and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Law_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Electrical_engineering and the value is : 1
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Institute_of_technology and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Law_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Electrical_engineering and http://dbpedia.org/resource/Institute_of_technology and the value is : 0
+http://dbpedia.org/resource/Electrical_engineering and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/Electrical_engineering and http://dbpedia.org/resource/University_of_Virginia and the value is : 1
+http://dbpedia.org/resource/Electrical_engineering and http://dbpedia.org/resource/Law_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Institute_of_technology and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/Institute_of_technology and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Institute_of_technology and http://dbpedia.org/resource/Law_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Juris_Doctor and http://dbpedia.org/resource/University_of_Virginia and the value is : 0
+http://dbpedia.org/resource/Juris_Doctor and http://dbpedia.org/resource/Law_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/University_of_Virginia and http://dbpedia.org/resource/Law_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/December_28 and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/December_28 and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Law_firm and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Intellectual_property and the value is : 1
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Law_firm and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/Law_firm and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Law_firm and http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and the value is : 0
+http://dbpedia.org/resource/Law_firm and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Law_firm and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/December_28 and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/IBM and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Vice_president and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/General_counsel and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/IBM and the value is : 1
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Vice_president and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/General_counsel and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Intellectual_property and the value is : 1
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/Vice_president and the value is : 0
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/General_counsel and the value is : 0
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/Vice_president and http://dbpedia.org/resource/General_counsel and the value is : 0
+http://dbpedia.org/resource/Vice_president and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/General_counsel and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/December_28 and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/IBM and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Patent_attorney and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Copyright and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/IBM and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Patent_attorney and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Copyright and the value is : 0
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/Patent_attorney and the value is : 0
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/Copyright and the value is : 0
+http://dbpedia.org/resource/Patent_attorney and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/Patent_attorney and http://dbpedia.org/resource/Copyright and the value is : 0
+http://dbpedia.org/resource/Trademark and http://dbpedia.org/resource/Copyright and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/December_28 and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/IBM and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Lawsuit and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/IBM and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/December_28 and http://dbpedia.org/resource/Lawsuit and the value is : 0
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/Intellectual_property and the value is : 1
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/Lawsuit and the value is : 1
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/Lawsuit and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Palos_Verdes_Peninsula and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Patent_attorney and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 0
+http://dbpedia.org/resource/Palos_Verdes_Peninsula and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Palos_Verdes_Peninsula and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Palos_Verdes_Peninsula and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/Palos_Verdes_Peninsula and http://dbpedia.org/resource/Patent_attorney and the value is : 0
+http://dbpedia.org/resource/Palos_Verdes_Peninsula and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/Palos_Verdes_Peninsula and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Intellectual_property and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Patent_attorney and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Intellectual_property and the value is : 1
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Patent_attorney and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Trademark and the value is : 1
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/Patent_attorney and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 0
+http://dbpedia.org/resource/Patent_attorney and http://dbpedia.org/resource/Trademark and the value is : 0
+http://dbpedia.org/resource/Patent_attorney and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 0
+http://dbpedia.org/resource/Trademark and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Vice_president and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/General_counsel and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/IBM and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Vice_president and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/General_counsel and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/IBM and the value is : 0
+http://dbpedia.org/resource/Vice_president and http://dbpedia.org/resource/General_counsel and the value is : 1
+http://dbpedia.org/resource/Vice_president and http://dbpedia.org/resource/Intellectual_property and the value is : 1
+http://dbpedia.org/resource/Vice_president and http://dbpedia.org/resource/IBM and the value is : 0
+http://dbpedia.org/resource/General_counsel and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/General_counsel and http://dbpedia.org/resource/IBM and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/IBM and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Teresa_Stanek_Rea and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Computer_engineering and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Juris_Doctor and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/Computer_engineering and http://dbpedia.org/resource/Juris_Doctor and the value is : 0
+http://dbpedia.org/resource/Computer_engineering and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Computer_engineering and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/Juris_Doctor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Juris_Doctor and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/George_Berkeley and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/IBM and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Patent_infringement and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Software and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/General_counsel and the value is : 1
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/Lawyer and the value is : 1
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/Patent_infringement and the value is : 0
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/Software and the value is : 0
+http://dbpedia.org/resource/IBM and http://dbpedia.org/resource/General_counsel and the value is : 1
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/Lawyer and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/Patent_infringement and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/Software and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/General_counsel and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Patent_infringement and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/Software and the value is : 0
+http://dbpedia.org/resource/Lawyer and http://dbpedia.org/resource/General_counsel and the value is : 0
+http://dbpedia.org/resource/Patent_infringement and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/Patent_infringement and http://dbpedia.org/resource/Software and the value is : 0
+http://dbpedia.org/resource/Patent_infringement and http://dbpedia.org/resource/General_counsel and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/Software and the value is : 0
+http://dbpedia.org/resource/Law and http://dbpedia.org/resource/General_counsel and the value is : 0
+http://dbpedia.org/resource/Software and http://dbpedia.org/resource/General_counsel and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/American_Intellectual_Property_Law_Association and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Homeowner_association and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/International_Intellectual_Property_Society and the value is : 0
+http://dbpedia.org/resource/American_Intellectual_Property_Law_Association and http://dbpedia.org/resource/Homeowner_association and the value is : 0
+http://dbpedia.org/resource/American_Intellectual_Property_Law_Association and http://dbpedia.org/resource/International_Intellectual_Property_Society and the value is : 0
+http://dbpedia.org/resource/Homeowner_association and http://dbpedia.org/resource/International_Intellectual_Property_Society and the value is : 0
+http://dbpedia.org/resource/Patent_attorney and http://dbpedia.org/resource/Trademark and the value is : 1
+http://dbpedia.org/resource/Patent_attorney and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 0
+http://dbpedia.org/resource/Patent_attorney and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Patent_attorney and http://dbpedia.org/resource/Law_firm and the value is : 0
+http://dbpedia.org/resource/Patent_attorney and http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and the value is : 1
+http://dbpedia.org/resource/Patent_attorney and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/Patent_attorney and http://dbpedia.org/resource/Patent_infringement and the value is : 0
+http://dbpedia.org/resource/Trademark and http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and the value is : 0
+http://dbpedia.org/resource/Trademark and http://dbpedia.org/resource/David_Beckham and the value is : 0
+http://dbpedia.org/resource/Trademark and http://dbpedia.org/resource/Law_firm and the value is : 1
+http://dbpedia.org/resource/Trademark and http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and the value is : 0
+http://dbpedia.org/resource/Trademark and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/Trademark and http://dbpedia.org/resource/Patent_infringement and the value is : 0
+http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and http://dbpedia.org/resource/David_Beckham and the value is : 1
+http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and http://dbpedia.org/resource/Law_firm and the value is : 1
+http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and the value is : 0
+http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/United_States_Patent_and_Trademark_Office and http://dbpedia.org/resource/Patent_infringement and the value is : 1
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Law_firm and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/David_Beckham and http://dbpedia.org/resource/Patent_infringement and the value is : 0
+http://dbpedia.org/resource/Law_firm and http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and the value is : 0
+http://dbpedia.org/resource/Law_firm and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/Law_firm and http://dbpedia.org/resource/Patent_infringement and the value is : 1
+http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and http://dbpedia.org/resource/Intellectual_property and the value is : 0
+http://dbpedia.org/resource/Cravath,_Swaine_&_Moore and http://dbpedia.org/resource/Patent_infringement and the value is : 0
+http://dbpedia.org/resource/Intellectual_property and http://dbpedia.org/resource/Patent_infringement and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+david kappos born december 28 1958 is an american lawyer and former under secretary of commerce for intellectual property and director of the united states patent and trademark office uspto. he was appointed by president barack obama on august 7 2009 and sworn in on august 13 2009. he served until february 2013. kappos was born in 1958 in new york city. he received a bachelor of science degree in electrical engineering from rensselaer polytechnic institute in 1980 and a juris doctor degree from the university of virginia school of law in 1983. he is a member of the new york bar. kappos began his career in intellectual property law in 1983 at the law firm of cravath swaine moore in new york city. he joined ibm in 1996 and served as vice president and assistant general counsel for intellectual property law. in this role he was responsible for ibms worldwide patent trademark and copyright operations. he was also responsible for ibms intellectual property litigation licensing and strategic ip transactions. 
+
+Coref Resolved : 
+david kappos born december 28 1958 is an american lawyer and former under secretary of commerce for intellectual property and director of the united states patent and trademark office uspto. david kappos born december 28 1958 was appointed by president barack obama on august 7 2009 and sworn in on august 13 2009. david kappos born december 28 1958 served until february 2013. david kappos born december 28 1958 was born in 1958 in new york city. david kappos born december 28 1958 received a bachelor of science degree in electrical engineering from rensselaer polytechnic institute in 1980 and a juris doctor degree from the university of virginia school of law in 1983. david kappos born december 28 1958 is a member of the new york bar. david kappos born december 28 1958 began david kappos born december 28 1958 career in intellectual property law in 1983at the law firm of cravath swaine moore in new york city. david kappos born december 28 1958 joined ibm in 1996 and this role as vice president and assistant general counsel for intellectual property law. in this role david kappos born december 28 1958 was responsible for ibm worldwide patent trademark and copyright operations. david kappos born december 28 1958 was also responsible for ibm intellectual property litigation licensing and strategic ip transactions.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+david dave j. kappos born march 3 1961 palos verdes california is an attorney who served as the under secretary of commerce for intellectual property and director of the united states patent and trademark office uspto from 2009 to 2013. prior to being confirmed to this post by the u.s. senate on august 7 2009 kappos was the vice president and assistant general counsel intellectual property law for ibm corporation. kappos announced his intent to step down from the position in late january 2013. his final day in office was friday february 1 2013. he was succeeded by teresa stanek rea as acting under secretary and acting director. kappos received his bachelors degree in electrical and computer engineering from the university of californiadavis in 1983 and his law degree from the university of california berkeley in 1990. he joined ibm in 1983 as a development engineer and has served in a variety of roles before taking his last position at ibm including intellectual property law attorney in ibms storage division and litigation group ip law counsel in ibms software group assistant general counsel for ibm asiapacific ibm corporate counsel and assistant general counsel. kappos served on the board of directors of the american intellectual property law association the intellectual property owners association and the international intellectual property society. after leaving the pto kappos joined the law firm of cravath swaine moore where he advises clients on intellectual property matters relating to corporate mergers and acquisitions and litigation. 
+
+Coref Resolved : 
+david dave j. kappos born march 3 1961 palos verdes california is an attorney who served as the under secretary of commerce for intellectual property and director of the united states patent and trademark office uspto from 2009 to 2013. prior to being confirmed to this post by the u.s. senate on august 7 2009 david dave j. kappos was the vice president and assistant general counsel intellectual property law for ibm corporation. david dave j. kappos announced david dave j. kappos intent to step down from this post in late january 2013. david dave j. kappos final day in office was friday february 1 2013. david dave j. kappos was succeeded by teresa stanek rea as acting under secretary and acting director. david dave j. kappos received david dave j. kappos bachelors degree in electrical and computer engineering from the university of californiadavis in 1983 and david dave j. kappos law degree from the university of california berkeley in 1990. david dave j. kappos joined ibm corporationin 1983 as a development engineer and has served in a variety of roles before taking david dave j. kappos last position at ibm corporationincluding intellectual property law attorney in ibms storage division and litigation group ip law counsel in ibms software group assistant general counsel for ibm corporationasiapacific ibm corporationcorporate counsel and assistant general counsel. david dave j. kappos served on the board of directors of the american intellectual property law association the intellectual property owners association and the international intellectual property society. after leaving the united states patent and trademark office uspto david dave j. kappos joined the law firm of cravath swaine moore where david dave j. kappos advises clients on intellectual property matters relating to corporate mergers and acquisitions and litigation.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.14285714285714285 and for ground truth is : 0.1896551724137931
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate major_inaccurate major_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate minor_inaccurate 
+

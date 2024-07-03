@@ -1,0 +1,99 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Louis_VII_of_France and http://dbpedia.org/resource/Adela_of_Champagne and the value is : 0
+http://dbpedia.org/resource/Louis_VII_of_France and http://dbpedia.org/resource/Champagne and the value is : 1
+http://dbpedia.org/resource/Adela_of_Champagne and http://dbpedia.org/resource/Champagne and the value is : 0
+http://dbpedia.org/resource/Piety and http://dbpedia.org/resource/Advowson and the value is : 0
+http://dbpedia.org/resource/Crown_lands_of_France and http://dbpedia.org/resource/House_of_Bourbon and the value is : 0
+http://dbpedia.org/resource/Paris and http://dbpedia.org/resource/Denis_of_Portugal and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Adelaide_of_Italy and http://dbpedia.org/resource/Maurienne and the value is : 0
+http://dbpedia.org/resource/Pay_Attention and http://dbpedia.org/resource/High_Standards_(XM) and the value is : 0
+http://dbpedia.org/resource/Disobedient_(album) and http://dbpedia.org/resource/Heed_(band) and the value is : 0
+http://dbpedia.org/resource/Disobedient_(album) and http://dbpedia.org/resource/Walter_Map and the value is : 0
+http://dbpedia.org/resource/Heed_(band) and http://dbpedia.org/resource/Walter_Map and the value is : 0
+http://dbpedia.org/resource/Working_animal and http://dbpedia.org/resource/Seine and the value is : 0
+http://dbpedia.org/resource/Working_animal and http://dbpedia.org/resource/Marketplace and the value is : 0
+http://dbpedia.org/resource/Working_animal and http://dbpedia.org/resource/Count and the value is : 0
+http://dbpedia.org/resource/Working_animal and http://dbpedia.org/resource/Horse and the value is : 0
+http://dbpedia.org/resource/Working_animal and http://dbpedia.org/resource/Shapeshifting and the value is : 1
+http://dbpedia.org/resource/Working_animal and http://dbpedia.org/resource/Feces and the value is : 0
+http://dbpedia.org/resource/Working_animal and http://dbpedia.org/resource/Memory_management and the value is : 0
+http://dbpedia.org/resource/Seine and http://dbpedia.org/resource/Marketplace and the value is : 0
+http://dbpedia.org/resource/Seine and http://dbpedia.org/resource/Count and the value is : 0
+http://dbpedia.org/resource/Seine and http://dbpedia.org/resource/Horse and the value is : 0
+http://dbpedia.org/resource/Seine and http://dbpedia.org/resource/Shapeshifting and the value is : 0
+http://dbpedia.org/resource/Seine and http://dbpedia.org/resource/Feces and the value is : 0
+http://dbpedia.org/resource/Seine and http://dbpedia.org/resource/Memory_management and the value is : 0
+http://dbpedia.org/resource/Marketplace and http://dbpedia.org/resource/Count and the value is : 0
+http://dbpedia.org/resource/Marketplace and http://dbpedia.org/resource/Horse and the value is : 0
+http://dbpedia.org/resource/Marketplace and http://dbpedia.org/resource/Shapeshifting and the value is : 0
+http://dbpedia.org/resource/Marketplace and http://dbpedia.org/resource/Feces and the value is : 0
+http://dbpedia.org/resource/Marketplace and http://dbpedia.org/resource/Memory_management and the value is : 0
+http://dbpedia.org/resource/Count and http://dbpedia.org/resource/Horse and the value is : 0
+http://dbpedia.org/resource/Count and http://dbpedia.org/resource/Shapeshifting and the value is : 0
+http://dbpedia.org/resource/Count and http://dbpedia.org/resource/Feces and the value is : 0
+http://dbpedia.org/resource/Count and http://dbpedia.org/resource/Memory_management and the value is : 1
+http://dbpedia.org/resource/Horse and http://dbpedia.org/resource/Shapeshifting and the value is : 0
+http://dbpedia.org/resource/Horse and http://dbpedia.org/resource/Feces and the value is : 1
+http://dbpedia.org/resource/Horse and http://dbpedia.org/resource/Memory_management and the value is : 0
+http://dbpedia.org/resource/Shapeshifting and http://dbpedia.org/resource/Feces and the value is : 0
+http://dbpedia.org/resource/Shapeshifting and http://dbpedia.org/resource/Memory_management and the value is : 1
+http://dbpedia.org/resource/Feces and http://dbpedia.org/resource/Memory_management and the value is : 0
+http://dbpedia.org/resource/Horse and http://dbpedia.org/resource/Rugby_union_positions and the value is : 0
+http://dbpedia.org/resource/Horse and http://dbpedia.org/resource/Horse_Head_Island and the value is : 0
+http://dbpedia.org/resource/Rugby_union_positions and http://dbpedia.org/resource/Horse_Head_Island and the value is : 0
+http://dbpedia.org/resource/Denis and http://dbpedia.org/resource/Coking and the value is : 0
+http://dbpedia.org/resource/Denis and http://dbpedia.org/resource/Louis_VII_of_France and the value is : 0
+http://dbpedia.org/resource/Coking and http://dbpedia.org/resource/Louis_VII_of_France and the value is : 0
+http://dbpedia.org/resource/Kingdom_of_Jerusalem and http://dbpedia.org/resource/Church_of_the_Holy_Sepulchre and the value is : 0
+http://dbpedia.org/resource/Kingdom_of_Jerusalem and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Kingdom_of_Jerusalem and http://dbpedia.org/resource/Louis_VII_of_France and the value is : 0
+http://dbpedia.org/resource/Kingdom_of_Jerusalem and http://dbpedia.org/resource/Vow and the value is : 0
+http://dbpedia.org/resource/Church_of_the_Holy_Sepulchre and http://dbpedia.org/resource/Jesus and the value is : 0
+http://dbpedia.org/resource/Church_of_the_Holy_Sepulchre and http://dbpedia.org/resource/Louis_VII_of_France and the value is : 0
+http://dbpedia.org/resource/Church_of_the_Holy_Sepulchre and http://dbpedia.org/resource/Vow and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Louis_VII_of_France and the value is : 0
+http://dbpedia.org/resource/Jesus and http://dbpedia.org/resource/Vow and the value is : 0
+http://dbpedia.org/resource/Louis_VII_of_France and http://dbpedia.org/resource/Vow and the value is : 0
+http://dbpedia.org/resource/Vow and http://dbpedia.org/resource/Third_Crusade and the value is : 0
+http://dbpedia.org/resource/Vow and http://dbpedia.org/resource/Principality_of_Antioch and the value is : 0
+http://dbpedia.org/resource/Vow and http://dbpedia.org/resource/Kingdom_of_Jerusalem and the value is : 1
+http://dbpedia.org/resource/Third_Crusade and http://dbpedia.org/resource/Principality_of_Antioch and the value is : 1
+http://dbpedia.org/resource/Third_Crusade and http://dbpedia.org/resource/Kingdom_of_Jerusalem and the value is : 0
+http://dbpedia.org/resource/Principality_of_Antioch and http://dbpedia.org/resource/Kingdom_of_Jerusalem and the value is : 1
+http://dbpedia.org/resource/Third_Crusade and http://dbpedia.org/resource/Principality_of_Antioch and the value is : 1
+http://dbpedia.org/resource/Third_Crusade and http://dbpedia.org/resource/Marriage_in_Islam and the value is : 1
+http://dbpedia.org/resource/Third_Crusade and http://dbpedia.org/resource/Eleanor_of_Aquitaine and the value is : 1
+http://dbpedia.org/resource/Third_Crusade and http://dbpedia.org/resource/Duchy_of_Aquitaine and the value is : 0
+http://dbpedia.org/resource/Principality_of_Antioch and http://dbpedia.org/resource/Marriage_in_Islam and the value is : 0
+http://dbpedia.org/resource/Principality_of_Antioch and http://dbpedia.org/resource/Eleanor_of_Aquitaine and the value is : 1
+http://dbpedia.org/resource/Principality_of_Antioch and http://dbpedia.org/resource/Duchy_of_Aquitaine and the value is : 0
+http://dbpedia.org/resource/Marriage_in_Islam and http://dbpedia.org/resource/Eleanor_of_Aquitaine and the value is : 0
+http://dbpedia.org/resource/Marriage_in_Islam and http://dbpedia.org/resource/Duchy_of_Aquitaine and the value is : 1
+http://dbpedia.org/resource/Eleanor_of_Aquitaine and http://dbpedia.org/resource/Duchy_of_Aquitaine and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+philip of france 11161131 was king of france from 1180 to 1223. he was the son of louis vii and his third wife adèle of champagne. philip was known as the fair or the handsome due to his handsome features. he was also known for his piety and for his patronage of the arts. he was a strong and effective ruler who expanded the royal demesne and increased the influence of the french monarchy. he also strengthened the french economy by encouraging the development of towns and trade. he was a patron of the university of paris and founded the abbey of st. denis. he was also a great builder constructing many castles and churches throughout france. 
+
+Coref Resolved : 
+philip of france 11161131 was king of france from 1180 to 1223. philip of france 11161131 was the son of louis vii and louis vii third wife adèle of champagne. philip of france 11161131 was known as the fair or the handsome due to philip of france 11161131 handsome features. philip of france 11161131 was also known for philip of france 11161131 piety and for philip of france 11161131 patronage of the arts. philip of france 11161131 was a strong and effective ruler who expanded the royal demesne and increased the influence of the french monarchy. philip of france 11161131 also strengthened the french economy by encouraging the development of towns and trade. philip of france 11161131 was a patron of the university of paris and founded the abbey of st. denis. philip of france 11161131 was also a great builder constructing many castles and churches throughout france .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+philip 29 august 1116 13 october 1131 was the king of france from 1129 coruling with his father louis vi. his mother was louis vis second wife adelaide of maurienne. the favourite son of his father as a child philip was enthroned alongside louis vi as joint king in 1129. however the young king gave his father little joy after that refusing to pay attention to the old king or to follow the high standards that louis himself followed. he became disobedient refusing to heed scoldings or warnings walter map said that he strayed from the paths of conduct travelled by his father and by his overweening pride and tyrannical arrogance made himself a burden to all. philips brief period as king was ended two years after his coronation. riding with a group of companions along the seine in the parisian market section named the greve his running horse was tripped by a black pig which darted out of a dung heap on the quay. the horse fell forwards and the young king was catapulted over its head. the fall so dreadfully fractured his limbs that he died on the day following without regaining consciousness. he was buried at st denis and succeeded as heir and coking by his pious brother louis the younger now known as louis vii. if philip had been little other than trouble and a problem to his family and kingdom whilst he had lived his legacy would prove greater trouble still. whilst he had lived he had nurtured a dream of visiting jerusalem and the tomb of christ when he died his brother louis vii vowed to go in philips place. this vow would provide a reason for louis joining the disastrous second crusade and an excuse to abandon antioch in favour of jerusalem. the crusade brought many deaths on both sides and the abandonment of antioch proved a strategic failure and a partial cause for the collapse of the marriage between louis and his wife eleanor of aquitaine. because he was coking rather than a king in his own right he is not generally given a number in the succession of kings of france. 
+
+Coref Resolved : 
+philip 29 august 1116 13 october 1131 was the king of france from 1129 coruling with philip father louis vi. philip mother was his father louis visecond wife adelaide of maurienne. the favourite son of philip father as a child philip was enthroned alongside his father louis vias joint king in 1129 . however philip gave philip father little joy after that refusing to pay attention to his father louis vior to follow the high standards that louis his father louis vifollowed. philip became disobedient refusing to heed scoldings or warnings walter map said that philip strayed from the paths of conduct travelled by philip father and by philip overweening pride and tyrannical arrogance made philip a burden to all. philip brief period as king was ended two years after philip coronation. riding with a group of companions along the seine in the parisian market section named the greve philip running horse was tripped by a black pig which darted out of a dung heap on the quay. his running horse fell forwards and philip was catapulted over his running horse head. the fall so dreadfully fractured philip limbs that philip died on the day following without regaining consciousness. philip was buried at st denis and succeeded as heir and coking by philip pious brother louis the younger now known as louis vii. if philip had been little other than trouble and a problem to philip family and kingdom whilst philip had lived philip legacy would prove greater trouble still. whilst philip had lived philip had nurtured a dream of visiting jerusalem and the tomb of christ when philip died philip brother louis vii this vow to go in philip place. this vow would provide a reason for his pious brother louis the younger now known as louis viijoining the disastrous second crusade and an excuse to abandon antioch in favour of jerusalem . the disastrous second crusade brought many deaths on both sides and the abandonment of antioch proved a strategic failure and a partial cause for the collapse of the marriage between his pious brother louis the younger now known as louis viiand his pious brother louis the younger now known as louis viiwife eleanor of aquitaine. because his pious brother louis the younger now known as louis viiwas coking rather than a king in his pious brother louis the younger now known as louis viiown right his pious brother louis the younger now known as louis viiis not generally given a number in the succession of kings of france .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16666666666666666 and for ground truth is : 0.18461538461538463
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,46 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Bologna_sausage and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Auto_racing and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Bologna_sausage and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Auto_racing and the value is : 0
+http://dbpedia.org/resource/Bologna_sausage and http://dbpedia.org/resource/Auto_racing and the value is : 0
+http://dbpedia.org/resource/FIA_GT_Championship and http://dbpedia.org/resource/European_Le_Mans_Series and the value is : 1
+http://dbpedia.org/resource/FIA_GT_Championship and http://dbpedia.org/resource/International_GT_Open and the value is : 0
+http://dbpedia.org/resource/FIA_GT_Championship and http://dbpedia.org/resource/Italian_GT_Championship and the value is : 1
+http://dbpedia.org/resource/FIA_GT_Championship and http://dbpedia.org/resource/2008_24_Hours_of_Le_Mans and the value is : 1
+http://dbpedia.org/resource/European_Le_Mans_Series and http://dbpedia.org/resource/International_GT_Open and the value is : 0
+http://dbpedia.org/resource/European_Le_Mans_Series and http://dbpedia.org/resource/Italian_GT_Championship and the value is : 0
+http://dbpedia.org/resource/European_Le_Mans_Series and http://dbpedia.org/resource/2008_24_Hours_of_Le_Mans and the value is : 0
+http://dbpedia.org/resource/International_GT_Open and http://dbpedia.org/resource/Italian_GT_Championship and the value is : 1
+http://dbpedia.org/resource/International_GT_Open and http://dbpedia.org/resource/2008_24_Hours_of_Le_Mans and the value is : 0
+http://dbpedia.org/resource/Italian_GT_Championship and http://dbpedia.org/resource/2008_24_Hours_of_Le_Mans and the value is : 0
+http://dbpedia.org/resource/International_Formula_3000 and http://dbpedia.org/resource/Sports_car_racing and the value is : 0
+http://dbpedia.org/resource/FIA_GT_Championship and http://dbpedia.org/resource/Chrysler and the value is : 0
+http://dbpedia.org/resource/FIA_GT_Championship and http://dbpedia.org/resource/Viperinae and the value is : 0
+http://dbpedia.org/resource/FIA_GT_Championship and http://dbpedia.org/resource/Larbre_Compétition and the value is : 0
+http://dbpedia.org/resource/Chrysler and http://dbpedia.org/resource/Viperinae and the value is : 0
+http://dbpedia.org/resource/Chrysler and http://dbpedia.org/resource/Larbre_Compétition and the value is : 0
+http://dbpedia.org/resource/Viperinae and http://dbpedia.org/resource/Larbre_Compétition and the value is : 0
+http://dbpedia.org/resource/Chrysler and http://dbpedia.org/resource/Viperinae and the value is : 0
+http://dbpedia.org/resource/Chrysler and http://dbpedia.org/resource/Larbre_Compétition and the value is : 1
+http://dbpedia.org/resource/Viperinae and http://dbpedia.org/resource/Larbre_Compétition and the value is : 0
+http://dbpedia.org/resource/Racing and http://dbpedia.org/resource/FIA_GT_Championship and the value is : 1
+http://dbpedia.org/resource/Racing and http://dbpedia.org/resource/European_Le_Mans_Series and the value is : 1
+http://dbpedia.org/resource/FIA_GT_Championship and http://dbpedia.org/resource/European_Le_Mans_Series and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+thomas biagi born 28 april 1972 in bologna italy is an italian professional racing driver. he has competed in such series as the fia gt championship the european le mans series the international gt open the italian gt championship and the 24 hours of le mans. biagi began his career in karting in 1988 and moved up to singleseaters in 1991. he competed in the italian formula three championship from 1992 to 1994 and then moved to the international formula 3000 championship in 1995. he raced in the series until 1998 when he switched to sports car racing. biagi made his debut in the fia gt championship in 1999 driving a chrysler viper gtsr for the larbre compétition team. he finished third in the championship that year and went on to win the championship in 2000. he also won the 24 hours of le mans in 2001 driving a chrysler viper gtsr for the same team. biagi continued to race in the fia gt championship until 2003 when he switched to the european le mans series. he won the championship in 2004 and 
+
+Coref Resolved : 
+thomas biagi born 28 april 1972 in bologna italy is an italian professional racing driver. biagi has competed in such series as the fia gt championship the european le mans series the international gt open the italian gt championship and the 24 hours of le mans. biagi began biagi career in karting in 1988 and moved up to singleseaters in 1991. biagi competed in the italian formula three championship from 1992 to 1994 and then moved to the international formula 3000 championship in 1995. biagi raced in the international formula 3000 championship until 1998 when biagi switched to sports car racing. biagi made biagi debut in the fia gt championship in that year driving a chrysler viper gtsr for the larbre compétition team. biagi finished third in the championship that year and went on to win the championship in 2000. biagi also won the 24 hours of le mansin 2001 driving a chrysler viper gtsr for the larbre compétition team. biagi continued to race in the fia gt championship until 2003 when biagi switched to the european le mans series . biagi won the championship in 2004 and
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.27586206896551724
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate accurate major_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

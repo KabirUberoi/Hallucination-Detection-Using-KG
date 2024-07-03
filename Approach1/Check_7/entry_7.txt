@@ -1,0 +1,94 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Australia_national_soccer_team and the value is : 1
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australia_national_soccer_team and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Australia_national_soccer_team and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/Association_football and http://dbpedia.org/resource/Canadian_National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/National_Soccer_League and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/National_Soccer_League and http://dbpedia.org/resource/Canadian_National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Sydney_Olympic_FC and http://dbpedia.org/resource/Canadian_National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/National_Soccer_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 1
+http://dbpedia.org/resource/National_Soccer_League and http://dbpedia.org/resource/Sydney_Olympic_FC and the value is : 0
+http://dbpedia.org/resource/Canadian_National_Soccer_League and http://dbpedia.org/resource/NSL_Cup and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Australia_national_soccer_team and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Newcastle_Breakers_FC and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Central_Coast_Mariners_FC and the value is : 0
+http://dbpedia.org/resource/Australia_national_soccer_team and http://dbpedia.org/resource/Newcastle_Breakers_FC and the value is : 1
+http://dbpedia.org/resource/Australia_national_soccer_team and http://dbpedia.org/resource/Central_Coast_Mariners_FC and the value is : 0
+http://dbpedia.org/resource/Newcastle_Breakers_FC and http://dbpedia.org/resource/Central_Coast_Mariners_FC and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Association_football and the value is : 0
+http://dbpedia.org/resource/Head_coach and http://dbpedia.org/resource/Central_Coast_Mariners_Academy and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/St_Kilda_Football_Club and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/St_Kilda_Football_Club and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/St_Kilda_Football_Club and the value is : 1
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/St_Kilda_Football_Club and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/St_Kilda_Football_Club and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Nucleotide and the value is : 0
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Derek_King and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/St_Kilda_Football_Club and http://dbpedia.org/resource/Nucleotide and the value is : 0
+http://dbpedia.org/resource/St_Kilda_Football_Club and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/St_Kilda_Football_Club and http://dbpedia.org/resource/Victorian_Football_League and the value is : 1
+http://dbpedia.org/resource/Nucleotide and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Nucleotide and http://dbpedia.org/resource/Victorian_Football_League and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Victorian_Football_League and the value is : 1
+http://dbpedia.org/resource/Australian_rules_football_positions and http://dbpedia.org/resource/Western_Australia_Australian_rules_football_team and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football_positions and http://dbpedia.org/resource/Swan and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football_positions and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football_positions and http://dbpedia.org/resource/Oakleigh_Football_Club and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football_positions and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Western_Australia_Australian_rules_football_team and http://dbpedia.org/resource/Swan and the value is : 0
+http://dbpedia.org/resource/Western_Australia_Australian_rules_football_team and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/Western_Australia_Australian_rules_football_team and http://dbpedia.org/resource/Oakleigh_Football_Club and the value is : 0
+http://dbpedia.org/resource/Western_Australia_Australian_rules_football_team and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Swan and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Swan and http://dbpedia.org/resource/Oakleigh_Football_Club and the value is : 0
+http://dbpedia.org/resource/Swan and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Electoral_district and http://dbpedia.org/resource/Oakleigh_Football_Club and the value is : 0
+http://dbpedia.org/resource/Electoral_district and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Oakleigh_Football_Club and http://dbpedia.org/resource/Australian_rules_football and the value is : 1
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Oakleigh_Football_Club and the value is : 0
+http://dbpedia.org/resource/Australian_rules_football and http://dbpedia.org/resource/Liston_(square) and the value is : 0
+http://dbpedia.org/resource/Oakleigh_Football_Club and http://dbpedia.org/resource/Liston_(square) and the value is : 0
+http://dbpedia.org/resource/Phonograph_record and http://dbpedia.org/resource/Liston_(square) and the value is : 0
+http://dbpedia.org/resource/Caulfield_Football_Club and http://dbpedia.org/resource/Liston_(square) and the value is : 1
+http://dbpedia.org/resource/Clinton_King and http://dbpedia.org/resource/Australian_Football_League and the value is : 0
+http://dbpedia.org/resource/Cancer and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+derek king born 28 april 1965 australian professional footballer played midfielder . best known time national soccer league nsl club sydney olympic won nsl championship 2002 . king began career nsl sydney olympic 1989 . team won nsl championship 2002 team won nsl cup 2000 . regular starter club making 200 appearances nsl . king successful career australian premier league playing newcastle breakers central coast mariners . mariners team won apl championship 2005 . king retired professional football 2006 successful career spanning 17 years . coach currently head coach central coast mariners academy . 
+
+Coref Resolved : 
+derek king born 28 april 1965 australian professional footballer played midfielder . best known time national soccer league nsl club sydney olympic won nsl championship 2002 . derek king began career nsl sydney olympic 1989 . team won nsl championship 2002 team won nsl cup 2000 . regular starter club making 200 appearances nsl . derek king successful career australian premier league playing newcastle breakers central coast mariners . mariners team won apl championship 2005 . derek king retired professional football 2006 successful career spanning 17 years . coach currently head coach central coast mariners academy .
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+derek king 7 september 1948 28 april 2014 australian rules footballer played st kilda victorian football league vfl late 1960s . king came st kilda senior making way thirds nt establish vfl . rover played briefly western australia swan districts joining oakleigh victorian football association . played best football oakleigh winning association best fairest awards divisions j. j. liston trophy 1975 second divisions j. field trophy 1977 polled record 67 votes . placed second single vote liston trophy 1976 1970 . transferred division team caulfield 1978 placed liston trophy 1980 . son clinton king afl player separate clubs . died cancer 28 april 2014 aged 65 . 
+
+Coref Resolved : 
+derek king 7 september 1948 28 april 2014 australian rules footballer played st kilda victorian football league vfl late 1960s . derek king came st kilda senior making way thirds nt establish st kilda victorian football league vfl . rover played briefly western australia swan districts joining oakleigh victorian football association . played best football oakleigh victorian football association winning association best fairest awards divisions j. j. liston trophy 1975 second divisions j. field trophy 1977 polled record 67 votes . placed second single vote liston trophy 1976 1970 . transferred division team caulfield 1978 placed liston trophy 1980 . son clinton king afl player separate clubs . died cancer 28 april 2014 aged 65 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16666666666666666 and for ground truth is : 0.2619047619047619
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

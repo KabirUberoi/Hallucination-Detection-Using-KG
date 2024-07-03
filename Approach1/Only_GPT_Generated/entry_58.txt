@@ -1,0 +1,109 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Breaststroke and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Breaststroke and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Breaststroke and the value is : 1
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Breaststroke and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Pan_American_Games and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Guadalajara and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Mexico_women's_national_football_team and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Pan_American_Games and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Guadalajara and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Mexico_women's_national_football_team and the value is : 1
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Pan_American_Games and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Guadalajara and the value is : 1
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Mexico_women's_national_football_team and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Pan_American_Games and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Guadalajara and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Mexico_women's_national_football_team and the value is : 0
+http://dbpedia.org/resource/Relay_race and http://dbpedia.org/resource/Pan_American_Games and the value is : 0
+http://dbpedia.org/resource/Relay_race and http://dbpedia.org/resource/Guadalajara and the value is : 0
+http://dbpedia.org/resource/Relay_race and http://dbpedia.org/resource/Mexico_women's_national_football_team and the value is : 0
+http://dbpedia.org/resource/Pan_American_Games and http://dbpedia.org/resource/Guadalajara and the value is : 0
+http://dbpedia.org/resource/Pan_American_Games and http://dbpedia.org/resource/Mexico_women's_national_football_team and the value is : 0
+http://dbpedia.org/resource/Guadalajara and http://dbpedia.org/resource/Mexico_women's_national_football_team and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Oakville_GO_Station and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Oakville_GO_Station and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Oakville_GO_Station and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Oakville_GO_Station and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Oakville_GO_Station and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Oakville_GO_Station and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/White_Oaks_Secondary_School and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Oakville_GO_Station and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/White_Oaks_Secondary_School and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Oakville_GO_Station and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/White_Oaks_Secondary_School and http://dbpedia.org/resource/Oakville_GO_Station and the value is : 0
+http://dbpedia.org/resource/White_Oaks_Secondary_School and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Oakville_GO_Station and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/UBC_Thunderbirds and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/UBC_Thunderbirds and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Canadian_Figure_Skating_Championships and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Breaststroke and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Canadian_Figure_Skating_Championships and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Breaststroke and the value is : 0
+http://dbpedia.org/resource/Canadian_Figure_Skating_Championships and http://dbpedia.org/resource/Breaststroke and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Breaststroke and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/United_States_Olympic_Trials_(track_and_field) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Breaststroke and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/United_States_Olympic_Trials_(track_and_field) and the value is : 0
+http://dbpedia.org/resource/Breaststroke and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Breaststroke and http://dbpedia.org/resource/United_States_Olympic_Trials_(track_and_field) and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/United_States_Olympic_Trials_(track_and_field) and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Silver_medal and the value is : 1
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Breaststroke and the value is : 0
+http://dbpedia.org/resource/Tera_van_Beilen and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Breaststroke and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Paralympic_swimming and the value is : 1
+http://dbpedia.org/resource/Silver_medal and http://dbpedia.org/resource/Breaststroke and the value is : 0
+http://dbpedia.org/resource/Silver_medal and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Breaststroke and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+tera van beilen born april 28 1992 is a canadian competitive swimmer. she won a bronze medal in the 100metre breaststroke at the 2012 summer olympics in london. she also won a gold medal in the 4100metre medley relay at the 2011 pan american games in guadalajara mexico. van beilen was born in oakville ontario. she began swimming at the age of five and was a member of the oakville aquatic club. she attended white oaks secondary school in oakville. she is currently a student at the university of british columbia. van beilen is a twotime canadian national champion in the 100metre breaststroke. she won the event at the 2011 canadian swimming championships and the 2012 canadian olympic trials. she also won a silver medal in the 200metre breaststroke at the 2011 canadian swimming championships. 
+
+Coref Resolved : 
+tera van beilen born april 28 1992 is a canadian competitive swimmer. tera van beilen born april 28 1992 won a bronze medal in the 100metre breaststroke at the 2012 summer olympics in london. tera van beilen born april 28 1992 also won a gold medal in the 4100metre medley relay at the 2011 pan american games in guadalajara mexico. tera van beilen born april 28 1992 was born in oakville ontario. tera van beilen born april 28 1992 began swimming at the age of five and was a member of the oakville ontarioaquatic club. tera van beilen born april 28 1992 attended white oaks secondary school in oakville ontario. tera van beilen born april 28 1992 is currently a student at the university of british columbia. tera van beilen born april 28 1992 is a twotime canadian national champion in the 100metre breaststroke . tera van beilen born april 28 1992 won the 100metre breaststroke at the 2011 canadian swimming championships and the 2012 canadian olympic trials. tera van beilen born april 28 1992 also won a silver medal in the 200metre breaststroke at the 2011 canadian swimming championships .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16304347826086957
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

@@ -1,0 +1,97 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Politics_of_Canada and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/Politics_of_Canada and http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and the value is : 0
+http://dbpedia.org/resource/Politics_of_Canada and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 1
+http://dbpedia.org/resource/Legislative_Assembly_of_Quebec and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Scotland and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/1921_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and http://dbpedia.org/resource/1921_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/1926_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/1930_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/1926_Alberta_general_election and http://dbpedia.org/resource/1930_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/United_Farmers_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Caucus and the value is : 0
+http://dbpedia.org/resource/United_Farmers_of_Alberta and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/United_Farmers_of_Alberta and http://dbpedia.org/resource/Caucus and the value is : 0
+http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and http://dbpedia.org/resource/Caucus and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Rural_area and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/Rural_area and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Provinces_and_territories_of_Canada and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Natural_resource and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Alberta_Wheat_Pool and the value is : 0
+http://dbpedia.org/resource/Provinces_and_territories_of_Canada and http://dbpedia.org/resource/Natural_resource and the value is : 0
+http://dbpedia.org/resource/Provinces_and_territories_of_Canada and http://dbpedia.org/resource/Alberta_Wheat_Pool and the value is : 0
+http://dbpedia.org/resource/Natural_resource and http://dbpedia.org/resource/Alberta_Wheat_Pool and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Tax and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Beechmount and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Merchant and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Alderman and the value is : 1
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Edmonton and the value is : 0
+http://dbpedia.org/resource/Merchant and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Merchant and http://dbpedia.org/resource/Alberta and the value is : 0
+http://dbpedia.org/resource/Merchant and http://dbpedia.org/resource/Alderman and the value is : 0
+http://dbpedia.org/resource/Merchant and http://dbpedia.org/resource/Edmonton and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Alberta and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Alderman and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Edmonton and the value is : 0
+http://dbpedia.org/resource/Alberta and http://dbpedia.org/resource/Alderman and the value is : 0
+http://dbpedia.org/resource/Alberta and http://dbpedia.org/resource/Edmonton and the value is : 0
+http://dbpedia.org/resource/Alderman and http://dbpedia.org/resource/Edmonton and the value is : 0
+http://dbpedia.org/resource/Province_of_Canada and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Province_of_Canada and http://dbpedia.org/resource/John_Cameron_of_Lochiel and the value is : 0
+http://dbpedia.org/resource/Province_of_Canada and http://dbpedia.org/resource/Merchant and the value is : 0
+http://dbpedia.org/resource/Province_of_Canada and http://dbpedia.org/resource/Manitoba and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/John_Cameron_of_Lochiel and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Merchant and the value is : 0
+http://dbpedia.org/resource/Ontario and http://dbpedia.org/resource/Manitoba and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Merchant and the value is : 1
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Manitoba and the value is : 0
+http://dbpedia.org/resource/Merchant and http://dbpedia.org/resource/Manitoba and the value is : 0
+http://dbpedia.org/resource/David_Cameron and http://dbpedia.org/resource/Merchant and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Board_of_education and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Edmonton_Public_Schools and the value is : 0
+http://dbpedia.org/resource/Board_of_education and http://dbpedia.org/resource/Edmonton_Public_Schools and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Election and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Edmonton_City_Council and the value is : 0
+http://dbpedia.org/resource/Election and http://dbpedia.org/resource/Edmonton_City_Council and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Coal_mining and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Real_estate and the value is : 0
+http://dbpedia.org/resource/Coal_mining and http://dbpedia.org/resource/Real_estate and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Neighbourhood and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Ravine and the value is : 0
+http://dbpedia.org/resource/Neighbourhood and http://dbpedia.org/resource/Ravine and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john cameron 18601937 was a canadian politician who served in the legislative assembly of alberta from 1921 to 1935. he was born in scotland and immigrated to canada in 1883. cameron was first elected to the alberta legislature in the 1921 alberta general election. he was reelected in the 1926 alberta general election and the 1930 alberta general election. he served as a member of the united farmers of alberta caucus. cameron was a strong advocate for rural alberta and was a vocal opponent of the provincial governments policy of centralization. he was a proponent of the development of the provinces natural resources and was a strong supporter of the alberta wheat pool. he was also a strong advocate for the rights of farmers and was a vocal opponent of the alberta governments policy of taxation. cameron retired from politics in 1935 and died in 1937. he was buried in edmontons beechmount cemetery. 
+
+Coref Resolved : 
+john cameron 18601937 was a canadian politician who served in the legislative assembly of alberta from 1921 to 1935. john cameron 18601937 was born in scotland and immigrated to canada in 1883. john cameron 18601937 was first elected to the alberta legislature in the 1921 alberta general election. john cameron 18601937 was reelected in the 1926 alberta general election and the 1930 alberta general election. john cameron 18601937 served as a member of the united farmers of alberta caucus. john cameron 18601937 was a strong advocate for rural alberta and was a vocal opponent of the provincial governments policy of centralization. john cameron 18601937 was a proponent of the development of the provinces natural resources and was a strong supporter of the alberta wheat pool. john cameron 18601937 was also a strong advocate for the rights of farmers and was a vocal opponent of the provincial governments policy of taxation. john cameron 18601937 retired from politics in 1935and died in 1937. john cameron 18601937 was buried in edmontons beechmount cemetery.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+john cameron may 28 1846 october 6 1919 was a merchant and politician in alberta canada and a municipal councillor in edmonton. he is regarded as one of the citys pioneer citizens. born in canada west later ontario cameron worked as a merchant in his birth province and manitoba before coming to edmonton in 1881. in edmonton he continued as a merchant owning and operating a store for 15 years. he quickly established himself as a prominent citizen serving on the inaugural edmonton board of trade as president which he remained for five years. cameron was also involved in the development of the edmonton public school board serving on the board in the 1890s. he was also involved in the towns politics winning election to edmontons first town council in 1892 and serving an additional term when elected in 1895. after his retirement from politics he worked in the coal and real estate business until his death in 1919 at the age of 73. upon his death he was lauded as one of the pioneer citizens of edmonton a street neighbourhood and ravine were named for him. 
+
+Coref Resolved : 
+john cameron may 28 1846 october 6 1919 was a merchant and politician in alberta canada and a municipal councillor in edmonton. john cameron is regarded as one of edmontonpioneer citizens. born in canada west later ontario john cameron worked as a merchant in john cameron birth province and manitoba before coming to edmontonin 1881. in edmontonjohn cameron continued as a merchant owning and operating a store for 15 years. john cameron quickly established john cameron as a prominent citizen serving on the inaugural edmontonboard of trade as president which john cameron remained for five years. john cameron was also involved in the development of the edmontonpublic school board serving on the edmonton public school board in the 1890s. john cameron was also involved in the towns politics winning election to edmontonfirst town council in 1892 and serving an additional term when elected in 1895. after john cameron retirement from politics john cameron worked in the coal and real estate business until john cameron death in 1919 at the age of 73. upon john cameron death john cameron was lauded as one of the pioneer citizens of edmontona street neighbourhood and ravine were named for john cameron .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.03333333333333333 and for ground truth is : 0.10256410256410256
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate accurate 
+

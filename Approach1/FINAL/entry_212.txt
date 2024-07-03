@@ -1,0 +1,131 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/Blog and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Blog and the value is : 1
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/Blog and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Virginia and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Virginia and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Virginia and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Debt and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Mortgage_loan and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Debt and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Mortgage_loan and the value is : 0
+http://dbpedia.org/resource/Debt and http://dbpedia.org/resource/Mortgage_loan and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Bankruptcy and the value is : 1
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Bankruptcy and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 1
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Foreclosure and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Foreclosure and the value is : 0
+http://dbpedia.org/resource/Blog and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 1
+http://dbpedia.org/resource/Blog and http://dbpedia.org/resource/Foreclosure and the value is : 0
+http://dbpedia.org/resource/Real_estate_entrepreneur and http://dbpedia.org/resource/Foreclosure and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Same-sex_marriage and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Same-sex_marriage and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/February_11 and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/February_11 and http://dbpedia.org/resource/Blog and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Serinus and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/Serinus and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/Serinus and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 1
+http://dbpedia.org/resource/Blog and http://dbpedia.org/resource/Real_estate_entrepreneur and the value is : 0
+http://dbpedia.org/resource/Newspaper and http://dbpedia.org/resource/No_Gun_Ri_massacre and the value is : 0
+http://dbpedia.org/resource/Newspaper and http://dbpedia.org/resource/USA_Today and the value is : 0
+http://dbpedia.org/resource/Newspaper and http://dbpedia.org/resource/Casey_Demons and the value is : 0
+http://dbpedia.org/resource/Newspaper and http://dbpedia.org/resource/Serinus and the value is : 0
+http://dbpedia.org/resource/Newspaper and http://dbpedia.org/resource/Poster_child and the value is : 0
+http://dbpedia.org/resource/Newspaper and http://dbpedia.org/resource/Real_estate and the value is : 0
+http://dbpedia.org/resource/Newspaper and http://dbpedia.org/resource/Business_cycle and the value is : 0
+http://dbpedia.org/resource/No_Gun_Ri_massacre and http://dbpedia.org/resource/USA_Today and the value is : 0
+http://dbpedia.org/resource/No_Gun_Ri_massacre and http://dbpedia.org/resource/Casey_Demons and the value is : 0
+http://dbpedia.org/resource/No_Gun_Ri_massacre and http://dbpedia.org/resource/Serinus and the value is : 0
+http://dbpedia.org/resource/No_Gun_Ri_massacre and http://dbpedia.org/resource/Poster_child and the value is : 0
+http://dbpedia.org/resource/No_Gun_Ri_massacre and http://dbpedia.org/resource/Real_estate and the value is : 0
+http://dbpedia.org/resource/No_Gun_Ri_massacre and http://dbpedia.org/resource/Business_cycle and the value is : 0
+http://dbpedia.org/resource/USA_Today and http://dbpedia.org/resource/Casey_Demons and the value is : 0
+http://dbpedia.org/resource/USA_Today and http://dbpedia.org/resource/Serinus and the value is : 0
+http://dbpedia.org/resource/USA_Today and http://dbpedia.org/resource/Poster_child and the value is : 0
+http://dbpedia.org/resource/USA_Today and http://dbpedia.org/resource/Real_estate and the value is : 0
+http://dbpedia.org/resource/USA_Today and http://dbpedia.org/resource/Business_cycle and the value is : 1
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Serinus and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Poster_child and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Real_estate and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Business_cycle and the value is : 0
+http://dbpedia.org/resource/Serinus and http://dbpedia.org/resource/Poster_child and the value is : 0
+http://dbpedia.org/resource/Serinus and http://dbpedia.org/resource/Real_estate and the value is : 0
+http://dbpedia.org/resource/Serinus and http://dbpedia.org/resource/Business_cycle and the value is : 0
+http://dbpedia.org/resource/Poster_child and http://dbpedia.org/resource/Real_estate and the value is : 0
+http://dbpedia.org/resource/Poster_child and http://dbpedia.org/resource/Business_cycle and the value is : 0
+http://dbpedia.org/resource/Real_estate and http://dbpedia.org/resource/Business_cycle and the value is : 0
+http://dbpedia.org/resource/Tashkent and http://dbpedia.org/resource/Uzbekistan and the value is : 0
+http://dbpedia.org/resource/Tashkent and http://dbpedia.org/resource/Casey_Demons and the value is : 0
+http://dbpedia.org/resource/Tashkent and http://dbpedia.org/resource/Serinus and the value is : 0
+http://dbpedia.org/resource/Uzbekistan and http://dbpedia.org/resource/Casey_Demons and the value is : 0
+http://dbpedia.org/resource/Uzbekistan and http://dbpedia.org/resource/Serinus and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Serinus and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Serinus and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Web_design and the value is : 0
+http://dbpedia.org/resource/Serinus and http://dbpedia.org/resource/Web_design and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Serinus and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Serinus and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Foreclosure and the value is : 0
+http://dbpedia.org/resource/Serinus and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/Serinus and http://dbpedia.org/resource/Foreclosure and the value is : 0
+http://dbpedia.org/resource/Blog and http://dbpedia.org/resource/Foreclosure and the value is : 1
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Serinus and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Real_estate and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/Casey_Demons and http://dbpedia.org/resource/Subprime_mortgage_crisis and the value is : 0
+http://dbpedia.org/resource/Serinus and http://dbpedia.org/resource/Real_estate and the value is : 0
+http://dbpedia.org/resource/Serinus and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/Serinus and http://dbpedia.org/resource/Subprime_mortgage_crisis and the value is : 0
+http://dbpedia.org/resource/Real_estate and http://dbpedia.org/resource/Blog and the value is : 0
+http://dbpedia.org/resource/Real_estate and http://dbpedia.org/resource/Subprime_mortgage_crisis and the value is : 0
+http://dbpedia.org/resource/Blog and http://dbpedia.org/resource/Subprime_mortgage_crisis and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+casey serin born february 11 1984 is an american blogger and former real estate investor. he gained notoriety in 2006 when he began blogging about his experiences as a real estate investor. serin purchased eight properties in arizona california and virginia between 2004 and 2006 using a combination of subprime and stated income loans. he quickly became overwhelmed by the debt and was unable to make payments on the mortgages. he declared bankruptcy in 2008. serins blog which he began in 2006 documented his experiences with real estate investing and his attempts to avoid foreclosure. he also wrote about his personal life including his marriage and the birth of his daughter. his blog was widely read and attracted the attention of the media who reported on his financial struggles. 
+
+Coref Resolved : 
+casey serin born february 11 1984 is an american blogger and former real estate investor. casey serin born february 11 1984 gained notoriety in 2006 when casey serin born february 11 1984 began blogging about casey serin born february 11 1984 experiences as a real estate investor. casey serin born february 11 1984 purchased eight properties in arizona california and virginia between 2004 and 2006 using a combination of subprime and stated income loans. casey serin born february 11 1984 quickly became overwhelmed by the debt and was unable to make payments on the mortgages. casey serin born february 11 1984 declared bankruptcy in 2008. casey serin born february 11 1984 blog which casey serin born february 11 1984 began in 2006 documented casey serin born february 11 1984 experiences with real estate investing and casey serin born february 11 1984 attempts to avoid foreclosure. casey serin born february 11 1984 also wrote about casey serin born february 11 1984 personal life including casey serin born february 11 1984 marriage and the birth of casey serin born february 11 1984 daughter. casey serin born february 11 1984 blog was widely read and attracted the attention of the media who reported on casey serin born february 11 1984 financial struggles.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+casey konstantin serin born september 10 1982 is an uzbekborn american blogger and former real estate investor. in a newspaper article usa today called him the poster child for everything that went wrong in the real estate boom. born in tashkent uzbekistan serin immigrated to the united states in 1994. after graduating from high school serin bounced from job to job generally working in website design. however in his early twenties serin decided to quit working fulltime in order to pursue a career in house flipping as a means of earning an income and building wealth. in an eightmonth period beginning in october 2005 serin purchased eight houses in four southwest u.s. states and then began blogging about the foreclosure process on the properties he was unable to resell. in time five of the eight properties foreclosed. the dubious nature of serins real estate transactions coupled with his subsequent blogging about the affair have led to serins name becoming strongly associated with the subprime mortgage crisis. 
+
+Coref Resolved : 
+casey konstantin serin born september 10 1982 is an uzbekborn american blogger and former real estate investor. in a newspaper article usa today called casey konstantin serin born september 10 1982 the poster child for everything that went wrong in the real estate boom. born in tashkent uzbekistan casey konstantin serin born september 10 1982 immigrated to the united states in 1994. after graduating from high school casey konstantin serin born september 10 1982 bounced from job to job generally working in website design. however in casey konstantin serin born september 10 1982 early twenties casey konstantin serin born september 10 1982 decided to quit working fulltime in order to pursue a career in house flipping as a means of earning an income and building wealth. in an eightmonth period beginning in october 2005 casey konstantin serin born september 10 1982 purchased eight houses in four southwest u.s. states and then began blogging about the foreclosure process on the properties casey konstantin serin born september 10 1982 was unable to resell. in time five of eight houses in four southwest u.s. states foreclosed. the dubious nature of casey konstantin serin born september 10 1982 real estate transactions coupled with casey konstantin serin born september 10 1982 subsequent blogging about the affair have led to casey konstantin serin born september 10 1982 name becoming strongly associated with the subprime mortgage crisis.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2558139534883721 and for ground truth is : 0.05
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate accurate 
+

@@ -1,0 +1,40 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Indie_rock and the value is : 1
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/York and the value is : 1
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Brooklyn and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Brooklyn and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Matt_Schulz and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Indie_rock and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Post-punk and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Psychedelic_rock and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Post-punk and the value is : 0
+http://dbpedia.org/resource/Indie_rock and http://dbpedia.org/resource/Psychedelic_rock and the value is : 0
+http://dbpedia.org/resource/Post-punk and http://dbpedia.org/resource/Psychedelic_rock and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/South_by_Southwest and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/CMJ and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Pitchfork_Music_Festival and the value is : 0
+http://dbpedia.org/resource/South_by_Southwest and http://dbpedia.org/resource/CMJ and the value is : 0
+http://dbpedia.org/resource/South_by_Southwest and http://dbpedia.org/resource/Pitchfork_Music_Festival and the value is : 0
+http://dbpedia.org/resource/CMJ and http://dbpedia.org/resource/Pitchfork_Music_Festival and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/Biellmann_spin and the value is : 0
+http://dbpedia.org/resource/Winnebago_Deal and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Biellmann_spin and http://dbpedia.org/resource/York and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+winnebago deal is an american indie rock band from brooklyn new york. the band was formed in 2006 by singerguitaristsongwriterproducer chris diken and drummerproducerengineersongwritermultiinstrumentalist matt schulz. the band has released three fulllength albums two eps and a handful of singles. their sound has been described as a mix of indie rock postpunk and psychedelic rock. the band has toured extensively throughout the united states and europe playing shows with acts such as the national the walkmen the hold steady the black keys and the war on drugs. they have also performed at festivals such as sxsw cmj and the pitchfork music festival. winnebago deal has been featured in publications such as rolling stone spin and the new york times. 
+
+Coref Resolved : 
+winnebago deal is an american indie rock band from brooklyn new york. winnebago deal was formed in 2006 by singerguitaristsongwriterproducer chris diken and drummerproducerengineersongwritermultiinstrumentalist matt schulz. winnebago deal has released three fulllength albums two eps and a handful of singles. winnebago deal sound has been described as a mix of indie rock postpunk and psychedelic rock. winnebago deal has toured extensively throughout the united states and europe playing shows with acts such as the national the walkmen the hold steady the black keys and the war on drugs. winnebago deal have also performed at festivals such as sxsw cmj and the pitchfork music festival. winnebago deal has been featured in publications such as rolling stone spin and the new york times.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.13043478260869565
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate accurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

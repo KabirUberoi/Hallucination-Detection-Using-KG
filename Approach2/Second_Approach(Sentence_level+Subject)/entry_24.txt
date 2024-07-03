@@ -1,0 +1,126 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco_Bay_Area and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/The_Frustrators and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Punk_rock and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Charity_supergroup and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/The_Coverups and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/The_Eyeliners and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/The_Dollyrots and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Muskoka_Lakes and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Laura_San_Giacomo and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Palo_Alto,_California and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Allison_Robertson and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Tendinopathy and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Tendinopathy and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Shoulder_problem and http://dbpedia.org/resource/Spanish_language and the value is : 0
+http://dbpedia.org/resource/Shoulder_problem and http://dbpedia.org/resource/San_Francisco and the value is : 0
+http://dbpedia.org/resource/Shoulder_problem and http://dbpedia.org/resource/Los_Angeles_Angels and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Greatest_hits_album and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Santa_Monica_College and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/San_Francisco and the value is : 1
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Stanford_University and the value is : 0
+http://dbpedia.org/resource/Spanish_language and http://dbpedia.org/resource/Harvard_Law_School and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Torry Castellano (born August 21, 1979) is an American musician, best known as the drummer for the punk rock band The Donnas.
+She was born in Los Angeles, California and grew up in the San Francisco Bay Area.
+Castellano began playing drums at the age of 11, and joined The Donnas in 1993, when she was 14.
+She has been the band's drummer ever since.
+Castellano has also been involved in other musical projects, including the all-female punk band The Frustrators, and the punk rock supergroup The Coverups.
+She has also done session work for other bands, including The Eyeliners and The Dollyrots.
+
+
+Coref Resolved: 
+
+Torry Castellano (born August 21, 1979) is an American musician, best known as the drummer for the punk rock band The Donnas.
+Torry Castellano was born in Los Angeles, California and grew up in the San Francisco Bay Area.
+Torry Castellano began playing drums at the age of 11, and joined the punk rock band The Donnasin 1993, when Torry Castellano was 14.
+Torry Castellano has been the punk rock band The Donnasdrummer ever since.
+Torry Castellano has also been involved in other musical projects, including the all-female punk band The Frustrators, and the punk rock supergroup The Coverups.
+Torry Castellano has also done session work for other bands, including The Eyeliners and The Dollyrots.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Torrance Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) is the former drummer of The Donnas, announcing her retirement in July 2010.
+She is the cousin of actress Laura San Giacomo.
+Early in her childhood, she moved to Palo Alto, California, where she met her bandmates.
+She was asked to be part of the band by Allison Robertson, and agreed even though she did not have any experience.
+The band rehearsed every day in her garage.
+Before the release of The Donnas' album "Gold Medal", Castellano developed tendonitis.
+In October 2003, she had surgery for it.
+During her recovery, she had to take drum lessons to re-learn to hold drumsticks the correct way.
+For "Gold Medal", she recorded with her recovering wrists, but could only play for short periods of time.
+A shoulder problem forced Castellano to withdraw from The Donnas' tour following a show on December 27, 2008, at the House of Blues in Anaheim, CA.
+Amy Cesari of the band The Demonics filled in on future tour dates.
+On July 9, 2010, Castellano announced on the band's website that due to her shoulder she would have to retire from drumming and performing with The Donnas.
+Castellano still attended events the band was involved with as well as promoted the last album she recorded with the band, "Greatest Hits Volume 16".
+She attended Santa Monica College before transferring to Stanford University, where she was in the Class of 2013 and majored in Political Science.
+Castellano graduated from Stanford with distinction and will attend Harvard Law School starting in the fall of 2013.
+ 
+
+Coref Resolved: 
+
+Torrance Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) is the former drummer of The Donnas, announcing Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) retirement in July 2010.
+Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) is the cousin of actress Laura San Giacomo.
+Early in Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) childhood, Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) moved to Palo Alto, California, where Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) met Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) bandmates.
+Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) was asked to be part of The Donnasby Allison Robertson, and agreed even though Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) did not have any experience.
+The Donnasrehearsed every day in Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) garage.
+Before the release of The Donnasalbum "Gold Medal", Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) developed tendonitis.
+In October 2003, Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) had surgery for tendonitis.
+During Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) recovery, Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) had to take drum lessons to re-learn to hold drumsticks the correct way.
+For "Gold Medal", Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) recorded with Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) recovering wrists, but could only play for short periods of time.
+A shoulder problem forced Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) to withdraw from The Donnastour following a show on December 27, 2008, at the House of Blues in Anaheim, CA.
+Amy Cesari of the band The Demonics filled in on future tour dates.
+On July 9, 2010, Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) announced on The Donnaswebsite that due to Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) shoulder Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) would have to retire from drumming and performing with The Donnas.
+Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) still attended events The Donnaswas involved with as well as promoted the last album Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) recorded with The Donnas, "Greatest Hits Volume 16".
+Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) attended Santa Monica College before transferring to Stanford University, where Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) was in the Class of 2013 and majored in Political Science.
+Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) graduated from Stanford University, where she was in the Class of 2013 and majored in Political Sciencewith distinction and will attend Harvard Law School starting in the fall of 2013.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 1.0 0.0 0.0 0.0 0.0 
+
+Value for ground truth is : 
+0.6666666666666666 0.5 1.0 0.6666666666666666 -1 0.5 0.5 1.0 1.0 0.0 -1 1.0 0.6666666666666666 0.5 0.3333333333333333 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate minor_inaccurate major_inaccurate major_inaccurate 
+

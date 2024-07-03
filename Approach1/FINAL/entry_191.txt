@@ -1,0 +1,76 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Hardcore_punk and http://dbpedia.org/resource/Direct_current and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Death_growl and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Electric_guitar and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Aaron_Dalbec and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Joe_Trohman and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Damian_Marley and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Death_growl and http://dbpedia.org/resource/Electric_guitar and the value is : 1
+http://dbpedia.org/resource/Death_growl and http://dbpedia.org/resource/Aaron_Dalbec and the value is : 0
+http://dbpedia.org/resource/Death_growl and http://dbpedia.org/resource/Joe_Trohman and the value is : 0
+http://dbpedia.org/resource/Death_growl and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Death_growl and http://dbpedia.org/resource/Damian_Marley and the value is : 0
+http://dbpedia.org/resource/Death_growl and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Aaron_Dalbec and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Joe_Trohman and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Damian_Marley and the value is : 0
+http://dbpedia.org/resource/Electric_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Joe_Trohman and the value is : 1
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Damian_Marley and the value is : 0
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Joe_Trohman and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Joe_Trohman and http://dbpedia.org/resource/Damian_Marley and the value is : 0
+http://dbpedia.org/resource/Joe_Trohman and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Damian_Marley and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Damian_Marley and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Hellfest_(French_music_festival) and http://dbpedia.org/resource/Groezrock and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Hardcore_punk and http://dbpedia.org/resource/Side_project and the value is : 0
+http://dbpedia.org/resource/Hardcore_punk and http://dbpedia.org/resource/Aaron_Dalbec and the value is : 1
+http://dbpedia.org/resource/Hardcore_punk and http://dbpedia.org/resource/Polyommatus_damon and the value is : 1
+http://dbpedia.org/resource/Side_project and http://dbpedia.org/resource/Aaron_Dalbec and the value is : 0
+http://dbpedia.org/resource/Side_project and http://dbpedia.org/resource/Polyommatus_damon and the value is : 0
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Polyommatus_damon and the value is : 0
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Dragonriders_of_Pern and the value is : 0
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Aaron_Bedard and the value is : 0
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Worcester and the value is : 1
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Aaron_Dalbec and http://dbpedia.org/resource/Hardcore_punk and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Worcester and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Aaron_Bedard and http://dbpedia.org/resource/Hardcore_punk and the value is : 0
+http://dbpedia.org/resource/Worcester and http://dbpedia.org/resource/Massachusetts and the value is : 0
+http://dbpedia.org/resource/Worcester and http://dbpedia.org/resource/Hardcore_punk and the value is : 0
+http://dbpedia.org/resource/Massachusetts and http://dbpedia.org/resource/Hardcore_punk and the value is : 0
+http://dbpedia.org/resource/Hardcore_punk and http://dbpedia.org/resource/Toleration and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+bane is a hardcore punk band from washington d.c. formed in 1995. the band consists of aaron bedard vocals zach jordan guitar aaron dalbec guitar joe trohman bass and damian genuardi drums. bane is known for their intense live shows and their positive lyrics. they have released five fulllength albums as well as several eps and splits. their most recent album dont wait up was released in 2014. the band has toured extensively throughout the united states europe and japan. they have also performed at festivals such as hellfest groezrock and sound and fury. 
+
+Coref Resolved : 
+bane is a hardcore punk band from washington d.c. formed in 1995. bane consists of aaron bedard vocals zach jordan guitar aaron dalbec guitar joe trohman bass and damian genuardi drums. bane is known for bane intense live shows and bane positive lyrics. bane have released five fulllength albums as well as several eps and splits. bane most recent album dont wait up was released in 2014. bane has toured extensively throughout the united states europe and japan. bane have also performed at festivals such as hellfest groezrock and sound and fury.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+bane is a hardcore punk band that began as a side project between aaron dalbec then of converge and damon bellardo. dalbec approached matt firestone to sing and they played under the moniker of gateway for a few shows before firestone parted ways to focus on other projects. dalbec then approached aaron bedard who had previously sung for the worcester massachusetts hardcore band backbone about singing for bane. they went into the studio in december 1995 with a few friends and released a fivesong demo. the next year saw the release of their first ep and many shows throughout central massachusetts. in early 1997 bane released the free to think free to be ep and in 1998 the band released the holding this moment 7 and cd collection and embarked upon their first us tour. like many other hardcore bands bane are known for their promotion of tolerance and unity within the scene. in 2014 bane released their final album dont wait up though the band has said they still plan to tour. 
+
+Coref Resolved : 
+bane is a hardcore punk band that began as a side project between aaron dalbec then of converge and damon bellardo. aaron dalbec then of converge approached matt firestone to sing and they played under the moniker of gateway for a few shows before matt firestone parted ways to focus on other projects. aaron dalbec then of converge then approached aaron bedard who had previously sung for the worcester massachusetts hardcore band backbone about singing for bane . they went into the studio in december 1995 with a few friends and released a fivesong demo. the next year saw the release of they first ep and many shows throughout central massachusetts. in early 1997 bane released the free to think free to be ep and in 1998 bane released the holding this moment 7 and cd collection and embarked upon they first us tour. like many other hardcore bands bane are known for bane promotion of tolerance and unity within the scene. in 2014 bane released bane final album dont wait up though bane has said bane still plan to tour.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.06666666666666667 and for ground truth is : 0.16666666666666666
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate accurate accurate 
+

@@ -1,0 +1,41 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Esumi_Station and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Esumi_Station and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Esumi_Station and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Esumi_Station and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Actor and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Japanese_television_drama and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Gokusen and the value is : 1
+http://dbpedia.org/resource/Japanese_television_drama and http://dbpedia.org/resource/Gokusen and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Tokyo and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Japanese_television_drama and the value is : 1
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Kamikaze and the value is : 0
+http://dbpedia.org/resource/Model_(person) and http://dbpedia.org/resource/Japanese_television_drama and the value is : 0
+http://dbpedia.org/resource/Model_(person) and http://dbpedia.org/resource/Kamikaze and the value is : 0
+http://dbpedia.org/resource/Japanese_television_drama and http://dbpedia.org/resource/Kamikaze and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Japanese_television_drama and the value is : 1
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Japan_Academy_Film_Prize and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Actor and the value is : 0
+http://dbpedia.org/resource/Japan_Academy_Film_Prize and http://dbpedia.org/resource/Actor and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+makiko esumi 江角真紀子 esumi makiko born april 8 1965 is a japanese actress and former fashion model. she is best known for her roles in the television series gokusen 20022005 and hanazakari no kimitachi e 2007. she has also appeared in several films including the awardwinning departures 2008. esumi was born in tokyo japan. she began her career as a fashion model in the 1980s and made her acting debut in the television drama series kaze no naka no shōjo 1991. she has since appeared in numerous television dramas films and stage productions. she won the japan academy prize for best supporting actress for her performance in departures. 
+
+Coref Resolved : 
+makiko esumi 江角真紀子 esumi makiko born april 8 1965 is a japanese actress and former fashion model. makiko esumi is best known for makiko esumi roles in the television series gokusen 20022005 and hanazakari no kimitachi e 2007. makiko esumi has also appeared in several films including the awardwinning departures 2008. makiko esumi was born in tokyo japan. makiko esumi began makiko esumi career as a fashion model in the 1980s and made makiko esumi acting debut in the television drama series kaze no naka no shōjo 1991. makiko esumi has since appeared in numerous television dramas films and stage productions. makiko esumi won the japan academy prize for best supporting actress for makiko esumi performance in the awardwinning departures 2008.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16666666666666666
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate accurate minor_inaccurate 
+

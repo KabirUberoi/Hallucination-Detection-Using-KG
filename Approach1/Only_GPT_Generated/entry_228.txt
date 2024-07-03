@@ -1,0 +1,33 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Financial_analyst and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Financial_analyst and http://dbpedia.org/resource/Entrepreneurship and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Entrepreneurship and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/The_Wall_Street_Journal and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Personal_finance and the value is : 0
+http://dbpedia.org/resource/The_Wall_Street_Journal and http://dbpedia.org/resource/Personal_finance and the value is : 0
+http://dbpedia.org/resource/Financial_services and http://dbpedia.org/resource/Stockbroker and the value is : 0
+http://dbpedia.org/resource/Financial_services and http://dbpedia.org/resource/Financial_analyst and the value is : 1
+http://dbpedia.org/resource/Stockbroker and http://dbpedia.org/resource/Financial_analyst and the value is : 0
+http://dbpedia.org/resource/Stock_market and http://dbpedia.org/resource/Mutual_fund and the value is : 1
+http://dbpedia.org/resource/The_Wall_Street_Journal and http://dbpedia.org/resource/Barron's_(newspaper) and the value is : 0
+http://dbpedia.org/resource/The_Wall_Street_Journal and http://dbpedia.org/resource/Money_(magazine) and the value is : 1
+http://dbpedia.org/resource/Barron's_(newspaper) and http://dbpedia.org/resource/Money_(magazine) and the value is : 0
+http://dbpedia.org/resource/CNBC and http://dbpedia.org/resource/Bloomberg_Television and the value is : 0
+http://dbpedia.org/resource/CNBC and http://dbpedia.org/resource/Fox_Business_Network and the value is : 0
+http://dbpedia.org/resource/Bloomberg_Television and http://dbpedia.org/resource/Fox_Business_Network and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john liscio born october 28 1951 is an american financial analyst author and entrepreneur. he is the founder and president of john liscio report a financial research and analysis firm. he is also the author of several books on investing including the wall street journal guide to understanding money investing the wall street journal guide to the new rules of personal finance and the wall street journal guide to understanding money investing. liscio began his career in the financial services industry in the early 1970s working as a stockbroker and financial analyst. he later founded his own firm john liscio report in 1982. the firm provides research and analysis on the stock market mutual funds and other investments. liscio has been featured in numerous publications including the wall street journal barrons and money magazine. he has also appeared on cnbc bloomberg tv and fox business news. 
+
+Coref Resolved : 
+john liscio born october 28 1951 is an american financial analyst author and entrepreneur. john liscio born october 28 1951 is the founder and president of john liscio report a financial research and analysis firm. john liscio born october 28 1951 is also the author of several books on investing including the wall street journal guide to understanding money investing the wall street journal guide to the new rules of personal finance and the wall street journal guide to understanding money investing. john liscio born october 28 1951 began john liscio born october 28 1951 career in the financial services industry in the early 1970s working as a stockbroker and financial analyst. john liscio born october 28 1951 later founded john liscio born october 28 1951 own firm john liscio report in 1982. john liscio report a financial research and analysis firmprovides research and analysis on the stock market mutual funds and other investments. john liscio born october 28 1951 has been featured in numerous publications including the wall street journal barrons and money magazine. john liscio born october 28 1951 has also appeared on cnbc bloomberg tv and fox business news.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.25
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate accurate minor_inaccurate accurate minor_inaccurate minor_inaccurate 
+

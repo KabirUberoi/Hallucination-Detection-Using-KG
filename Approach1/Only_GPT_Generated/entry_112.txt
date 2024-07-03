@@ -1,0 +1,54 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Record_producer and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/The_Lemonheads and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/Guitarist and http://dbpedia.org/resource/The_Lemonheads and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/The_Lemonheads and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Guitar and the value is : 1
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Massachusetts and the value is : 1
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Amherst_College and the value is : 1
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Music_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Massachusetts and http://dbpedia.org/resource/Amherst_College and the value is : 0
+http://dbpedia.org/resource/Massachusetts and http://dbpedia.org/resource/Music_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Massachusetts and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Amherst_College and http://dbpedia.org/resource/Music_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Amherst_College and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Music_of_Pakistan and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/York and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/City and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Alternative_rock and the value is : 1
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Bob_Dylan and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Songwriter and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Bob_Dylan and the value is : 0
+http://dbpedia.org/resource/Songwriter and http://dbpedia.org/resource/Bob_Dylan and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Alternative_rock and http://dbpedia.org/resource/Stearns_Steam_Carriage_Company and the value is : 0
+http://dbpedia.org/resource/Dan_Stearns and http://dbpedia.org/resource/Point_of_sale and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+dan stearns born october 28 1971 is an american musician songwriter and producer. he is best known as the lead singer and guitarist of the alternative rock band the lemonheads. stearns was born in boston massachusetts and grew up in the suburbs of boston. he began playing guitar at the age of 12 and by the time he was 15 he was playing in local bands. he attended the university of massachusetts amherst where he studied music and philosophy. after college he moved to new york city and formed the lemonheads in 1992. the lemonheads released their debut album hate your friends in 1987. the album was a critical and commercial success and the band went on to release several more albums over the next decade. stearns wrote and sang the majority of the bands songs and his songwriting style was often compared to that of bob dylan. in addition to his work with the lemonheads stearns has also released several solo albums and collaborated with other artists. he has also produced albums for other bands including the replacements and the pos 
+
+Coref Resolved : 
+dan stearns born october 28 1971 is an american musician songwriter and producer. dan stearns born october 28 1971 is best known as the lead singer and guitarist of the alternative rock band the lemonheads. dan stearns born october 28 1971 was born in boston massachusetts and grew up in the suburbs of boston massachusetts . dan stearns born october 28 1971 began playing guitar at the age of 12 and by the time dan stearns born october 28 1971 was 15 dan stearns born october 28 1971 was playing in local bands. dan stearns born october 28 1971 attended the university of massachusetts amherst where dan stearns born october 28 1971 studied music and philosophy. after college dan stearns born october 28 1971 moved to new york city and formed the alternative rock band the lemonheadsin 1992. the alternative rock band the lemonheadsreleased the alternative rock band the lemonheadsdebut album hate your friends in 1987. their debut album hate your friends was a critical and commercial success and the alternative rock band the lemonheadswent on to release several more albums over the next decade. dan stearns born october 28 1971 wrote and sang the majority of the alternative rock band the lemonheadssongs and dan stearns born october 28 1971 songwriting style was often compared to that of bob dylan. in addition to dan stearns born october 28 1971 work with the alternative rock band the lemonheadsdan stearns born october 28 1971 has also released several solo albums and collaborated with other artists. dan stearns born october 28 1971 has also produced albums for other bands including the replacements and the pos
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10810810810810811
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

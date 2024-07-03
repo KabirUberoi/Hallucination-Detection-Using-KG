@@ -1,0 +1,136 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Utility_player and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Pittsburgh_Pirates and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Utility_player and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Utility_player and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 1
+http://dbpedia.org/resource/Utility_player and http://dbpedia.org/resource/Pittsburgh_Pirates and the value is : 0
+http://dbpedia.org/resource/Utility_player and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Pittsburgh_Pirates and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/St._Louis_Cardinals and http://dbpedia.org/resource/Pittsburgh_Pirates and the value is : 0
+http://dbpedia.org/resource/St._Louis_Cardinals and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 1
+http://dbpedia.org/resource/Pittsburgh_Pirates and http://dbpedia.org/resource/Cincinnati_Reds and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Shortstop and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Outfielder and the value is : 0
+http://dbpedia.org/resource/Shortstop and http://dbpedia.org/resource/Outfielder and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Missouri_Tigers_football and the value is : 0
+http://dbpedia.org/resource/St._Louis_Cardinals and http://dbpedia.org/resource/Missouri_Tigers_football and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Professional_baseball and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 1
+http://dbpedia.org/resource/Professional_baseball and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Minor_League_Baseball and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/At_bat and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Run_batted_in and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/At_bat and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Run_batted_in and the value is : 1
+http://dbpedia.org/resource/At_bat and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Infielder and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Outfielder and the value is : 1
+http://dbpedia.org/resource/Infielder and http://dbpedia.org/resource/Outfielder and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Outfielder and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/St._Louis_Cardinals and the value is : 1
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Joe_L._Brown and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Warren and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Pennsylvania_Railroad and the value is : 1
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/History_of_the_Chicago_Cubs and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Warren and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Pennsylvania_Railroad and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/History_of_the_Chicago_Cubs and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Warren and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Pennsylvania_Railroad and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/History_of_the_Chicago_Cubs and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Warren and http://dbpedia.org/resource/Pennsylvania_Railroad and the value is : 0
+http://dbpedia.org/resource/Warren and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Warren and http://dbpedia.org/resource/History_of_the_Chicago_Cubs and the value is : 0
+http://dbpedia.org/resource/Warren and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Pennsylvania_Railroad and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Pennsylvania_Railroad and http://dbpedia.org/resource/History_of_the_Chicago_Cubs and the value is : 0
+http://dbpedia.org/resource/Pennsylvania_Railroad and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/History_of_the_Chicago_Cubs and the value is : 0
+http://dbpedia.org/resource/Major_League_Baseball and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/History_of_the_Chicago_Cubs and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Reserve_team and http://dbpedia.org/resource/First_baseman and the value is : 0
+http://dbpedia.org/resource/Reserve_team and http://dbpedia.org/resource/Pitcher and the value is : 0
+http://dbpedia.org/resource/Reserve_team and http://dbpedia.org/resource/Joseph_Smith and the value is : 0
+http://dbpedia.org/resource/Reserve_team and http://dbpedia.org/resource/Joe_L._Brown and the value is : 1
+http://dbpedia.org/resource/First_baseman and http://dbpedia.org/resource/Pitcher and the value is : 0
+http://dbpedia.org/resource/First_baseman and http://dbpedia.org/resource/Joseph_Smith and the value is : 1
+http://dbpedia.org/resource/First_baseman and http://dbpedia.org/resource/Joe_L._Brown and the value is : 0
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Joseph_Smith and the value is : 0
+http://dbpedia.org/resource/Pitcher and http://dbpedia.org/resource/Joe_L._Brown and the value is : 1
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Joe_L._Brown and the value is : 1
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Joe_L._Brown and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Brownmark and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Joe_L._Brown and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Center_fielder and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Catcher and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Center_fielder and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Catcher and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Run_batted_in and the value is : 1
+http://dbpedia.org/resource/Center_fielder and http://dbpedia.org/resource/Catcher and the value is : 0
+http://dbpedia.org/resource/Center_fielder and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Catcher and http://dbpedia.org/resource/Run_batted_in and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Joe_L._Brown and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1886 and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1886 and the value is : 0
+http://dbpedia.org/resource/Baltimore_Orioles and http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1886 and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Joe_L._Brown and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Joe_L._Brown and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Joe_L._Brown and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Batting_average and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Batting_average and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Joe_L._Brown and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Warren and the value is : 0
+http://dbpedia.org/resource/Joseph_Smith and http://dbpedia.org/resource/Pennsylvania_Railroad and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Warren and the value is : 0
+http://dbpedia.org/resource/Joe_L._Brown and http://dbpedia.org/resource/Pennsylvania_Railroad and the value is : 0
+http://dbpedia.org/resource/Warren and http://dbpedia.org/resource/Pennsylvania_Railroad and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+joe brown born october 28 1883 died october 28 1957 was a utility player in major league baseball who played for the st. louis cardinals 19081909 pittsburgh pirates 19101911 and cincinnati reds 19121913. he was primarily a third baseman but also played shortstop second base and the outfield. brown was born in st. louis missouri. he began his professional baseball career in 1906 with the st. louis cardinals of the national league. he played in the minor leagues for two years before making his major league debut in 1908. he played in a total of 441 major league games batting .239 with two home runs and 111 runs batted in. brown was known for his versatility playing all four infield positions as well as the outfield. he was also known for his strong arm which allowed him to make long throws from the outfield. after his major league career ended brown continued to play in the minor leagues until 1915. he died in st. louis in 1957. 
+
+Coref Resolved : 
+joe brown born october 28 1883 died october 28 1957 was a utility player in major league baseball who played for the st. louis cardinals 19081909 pittsburgh pirates 19101911 and cincinnati reds 19121913. joe brown was primarily a third baseman but also played shortstop second base and the outfield. joe brown was born in st. louis missouri. joe brown began joe brown professional baseball career in 1906 with the st. louis cardinals of the national league. joe brown played in the minor leagues for two years before making joe brown major league debut in 1908. joe brown played in a total of 441 major league games batting .239 with two home runs and 111 runs batted in. joe brown was known for joe brown versatility playing all four infield positions as well as the outfield. joe brown was also known for joe brown strong arm which allowed joe brown to make long throws from the outfield. after joe brown major league career ended joe brown continued to play in the minor leagues until 1915. joe brown died in st. louis missouriin 1957.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+joseph e. joe brown april 4 1859 june 28 1888 in warren pennsylvania was a pitcherutility player in major league baseball for the chicago white stockings and baltimore orioles. it was relatively common in the 19th century for baseball teams to use a reserve fielder as a pitcher and this appears to be true in browns case. he appeared in 15 games for the 1884 cubs debuting august 16 pitching in seven of those games six as a starter. his mark that season was 42 with a 4.68 era. he also played center field right field first baseman and catcher for the cubs that season hitting .213 with 3 rbi in 61 trips to the plate. brown found himself with the american associations orioles in the 1886 season in a similar role for a brief period of time. he pitched in four games completing and losing each one for a record of 04 and an era of 5.68. he also appeared in one game as a second baseman. brown was 3for19 at the plate in 1886 to finish his career with a batting average of exactly .200 16for80. brown died on june 28 1888 in his birthplace of warren pennsylvania aged just 29. 
+
+Coref Resolved : 
+joseph e. joe brown april 4 1859 june 28 1888 in warren pennsylvania was a pitcherutility player in major league baseball for the chicago white stockings and baltimore orioles. it was relatively common in the 19th century for baseball teams to use a reserve fielder as a pitcher and use appears to be true in joseph e. joe brown case. joseph e. joe brown appeared in 15 games for the 1884 cubs debuting august 16 pitching in seven of 15 games six as a starter. joseph e. joe brown mark that season was 42 with a 4.68 era. joseph e. joe brown also played center field right field first baseman and catcher for the 1884 cubs that season hitting .213 with 3 rbi in 61 trips to the plate. joseph e. joe brown found joseph e. joe brown with baltimore oriolesin the 1886 season in a similar role for a brief period of time. joseph e. joe brown pitched in four games completing and losing each one for a record of 04 and an era of 5.68. joseph e. joe brown also appeared in one game as a second baseman. joseph e. joe brown was 3for19 at the plate in 1886 to finish joseph e. joe brown career with a batting average of exactly .200 16for80. joseph e. joe brown died on june 28 1888 in joseph e. joe brown birthplace of warren pennsylvania aged just 29.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.4634146341463415 and for ground truth is : 0.1044776119402985
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

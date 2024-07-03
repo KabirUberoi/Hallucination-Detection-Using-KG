@@ -1,0 +1,76 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Historian and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/Historian and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Military_history and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Buckingham and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Royal_United_Services_Institute and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Military_history and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Buckingham and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/Royal_United_Services_Institute and the value is : 0
+http://dbpedia.org/resource/Military_history and http://dbpedia.org/resource/Buckingham and the value is : 0
+http://dbpedia.org/resource/Military_history and http://dbpedia.org/resource/Royal_United_Services_Institute and the value is : 0
+http://dbpedia.org/resource/Buckingham and http://dbpedia.org/resource/Royal_United_Services_Institute and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Author and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Military_history and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Anglo-Zulu_War and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Tragedy and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Victoria_(carriage) and the value is : 1
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Military_history and the value is : 1
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Anglo-Zulu_War and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Tragedy and the value is : 0
+http://dbpedia.org/resource/Author and http://dbpedia.org/resource/Victoria_(carriage) and the value is : 0
+http://dbpedia.org/resource/Military_history and http://dbpedia.org/resource/Anglo-Zulu_War and the value is : 0
+http://dbpedia.org/resource/Military_history and http://dbpedia.org/resource/Tragedy and the value is : 0
+http://dbpedia.org/resource/Military_history and http://dbpedia.org/resource/Victoria_(carriage) and the value is : 0
+http://dbpedia.org/resource/Anglo-Zulu_War and http://dbpedia.org/resource/Tragedy and the value is : 0
+http://dbpedia.org/resource/Anglo-Zulu_War and http://dbpedia.org/resource/Victoria_(carriage) and the value is : 1
+http://dbpedia.org/resource/Tragedy and http://dbpedia.org/resource/Victoria_(carriage) and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/British_Army and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/British_Indian_Army and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Earl and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Earl_of_Cardigan and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/British_Indian_Army and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Earl and the value is : 0
+http://dbpedia.org/resource/British_Army and http://dbpedia.org/resource/Earl_of_Cardigan and the value is : 0
+http://dbpedia.org/resource/British_Indian_Army and http://dbpedia.org/resource/Earl and the value is : 0
+http://dbpedia.org/resource/British_Indian_Army and http://dbpedia.org/resource/Earl_of_Cardigan and the value is : 0
+http://dbpedia.org/resource/Earl and http://dbpedia.org/resource/Earl_of_Cardigan and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Television and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Documentary_film and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Real_Crime and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Maritime_flag and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Bulldozer and the value is : 0
+http://dbpedia.org/resource/David and http://dbpedia.org/resource/Battle_of_Waterloo and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Documentary_film and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Real_Crime and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Maritime_flag and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Bulldozer and the value is : 0
+http://dbpedia.org/resource/Television and http://dbpedia.org/resource/Battle_of_Waterloo and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Real_Crime and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Maritime_flag and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Bulldozer and the value is : 0
+http://dbpedia.org/resource/Documentary_film and http://dbpedia.org/resource/Battle_of_Waterloo and the value is : 0
+http://dbpedia.org/resource/Real_Crime and http://dbpedia.org/resource/Maritime_flag and the value is : 0
+http://dbpedia.org/resource/Real_Crime and http://dbpedia.org/resource/Bulldozer and the value is : 0
+http://dbpedia.org/resource/Real_Crime and http://dbpedia.org/resource/Battle_of_Waterloo and the value is : 0
+http://dbpedia.org/resource/Maritime_flag and http://dbpedia.org/resource/Bulldozer and the value is : 0
+http://dbpedia.org/resource/Maritime_flag and http://dbpedia.org/resource/Battle_of_Waterloo and the value is : 0
+http://dbpedia.org/resource/Bulldozer and http://dbpedia.org/resource/Battle_of_Waterloo and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+saul david born 1962 is a british historian author and broadcaster. he is professor of military history at the university of buckingham and a senior fellow at the royal united services institute. he is the author of several books on military history including zulu the heroism and tragedy of the zulu war of 1879 and victorias wars the rise of empire. he has also written extensively on the british army in the 20th century including the indian army 19141947 and the homicidal earl the life of lord cardigan. he has presented and appeared in several television documentaries including the real crime of jack the ripper and the battle of waterloo. 
+
+Coref Resolved : 
+saul david born 1962 is a british historian author and broadcaster. saul david born 1962 is professor of military history at the university of buckingham and a senior fellow at the royal united services institute. saul david born 1962 is the author of several books on military history including zulu the heroism and tragedy of the zulu war of 1879 and victorias wars the rise of empire. saul david born 1962 has also written extensively on the british army in the 20th century including the indian army 19141947 and the homicidal earl the life of lord cardigan. saul david born 1962 has presented and appeared in several television documentaries including the real crime of jack the ripper and the battle of waterloo.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.05084745762711865
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate 
+

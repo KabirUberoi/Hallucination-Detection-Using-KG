@@ -1,0 +1,79 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Novelist and the value is : 1
+http://dbpedia.org/resource/Playwright and http://dbpedia.org/resource/Novelist and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Alicante and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Roman_law and the value is : 0
+http://dbpedia.org/resource/Alicante and http://dbpedia.org/resource/Roman_law and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Primero and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Cinema_of_Argentina and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Short_story and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Spanish_literature and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Romanticism and the value is : 0
+http://dbpedia.org/resource/Spanish_literature and http://dbpedia.org/resource/Romanticism and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Royal_Spanish_Academy and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Playwright and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Alicante and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Alicante and the value is : 0
+http://dbpedia.org/resource/Playwright and http://dbpedia.org/resource/Alicante and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Género_chico and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Zarzuela and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Grotesque and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Spanish_comics and the value is : 0
+http://dbpedia.org/resource/Género_chico and http://dbpedia.org/resource/Zarzuela and the value is : 1
+http://dbpedia.org/resource/Género_chico and http://dbpedia.org/resource/Grotesque and the value is : 0
+http://dbpedia.org/resource/Género_chico and http://dbpedia.org/resource/Spanish_comics and the value is : 0
+http://dbpedia.org/resource/Zarzuela and http://dbpedia.org/resource/Grotesque and the value is : 0
+http://dbpedia.org/resource/Zarzuela and http://dbpedia.org/resource/Spanish_comics and the value is : 0
+http://dbpedia.org/resource/Grotesque and http://dbpedia.org/resource/Spanish_comics and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Novelist and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Novelist and http://dbpedia.org/resource/Journalist and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Colloquialism and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Dance_in_Cuba and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Colloquialism and http://dbpedia.org/resource/Dance_in_Cuba and the value is : 0
+http://dbpedia.org/resource/Colloquialism and http://dbpedia.org/resource/Music and the value is : 0
+http://dbpedia.org/resource/Dance_in_Cuba and http://dbpedia.org/resource/Music and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Federico_García_Lorca and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Teatro_Español_(Madrid) and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Poet and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Poetry and the value is : 0
+http://dbpedia.org/resource/Federico_García_Lorca and http://dbpedia.org/resource/Teatro_Español_(Madrid) and the value is : 0
+http://dbpedia.org/resource/Federico_García_Lorca and http://dbpedia.org/resource/Poet and the value is : 0
+http://dbpedia.org/resource/Federico_García_Lorca and http://dbpedia.org/resource/Poetry and the value is : 1
+http://dbpedia.org/resource/Teatro_Español_(Madrid) and http://dbpedia.org/resource/Poet and the value is : 1
+http://dbpedia.org/resource/Teatro_Español_(Madrid) and http://dbpedia.org/resource/Poetry and the value is : 1
+http://dbpedia.org/resource/Poet and http://dbpedia.org/resource/Poetry and the value is : 1
+http://dbpedia.org/resource/Francoist_Spain and http://dbpedia.org/resource/Spanish_Civil_War and the value is : 0
+http://dbpedia.org/resource/Francoist_Spain and http://dbpedia.org/resource/Carlos_Arniches and the value is : 1
+http://dbpedia.org/resource/Spanish_Civil_War and http://dbpedia.org/resource/Carlos_Arniches and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+carlos arniches y barrera 18661943 was a spanish dramatist and novelist. he was born in alicante spain and studied law in madrid. he began writing plays in 1891 and his first success was el cabo primero 1893. he wrote more than fifty plays many of which were adapted for the cinema. he also wrote novels short stories and essays. he was a member of the generation of 98 a group of spanish writers who sought to revive spanish literature after the decline of romanticism. he was also a member of the royal spanish academy. he died in madrid in 1943. 
+
+Coref Resolved : 
+carlos arniches y barrera 18661943 was a spanish dramatist and novelist. carlos arniches y barrera 18661943 was born in alicante spain and studied law in madrid. carlos arniches y barrera 18661943 began writing plays in 1891 and carlos arniches y barrera 18661943 first success was el cabo primero 1893. carlos arniches y barrera 18661943 wrote more than fifty plays many of which were adapted for the cinema. carlos arniches y barrera 18661943 also wrote novels short stories and essays. carlos arniches y barrera 18661943 was a member of the generation of 98 a group of spanish writers who sought to revive spanish literature after the decline of romanticism. carlos arniches y barrera 18661943 was also a member of the royal spanish academy. carlos arniches y barrera 18661943 died in madridin 1943.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+carlos arniches 11 october 1866 16 april 1943 was a spanish playwright born in alicante. his prolific work drawing on the traditions of the género chico the zarzuela and the grotesque came to dominate spanish comic theatre in the early twentieth century. after starting his career as a novelist and journalist arniches turned to theatre in 1888 with the publication of his first play casa editorial. much of his work is set in lowerclass madrid and uses colloquial language song dance and music. arniches was complimented in a 1935 interview by federico garcía lorca often a scathing critic of spanish theatre in the 1920s and 1930s as more of a poet than almost any of those who are writing theatre in verse at the moment. following the consolidation of the franco regime after the spanish civil war the social dramas of carlos arniches were among the relatively noncontroversial plays allowed by the new government. 
+
+Coref Resolved : 
+carlos arniches 11 october 1866 16 april 1943 was a spanish playwright born in alicante. carlos arniches prolific work drawing on the traditions of the género chico the zarzuela and the grotesque came to dominate spanish comic theatre in the early twentieth century. after starting carlos arniches career as a novelist and journalist carlos arniches turned to theatre in 1888 with the publication of carlos arniches first play casa editorial. much of carlos arniches work is set in lowerclass madrid and uses colloquial language song dance and music. carlos arniches was complimented in a 1935 interview by federico garcía lorca often a scathing critic of spanish theatre in the 1920s and 1930s as more of a poet than almost any of those who are writing theatre in verse at the moment. following the consolidation of the franco regime after the spanish civil war the social dramas of carlos arniches were among the relatively noncontroversial plays allowed by the new government.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.23076923076923078 and for ground truth is : 0.34210526315789475
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate major_inaccurate major_inaccurate accurate accurate major_inaccurate accurate 
+

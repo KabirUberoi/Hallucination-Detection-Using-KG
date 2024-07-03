@@ -1,0 +1,36 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Business_magnate and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Philanthropy and the value is : 1
+http://dbpedia.org/resource/Business_magnate and http://dbpedia.org/resource/Philanthropy and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Kidderminster and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Worcestershire and the value is : 0
+http://dbpedia.org/resource/Kidderminster and http://dbpedia.org/resource/Worcestershire and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Metalworking and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Metalworking and http://dbpedia.org/resource/Birmingham and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Birmingham and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Hospital and the value is : 1
+http://dbpedia.org/resource/Birmingham and http://dbpedia.org/resource/Hospital and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Mason_Science_College and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Birmingham and the value is : 1
+http://dbpedia.org/resource/Mason_Science_College and http://dbpedia.org/resource/Birmingham and the value is : 0
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Knight_Bachelor and the value is : 1
+http://dbpedia.org/resource/Josiah_Mason and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Knight_Bachelor and http://dbpedia.org/resource/Philanthropy and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+josiah mason 17951881 was an english industrialist and philanthropist. he was born in kidderminster worcestershire the son of a weaver. he was apprenticed to a button maker in birmingham and in 1824 he established his own buttonmaking business. he soon expanded into other metalworking trades and by 1851 he had become one of the largest employers in birmingham. he was a major benefactor of the city donating money to build a hospital a college and a school. he also founded mason science college which later became part of the university of birmingham. he was knighted in 1872 for his philanthropic work. 
+
+Coref Resolved : 
+josiah mason 17951881 was an english industrialist and philanthropist. josiah mason 17951881 was born in kidderminster worcestershire the son of a weaver. josiah mason 17951881 was apprenticed to a button maker in birmingham and in 1824 josiah mason 17951881 established josiah mason 17951881 own buttonmaking business. josiah mason 17951881 soon expanded into other metalworking trades and by 1851 josiah mason 17951881 had become one of the largest employers in birmingham . josiah mason 17951881 was a major benefactor of birmingham donating money to build a hospital a college and a school. josiah mason 17951881 also founded mason science college which later became part of the university of birmingham. josiah mason 17951881 was knighted in 1872 for josiah mason 17951881 philanthropic work.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.5789473684210527
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate accurate accurate accurate accurate 
+

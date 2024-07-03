@@ -1,0 +1,88 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/Trinidad_and_Tobago and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Olympic_medal and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Olympic_medal and http://dbpedia.org/resource/Freestyle_swimming and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Paralympic_swimming and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Italy_national_athletics_team and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 0
+http://dbpedia.org/resource/Paralympic_swimming and http://dbpedia.org/resource/Italy_national_athletics_team and the value is : 0
+http://dbpedia.org/resource/Trinidad_and_Tobago and http://dbpedia.org/resource/Italy_national_athletics_team and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Auburn_Tigers and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Auburn_Tigers and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/2004_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Greece_national_basketball_team and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/2004_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Greece_national_basketball_team and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Silver_medal and the value is : 1
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/2004_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Greece_national_basketball_team and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/2004_Summer_Olympics and http://dbpedia.org/resource/Greece_national_basketball_team and the value is : 0
+http://dbpedia.org/resource/2004_Summer_Olympics and http://dbpedia.org/resource/Silver_medal and the value is : 1
+http://dbpedia.org/resource/2004_Summer_Olympics and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Greece_national_basketball_team and http://dbpedia.org/resource/Silver_medal and the value is : 0
+http://dbpedia.org/resource/Greece_national_basketball_team and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Silver_medal and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Bronze_medal and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Medley_swimming and the value is : 1
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Bronze_medal and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Relay_race and the value is : 1
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Relay_race and http://dbpedia.org/resource/2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Barcelona and the value is : 1
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/George_Bovell and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Medley_swimming and the value is : 1
+http://dbpedia.org/resource/2012_Summer_Olympics and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Barcelona and http://dbpedia.org/resource/George_Bovell and the value is : 1
+http://dbpedia.org/resource/Barcelona and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/Barcelona and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Barcelona and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Barcelona and http://dbpedia.org/resource/Relay_race and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Gold_medal and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Freestyle_swimming and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Medley_swimming and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Gold_medal and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Freestyle_swimming and http://dbpedia.org/resource/Medley_swimming and the value is : 0
+http://dbpedia.org/resource/Freestyle_swimming and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/Medley_swimming and http://dbpedia.org/resource/Relay_race and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Freestyle_swimming and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+george bovell iii born august 8 1982 is a trinidadian swimmer. he is a threetime olympic medalist a twotime world champion and a former world record holder in the 50meter freestyle. he is the first swimmer from trinidad and tobago to win an olympic medal. bovell began swimming at the age of seven and was a member of the trinidad and tobago national team by the age of 13. he attended auburn university in the united states where he was a fourtime ncaa champion. he won a bronze medal in the 200meter individual medley at the 2004 summer olympics in athens greece and a silver medal in the same event at the 2008 summer olympics in beijing china. he also won a bronze medal in the 4100meter medley relay at the 2012 summer olympics in london england. at the 2013 world aquatics championships in barcelona spain bovell won gold medals in the 50meter freestyle and the 4100meter medley relay. he also set a world record in the 50 
+
+Coref Resolved : 
+george bovell iii born august 8 1982 is a trinidadian swimmer. george bovell iii born august 8 1982 is a threetime olympic medalist a twotime world champion and a former world record holder in the 50meter freestyle. george bovell iii born august 8 1982 is the first swimmer from trinidad and tobago to win an olympic medal. george bovell iii born august 8 1982 began swimming at the age of seven and was a member of the trinidad and tobago national team by the age of 13. george bovell iii born august 8 1982 attended auburn university in the united states where george bovell iii born august 8 1982 was a fourtime ncaa champion. george bovell iii born august 8 1982 won a bronze medal in the 200meter individual medley at the 2004 summer olympics in athens greece and a silver medal in the 200meter individual medley at the 2008 summer olympics in beijing china. george bovell iii born august 8 1982 also won a bronze medal in the 4100meter medley relay at the 2012 summer olympics in london england. at the 2013 world aquatics championships in barcelona spain george bovell iii born august 8 1982 won gold medals in the 50meter freestyle and the 4100meter medley relay. george bovell iii born august 8 1982 also set a world record in the 50meter freestyle 
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.23943661971830985
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

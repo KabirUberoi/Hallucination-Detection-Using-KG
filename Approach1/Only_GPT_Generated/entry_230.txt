@@ -1,0 +1,54 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Geologist and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Paleontology and the value is : 1
+http://dbpedia.org/resource/Geologist and http://dbpedia.org/resource/Paleontology and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/University_of_Kiel and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Weimar_Republic and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Humboldt_University_of_Berlin and the value is : 0
+http://dbpedia.org/resource/University_of_Kiel and http://dbpedia.org/resource/Weimar_Republic and the value is : 0
+http://dbpedia.org/resource/University_of_Kiel and http://dbpedia.org/resource/Humboldt_University_of_Berlin and the value is : 0
+http://dbpedia.org/resource/Weimar_Republic and http://dbpedia.org/resource/Humboldt_University_of_Berlin and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Professor and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/University_of_Kiel and the value is : 0
+http://dbpedia.org/resource/Professor and http://dbpedia.org/resource/University_of_Kiel and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Stratigraphy and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Sedimentary_rock and the value is : 0
+http://dbpedia.org/resource/Stratigraphy and http://dbpedia.org/resource/Sedimentary_rock and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Amadeus_William_Grabau and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/DNA_sequencing and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Stratigraphy and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Geologic_time_scale and the value is : 0
+http://dbpedia.org/resource/Amadeus_William_Grabau and http://dbpedia.org/resource/DNA_sequencing and the value is : 0
+http://dbpedia.org/resource/Amadeus_William_Grabau and http://dbpedia.org/resource/Stratigraphy and the value is : 1
+http://dbpedia.org/resource/Amadeus_William_Grabau and http://dbpedia.org/resource/Geologic_time_scale and the value is : 0
+http://dbpedia.org/resource/DNA_sequencing and http://dbpedia.org/resource/Stratigraphy and the value is : 0
+http://dbpedia.org/resource/DNA_sequencing and http://dbpedia.org/resource/Geologic_time_scale and the value is : 1
+http://dbpedia.org/resource/Stratigraphy and http://dbpedia.org/resource/Geologic_time_scale and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Amadeus_William_Grabau and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Amadeus_William_Grabau and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Geology and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Instrumentalism and the value is : 0
+http://dbpedia.org/resource/Geology and http://dbpedia.org/resource/Instrumentalism and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Theory and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Continental_drift and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Plate_tectonics and the value is : 1
+http://dbpedia.org/resource/Theory and http://dbpedia.org/resource/Continental_drift and the value is : 0
+http://dbpedia.org/resource/Theory and http://dbpedia.org/resource/Plate_tectonics and the value is : 0
+http://dbpedia.org/resource/Continental_drift and http://dbpedia.org/resource/Plate_tectonics and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+johannes andreas august grabau 18511922 was a german geologist and paleontologist. he was born in kiel germany and studied at the university of kiel and the university of berlin. he was a professor at the university of kiel from 1881 to 1891 and then at the university of berlin from 1891 to 1922. grabau was a pioneer in the field of stratigraphy the study of the layers of sedimentary rocks. he developed the concept of the grabau zone which is a sequence of strata that can be used to identify a particular geological period. he also developed the concept of the grabau index which is a measure of the relative age of a rock formation. grabau was also a prolific writer publishing more than 200 scientific papers and books. he wrote extensively on the geology of china and his work was instrumental in the development of chinese geology. he was also a proponent of the theory of continental drift and his work helped to lay the foundations for modern plate tectonics. 
+
+Coref Resolved : 
+johannes andreas august grabau 18511922 was a german geologist and paleontologist. johannes andreas august grabau was born in kiel germany and studied at the university of kiel and the university of berlin. johannes andreas august grabau was a professor at the university of kiel from 1881 to 1891 and then at the university of berlinfrom 1891 to 1922. johannes andreas august grabau was a pioneer in the field of stratigraphy the study of the layers of sedimentary rocks. johannes andreas august grabau developed the concept of the grabau zone which is a sequence of strata that can be used to identify a particular geological period. johannes andreas august grabau also developed the concept of the grabau index which is a measure of the relative age of a rock formation. johannes andreas august grabau was also a prolific writer publishing more than 200 scientific papers and books. johannes andreas august grabau wrote extensively on the geology of china and johannes andreas august grabau work was instrumental in the development of chinese geology. johannes andreas august grabau was also a proponent of the theory of continental drift and johannes andreas august grabau work helped to lay the foundations for modern plate tectonics.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1891891891891892
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

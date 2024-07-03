@@ -1,0 +1,124 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Jack_Straw and http://dbpedia.org/resource/Labour_Party_(UK) and the value is : 1
+http://dbpedia.org/resource/Jack_Straw and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Jack_Straw and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Jack_Straw and http://dbpedia.org/resource/Blackburn and the value is : 0
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Blackburn and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Blackburn and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Blackburn and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Tony_Blair and the value is : 1
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Gordon_Brown and the value is : 0
+http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom and http://dbpedia.org/resource/Gordon_Brown and the value is : 1
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Gordon_Brown and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Secretary_of_State_for_Foreign_and_Commonwealth_Affairs and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Secretary_of_State_for_Foreign_and_Commonwealth_Affairs and http://dbpedia.org/resource/Tony_Blair and the value is : 1
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Lord_Chancellor and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Mike_Gordon and the value is : 1
+http://dbpedia.org/resource/Lord_Chancellor and http://dbpedia.org/resource/Mike_Gordon and the value is : 0
+http://dbpedia.org/resource/Labour_movement and http://dbpedia.org/resource/Straw and the value is : 0
+http://dbpedia.org/resource/Labour_movement and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Labour_movement and http://dbpedia.org/resource/Mike_Gordon and the value is : 1
+http://dbpedia.org/resource/Labour_movement and http://dbpedia.org/resource/Tony_Benn and the value is : 1
+http://dbpedia.org/resource/Labour_movement and http://dbpedia.org/resource/John_Smith and the value is : 0
+http://dbpedia.org/resource/Labour_movement and http://dbpedia.org/resource/Neil_Kinnock and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Mike_Gordon and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Tony_Benn and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/John_Smith and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Neil_Kinnock and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Mike_Gordon and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Tony_Benn and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/John_Smith and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Neil_Kinnock and the value is : 1
+http://dbpedia.org/resource/Mike_Gordon and http://dbpedia.org/resource/Tony_Benn and the value is : 0
+http://dbpedia.org/resource/Mike_Gordon and http://dbpedia.org/resource/John_Smith and the value is : 0
+http://dbpedia.org/resource/Mike_Gordon and http://dbpedia.org/resource/Neil_Kinnock and the value is : 0
+http://dbpedia.org/resource/Tony_Benn and http://dbpedia.org/resource/John_Smith and the value is : 0
+http://dbpedia.org/resource/Tony_Benn and http://dbpedia.org/resource/Neil_Kinnock and the value is : 1
+http://dbpedia.org/resource/John_Smith and http://dbpedia.org/resource/Neil_Kinnock and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/John_Whitaker_(equestrian) and http://dbpedia.org/resource/Straw and the value is : 0
+http://dbpedia.org/resource/John_Whitaker_(equestrian) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/John_Whitaker_(equestrian) and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/John_Whitaker_(equestrian) and http://dbpedia.org/resource/Blackburn and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Politician and the value is : 1
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Blackburn and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Blackburn and the value is : 1
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Blackburn and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Gordon_Brown and the value is : 0
+http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom and http://dbpedia.org/resource/Gordon_Brown and the value is : 0
+http://dbpedia.org/resource/Tony_Blair and http://dbpedia.org/resource/Gordon_Brown and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Secretary_of_State_for_Foreign_and_Commonwealth_Affairs and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Secretary_of_State_for_Foreign_and_Commonwealth_Affairs and http://dbpedia.org/resource/Tony_Blair and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Lord_Chancellor and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Clan_Gordon and the value is : 0
+http://dbpedia.org/resource/Lord_Chancellor and http://dbpedia.org/resource/Clan_Gordon and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Brown_ministry and the value is : 0
+http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom and http://dbpedia.org/resource/Brown_ministry and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Parliamentary_Labour_Party and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Cash and the value is : 0
+http://dbpedia.org/resource/Parliamentary_Labour_Party and http://dbpedia.org/resource/Cash and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Parliamentary_Labour_Party and the value is : 0
+http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom and http://dbpedia.org/resource/Parliamentary_Labour_Party and the value is : 0
+http://dbpedia.org/resource/Parliamentary_Labour_Party and http://dbpedia.org/resource/Straw and the value is : 1
+http://dbpedia.org/resource/Parliamentary_Labour_Party and http://dbpedia.org/resource/Deputy_Prime_Minister_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Parliamentary_Labour_Party and http://dbpedia.org/resource/Secretary_of_State_for_Justice and the value is : 0
+http://dbpedia.org/resource/Parliamentary_Labour_Party and http://dbpedia.org/resource/Frontbencher and the value is : 0
+http://dbpedia.org/resource/Parliamentary_Labour_Party and http://dbpedia.org/resource/Shadow_Cabinet and the value is : 0
+http://dbpedia.org/resource/Parliamentary_Labour_Party and http://dbpedia.org/resource/1992_United_Kingdom_general_election and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Deputy_Prime_Minister_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Secretary_of_State_for_Justice and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Frontbencher and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/Shadow_Cabinet and the value is : 0
+http://dbpedia.org/resource/Straw and http://dbpedia.org/resource/1992_United_Kingdom_general_election and the value is : 1
+http://dbpedia.org/resource/Deputy_Prime_Minister_of_the_United_Kingdom and http://dbpedia.org/resource/Secretary_of_State_for_Justice and the value is : 0
+http://dbpedia.org/resource/Deputy_Prime_Minister_of_the_United_Kingdom and http://dbpedia.org/resource/Frontbencher and the value is : 1
+http://dbpedia.org/resource/Deputy_Prime_Minister_of_the_United_Kingdom and http://dbpedia.org/resource/Shadow_Cabinet and the value is : 0
+http://dbpedia.org/resource/Deputy_Prime_Minister_of_the_United_Kingdom and http://dbpedia.org/resource/1992_United_Kingdom_general_election and the value is : 0
+http://dbpedia.org/resource/Secretary_of_State_for_Justice and http://dbpedia.org/resource/Frontbencher and the value is : 0
+http://dbpedia.org/resource/Secretary_of_State_for_Justice and http://dbpedia.org/resource/Shadow_Cabinet and the value is : 0
+http://dbpedia.org/resource/Secretary_of_State_for_Justice and http://dbpedia.org/resource/1992_United_Kingdom_general_election and the value is : 0
+http://dbpedia.org/resource/Frontbencher and http://dbpedia.org/resource/Shadow_Cabinet and the value is : 0
+http://dbpedia.org/resource/Frontbencher and http://dbpedia.org/resource/1992_United_Kingdom_general_election and the value is : 0
+http://dbpedia.org/resource/Shadow_Cabinet and http://dbpedia.org/resource/1992_United_Kingdom_general_election and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+jack straw born 3 august 1946 is a british labour party politician who served as the member of parliament mp for blackburn from 1979 to 2015. he served in the cabinet from 1997 to 2010 under the governments of tony blair and gordon brown. straw held two of the traditional great offices of state as home secretary from 1997 to 2001 and foreign secretary from 2001 to 2006 under blair. from 2007 to 2010 he served as lord chancellor and secretary of state for justice throughout browns premiership. a former chair of the labour party straw was one of the few remaining links between the labour governments led by blair and brown and the partys previous incarnation under tony benn john smith and neil kinnock. he is currently the president of the national council for civil liberties. 
+
+Coref Resolved : 
+jack straw born 3 august 1946 is a british labour party politician who served as the member of parliament mp for blackburn from 1979 to 2015. straw served in the cabinet from 1997 to 2010 under the governments of tony blair and gordon brown. straw held two of the traditional great offices of state as home secretary from 1997 to 2001 and foreign secretary from 2001 to 2006 under tony blair . from 2007 to 2010 straw served as lord chancellor and secretary of state for justice throughout gordon brownpremiership. a former chair of the labour party straw was one of the few remaining links between the labour governments led by tony blair and gordon brownand the labour party previous incarnation under tony benn john smith and neil kinnock. straw is currently the president of the national council for civil liberties.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+john whitaker straw born 3 august 1946 is a british politician who served as the member of parliament mp for blackburn from 1979 to 2015. straw served in the cabinet from 1997 to 2010 under the governments of tony blair and gordon brown. he held two of the traditional great offices of state as home secretary from 1997 to 2001 and foreign secretary from 2001 to 2006 under blair. from 2007 to 2010 he served as lord chancellor and the secretary of state for justice throughout browns premiership. straw is one of only three individuals to have served in cabinet continuously under the labour government from 1997 to 2010. he voluntarily withdrew from the parliamentary labour party but remained a member of the party itself in february 2015 due to cash for access allegations. straw denied any wrongdoing or any breach of the parliamentary rules and voluntarily referred himself to the commissioner on parliamentary standards and withdrew from the parliamentary labour party pending the commissioners inquiry. after the labour party lost power in may 2010 straw briefly served as shadow deputy prime minister and shadow justice secretary with the intention to stand down from the frontbench after the subsequent 2010 labour shadow cabinet election. 
+
+Coref Resolved : 
+john whitaker straw born 3 august 1946 is a british politician who served as the member of parliament mp for blackburn from 1979 to 2015. straw served in the cabinet from 1997 to 2010 under the governments of tony blair and gordon brown. straw held two of the traditional great offices of state as home secretary from 1997 to 2001 and foreign secretary from 2001 to 2006 under tony blair . from 2007 to 2010 straw served as lord chancellor and the secretary of state for justice throughout gordon brownpremiership. straw is one of only three individuals to have served in cabinet continuously under the labour government from 1997 to 2010 . straw voluntarily withdrew from the parliamentary labour party but remained a member of the party the parliamentary labour party in february 2015 due to cash for access allegations. straw denied any wrongdoing or any breach of the parliamentary rules and voluntarily referred straw to the commissioner on parliamentary standards and withdrew from the parliamentary labour party pending the commissioners inquiry. after the parliamentary labour party lost power in may 2010 straw briefly served as shadow deputy prime minister and shadow justice secretary with the intention to stand down from the frontbench after the subsequent 2010 labour shadow cabinet election.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.25 and for ground truth is : 0.09615384615384616
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate major_inaccurate 
+

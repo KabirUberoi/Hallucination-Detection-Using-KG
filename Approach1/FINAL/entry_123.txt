@@ -1,0 +1,145 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/County_Dublin and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/County_Dublin and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/County_Dublin and the value is : 0
+http://dbpedia.org/resource/European_Parliament and http://dbpedia.org/resource/Member_of_the_European_Parliament and the value is : 0
+http://dbpedia.org/resource/European_Parliament and http://dbpedia.org/resource/County_Dublin and the value is : 0
+http://dbpedia.org/resource/Member_of_the_European_Parliament and http://dbpedia.org/resource/County_Dublin and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 1
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Seanad_Éireann and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Seanad_Éireann and the value is : 0
+http://dbpedia.org/resource/European_Parliament and http://dbpedia.org/resource/Seanad_Éireann and the value is : 1
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Progressive_Democrats and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Progressive_Democrats and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/University_College_Dublin and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Law and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/University_College_Dublin and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/University_College_Dublin and http://dbpedia.org/resource/Law and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Barrister and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Barrister and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Seanad_Éireann and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Seanad_Éireann and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Seanad_Éireann and http://dbpedia.org/resource/European_Parliament and the value is : 1
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Progressive_Democrats and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Progressive_Democrats and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Committee and the value is : 1
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Human_rights and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Human_rights and the value is : 0
+http://dbpedia.org/resource/Committee and http://dbpedia.org/resource/Human_rights and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Palestinian_Legislative_Council and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Palestinian_Legislative_Council and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/United_Nations_General_Assembly and the value is : 0
+http://dbpedia.org/resource/John_Cushnahan and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/United_Nations_General_Assembly and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/York and the value is : 0
+http://dbpedia.org/resource/United_Nations_General_Assembly and http://dbpedia.org/resource/York and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Republic and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Fine_Gael and the value is : 0
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/Republic and the value is : 1
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland and the value is : 0
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/European_Parliament and the value is : 1
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/Fine_Gael and the value is : 0
+http://dbpedia.org/resource/Republic and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Republic and http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland and the value is : 1
+http://dbpedia.org/resource/Republic and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Republic and http://dbpedia.org/resource/Fine_Gael and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland and the value is : 1
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Fine_Gael and the value is : 0
+http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland and http://dbpedia.org/resource/Fine_Gael and the value is : 0
+http://dbpedia.org/resource/European_Parliament and http://dbpedia.org/resource/Fine_Gael and the value is : 1
+http://dbpedia.org/resource/Electoral_district_of_St_Marys and http://dbpedia.org/resource/Grammar_school and the value is : 1
+http://dbpedia.org/resource/Electoral_district_of_St_Marys and http://dbpedia.org/resource/Queen's_University_Belfast and the value is : 1
+http://dbpedia.org/resource/Electoral_district_of_St_Marys and http://dbpedia.org/resource/Belfast and the value is : 0
+http://dbpedia.org/resource/Grammar_school and http://dbpedia.org/resource/Queen's_University_Belfast and the value is : 0
+http://dbpedia.org/resource/Grammar_school and http://dbpedia.org/resource/Belfast and the value is : 0
+http://dbpedia.org/resource/Queen's_University_Belfast and http://dbpedia.org/resource/Belfast and the value is : 0
+http://dbpedia.org/resource/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union and http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland and the value is : 1
+http://dbpedia.org/resource/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union and http://dbpedia.org/resource/Belfast_City_Council and the value is : 1
+http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 0
+http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland and http://dbpedia.org/resource/Belfast_City_Council and the value is : 1
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/Belfast_City_Council and the value is : 0
+http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 1
+http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland and http://dbpedia.org/resource/Oliver_Napier and the value is : 1
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/Oliver_Napier and the value is : 0
+http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland and http://dbpedia.org/resource/Northern_Ireland_Assembly and the value is : 1
+http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland and http://dbpedia.org/resource/Liberal_Party_(UK) and the value is : 1
+http://dbpedia.org/resource/Northern_Ireland_Assembly and http://dbpedia.org/resource/Liberal_Party_(UK) and the value is : 0
+http://dbpedia.org/resource/Anglo-Irish_Agreement and http://dbpedia.org/resource/Unionism_in_Ireland and the value is : 0
+http://dbpedia.org/resource/Republic and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Republic and http://dbpedia.org/resource/1989_European_Parliament_election_in_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Republic and http://dbpedia.org/resource/European_Parliament and the value is : 0
+http://dbpedia.org/resource/Republic and http://dbpedia.org/resource/Munster_GAA and the value is : 0
+http://dbpedia.org/resource/Republic and http://dbpedia.org/resource/Electoral_district and the value is : 1
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/1989_European_Parliament_election_in_the_United_Kingdom and the value is : 1
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/European_Parliament and the value is : 1
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Munster_GAA and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/1989_European_Parliament_election_in_the_United_Kingdom and http://dbpedia.org/resource/European_Parliament and the value is : 1
+http://dbpedia.org/resource/1989_European_Parliament_election_in_the_United_Kingdom and http://dbpedia.org/resource/Munster_GAA and the value is : 0
+http://dbpedia.org/resource/1989_European_Parliament_election_in_the_United_Kingdom and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/European_Parliament and http://dbpedia.org/resource/Munster_GAA and the value is : 0
+http://dbpedia.org/resource/European_Parliament and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Munster_GAA and http://dbpedia.org/resource/Electoral_district and the value is : 0
+http://dbpedia.org/resource/Member_of_the_European_Parliament and http://dbpedia.org/resource/2004_European_Parliament_election_in_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Peace_movement and http://dbpedia.org/resource/Charitable_organization and the value is : 0
+http://dbpedia.org/resource/Peace_movement and http://dbpedia.org/resource/Co-operation_Ireland and the value is : 1
+http://dbpedia.org/resource/Charitable_organization and http://dbpedia.org/resource/Co-operation_Ireland and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+john cushnahan born 28 april 1945 is an irish politician and former member of the european parliament mep for the dublin constituency. he was a member of the european parliament from 1989 to 2004 and was a member of the irish senate from 1981 to 1989. he was a member of the progressive democrats from 1985 to 2007. cushnahan was born in dublin and educated at university college dublin where he studied law. he was called to the bar in 1969 and practised as a barrister until 1981. he was a member of the irish senate from 1981 to 1989 and was elected to the european parliament in 1989. he was reelected in 1994 and 1999. he was a member of the progressive democrats from 1985 to 2007. cushnahan was a member of the european parliaments committee on foreign affairs and its subcommittee on human rights. he was also a member of the delegation for relations with the united states and the delegation for relations with the palestinian legislative council. he was a member of the european parliaments delegation to the united nations general assembly in new york in 2000. 
+
+Coref Resolved : 
+john cushnahan born 28 april 1945 is an irish politician and former member of the european parliament mep for the dublin constituency. john cushnahan born 28 april 1945 was a member of the european parliament from 1989 to 2004 and was a member of the irish senate from 1981 to 1989 . john cushnahan born 28 april 1945 was a member of the progressive democrats from 1985 to 2007. john cushnahan born 28 april 1945 was born in dublin and educated at university college dublin where john cushnahan born 28 april 1945 studied law. john cushnahan born 28 april 1945 was called to the bar in 1969 and practised as a barrister until 1981 . john cushnahan born 28 april 1945 was a member of the irish senate from 1981 to 1989 and was elected to the european parliament in 1989 . john cushnahan born 28 april 1945 was reelected in 1994 and 1999. john cushnahan born 28 april 1945 was a member of the progressive democrats from 1985 to 2007. john cushnahan born 28 april 1945 was a member of the european parliaments committee on foreign affairs and the european parliaments subcommittee on human rights. john cushnahan born 28 april 1945 was also a member of the delegation for relations with the united states and the delegation for relations with the palestinian legislative council. john cushnahan born 28 april 1945 was a member of the european parliaments delegation to the united nations general assembly in new york in 2000.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+john walls cushnahan born 23 july 1948 is a former politician in both northern ireland and the republic of ireland who served as leader of the alliance party of northern ireland and then as a member of the european parliament for fine gael. cushnahan was educated at st marys christian brothers grammar school and queens university belfast and worked as a teacher before going into politics. he worked as general secretary of the alliance party from 1974 until 1982 and was a member of belfast city council between 1977 and 1985. in 1982 he was elected to the prior assembly for north down and two years later he became the new leader of alliance succeeding oliver napier. during his tenure as leader he sought to strengthen the partys links with the british liberal party. the anglo irish agreement was signed during this period and cushnahan faced the difficult position of giving alliance support to it and facing the united opposition of the unionist parties. however when the assembly was dissolved in 1986 cushnahan found it financially difficult to remain in politics and so stood down as leader in 1987 to be succeeded by john alderdice. two years later cushnahan made a surprise political comeback when he moved to the republic of ireland and stood as a fine gael candidate in the 1989 election to the european parliament winning a seat in the munster constituency. he was an mep for fifteen years before retiring at the 2004 elections. cushnahan now serves as a board member of the peace and reconciliation charity cooperation ireland. 
+
+Coref Resolved : 
+john walls cushnahan born 23 july 1948 is a former politician in both northern ireland and the republic of ireland who served as leader of the alliance party of northern ireland and then as a member of the european parliament for fine gael. john walls cushnahan born 23 july 1948 was educated at st marys christian brothers grammar school and queens university belfast and worked as a teacher before going into politics. john walls cushnahan born 23 july 1948 worked as general secretary of the alliance party of northern ireland from 1974 until 1982 and was a member of belfast city council between 1977 and 1985. in 1982 john walls cushnahan born 23 july 1948 was elected to the prior assembly for north down and two years later john walls cushnahan born 23 july 1948 became the new leader of the alliance party of northern ireland succeeding oliver napier. during john walls cushnahan born 23 july 1948 tenure as leader john walls cushnahan born 23 july 1948 sought to strengthen the alliance party of northern ireland links with the british liberal party. the anglo irish agreement was signed during this period and john walls cushnahan born 23 july 1948 faced the difficult position of giving alliance support to the anglo irish agreement and facing the united opposition of the unionist parties. however when the prior assembly for north down was dissolved in 1986 john walls cushnahan born 23 july 1948 found it financially difficult to remain in politics and so stood down as leader in 1987 to be succeeded by john alderdice. two years later john walls cushnahan born 23 july 1948 made a surprise political comeback when john walls cushnahan born 23 july 1948 moved to the republic of ireland and stood as a fine gaelcandidate in the 1989 election to the european parliament winning a seat in the munster constituency. john walls cushnahan born 23 july 1948 was an mep for fifteen years before retiring at the 2004 elections. john walls cushnahan born 23 july 1948 now serves as a board member of the peace and reconciliation charity cooperation ireland.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.10344827586206896 and for ground truth is : 0.3220338983050847
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

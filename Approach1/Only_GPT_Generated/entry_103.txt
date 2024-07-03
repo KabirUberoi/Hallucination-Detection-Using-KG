@@ -1,0 +1,53 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Mario and http://dbpedia.org/resource/Economist and the value is : 0
+http://dbpedia.org/resource/Mario and http://dbpedia.org/resource/Prime_minister and the value is : 1
+http://dbpedia.org/resource/Mario and http://dbpedia.org/resource/Technocracy and the value is : 0
+http://dbpedia.org/resource/Mario and http://dbpedia.org/resource/European_debt_crisis and the value is : 0
+http://dbpedia.org/resource/Economist and http://dbpedia.org/resource/Prime_minister and the value is : 0
+http://dbpedia.org/resource/Economist and http://dbpedia.org/resource/Technocracy and the value is : 1
+http://dbpedia.org/resource/Economist and http://dbpedia.org/resource/European_debt_crisis and the value is : 0
+http://dbpedia.org/resource/Prime_minister and http://dbpedia.org/resource/Technocracy and the value is : 0
+http://dbpedia.org/resource/Prime_minister and http://dbpedia.org/resource/European_debt_crisis and the value is : 1
+http://dbpedia.org/resource/Technocracy and http://dbpedia.org/resource/European_debt_crisis and the value is : 0
+http://dbpedia.org/resource/European_Commissioner and http://dbpedia.org/resource/Single_market and the value is : 0
+http://dbpedia.org/resource/European_Commissioner and http://dbpedia.org/resource/Customs and the value is : 0
+http://dbpedia.org/resource/European_Commissioner and http://dbpedia.org/resource/Tax and the value is : 0
+http://dbpedia.org/resource/Single_market and http://dbpedia.org/resource/Customs and the value is : 0
+http://dbpedia.org/resource/Single_market and http://dbpedia.org/resource/Tax and the value is : 0
+http://dbpedia.org/resource/Customs and http://dbpedia.org/resource/Tax and the value is : 0
+http://dbpedia.org/resource/Rector_of_the_University_of_Aberdeen and http://dbpedia.org/resource/President_of_Mexico and the value is : 0
+http://dbpedia.org/resource/Rector_of_the_University_of_Aberdeen and http://dbpedia.org/resource/Bocconi_University and the value is : 0
+http://dbpedia.org/resource/Rector_of_the_University_of_Aberdeen and http://dbpedia.org/resource/Milan and the value is : 1
+http://dbpedia.org/resource/President_of_Mexico and http://dbpedia.org/resource/Bocconi_University and the value is : 0
+http://dbpedia.org/resource/President_of_Mexico and http://dbpedia.org/resource/Milan and the value is : 0
+http://dbpedia.org/resource/Bocconi_University and http://dbpedia.org/resource/Milan and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/President_of_Mexico and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Civic_Choice and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Centrism and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Political_party and the value is : 0
+http://dbpedia.org/resource/President_of_Mexico and http://dbpedia.org/resource/Civic_Choice and the value is : 0
+http://dbpedia.org/resource/President_of_Mexico and http://dbpedia.org/resource/Centrism and the value is : 0
+http://dbpedia.org/resource/President_of_Mexico and http://dbpedia.org/resource/Political_party and the value is : 0
+http://dbpedia.org/resource/Civic_Choice and http://dbpedia.org/resource/Centrism and the value is : 1
+http://dbpedia.org/resource/Civic_Choice and http://dbpedia.org/resource/Political_party and the value is : 0
+http://dbpedia.org/resource/Centrism and http://dbpedia.org/resource/Political_party and the value is : 0
+http://dbpedia.org/resource/Mario and http://dbpedia.org/resource/Prime_minister and the value is : 0
+http://dbpedia.org/resource/Microeconomic_reform and http://dbpedia.org/resource/Austerity and the value is : 0
+http://dbpedia.org/resource/Microeconomic_reform and http://dbpedia.org/resource/European_debt_crisis and the value is : 0
+http://dbpedia.org/resource/Austerity and http://dbpedia.org/resource/European_debt_crisis and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+mario monti born 19 march 1943 is an italian economist who served as the prime minister of italy from 2011 to 2013 leading a government of technocrats in the wake of the italian debt crisis. monti served as a european commissioner from 1995 to 2004 with responsibility for the internal market services customs and taxation from 1995 to 1999 and for competition from 1999 to 2004. monti has also been rector and president of bocconi university in milan for many years. from november 2011 until april 2013 monti was the president of civic choice a centrist political party. he was commonly referred to as super mario in the italian media during his tenure as prime minister. he is widely respected in europe for his economic reforms and austerity policies which he put in place to combat the italian debt crisis. 
+
+Coref Resolved : 
+mario monti born 19 march 1943 is an italian economist who served as the prime minister of italy from 2011 to 2013 leading a government of technocrats in the wake of the italian debt crisis. monti served as a european commissioner from 1995 to 2004 with responsibility for the internal market services customs and taxation from 1995 to 1999 and for competition from 1999 to 2004 . monti has also been rector and president of bocconi university in milan for many years. from november 2011 until april 2013 monti was the president of civic choice a centrist political party. monti was commonly referred to as super mario in the italian media during monti tenure as prime minister. monti is widely respected in europe for monti economic reforms and austerity policies which monti put in place to combat the italian debt crisis.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.16666666666666666
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate accurate accurate 
+

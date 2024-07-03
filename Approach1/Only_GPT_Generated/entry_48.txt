@@ -1,0 +1,56 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Nursing and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Social_work and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Humanitarianism and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Polish_resistance_movement_in_World_War_II and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Warsaw_Ghetto and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Nursing and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Social_work and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Humanitarianism and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Polish_resistance_movement_in_World_War_II and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Warsaw_Ghetto and the value is : 0
+http://dbpedia.org/resource/Nursing and http://dbpedia.org/resource/Social_work and the value is : 0
+http://dbpedia.org/resource/Nursing and http://dbpedia.org/resource/Humanitarianism and the value is : 0
+http://dbpedia.org/resource/Nursing and http://dbpedia.org/resource/Polish_resistance_movement_in_World_War_II and the value is : 0
+http://dbpedia.org/resource/Nursing and http://dbpedia.org/resource/Warsaw_Ghetto and the value is : 0
+http://dbpedia.org/resource/Social_work and http://dbpedia.org/resource/Humanitarianism and the value is : 0
+http://dbpedia.org/resource/Social_work and http://dbpedia.org/resource/Polish_resistance_movement_in_World_War_II and the value is : 0
+http://dbpedia.org/resource/Social_work and http://dbpedia.org/resource/Warsaw_Ghetto and the value is : 0
+http://dbpedia.org/resource/Humanitarianism and http://dbpedia.org/resource/Polish_resistance_movement_in_World_War_II and the value is : 0
+http://dbpedia.org/resource/Humanitarianism and http://dbpedia.org/resource/Warsaw_Ghetto and the value is : 1
+http://dbpedia.org/resource/Polish_resistance_movement_in_World_War_II and http://dbpedia.org/resource/Warsaw_Ghetto and the value is : 1
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Żegota and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Resistance_during_World_War_II and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Smuggling and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Żegota and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Resistance_during_World_War_II and the value is : 0
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Smuggling and the value is : 1
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Żegota and http://dbpedia.org/resource/Resistance_during_World_War_II and the value is : 0
+http://dbpedia.org/resource/Żegota and http://dbpedia.org/resource/Smuggling and the value is : 0
+http://dbpedia.org/resource/Żegota and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Resistance_during_World_War_II and http://dbpedia.org/resource/Smuggling and the value is : 0
+http://dbpedia.org/resource/Resistance_during_World_War_II and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Smuggling and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Personal_name and the value is : 0
+http://dbpedia.org/resource/Irena_Sendler and http://dbpedia.org/resource/Nobel_Peace_Prize and the value is : 1
+http://dbpedia.org/resource/Personal_name and http://dbpedia.org/resource/Nobel_Peace_Prize and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+irena sendler née krzyżanowska 15 february 1910 12 may 2008 was a polish nurse social worker and humanitarian who served in the polish underground resistance during world war ii in germanoccupied warsaw. she was part of the polish undergrounds żegota resistance organization and was responsible for saving the lives of 2500 jewish children by smuggling them out of the warsaw ghetto and providing them with false identity documents and shelter in individual and group childrens homes in the city. she was nominated for the nobel peace prize in 2007. 
+
+Coref Resolved : 
+irena sendler née krzyżanowska 15 february 1910 12 may 2008 was a polish nurse social worker and humanitarian who served in the polish underground resistance during world war ii in germanoccupied warsaw. irena sendler née krzyżanowska was part of the polish undergrounds żegota resistance organization and was responsible for saving the lives of 2500 jewish children by smuggling 2500 jewish children out of the germanoccupied warsawghetto and providing 2500 jewish children with false identity documents and shelter in individual and group childrens homes in the city. irena sendler née krzyżanowska was nominated for the nobel peace prize in 2007.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.1794871794871795
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate 
+

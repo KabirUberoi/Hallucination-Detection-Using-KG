@@ -1,0 +1,197 @@
+#############SENTENCE_PAIRS############
+
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and ancient China and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Huai and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and King Huai II and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and King Huai II and the value is : -1
+Zhuang and 613 BC and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Zhou dynasty and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Jin and the value is : -1
+Zhuang and Qin and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and kindness and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+Zhuang and Chu and the value is : -1
+
+#############GROUND_PAIRS############
+
+King Zhuang and Zhuang and the value is : 1
+King Zhuang and Chu and the value is : 1
+King Zhuang and Chu and the value is : 1
+King Zhuang and Chinese history and the value is : 1
+King Zhuang and Zhuang and the value is : 1
+King Zhuang and Chu and the value is : 1
+King Zhuang and Lü and the value is : 0
+King Zhuang and Zhuang and the value is : 1
+King Zhuang and Zhuang and the value is : 1
+King Zhuang and Chu and the value is : 1
+King Zhuang and posthumous title and the value is : 1
+King Zhuang and Zhuang and the value is : 1
+King Zhuang and Chu and the value is : 1
+King Zhuang and Five Hegemons and the value is : 1
+King Zhuang and China and the value is : 0
+King Zhuang and Zhou and the value is : 1
+King Zhuang and Zhou and the value is : 1
+King Zhuang and Zhuang and the value is : 1
+King Zhuang and Chu and the value is : 1
+King Zhuang and 613 BC and the value is : 0
+King Zhuang and Chu and the value is : 1
+King Zhuang and Zhuang and the value is : 1
+King Zhuang and Chu and the value is : 1
+King Zhuang and wasted time and the value is : 0
+King Zhuang and hunting and the value is : 0
+courtiers and Zhuang and the value is : -1
+courtiers and Chu and the value is : -1
+courtiers and Zhuang and the value is : -1
+courtiers and Chu and the value is : -1
+courtiers and Zhuang and the value is : -1
+courtiers and Chu and the value is : -1
+minister and Zhuang and the value is : -1
+minister and Chu and the value is : -1
+minister and Zhuang and the value is : -1
+minister and Chu and the value is : -1
+minister and Zhuang and the value is : -1
+minister and Chu and the value is : -1
+minister and Zhuang and the value is : -1
+minister and Chu and the value is : -1
+minister and court and the value is : -1
+King Zhuang and Zhuang and the value is : 1
+King Zhuang and Chu and the value is : 1
+King Zhuang and Sunshu Ao and the value is : 1
+King Zhuang and chancellor and the value is : 0
+output and Chu and the value is : -1
+output and Sunshu Ao and the value is : -1
+output and reservoir and the value is : -1
+output and Anhui and the value is : -1
+which and Zhuang and the value is : -1
+which and Chu and the value is : -1
+which and Chu and the value is : -1
+victories and Zhuang and the value is : -1
+victories and Chu and the value is : -1
+victories and Zhou and the value is : -1
+victories and Zhou and the value is : -1
+King Zhuang and Zhuang and the value is : 1
+King Zhuang and Chu and the value is : 1
+King Zhuang and Zhou and the value is : 1
+King Zhuang and tripod and the value is : 0
+King Zhuang and Zhou and the value is : 1
+King Zhuang and euphemism and the value is : 0
+King Zhuang and ultimate power and the value is : 0
+King Zhuang and China and the value is : 0
+King Zhuang and Zhuang and the value is : 1
+King Zhuang and Chu and the value is : 1
+King Zhuang and hegemony and the value is : 0
+King Zhuang and Zhuang and the value is : 1
+King Zhuang and Chu and the value is : 1
+King Zhuang and regent and the value is : 0
+King Zhuang and hegemon and the value is : 1
+King Zhuang and Zhuang and the value is : 1
+King Zhuang and Chu and the value is : 1
+King Zhuang and Chinese and the value is : 1
+King Zhuang and four-character idiom and the value is : 0
+King Zhuang and Rén and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+"Zhuang of Chu (died 621 BC) was the last ruler of the state of Chu during the Spring and Autumn period of ancient China.
+He was the son of King Huai of Chu and the younger brother of King Huai II.
+He succeeded his brother in 613 BC and reigned until his death in 621 BC.
+During his reign, Zhuang of Chu faced numerous challenges from the other states of the Zhou dynasty.
+He was forced to cede territory to the state of Jin and was defeated by the state of Qin in 614 BC.
+He also faced internal strife from his own ministers, who were divided into two factions.
+Despite these challenges, Zhuang of Chu was able to maintain the independence of Chu and kept it from being annexed by the other states.
+He was also able to expand Chu's territory and strengthen its economy.
+Zhuang of Chu was a wise and capable ruler who was respected by his contemporaries.
+He was known for his generosity and kindness, and was praised for his ability to maintain peace and stability in Chu.
+He was also a patron of the arts and literature,.
+
+
+Coref Resolved: 
+
+0. "Zhuang of Chu Chu (died 621 BC ) was the last ruler of the state of Chu during the Spring and Autumn period of ancient China.
+1. Zhuang of Chu was the son of King Huai of Chu and the younger brother of King Huai II .
+2. Zhuang of Chu succeeded King Huai II in 613 BC and reigned until Zhuang of Chu death in 621 BC .
+3. During Zhuang of Chu reign, Zhuang of Chu Chu faced numerous challenges from the other states of the Zhou dynasty.
+4. Zhuang of Chu was forced to cede territory to the state of Jin and was defeated by the state of Qin in 614 BC.
+5. Zhuang of Chu also faced internal strife from Zhuang of Chu own ministers, who were divided into two factions.
+6. Despite these challenges, Zhuang of Chu Chu was able to maintain the independence of the state of Chu and kept the state of Chu from being annexed by the other states.
+7. Zhuang of Chu was also able to expand the state of Chu territory and strengthen the state of Chu economy.
+8. Zhuang of Chu Chu was a wise and capable ruler who was respected by Zhuang of Chu contemporaries.
+9. Zhuang of Chu was known for Zhuang of Chu generosity and kindness, and was praised for Zhuang of Chu ability to maintain peace and stability in the state of Chu .
+10. Zhuang of Chu was also a patron of the arts and literature,.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+King Zhuang of Chu (died 591 BC) was a monarch of the Zhou dynasty state of Chu during the Spring and Autumn period of ancient Chinese history.
+His personal name was Xiong Lü, ancestral name Mi (芈), and King Zhuang was his posthumous title.
+He became one of the Five Hegemons and attempted to wrest control of China from the King of Zhou.
+King Zhuang ascended the throne in 613 BC at a time when the kingdom of Chu was in disarray.
+For the first three years of his reign, Zhuang wasted time on excessive hunting and lavish partying.
+Several courtiers were anxious about the king, but none dared speak up as he had given orders that anyone who challenged his authority would be killed.
+When a particularly senior minister challenged him through a riddle, the king responded that he had been waiting for three years for someone from his court to show some nationalistic pride.
+The king made Sunshu Ao chancellor and began a series of reforms.
+Chu's agricultural output improved significantly during his reign, aided by Sunshu Ao's comprehensive dam-works and an enormous planned reservoir created in modern-day northern Anhui province.
+In 611 BC he annexed the state of Yong (庸国), a move which made Chu much stronger.
+After some overwhelming victories at the head of his army, King Zhuang attempted to take the place of King Ding of Zhou.
+He asked a messenger from Zhou about the weight of the nine tripod cauldrons which Zhou possessed, a euphemism for seeking ultimate power in China at the time, but was rebuffed.
+In the Battle of Bi, his army defeated the state of Jin, another strong state at that time.
+Later he achieved hegemony amongst some other states.
+His progress from lazy regent to a hegemon of his time gave rise to the Chinese four-character idiom of "Yī Mǐng Jīng Rén" (一冥而惊人). 
+
+Coref Resolved: 
+
+0. King Zhuang of Chu (died 591 BC) was a monarch of Chu during the Spring and Autumn period of ancient Chinese history.
+1. King Zhuang of Chu (died 591 BC) personal name was Xiong Lü, ancestral name Mi (芈), and King Zhuang was King Zhuang of Chu (died 591 BC) posthumous title.
+2. King Zhuang of Chu (died 591 BC) became one of the Five Hegemons and attempted to wrest control of China from the King of Zhou Zhou .
+3. King Zhuang of Chu (died 591 BC) ascended the throne in 613 BC at a time when Chu was in disarray.
+4. For the first three years of his reign , King Zhuang of Chu (died 591 BC) wasted time on excessive hunting and lavish partying.
+5. Several courtiers were anxious about King Zhuang of Chu (died 591 BC) , but none dared speak up as King Zhuang of Chu (died 591 BC) had given orders that anyone who challenged King Zhuang of Chu (died 591 BC) authority would be killed.
+6. When a particularly senior minister challenged King Zhuang of Chu (died 591 BC) through a riddle, King Zhuang of Chu (died 591 BC) responded that King Zhuang of Chu (died 591 BC) had been waiting for three years for someone from King Zhuang of Chu (died 591 BC) court to show some nationalistic pride.
+7. King Zhuang of Chu (died 591 BC) made Sunshu Ao chancellor and began a series of reforms.
+8. Chu agricultural output improved significantly during his reign , aided by Sunshu Ao comprehensive dam-works and an enormous planned reservoir created in modern-day northern Anhui province.
+9. In 611 BC King Zhuang of Chu (died 591 BC) annexed the state of Yong (庸国), a move which made Chu much stronger.
+10. After some overwhelming victories at the head of his army , King Zhuang of Chu (died 591 BC) attempted to take the place of the King of Zhou Zhou .
+11. King Zhuang of Chu (died 591 BC) asked a messenger from Zhou about the weight of the nine tripod cauldrons which Zhou possessed, a euphemism for seeking ultimate power in China at the time, but was rebuffed.
+12. In the Battle of Bi, his army defeated the state of Jin, another strong state at that time.
+13. Later King Zhuang of Chu (died 591 BC) achieved hegemony amongst some other states.
+14. King Zhuang of Chu (died 591 BC) progress from lazy regent to a hegemon of King Zhuang of Chu (died 591 BC) time gave rise to the Chinese four-character idiom of "Yī Mǐng Jīng Rén" (一冥而惊人).
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 
+
+Value for ground truth is : 
+1.0 0.8571428571428571 0.8333333333333334 0.75 0.5 -1.0 -1.0 0.75 -1.0 -1.0 -1.0 0.5 -1 0.6666666666666666 0.6666666666666666 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate accurate accurate accurate accurate minor_inaccurate 
+

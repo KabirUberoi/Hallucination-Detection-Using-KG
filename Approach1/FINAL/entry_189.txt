@@ -1,0 +1,158 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/British_Railways_Board and the value is : 1
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/British_Railways_Board and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Transcontinental_railroad and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Montreal and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Winnipeg and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/British_Columbia and the value is : 1
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Montreal and the value is : 0
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Vancouver and the value is : 0
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 1
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Winnipeg and the value is : 0
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and the value is : 0
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Vancouver and the value is : 1
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 0
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Winnipeg and the value is : 0
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and the value is : 0
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Vancouver and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 0
+http://dbpedia.org/resource/Vancouver and http://dbpedia.org/resource/Winnipeg and the value is : 0
+http://dbpedia.org/resource/Vancouver and http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and the value is : 0
+http://dbpedia.org/resource/Vancouver and http://dbpedia.org/resource/British_Columbia and the value is : 1
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/Winnipeg and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/British_Columbia and the value is : 1
+http://dbpedia.org/resource/Winnipeg and http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and the value is : 1
+http://dbpedia.org/resource/Winnipeg and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine and http://dbpedia.org/resource/British_Columbia and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Château_Laurier and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Ottawa and the value is : 0
+http://dbpedia.org/resource/Château_Laurier and http://dbpedia.org/resource/Ottawa and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Rural_Municipality_of_Rockwood and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/Rural_Municipality_of_Rockwood and http://dbpedia.org/resource/Ontario and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/General_manager and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/President_of_the_United_States and the value is : 1
+http://dbpedia.org/resource/Grand_Trunk_Railway and http://dbpedia.org/resource/General_manager and the value is : 1
+http://dbpedia.org/resource/Grand_Trunk_Railway and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Transcontinental_railroad and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Canadian_Confederation and the value is : 0
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Instrumental and the value is : 0
+http://dbpedia.org/resource/Transcontinental_railroad and http://dbpedia.org/resource/Canadian_Confederation and the value is : 1
+http://dbpedia.org/resource/Instrumental and http://dbpedia.org/resource/Canadian_Confederation and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Château_Laurier and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Ottawa and the value is : 1
+http://dbpedia.org/resource/Château_Laurier and http://dbpedia.org/resource/Ottawa and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/General_manager and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Wabash_Railroad and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/St._Louis and the value is : 0
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/Wabash_Railroad and the value is : 0
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/St._Louis and the value is : 0
+http://dbpedia.org/resource/Wabash_Railroad and http://dbpedia.org/resource/St._Louis and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Wabash_Railroad and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/St._Louis and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/General_manager and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 0
+http://dbpedia.org/resource/Wabash_Railroad and http://dbpedia.org/resource/St._Louis and the value is : 0
+http://dbpedia.org/resource/Wabash_Railroad and http://dbpedia.org/resource/General_manager and the value is : 0
+http://dbpedia.org/resource/Wabash_Railroad and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 0
+http://dbpedia.org/resource/St._Louis and http://dbpedia.org/resource/General_manager and the value is : 0
+http://dbpedia.org/resource/St._Louis and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 0
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/Grand_Trunk_Railway and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Southern_Pacific_Transportation_Company and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/Southern_Pacific_Transportation_Company and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Southern_Pacific_Transportation_Company and the value is : 1
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 0
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/Herman_Melville and the value is : 1
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/John_Coffee_Hays and the value is : 0
+http://dbpedia.org/resource/General_manager and http://dbpedia.org/resource/Bankruptcy and the value is : 1
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/Herman_Melville and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/John_Coffee_Hays and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/Bankruptcy and the value is : 0
+http://dbpedia.org/resource/Herman_Melville and http://dbpedia.org/resource/John_Coffee_Hays and the value is : 0
+http://dbpedia.org/resource/Herman_Melville and http://dbpedia.org/resource/Bankruptcy and the value is : 0
+http://dbpedia.org/resource/John_Coffee_Hays and http://dbpedia.org/resource/Bankruptcy and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Rail_transport and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Steamship and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Rail_transport and the value is : 0
+http://dbpedia.org/resource/President_of_the_United_States and http://dbpedia.org/resource/Steamship and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/Rail_transport and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/Steamship and the value is : 0
+http://dbpedia.org/resource/Rail_transport and http://dbpedia.org/resource/Steamship and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Philanthropy and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Sun and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Emperor_of_Japan and the value is : 0
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Sun and the value is : 0
+http://dbpedia.org/resource/Philanthropy and http://dbpedia.org/resource/Emperor_of_Japan and the value is : 0
+http://dbpedia.org/resource/Sun and http://dbpedia.org/resource/Emperor_of_Japan and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/IMSA_GT_Championship and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Transcontinental_railroad and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/IMSA_GT_Championship and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/Transcontinental_railroad and the value is : 1
+http://dbpedia.org/resource/IMSA_GT_Championship and http://dbpedia.org/resource/Transcontinental_railroad and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Insolvency and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/IMSA_GT_Championship and the value is : 0
+http://dbpedia.org/resource/Insolvency and http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and the value is : 1
+http://dbpedia.org/resource/Insolvency and http://dbpedia.org/resource/IMSA_GT_Championship and the value is : 0
+http://dbpedia.org/resource/Grand_Trunk_Pacific_Railway and http://dbpedia.org/resource/IMSA_GT_Championship and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/RMS_Titanic and the value is : 1
+http://dbpedia.org/resource/Root_mean_square and http://dbpedia.org/resource/Iceberg and the value is : 0
+http://dbpedia.org/resource/Root_mean_square and http://dbpedia.org/resource/Charles_Melville_Hays and the value is : 0
+http://dbpedia.org/resource/Root_mean_square and http://dbpedia.org/resource/RMS_Titanic and the value is : 0
+http://dbpedia.org/resource/Iceberg and http://dbpedia.org/resource/Charles_Melville_Hays and the value is : 0
+http://dbpedia.org/resource/Iceberg and http://dbpedia.org/resource/RMS_Titanic and the value is : 0
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/RMS_Titanic and the value is : 1
+http://dbpedia.org/resource/Charles_Melville_Hays and http://dbpedia.org/resource/Montreal and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+charles melville hays 1856 15 april 1912 was a canadian railway executive. he was the president of the grand trunk railway gtr from 1899 until his death in 1912. he was responsible for the construction of the gtrs transcontinental line from montreal to vancouver and for the construction of the grand trunk pacific railway gtpr from winnipeg to prince rupert british columbia. he was also responsible for the construction of the gtrs network of hotels including the château laurier in ottawa. hays was born in rockwood ontario and began his career as a railway clerk in 1872. he rose through the ranks of the gtr becoming general manager in 1892 and president in 1899. he was a strong advocate of the transcontinental railway and was instrumental in securing the necessary funding from the canadian government. he was also responsible for the construction of the gtrs network of hotels including the château laurier in ottawa. hays was a visionary leader who was determined to make the gtr a success. he was a strong advocate of 
+
+Coref Resolved : 
+charles melville hays 1856 15 april 1912 was a canadian railway executive. charles melville hays was the president of the grand trunk railway gtr from 1899 until charles melville hays death in 1912 . charles melville hays was responsible for the construction of the gtrs transcontinental line from montreal to vancouver and for the construction of the grand trunk pacific railway gtpr from winnipeg to prince rupert british columbia. charles melville hays was also responsible for the construction of the gtrs network of hotels including the château laurier in ottawa. charles melville hays was born in rockwood ontario and began charles melville hays career as a railway clerk in 1872. charles melville hays rose through the ranks of the grand trunk railway gtr becoming general manager in 1892 and president in 1899 . charles melville hays was a strong advocate of the gtrs transcontinental line and was instrumental in securing the necessary funding from the canadian government. charles melville hays was also responsible for the construction of the gtrs network of hotels including the château laurier in ottawa. charles melville hays was a visionary leader who was determined to make the grand trunk railway gtr a success. charles melville hays was a strong advocate of
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+charles melville hays may 16 1856 april 15 1912 was the president of the grand trunk railway. he began working in the railroad business as a clerk at the age of 17 and quickly rose through the ranks of management to become the general manager of the wabash st. louis and pacific railway. he became vicepresident of that company in 1889 and remained as such until 1896 when he became general manager of the grand trunk railway gtr of canada. hays left gtr for a short time to serve as the president of the southern pacific railway company but returned to gtr after one year. as vicepresident and general manager of gtr he is credited with keeping the company from bankruptcy. in 1909 he became the president of gtr and all its consolidated lines subsidiary railroads and steamship companies. he was known for his philanthropy and received the order of the rising sun third class from the emperor of japan in 1907. hays is credited with the formation of the grand trunk pacific railway gtp a dream he had to create a second transcontinental railroad within the borders of canada. he is also blamed for the insolvency of both the gtr and the gtp. he died before his dream was complete as he perished at sea in the sinking of the rms titanic. before the ship collided with an iceberg hays made a statement that was prophetic of the disaster. his body was recovered and he was buried in montreal. he was survived by his wife and four daughters. 
+
+Coref Resolved : 
+charles melville hays may 16 1856 april 15 1912 was the president of the grand trunk railway. charles melville hays began working in the railroad business as a clerk at the age of 17 and quickly rose through the ranks of management to become the general manager of the wabash st. louis and pacific railway. charles melville hays became vicepresident of the wabash st. louis and pacific railwayin 1889 and remained as such until 1896 when charles melville hays became general manager of the grand trunk railway gtr of canada. charles melville hays left the grand trunk railwayfor a short time to serve as the president of the southern pacific railway company but returned to the grand trunk railwayafter one year. as vicepresident and general manager of the grand trunk railwaycharles melville hays is credited with keeping the grand trunk railwayfrom bankruptcy. in 1909 charles melville hays became the president of the grand trunk railwayand all the grand trunk railwayconsolidated lines subsidiary railroads and steamship companies. charles melville hays was known for charles melville hays philanthropy and received the order of the rising sun third class from the emperor of japan in 1907. charles melville hays is credited with the formation of the grand trunk pacific railway gtp a dream charles melville hays had to create a second transcontinental railroad within the borders of canada. charles melville hays is also blamed for the insolvency of both the grand trunk railwayand the grand trunk pacific railway gtp . charles melville hays died before charles melville hays dream was complete as charles melville hays perished at sea in the sinking of the rms titanic. before the rms titaniccollided with an iceberg charles melville hays made a statement that was prophetic of the sinking of the rms titanic. charles melville hays body was recovered and charles melville hays was buried in montreal. charles melville hays was survived by charles melville hays wife and four daughters.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.375 and for ground truth is : 0.16216216216216217
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate accurate accurate accurate minor_inaccurate 
+

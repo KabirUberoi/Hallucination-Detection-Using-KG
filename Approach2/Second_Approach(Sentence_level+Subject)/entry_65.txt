@@ -1,0 +1,77 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Gokusen and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Tokyo and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Japan and the value is : 1
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Model_(person) and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Midori_Naka and the value is : 0
+http://dbpedia.org/resource/Makiko_Esumi and http://dbpedia.org/resource/Japan_Academy_Film_Prize and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Sho_Hirano and http://dbpedia.org/resource/Shimane_Prefecture and the value is : 0
+http://dbpedia.org/resource/Sho_Hirano and http://dbpedia.org/resource/Japan and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Makiko Esumi (江角真紀子, Esumi Makiko, born April 8, 1965) is a Japanese actress and former fashion model.
+She is best known for her roles in the television series Gokusen (2002 2005) and Hanazakari no Kimitachi e (2007).
+She has also appeared in several films, including the award-winning Departures (2008).
+Esumi was born in Tokyo, Japan.
+She began her career as a fashion model in the 1980s, and made her acting debut in the television drama series Kaze no Naka no Shōjo (1991).
+She has since appeared in numerous television dramas, films, and stage productions.
+She won the Japan Academy Prize for Best Supporting Actress for her performance in Departures.
+
+
+Coref Resolved: 
+
+Makiko Esumi (江角真紀子, Esumi Makiko, born April 8, 1965) is a Japanese actress and former fashion model.
+Makiko Esumi is best known for Makiko Esumi roles in the television series Gokusen (2002 2005) and Hanazakari no Kimitachi e (2007).
+Makiko Esumi has also appeared in several films, including the award-winning Departures (2008).
+Makiko Esumi was born in Tokyo, Japan.
+Makiko Esumi began Makiko Esumi career as a fashion model in the 1980s, and made Makiko Esumi acting debut in the television drama series Kaze no Naka no Shōjo (1991).
+Makiko Esumi has since appeared in numerous television dramas, films, and stage productions.
+Makiko Esumi won the Japan Academy Prize for Best Supporting Actress for Makiko Esumi performance in the award-winning Departures (2008).
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Makiko Hirano (平野真紀子 "Hirano Makiko"), née on 18 December 1966 in Izumo, Shimane Prefecture, Japan, is a Japanese model, actress, writer, essayist, and lyricist.
+Esumi is most well-known for her role as Chinatsu Tsuboi in the Japanese television drama series "Shomuni".
+Esumi won the 1995 Rookie of the Year Award at both the 19th Annual Japan Academy Prize Ceremonies and at the 38th Blue Ribbon Awards for her role in the 1995 film "Maborosi".
+She was nominated in 2002 for the Best Actress Award at the 26th Annual Japan Academy Prize Ceremonies for her role in "Inochi".
+In 2000, she released her single, "One Way Drive", featuring guitar work and production by Tomoyasu Hotei, who also co-wrote the song with Esumi.
+She wrote a children's book in 2005.
+Esumi is married to Fuji TV director Shin Hirano and is distantly related to Koji Ezumi, a goalkeeper for Omiya Ardija.
+She was previously married to photographer Rowland Kirishima.
+She gave birth in 2005 to her first daughter, with her second due to be born in December 2009.
+She is represented by the talent management firm Ken-On.
+ 
+
+Coref Resolved: 
+
+Makiko Hirano (平野真紀子 "Hirano Makiko"), née on 18 December 1966 in Izumo, Shimane Prefecture, Japan, is a Japanese model, actress, writer, essayist, and lyricist.
+Esumi is most well-known for Esumi role as Chinatsu Tsuboi in the Japanese television drama series "Shomuni".
+Esumi won the 1995 Rookie of the Year Award at both the 19th Annual Japan Academy Prize Ceremonies and at the 38th Blue Ribbon Awards for Esumi role in the 1995 film "Maborosi".
+Esumi was nominated in 2002 for the Best Actress Award at the 26th Annual Japan Academy Prize Ceremonies for Esumi role in "Inochi".
+In 2000, Esumi released Esumi single, "One Way Drive", featuring guitar work and production by Tomoyasu Hotei, who also co-wrote her single, "One Way Drive"with Esumi .
+Esumi wrote a children's book in 2005.
+Esumi is married to Fuji TV director Shin Hirano and is distantly related to Koji Ezumi, a goalkeeper for Omiya Ardija.
+Esumi was previously married to photographer Rowland Kirishima.
+Esumi gave birth in 2005to Esumi first daughter, with Esumi second due to be born in December 2009.
+Esumi is represented by the talent management firm Ken-On.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 -1 0.5 0.0 -1 0.0 
+
+Value for ground truth is : 
+0.0 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate accurate minor_inaccurate 
+

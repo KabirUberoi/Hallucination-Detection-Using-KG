@@ -1,0 +1,63 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Army_ranks_and_insignia_of_Pakistan and the value is : 0
+http://dbpedia.org/resource/Daniel_Sedin and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 0
+http://dbpedia.org/resource/Army_ranks_and_insignia_of_Pakistan and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 0
+http://dbpedia.org/resource/French_language and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 0
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Quebec and the value is : 1
+http://dbpedia.org/resource/Montreal and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 0
+http://dbpedia.org/resource/Quebec and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 0
+http://dbpedia.org/resource/Canadian_Armed_Forces and http://dbpedia.org/resource/French_language and the value is : 0
+http://dbpedia.org/resource/Canadian_Armed_Forces and http://dbpedia.org/resource/Kandahar and the value is : 0
+http://dbpedia.org/resource/Canadian_Armed_Forces and http://dbpedia.org/resource/Region and the value is : 0
+http://dbpedia.org/resource/Canadian_Armed_Forces and http://dbpedia.org/resource/Panjwayi_District and the value is : 1
+http://dbpedia.org/resource/Kandahar and http://dbpedia.org/resource/Region and the value is : 0
+http://dbpedia.org/resource/Kandahar and http://dbpedia.org/resource/Panjwayi_District and the value is : 0
+http://dbpedia.org/resource/Region and http://dbpedia.org/resource/Panjwayi_District and the value is : 0
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Taxicab and http://dbpedia.org/resource/Canadian_nationality_law and the value is : 0
+http://dbpedia.org/resource/Taxicab and http://dbpedia.org/resource/United_States_Armed_Forces and the value is : 0
+http://dbpedia.org/resource/Canadian_nationality_law and http://dbpedia.org/resource/United_States_Armed_Forces and the value is : 0
+http://dbpedia.org/resource/Taxicab and http://dbpedia.org/resource/Canadian_Armed_Forces and the value is : 0
+http://dbpedia.org/resource/Taxicab and http://dbpedia.org/resource/Military_discharge and the value is : 0
+http://dbpedia.org/resource/Taxicab and http://dbpedia.org/resource/Weapon and the value is : 1
+http://dbpedia.org/resource/Military_discharge and http://dbpedia.org/resource/Weapon and the value is : 0
+http://dbpedia.org/resource/Taxicab and http://dbpedia.org/resource/GardaWorld and the value is : 0
+http://dbpedia.org/resource/Taxicab and http://dbpedia.org/resource/Security_guard and the value is : 0
+http://dbpedia.org/resource/Taxicab and http://dbpedia.org/resource/Security and the value is : 0
+http://dbpedia.org/resource/GardaWorld and http://dbpedia.org/resource/Security_guard and the value is : 1
+http://dbpedia.org/resource/GardaWorld and http://dbpedia.org/resource/Security and the value is : 0
+http://dbpedia.org/resource/Security_guard and http://dbpedia.org/resource/Security and the value is : 1
+http://dbpedia.org/resource/Taxicab and http://dbpedia.org/resource/January_29 and the value is : 0
+http://dbpedia.org/resource/Taxicab and http://dbpedia.org/resource/Court and the value is : 0
+http://dbpedia.org/resource/January_29 and http://dbpedia.org/resource/Court and the value is : 0
+http://dbpedia.org/resource/Taxicab and http://dbpedia.org/resource/January_12 and the value is : 0
+http://dbpedia.org/resource/Taxicab and http://dbpedia.org/resource/Security and the value is : 0
+http://dbpedia.org/resource/GardaWorld and http://dbpedia.org/resource/Security_guard and the value is : 0
+http://dbpedia.org/resource/GardaWorld and http://dbpedia.org/resource/Taxicab and the value is : 0
+http://dbpedia.org/resource/Security_guard and http://dbpedia.org/resource/Taxicab and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+daniel ménard born october 28 1959 is a canadian retired military officer and former commander of the canadian forces in afghanistan. he was the first francophone to command the canadian forces in afghanistan. ménard was born in montreal quebec and joined the canadian forces in 1979. he graduated from the royal military college of canada in 1983 and was commissioned as an infantry officer. he served in various command and staff positions in canada and abroad including a tour of duty in bosnia and herzegovina. in 2006 he was appointed commander of the canadian forces in afghanistan becoming the first francophone to hold the position. he was responsible for the canadian forces operations in the kandahar region and was in command of the canadian forces during the battle of panjwaii in 2006. he retired from the canadian forces in 2008. 
+
+Coref Resolved : 
+daniel ménard born october 28 1959 is a canadian retired military officer and former commander of the canadian forces in afghanistan. ménard was the first francophone to command the canadian forces in afghanistan. ménard was born in montreal quebec and joined the canadian forces in 1979. ménard graduated from the royal military college of canada in 1983 and was commissioned as an infantry officer. ménard served in various command and staff positions in canada and abroad including a tour of duty in bosnia and herzegovina. in 2006 ménard was appointed commander of the canadian forces in afghanistanbecoming the first francophone to hold commander of the canadian forces in afghanistan . ménard was responsible for the canadian forces operations in the kandahar region and was in command of the canadian forces during the battle of panjwaii in 2006 . ménard retired from the canadian forces in 2008.
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+daniel ménard is a canadian citizen and former general in the canadian armed forces. ménard had commanded the canadian forces in afghanistan from 2009 to 2010. two different allegations triggered his replacement and demotion he was courtmartialed for what was described as the reckless discharge of a weapon while safely back on base and he was also alleged to have engaged in a sexual relationship with a subordinate. ménard resigned from the armed forces and took a job with gardaworld a private security firm which assigned him to direct its private security operations in afghanistan. news of his arrest by afghan authorities became public on january 29 2014 when he first appeared in an afghan court. he had been arrested on january 12 2014 following a visit to an afghan ministry. accounts differ as to the nature of his arrest some sources assert he was arrested on weapons charges while other sources assert afghan authorities arrested him because his firm did not have or no longer had official authorization to perform security operations in afghanistan. gardaworld has claimed his arrest is all due to a simple misunderstanding. 
+
+Coref Resolved : 
+daniel ménard is a canadian citizen and former general in the canadian armed forces. daniel ménard had commanded the canadian forces in afghanistan from 2009 to 2010. two different allegations triggered daniel ménard replacement and demotion daniel ménard was courtmartialed for what was described as the reckless discharge of a weapon while safely back on base and daniel ménard was also alleged to have engaged in a sexual relationship with a subordinate. daniel ménard resigned from the canadian armed forcesand took a job with gardaworld a private security firm which assigned daniel ménard to direct gardaworld a private security firm which assigned him to direct its private security operations in afghanistanprivate security operations in afghanistan . news of daniel ménard arrest by afghan authorities became public on january 29 2014 when daniel ménard first appeared in an afghan court. daniel ménard had been arrested on january 12 2014 following a visit to an afghan ministry. accounts differ as to the nature of daniel ménard arrest some sources assert daniel ménard was arrested on weapons charges while other sources assert afghan authorities arrested daniel ménard because daniel ménard firm did not have or no longer had official authorization to perform security operations in afghanistan . gardaworld a private security firm which assigned him to direct its private security operations in afghanistanhas claimed daniel ménard arrest is all due to a simple misunderstanding.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.14285714285714285 and for ground truth is : 0.14285714285714285
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

@@ -1,0 +1,42 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Kozhikina and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Old_Style_and_New_Style_dates and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/January_20 and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosopher and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Old_Style_and_New_Style_dates and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/January_20 and the value is : 0
+http://dbpedia.org/resource/Alisa_Kozhikina and http://dbpedia.org/resource/Philosopher and the value is : 0
+http://dbpedia.org/resource/Old_Style_and_New_Style_dates and http://dbpedia.org/resource/January_20 and the value is : 0
+http://dbpedia.org/resource/Old_Style_and_New_Style_dates and http://dbpedia.org/resource/Philosopher and the value is : 0
+http://dbpedia.org/resource/January_20 and http://dbpedia.org/resource/Philosopher and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Bestseller and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Moral_universalism and the value is : 0
+http://dbpedia.org/resource/Bestseller and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 0
+http://dbpedia.org/resource/Bestseller and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Bestseller and http://dbpedia.org/resource/Moral_universalism and the value is : 0
+http://dbpedia.org/resource/Atlas_Shrugged and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Atlas_Shrugged and http://dbpedia.org/resource/Moral_universalism and the value is : 0
+http://dbpedia.org/resource/Philosophy and http://dbpedia.org/resource/Moral_universalism and the value is : 0
+http://dbpedia.org/resource/Russia and http://dbpedia.org/resource/Ayn_Rand and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Non-fiction and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Non-fiction and http://dbpedia.org/resource/Philosophy and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+ayn rand born alisa zinovyevna rosenbaum february 2 o.s. january 20 1905 march 6 1982 was a russianamerican writer and philosopher. she is known for her two bestselling novels the fountainhead and atlas shrugged and for developing a philosophical system she called objectivism. educated in russia she moved to the united states in 1926. she had a play produced on broadway in 1935 and 1936. after two early novels that were initially unsuccessful she achieved fame with her 1943 novel the fountainhead. in 1957 rand published her bestknown work the novel atlas shrugged. afterward she turned to nonfiction to promote her philosophy publishing her own magazines and releasing several collections of essays until her death in 1982. 
+
+Coref Resolved : 
+ayn rand born alisa zinovyevna rosenbaum february 2 o.s. january 20 1905 march 6 1982 was a russianamerican writer and philosopher. ayn rand is known for ayn rand two bestselling novels the fountainhead and atlas shrugged and for developing a philosophical system ayn rand called objectivism. educated in russia ayn rand moved to the united states in 1926. ayn rand had a play produced on broadway in 1935 and 1936. after two early novels that were initially unsuccessful ayn rand achieved fame with ayn rand 1943 novel the fountainhead. in 1957 ayn rand published ayn rand bestknown work the novel atlas shrugged. afterward ayn rand turned to nonfiction to promote ayn rand philosophy publishing ayn rand own magazines and releasing several collections of essays until ayn rand death in 1982 .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.08
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate accurate accurate 
+

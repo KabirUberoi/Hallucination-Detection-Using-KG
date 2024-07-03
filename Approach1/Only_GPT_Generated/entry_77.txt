@@ -1,0 +1,44 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Labour_Party_(UK) and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Paul_of_Greece and http://dbpedia.org/resource/Sunderland_station and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Labour_Party_(UK) and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings and http://dbpedia.org/resource/Sunderland_station and the value is : 0
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Politician and the value is : 0
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Labour_Party_(UK) and http://dbpedia.org/resource/Sunderland_station and the value is : 1
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Politician and http://dbpedia.org/resource/Sunderland_station and the value is : 0
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Sunderland_station and the value is : 0
+http://dbpedia.org/resource/City_of_Sunderland and http://dbpedia.org/resource/SATB and the value is : 0
+http://dbpedia.org/resource/City_of_Sunderland and http://dbpedia.org/resource/Comprehensive_school and the value is : 0
+http://dbpedia.org/resource/SATB and http://dbpedia.org/resource/Comprehensive_school and the value is : 0
+http://dbpedia.org/resource/Trade_union and http://dbpedia.org/resource/GMB_(trade_union) and the value is : 0
+http://dbpedia.org/resource/Trade_union and http://dbpedia.org/resource/Councillor and the value is : 0
+http://dbpedia.org/resource/Trade_union and http://dbpedia.org/resource/Sunderland_City_Council and the value is : 0
+http://dbpedia.org/resource/GMB_(trade_union) and http://dbpedia.org/resource/Councillor and the value is : 0
+http://dbpedia.org/resource/GMB_(trade_union) and http://dbpedia.org/resource/Sunderland_City_Council and the value is : 0
+http://dbpedia.org/resource/Councillor and http://dbpedia.org/resource/Sunderland_City_Council and the value is : 0
+http://dbpedia.org/resource/1992_United_Kingdom_general_election and http://dbpedia.org/resource/Chris_Mullin and the value is : 1
+http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and http://dbpedia.org/resource/Committee and the value is : 0
+http://dbpedia.org/resource/Co-operative_Party and http://dbpedia.org/resource/GMB_(trade_union) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+paul elliott born 28 april 1964 is a british labour party politician who has been the member of parliament mp for sunderland central since 2010. elliott was born in sunderland and educated at st aidans comprehensive school and the university of sunderland. he worked as a trade union official for the gmb union and was a councillor on sunderland city council from 2002 to 2010. elliott was elected to the house of commons at the 2010 general election succeeding the labour mp chris mullin. he was reelected in 2015 and 2017. in parliament he has served on the work and pensions select committee since 2015. he is a member of the cooperative party and the gmb union. 
+
+Coref Resolved : 
+paul elliott born 28 april 1964 is a british labour party politician who has been the member of parliament mp for sunderland central since 2010. elliott was born in sunderland and educated at st aidans comprehensive school and the university of sunderland . elliott worked as a trade union official for the gmb union and was a councillor on sunderland city council from 2002 to 2010. elliott was elected to the house of commons at the 2010general election succeeding the labour mp chris mullin. elliott was reelected in 2015 and 2017. in parliament elliott has served on the work and pensions select committee since 2015 . elliott is a member of the cooperative party and the gmb union .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.07407407407407407
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+
