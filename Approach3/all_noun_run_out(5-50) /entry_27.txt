@@ -1,0 +1,160 @@
+#############SENTENCE_PAIRS############
+
+Thomas Harriot and c. and the value is : 0
+Thomas Harriot and 2 July and the value is : 0
+Thomas Harriot and an English astronomer and the value is : 1
+Thomas Harriot and mathematician and the value is : 1
+Thomas Harriot and ethnographer and the value is : 1
+Thomas Harriot and translator and the value is : 1
+Thomas Harriot and who and the value is : 0
+Thomas Harriot and advances and the value is : 0
+Thomas Harriot and the scientific field and the value is : 0
+Thomas Harriot and the late 16th and early 17th centuries and the value is : 0
+Thomas Harriot and the introduction and the value is : 0
+Thomas Harriot and the potato and the value is : 1
+Thomas Harriot and the British Isles and the value is : 1
+Thomas Harriot and the first person and the value is : 0
+Thomas Harriot and a drawing and the value is : 0
+Thomas Harriot and the Moon and the value is : 1
+Thomas Harriot and a telescope and the value is : 1
+Thomas Harriot and 26 July and the value is : 0
+Thomas Harriot and four months and the value is : 0
+Thomas Harriot and Galileo and the value is : 1
+Thomas Harriot and an important figure and the value is : 0
+Thomas Harriot and the scientific revolution and the value is : 0
+Thomas Harriot and the 17th century and the value is : 0
+Thomas Harriot and Oxford and the value is : 1
+Thomas Harriot and St Mary Hall and the value is : 1
+Thomas Harriot and the University and the value is : 0
+Thomas Harriot and Padua and the value is : 0
+Thomas Harriot and mathematics and the value is : 1
+Thomas Harriot and astronomy and the value is : 1
+Thomas Harriot and optics and the value is : 1
+Thomas Harriot and navigation and the value is : 0
+Thomas Harriot and Sir Walter Raleigh and the value is : 1
+Thomas Harriot and an expedition and the value is : 0
+Thomas Harriot and the New World and the value is : 0
+Thomas Harriot and observations and the value is : 0
+Thomas Harriot and the flora and the value is : 0
+Thomas Harriot and fauna and the value is : 0
+Thomas Harriot and native peoples and the value is : 1
+Thomas Harriot and the New World and the value is : 0
+Thomas Harriot and astronomical observations and the value is : 1
+Thomas Harriot and the Moon and the value is : 1
+Thomas Harriot and stars and the value is : 0
+Thomas Harriot and a treatise and the value is : 0
+Thomas Harriot and navigation and the value is : 0
+Thomas Harriot and a friend and the value is : 0
+Thomas Harriot and the mathematician and astronomer Johannes Kepler and the value is : 1
+Thomas Harriot and a member and the value is : 0
+Thomas Harriot and the scientific circle and the value is : 0
+Thomas Harriot and the Virginia Company and the value is : 0
+Thomas Harriot and London and the value is : 1
+
+#############GROUND_PAIRS############
+
+Thomas Harriot and (Oxford and the value is : 1
+Thomas Harriot and c. 1560 London and the value is : 0
+Thomas Harriot and 2 July and the value is : 0
+Thomas Harriot and Harriott and the value is : 0
+Thomas Harriot and Hariot and the value is : 0
+Thomas Harriot and Heriot and the value is : 0
+Thomas Harriot and an English astronomer and the value is : 1
+Thomas Harriot and mathematician and the value is : 1
+Thomas Harriot and ethnographer and the value is : 1
+Thomas Harriot and translator and the value is : 1
+Thomas Harriot and the introduction and the value is : 0
+Thomas Harriot and the potato and the value is : 1
+Thomas Harriot and the British Isles and the value is : 1
+Thomas Harriot and the first person and the value is : 0
+Thomas Harriot and a drawing and the value is : 0
+Thomas Harriot and the Moon and the value is : 1
+Thomas Harriot and a telescope and the value is : 1
+Thomas Harriot and 26 July and the value is : 0
+Thomas Harriot and four months and the value is : 0
+Thomas Harriot and Galileo and the value is : 1
+Thomas Harriot and St Mary Hall and the value is : 1
+Thomas Harriot and Oxford and the value is : 1
+Thomas Harriot and the Americas and the value is : 1
+Thomas Harriot and the 1585 expedition and the value is : 0
+Thomas Harriot and Roanoke Island and the value is : 1
+Thomas Harriot and Sir Walter Raleigh and the value is : 1
+Thomas Harriot and Sir Ralph Lane and the value is : 1
+Thomas Harriot and a vital member and the value is : 0
+Thomas Harriot and the 1585 expedition and the value is : 0
+Thomas Harriot and Roanoke Island and the value is : 1
+Thomas Harriot and Sir Walter Raleigh and the value is : 1
+Thomas Harriot and Sir Ralph Lane and the value is : 1
+Thomas Harriot and the Carolina Algonquian language and the value is : 1
+Thomas Harriot and two Native Americans and the value is : 1
+Thomas Harriot and Wanchese and the value is : 1
+Thomas Harriot and Manteo and the value is : 1
+Thomas Harriot and England and the value is : 1
+Thomas Harriot and the 9th Earl and the value is : 0
+Thomas Harriot and Northumberland and the value is : 0
+Thomas Harriot and Northumberland and the value is : 0
+Thomas Harriot and a prolific mathematician and the value is : 1
+Thomas Harriot and astronomer and the value is : 1
+Thomas Harriot and whom and the value is : 0
+Thomas Harriot and the theory and the value is : 0
+Thomas Harriot and refraction and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Thomas Harriot (c. 1560 2 July 1621) was an English astronomer, mathematician, ethnographer and translator who made advances within the scientific field during the late 16th and early 17th centuries.
+He is sometimes credited with the introduction of the potato to the British Isles.
+Harriot was the first person to make a drawing of the Moon through a telescope, on 26 July 1609, over four months before Galileo.
+He was an important figure in the scientific revolution of the 17th century.
+Harriot was born in Oxford in 1560 and educated at St Mary Hall, Oxford, and later at the University of Padua.
+He studied mathematics, astronomy, optics, and navigation.
+He was employed by Sir Walter Raleigh to lead an expedition to the New World in 1585, and he made observations of the flora, fauna, and native peoples of the area.
+He also made astronomical observations of the Moon and stars, and wrote a treatise on navigation.
+He was a friend of the mathematician and astronomer Johannes Kepler, and was a member of the scientific circle of the Virginia Company of London.
+
+
+Coref Resolved: 
+
+0. Thomas Harriot (c. 1560 2 July 1621) was an English astronomer, mathematician, ethnographer and translator who made advances within the scientific field during the late 16th and early 17th centuries.
+1. Thomas Harriot is sometimes credited with the introduction of the potato to the British Isles.
+2. Thomas Harriot was the first person to make a drawing of the Moon through a telescope, on 26 July 1609, over four months before Galileo.
+3. Thomas Harriot was an important figure in the scientific revolution of the 17th century.
+4. Thomas Harriot was born in Oxford in 1560 and educated at St Mary Hall, Oxford , and later at the University of Padua.
+5. Thomas Harriot studied mathematics, astronomy, optics, and navigation.
+6. Thomas Harriot was employed by Sir Walter Raleigh to lead an expedition to the New World in 1585, and Thomas Harriot made observations of the flora, fauna, and native peoples of the New World .
+7. Thomas Harriot also made astronomical observations of the Moon and stars, and wrote a treatise on navigation.
+8. Thomas Harriot was a friend of the mathematician and astronomer Johannes Kepler, and was a member of the scientific circle of the Virginia Company of London.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Thomas Harriot (Oxford, c. 1560 London, 2 July 1621 also spelled Harriott, Hariot, or Heriot) was an English astronomer, mathematician, ethnographer, and translator.
+He is sometimes credited with the introduction of the potato to the British Isles.
+Harriot was the first person to make a drawing of the Moon through a telescope, on 26 July 1609, over four months before Galileo.
+After graduating from St Mary Hall, Oxford, Harriot travelled to the Americas, accompanying the 1585 expedition to Roanoke Island funded by Sir Walter Raleigh and led by Sir Ralph Lane.
+Harriot was a vital member of the venture, having translated and learned the Carolina Algonquian language from two Native Americans, Wanchese and Manteo.
+On his return to England, he worked for the 9th Earl of Northumberland.
+At the Earl's house, he became a prolific mathematician and astronomer to whom the theory of refraction is attributed. 
+
+Coref Resolved: 
+
+0. Thomas Harriot (Oxford, c. 1560 London, 2 July 1621 also spelled Harriott, Hariot, or Heriot) was an English astronomer, mathematician, ethnographer, and translator.
+1. Thomas Harriot is sometimes credited with the introduction of the potato to the British Isles.
+2. Thomas Harriot was the first person to make a drawing of the Moon through a telescope, on 26 July 1609, over four months before Galileo.
+3. After graduating from St Mary Hall, Oxford, Thomas Harriot travelled to the Americas, accompanying the 1585 expedition to Roanoke Island funded by Sir Walter Raleigh and led by Sir Ralph Lane .
+4. Thomas Harriot was a vital member of the 1585 expedition to Roanoke Island funded by Sir Walter Raleigh and led by Sir Ralph Lane , having translated and learned the Carolina Algonquian language from two Native Americans, Wanchese and Manteo.
+5. On Thomas Harriot return to England, Thomas Harriot worked for the 9th Earl of Northumberland .
+6. At the 9th Earl of Northumberland house, Thomas Harriot became a prolific mathematician and astronomer to whom the theory of refraction is attributed.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.4 0.6666666666666666 0.42857142857142855 0.0 0.5 0.75 0.25 0.4 0.3333333333333333 
+
+Value for ground truth is : 
+0.5 0.6666666666666666 0.42857142857142855 0.8571428571428571 0.7777777777777778 0.3333333333333333 0.5 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate accurate accurate accurate minor_inaccurate 
+

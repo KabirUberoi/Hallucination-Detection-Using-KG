@@ -1,0 +1,106 @@
+#############SENTENCE_PAIRS############
+
+Vitaliano Brancati and Italian and the value is : 1
+Vitaliano Brancati and playwright and the value is : 0
+Vitaliano Brancati and screenwriter and the value is : 0
+Vitaliano Brancati and Pachino and the value is : 0
+Vitaliano Brancati and Sicily and the value is : 1
+Vitaliano Brancati and Catania and the value is : 1
+Vitaliano Brancati and Italian and the value is : 1
+Vitaliano Brancati and Italian and the value is : 1
+Vitaliano Brancati works and realism and the value is : -1
+Vitaliano Brancati works and fantasy and the value is : -1
+novel and Don and the value is : -1
+which and Peppone and the value is : 0
+which and Fernandel and the value is : 1
+which and Gino Cervi and the value is : 1
+works and Il bell'Antonio and the value is : -1
+works and La provinciale and the value is : -1
+works and Il diavolo and the value is : -1
+Vitaliano Brancati and La terra trema and the value is : 0
+Vitaliano Brancati and Rome and the value is : 1
+
+#############GROUND_PAIRS############
+
+Vitaliano Brancati and Italian and the value is : 0
+Vitaliano Brancati and dramatist and the value is : 0
+Vitaliano Brancati and screenwriter and the value is : 0
+Vitaliano Brancati and Pachino and the value is : 1
+Vitaliano Brancati and Syracuse and the value is : 1
+Vitaliano Brancati and Catania and the value is : 0
+Vitaliano Brancati and fascist and the value is : 1
+Vitaliano Brancati and starting point and the value is : 0
+Vitaliano Brancati and Don and the value is : 0
+Vitaliano Brancati and Sicily and the value is : 1
+Vitaliano Brancati and Sicilian and the value is : 1
+Vitaliano Brancati and Benito Mussolini and the value is : 1
+Vitaliano Brancati and Italian fascism and the value is : 1
+Vitaliano Brancati and Difficult Years and the value is : 1
+Vitaliano Brancati and Luigi Zampa and the value is : 1
+Vitaliano Brancati and Bagutta Prize and the value is : 1
+Vitaliano Brancati and Il Bell'Antonio and the value is : 1
+Vitaliano Brancati and Antonio and the value is : 0
+Vitaliano Brancati and Turin and the value is : 1
+Vitaliano Brancati and Anna Proclemer and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Vitaliano Brancati (1907 1954) was an Italian novelist, playwright, screenwriter, and journalist.
+He was born in Pachino, Sicily, and studied law at the University of Catania.
+He was a major figure in the Italian literary scene of the 1940s and 1950s, and is considered one of the most important Italian writers of the twentieth century.
+Brancati's works are characterized by a combination of realism and fantasy, often with a satirical edge.
+His most famous novel is Don Camillo e l'onorevole.
+Peppone (1947), which was adapted into a popular film series starring Fernandel and Gino Cervi.
+Other notable works include Il bell'Antonio (1950), La provinciale (1951), and Il diavolo al Pontelungo (1953).
+He also wrote several plays and screenplays, including the script for the film La terra trema (1948).
+Brancati died in Rome in 1954.
+
+
+Coref Resolved: 
+
+0. Vitaliano Brancati (1907 1954) was an Italian novelist, playwright, screenwriter, and journalist.
+1. Vitaliano Brancati was born in Pachino, Sicily, and studied law at the University of Catania.
+2. Vitaliano Brancati was a major figure in the Italian literary scene of the 1940s and 1950s, and is considered one of the most important Italian writers of the twentieth century.
+3. Vitaliano Brancati works are characterized by a combination of realism and fantasy, often with a satirical edge.
+4. Vitaliano Brancati most famous novel is Don Camillo e l'onorevole.
+5. Peppone (1947), which was adapted into a popular film series starring Fernandel and Gino Cervi.
+6. Other notable works include Il bell'Antonio (1950), La provinciale (1951), and Il diavolo al Pontelungo (1953).
+7. Vitaliano Brancati also wrote several plays and screenplays, including the script for the film La terra trema (1948).
+8. Vitaliano Brancati died in Rome in 1954.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Vitaliano Brancati (July 24, 1907 September 25, 1954) was an Italian novelist, dramatist, poet, and screenwriter.
+Born in Pachino, Syracuse, Brancati studied in Catania, where he graduated in letters and where he spent the majority of his life.
+Although he began writing at a young age and was already the author of six books at 25 years old, which were largely influenced by fascist ideals and later rejected by Brancati himself, critics tend to set the starting point of his career in 1935, when he released the collection of short stories In Search of a Cause.
+Brancati achieved his first and probably most significant success in 1941 with the novel Don Giovanni in Sicily, a vibrant and humorous portrait of the Sicilian temperament.
+In 1944 he wrote the novel Gli Anni Perduti (The Lost Years), a bold satire of Benito Mussolini's megalomania, and in 1946 Vecchio con gli Stivali (Old Man in Boots), a satirical short story inspired by the vicissitudes of Italian fascism, which won the Vendemmia Award and was adapted into a successful film, Difficult Years, by Luigi Zampa.
+In 1950 he won the Bagutta Prize with another well-known novel, Il Bell'Antonio (The Handsome Antonio).
+He died in a clinic in Turin after a major surgery.
+He was married to actress Anna Proclemer. 
+
+Coref Resolved: 
+
+0. Vitaliano Brancati (July 24, 1907 September 25, 1954) was an Italian novelist, dramatist, poet, and screenwriter.
+1. Born in Pachino, Syracuse, Vitaliano Brancati studied in Catania, where Vitaliano Brancati graduated in letters and where Vitaliano Brancati spent the majority of Vitaliano Brancati life.
+2. Although Vitaliano Brancati began writing at a young age and was already the author of six books at 25 years old, which were largely influenced by fascist ideals and later rejected by Vitaliano Brancati Vitaliano Brancati , critics tend to set the starting point of Vitaliano Brancati career in 1935, when Vitaliano Brancati released the collection of short stories In Search of a Cause.
+3. Vitaliano Brancati achieved Vitaliano Brancati first and probably most significant success in 1941 with the novel Don Giovanni in Sicily, a vibrant and humorous portrait of the Sicilian temperament.
+4. In 1944 Vitaliano Brancati wrote the novel Gli Anni Perduti (The Lost Years), a bold satire of Benito Mussolini's megalomania, and in 1946 Vecchio con gli Stivali (Old Man in Boots), a satirical short story inspired by the vicissitudes of Italian fascism, which won the Vendemmia Award and was adapted into a successful film, Difficult Years, by Luigi Zampa.
+5. In 1950 Vitaliano Brancati won the Bagutta Prize with another well-known novel, Il Bell'Antonio (The Handsome Antonio).
+6. Vitaliano Brancati died in a clinic in Turin after a major surgery.
+7. Vitaliano Brancati was married to actress Anna Proclemer.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.3333333333333333 0.6666666666666666 1.0 -1.0 -1.0 0.6666666666666666 -1.0 0.0 1.0 
+
+Value for ground truth is : 
+0.0 0.6666666666666666 0.5 0.6666666666666666 1.0 0.6666666666666666 1.0 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

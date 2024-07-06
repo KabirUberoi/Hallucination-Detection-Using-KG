@@ -1,0 +1,119 @@
+#############SENTENCE_PAIRS############
+
+Tera Van Beilen and Canadian and the value is : -1
+Tera Van Beilen and swimmer and the value is : -1
+Tera Van Beilen and 2012 Summer Olympics and the value is : -1
+Tera Van Beilen and London and the value is : -1
+Tera Van Beilen and Pan American Games and the value is : -1
+Tera Van Beilen and Guadalajara and the value is : -1
+Tera Van Beilen and Mexico and the value is : -1
+Tera Van Beilen and Oakville, Ontario and the value is : -1
+Tera Van Beilen and swimming and the value is : -1
+Tera Van Beilen and Oakville and the value is : -1
+Tera Van Beilen and White Oaks Secondary School and the value is : -1
+Tera Van Beilen and Oakville, Ontario and the value is : -1
+Tera Van Beilen and British Columbia and the value is : -1
+Tera Van Beilen and Canadian and the value is : -1
+Tera Van Beilen and Canadian and the value is : -1
+Tera Van Beilen and Olympic Trials and the value is : -1
+Tera Van Beilen and Canadian and the value is : -1
+
+#############GROUND_PAIRS############
+
+Tera Van Beilen and Canadian and the value is : 1
+Tera Van Beilen and swimmer and the value is : 1
+Tera Van Beilen and Olympian and the value is : 0
+Tera Van Beilen and 2010 Summer Youth Olympics and the value is : 1
+Tera Van Beilen and Singapore and the value is : 0
+2012 and Canadian and the value is : -1
+2012 and Olympic Trials and the value is : -1
+2012 and Montreal and the value is : -1
+Tera Van Beilen and Canadian and the value is : 1
+Tera Van Beilen and swimmer and the value is : 1
+Tera Van Beilen and Martha McCabe and the value is : 1
+2 24.03 and Rebecca Soni and the value is : 1
+Tera Van Beilen and 2012 Summer Olympics and the value is : 1
+Tera Van Beilen and London and the value is : 0
+Tera Van Beilen and Canadian and the value is : 1
+Tera Van Beilen and Olympian and the value is : 0
+Tera Van Beilen and Alia Atkinson and the value is : 1
+Tera Van Beilen and Jamaica and the value is : 0
+Tera Van Beilen and 2012 Summer Olympics and the value is : 1
+Tera Van Beilen and London and the value is : 0
+Tera Van Beilen and swimming and the value is : 1
+Tera Van Beilen and British Columbia and the value is : 1
+Tera Van Beilen and Kinesiology and the value is : 0
+Tera Van Beilen and active member and the value is : 0
+Tera Van Beilen and British Columbia and the value is : 1
+Tera Van Beilen and swimming and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Tera Van Beilen (born April 28, 1992) is a Canadian competitive swimmer.
+She won a bronze medal in the 100-metre breaststroke at the 2012 Summer Olympics in London.
+She also won a gold medal in the 4 100-metre medley relay at the 2011 Pan American Games in Guadalajara, Mexico.
+Van Beilen was born in Oakville, Ontario.
+She began swimming at the age of five and was a member of the Oakville Aquatic Club.
+She attended White Oaks Secondary School in Oakville.
+She is currently a student at the University of British Columbia.
+Van Beilen is a two-time Canadian national champion in the 100-metre breaststroke.
+She won the event at the 2011 Canadian Swimming Championships and the 2012 Canadian Olympic Trials.
+She also won a silver medal in the 200-metre breaststroke at the 2011 Canadian Swimming Championships.
+
+
+Coref Resolved: 
+
+0. Tera Van Beilen (born April 28, 1992) is a Canadian competitive swimmer.
+1. Tera Van Beilen (born April 28, 1992) won a bronze medal in the 100-metre breaststroke at the 2012 Summer Olympics in London.
+2. Tera Van Beilen (born April 28, 1992) also won a gold medal in the 4 100-metre medley relay at the 2011 Pan American Games in Guadalajara, Mexico.
+3. Tera Van Beilen (born April 28, 1992) was born in Oakville, Ontario .
+4. Tera Van Beilen (born April 28, 1992) began swimming at the age of five and was a member of the Oakville Aquatic Club.
+5. Tera Van Beilen (born April 28, 1992) attended White Oaks Secondary School in Oakville, Ontario .
+6. Tera Van Beilen (born April 28, 1992) is currently a student at the University of British Columbia.
+7. Tera Van Beilen (born April 28, 1992) is a two-time Canadian national champion in the 100-metre breaststroke .
+8. Tera Van Beilen (born April 28, 1992) won the 100-metre breaststroke at the 2011 Canadian Swimming Championships and the 2012 Canadian Olympic Trials.
+9. Tera Van Beilen (born April 28, 1992) also won a silver medal in the 200-metre breaststroke at the 2011 Canadian Swimming Championships .
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Tera Van Beilen (born March 30, 1993) is a Canadian competition swimmer and Olympian.
+In the 2010 Summer Youth Olympics in Singapore, Van Beilen won a gold medal in the women's 100-metre breaststroke and a silver in the 200-metre breaststroke.
+In 2012, while competing in the Canadian Olympic Trials in Montreal, Van Beilen successfully qualified for her Olympic dream.
+She placed first with a time of 2 24.03, ahead of Canadian swimmer Martha McCabe with a time of 2 24.81.
+Van Beilen's timing placed her second in the world for 2012, behind the 2 22.73 time of reigning American Olympic champion Rebecca Soni.
+During the 2012 Summer Olympics in London, Van Beilen received much attention as a Canadian Olympian.
+She participated in the women's 100-metre and 200-metre breaststroke categories, as well as the women's 4x100-metre medley relay.
+While competing in the women's 100-metre breaststroke, she proceeded to the semi-finals, only to be eliminated in a swim-off with Alia Atkinson of Jamaica.
+Outside of the 2012 Olympic Games, Van Beilen competes regularly in local, provincial, and international level swimming competitions.
+She is currently attending the University of British Columbia studying Kinesiology, and is an active member of the UBC Thunderbirds University swimming team.
+She has also achieved personal bests of 1 07.37 in the 100-metre breaststroke, and 2 24.03 in the 200-metre breaststroke. 
+
+Coref Resolved: 
+
+0. Tera Van Beilen (born March 30, 1993) is a Canadian competition swimmer and Olympian.
+1. In the 2010 Summer Youth Olympics in Singapore, Tera Van Beilen (born March 30, 1993) won a gold medal in the women's 100-metre breaststroke and a silver in the 200-metre breaststroke.
+2. In 2012 , while competing in the Canadian Olympic Trials in Montreal, Tera Van Beilen (born March 30, 1993) successfully qualified for Tera Van Beilen (born March 30, 1993)
+3. Olympic dream.
+4. Tera Van Beilen (born March 30, 1993) placed first with a time of 2 24.03 , ahead of Canadian swimmer Martha McCabe with a time of 2 24.81.
+5. a time of 2 24.03 placed Tera Van Beilen (born March 30, 1993) second in the world for 2012 , behind the 2 22.73 time of reigning American Olympic champion Rebecca Soni.
+6. During the 2012 Summer Olympics in London , Tera Van Beilen (born March 30, 1993) received much attention as a Canadian Olympian.
+7. Tera Van Beilen (born March 30, 1993) participated in the women's 100-metre and 200-metre breaststroke categories, as well as the women's 4x100-metre medley relay.
+8. While competing in the women's 100-metre breaststroke , Tera Van Beilen (born March 30, 1993) proceeded to the semi-finals, only to be eliminated in a swim-off with Alia Atkinson of Jamaica.
+9. Outside of the 2012 Summer Olympics in London , Tera Van Beilen (born March 30, 1993) competes regularly in local, provincial, and international level swimming competitions.
+10. Tera Van Beilen (born March 30, 1993) is currently attending the University of British Columbia studying Kinesiology, and is an active member of the the University of British Columbia Thunderbirds University swimming team.
+11. Tera Van Beilen (born March 30, 1993) has also achieved personal bests of 1 07.37 in the 100-metre breaststroke, and 2 24.03 in the 200-metre breaststroke.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1 -1.0 -1.0 
+
+Value for ground truth is : 
+0.6666666666666666 0.5 -1.0 -1 1.0 1.0 0.5 -1 0.5 0.6666666666666666 0.6 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

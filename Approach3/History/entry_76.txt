@@ -1,0 +1,131 @@
+#############SENTENCE_PAIRS############
+
+John Reed Jr. and Russian Revolution and the value is : 0
+John Reed Jr. and Ten Days and the value is : 0
+John Reed Jr. and Oregon and the value is : 0
+John Reed Jr. and Harvard University and the value is : 0
+John Reed Jr. and Communist Party and the value is : 0
+John Reed Jr. and Union and the value is : 0
+John Reed Jr. and Eastern Europe and the value is : 0
+John Reed Jr. and Mexico and the value is : 0
+John Reed Jr. and The New Masses and the value is : 0
+John Reed Jr. and Congress and the value is : 0
+John Reed Jr. and Communist Party and the value is : 0
+John Reed Jr. and Communism and the value is : 0
+John Reed Jr. and Union and the value is : 0
+John Reed Jr. and Seventh World Congress and the value is : 0
+John Reed Jr. and Communist International and the value is : 0
+John Reed Jr. and Moscow and the value is : 0
+John Reed Jr. and Moscow and the value is : 0
+
+#############GROUND_PAIRS############
+
+John Reed and John Reed, Jr. and the value is : 1
+John Reed and Massachusetts and the value is : 1
+John Reed and John Reed, Jr. and the value is : 1
+John Reed and West Bridgewater, Massachusetts and the value is : 1
+John Reed and John Reed, Jr. and the value is : 1
+John Reed and Brown University and the value is : 1
+John Reed and Providence and the value is : 1
+John Reed and Rhode Island and the value is : 1
+John Reed and Brown University and the value is : 1
+John Reed and Providence and the value is : 1
+John Reed and Rhode Island and the value is : 1
+John Reed and Bridgewater, Massachusetts and the value is : 1
+John Reed and John Reed, Jr. and the value is : 1
+John Reed and Yarmouth, Massachusetts and the value is : 1
+John Reed and John Reed, Jr. and the value is : 1
+John Reed and American Antiquarian Society and the value is : 1
+John Reed and John Reed, Jr. and the value is : 1
+John Reed and Federalist and the value is : 1
+John Reed and Thirteenth and the value is : 0
+John Reed and Fourteenth and the value is : 0
+John Reed and Seventeenth and the value is : 0
+John Reed and Twenty-third and the value is : 0
+John Reed and Anti-Masonic and the value is : 1
+John Reed and Twenty-fourth Congress and the value is : 0
+John Reed and Whig and the value is : 1
+John Reed and Twenty-fifth and the value is : 0
+John Reed and Twenty-sixth and the value is : 0
+John Reed and John Reed, Jr. and the value is : 1
+John Reed and Twenty-second Congress and the value is : 0
+John Reed and John Reed, Jr. and the value is : 1
+John Reed and Lieutenant Governor and the value is : 1
+John Reed and Massachusetts and the value is : 1
+John Reed and John Reed, Jr. and the value is : 1
+John Reed and West Bridgewater and the value is : 1
+John Reed and Massachusetts and the value is : 1
+Interment and Mount Prospect and the value is : 0
+Interment and Bridgewater, Massachusetts and the value is : 1
+John Reed and John Reed, Jr. and the value is : 1
+John Reed and John Reed, Sr. and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+John Reed Jr. (1905 1980) was an American journalist, author, and Communist activist.
+He is best remembered for his first-hand account of the Russian Revolution, Ten Days That Shook the World (1919).
+Reed was born in Portland, Oregon, to a wealthy family.
+He attended Harvard University, where he became involved in radical politics and joined the Communist Party of America in 1920.
+He traveled to the Soviet Union in 1921 and wrote several books about his experiences there, including The War in Eastern Europe (1922) and Insurgent Mexico (1914).
+He also wrote for The New Masses, a Communist magazine, and was a founding member of the American Writers' Congress.
+Reed was arrested in 1923 for his involvement in the Communist Party and served a year in prison.
+After his release, he continued to write and speak about Communism and the Soviet Union, and he was a delegate to the Seventh World Congress of the Communist International in Moscow in 1935.
+He died in Moscow in 1980.
+
+
+Coref Resolved: 
+
+0. John Reed Jr. (1905 1980) was an American journalist, author, and Communist activist.
+1. John Reed Jr. (1905 1980) is best remembered for John Reed Jr. (1905 1980) first-hand account of the Russian Revolution, Ten Days That Shook the World (1919).
+2. John Reed Jr. (1905 1980) was born in Portland, Oregon, to a wealthy family.
+3. John Reed Jr. (1905 1980) attended Harvard University, where John Reed Jr. (1905 1980) became involved in radical politics and joined the Communist Party of America in 1920.
+4. John Reed Jr. (1905 1980) traveled to the Soviet Union in 1921 and wrote several books about John Reed Jr. (1905 1980) experiences there, including The War in Eastern Europe (1922) and Insurgent Mexico (1914).
+5. John Reed Jr. (1905 1980) also wrote for The New Masses, a Communist magazine, and was a founding member of the American Writers' Congress.
+6. John Reed Jr. (1905 1980) was arrested in 1923 for John Reed Jr. (1905 1980) involvement in the Communist Party of America and served a year in prison.
+7. After John Reed Jr. (1905 1980) release, John Reed Jr. (1905 1980) continued to write and speak about Communism and the Soviet Union , and John Reed Jr. (1905 1980) was a delegate to the Seventh World Congress of the Communist International in Moscow in 1935.
+8. John Reed Jr. (1905 1980) died in Moscow in 1980.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+John Reed, Jr. (September 2, 1781 - November 25, 1860) was a representative from Massachusetts.
+Reed was born in West Bridgewater, Massachusetts.
+He graduated from Brown University, Providence, Rhode Island in 1803, and was a tutor of languages in that institution for two years, and principal of the Bridgewater, Massachusetts Academy in 1806 and 1807.
+He studied law, was admitted to the bar, and commenced practice in Yarmouth, Massachusetts.
+Reed was elected a member of the American Antiquarian Society in 1814.
+He was elected as a Federalist to the Thirteenth and Fourteenth Congresses (March 4, 1813 - March 3, 1817) elected to the Seventeenth through Twenty-third Congresses elected as an Anti-Masonic candidate to the Twenty-fourth Congress, and elected as a Whig to the Twenty-fifth and Twenty-sixth Congresses (March 4, 1821 - March 3, 1841).
+He was chairman of the Committee on Revisal and Unfinished Business (Twenty-second Congress).
+He declined to be a candidate for reelection in 1840.
+He was the 17th Lieutenant Governor of Massachusetts (1845 - 1851).
+Reed died in West Bridgewater, Plymouth County, Massachusetts.
+Interment was in Mount Prospect Cemetery, Bridgewater, Massachusetts.
+Reed was the son of John Reed, Sr. 
+
+Coref Resolved: 
+
+0. John Reed, Jr. (September 2, 1781 - November 25, 1860) was a representative from Massachusetts .
+1. John Reed, Jr. (September 2, 1781 - November 25, 1860) was born in West Bridgewater, Massachusetts .
+2. John Reed, Jr. (September 2, 1781 - November 25, 1860) graduated from Brown University, Providence, Rhode Island in 1803, and was a tutor of languages in Brown University, Providence, Rhode Island for two years, and principal of the Bridgewater, Massachusetts Academy in 1806 and 1807.
+3. John Reed, Jr. (September 2, 1781 - November 25, 1860) studied law, was admitted to the bar, and commenced practice in Yarmouth, Massachusetts .
+4. John Reed, Jr. (September 2, 1781 - November 25, 1860) was elected a member of the American Antiquarian Society in 1814.
+5. John Reed, Jr. (September 2, 1781 - November 25, 1860) was elected as a Federalist to the Thirteenth and Fourteenth Congresses (March 4, 1813 - March 3, 1817) elected to the Seventeenth through Twenty-third Congresses elected as an Anti-Masonic candidate to the Twenty-fourth Congress, and elected as a Whig to the Twenty-fifth and Twenty-sixth Congresses (March 4, 1821 - March 3, 1841).
+6. John Reed, Jr. (September 2, 1781 - November 25, 1860) was chairman of the Committee on Revisal and Unfinished Business (Twenty-second Congress).
+7. John Reed, Jr. (September 2, 1781 - November 25, 1860) declined to be a candidate for reelection in 1840.
+8. John Reed, Jr. (September 2, 1781 - November 25, 1860) was the 17th Lieutenant Governor of Massachusetts (1845 - 1851).
+9. John Reed, Jr. (September 2, 1781 - November 25, 1860) died in West Bridgewater, Plymouth County, Massachusetts .
+10. Interment was in Mount Prospect Cemetery, Bridgewater, Massachusetts .
+11. John Reed, Jr. (September 2, 1781 - November 25, 1860) was the son of John Reed, Sr.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+Value for ground truth is : 
+1.0 1.0 1.0 1.0 1.0 0.36363636363636365 0.5 -1 1.0 1.0 0.5 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

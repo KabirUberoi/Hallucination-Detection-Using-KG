@@ -1,0 +1,115 @@
+#############SENTENCE_PAIRS############
+
+Lionel Aldridge and football and the value is : 1
+Lionel Aldridge and Green Bay Packers and the value is : 0
+Lionel Aldridge and National Football League (NFL) and the value is : 0
+Lionel Aldridge and National Football League (NFL) and the value is : 0
+Lionel Aldridge and Green Bay Packers and the value is : 0
+Lionel Aldridge and National Football League (NFL) and the value is : 0
+Lionel Aldridge and National Football League (NFL) and the value is : 0
+Lionel Aldridge and Pro Bowl and the value is : 0
+Lionel Aldridge and Green Bay Packers and the value is : 0
+Lionel Aldridge and National Football League (NFL) and the value is : 0
+Lionel Aldridge and Texas and the value is : 0
+Lionel Aldridge and Utah and the value is : 0
+Lionel Aldridge and All-American and the value is : 0
+Lionel Aldridge and 1963 NFL Draft and the value is : 0
+Lionel Aldridge and Green Bay Packers and the value is : 0
+Lionel Aldridge and National Football League (NFL) and the value is : 0
+Lionel Aldridge and Green Bay Packers and the value is : 0
+Lionel Aldridge and National Football League (NFL) and the value is : 0
+Lionel Aldridge and Willie Davis and the value is : 0
+Lionel Aldridge and Henry Jordan and the value is : 0
+Lionel Aldridge and Dave Robinson and the value is : 0
+Lionel Aldridge and quickness and the value is : 0
+Lionel Aldridge and Green Bay Packers and the value is : 0
+Lionel Aldridge and National Football League (NFL) and the value is : 0
+
+#############GROUND_PAIRS############
+
+Lionel Aldridge and football and the value is : 1
+Lionel Aldridge and Utah State Aggies and the value is : 1
+Lionel Aldridge and Utah State and the value is : 1
+One and Vince Lombardi and the value is : -1
+One and NFL and the value is : -1
+Lionel Aldridge and NFL championships and the value is : 1
+Lionel Aldridge and Super Bowls I and the value is : 1
+Lionel Aldridge and Diego and the value is : 0
+Lionel Aldridge and Chargers and the value is : 1
+Lionel Aldridge and Diego and the value is : 0
+Lionel Aldridge and football and the value is : 1
+Lionel Aldridge and sports and the value is : 0
+Lionel Aldridge and Milwaukee and the value is : 1
+Lionel Aldridge and Packers and the value is : 1
+Lionel Aldridge and radio and the value is : 0
+Lionel Aldridge and NBC and the value is : 1
+Lionel Aldridge and paranoid schizophrenia and the value is : 1
+Lionel Aldridge advocacy work and Milwaukee and the value is : 1
+Lionel Aldridge advocacy work and National Alliance and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Lionel Aldridge (born October 28, 1940) is a former American football player.
+He played defensive end for the Green Bay Packers of the National Football League (NFL) from 1963 to 1971.
+He was a member of the Packers teams that won three consecutive NFL championships from 1965 to 1967 and the first two Super Bowls in 1967 and 1968.
+Aldridge was selected to the Pro Bowl in 1967 and 1968.
+He was inducted into the Green Bay Packers Hall of Fame in 1981.
+Aldridge was born in San Antonio, Texas, and attended the University of Utah, where he was an All-American in 1962.
+He was drafted in the second round of the 1963 NFL Draft by the Packers.
+He was a starter for the Packers for nine seasons, and was part of the defensive line that included Willie Davis, Henry Jordan, and Dave Robinson.
+He was known for his quickness and agility, and was a key part of the Packers' success in the 1960s.
+
+
+Coref Resolved: 
+
+0. Lionel Aldridge (born October 28, 1940) is a former American football player.
+1. Lionel Aldridge played defensive end for the Green Bay Packers of the National Football League (NFL) the National Football League (NFL) from 1963 to 1971.
+2. Lionel Aldridge was a member of the the Green Bay Packers of the National Football League (NFL) teams that won three consecutive the National Football League (NFL) championships from 1965 to 1967 and the first two Super Bowls in 1967 and 1968 .
+3. Lionel Aldridge was selected to the Pro Bowl in 1967 and 1968 .
+4. Lionel Aldridge was inducted into the the Green Bay Packers of the National Football League (NFL)
+5. Hall of Fame in 1981.
+6. Lionel Aldridge was born in San Antonio, Texas, and attended the University of Utah, where Lionel Aldridge was an All-American in 1962.
+7. Lionel Aldridge was drafted in the second round of the 1963 NFL Draft by the Green Bay Packers of the National Football League (NFL) .
+8. Lionel Aldridge was a starter for the Green Bay Packers of the National Football League (NFL) for nine seasons, and was part of the defensive line that included Willie Davis, Henry Jordan, and Dave Robinson.
+9. Lionel Aldridge was known for Lionel Aldridge quickness and agility, and was a key part of the Green Bay Packers of the National Football League (NFL) success in the 1960s.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Lionel Aldridge (February 14, 1941 - February 12, 1998) was an American professional football player.
+Aldridge was an All-Skyline tackle and co-captain of the Utah State Aggies.
+He was drafted in 1963 after a standout college career at Utah State.
+One of the few rookies to start for coach Vince Lombardi, Aldridge enjoyed an eleven-year NFL career.
+As a Packer, he played a role in three straight NFL championships (1965-66-67) and in Packer victories in Super Bowls I and II.
+Traded to the San Diego Chargers, Aldridge played two seasons in San Diego before retiring from professional football in 1973.
+After retiring, Aldridge worked as a sports analyst in Milwaukee and for Packers radio and NBC until manifesting paranoid schizophrenia in the late 1970s.
+Homeless for a time in part due to misdiagnosis, he eventually reached a form of equilibrium.
+He became an advocate for the homeless and the mentally ill until his death in 1998.
+His advocacy work included serving as a board member for the Mental Health Association of Milwaukee and working as a speaker for the National Alliance on Mental Illness. 
+
+Coref Resolved: 
+
+0. Lionel Aldridge (February 14, 1941 - February 12, 1998) was an American professional football player.
+1. Lionel Aldridge was an All-Skyline tackle and co-captain of the Utah State Aggies.
+2. Lionel Aldridge was drafted in 1963 after a standout college career at Utah State .
+3. One of the few rookies to start for coach Vince Lombardi, Lionel Aldridge enjoyed an eleven-year NFL career.
+4. As a Packer, Lionel Aldridge played a role in three straight NFL championships (1965-66-67) and in Packer victories in Super Bowls I and II.
+5. Traded to the San Diego Chargers, Lionel Aldridge played two seasons in San Diego before retiring from professional football in 1973.
+6. After retiring, Lionel Aldridge worked as a sports analyst in Milwaukee and for Packers radio and NBC until manifesting paranoid schizophrenia in the late 1970s.
+7. Homeless for a time in part due to misdiagnosis, Lionel Aldridge eventually reached a form of equilibrium.
+8. Lionel Aldridge became an advocate for the homeless and the mentally ill until Lionel Aldridge death in 1998.
+9. Lionel Aldridge advocacy work included serving as a board member for the Mental Health Association of Milwaukee and working as a speaker for the National Alliance on Mental Illness.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.0 0.0 0.0 0.0 -1 0.0 0.0 0.0 0.0 
+
+Value for ground truth is : 
+1.0 1.0 1.0 -1.0 1.0 0.5 0.6666666666666666 -1 -1 0.5 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate major_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

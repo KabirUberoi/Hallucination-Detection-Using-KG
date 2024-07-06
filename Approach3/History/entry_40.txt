@@ -1,0 +1,124 @@
+#############SENTENCE_PAIRS############
+
+Hilda Kuper and African anthropologist and the value is : 1
+Hilda Kuper and Johannesburg and the value is : 0
+Hilda Kuper and South Africa and the value is : 0
+Hilda Kuper and Witwatersrand and the value is : 0
+Hilda Kuper and B.A. and the value is : 0
+Hilda Kuper and English and the value is : 0
+Hilda Kuper and anthropology and the value is : 1
+Hilda Kuper and London and the value is : 0
+Hilda Kuper and Ph.D. and the value is : 0
+Hilda Kuper and anthropology and the value is : 1
+Hilda Kuper and South Africa and the value is : 0
+Hilda Kuper and Tanzania and the value is : 0
+Hilda Kuper and Zimbabwe and the value is : 0
+work and Aristocracy and the value is : -1
+work and Swazi and the value is : -1
+work and anthropology and the value is : -1
+Hilda Kuper and African women and the value is : 0
+
+#############GROUND_PAIRS############
+
+Hilda Beemer Kuper and Hilda and the value is : 0
+Hilda Beemer Kuper and social anthropologist and the value is : 1
+Hilda Beemer Kuper and Hilda and the value is : 0
+Beemer and Lithuanian Jewish and the value is : 1
+Beemer and Austrian Jewish and the value is : 1
+Beemer and Bulawayo and the value is : 1
+Beemer and Hilda and the value is : 0
+Beemer and South Africa and the value is : 1
+Beemer and Hilda and the value is : 0
+Hilda Beemer Kuper and Hilda and the value is : 0
+Hilda Beemer Kuper and Witwatersrand and the value is : 0
+Hilda Beemer Kuper and London and the value is : 0
+Beemer and fellowship and the value is : 0
+Beemer and Swaziland and the value is : 1
+Beemer and Hilda and the value is : 0
+Beemer and befriended and the value is : 0
+Beemer and Sobhuza II and the value is : 0
+Beemer and Hilda and the value is : 0
+Beemer and village and the value is : 0
+Beemer and Lobamba and the value is : 1
+Beemer and Hilda and the value is : 0
+Beemer and Hilda and the value is : 0
+Hilda Beemer Kuper and Hilda and the value is : 0
+Hilda Beemer Kuper and Aristocracy and the value is : 0
+Swazi and White and the value is : 0
+Swazi and Black and the value is : 0
+Swazi and Swaziland and the value is : 1
+Beemer and Durban and the value is : 1
+Beemer and Hilda and the value is : 0
+Beemer and Liberal Party and the value is : 1
+Beemer and Natal and the value is : 1
+Beemer and Natal and the value is : 1
+Hilda Beemer Kuper and Hilda and the value is : 0
+Hilda Beemer Kuper and Los Angeles and the value is : 1
+Hilda Beemer Kuper and Hilda and the value is : 0
+Hilda Beemer Kuper and UCLA and the value is : 1
+Beemer and Hilda and the value is : 0
+Beemer and Guggenheim Fellowship and the value is : 1
+Beemer and Sobhuza II and the value is : 0
+Beemer and Sobhuza II and the value is : 0
+Beemer and Ngwenyama and the value is : 0
+Beemer and Swaziland and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Hilda Kuper (1908 2002) was a South African anthropologist and author.
+She was born in Johannesburg, South Africa, and studied at the University of the Witwatersrand, where she obtained a B.A. in English and History in 1929.
+She then went on to study anthropology at the London School of Economics, where she obtained a Ph.D. in 1936.
+Kuper was a pioneer in the field of African anthropology, and her work focused on the study of African cultures and societies.
+She conducted fieldwork in South Africa, Tanzania, and Zimbabwe, and wrote extensively on the topics of race, gender, and identity in African societies.
+Her most famous work, An African Aristocracy Rank Among the Swazi (1944), is considered a classic in the field of anthropology.
+Kuper was also a strong advocate for the rights of African women, and she was a founding member of the International Council of Women of the Darker Races.
+
+
+Coref Resolved: 
+
+0. Hilda Kuper (1908 2002) was a South African anthropologist and author.
+1. Hilda Kuper was born in Johannesburg, South Africa , and studied at the University of the Witwatersrand, where Hilda Kuper obtained a B.A. in English and History in 1929.
+2. Hilda Kuper then went on to study anthropology at the London School of Economics, where Hilda Kuper obtained a Ph.D. in 1936.
+3. Hilda Kuper was a pioneer in the field of African anthropology, and Hilda Kuper work focused on the study of African cultures and societies.
+4. Hilda Kuper conducted fieldwork in South Africa , Tanzania, and Zimbabwe, and wrote extensively on the topics of race, gender, and identity in African societies.
+5. Hilda Kuper most famous work, An African Aristocracy Rank Among the Swazi (1944), is considered a classic in the field of anthropology.
+6. Hilda Kuper was also a strong advocate for the rights of African women, and Hilda Kuper was a founding member of the International Council of Women of the Darker Races.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992), was a social anthropologist most notable for her extensive work on Swazi culture.
+Born to Lithuanian Jewish and Austrian Jewish parents in Bulawayo, she moved to South Africa after the death of her father.
+She studied at the University of the Witwatersrand and, afterwards, at the London School of Economics under Malinowski.
+In 1934, after winning a fellowship to study in Swaziland, Kuper befriended King Sobhuza II, who, together with Malinowski, helped to settle her into place at the royal village of Lobamba, where she would pursue her research.
+Her publications on Swazi culture would include the two-part dissertation, "An African Aristocracy .
+Rank Among the Swazi" (1947) and "The Uniform of Colour A Study of White--Black Relationships in Swaziland" (1947), and "The Swazi A South African Kingdom" (1963).
+Some years later, in Durban, Kuper became a founder member of the Liberal Party in Natal, as well as authoring "Indian People in Natal" (1960).
+In 1961 Kuper moved to Los Angeles, where she took up a teaching post at UCLA.
+In 1969 she won a Guggenheim Fellowship, and in 1978 published an extensive, official biography of Sobhuza II, "King Sobhuza II, Ngwenyama and King of Swaziland". 
+
+Coref Resolved: 
+
+0. Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) , was a social anthropologist most notable for Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) extensive work on Swazi culture .
+1. Born to Lithuanian Jewish and Austrian Jewish parents in Bulawayo, Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) moved to South Africa after the death of Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) father.
+2. Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) studied at the University of the Witwatersrand and, afterwards, at the London School of Economics under Malinowski .
+3. In 1934, after winning a fellowship to study in Swaziland , Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) befriended King Sobhuza II, who, together with Malinowski , helped to settle Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) into place at the royal village of Lobamba, where Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) would pursue Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) research.
+4. Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) publications on Swazi culture would include the two-part dissertation, "An African Aristocracy .
+5. Rank Among the Swazi" (1947) and "The Uniform of Colour A Study of White--Black Relationships in Swaziland " (1947), and "The Swazi A South African Kingdom" (1963).
+6. Some years later, in Durban, Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) became a founder member of the Liberal Party in Natal , as well as authoring "Indian People in Natal " (1960).
+7. In 1961 Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) moved to Los Angeles, where Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) took up a teaching post at UCLA.
+8. In 1969 Hilda Beemer Kuper, née "Beemer" (23 August 1911--1992) won a Guggenheim Fellowship, and in 1978 published an extensive, official biography of Sobhuza II, "King Sobhuza II, Ngwenyama and King of Swaziland ".
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.0 0.3333333333333333 1.0 0.0 -1.0 0.0 
+
+Value for ground truth is : 
+0.3333333333333333 0.6666666666666666 0.0 0.2 0.0 0.3333333333333333 0.8 0.5 0.3333333333333333 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate 
+

@@ -1,0 +1,96 @@
+#############SENTENCE_PAIRS############
+
+David King and footballer and the value is : 0
+David King and North Melbourne Football Club and the value is : 1
+David King and Australian Football League (AFL) and the value is : 1
+David King and North Melbourne Football Club and the value is : 1
+David King and 1989 VFL Draft and the value is : 1
+David King and ruckman and the value is : 0
+David King and North Melbourne Football Club and the value is : 1
+David King and All-Australian and the value is : 1
+David King and Syd Barker Medal and the value is : 1
+David King and North Melbourne Football Club and the value is : 1
+David King and Australian Football League (AFL) and the value is : 1
+David King and North Melbourne Football Club and the value is : 1
+David King and Fox Footy and the value is : 1
+
+#############GROUND_PAIRS############
+
+David King and footballer and the value is : 0
+David King and North Melbourne Football Club and the value is : 1
+David King and Australian Football League (AFL) and the value is : 1
+1994 and North Melbourne Football Club and the value is : 1
+1994 and Australian Football League (AFL) and the value is : 1
+1994 and Port Melbourne Football Club and the value is : 1
+David King and Victoria and the value is : 0
+David King and VFL and the value is : 0
+David King and AFL record and the value is : 1
+David King and AFL and the value is : 1
+David King and All-Australian and the value is : 1
+David King and Richmond Football Club and the value is : 1
+David King and Fox Footy and the value is : 1
+David King and SEN 1116 and the value is : 1
+David King and AFL and the value is : 1
+media and 2014 AFL Rising Star and the value is : -1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+David King (born 28 April 1971) is a former Australian rules footballer who played for the North Melbourne Football Club in the Australian Football League (AFL).
+He was drafted by North Melbourne with the fourth selection in the 1989 VFL Draft.
+King played as a ruckman and forward, and was a key member of North Melbourne's 1996 and 1999 premiership teams.
+He was a three-time All-Australian, in 1996, 1998 and 1999, and won the Syd Barker Medal as North Melbourne's best and fairest player in 1998.
+He was also a member of the AFL's Team of the Century.
+King retired at the end of the 2003 season, having played a total of 270 games for North Melbourne.
+He is currently a commentator for Fox Footy.
+
+
+Coref Resolved: 
+
+0. David King (born 28 April 1971) is a former Australian rules footballer who played for the North Melbourne Football Club in the Australian Football League (AFL) .
+1. David King was drafted by the North Melbourne Football Club with the fourth selection in the 1989 VFL Draft.
+2. David King played as a ruckman and forward, and was a key member of the North Melbourne Football Club 1996 and 1999 premiership teams.
+3. David King was a three-time All-Australian, in 1996 , 1998 and 1999 , and won the Syd Barker Medal as the North Melbourne Football Club best and fairest player in 1998 .
+4. David King was also a member of the Australian Football League (AFL) Team of the Century.
+5. David King retired at the end of the 2003 season, having played a total of 270 games for the North Melbourne Football Club .
+6. David King is currently a commentator for Fox Footy.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+David King (born 7 March 1972) is a former Australian rules footballer who played for the North Melbourne Football Club in the Australian Football League (AFL).
+He debuted for the Kangaroos in 1994 after being recruited from Port Melbourne Football Club at the age of 22.
+He went on to play 241 games and kicked 145 goals, winning premierships in 1996 and 1999.
+He represented Victoria in State of Origin on more than one occasion, including in 1998.
+He is notable for holding a VFL AFL record by playing in preliminary finals for seven consecutive years from his debut year in 1994 to 2000.
+He was twice an AFL All-Australian and retired at the end of the 2004 season.
+He then joined the Richmond Football Club as an assistant coach in 2005.
+He is currently a commentator for Fox Footy and SEN 1116.
+He won the Most Outstanding Television Special Comments Award at the 2012 AFL Media Awards.
+On 19 February 2015, Australian media reported that King was being investigated by police about successful bets he made predicting the winner of the 2014 AFL Rising Star Award. 
+
+Coref Resolved: 
+
+0. David King (born 7 March 1972) is a former Australian rules footballer who played for the North Melbourne Football Club in the Australian Football League (AFL) .
+1. David King his debut year in 1994 for the North Melbourne Football Club in the Australian Football League (AFL) in 1994 after being recruited from Port Melbourne Football Club at the age of 22.
+2. David King went on to play 241 games and kicked 145 goals, winning premierships in 1996 and 1999.
+3. David King represented Victoria in State of Origin on more than one occasion, including in 1998.
+4. David King is notable for holding a VFL AFL record by playing in preliminary finals for seven consecutive years from his debut year in 1994 to 2000.
+5. David King was twice an AFL All-Australian and retired at the end of the 2004 season.
+6. David King then joined the Richmond Football Club as an assistant coach in 2005.
+7. David King is currently a commentator for Fox Footy and SEN 1116.
+8. David King won the Most Outstanding Television Special Comments Award at the 2012 AFL Media Awards.
+9. On 19 February 2015, Australian media reported that David King was being investigated by police about successful bets David King made predicting the winner of the 2014 AFL Rising Star Award.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.6666666666666666 1.0 0.5 1.0 1.0 1.0 1.0 
+
+Value for ground truth is : 
+0.6666666666666666 1.0 -1 0.0 0.5 1.0 1.0 1.0 1.0 -1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate minor_inaccurate accurate 
+

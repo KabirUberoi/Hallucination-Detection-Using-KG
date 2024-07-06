@@ -1,0 +1,122 @@
+#############SENTENCE_PAIRS############
+
+Kate Deines and soccer and the value is : 1
+Kate Deines and Reign FC and the value is : 1
+Kate Deines and NWSL and the value is : 1
+Kate Deines and Seattle Sounders and the value is : 1
+Kate Deines and W-League and the value is : 0
+Kate Deines and W-League and the value is : 0
+Kate Deines and Washington Spirit and the value is : 1
+Kate Deines and NWSL and the value is : 1
+Kate Deines and Reign FC and the value is : 1
+Kate Deines and NWSL and the value is : 1
+Kate Deines and Seattle, Washington and the value is : 1
+Kate Deines and Newport High School and the value is : 0
+Kate Deines and Bellevue, Washington and the value is : 0
+Kate Deines and soccer and the value is : 1
+Kate Deines and Washington and the value is : 0
+Kate Deines and Washington Freedom and the value is : 0
+Kate Deines and 2010 WPS Draft and the value is : 0
+Kate Deines and Atlanta Beat and the value is : 0
+Kate Deines and Washington Freedom and the value is : 0
+Kate Deines and Washington Freedom and the value is : 0
+Kate Deines and Seattle Sounders and the value is : 1
+Kate Deines and W-League and the value is : 0
+Kate Deines and W-League and the value is : 0
+Kate Deines and Seattle Sounders and the value is : 1
+Kate Deines and W-League and the value is : 0
+Kate Deines and Seattle Sounders and the value is : 1
+Kate Deines and W-League and the value is : 0
+Kate Deines and W-League and the value is : 0
+Kate Deines and Washington Spirit and the value is : 1
+Kate Deines and NWSL and the value is : 1
+Kate Deines and Washington Spirit and the value is : 1
+Kate Deines and NWSL and the value is : 1
+
+#############GROUND_PAIRS############
+
+Ann Deines and Kathleen and the value is : 0
+Ann Deines and soccer and the value is : 1
+Ann Deines and Kathleen and the value is : 0
+Ann Deines and Turbine Potsdam and the value is : 1
+Ann Deines and Bundesliga and the value is : 1
+Ann Deines and Reign FC and the value is : 1
+Ann Deines and Kathleen and the value is : 0
+Ann Deines and Atlanta Beat and the value is : 1
+Ann Deines and 2012 WPS Draft and the value is : 1
+Ann Deines and Kathleen and the value is : 0
+Ann Deines and rejoined and the value is : 0
+Ann Deines and Seattle Sounders and the value is : 1
+Ann Deines and Kathleen and the value is : 0
+Ann Deines and Kathleen and the value is : 0
+Ann Deines and Reign FC and the value is : 1
+Ann Deines and Kathleen and the value is : 0
+Ann Deines and Kansas City and the value is : 1
+Ann Deines and Kathleen and the value is : 0
+Ann Deines and soccer and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Kate Deines (born April 15, 1988) is an American professional soccer player who currently plays for Reign FC of the National Women's Soccer League (NWSL).
+She previously played for the Seattle Sounders Women of the W-League, the Washington Spirit of the NWSL, and the Seattle Reign FC of the NWSL.
+Deines was born in Seattle, Washington and attended Newport High School in Bellevue, Washington.
+She played college soccer at the University of Washington from 2006 to 2009.
+During her college career, she was named to the All-Pac-10 First Team in 2008 and 2009.
+Deines was drafted by the Washington Freedom in the 2010 WPS Draft.
+She made her professional debut on April 11, 2010, in a match against the Atlanta Beat.
+She played for the Freedom until the team folded in 2011.
+In 2012, Deines signed with the Seattle Sounders Women of the W-League.
+She played for the Sounders for two seasons, helping the team win the W-League Championship in 2013.
+In 2014, Deines signed with the Washington Spirit of the NWSL.
+She made her debut for the.
+
+
+Coref Resolved: 
+
+0. Kate Deines (born April 15, 1988) is an American professional soccer player who currently plays for Reign FC of the National Women's Soccer League (NWSL).
+1. Kate Deines previously played for the Seattle Sounders Women of the W-League the W-League , the Washington Spirit of the NWSL , and the Seattle Reign FC of the NWSL .
+2. Kate Deines was born in Seattle, Washington and attended Newport High School in Bellevue, Washington .
+3. Kate Deines played college soccer at the University of Washington from 2006 to 2009 .
+4. During Kate Deines college career, Kate Deines was named to the All-Pac-10 First Team in 2008 and 2009 .
+5. Kate Deines was drafted by the Washington Freedom in the 2010 WPS Draft.
+6. Kate Deines made Kate Deines professional debut on April 11, 2010, in a match against the Atlanta Beat.
+7. Kate Deines played for the Washington Freedom until the Washington Freedom folded in 2011.
+8. In 2012, Kate Deines signed with the Seattle Sounders Women of the W-League the W-League .
+9. Kate Deines played for the Seattle Sounders Women of the W-League for two seasons, helping the Seattle Sounders Women of the W-League win the the W-League Championship in 2013.
+10. In 2014, Kate Deines signed with the Washington Spirit of the NWSL .
+11. Kate Deines made Kate Deines debut for the Washington Spirit of the NWSL .
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Kathleen "Kate" Ann Deines (born September 17, 1989) is an American soccer midfielder-defender.
+She most recently played for Turbine Potsdam in the German Bundesliga and Seattle Reign FC of the National Women's Soccer League.
+Deines was a fourth round pick (23rd overall) of the Atlanta Beat of Women's Professional Soccer in the 2012 WPS Draft of college seniors on January 13, 2012.
+The WPS Board of Governors voted to suspend the 2012 season on January 30, citing pending legal issues.
+Subsequently, she was free to sign with other teams and rejoined the Seattle Sounders Women, the organization she had previously played for from 2007 to 2009.
+After the formation of the National Women's Soccer League in late 2012, Deines played for the Seattle Reign during the league's first two seasons.
+She was traded to FC Kansas City in late 2014 but announced her retirement from professional soccer on March 31, 2015 before the 2015 season began. 
+
+Coref Resolved: 
+
+0. Kathleen "Kate" Ann Deines (born September 17, 1989) is an American soccer midfielder-defender.
+1. Kathleen "Kate" Ann Deines (born September 17, 1989) most recently played for Turbine Potsdam in the German Bundesliga and Seattle Reign FC of the National Women's Soccer League .
+2. Kathleen "Kate" Ann Deines (born September 17, 1989) was a fourth round pick (23rd overall) of the Atlanta Beat of Women's Professional Soccer in the 2012 WPS Draft of college seniors on January 13, 2012.
+3. The WPS Board of Governors voted to suspend the 2012 season on January 30, citing pending legal issues.
+4. Subsequently, Kathleen "Kate" Ann Deines (born September 17, 1989) was free to sign with other teams and rejoined the Seattle Sounders Women, the organization Kathleen "Kate" Ann Deines (born September 17, 1989) had previously played for from 2007 to 2009.
+5. After the formation of the National Women's Soccer League in late 2012, Kathleen "Kate" Ann Deines (born September 17, 1989) played for Seattle Reign FC of the National Women's Soccer League during the National Women's Soccer League first two seasons.
+6. Kathleen "Kate" Ann Deines (born September 17, 1989) was traded to FC Kansas City in late 2014 but announced Kathleen "Kate" Ann Deines (born September 17, 1989) retirement from professional soccer on March 31, 2015 before the 2015 season began.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.7142857142857143 0.3333333333333333 0.5 -1 0.0 0.0 0.0 0.3333333333333333 0.4 1.0 1.0 
+
+Value for ground truth is : 
+0.5 0.75 0.6666666666666666 -1 0.25 0.5 0.5 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate 
+

@@ -1,0 +1,111 @@
+#############SENTENCE_PAIRS############
+
+Rudy Fernandez and civil rights and the value is : 0
+Rudy Fernandez and United States and the value is : 0
+Rudy Fernandez and Antonio and the value is : 1
+Rudy Fernandez and Texas and the value is : 1
+Rudy Fernandez and Mexican and the value is : 1
+Rudy Fernandez and labor movement and the value is : 0
+Rudy Fernandez and United States and the value is : 0
+Rudy Fernandez and United Farm Workers and the value is : 1
+Rudy Fernandez and UFW and the value is : 0
+Rudy Fernandez and grape and the value is : 0
+Rudy Fernandez and boycott and the value is : 0
+Rudy Fernandez and California and the value is : 1
+Rudy Fernandez and civil rights and the value is : 0
+Rudy Fernandez and Chicano Movement and the value is : 1
+Rudy Fernandez and major force and the value is : 0
+Rudy Fernandez and social justice and the value is : 0
+Rudy Fernandez and United Farm Workers and the value is : 1
+Rudy Fernandez and UFW and the value is : 0
+Rudy Fernandez and civil rights and the value is : 0
+
+#############GROUND_PAIRS############
+
+1979 and Austria and the value is : 1
+1979 and Filipino and the value is : 1
+1979 and trade unionist and the value is : 1
+1979 and President and the value is : 0
+1979 and Davao City and the value is : 1
+1979 and Philippines and the value is : 1
+1979 and Philippines and the value is : 1
+Fernandez and Austria and the value is : 1
+Fernandez and Union and the value is : 0
+Fernandez and Congress and the value is : 0
+Fernandez and Philippines and the value is : 1
+Fernandez and draft and the value is : 0
+Fernandez and Union and the value is : 0
+Fernandez and Congress and the value is : 0
+Fernandez and Philippines and the value is : 1
+Fernandez and Austria and the value is : 1
+Fernandez and labor movement and the value is : 1
+Fernandez and Austria and the value is : 1
+Fernandez and General and the value is : 0
+Fernandez and Union and the value is : 0
+Fernandez and Davao City and the value is : 1
+Fernandez and Philippines and the value is : 1
+DPGTWU and Davao City and the value is : 1
+DPGTWU and Philippines and the value is : 1
+DPGTWU and Mindanao and the value is : 1
+DPGTWU and Philippines and the value is : 1
+Fernandez and Austria and the value is : 1
+Fernandez and Batasang Pambansa and the value is : 1
+Fernandez and Philippines and the value is : 1
+Fernandez and industrial and the value is : 1
+Fernandez and Mindanao and the value is : 1
+Fernandez and Austria and the value is : 1
+Fernandez and Lanao and the value is : 0
+Fernandez and Muslim and the value is : 0
+Fernandez and Lanao and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Rudy Fernandez (1941 2008) was a labor leader and civil rights activist from the United States.
+He was born in San Antonio, Texas, and was the son of Mexican immigrants.
+He was a leader in the labor movement in the United States, and was a founding member of the United Farm Workers of America (UFW).
+He was a key figure in the successful grape boycott of the 1960s and 1970s, which led to the unionization of thousands of farm workers in California.
+He was also a leader in the struggle for civil rights, and was a key figure in the Chicano Movement of the 1960s and 1970s.
+He was a tireless advocate for the rights of workers and immigrants, and was a major force in the fight for social justice.
+He was a mentor to many young activists, and his legacy lives on in the work of the UFW and other labor and civil rights organizations.
+
+
+Coref Resolved: 
+
+0. Rudy Fernandez (1941 2008) was a labor leader and civil rights activist from the United States .
+1. Rudy Fernandez was born in San Antonio, Texas, and was the son of Mexican immigrants.
+2. Rudy Fernandez was a leader in the labor movement in the United States , and was a founding member of the United Farm Workers of America (UFW) .
+3. Rudy Fernandez was a key figure in the successful grape boycott of the 1960s and 1970s , which led to the unionization of thousands of farm workers in California.
+4. Rudy Fernandez was also a leader in the struggle for civil rights, and was a key figure in the Chicano Movement of the 1960s and 1970s .
+5. Rudy Fernandez was a tireless advocate for the rights of workers and immigrants, and was a major force in the fight for social justice.
+6. Rudy Fernandez was a mentor to many young activists, and Rudy Fernandez legacy lives on in the work of the United Farm Workers of America (UFW) and other labor and civil rights organizations.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Rudolfo Austria "Rudy" Fernandez, Sr. (July 26, 1927 - June 9, 1979) was a prominent Filipino labor leader, trade unionist, and staunch opponent of the late President Ferdinand Marcos in Davao City, Philippines.
+He was one of the original organizers of the Trade Union Congress of the Philippines (TUCP KMP) in 1975 and helped draft, develop, and establish its constitution and by-laws.
+He first came into the Philippine labor movement arena when he founded the Davao Port General Transport Worker's Union (DPGTWU), now the Association of Trade Unions - TUCP (ATU-TUCP), in Davao City.
+DPGTWU was one of the most active labor organizations in Davao City and its membership spread throughout Mindanao in the southern Philippines during the years between 1967-1979.
+He ran for the Interim Batasang Pambansa (IBP) in the Philippines in 1978 as an industrial labor sectoral representative for the Mindanao region but ultimately lost against his closest rival, Princess Porti Pacasum, daughter of one of the richest Lanao Muslim clans and owner of the biggest transport company in Lanao, Philippines. 
+
+Coref Resolved: 
+
+0. Rudolfo Austria "Rudy" Fernandez, Sr. (July 26, 1927 - June 9, 1979) 1979 was a prominent Filipino labor leader, trade unionist, and staunch opponent of the late President Ferdinand Marcos in Davao City, Philippines Philippines .
+1. Rudolfo Austria "Rudy" Fernandez, Sr. (July 26, 1927 - June 9, 1979) was one of the original organizers of the Trade Union Congress of the Philippines (TUCP KMP) in 1975 and helped draft, develop, and establish the Trade Union Congress of the Philippines (TUCP KMP) constitution and by-laws.
+2. Rudolfo Austria "Rudy" Fernandez, Sr. (July 26, 1927 - June 9, 1979) first came into the Philippine labor movement arena when Rudolfo Austria "Rudy" Fernandez, Sr. (July 26, 1927 - June 9, 1979) founded the Davao Port General Transport Worker's Union (DPGTWU), now the Association of Trade Unions - TUCP (ATU-TUCP), in Davao City, Philippines .
+3. DPGTWU was one of the most active labor organizations in Davao City, Philippines and DPGTWU membership spread throughout Mindanao in the southern Philippines during the years between 1967-1979 .
+4. Rudolfo Austria "Rudy" Fernandez, Sr. (July 26, 1927 - June 9, 1979) ran for the Interim Batasang Pambansa (IBP) in Philippines in 1978 as an industrial labor sectoral representative for the Mindanao region but ultimately lost against Rudolfo Austria "Rudy" Fernandez, Sr. (July 26, 1927 - June 9, 1979) closest rival, Princess Porti Pacasum, daughter of one of the richest Lanao Muslim clans and owner of the biggest transport company in Lanao .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 1.0 0.25 0.3333333333333333 0.5 0.0 0.3333333333333333 
+
+Value for ground truth is : 
+0.8571428571428571 0.375 0.7142857142857143 1.0 0.6666666666666666 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate 
+

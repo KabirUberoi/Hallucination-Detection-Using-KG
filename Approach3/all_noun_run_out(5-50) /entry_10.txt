@@ -1,0 +1,135 @@
+#############SENTENCE_PAIRS############
+
+Marshall Manesh and an American actor and the value is : 0
+Marshall Manesh and Marshall Manesh roles and the value is : 1
+Marshall Manesh and Ranjit and the value is : 0
+Marshall Manesh and the CBS sitcom and the value is : 0
+Marshall Manesh and I and the value is : 0
+Marshall Manesh and Your Mother and the value is : 0
+Marshall Manesh and Dr. Ravi Kapoor and the value is : 0
+Marshall Manesh and the ABC sitcom and the value is : 0
+Marshall Manesh and Dharma Greg and the value is : 0
+Marshall Manesh and Tehran and the value is : 0
+Marshall Manesh and Iran and the value is : 0
+Marshall Manesh and the United States and the value is : 0
+Marshall Manesh and the University and the value is : 0
+Marshall Manesh and California and the value is : 0
+Marshall Manesh and Los Angeles and the value is : 0
+Marshall Manesh and a degree and the value is : 0
+Marshall Manesh and theater and the value is : 1
+Marshall Manesh and Marshall Manesh acting career and the value is : 1
+Marshall Manesh and the late 1980s and the value is : 1
+Marshall Manesh and television shows and the value is : 0
+Marshall Manesh and L.A. Law and the value is : 0
+Marshall Manesh and Cheers and the value is : 0
+Marshall Manesh and Seinfeld and the value is : 0
+Marshall Manesh and films and the value is : 0
+Marshall Manesh and The Big Lebowski and the value is : 0
+Marshall Manesh and The Wedding Planner and the value is : 0
+Marshall Manesh and Shohreh Aghdashloo and the value is : 0
+They and two children and the value is : 0
+Marshall Manesh and Los Angeles and the value is : 0
+Marshall Manesh and California and the value is : 0
+
+#############GROUND_PAIRS############
+
+Marshall Manesh and Mashhad and the value is : 1
+Marshall Manesh and Iran and the value is : 1
+Marshall Manesh and an Iranian American actor and the value is : 0
+Marshall Manesh and recurring roles and the value is : 0
+Marshall Manesh and the television shows and the value is : 1
+Marshall Manesh and "Scrubs and the value is : 1
+Marshall Manesh and Andy Barker and the value is : 1
+Marshall Manesh and P.I. and the value is : 0
+Marshall Manesh and Cleveland and the value is : 1
+Marshall Manesh and "Boston Legal and the value is : 1
+Marshall Manesh and I and the value is : 0
+Marshall Manesh and Your Mother and the value is : 0
+Marshall Manesh and the Bangladeshi taxi town car limo driver Ranjit and the value is : 0
+Marshall Manesh and many shows and the value is : 0
+Marshall Manesh and "Burn Notice and the value is : 1
+Marshall Manesh and The X and the value is : 0
+Marshall Manesh and - and the value is : 0
+Marshall Manesh and Files and the value is : 0
+Marshall Manesh and "Scrubs and the value is : 1
+Marshall Manesh and JAG and the value is : 1
+Marshall Manesh and NYPD Blue and the value is : 1
+Marshall Manesh and "Prison Break and the value is : 1
+Marshall Manesh and the Indian Prime Minister Nandu Banerjee and the value is : 0
+Marshall Manesh and several movies and the value is : 1
+Marshall Manesh and "True Lies and the value is : 1
+Marshall Manesh and Marshall Manesh debut and the value is : 0
+Marshall Manesh and Harvard and the value is : 1
+Marshall Manesh and The Big Lebowski and the value is : 1
+Marshall Manesh and Kazaam and the value is : 1
+Marshall Manesh and The Poseidon Adventure and the value is : 1
+Marshall Manesh and a Friend and the value is : 0
+Marshall Manesh and the End and the value is : 0
+Marshall Manesh and the World and the value is : 0
+Marshall Manesh and Sri Sumbhajee and the value is : 0
+Marshall Manesh and the Pirate Lords and the value is : 0
+Marshall Manesh and Hossein and the value is : 0
+Marshall Manesh and Night and the value is : 0
+Marshall Manesh and a cameo appearance and the value is : 0
+Marshall Manesh and the cab driver and the value is : 0
+Marshall Manesh and Madonna's 2005 video and the value is : 0
+Marshall Manesh and a judge and the value is : 0
+Marshall Manesh and the 6th Annual Noor Iranian Film Festival and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Marshall Manesh (born October 24, 1956) is an American actor.
+He is best known for his roles as Ranjit on the CBS sitcom How I Met Your Mother and as Dr. Ravi Kapoor on the ABC sitcom Dharma Greg.
+Manesh was born in Tehran, Iran, and moved to the United States in 1975.
+He attended the University of California, Los Angeles, where he earned a degree in theater.
+He began his acting career in the late 1980s, appearing in television shows such as L.A. Law, Cheers, and Seinfeld.
+He has also appeared in films such as The Big Lebowski and The Wedding Planner.
+Manesh has been married to actress Shohreh Aghdashloo since 1992.
+They have two children.
+He currently resides in Los Angeles, California.
+
+
+Coref Resolved: 
+
+0. Marshall Manesh (born October 24, 1956) is an American actor.
+1. Marshall Manesh is best known for Marshall Manesh roles as Ranjit on the CBS sitcom How I Met Your Mother and as Dr. Ravi Kapoor on the ABC sitcom Dharma Greg.
+2. Marshall Manesh was born in Tehran, Iran, and moved to the United States in 1975.
+3. Marshall Manesh attended the University of California, Los Angeles, where Marshall Manesh earned a degree in theater.
+4. Marshall Manesh began Marshall Manesh acting career in the late 1980s, appearing in television shows such as L.A. Law, Cheers, and Seinfeld.
+5. Marshall Manesh has also appeared in films such as The Big Lebowski and The Wedding Planner.
+6. Marshall Manesh has been married to actress Shohreh Aghdashloo since 1992.
+7. They have two children.
+8. Marshall Manesh currently resides in Los Angeles, California.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Marshall Manesh (born August 16, 1950 in Mashhad, Iran) is an Iranian American actor.
+Manesh has appeared in recurring roles on the television shows "Will Grace", "Scrubs", "Andy Barker, P.I.", "Hot in Cleveland", "Boston Legal", and, most notably, "How I Met Your Mother", where he plays the Bangladeshi taxi town car limo driver Ranjit.
+He has also guest starred on many shows, including "Burn Notice", "Persons Unknown", "The X-Files", "Scrubs", "ER", "JAG", "NYPD Blue", and "Prison Break" as the Indian Prime Minister Nandu Banerjee.
+Manesh has acted in several movies, including "True Lies" (his debut), "Stealing Harvard", "The Big Lebowski", "Kazaam", "The Poseidon Adventure", "Seeking a Friend for the End of the World", as Sri Sumbhajee, one of the Pirate Lords, and as Hossein in the vampire western "A Girl Walks Home Alone at Night".
+He has also had a cameo appearance as the cab driver on Madonna's 2005 video for "Hung Up".
+He served as a judge at the 6th Annual Noor Iranian Film Festival. 
+
+Coref Resolved: 
+
+0. Marshall Manesh (born August 16, 1950 in Mashhad, Iran) is an Iranian American actor.
+1. Marshall Manesh has appeared in recurring roles on the television shows "Will Grace", "Scrubs" , "Andy Barker, P.I.", "Hot in Cleveland", "Boston Legal", and, most notably, "How I Met Your Mother", where Marshall Manesh plays the Bangladeshi taxi town car limo driver Ranjit.
+2. Marshall Manesh has also guest starred on many shows, including "Burn Notice", "Persons Unknown", "The X-Files", "Scrubs" , "ER", "JAG", "NYPD Blue", and "Prison Break" as the Indian Prime Minister Nandu Banerjee.
+3. Marshall Manesh has acted in several movies, including "True Lies" (Marshall Manesh debut), "Stealing Harvard", "The Big Lebowski", "Kazaam", "The Poseidon Adventure", "Seeking a Friend for the End of the World", as Sri Sumbhajee, one of the Pirate Lords, and as Hossein in the vampire western "A Girl Walks Home Alone at Night".
+4. Marshall Manesh has also had a cameo appearance as the cab driver on Madonna's 2005 video for "Hung Up".
+5. Marshall Manesh served as a judge at the 6th Annual Noor Iranian Film Festival.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.125 0.0 0.2 0.3333333333333333 0.0 0.0 0.0 0.0 
+
+Value for ground truth is : 
+0.6666666666666666 0.5 0.5 0.42857142857142855 0.0 0.5 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate accurate 
+

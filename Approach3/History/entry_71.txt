@@ -1,0 +1,149 @@
+#############SENTENCE_PAIRS############
+
+John Burnham and English and the value is : 0
+John Burnham and Derbyshire and the value is : 1
+John Burnham and Derby and the value is : 0
+John Burnham and lace and the value is : 0
+John Burnham and Repton School and the value is : 1
+John Burnham and Trinity College and the value is : 1
+John Burnham and Cambridge and the value is : 1
+John Burnham and Derbyshire and the value is : 1
+John Burnham and 1871 season and the value is : 1
+John Burnham and Lancashire and the value is : 1
+John Burnham and Derbyshire and the value is : 1
+John Burnham and first-class and the value is : 0
+John Burnham and Lancashire and the value is : 1
+John Burnham and batsman and the value is : 1
+John Burnham and first-class and the value is : 0
+John Burnham and roundarm fast and the value is : 0
+John Burnham and bowler and the value is : 0
+John Burnham and Derby and the value is : 0
+
+#############GROUND_PAIRS############
+
+John William Burnham and Burnham and the value is : 0
+John William Burnham and English and the value is : 0
+John William Burnham and Derbyshire and the value is : 1
+John William Burnham and Burnham and the value is : 0
+John William Burnham and Derbyshire and the value is : 1
+John William Burnham and Burnham and the value is : 0
+John William Burnham and Nottingham and the value is : 1
+John William Burnham and Burnham and the value is : 0
+John William Burnham and joiner and the value is : 0
+John William Burnham and Burnham and the value is : 0
+John William Burnham and joiner and the value is : 0
+John William Burnham and Burnham and the value is : 0
+John William Burnham and Burnham and the value is : 0
+John William Burnham and Suffolk and the value is : 0
+John William Burnham and All England and the value is : 0
+John William Burnham and Burnham and the value is : 0
+John William Burnham and Burnley and the value is : 1
+John William Burnham and Burnham and the value is : 0
+John William Burnham and Derbyshire and the value is : 1
+John William Burnham and 1871 season and the value is : 0
+John William Burnham and Derbyshire and the value is : 1
+John William Burnham and Lancashire and the value is : 1
+John William Burnham and Burnham and the value is : 0
+John William Burnham and Derbyshire and the value is : 1
+John William Burnham and 1872 season and the value is : 0
+John William Burnham and Derbyshire and the value is : 1
+John William Burnham and Lancashire and the value is : 1
+John William Burnham and Burnham and the value is : 0
+John William Burnham and Prince and the value is : 0
+John William Burnham and London and the value is : 1
+John William Burnham and 1873 season and the value is : 0
+John William Burnham and Burnham and the value is : 0
+John William Burnham and Derbyshire and the value is : 1
+John William Burnham and Lancashire and the value is : 1
+John William Burnham and Burnham and the value is : 0
+John William Burnham and 1876 season and the value is : 0
+John William Burnham and Burnham and the value is : 0
+John William Burnham and first-class and the value is : 0
+John William Burnham and Kent and the value is : 0
+John William Burnham and Burnham and the value is : 0
+John William Burnham and Test and the value is : 0
+John William Burnham and Charlie Absolom and the value is : 1
+John William Burnham and Burnham and the value is : 0
+John William Burnham and batsman and the value is : 1
+John William Burnham and first-class and the value is : 0
+John William Burnham and Burnham and the value is : 0
+John William Burnham and Litchurch and the value is : 1
+John William Burnham and Burnham and the value is : 0
+John William Burnham and 1879 season and the value is : 0
+John William Burnham and first-class and the value is : 0
+John William Burnham and Burnham and the value is : 0
+John William Burnham and Derby and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+John Burnham (born 28 August 1845) was an English cricketer who played for Derbyshire between 1871 and 1876.
+Burnham was born in Derby, the son of John Burnham, a lace manufacturer.
+He was educated at Repton School and at Trinity College, Cambridge.
+He made his debut for Derbyshire in the 1871 season against Lancashire.
+He played for the county in 1871 and 1872, and then again in 1875 and 1876.
+In 1871 he scored his highest first-class score of 73 against Lancashire.
+Burnham was a right-handed batsman and played 24 innings in 14 first-class matches with an average of 11.50 and a top score of 73.
+He was a right-arm roundarm fast bowler and took 4 wickets at an average of 28.50 and a best performance of 2 for 11.
+Burnham died in Derby at the age of 30.
+
+
+Coref Resolved: 
+
+0. John Burnham (born 28 August 1845) was an English cricketer who played for Derbyshire between 1871 and 1876 .
+1. John Burnham was born in Derby , the son of John Burnham, a lace manufacturer.
+2. John Burnham was educated at Repton School and at Trinity College, Cambridge.
+3. John Burnham made John Burnham debut for Derbyshire in the 1871 season against Lancashire .
+4. John Burnham played for Derbyshire in 1871 and 1872, and then again in 1875 and 1876 .
+5. In 1871 John Burnham scored John Burnham highest first-class score of 73 against Lancashire .
+6. John Burnham was a right-handed batsman and played 24 innings in 14 first-class matches with an average of 11.50 and a top score of 73.
+7. John Burnham was a right-arm roundarm fast bowler and took 4 wickets at an average of 28.50 and a best performance of 2 for 11.
+8. John Burnham died in Derby at the age of 30.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+John William Burnham (6 June 1839 20 April 1914) was an English cricketer who played for Derbyshire between 1871 and 1876.
+He was a member of the team that played Derbyshire's first match in May 1871.
+Burnham was born in Nottingham, the son of William Burnham, a joiner, and his wife Catherine.
+He became a clerk and in 1863 he was playing for Suffolk and in one match for an All England XI.
+In 1870 he played several club games for Burnley.
+He joined Derbyshire in the 1871 season and took part in Derbyshire's first-ever match as a county side, an innings victory over Lancashire.
+He played the return game later in the season, and played again for Derbyshire in the 1872 season in both fixtures between Derbyshire and Lancashire.
+Also in 1872 he played some games for Prince's Club in London.
+In the 1873 season he only played one match for Derbyshire against Lancashire.
+He did not play again until the 1876 season when his final match, as a first-class player, was against Kent, in which he was bowled out by Test cricketer Charlie Absolom.
+Burnham was a right-handed batsman and played eleven innings in six first-class matches with an average of 5.00 and a top score of 31.
+In 1881 he was living in Litchurch.
+Burnham umpired one game during the 1879 season, three years after giving up the first-class game.
+Burnham died in Derby. 
+
+Coref Resolved: 
+
+0. John William Burnham (6 June 1839 20 April 1914) was an English cricketer who played for Derbyshire between 1871 and 1876.
+1. John William Burnham was a member of the team that played Derbyshire first match in May 1871.
+2. John William Burnham was born in Nottingham, the son of William Burnham, a joiner , and William Burnham, a joiner wife Catherine.
+3. John William Burnham became a clerk and in 1863 John William Burnham was playing for Suffolk and in one match for an All England XI.
+4. In 1870 John William Burnham played several club games for Burnley.
+5. John William Burnham joined Derbyshire in the 1871 season and took part in Derbyshire first-ever match as a county side, an innings victory over Lancashire .
+6. John William Burnham played the return game later in the season, and played again for Derbyshire in the 1872 season in both fixtures between Derbyshire and Lancashire .
+7. Also in 1872 John William Burnham played some games for Prince's Club in London.
+8. In the 1873 season John William Burnham only played one match for Derbyshire against Lancashire .
+9. John William Burnham did not play again until the 1876 season when John William Burnham final match, as a first-class player, was against Kent, in which John William Burnham was bowled out by Test cricketer Charlie Absolom.
+10. John William Burnham was a right-handed batsman and played eleven innings in six first-class matches with an average of 5.00 and a top score of 31.
+11. In 1881 John William Burnham was living in Litchurch.
+12. John William Burnham umpired one game during the 1879 season, three years after giving up the first-class game.
+13. John William Burnham died in Derby.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5 0.0 1.0 1.0 1.0 0.5 0.5 0.0 0.0 
+
+Value for ground truth is : 
+0.3333333333333333 0.5 0.16666666666666666 0.0 0.5 0.6 0.6 0.3333333333333333 0.5 0.125 0.3333333333333333 0.5 0.0 0.5 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

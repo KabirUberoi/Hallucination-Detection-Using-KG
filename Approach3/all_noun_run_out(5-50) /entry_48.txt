@@ -1,0 +1,124 @@
+#############SENTENCE_PAIRS############
+
+Irena Sendler and (née Krzyżanowska and the value is : 1
+Irena Sendler and May and the value is : 0
+Irena Sendler and a Polish nurse and the value is : 0
+Irena Sendler and social worker and the value is : 1
+Irena Sendler and who and the value is : 0
+Irena Sendler and the Polish Underground Resistance and the value is : 1
+Irena Sendler and World War II and the value is : 1
+Irena Sendler and German-occupied Warsaw and the value is : 1
+Irena Sendler and (née Krzyżanowska and the value is : 1
+Irena Sendler and May and the value is : 0
+Irena Sendler and part and the value is : 0
+Irena Sendler and the Polish Underground Resistance Żegota resistance organization and the value is : 1
+Irena Sendler and the lives and the value is : 0
+Irena Sendler and 2,500 Jewish children and the value is : 0
+Irena Sendler and 2,500 Jewish children and the value is : 0
+Irena Sendler and the Warsaw Ghetto and the value is : 1
+Irena Sendler and 2,500 Jewish children and the value is : 0
+Irena Sendler and false identity documents and the value is : 1
+Irena Sendler and shelter and the value is : 0
+Irena Sendler and individual and group children's homes and the value is : 0
+Irena Sendler and German-occupied Warsaw and the value is : 1
+Irena Sendler and (née Krzyżanowska and the value is : 1
+Irena Sendler and May and the value is : 0
+Irena Sendler and the Nobel Peace Prize and the value is : 0
+
+#############GROUND_PAIRS############
+
+Irena Sendler and (née Krzyżanowska and the value is : 1
+Irena Sendler and Irena Sendlerowa and the value is : 1
+Irena Sendler and Poland and the value is : 1
+Irena Sendler and nom de guerre Jolanta and the value is : 1
+Irena Sendler and a Polish nurse and the value is : 0
+Irena Sendler and social worker and the value is : 1
+Irena Sendler and the Polish Underground and the value is : 1
+Irena Sendler and German-occupied Warsaw and the value is : 1
+Irena Sendler and World War II and the value is : 1
+Irena Sendler and head and the value is : 0
+Irena Sendler and the children's section and the value is : 0
+Irena Sendler and Żegota and the value is : 1
+Irena Sendler and the Polish Council and the value is : 1
+Irena Sendler and Jews and the value is : 1
+which and some two dozen other Żegota and the value is : 1
+which and the Polish Council and the value is : 1
+which and Jews and the value is : 1
+which and 1945 members and the value is : 0
+which and approximately 2,500 Jewish children and the value is : 0
+which and the Warsaw Ghetto and the value is : 1
+which and approximately 2,500 Jewish children and the value is : 0
+which and false identity documents and the value is : 0
+which and shelter and the value is : 0
+which and the Warsaw Ghetto and the value is : 1
+which and approximately 2,500 Jewish children and the value is : 0
+which and the Holocaust and the value is : 1
+who and the exception and the value is : 0
+who and diplomats and the value is : 0
+who and visas and the value is : 1
+who and Jews and the value is : 1
+who and Nazi-occupied Europe and the value is : 1
+who and more Jews and the value is : 1
+who and any other individual and the value is : 0
+who and the Holocaust and the value is : 1
+occupiers and The German occupiers and the value is : 0
+occupiers and Sendler activities and the value is : 0
+occupiers and the Gestapo and the value is : 0
+occupiers and death and the value is : 0
+occupiers and execution and the value is : 0
+occupiers and World War II and the value is : 0
+Sendler and the State and the value is : 0
+Sendler and Israel and the value is : 1
+Sendler and Righteous and the value is : 1
+Sendler and the Nations and the value is : 0
+Sendler and life and the value is : 0
+Sendler and the Order and the value is : 0
+Sendler and the White Eagle and the value is : 1
+Sendler and Poland highest honor and the value is : 1
+Sendler and Sendler wartime humanitarian efforts and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Irena Sendler (née Krzyżanowska 15 February 1910 12 May 2008) was a Polish nurse, social worker, and humanitarian who served in the Polish Underground Resistance during World War II in German-occupied Warsaw.
+She was part of the Polish Underground's Żegota resistance organization, and was responsible for saving the lives of 2,500 Jewish children by smuggling them out of the Warsaw Ghetto and providing them with false identity documents and shelter in individual and group children's homes in the city.
+She was nominated for the Nobel Peace Prize in 2007.
+
+
+Coref Resolved: 
+
+0. Irena Sendler (née Krzyżanowska 15 February 1910 12 May 2008) was a Polish nurse, social worker, and humanitarian who served in the Polish Underground Resistance during World War II in German-occupied Warsaw .
+1. Irena Sendler (née Krzyżanowska 15 February 1910 12 May 2008) was part of the Polish Underground Resistance Żegota resistance organization, and was responsible for saving the lives of 2,500 Jewish children by smuggling 2,500 Jewish children out of the Warsaw Ghetto and providing 2,500 Jewish children with false identity documents and shelter in individual and group children's homes in German-occupied Warsaw .
+2. Irena Sendler (née Krzyżanowska 15 February 1910 12 May 2008) was nominated for the Nobel Peace Prize in 2007.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Irena Sendler (née Krzyżanowska, also referred to as Irena Sendlerowa in Poland, nom de guerre Jolanta 15 February 1910 12 May 2008), was a Polish nurse and social worker who served in the Polish Underground in German-occupied Warsaw during World War II, and was head of the children's section of Żegota, the Polish Council to Aid Jews, which was active from 1942 to 1945.
+Assisted by some two dozen other Żegota members, Sendler smuggled approximately 2,500 Jewish children out of the Warsaw Ghetto and then provided them with false identity documents and shelter outside the ghetto, saving those children from the Holocaust.
+With the exception of diplomats who issued visas to help Jews flee Nazi-occupied Europe, Sendler saved more Jews than any other individual during the Holocaust.
+The German occupiers eventually discovered her activities and she was arrested by the Gestapo, tortured, and sentenced to death, but she managed to evade execution and survive the war.
+In 1965, Sendler was recognised by the State of Israel as Righteous Among the Nations.
+Late in life she was awarded the Order of the White Eagle, Poland's highest honor, for her wartime humanitarian efforts. 
+
+Coref Resolved: 
+
+0. Irena Sendler (née Krzyżanowska, also referred to as Irena Sendlerowa in Poland , nom de guerre Jolanta 15 February 1910 12 May 2008), was a Polish nurse and social worker who served in the Polish Underground in German-occupied Warsaw during World War II , and was head of the children's section of Żegota, the Polish Council to Aid Jews, which was active from 1942 to 1945 .
+1. Assisted by some two dozen other Żegota, the Polish Council to Aid Jews, which was active from 1942 to 1945 members, Sendler smuggled approximately 2,500 Jewish children out of the Warsaw Ghetto and then provided approximately 2,500 Jewish children with false identity documents and shelter outside the Warsaw Ghetto , saving approximately 2,500 Jewish children from the Holocaust .
+2. With the exception of diplomats who issued visas to help Jews flee Nazi-occupied Europe, Sendler saved more Jews than any other individual during the Holocaust .
+3. The German occupiers eventually discovered Sendler activities and Sendler was arrested by the Gestapo, tortured, and sentenced to death, but Sendler managed to evade execution and survive World War II .
+4. In 1965, Sendler was recognised by the State of Israel as Righteous Among the Nations.
+5. Late in life Sendler was awarded the Order of the White Eagle, Poland highest honor, for Sendler wartime humanitarian efforts.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.625 0.38461538461538464 0.3333333333333333 
+
+Value for ground truth is : 
+0.7857142857142857 0.5 0.625 0.0 0.5 0.4 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate 
+

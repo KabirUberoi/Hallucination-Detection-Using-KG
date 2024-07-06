@@ -1,0 +1,140 @@
+#############SENTENCE_PAIRS############
+
+Rich Williams and Richard Williams and the value is : 0
+Rich Williams and October and the value is : 0
+Rich Williams and an American guitarist and the value is : 1
+Rich Williams and singer and the value is : 0
+Rich Williams and songwriter and the value is : 0
+Rich Williams and record producer and the value is : 1
+Rich Williams and the lead guitarist and the value is : 1
+Rich Williams and a founding member and the value is : 0
+Rich Williams and the rock band and the value is : 1
+Rich Williams and Kansas and the value is : 0
+Rich Williams and the rock band and the value is : 1
+Rich Williams and Kansas and the value is : 0
+Rich Williams and the rock band Kansas inception and the value is : 0
+Rich Williams and the only original member and the value is : 0
+Rich Williams and the rock band and the value is : 1
+Rich Williams and Kansas and the value is : 0
+Rich Williams and the rock band and the value is : 1
+Rich Williams and Kansas biggest hits and the value is : 0
+Rich Williams and Carry On Wayward Son and the value is : 0
+Rich Williams and "Dust and the value is : 0
+Rich Williams and the Wind and the value is : 0
+Rich Williams and several solo albums and the value is : 0
+Rich Williams and other artists and the value is : 1
+
+#############GROUND_PAIRS############
+
+Williams and Richard Allen "Rich" Williams and the value is : 0
+Williams and the guitarist and the value is : 0
+Williams and the rock band and the value is : 1
+Williams and Kansas and the value is : 1
+Williams and the rock band and the value is : 1
+Williams and Kansas and the value is : 1
+Williams and the rock band and the value is : 1
+Williams and Kansas and the value is : 1
+Williams and self-titled debut album and the value is : 0
+Williams and Richard Allen "Rich" Williams and the value is : 0
+Williams and Richard Allen "Rich" Williams and the value is : 0
+Williams and right eye and the value is : 0
+Williams and a childhood fireworks accident and the value is : 0
+Williams and Richard Allen "Rich" Williams and the value is : 0
+Williams and a prosthetic eye and the value is : 0
+Williams and many years and the value is : 0
+Williams and the beginning and the value is : 0
+Williams and Richard Allen "Rich" Williams and the value is : 0
+Williams and guitar duties and the value is : 0
+Williams and keyboardist guitarist Kerry Livgren and the value is : 0
+Williams and the late 1980s and the value is : 0
+Williams and Richard Allen "Rich" Williams and the value is : 0
+Williams and guitar-playing and the value is : 0
+Williams and Steve Morse and the value is : 0
+Williams and various personnel changes and the value is : 0
+Williams and the rock band and the value is : 1
+Williams and Kansas and the value is : 1
+Williams and Richard Allen "Rich" Williams and the value is : 0
+Williams and the rock band and the value is : 1
+Williams and Kansas and the value is : 1
+Williams and David Ragsdale and the value is : 0
+Williams and the extra guitar parts and the value is : 0
+Williams and the rock band and the value is : 1
+Williams and Kansas and the value is : 1
+Williams and Portrait and the value is : 1
+Williams and He and the value is : 0
+Williams and Fight Fire and the value is : 0
+Williams and Fire and the value is : 0
+Williams and Wayward Son and the value is : 0
+Williams and Richard Allen "Rich" Williams and the value is : 0
+Williams and Phil Ehart and the value is : 0
+Williams and the only two members and the value is : 0
+Williams and the rock band and the value is : 1
+Williams and Kansas and the value is : 1
+Williams and who and the value is : 0
+Williams and the rock band and the value is : 1
+Williams and Kansas and the value is : 1
+Williams and all the rock band Kansas albums and the value is : 0
+Williams and the songs and the value is : 0
+Williams and Richard Allen "Rich" Williams and the value is : 0
+Williams and the rock band and the value is : 1
+Williams and Kansas and the value is : 1
+Williams and I and the value is : 0
+Williams and You and the value is : 0
+Williams and "No Room and the value is : 0
+Williams and a Stranger and the value is : 0
+Williams and the hit and the value is : 0
+Williams and the Game and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Rich Williams (born Richard Williams, October 19, 1949) is an American guitarist, singer, songwriter, and record producer.
+He is best known as the lead guitarist and a founding member of the rock band Kansas.
+Williams has been with the band since its inception in 1973 and is the only original member still with the group.
+He has written or co-written several of the band's biggest hits, including "Carry On Wayward Son" and "Dust in the Wind".
+He has also released several solo albums and collaborated with other artists.
+
+
+Coref Resolved: 
+
+0. Rich Williams (born Richard Williams, October 19, 1949) is an American guitarist, singer, songwriter, and record producer.
+1. Rich Williams is best known as the lead guitarist and a founding member of the rock band Kansas .
+2. Rich Williams has been with the rock band Kansas since the rock band Kansas inception in 1973 and is the only original member still with the rock band Kansas .
+3. Rich Williams has written or co-written several of the rock band Kansas biggest hits, including "Carry On Wayward Son" and "Dust in the Wind".
+4. Rich Williams has also released several solo albums and collaborated with other artists.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Richard Allen "Rich" Williams (born February 1, 1950) is the guitarist for the rock band Kansas, and has been with them since their 1974 self-titled debut album.
+Williams lost his right eye in a childhood fireworks accident.
+He wore a prosthetic eye for many years, but now wears an eye patch instead.
+In the beginning, Williams shared guitar duties with keyboardist guitarist Kerry Livgren.
+In the late 1980s, he shared guitar-playing with Steve Morse.
+After various personnel changes in Kansas, Williams is now the band's only guitarist, although David Ragsdale might play the extra guitar parts when the band plays "Portrait (He Knew)", "Hold On", "Fight Fire with Fire", and "Carry On Wayward Son".
+Williams and Phil Ehart are the only two members of Kansas who have never left the band, and have played on all Kansas' albums.
+Among the songs he co-wrote with the band are "Can I Tell You", "No Room for a Stranger", and the hit "Play the Game Tonight". 
+
+Coref Resolved: 
+
+0. Richard Allen "Rich" Williams (born February 1, 1950) is the guitarist for the rock band Kansas , and has been with the rock band Kansas since the rock band Kansas 1974 self-titled debut album.
+1. Richard Allen "Rich" Williams (born February 1, 1950) lost Richard Allen "Rich" Williams (born February 1, 1950) right eye in a childhood fireworks accident.
+2. Richard Allen "Rich" Williams (born February 1, 1950) wore a prosthetic eye for many years, but now wears an eye patch instead.
+3. In the beginning, Richard Allen "Rich" Williams (born February 1, 1950) shared guitar duties with keyboardist guitarist Kerry Livgren.
+4. In the late 1980s, Richard Allen "Rich" Williams (born February 1, 1950) shared guitar-playing with Steve Morse.
+5. After various personnel changes in the rock band Kansas , Richard Allen "Rich" Williams (born February 1, 1950) is now the rock band Kansas only guitarist, although David Ragsdale might play the extra guitar parts when the rock band Kansas plays "Portrait (He Knew)", "Hold On", "Fight Fire with Fire", and "Carry On Wayward Son".
+6. Richard Allen "Rich" Williams (born February 1, 1950) and Phil Ehart are the only two members of the rock band Kansas who have never left the rock band Kansas , and have played on all the rock band Kansas albums.
+7. Among the songs Richard Allen "Rich" Williams (born February 1, 1950) co-wrote with the rock band Kansas are "Can I Tell You", "No Room for a Stranger", and the hit "Play the Game Tonight".
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.3333333333333333 0.5 0.3333333333333333 0.2 0.5 
+
+Value for ground truth is : 
+0.6666666666666666 0.0 0.0 0.0 0.0 0.4666666666666667 0.4444444444444444 0.2 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate accurate 
+

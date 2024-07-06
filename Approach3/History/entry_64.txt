@@ -1,0 +1,98 @@
+#############SENTENCE_PAIRS############
+
+Lucien Turcotte Pacaud and Canadian and the value is : -1
+Lucien Turcotte Pacaud and Montreal and the value is : -1
+Lucien Turcotte Pacaud and Quebec and the value is : -1
+Lucien Turcotte Pacaud and Université Laval and the value is : -1
+Lucien Turcotte Pacaud and Quebec and the value is : -1
+Lucien Turcotte Pacaud and Montreal and the value is : -1
+Lucien Turcotte Pacaud and Quebec and the value is : -1
+Lucien Turcotte Pacaud and Legislative Assembly and the value is : -1
+Lucien Turcotte Pacaud and Quebec and the value is : -1
+Lucien Turcotte Pacaud and Quebec Superior Court and the value is : -1
+Lucien Turcotte Pacaud and Royal Commission and the value is : -1
+Lucien Turcotte Pacaud and Royal Commission and the value is : -1
+Lucien Turcotte Pacaud and Constitution and the value is : -1
+Lucien Turcotte Pacaud and Canada and the value is : -1
+
+#############GROUND_PAIRS############
+
+Lucien Turcotte Pacaud and Quebec and the value is : 1
+Lucien Turcotte Pacaud and Canadian and the value is : 1
+Lucien Turcotte Pacaud and Trois-Rivières and the value is : 1
+Lucien Turcotte Pacaud and Quebec and the value is : 1
+Lucien Turcotte Pacaud and Ernest Pacaud and the value is : 1
+Lucien Turcotte Pacaud and Joseph-Édouard and the value is : 1
+Lucien Turcotte Pacaud and Laval and the value is : 1
+Lucien Turcotte Pacaud and Quebec City and the value is : 1
+Lucien Turcotte Pacaud and Thetford Mines and the value is : 1
+Lucien Turcotte Pacaud and Elizabeth and the value is : 0
+Lucien Turcotte Pacaud and Canadian and the value is : 1
+Lucien Turcotte Pacaud and High Commissioner and the value is : 1
+Lucien Turcotte Pacaud and London and the value is : 1
+Lucien Turcotte Pacaud and Canadian and the value is : 1
+Lucien Turcotte Pacaud and High Commissioner and the value is : 1
+Lucien Turcotte Pacaud and United Kingdom and the value is : 0
+Lucien Turcotte Pacaud and Peter Charles Larkin and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Lucien Turcotte Pacaud (1890 1962) was a Canadian lawyer, politician, and judge.
+He was born in Montreal, Quebec, and studied law at Université Laval.
+He was called to the Bar of Quebec in 1914 and practiced law in Montreal.
+He was elected to the Legislative Assembly of Quebec in 1923 as a Liberal and served until 1936.
+He was appointed to the Quebec Superior Court in 1936 and served until his death in 1962.
+He was a member of the Royal Commission on Dominion-Provincial Relations from 1937 to 1940.
+He was also a member of the Royal Commission on the Constitution of Canada from 1940 to 1942.
+
+
+Coref Resolved: 
+
+0. Lucien Turcotte Pacaud (1890 1962) was a Canadian lawyer, politician, and judge.
+1. Lucien Turcotte Pacaud was born in Montreal, Quebec , and studied law at Université Laval.
+2. Lucien Turcotte Pacaud was called to the Bar of Quebec in 1914 and practiced law in Montreal, Quebec .
+3. Lucien Turcotte Pacaud was elected to the Legislative Assembly of Quebec in 1923 as a Liberal and served until 1936 .
+4. Lucien Turcotte Pacaud was appointed to the Quebec Superior Court in 1936 and served until Lucien Turcotte Pacaud death in 1962.
+5. Lucien Turcotte Pacaud was a member of the Royal Commission on Dominion-Provincial Relations from 1937 to 1940 .
+6. Lucien Turcotte Pacaud was also a member of the Royal Commission on the Constitution of Canada from 1940 to 1942.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Lucien Turcotte Pacaud (September 21, 1879 - March 5, 1960) was a Quebec lawyer and political figure.
+He represented Mégantic in the Canadian House of Commons from 1911 to 1922 as a Liberal member.
+He was born in Trois-Rivières, Quebec in 1879, the son of Ernest Pacaud and the grandson of Joseph-Édouard Turcotte.
+He was educated at Bishop's College and the University of Laval.
+Pacaud was admitted to the bar in 1904 and practiced at Quebec City and then at Thetford Mines.
+In 1908, he married Helen Elizabeth Buckmall.
+Pacaud served as Police Commissioner for the Transcontinental Railway from 1907 to 1911.
+He was Parliamentary Under Secretary of State for External Affairs, a non-cabinet post, from 1921 to 1922.
+He served as Secretary to the Canadian High Commissioner at London from 1922 to 1931.
+In 1930, Pacaud served as Acting Canadian High Commissioner to the United Kingdom after the death of Peter Charles Larkin. 
+
+Coref Resolved: 
+
+0. Lucien Turcotte Pacaud (September 21, 1879 - March 5, 1960) was a Quebec lawyer and political figure.
+1. Lucien Turcotte Pacaud represented Mégantic in the Canadian House of Commons from 1911 to 1922 as a Liberal member.
+2. Lucien Turcotte Pacaud was born in Trois-Rivières, Quebec in 1879, the son of Ernest Pacaud and the grandson of Joseph-Édouard Turcotte.
+3. Lucien Turcotte Pacaud was educated at Bishop's College and the University of Laval.
+4. Lucien Turcotte Pacaud was admitted to the bar in 1904 and practiced at Quebec City and then at Thetford Mines.
+5. In 1908, Lucien Turcotte Pacaud married Helen Elizabeth Buckmall.
+6. Lucien Turcotte Pacaud served as Police Commissioner for the Transcontinental Railway from 1907 to 1911 .
+7. Lucien Turcotte Pacaud was Parliamentary Under Secretary of State for External Affairs, a non-cabinet post, from 1921 to 1922 .
+8. Lucien Turcotte Pacaud served as Secretary to the Canadian High Commissioner at London from 1922 to 1931.
+9. In 1930, Lucien Turcotte Pacaud served as Acting Canadian High Commissioner to the United Kingdom after the death of Peter Charles Larkin.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 
+
+Value for ground truth is : 
+1.0 1.0 1.0 1.0 1.0 0.0 -1 -1 1.0 0.75 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

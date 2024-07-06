@@ -1,0 +1,157 @@
+#############SENTENCE_PAIRS############
+
+Steven Threet and a former American football quarterback and the value is : 1
+Steven Threet and college football and the value is : 1
+Steven Threet and the University and the value is : 0
+Steven Threet and Michigan and the value is : 0
+Steven Threet and Arizona State University and the value is : 0
+Steven Threet and Steven Threet college career and the value is : 1
+Steven Threet and the University and the value is : 0
+Steven Threet and Michigan and the value is : 0
+Steven Threet and the starting quarterback and the value is : 1
+Steven Threet and the University and the value is : 0
+Steven Threet and Michigan and the value is : 0
+Steven Threet and the University and the value is : 0
+Steven Threet and Michigan and the value is : 0
+Steven Threet and a 3 9 record and the value is : 0
+Steven Threet and the 2008 season and the value is : 1
+Steven Threet and Arizona State University and the value is : 0
+Steven Threet and eligibility and the value is : 0
+Steven Threet and all 12 games and the value is : 0
+Steven Threet and Arizona State University and the value is : 0
+Steven Threet and Arizona State University and the value is : 0
+Steven Threet and a 6 6 record and the value is : 0
+Steven Threet and a berth and the value is : 0
+Steven Threet and the Insight Bowl and the value is : 0
+Steven Threet and the 2010 NFL Draft and the value is : 1
+Steven Threet and the Pittsburgh Steelers and the value is : 1
+Steven Threet and an undrafted free agent and the value is : 0
+Steven Threet and the Pittsburgh Steelers and the value is : 1
+Steven Threet and August and the value is : 0
+Steven Threet and the NFL and the value is : 1
+
+#############GROUND_PAIRS############
+
+Steven Charles Threet and a former American football quarterback and the value is : 1
+Steven Charles Threet and who and the value is : 0
+Steven Charles Threet and both Michigan and the value is : 1
+Steven Charles Threet and Arizona State and the value is : 1
+Steven Charles Threet and career and the value is : 0
+Steven Charles Threet and a student assistant and the value is : 0
+Steven Charles Threet and the Arizona State football team's staff and the value is : 1
+Steven Charles Threet and the starting quarterback and the value is : 1
+Steven Charles Threet and the Arizona State Sun Devils and the value is : 1
+Steven Charles Threet and the 2010 season and the value is : 0
+Steven Charles Threet and 208 of 336 passes and the value is : 0
+Steven Charles Threet and 2,553 yards and the value is : 0
+Steven Charles Threet and 18 touchdowns and the value is : 0
+Steven Charles Threet and 16 interceptions and the value is : 0
+Steven Charles Threet and a career-high 391 yards and the value is : 0
+Steven Charles Threet and three touchdowns and the value is : 0
+Steven Charles Threet and Northern Arizona and the value is : 0
+Steven Charles Threet and September and the value is : 0
+Steven Charles Threet and 4,824 yards and the value is : 0
+Steven Charles Threet and 49 touchdowns and the value is : 0
+Steven Charles Threet and a high school player and the value is : 0
+Steven Charles Threet and Adrian and the value is : 0
+Steven Charles Threet and Michigan and the value is : 1
+Steven Charles Threet and Rivals.com and the value is : 1
+Steven Charles Threet and the No. 9 quarterback prospect and the value is : 1
+Steven Charles Threet and the nation and the value is : 0
+Steven Charles Threet and the class and the value is : 0
+Steven Charles Threet and Georgia Tech and the value is : 1
+Steven Charles Threet and January and the value is : 0
+coaches and the coaches and the value is : 1
+coaches and who and the value is : 0
+coaches and Georgia Tech and the value is : 1
+coaches and July and the value is : 0
+coaches and Michigan and the value is : 1
+head coach Lloyd Carr and the 2008 season and the value is : 0
+head coach Lloyd Carr and Rich Rodriguez and the value is : 1
+Steven Charles Threet and the 2007 season and the value is : 0
+Steven Charles Threet and NCAA transfer rules and the value is : 0
+Steven Charles Threet and quarterback and the value is : 1
+Steven Charles Threet and Michigan 12 games and the value is : 1
+Steven Charles Threet and Arizona State and the value is : 1
+Steven Charles Threet and the incompatibility and the value is : 0
+Steven Charles Threet and playing style and the value is : 0
+Steven Charles Threet and a traditional pro-style dropback passer and the value is : 0
+Steven Charles Threet and the spread offense and the value is : 0
+Steven Charles Threet and Rich Rodriguez and the value is : 1
+Steven Charles Threet and the 2009 season and the value is : 0
+Steven Charles Threet and two years and the value is : 0
+Steven Charles Threet and eligibility and the value is : 0
+Steven Charles Threet and Arizona State and the value is : 1
+Arizona State head coach Dennis Erickson and August and the value is : 0
+Arizona State head coach Dennis Erickson and the starting quarterback and the value is : 1
+Arizona State head coach Dennis Erickson and the coming season and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Steven Threet (born August 8, 1985) is a former American football quarterback.
+He played college football at the University of Michigan and Arizona State University.
+Threet began his college career at Michigan in 2004.
+He was the starting quarterback for the Wolverines in 2007, leading the team to a 3 9 record.
+He was injured during the 2008 season and transferred to Arizona State for his final year of eligibility.
+He started all 12 games for the Sun Devils in 2009, leading the team to a 6 6 record and a berth in the Insight Bowl.
+Threet went undrafted in the 2010 NFL Draft and signed with the Pittsburgh Steelers as an undrafted free agent.
+He was released by the Steelers in August 2010 and did not play in the NFL.
+
+
+Coref Resolved: 
+
+0. Steven Threet (born August 8, 1985) is a former American football quarterback.
+1. Steven Threet played college football at the University of Michigan and Arizona State University .
+2. Steven Threet began Steven Threet college career at the University of Michigan in 2004.
+3. Steven Threet was the starting quarterback for the University of Michigan in 2007, leading the University of Michigan to a 3 9 record.
+4. Steven Threet was injured during the 2008 season and transferred to Arizona State University for Steven Threet final year of eligibility.
+5. Steven Threet started all 12 games for Arizona State University in 2009, leading Arizona State University to a 6 6 record and a berth in the Insight Bowl.
+6. Steven Threet went undrafted in the 2010 NFL Draft and signed with the Pittsburgh Steelers as an undrafted free agent.
+7. Steven Threet was released by the Pittsburgh Steelers in August 2010 and did not play in the NFL.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Steven Charles Threet (born January 2, 1989) is a former American football quarterback who played for both Michigan and Arizona State.
+After finishing his playing career, he became a student assistant on the Arizona State football team's staff.
+He was the starting quarterback for the Arizona State Sun Devils.
+During the 2010 season, Threet completed 208 of 336 passes for 2,553 yards, 18 touchdowns, and 16 interceptions.
+He passed for a career-high 391 yards and three touchdowns against Northern Arizona in September 2010.
+He threw for 4,824 yards and 49 touchdowns as a high school player in Adrian, Michigan, and was ranked by Rivals.com as the No. 9 quarterback prospect in the nation in the class of 2006.
+Threet committed to Georgia Tech and enrolled early there in January 2007.
+After the coaches who had recruited him left the program, Threet announced in July 2007 that he was transferring to the University of Michigan under head coach Lloyd Carr.
+Carr was replaced before the 2008 season by Rich Rodriguez.
+After sitting out the 2007 season under NCAA transfer rules, the redshirt freshman Threet would go on to start at quarterback in eight of Michigan's 12 games.
+Later that same year, Threet transferred to Arizona State University, citing the incompatibility of his playing style as a traditional pro-style dropback passer with the spread offense of Rodriguez.
+After sitting out the 2009 season, Threet had two years of eligibility remaining with Arizona State.
+On August 30, 2010, Arizona State head coach Dennis Erickson announced that Threet would be the starting quarterback for the coming season. 
+
+Coref Resolved: 
+
+0. Steven Charles Threet (born January 2, 1989) is a former American football quarterback who played for both Michigan and Arizona State .
+1. After finishing Steven Charles Threet (born January 2, 1989) playing career, Steven Charles Threet (born January 2, 1989) became a student assistant on the Arizona State football team's staff.
+2. Steven Charles Threet (born January 2, 1989) was the starting quarterback for the Arizona State Sun Devils.
+3. During the 2010 season, Steven Charles Threet (born January 2, 1989) completed 208 of 336 passes for 2,553 yards, 18 touchdowns, and 16 interceptions.
+4. Steven Charles Threet (born January 2, 1989) passed for a career-high 391 yards and three touchdowns against Northern Arizona in September 2010.
+5. Steven Charles Threet (born January 2, 1989) threw for 4,824 yards and 49 touchdowns as a high school player in Adrian, Michigan , and was ranked by Rivals.com as the No. 9 quarterback prospect in the nation in the class of 2006.
+6. Steven Charles Threet (born January 2, 1989) committed to Georgia Tech and enrolled early there in January 2007.
+7. After the coaches who had recruited Steven Charles Threet (born January 2, 1989) left Georgia Tech , Steven Charles Threet (born January 2, 1989) announced in July 2007 that Steven Charles Threet (born January 2, 1989) was transferring to Michigan under head coach Lloyd Carr .
+8. head coach Lloyd Carr was replaced before the 2008 season by Rich Rodriguez .
+9. After sitting out the 2007 season under NCAA transfer rules, Steven Charles Threet (born January 2, 1989) would go on to start at quarterback in eight of Michigan 12 games.
+10. Later that same year, Steven Charles Threet (born January 2, 1989) transferred to Arizona State , citing the incompatibility of Steven Charles Threet (born January 2, 1989) playing style as a traditional pro-style dropback passer with the spread offense of Rich Rodriguez .
+11. After sitting out the 2009 season, Steven Charles Threet (born January 2, 1989) had two years of eligibility remaining with Arizona State .
+12. On August 30, 2010, Arizona State head coach Dennis Erickson announced that Steven Charles Threet (born January 2, 1989) would be the starting quarterback for the coming season.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.25 0.3333333333333333 0.16666666666666666 0.3333333333333333 0.0 0.6666666666666666 0.6666666666666666 
+
+Value for ground truth is : 
+0.75 0.3333333333333333 1.0 0.0 0.0 0.3333333333333333 0.5 0.6 0.5 0.5 0.3333333333333333 0.25 0.3333333333333333 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

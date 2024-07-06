@@ -1,0 +1,110 @@
+#############SENTENCE_PAIRS############
+
+Seyi Shay and Deborah Oluwaseyi and the value is : 1
+Seyi Shay and 21 December 1985 and the value is : 0
+Seyi Shay and Nigerian and the value is : 1
+Seyi Shay and Seyi and the value is : 0
+Seyi Shay and Shay and the value is : 1
+Seyi Shay and 2014 and the value is : 0
+debut studio album and Seyi and the value is : 0
+debut studio album and Shay and the value is : 0
+debut studio album and two and the value is : 0
+debut studio album and 2015 and the value is : 0
+debut studio album and Nigeria Entertainment Awards and the value is : 1
+Seyi Shay and Yolo Yolo and the value is : 0
+Seyi Shay and Right Now and the value is : 0
+Seyi Shay and Gimme Love and the value is : 0
+Seyi Shay and Wizkid, Olamide and the value is : 1
+Seyi Shay and Runtown and the value is : 1
+Seyi Shay and 2017 and the value is : 0
+Seyi Shay and second and the value is : 0
+Seyi Shay and Electric Package and the value is : 0
+studio album and second and the value is : 0
+studio album and Electric Package and the value is : 0
+studio album and Gimme Love and the value is : 0
+studio album and Weekend Vibes and the value is : 0
+
+#############GROUND_PAIRS############
+
+Deborah Oluwaseyi Joshua and 21 December 1985 and the value is : 0
+Deborah Oluwaseyi Joshua and Seyi Shay and the value is : 1
+Deborah Oluwaseyi Joshua and Nigerian and the value is : 1
+Deborah Oluwaseyi Joshua and English and the value is : 0
+Shay and three and the value is : 0
+Shay and Konami and the value is : 1
+Shay and 2005 and the value is : 0
+Shay and You Will See and the value is : 0
+Shay and Melanie C's and the value is : 1
+Shay and third and the value is : 0
+Shay and "Beautiful Intentions and the value is : 1
+Shay and 2005 and the value is : 0
+Shay and White Lies and the value is : 0
+Shay and Chip's and the value is : 1
+Shay and 2008 and the value is : 0
+Shay and Above and the value is : 0
+pop girl group and Sony and the value is : 1
+pop girl group and Columbia and the value is : 0
+pop girl group and Mathew Knowles' Music World Entertainment and the value is : 1
+Shay and Ragga Ragga and the value is : 0
+Shay and November 2013 and the value is : 0
+Shay and Etisalat and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Seyi Shay (born Deborah Oluwaseyi Joshua 21 December 1985) is a Nigerian singer, songwriter, and actress.
+She started her career as a backup singer for various artists, and released her debut studio album, Seyi or Shay, in 2014.
+The album spawned the hit single "Irawo", which earned her two nominations at the 2015 Nigeria Entertainment Awards.
+She has since released several singles, including "Yolo Yolo", "Right Now", and "Gimme Love".
+She has collaborated with several artists, including Wizkid, Olamide, and Runtown.
+In 2017, she released her second studio album, Electric Package.
+The album featured the singles "Gimme Love" and "Weekend Vibes".
+
+
+Coref Resolved: 
+
+0. Seyi Shay (born Deborah Oluwaseyi Joshua 21 December 1985) is a Nigerian singer, songwriter, and actress.
+1. Seyi Shay started Seyi Shay career as a backup singer for various artists, and released her debut studio album, Seyi or Shay , in 2014.
+2. her debut studio album, Seyi or Shay spawned the hit single "Irawo", which earned Seyi Shay two nominations at the 2015 Nigeria Entertainment Awards.
+3. Seyi Shay has since released several singles, including "Yolo Yolo", "Right Now", and "Gimme Love".
+4. Seyi Shay has collaborated with several artists, including Wizkid, Olamide, and Runtown.
+5. In 2017, Seyi Shay released her second studio album, Electric Package .
+6. her second studio album, Electric Package featured the singles "Gimme Love" and "Weekend Vibes".
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Deborah Oluwaseyi Joshua (born 21 December 1985), professionally known by her stage name Seyi Shay, (pronounced Shay-yee Shay), is a Nigerian-based English singer-songwriter, recording artist, performer, and record producer.
+She wrote and produced three songs for the soundtrack to Konami's video game (2005).
+She also wrote "You Will See", a song that was included on Melanie C's third studio album "Beautiful Intentions" (2005).
+Shay wrote "White Lies", a song from Chip's "Transition" album.
+In 2008, she became the lead singer for the now-defunct pop girl group From Above.
+The group signed a recording deal with Sony Columbia and was managed by Mathew Knowles' Music World Entertainment company.
+Shay is currently working on her debut studio project.
+She has released the singles "Irawo", "Ragga Ragga", and "Chairman" to support the upcoming album.
+In November 2013, she signed an endorsement deal with telecommunications service provider Etisalat. 
+
+Coref Resolved: 
+
+0. Deborah Oluwaseyi Joshua (born 21 December 1985), professionally known by Shay stage name Seyi Shay, (pronounced Shay-yee Shay), is a Nigerian-based English singer-songwriter, recording artist, performer, and record producer.
+1. Shay wrote and produced three songs for the soundtrack to Konami's video game (2005).
+2. Shay also wrote "You Will See", a song that was included on Melanie C's third studio album "Beautiful Intentions" (2005).
+3. Shay wrote "White Lies", a song from Chip's "Transition" album.
+4. In 2008, Shay became the lead singer for the now-defunct pop girl group From Above .
+5. the now-defunct pop girl group From Above signed a recording deal with Sony Columbia and was managed by Mathew Knowles' Music World Entertainment company.
+6. Shay is currently working on her debut studio project .
+7. Shay has released the singles "Irawo", "Ragga Ragga", and "Chairman" to support her debut studio project .
+8. In November 2013, Shay signed an endorsement deal with telecommunications service provider Etisalat.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.6666666666666666 0.3333333333333333 0.2 0.0 1.0 0.0 0.0 
+
+Value for ground truth is : 
+0.5 0.3333333333333333 0.4 0.5 0.0 0.6666666666666666 0.5 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate 
+

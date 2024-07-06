@@ -1,0 +1,102 @@
+#############SENTENCE_PAIRS############
+
+Eleanor Arnason and 1942 and the value is : 0
+Eleanor Arnason and American and the value is : 0
+Eleanor Arnason and A Woman of the Iron People (1991 and the value is : 1
+Eleanor Arnason and James Tiptree and the value is : 0
+Eleanor Arnason and the Nebula Award and the value is : 1
+Eleanor Arnason and Ring of Swords and the value is : 0
+Eleanor Arnason and 1993 and the value is : 0
+Eleanor Arnason and The Sword Smith and the value is : 1
+Eleanor Arnason and 1998 and the value is : 0
+Eleanor Arnason and The Hound of Merin and the value is : 0
+Eleanor Arnason and 2002 and the value is : 0
+Eleanor Arnason and Dapple and the value is : 0
+Eleanor Arnason and 1991 and the value is : 0
+Eleanor Arnason and the Nebula Award and the value is : 1
+Eleanor Arnason work and Native American and the value is : 0
+
+#############GROUND_PAIRS############
+
+Eleanor Atwood Arnason and December 28, 1942 and the value is : 0
+Eleanor Atwood Arnason and American and the value is : 0
+Eleanor Atwood Arnason and A Clear Day and the value is : 0
+Eleanor Atwood Arnason and the Motor City and the value is : 0
+Eleanor Atwood Arnason and New Worlds and the value is : 1
+Eleanor Atwood Arnason and 1973 and the value is : 0
+focus and Ursula K. Le Guin and the value is : 1
+Eleanor Atwood Arnason and first and the value is : 0
+Eleanor Atwood Arnason and James Tiptree and the value is : 0
+Eleanor Atwood Arnason and the Mythopoeic Award and the value is : 1
+Eleanor Atwood Arnason and "A Woman of the Iron People" and the value is : 1
+Eleanor Atwood Arnason and the Spectrum Award and the value is : 1
+Eleanor Atwood Arnason and Dapple and the value is : 0
+Eleanor Atwood Arnason and the Homer Award and the value is : 1
+Stellar Harvest and a Hugo Award and the value is : 1
+Stellar Harvest and 2000 and the value is : 0
+Eleanor Atwood Arnason and 2003 and the value is : 0
+Eleanor Atwood Arnason and two and the value is : 0
+Eleanor Atwood Arnason and Nebula Awards and the value is : 1
+Eleanor Atwood Arnason and Potter of Bones and the value is : 0
+Eleanor Atwood Arnason and Knapsack Poems and the value is : 1
+Eleanor Atwood Arnason and 2004 and the value is : 0
+Eleanor Atwood Arnason and Wiscon and the value is : 1
+Eleanor Atwood Arnason and Minnesota and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Eleanor Arnason (born 1942) is an American science fiction and fantasy writer.
+She is best known for her novel A Woman of the Iron People (1991), which won the James Tiptree, Jr. Award and was a finalist for the Nebula Award for Best Novel.
+Her other works include Ring of Swords (1993), The Sword Smith (1998), and The Hound of Merin (2002).
+She has also written several short stories, including "Dapple" (1991), which won the Nebula Award for Best Novelette.
+Arnason's work often focuses on themes of gender, ecology, and Native American culture.
+She has been praised for her ability to combine elements of science fiction and fantasy with traditional storytelling.
+
+
+Coref Resolved: 
+
+0. Eleanor Arnason (born 1942) is an American science fiction and fantasy writer.
+1. Eleanor Arnason is best known for Eleanor Arnason novel A Woman of the Iron People (1991), which won the James Tiptree, Jr. Award and was a finalist for the Nebula Award for Best Novel.
+2. Eleanor Arnason other works include Ring of Swords (1993), The Sword Smith (1998), and The Hound of Merin (2002).
+3. Eleanor Arnason has also written several short stories, including "Dapple" (1991), which won the Nebula Award for Best Novelette.
+4. Eleanor Arnason work often focuses on themes of gender, ecology, and Native American culture.
+5. Eleanor Arnason has been praised for Eleanor Arnason ability to combine elements of science fiction and fantasy with traditional storytelling.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Eleanor Atwood Arnason (born December 28, 1942) is an American author of science fiction novels and short stories.
+Arnason's earliest published story, "A Clear Day in the Motor City," appeared in New Worlds in 1973.
+Her work often depicts cultural change and conflict, usually from the viewpoint of characters who cannot or will not live by their own societies' rules.
+This anthropological focus has led many to compare her fiction to that of Ursula K. Le Guin.
+Arnason won the first James Tiptree, Jr. Award, the Mythopoeic Award (for "A Woman of the Iron People"), the Spectrum Award (for "Dapple"), and the Homer Award (for her novelette "Stellar Harvest").
+"Stellar Harvest" was also nominated for a Hugo Award in 2000.
+In 2003, she was nominated for two Nebula Awards, for her novella "Potter of Bones" and her short story "Knapsack Poems.".
+In 2004, she was Guest of Honor at Wiscon.
+She lives in Minnesota. 
+
+Coref Resolved: 
+
+0. Eleanor Atwood Arnason (born December 28, 1942) is an American author of science fiction novels and short stories.
+1. Eleanor Atwood Arnason earliest published story, "A Clear Day in the Motor City," appeared in New Worlds in 1973.
+2. Eleanor Atwood Arnason work often depicts cultural change and conflict, usually from the viewpoint of characters who cannot or will not live by their own societies' rules characters who cannot or will not live by their own societies' rules .
+3. This anthropological focus has led many to compare Eleanor Atwood Arnason fiction to that of Ursula K. Le Guin.
+4. Eleanor Atwood Arnason won the first James Tiptree, Jr. Award, the Mythopoeic Award (for "A Woman of the Iron People"), the Spectrum Award (for "Dapple"), and the Homer Award (for Eleanor Atwood Arnason novelette "Stellar Harvest").
+5. "Stellar Harvest" was also nominated for a Hugo Award in 2000.
+6. In 2003, Eleanor Atwood Arnason was nominated for two Nebula Awards, for Eleanor Atwood Arnason novella "Potter of Bones" and Eleanor Atwood Arnason short story "Knapsack Poems.".
+7. In 2004, Eleanor Atwood Arnason was Guest of Honor at Wiscon.
+8. Eleanor Atwood Arnason lives in Minnesota.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.6666666666666666 0.16666666666666666 0.3333333333333333 0.0 0.5 
+
+Value for ground truth is : 
+0.0 0.25 0.5 1.0 0.5714285714285714 0.5 0.4 0.5 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate accurate 
+

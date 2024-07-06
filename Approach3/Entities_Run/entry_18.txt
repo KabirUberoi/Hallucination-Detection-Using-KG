@@ -1,0 +1,101 @@
+#############SENTENCE_PAIRS############
+
+Gia Marie Carangi and January 29, 1960 and the value is : 0
+Gia Marie Carangi and November 18, 1986 and the value is : 0
+Gia Marie Carangi and American and the value is : 1
+Gia Marie Carangi and the late 1970s and the value is : 0
+Gia Marie Carangi and early 1980s and the value is : 1
+Gia Marie Carangi and first and the value is : 0
+Gia Marie Carangi and Vogue and the value is : 1
+Gia Marie Carangi and Cosmopolitan and the value is : 1
+Gia Marie Carangi and Armani and the value is : 1
+Gia Marie Carangi and Christian Dior and the value is : 1
+Gia Marie Carangi and Versace and the value is : 1
+Gia Marie Carangi and Yves Saint Laurent and the value is : 1
+life and Carangi and the value is : 0
+life and the age of 26 and the value is : 0
+Gia Marie Carangi and one and the value is : 0
+Gia Marie Carangi and first and the value is : 0
+life and Carangi and the value is : 0
+life and 1998 and the value is : 0
+life and Gia and the value is : 0
+life and Angelina Jolie and the value is : 0
+
+#############GROUND_PAIRS############
+
+Gia Marie Carangi and January 29, 1960 and the value is : 0
+Gia Marie Carangi and November 18, 1986 and the value is : 0
+Gia Marie Carangi and American and the value is : 1
+Gia Marie Carangi and the late 1970s and the value is : 0
+Gia Marie Carangi and early 1980s and the value is : 1
+Gia Marie Carangi and four and the value is : 0
+Gia Marie Carangi and Vogue and the value is : 1
+Gia Marie Carangi and Cosmopolitan and the value is : 1
+Gia Marie Carangi and between 1979 and 1982 and the value is : 0
+Gia Marie Carangi and the late 1970s and the value is : 0
+Gia Marie Carangi and early 1980s and the value is : 1
+Gia Marie Carangi and Armani and the value is : 1
+Gia Marie Carangi and Christian Dior and the value is : 1
+Gia Marie Carangi and Versace and the value is : 1
+Gia Marie Carangi and Yves Saint Laurent and the value is : 1
+Gia Marie Carangi and first and the value is : 0
+Gia Marie Carangi and 26 and the value is : 0
+Gia Marie Carangi and Marie Carangi and the value is : 1
+Gia Marie Carangi and one and the value is : 0
+Gia Marie Carangi and first and the value is : 0
+Gia Marie Carangi life and Gia and the value is : 1
+Gia Marie Carangi life and Angelina Jolie and the value is : 1
+Gia Marie Carangi life and HBO and the value is : 1
+Gia Marie Carangi life and 1998 and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Gia Marie Carangi (January 29, 1960 November 18, 1986) was an American model during the late 1970s and early 1980s.
+Considered by some to be the first supermodel, she was featured on the cover of fashion magazines, including multiple editions of Vogue and Cosmopolitan, and appeared in advertising campaigns for such fashion houses as Armani, Christian Dior, Versace, and Yves Saint Laurent.
+Carangi's life was marred by drug addiction and depression, leading to her death from AIDS-related complications at the age of 26.
+She is considered to be one of the first famous women to die of the disease.
+Her life was the subject of the 1998 biographical television film Gia, starring Angelina Jolie in the title role.
+
+
+Coref Resolved: 
+
+0. Gia Marie Carangi (January 29, 1960 November 18, 1986) was an American model during the late 1970s and early 1980s.
+1. Considered by some to be the first supermodel, Gia Marie Carangi was featured on the cover of fashion magazines, including multiple editions of Vogue and Cosmopolitan, and appeared in advertising campaigns for such fashion houses as Armani, Christian Dior, Versace, and Yves Saint Laurent.
+2. Carangi's life was marred by drug addiction and depression, leading to Gia Marie Carangi death from AIDS -related complications at the age of 26.
+3. Gia Marie Carangi is considered to be one of the first famous women to die of AIDS .
+4. Carangi's life was the subject of the 1998 biographical television film Gia, starring Angelina Jolie in the title role.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Gia Marie Carangi (January 29, 1960 November 18, 1986) was an American fashion model during the late 1970s and early 1980s.
+She was featured on the cover of fashion magazines, including four international editions of Vogue and multiple issues of Cosmopolitan between 1979 and 1982.
+During these years, she also appeared in advertising campaigns for fashion houses, including Armani, Christian Dior, Versace, and Yves Saint Laurent.
+Carangi is considered to be the first supermodel, although that title has also been applied to others.
+After she became addicted to heroin, Carangi's modeling career rapidly declined.
+She later contracted HIV and died of AIDS-related complications at the age of 26 she is thought to be one of the first famous women to die of the disease.
+Carangi's life was dramatized in the television film Gia, starring Angelina Jolie, which debuted on HBO in 1998. 
+
+Coref Resolved: 
+
+0. Gia Marie Carangi (January 29, 1960 November 18, 1986) was an American fashion model during the late 1970s and early 1980s .
+1. Gia Marie Carangi was featured on the cover of fashion magazines, including four international editions of Vogue and multiple issues of Cosmopolitan between 1979 and 1982.
+2. During the late 1970s and early 1980s , Gia Marie Carangi also appeared in advertising campaigns for fashion houses, including Armani, Christian Dior, Versace, and Yves Saint Laurent.
+3. Gia Marie Carangi is considered to be the first supermodel, although that title has also been applied to others.
+4. After Gia Marie Carangi became addicted to heroin, Gia Marie Carangi modeling career rapidly declined.
+5. Gia Marie Carangi later contracted HIV and died of AIDS -related complications at the age of 26 Gia Marie Carangi is thought to be one of the first famous women to die of AIDS .
+6. Gia Marie Carangi life was dramatized in the television film Gia, starring Angelina Jolie, which debuted on HBO in 1998.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.4 0.8571428571428571 0.0 0.0 0.0 
+
+Value for ground truth is : 
+0.4 0.5 0.8333333333333334 0.0 0.5 0.25 0.75 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate 
+

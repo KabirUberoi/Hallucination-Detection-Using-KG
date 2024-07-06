@@ -1,0 +1,109 @@
+#############SENTENCE_PAIRS############
+
+Moisés Kaufman and playwright and the value is : 0
+Moisés Kaufman and screenwriter and the value is : 0
+Moisés Kaufman and The Laramie Project and the value is : 0
+Moisés Kaufman and HBO and the value is : 0
+Moisés Kaufman and Caracas and the value is : 0
+Moisés Kaufman and Venezuela and the value is : 1
+Moisés Kaufman and Jewish and the value is : 0
+Moisés Kaufman and United States and the value is : 1
+Moisés Kaufman and New York City and the value is : 1
+Moisés Kaufman and New York University and the value is : 1
+Moisés Kaufman and Tectonic Theater Project and the value is : 0
+Moisés Kaufman and Gross Indecency and the value is : 0
+I and Wilde and the value is : 1
+I and 33 Variations and the value is : 0
+I and I Am My Own Wife and the value is : 0
+Moisés Kaufman and The Laramie Project and the value is : 0
+Moisés Kaufman and HBO and the value is : 0
+Moisés Kaufman and The Laramie Project and the value is : 0
+Moisés Kaufman and Rachel Corrie and the value is : 1
+
+#############GROUND_PAIRS############
+
+Moisés Kaufman and playwright and the value is : 1
+Moisés Kaufman and Tectonic Theater Project and the value is : 1
+Moisés Kaufman and The Laramie Project and the value is : 1
+Moisés Kaufman and Tectonic Theater Project and the value is : 1
+Moisés Kaufman and 33 Variations and the value is : 1
+Moisés Kaufman and Caracas and the value is : 1
+Moisés Kaufman and Venezuela and the value is : 1
+Moisés Kaufman and New York City and the value is : 1
+Moisés Kaufman and Romanian and the value is : 1
+Moisés Kaufman and Ukrainian Jewish and the value is : 1
+Moisés Kaufman and Jewish and the value is : 1
+Moisés Kaufman and gay and the value is : 1
+Moisés Kaufman and New York City and the value is : 1
+Moisés Kaufman and Guggenheim Fellowship and the value is : 1
+Broadway and I Am My Own Wife and the value is : 1
+Broadway and Doug Wright and the value is : 1
+Broadway and Tony Award and the value is : 1
+Broadway and Best Direction and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Moisés Kaufman (born November 21, 1963) is a Venezuelan-American director, playwright, and screenwriter.
+He is best known for his play The Laramie Project, which was adapted into an HBO movie.
+Kaufman was born in Caracas, Venezuela, to a Jewish family.
+He moved to the United States in 1977 and attended the High School of Performing Arts in New York City.
+He graduated from New York University's Tisch School of the Arts in 1985.
+Kaufman is the founder and artistic director of Tectonic Theater Project, a New York-based theater company dedicated to developing innovative works that explore theatrical language and form, foster an artistic dialogue with the social issues of our time, and embrace the exploration of new ideas.
+He has written and directed numerous plays, including Gross Indecency .
+The Three Trials of Oscar Wilde, 33 Variations, and I Am My Own Wife.
+He has also written and directed several films, including The Laramie Project, The Laramie Project Ten Years Later, and My Name is Rachel Corrie.
+
+
+Coref Resolved: 
+
+0. Moisés Kaufman (born November 21, 1963) is a Venezuelan-American director, playwright, and screenwriter.
+1. Moisés Kaufman is best known for his play The Laramie Project, which was adapted into an HBO movie .
+2. Moisés Kaufman was born in Caracas, Venezuela, to a Jewish family.
+3. Moisés Kaufman moved to the United States in 1977 and attended the High School of Performing Arts in New York City.
+4. Moisés Kaufman graduated from New York University's Tisch School of the Arts in 1985.
+5. Moisés Kaufman is the founder and artistic director of Tectonic Theater Project, a New York-based theater company dedicated to developing innovative works that explore theatrical language and form, foster an artistic dialogue with the social issues of our time, and embrace the exploration of new ideas.
+6. Moisés Kaufman has written and directed numerous plays, including Gross Indecency .
+7. The Three Trials of Oscar Wilde, 33 Variations, and I Am My Own Wife.
+8. Moisés Kaufman has also written and directed several films, including his play The Laramie Project, which was adapted into an HBO movie , The Laramie Project Ten Years Later, and My Name is Rachel Corrie.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Moisés Kaufman (born November 21, 1963) is a playwright, director, and founder of Tectonic Theater Project.
+He is best known for writing "The Laramie Project" with other members of Tectonic Theater Project.
+He is also the author of " and "33 Variations".
+He was born and raised in Caracas, Venezuela and moved to New York City in 1987.
+Kaufman is of Romanian and Ukrainian Jewish descent.
+He described himself in an interview by saying, "I am Venezuelan, I am Jewish, I am gay, I live in New York.
+I am the sum of all my cultures.
+I couldn't write anything that didn't incorporate all that I am.".
+Kaufman was awarded a Guggenheim Fellowship in 2002.
+He made his Broadway directing debut in the 2004 production of "I Am My Own Wife" by Doug Wright, for which he received a Tony Award nomination for Best Direction of a Play. 
+
+Coref Resolved: 
+
+0. Moisés Kaufman (born November 21, 1963) is a playwright, director, and founder of Tectonic Theater Project .
+1. Moisés Kaufman (born November 21, 1963) is best known for writing "The Laramie Project" with other members of Tectonic Theater Project .
+2. Moisés Kaufman (born November 21, 1963) is also the author of " and "33 Variations".
+3. Moisés Kaufman (born November 21, 1963) was born and raised in Caracas, Venezuela and moved to New York City in 1987.
+4. Moisés Kaufman (born November 21, 1963) is of Romanian and Ukrainian Jewish descent.
+5. Moisés Kaufman (born November 21, 1963) described Moisés Kaufman (born November 21, 1963) in an interview by saying, "Moisés Kaufman (born November 21, 1963) am Venezuelan, Moisés Kaufman (born November 21, 1963) am Jewish, Moisés Kaufman (born November 21, 1963) am gay, Moisés Kaufman (born November 21, 1963) live in New York City .
+6. Moisés Kaufman (born November 21, 1963) am the sum of all Moisés Kaufman (born November 21, 1963) cultures.
+7. Moisés Kaufman (born November 21, 1963) couldn't write anything that didn't incorporate all that Moisés Kaufman (born November 21, 1963) am.".
+8. Moisés Kaufman (born November 21, 1963) was awarded a Guggenheim Fellowship in 2002.
+9. Moisés Kaufman (born November 21, 1963) made Moisés Kaufman (born November 21, 1963)
+10. Broadway directing debut in the 2004 production of "I Am My Own Wife" by Doug Wright, for which Moisés Kaufman (born November 21, 1963) received a Tony Award nomination for Best Direction of a Play.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.3333333333333333 1.0 1.0 0.0 0.0 0.3333333333333333 0.25 
+
+Value for ground truth is : 
+1.0 1.0 1.0 1.0 1.0 1.0 -1 -1 1.0 -1 0.75 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate major_inaccurate accurate accurate accurate minor_inaccurate 
+

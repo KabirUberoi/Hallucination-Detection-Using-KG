@@ -1,0 +1,143 @@
+#############SENTENCE_PAIRS############
+
+Matthew Aylmer and 1st and the value is : 0
+Matthew Aylmer and Aylmer and the value is : 1
+Matthew Aylmer and 1708 1794 and the value is : 0
+Matthew Aylmer and Irish and the value is : 1
+Matthew Aylmer and 1st and the value is : 0
+Matthew Aylmer and Aylmer and the value is : 1
+Matthew Aylmer and 1708 1794 and the value is : 0
+Matthew Aylmer and Dublin and the value is : 1
+Matthew Aylmer and Trinity College and the value is : 0
+Matthew Aylmer and Dublin and the value is : 1
+Matthew Aylmer and 1st and the value is : 0
+Matthew Aylmer and Aylmer and the value is : 1
+Matthew Aylmer and 1708 1794 and the value is : 0
+Matthew Aylmer and the British Army and the value is : 1
+Matthew Aylmer and 1727 and the value is : 0
+Matthew Aylmer and the War of the Austrian Succession and the value is : 1
+Matthew Aylmer and the Seven Years' War and the value is : 1
+Matthew Aylmer and 1st and the value is : 0
+Matthew Aylmer and Aylmer and the value is : 1
+Matthew Aylmer and 1708 1794 and the value is : 0
+Matthew Aylmer and 1772 and the value is : 0
+Matthew Aylmer and Gibraltar and the value is : 1
+Matthew Aylmer and 1775 and the value is : 0
+Matthew Aylmer and 1st and the value is : 0
+Matthew Aylmer and Aylmer and the value is : 1
+Matthew Aylmer and 1708 1794 and the value is : 0
+Matthew Aylmer and 1782 and the value is : 0
+Matthew Aylmer and British and the value is : 1
+Matthew Aylmer and North America and the value is : 0
+Matthew Aylmer and 1783 and the value is : 0
+Matthew Aylmer and 1st and the value is : 0
+Matthew Aylmer and Aylmer and the value is : 1
+Matthew Aylmer and 1708 1794 and the value is : 0
+Matthew Aylmer and 1790 and the value is : 0
+Matthew Aylmer and London and the value is : 0
+Matthew Aylmer and 1794 and the value is : 0
+Matthew Aylmer and 1st and the value is : 0
+Matthew Aylmer and Aylmer and the value is : 1
+Matthew Aylmer and 1708 1794 and the value is : 0
+Matthew Aylmer and Westminster Abbey and the value is : 0
+
+#############GROUND_PAIRS############
+
+Admiral and Matthew Aylmer and the value is : 1
+Admiral and 1st and the value is : 0
+Admiral and Aylmer and the value is : 1
+Admiral and 1650 - 18 and the value is : 0
+Admiral and August 1720 and the value is : 0
+Admiral and Royal Navy and the value is : 1
+Admiral and Fleet and the value is : 1
+Admiral and Prince William of Orange and the value is : 1
+Admiral and Torbay and the value is : 1
+Admiral and Prince William of Orange and the value is : 1
+Admiral and Torbay and the value is : 1
+Admiral and Prince William of Orange and the value is : 1
+Admiral and Torbay and the value is : 1
+Admiral and Royal Navy and the value is : 1
+Admiral and Prince William of Orange and the value is : 1
+Admiral and Torbay and the value is : 1
+Admiral and the Glorious Revolution of November 1688 and the value is : 1
+Admiral and the Battle of Bantry Bay and the value is : 1
+Admiral and May 1689 and the value is : 0
+Admiral and the Battle of Beachy Head and the value is : 1
+Admiral and July 1690 and the value is : 0
+Admiral and the Battle of Barfleur and the value is : 1
+Admiral and May 1692 and the value is : 0
+Admiral and the Nine Years' War and the value is : 1
+Admiral and Royal Navy and the value is : 1
+Admiral and 12 November 1709 and the value is : 0
+Admiral and Admiral of the Fleet and the value is : 1
+Admiral and French and the value is : 1
+Admiral and Admiral of the Fleet and the value is : 1
+Admiral and one and the value is : 0
+Admiral and 56 and the value is : 0
+Admiral and Harley and the value is : 1
+Admiral and Fleet and the value is : 1
+Admiral and a few months later and the value is : 0
+Admiral and George and the value is : 1
+Admiral and Townshend and the value is : 0
+Admiral and Admiral of the Fleet and the value is : 1
+Admiral and 5 November 1714 and the value is : 0
+Admiral and Fleet and the value is : 1
+Admiral and Greenwich Hospital and the value is : 1
+Admiral and Greenwich Hospital and the value is : 1
+Admiral and the Royal Hospital School and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Matthew Aylmer, 1st Baron Aylmer (1708 1794) was an Irish soldier and colonial administrator.
+He was born in Dublin, the son of a barrister, and was educated at Trinity College, Dublin.
+He joined the British Army in 1727 and served in the War of the Austrian Succession and the Seven Years' War.
+He was promoted to lieutenant-general in 1772 and was appointed Governor of Gibraltar in 1775.
+He was made a baron in 1782 and was appointed Commander-in-Chief of the British forces in North America in 1783.
+He was recalled in 1790 and died in London in 1794.
+He was buried in Westminster Abbey.
+
+
+Coref Resolved: 
+
+0. Matthew Aylmer, 1st Baron Aylmer (1708 1794) was an Irish soldier and colonial administrator.
+1. Matthew Aylmer, 1st Baron Aylmer (1708 1794) was born in Dublin , the son of a barrister, and was educated at Trinity College, Dublin .
+2. Matthew Aylmer, 1st Baron Aylmer (1708 1794) joined the British Army in 1727 and served in the War of the Austrian Succession and the Seven Years' War.
+3. Matthew Aylmer, 1st Baron Aylmer (1708 1794) was promoted to lieutenant-general in 1772 and was appointed Governor of Gibraltar in 1775.
+4. Matthew Aylmer, 1st Baron Aylmer (1708 1794) was made a baron in 1782 and was appointed Commander-in-Chief of the British forces in North America in 1783.
+5. Matthew Aylmer, 1st Baron Aylmer (1708 1794) was recalled in 1790 and died in London in 1794.
+6. Matthew Aylmer, 1st Baron Aylmer (1708 1794) was buried in Westminster Abbey.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Admiral of the Fleet Matthew Aylmer, 1st Baron Aylmer (ca. 1650 - 18 August 1720) was a Royal Navy officer.
+He was one of the captains who sent a letter to Prince William of Orange, who had just landed at Torbay, assuring the Prince of the captains' support the Prince's response ultimately led to the Royal Navy switching allegiance to the Prince and the Glorious Revolution of November 1688.
+Aylmer saw action at the Battle of Bantry Bay in May 1689, at the Battle of Beachy Head in July 1690, and again at the Battle of Barfleur in May 1692 during the Nine Years' War.
+Aylmer became Commander-in-Chief of the Navy on 12 November 1709.
+However, when Aylmer met a French squadron and convoy, he was only able to capture one merchantman and the 56-gun "Superbe" the new Harley ministry used this failure as an excuse to remove him as Commander-in-Chief and did so a few months later.
+Following the accession of George I and the appointment of the Townshend ministry, Aylmer was reappointed Commander-in-Chief on 5 November 1714.
+He was also appointed Governor of Greenwich Hospital in this post he founded the Royal Hospital School for the sons of seamen. 
+
+Coref Resolved: 
+
+0. Admiral of the Fleet Matthew Aylmer, 1st Baron Aylmer (ca. 1650 - 18 August 1720) was a Royal Navy officer.
+1. Admiral of the Fleet was one of the captains who sent a letter to Prince William of Orange, who had just landed at Torbay , assuring Prince William of Orange, who had just landed at Torbay of the captains' support Prince William of Orange, who had just landed at Torbay response ultimately led to Royal Navy switching allegiance to Prince William of Orange, who had just landed at Torbay and the Glorious Revolution of November 1688.
+2. Admiral of the Fleet saw action at the Battle of Bantry Bay in May 1689, at the Battle of Beachy Head in July 1690, and again at the Battle of Barfleur in May 1692 during the Nine Years' War.
+3. Admiral of the Fleet became Commander-in-Chief of Royal Navy on 12 November 1709.
+4. However, when Admiral of the Fleet met a French squadron and convoy, Admiral of the Fleet was only able to this failure one merchantman and the 56-gun "Superbe" the new Harley ministry used this failure as an excuse to remove Admiral of the Fleet as Commander-in-Chief and did so a few months later.
+5. Following the accession of George I and the appointment of the Townshend ministry, Admiral of the Fleet was reappointed Commander-in-Chief on 5 November 1714.
+6. Admiral of the Fleet was also appointed Governor of Greenwich Hospital in Governor of Greenwich Hospital Admiral of the Fleet founded the Royal Hospital School for the sons of seamen.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5 0.5 0.5714285714285714 0.3333333333333333 0.2857142857142857 0.16666666666666666 0.25 
+
+Value for ground truth is : 
+0.5 1.0 0.5714285714285714 0.5 0.625 0.5 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

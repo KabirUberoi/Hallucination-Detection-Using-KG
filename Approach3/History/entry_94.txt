@@ -1,0 +1,115 @@
+#############SENTENCE_PAIRS############
+
+Chinese and Northern Qi and the value is : -1
+Chinese and pinyin and the value is : -1
+Wén Xuān Dì Wade Giles Pei and Dì and the value is : 0
+Wén Xuān Dì Wade Giles Pei and Wade Giles and the value is : 1
+Wén Xuān Dì Wade Giles Pei and Ch'i and the value is : 0
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Gao Wei and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Gao Wei and the value is : 1
+Emperor Wenxuan and Gao Wei and the value is : 1
+Emperor Wenxuan and Hou Jing and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and intelligence and the value is : 0
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and filial piety and the value is : 0
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Zhou and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Yuchi Jiong and the value is : 1
+
+#############GROUND_PAIRS############
+
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Gao Yang and the value is : 1
+Emperor Wenxuan and Zijin and the value is : 0
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Eastern Wei and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Eastern Wei and the value is : 1
+Emperor Wenxuan and Gao Huan and the value is : 1
+Emperor Wenxuan and Gao Cheng and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and regent and the value is : 1
+Emperor Wenxuan and Eastern Wei and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Emperor and the value is : 1
+Emperor Wenxuan and Eastern Wei and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Eastern Wei and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Yang Yin and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and Northern Qi and the value is : 1
+Emperor Wenxuan and alcoholism and the value is : 0
+Emperor Wenxuan and Northern Qi and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Emperor Wenxuan of Northern Qi (Chinese 北齊文宣帝 pinyin Běi Qí Wén Xuān Dì Wade Giles Pei Ch'i Wen-hsüan.
+Ti 539 557) was an emperor of the Chinese dynasty Northern Qi.
+He was the oldest son of Gao Wei, and he succeeded his father in 551 after Gao Wei was killed in a coup led by the general Hou Jing.
+Emperor Wenxuan was known for his intelligence and his literary talent, and he was also known for his cruelty and his lack of filial piety.
+He was also known for his campaigns against rival Northern Zhou, which were largely unsuccessful.
+He was eventually killed in a coup led by the general Yuchi Jiong in 557.
+
+
+Coref Resolved: 
+
+0. Emperor Wenxuan of Northern Qi (Chinese 北齊文宣帝 pinyin Běi Qí
+1. Wén Xuān Dì Wade Giles Pei Ch'i Wen-hsüan.
+2. Ti 539 557 ) was an emperor of Northern Qi .
+3. Emperor Wenxuan of Northern Qi was the oldest son of Gao Wei , and Emperor Wenxuan of Northern Qi succeeded Gao Wei in 551 after Gao Wei was killed in a coup led by the general Hou Jing.
+4. Emperor Wenxuan of Northern Qi was known for Emperor Wenxuan of Northern Qi intelligence and Emperor Wenxuan of Northern Qi literary talent, and Emperor Wenxuan of Northern Qi was also known for Emperor Wenxuan of Northern Qi cruelty and Emperor Wenxuan of Northern Qi lack of filial piety.
+5. Emperor Wenxuan of Northern Qi was also known for Emperor Wenxuan of Northern Qi campaigns against rival Northern Zhou, which were largely unsuccessful.
+6. Emperor Wenxuan of Northern Qi was eventually killed in a coup led by the general Yuchi Jiong in 557 .
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Emperor Wenxuan of Northern Qi (526 559), personal name Gao Yang (高洋), courtesy name Zijin (子進), was the first emperor of the Northern Qi.
+He was the second son of Eastern Wei's paramount general Gao Huan, and after the death of his brother and Gao Huan's designated successor Gao Cheng in 549, he became the regent of Eastern Wei.
+In 550, he forced Emperor Xiaojing of Eastern Wei to yield the throne to him, ending Eastern Wei and starting Northern Qi.
+Early in Emperor Wenxuan's reign, he was known for his attentiveness to military matters, and the strength of the Northern Qi military was at its prime.
+He also tried to equalize the tax burden and reduce corruption by offering officials sufficient salary.
+He entrusted most governmental matters to the capable Yang Yin, and for a while, the government was effective and the military was strong.
+However, Emperor Wenxuan eventually turned cruel, and his erratic behavior, fueled by alcoholism, plunged his administration into chaos. 
+
+Coref Resolved: 
+
+0. Emperor Wenxuan of Northern Qi (526 559), personal name Gao Yang (高洋), courtesy name Zijin (子進), was the first emperor of Northern Qi .
+1. Emperor Wenxuan of Northern Qi was the second son of Eastern Wei's , and after the death of Emperor Wenxuan of Northern Qi brother and Eastern Wei's paramount general Gao Huan designated successor Gao Cheng in 549, Emperor Wenxuan of Northern Qi became the regent of Eastern Wei's .
+2. In 550, Emperor Wenxuan of Northern Qi forced Emperor Xiaojing of Eastern Wei's to yield the throne to Emperor Wenxuan of Northern Qi , ending Eastern Wei's and starting Northern Qi .
+3. Early in Emperor Wenxuan of Northern Qi reign, Emperor Wenxuan of Northern Qi was known for Emperor Wenxuan of Northern Qi attentiveness to military matters, and the strength of the Northern Qi military was at the strength of the Northern Qi military prime.
+4. Emperor Wenxuan of Northern Qi also tried to equalize the tax burden and reduce corruption by offering officials sufficient salary.
+5. Emperor Wenxuan of Northern Qi entrusted most governmental matters to the capable Yang Yin, and for a while, the government was effective and the military was strong.
+6. However, Emperor Wenxuan of Northern Qi eventually turned cruel, and Emperor Wenxuan of Northern Qi erratic behavior, fueled by alcoholism, plunged Emperor Wenxuan of Northern Qi administration into chaos.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1.0 0.3333333333333333 -1 1.0 0.75 1.0 1.0 
+
+Value for ground truth is : 
+0.75 1.0 1.0 1.0 1.0 1.0 0.75 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

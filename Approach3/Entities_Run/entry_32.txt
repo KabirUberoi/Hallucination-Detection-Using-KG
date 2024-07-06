@@ -1,0 +1,121 @@
+#############SENTENCE_PAIRS############
+
+Peter Breen and October 28, 1965 and the value is : 0
+Peter Breen and American and the value is : 1
+Peter Breen and Illinois and the value is : 1
+Peter Breen and the Republican Party and the value is : 1
+Peter Breen and the Illinois House of Representatives and the value is : 1
+Peter Breen and 48th and the value is : 0
+Peter Breen and 2013 to 2019 and the value is : 0
+Peter Breen and Chicago and the value is : 1
+Peter Breen and Illinois and the value is : 1
+Peter Breen and St. Ignatius College Prep and the value is : 1
+Peter Breen and the University of Notre Dame and the value is : 1
+Peter Breen and the University of Illinois College of Law and the value is : 1
+Peter Breen and first and the value is : 0
+Peter Breen and the Illinois House of Representatives and the value is : 1
+Peter Breen and 2012 and the value is : 1
+Peter Breen and the Illinois House of Representatives and the value is : 1
+Peter Breen and Republican and the value is : 0
+Peter Breen and the Appropriations-Human Services and the value is : 0
+Peter Breen and Transportation Motor Vehicles and the value is : 0
+Peter Breen and the Republican Spokesperson and the value is : 1
+Peter Breen and the Judiciary-Criminal Law Committee and the value is : 1
+Peter Breen and Illinois and the value is : 1
+Peter Breen and Illinois and the value is : 1
+
+#############GROUND_PAIRS############
+
+Peter James Breen and 4 November 1947 and the value is : 0
+Peter James Breen and Australian and the value is : 0
+Peter James Breen and Sydney University and the value is : 1
+Peter James Breen and the Liberal Party and the value is : 1
+Peter James Breen and the Campbelltown Young Liberals and the value is : 0
+Peter James Breen and 1971-1972 and the value is : 0
+Peter James Breen and 1995-1998 and the value is : 0
+Peter James Breen and Australian and the value is : 0
+Peter James Breen and 1998 and the value is : 0
+Peter James Breen and Reform the Legal System and the value is : 1
+Peter James Breen and 1999 and the value is : 0
+Peter James Breen and New South Wales and the value is : 1
+Peter James Breen and the Legislative Council and the value is : 1
+Peter James Breen and the Australian Labor Party and the value is : 1
+Peter James Breen and 5 May 2006 and the value is : 0
+Peter James Breen and 18 July and the value is : 0
+Peter James Breen and the Human Rights Party and the value is : 1
+Peter James Breen and 2007 and the value is : 0
+Peter James Breen and New South Wales and the value is : 1
+Peter James Breen and 2014 and the value is : 0
+Peter James Breen and Ricky Muir and the value is : 1
+Peter James Breen and Australian and the value is : 0
+Peter James Breen and Enthusiast Party and the value is : 0
+Peter James Breen and 5 August 2014 and the value is : 0
+Peter James Breen and Stephen Wayne "Shorty" Jamieson and the value is : 0
+Peter James Breen and 1988 and the value is : 0
+Peter James Breen and Janine Balding and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Peter Breen (born October 28, 1965) is an American politician and attorney from the state of Illinois.
+He is a member of the Republican Party and served as a member of the Illinois House of Representatives from the 48th district from 2013 to 2019.
+Breen was born in Chicago, Illinois and attended St. Ignatius College Prep.
+He received his bachelor's degree from the University of Notre Dame and his law degree from the University of Illinois College of Law.
+Breen was first elected to the Illinois House of Representatives in 2012.
+During his time in the House, he served as the Republican Floor Leader and was a member of the Appropriations-Human Services, Judiciary-Criminal Law, and Transportation Motor Vehicles committees.
+He was also the Republican Spokesperson for the Judiciary-Criminal Law Committee.
+Breen was a vocal advocate for criminal justice reform, sponsoring legislation to reduce the state's prison population and reform the state's bail system.
+He also sponsored legislation to protect the rights of victims of sexual assault and domestic violence.
+He was a strong supporter of school choice and sponsored.
+
+
+Coref Resolved: 
+
+0. Peter Breen (born October 28, 1965) is an American politician and attorney from the state of Illinois .
+1. Peter Breen is a member of the Republican Party and served as a member of the Illinois House of Representatives from the 48th district from 2013 to 2019.
+2. Peter Breen was born in Chicago, the state of Illinois and attended St. Ignatius College Prep.
+3. Peter Breen received Peter Breen bachelor's degree from the University of Notre Dame and Peter Breen law degree from the University of Illinois College of Law.
+4. Peter Breen was first elected to the Illinois House of Representatives in 2012.
+5. During Peter Breen time in the Illinois House of Representatives , Peter Breen served as the Republican Floor Leader and was a member of the Appropriations-Human Services, Judiciary-Criminal Law, and Transportation Motor Vehicles committees.
+6. Peter Breen was also the Republican Spokesperson for the Judiciary-Criminal Law Committee.
+7. Peter Breen was a vocal advocate for criminal justice reform, sponsoring legislation to reduce the state of Illinois prison population and reform the state of Illinois bail system.
+8. Peter Breen also sponsored legislation to protect the rights of victims of sexual assault and domestic violence.
+9. Peter Breen was a strong supporter of school choice and sponsored.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Peter James Breen (born 4 November 1947) is a former Australian politician.
+He was a solicitor before entering politics, achieving a Diploma of Law from Sydney University.
+He was originally a member of the Liberal Party, serving as President of the Campbelltown Young Liberals from 1971-1972.
+From 1995-1998, he was Secretary of the Australian Bill of Rights Group, and in 1998 joined Reform the Legal System.
+In the 1999 New South Wales election, he was elected to the Legislative Council.
+Breen joined the Australian Labor Party on 5 May 2006, but resigned on 18 July to form the Human Rights Party.
+He unsuccessfully contested the 2007 New South Wales state election.
+In 2014, Breen became an adviser to Senator Ricky Muir of the Australian Motoring Enthusiast Party, but was sacked on 5 August 2014.
+He has campaigned over an alleged miscarriage of justice in the conviction of Stephen Wayne "Shorty" Jamieson for the 1988 murder of Janine Balding. 
+
+Coref Resolved: 
+
+0. Peter James Breen (born 4 November 1947) is a former Australian politician.
+1. Peter James Breen was a solicitor before entering politics, achieving a Diploma of Law from Sydney University.
+2. Peter James Breen was originally a member of the Liberal Party, serving as President of the Campbelltown Young Liberals from 1971-1972.
+3. From 1995-1998 , Peter James Breen was Secretary of the Australian Bill of Rights Group, and in 1998 joined Reform the Legal System.
+4. In the 1999 New South Wales election, Peter James Breen was elected to the Legislative Council.
+5. Peter James Breen joined the Australian Labor Party on 5 May 2006, but resigned on 18 July to form the Human Rights Party.
+6. Peter James Breen unsuccessfully contested the 2007 New South Wales state election.
+7. In 2014, Peter James Breen became an adviser to Senator Ricky Muir of the Australian Motoring Enthusiast Party, but was sacked on 5 August 2014.
+8. Peter James Breen has campaigned over an alleged miscarriage of justice in the conviction of Stephen Wayne "Shorty" Jamieson for the 1988 murder of Janine Balding.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.6666666666666666 0.5 1.0 1.0 0.6666666666666666 0.25 1.0 1.0 0.5 0.5 
+
+Value for ground truth is : 
+0.0 1.0 0.3333333333333333 0.25 0.6666666666666666 0.5 0.5 0.2 0.3333333333333333 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

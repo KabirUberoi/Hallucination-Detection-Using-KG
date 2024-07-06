@@ -1,0 +1,118 @@
+#############SENTENCE_PAIRS############
+
+Marshall Manesh and October 24, 1956 and the value is : 0
+Marshall Manesh and American and the value is : 0
+Marshall Manesh and CBS and the value is : 0
+Marshall Manesh and Ravi Kapoor and the value is : 1
+Marshall Manesh and ABC and the value is : 0
+Marshall Manesh and Dharma Greg and the value is : 0
+Marshall Manesh and Tehran and the value is : 0
+Marshall Manesh and Iran and the value is : 0
+Marshall Manesh and the United States and the value is : 0
+Marshall Manesh and 1975 and the value is : 1
+Marshall Manesh and the University of California and the value is : 0
+Marshall Manesh and Los Angeles and the value is : 0
+Marshall Manesh and the late 1980s and the value is : 1
+Marshall Manesh and L.A. Law and the value is : 0
+Marshall Manesh and Cheers and the value is : 0
+Marshall Manesh and Seinfeld and the value is : 0
+Marshall Manesh and The Big Lebowski and the value is : 0
+Marshall Manesh and The Wedding Planner and the value is : 0
+Marshall Manesh and Shohreh Aghdashloo and the value is : 0
+Marshall Manesh and 1992 and the value is : 1
+They and two and the value is : 0
+Marshall Manesh and Los Angeles and the value is : 0
+Marshall Manesh and California and the value is : 0
+
+#############GROUND_PAIRS############
+
+Marshall Manesh and August 16, 1950 and the value is : 0
+Marshall Manesh and Mashhad and the value is : 1
+Marshall Manesh and Iran and the value is : 1
+Marshall Manesh and Iranian American and the value is : 0
+Marshall Manesh and Will Grace and the value is : 1
+Marshall Manesh and Andy Barker and the value is : 1
+Marshall Manesh and P.I. and the value is : 0
+Marshall Manesh and Cleveland and the value is : 1
+Marshall Manesh and Boston Legal and the value is : 1
+Marshall Manesh and Bangladeshi and the value is : 1
+Marshall Manesh and Burn Notice and the value is : 1
+Marshall Manesh and Persons Unknown and the value is : 1
+Marshall Manesh and The X-Files and the value is : 1
+Marshall Manesh and ER and the value is : 0
+Marshall Manesh and Prison Break and the value is : 1
+Marshall Manesh and Indian and the value is : 1
+Marshall Manesh and Nandu Banerjee and the value is : 0
+Marshall Manesh and True Lies and the value is : 1
+Marshall Manesh and The Big Lebowski and the value is : 1
+Marshall Manesh and Kazaam and the value is : 1
+Marshall Manesh and The Poseidon Adventure and the value is : 1
+Marshall Manesh and Seeking a Friend and the value is : 0
+Marshall Manesh and Sri Sumbhajee and the value is : 0
+Marshall Manesh and one and the value is : 0
+Marshall Manesh and the Pirate Lords and the value is : 0
+Marshall Manesh and Hossein and the value is : 0
+Marshall Manesh and A Girl Walks Home Alone at Night and the value is : 1
+Marshall Manesh and Madonna and the value is : 1
+Marshall Manesh and 2005 and the value is : 0
+Marshall Manesh and 6th and the value is : 0
+Marshall Manesh and Annual and the value is : 0
+Marshall Manesh and Noor Iranian Film Festival and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Marshall Manesh (born October 24, 1956) is an American actor.
+He is best known for his roles as Ranjit on the CBS sitcom How I Met Your Mother and as Dr. Ravi Kapoor on the ABC sitcom Dharma Greg.
+Manesh was born in Tehran, Iran, and moved to the United States in 1975.
+He attended the University of California, Los Angeles, where he earned a degree in theater.
+He began his acting career in the late 1980s, appearing in television shows such as L.A. Law, Cheers, and Seinfeld.
+He has also appeared in films such as The Big Lebowski and The Wedding Planner.
+Manesh has been married to actress Shohreh Aghdashloo since 1992.
+They have two children.
+He currently resides in Los Angeles, California.
+
+
+Coref Resolved: 
+
+0. Marshall Manesh (born October 24, 1956) is an American actor.
+1. Marshall Manesh is best known for Marshall Manesh roles as Ranjit on the CBS sitcom How I Met Your Mother and as Dr. Ravi Kapoor on the ABC sitcom Dharma Greg.
+2. Marshall Manesh was born in Tehran, Iran, and moved to the United States in 1975.
+3. Marshall Manesh attended the University of California, Los Angeles, where Marshall Manesh earned a degree in theater.
+4. Marshall Manesh began Marshall Manesh acting career in the late 1980s, appearing in television shows such as L.A. Law, Cheers, and Seinfeld.
+5. Marshall Manesh has also appeared in films such as The Big Lebowski and The Wedding Planner.
+6. Marshall Manesh has been married to actress Shohreh Aghdashloo since 1992.
+7. They have two children.
+8. Marshall Manesh currently resides in Los Angeles, California.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Marshall Manesh (born August 16, 1950 in Mashhad, Iran) is an Iranian American actor.
+Manesh has appeared in recurring roles on the television shows "Will Grace", "Scrubs", "Andy Barker, P.I.", "Hot in Cleveland", "Boston Legal", and, most notably, "How I Met Your Mother", where he plays the Bangladeshi taxi town car limo driver Ranjit.
+He has also guest starred on many shows, including "Burn Notice", "Persons Unknown", "The X-Files", "Scrubs", "ER", "JAG", "NYPD Blue", and "Prison Break" as the Indian Prime Minister Nandu Banerjee.
+Manesh has acted in several movies, including "True Lies" (his debut), "Stealing Harvard", "The Big Lebowski", "Kazaam", "The Poseidon Adventure", "Seeking a Friend for the End of the World", as Sri Sumbhajee, one of the Pirate Lords, and as Hossein in the vampire western "A Girl Walks Home Alone at Night".
+He has also had a cameo appearance as the cab driver on Madonna's 2005 video for "Hung Up".
+He served as a judge at the 6th Annual Noor Iranian Film Festival. 
+
+Coref Resolved: 
+
+0. Marshall Manesh (born August 16, 1950 in Mashhad, Iran) is an Iranian American actor.
+1. Marshall Manesh has appeared in recurring roles on the television shows "Will Grace", "Scrubs" , "Andy Barker, P.I.", "Hot in Cleveland", "Boston Legal", and, most notably, "How I Met Your Mother", where Marshall Manesh plays the Bangladeshi taxi town car limo driver Ranjit.
+2. Marshall Manesh has also guest starred on many shows, including "Burn Notice", "Persons Unknown", "The X-Files", "Scrubs" , "ER", "JAG", "NYPD Blue", and "Prison Break" as the Indian Prime Minister Nandu Banerjee.
+3. Marshall Manesh has acted in several movies, including "True Lies" (Marshall Manesh debut), "Stealing Harvard", "The Big Lebowski", "Kazaam", "The Poseidon Adventure", "Seeking a Friend for the End of the World", as Sri Sumbhajee, one of the Pirate Lords, and as Hossein in the vampire western "A Girl Walks Home Alone at Night".
+4. Marshall Manesh has also had a cameo appearance as the cab driver on Madonna's 2005 video for "Hung Up".
+5. Marshall Manesh served as a judge at the 6th Annual Noor Iranian Film Festival.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.25 0.25 0.0 0.25 0.0 0.5 0.0 0.0 
+
+Value for ground truth is : 
+0.5 0.8333333333333334 0.7142857142857143 0.5 0.5 0.3333333333333333 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate accurate 
+

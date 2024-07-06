@@ -1,0 +1,189 @@
+#############SENTENCE_PAIRS############
+
+Torry Castellano and August 21, 1979 and the value is : 0
+Torry Castellano and American and the value is : 1
+Torry Castellano and Donnas and the value is : 1
+Torry Castellano and Los Angeles and the value is : 1
+Torry Castellano and California and the value is : 1
+Torry Castellano and the San Francisco Bay Area and the value is : 1
+Torry Castellano and the age of 11 and the value is : 0
+Torry Castellano and Donnas and the value is : 1
+Torry Castellano and 1993 and the value is : 0
+Torry Castellano and 14 and the value is : 0
+Torry Castellano and The Frustrators and the value is : 0
+Torry Castellano and Coverups and the value is : 0
+Torry Castellano and Dollyrots and the value is : 0
+
+#############GROUND_PAIRS############
+
+California and Torry" Castellano and the value is : 0
+California and January 8, 1979 and the value is : 0
+California and San Francisco and the value is : 1
+California and Torry" Castellano and the value is : 0
+California and January 8, 1979 and the value is : 0
+California and San Francisco and the value is : 1
+California and July 2010 and the value is : 0
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Laura San Giacomo and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Palo Alto and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Heather and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Allison Robertson and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Donnas and every day and the value is : 0
+Donnas and Torry" Castellano and the value is : 0
+Donnas and January 8, 1979 and the value is : 0
+Donnas and San Francisco and the value is : 0
+Castellano and Gold Medal and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and October 2003 and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Gold Medal and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+shoulder problem and Torry" Castellano and the value is : 0
+shoulder problem and January 8, 1979 and the value is : 0
+shoulder problem and San Francisco and the value is : 0
+shoulder problem and December 27, 2008 and the value is : 0
+shoulder problem and the House of Blues and the value is : 0
+shoulder problem and Anaheim and the value is : 0
+shoulder problem and CA and the value is : 0
+band and Amy Cesari and the value is : 0
+band and The Demonics and the value is : 0
+Castellano and July 9, 2010 and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Heather and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Greatest Hits and the value is : 0.5
+Castellano and 16 and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Santa Monica College and the value is : 0.5
+Castellano and Stanford University and the value is : 0.5
+Castellano and 2013 and the value is : 0.5
+Castellano and Political Science and the value is : 0.5
+Castellano and Torry" Castellano and the value is : 0.5
+Castellano and January 8, 1979 and the value is : 0.5
+Castellano and San Francisco and the value is : 0.5
+Castellano and Stanford University and the value is : 0.5
+Castellano and 2013 and the value is : 0.5
+Castellano and Political Science and the value is : 0.5
+Castellano and Harvard Law School and the value is : 0.5
+Castellano and the fall of 2013 and the value is : 0.5
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Torry Castellano (born August 21, 1979) is an American musician, best known as the drummer for the punk rock band The Donnas.
+She was born in Los Angeles, California and grew up in the San Francisco Bay Area.
+Castellano began playing drums at the age of 11, and joined The Donnas in 1993, when she was 14.
+She has been the band's drummer ever since.
+Castellano has also been involved in other musical projects, including the all-female punk band The Frustrators, and the punk rock supergroup The Coverups.
+She has also done session work for other bands, including The Eyeliners and The Dollyrots.
+
+
+Coref Resolved: 
+
+0. Torry Castellano (born August 21, 1979) is an American musician, best known as the drummer for the punk rock band The Donnas .
+1. Torry Castellano was born in Los Angeles, California and grew up in the San Francisco Bay Area.
+2. Torry Castellano began playing drums at the age of 11, and joined the punk rock band The Donnas in 1993, when Torry Castellano was 14.
+3. Torry Castellano has been the punk rock band
+4. The Donnas drummer ever since.
+5. Torry Castellano has also been involved in other musical projects, including the all-female punk band The Frustrators, and the punk rock supergroup The Coverups.
+6. Torry Castellano has also done session work for other bands, including The Eyeliners and The Dollyrots.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Torrance Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) is the former drummer of The Donnas, announcing her retirement in July 2010.
+She is the cousin of actress Laura San Giacomo.
+Early in her childhood, she moved to Palo Alto, California, where she met her bandmates.
+She was asked to be part of the band by Allison Robertson, and agreed even though she did not have any experience.
+The band rehearsed every day in her garage.
+Before the release of The Donnas' album "Gold Medal", Castellano developed tendonitis.
+In October 2003, she had surgery for it.
+During her recovery, she had to take drum lessons to re-learn to hold drumsticks the correct way.
+For "Gold Medal", she recorded with her recovering wrists, but could only play for short periods of time.
+A shoulder problem forced Castellano to withdraw from The Donnas' tour following a show on December 27, 2008, at the House of Blues in Anaheim, CA.
+Amy Cesari of the band The Demonics filled in on future tour dates.
+On July 9, 2010, Castellano announced on the band's website that due to her shoulder she would have to retire from drumming and performing with The Donnas.
+Castellano still attended events the band was involved with as well as promoted the last album she recorded with the band, "Greatest Hits Volume 16".
+She attended Santa Monica College before transferring to Stanford University, where she was in the Class of 2013 and majored in Political Science.
+Castellano graduated from Stanford with distinction and will attend Harvard Law School starting in the fall of 2013. 
+
+Coref Resolved: 
+
+0. Torrance Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) California is the former drummer of The Donnas , announcing Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) retirement in July 2010.
+1. Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) is the cousin of actress Laura San Giacomo.
+2. Early in Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) childhood, Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) moved to Palo Alto, California , where Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) met Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) bandmates.
+3. Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) was asked to be part of The Donnas by Allison Robertson, and agreed even though Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) did not have any experience.
+4. The Donnas rehearsed every day in Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) garage.
+5. Before the release of The Donnas album "Gold Medal", Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) developed tendonitis .
+6. In October 2003, Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) had surgery for tendonitis .
+7. During Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) recovery, Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) had to take drum lessons to re-learn to hold drumsticks the correct way.
+8. For "Gold Medal", Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) recorded with Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) recovering wrists, but could only play for short periods of time.
+9. A shoulder problem forced Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) to withdraw from The Donnas tour following a show on December 27, 2008, at the House of Blues in Anaheim, CA.
+10. Amy Cesari of the band The Demonics filled in on future tour dates.
+11. On July 9, 2010, Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) announced on The Donnas website that due to Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) shoulder Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) would have to retire from drumming and performing with The Donnas .
+12. Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) still attended events The Donnas was involved with as well as promoted the last album Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) recorded with The Donnas , "Greatest Hits Volume 16".
+13. Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) attended Santa Monica College before transferring to Stanford University, where she was in the Class of 2013 and majored in Political Science .
+14. Heather "Torry" Castellano (born January 8, 1979, in San Francisco, California) graduated from Stanford University, where she was in the Class of 2013 and majored in Political Science with distinction and will attend Harvard Law School starting in the fall of 2013.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.6666666666666666 1.0 0.25 0.5 0.5 0.0 0.0 
+
+Value for ground truth is : 
+0.2857142857142857 0.5 0.5 0.5 0.0 0.5 0.5 0.5 0.5 0.0 0.0 0.5 0.5 0.5 0.5 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate minor_inaccurate major_inaccurate major_inaccurate 
+

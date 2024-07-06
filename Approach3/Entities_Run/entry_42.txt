@@ -1,0 +1,143 @@
+#############SENTENCE_PAIRS############
+
+Mark Fite and October 28, 1965 and the value is : 1
+Mark Fite and American and the value is : 0
+Mark Fite and The Big Lebowski and the value is : 0
+Mark Fite and 1998 and the value is : 1
+Mark Fite and The Cable Guy and the value is : 0
+Mark Fite and 1996 and the value is : 1
+Mark Fite and The Wedding Singer and the value is : 0
+Mark Fite and 1998 and the value is : 1
+Mark Fite and Seinfeld and the value is : 0
+Mark Fite and Friends and the value is : 0
+Mark Fite and The King of Queens and the value is : 0
+Mark Fite and Los Angeles and the value is : 1
+Mark Fite and California and the value is : 1
+Mark Fite and the University of California and the value is : 1
+Mark Fite and Los Angeles and the value is : 1
+Mark Fite and Los Angeles and the value is : 1
+Mark Fite and California and the value is : 1
+Mark Fite and New York City and the value is : 1
+Mark Fite and The Big Lebowski and the value is : 0
+Mark Fite and 1998 and the value is : 1
+Mark Fite and The Cable Guy and the value is : 0
+Mark Fite and The Wedding Singer and the value is : 0
+Mark Fite and 1998 and the value is : 1
+Mark Fite and Seinfeld and the value is : 0
+Mark Fite and Friends and the value is : 0
+Mark Fite and Los Angeles and the value is : 1
+Mark Fite and California and the value is : 1
+Mark Fite and The Groundlings and the value is : 0
+
+#############GROUND_PAIRS############
+
+Mark Fite and American and the value is : 0
+Mark Fite and Los Angeles and the value is : 0
+Mark Fite and California and the value is : 1
+Mark Fite and 2 and the value is : 0
+Mark Fite and Jim Turner and the value is : 1
+Mark Fite and Dave Gruber Allen and the value is : 1
+Mark Fite and Craig Anton and the value is : 1
+Mark Fite and Bob's Office Party and the value is : 0
+Mark Fite and Girly Magazine Party and the value is : 0
+Mark Fite and Clowntown City Limits and the value is : 1
+Mark Fite and Swappers and the value is : 0
+Mark Fite and Los Angeles and the value is : 0
+Mark Fite and California and the value is : 1
+Mark Fite and The Actors' Gang, Theatre of Note and the value is : 0
+Mark Fite and Padua Hills Playwrights' Festival and the value is : 0
+Mark Fite and Murray Mednick and the value is : 1
+Mark Fite and Leon Martell and the value is : 0
+Mark Fite and Marlane Meyer and the value is : 1
+Mark Fite and John Steppling and the value is : 1
+Mark Fite and SpongeBob SquarePants and the value is : 1
+Mark Fite and Grey's Anatomy, Rules of Engagement and the value is : 1
+Mark Fite and The Naked Trucker and the value is : 1
+Mark Fite and NewsRadio and the value is : 1
+film credits and Fight Club and the value is : 1
+film credits and Independence Day and the value is : 0
+film credits and Godzilla and the value is : 0
+film credits and Ed Asner and the value is : 0
+film credits and 2011 and the value is : 0
+film credits and Dior and the value is : 0
+film credits and Academy Award and the value is : 0
+film credits and Marion Cotillard and the value is : 0
+film credits and John Cameron Mitchell and the value is : 0
+Mark Fite and 2009 and the value is : 0
+Mark Fite and Matthew Modine Saves and the value is : 1
+Mark Fite and Alpacas and the value is : 0
+Mark Fite and Matthew Modine and the value is : 1
+Mark Fite and French and the value is : 0
+Mark Fite and Stewart and the value is : 1
+Mark Fite and the Geffen Playhouse and the value is : 1
+Mark Fite and Los Angeles and the value is : 0
+Mark Fite and California and the value is : 1
+Mark Fite and the University of Iowa and the value is : 0
+Mark Fite and a Bachelor of Arts in Communications and the value is : 0
+Mark Fite and Theatre Arts and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Mark Fite (born October 28, 1965) is an American actor, comedian, and writer.
+He is best known for his roles in the films The Big Lebowski (1998), The Cable Guy (1996), and The Wedding Singer (1998).
+He has also appeared in numerous television shows, including Seinfeld, Friends, and The King of Queens.
+Fite was born in Los Angeles, California.
+He attended the University of California, Los Angeles, where he studied theater and film.
+After graduating, he began performing stand-up comedy in Los Angeles and New York City.
+He has appeared in numerous television shows and films, including The Big Lebowski, The Cable Guy, and The Wedding Singer.
+He has also written for television shows, including Seinfeld and Friends.
+Fite currently resides in Los Angeles, where he continues to act and write.
+He is also a member of the improvisational comedy troupe The Groundlings.
+
+
+Coref Resolved: 
+
+0. Mark Fite (born October 28, 1965) is an American actor, comedian, and writer.
+1. Mark Fite is best known for Mark Fite roles in the films The Big Lebowski (1998) , The Cable Guy (1996), and The Wedding Singer (1998) .
+2. Mark Fite has also appeared in numerous television shows, including Seinfeld , Friends , and The King of Queens.
+3. Mark Fite was born in Los Angeles, California .
+4. Mark Fite attended the University of California, Los Angeles, where Mark Fite studied theater and film.
+5. After graduating, Mark Fite began performing stand-up comedy in Los Angeles, California and New York City.
+6. Mark Fite has appeared in numerous television shows and films, including The Big Lebowski (1998) , The Cable Guy , and The Wedding Singer (1998) .
+7. Mark Fite has also written for television shows, including Seinfeld and Friends .
+8. Mark Fite currently resides in Los Angeles, California , where Mark Fite continues to act and write.
+9. Mark Fite is also a member of the improvisational comedy troupe The Groundlings.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Mark Fite is an American actor and comedian.
+He has appeared in a number of movies and television shows and lives in Los Angeles, California.
+Fite is a founding member of the comedy group 2 Headed Dog with comedians Jim Turner, Dave Gruber Allen, and Craig Anton.
+He is well-known for creating roles and performing in many hit comedy shows, including Bob's Office Party, The Rudy Casoni Show, Girly Magazine Party, Clowntown City Limits, and Wife Swappers.
+Fite has worked with several prestigious theatre companies in Los Angeles, including The Actors' Gang, Theatre of Note, and Padua Hills Playwrights' Festival, where he worked with acclaimed writers Murray Mednick, Leon Martell, Marlane Meyer, and John Steppling.
+Fite has appeared in numerous television shows, including SpongeBob SquarePants, Grey's Anatomy, Rules of Engagement, The Naked Trucker and T-Bones Show, Friends, Seinfeld, and NewsRadio.
+Fite's varied film credits include Fight Club, Independence Day, Godzilla, Off the Lip, Elephant Sighs (with Ed Asner), and, in 2011, a short film for Dior (L.A.dy Dior) opposite Academy Award-winning actress Marion Cotillard, directed by John Cameron Mitchell.
+In 2009, Fite performed in the world premiere comedy Matthew Modine Saves the Alpacas alongside Matthew Modine and French Stewart at the Geffen Playhouse in Los Angeles, CA.
+Fite graduated from the University of Iowa with a Bachelor of Arts in Communications and Theatre Arts. 
+
+Coref Resolved: 
+
+0. Mark Fite is an American actor and comedian.
+1. Mark Fite has appeared in a number of movies and television shows and lives in Los Angeles, California .
+2. Mark Fite is a founding member of the comedy group 2 Headed Dog with comedians Jim Turner, Dave Gruber Allen, and Craig Anton.
+3. Mark Fite is well-known for creating roles and performing in many hit comedy shows, including Bob's Office Party, The Rudy Casoni Show, Girly Magazine Party, Clowntown City Limits, and Wife Swappers.
+4. Mark Fite has worked with several prestigious theatre companies in Los Angeles, California , including The Actors' Gang, Theatre of Note, and Padua Hills Playwrights' Festival, where Mark Fite worked with acclaimed writers Murray Mednick, Leon Martell, Marlane Meyer, and John Steppling.
+5. Mark Fite has appeared in numerous television shows, including SpongeBob SquarePants, Grey's Anatomy, Rules of Engagement, The Naked Trucker and T-Bones Show, Friends, Seinfeld, and NewsRadio.
+6. Mark Fite varied film credits include Fight Club, Independence Day, Godzilla, Off the Lip, Elephant Sighs (with Ed Asner), and, in 2011, a short film for Dior (L.A.dy Dior) opposite Academy Award-winning actress Marion Cotillard, directed by John Cameron Mitchell.
+7. In 2009, Mark Fite performed in the world premiere comedy Matthew Modine Saves the Alpacas alongside Matthew Modine and French Stewart at the Geffen Playhouse in Los Angeles, California .
+8. Mark Fite graduated from the University of Iowa with a Bachelor of Arts in Communications and Theatre Arts.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5 0.5 0.0 1.0 1.0 1.0 0.4 0.0 1.0 0.0 
+
+Value for ground truth is : 
+0.0 0.5 0.75 0.25 0.5 1.0 0.1111111111111111 0.5555555555555556 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

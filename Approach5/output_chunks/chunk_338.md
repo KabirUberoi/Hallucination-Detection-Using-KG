@@ -1,0 +1,13 @@
+## References[[edit](/w/index.php?title=Quantum\_Reality&action=edit&section=7
+"Edit section: References")]
+
+ 1. ^ \_\*\*a\*\*\_ \_\*\*b\*\*\_ Johnson, George (June 24, 1985). ["What Physics Owes the Counterculture"](https://www.nytimes.com/2011/06/19/books/review/book-review-how-the-hippies-saved-physics-by-david-kaiser.html?pagewanted=all). \_[The New York Times](/wiki/The\_New\_York\_Times "The New York Times")\_. Retrieved September 13, 2014.
+ 2. ^ \_\*\*a\*\*\_ \_\*\*b\*\*\_ \_\*\*c\*\*\_ \_\*\*d\*\*\_ \_\*\*e\*\*\_ \_\*\*f\*\*\_ \_\*\*g\*\*\_ \_\*\*h\*\*\_ \_\*\*i\*\*\_ \_\*\*j\*\*\_ \_\*\*k\*\*\_ \_\*\*l\*\*\_ \_\*\*m\*\*\_ \_\*\*n\*\*\_ \_\*\*o\*\*\_ \_\*\*p\*\*\_ \_\*\*q\*\*\_ \_\*\*r\*\*\_ [Herbert, Nick](/wiki/Nick\_Herbert\_\(physicist\) "Nick Herbert \(physicist\)") (1985). [\_Quantum Reality: Beyond the New Physics: An Excursion into Metaphysics and the Meaning of Reality\_](https://archive.org/details/quantumrealitybe1985herb). Anchor Books/[Doubleday](/wiki/Doubleday\_\(publisher\) "Doubleday \(publisher\)"). [ISBN](/wiki/ISBN\_\(identifier\) "ISBN \(identifier\)") [978-0-385-18704-6](/wiki/Special:BookSources/978-0-385-18704-6 "Special:BookSources/978-0-385-18704-6").
+ 3. \*\*^\*\* Lehmann-Haupt, Christopher (June 24, 1985). ["Quantum Reality"](https://www.nytimes.com/1985/06/24/books/books-of-the-times-073391.html). Books of the Times. \_[The New York Times](/wiki/The\_New\_York\_Times "The New York Times")\_. Retrieved September 13, 2014.
+ 4. \*\*^\*\* Nielsen, Tom. ["References – Cosmos/Quantum"](https://web.archive.org/web/20150622002516/http://www.enfolded.net/enfolded/references/cosqntm.htm). \_Enfolded.net\_. Archived from [the original](http://www.enfolded.net/enfolded/references/cosqntm.htm) on June 22, 2015. Retrieved September 13, 2014.
+ 5. \*\*^\*\* ["Quantum Reality: Beyond the New Physics"](https://www.kirkusreviews.com/book-reviews/nick-herbert-2/quantum-reality-beyond-the-new-physics/). \_[Kirkus Reviews](/wiki/Kirkus\_Reviews "Kirkus Reviews")\_. Anchor/Doubleday. June 28, 1985. Retrieved September 13, 2014.
+ 6. \*\*^\*\* [Bey, Hakim](/wiki/Hakim\_Bey "Hakim Bey"). ["Quantum Mechanics & Chaos Theory: Anarchist Meditations on N. Herbert's \_Quantum Reality: Beyond the New Physics\_ "](https://theanarchistlibrary.org/library/hakim-bey-quantum-mechanics-chaos-theory-anarchist-meditations-on-n-herbert-s-quantum-reality-b). \_Hakim Bey and Ontological Anarchy\_. Retrieved December 5, 2022.
+ 7. \*\*^\*\* [Herbert, Nick](/wiki/Nick\_Herbert\_\(physicist\) "Nick Herbert \(physicist\)") (July 16, 2009). ["A Book About Reality"](http://quantumtantra.blogspot.com/2009/07/book-about-reality.html). \_Quantum Tantra\_. Retrieved September 13, 2014.
+
+ \*[LC Class]: Library of Congress Classification
+

@@ -1,0 +1,111 @@
+#############SENTENCE_PAIRS############
+
+Paul Elliott and Labour Party and the value is : 1
+Paul Elliott and Parliament and the value is : 1
+Paul Elliott and MP and the value is : 0
+Paul Elliott and Sunderland Central and the value is : 1
+Paul Elliott and Sunderland and the value is : 0
+Paul Elliott and St Aidan and the value is : 0
+Paul Elliott and Sunderland and the value is : 0
+Paul Elliott and trade union and the value is : 0
+Paul Elliott and GMB union and the value is : 0
+Paul Elliott and Sunderland City Council and the value is : 1
+Paul Elliott and 2010 general election and the value is : 1
+Paul Elliott and Labour and the value is : 1
+Paul Elliott and MP and the value is : 0
+Paul Elliott and Chris Mullin and the value is : 1
+Paul Elliott and Parliament and the value is : 1
+Paul Elliott and Co-operative Party and the value is : 1
+Paul Elliott and GMB union and the value is : 0
+
+#############GROUND_PAIRS############
+
+Robert Paul Elliott and Paul Elliott and the value is : -1
+Robert Paul Elliott and Labor and the value is : -1
+Robert Paul Elliott and Parramatta and the value is : -1
+Robert Paul Elliott and Paul Elliott and the value is : -1
+Robert Paul Elliott and Ballina, New South Wales and the value is : -1
+Robert Paul Elliott and MLitt and the value is : -1
+Robert Paul Elliott and New England and the value is : -1
+Robert Paul Elliott and Paul Elliott and the value is : -1
+Robert Paul Elliott and Western Sydney and the value is : -1
+Robert Paul Elliott and Labor and the value is : -1
+Robert Paul Elliott and MP and the value is : -1
+Robert Paul Elliott and John Brown and the value is : -1
+Robert Paul Elliott and Paul Elliott and the value is : -1
+Robert Paul Elliott and alderman and the value is : -1
+Robert Paul Elliott and Parramatta City Council and the value is : -1
+Robert Paul Elliott and mayor and the value is : -1
+Robert Paul Elliott and Labor and the value is : -1
+Robert Paul Elliott and MP and the value is : -1
+Robert Paul Elliott and John Brown and the value is : -1
+Robert Paul Elliott and Paul Elliott and the value is : -1
+Robert Paul Elliott and 1990 election and the value is : -1
+Robert Paul Elliott and Paul Elliott and the value is : -1
+Robert Paul Elliott and Parliamentary Secretary and the value is : -1
+Robert Paul Elliott and Keating government and the value is : -1
+Robert Paul Elliott and Paul Elliott and the value is : -1
+Robert Paul Elliott and Parliamentary Secretary and the value is : -1
+Robert Paul Elliott and Parliamentary Secretary and the value is : -1
+Robert Paul Elliott and Paul Elliott and the value is : -1
+Robert Paul Elliott and 1996 election and the value is : -1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Paul Elliott (born 28 April 1964) is a British Labour Party politician who has been the Member of Parliament (MP) for Sunderland Central since 2010.
+Elliott was born in Sunderland and educated at St Aidan's Comprehensive School and the University of Sunderland.
+He worked as a trade union official for the GMB union, and was a councillor on Sunderland City Council from 2002 to 2010.
+Elliott was elected to the House of Commons at the 2010 general election, succeeding the Labour MP Chris Mullin.
+He was re-elected in 2015 and 2017.
+In Parliament, he has served on the Work and Pensions Select Committee since 2015.
+He is a member of the Co-operative Party and the GMB union.
+
+
+Coref Resolved: 
+
+0. Paul Elliott (born 28 April 1964) is a British Labour Party politician who has been the Member of Parliament (MP) for Sunderland Central since 2010 .
+1. Paul Elliott was born in Sunderland and educated at St Aidan's Comprehensive School and the University of Sunderland.
+2. Paul Elliott worked as a trade union official for the GMB union , and was a councillor on Sunderland City Council from 2002 to 2010 .
+3. Paul Elliott was elected to the House of Commons at the 2010 general election, succeeding the Labour MP Chris Mullin.
+4. Paul Elliott was re-elected in 2015 and 2017.
+5. In Parliament, Paul Elliott has served on the Work and Pensions Select Committee since 2015 .
+6. Paul Elliott is a member of the Co-operative Party and the GMB union .
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Robert Paul Elliott (born 24 September 1954) is an Australian politician.
+He was a Labor member of the Australian House of Representatives from 1990 to 1996, representing the division of Parramatta.
+Elliott was born in Ballina, New South Wales and earned a Bachelor of Arts and an MLitt at the University of New England.
+He worked as a lecturer at the University of Western Sydney, a public servant, and an electoral officer to Labor MP John Brown.
+He was elected as an alderman on Parramatta City Council in 1977 and was mayor from 1984 to 1986.
+Following the retirement of John Brown, Elliott was elected to federal parliament at the 1990 election.
+He was appointed Parliamentary Secretary to the Treasurer in the Keating government in December 1993.
+In June 1994, he became Parliamentary Secretary to the Minister for Communications and the Arts and Parliamentary Secretary to the Minister for Tourism as well.
+He was defeated at the 1996 election. 
+
+Coref Resolved: 
+
+0. Robert Paul Elliott (born 24 September 1954) is an Australian politician.
+1. Robert Paul Elliott was a Labor member of the Australian House of Representatives from 1990 to 1996, representing the division of Parramatta.
+2. Robert Paul Elliott was born in Ballina, New South Wales and earned a Bachelor of Arts and an MLitt at the University of New England.
+3. Robert Paul Elliott worked as a lecturer at the University of Western Sydney, a public servant, and an electoral officer to Labor MP John Brown .
+4. Robert Paul Elliott was elected as an alderman on Parramatta City Council in 1977 and was mayor from 1984 to 1986.
+5. Following the retirement of Labor MP John Brown , Robert Paul Elliott was elected to federal parliament at the 1990 election.
+6. Robert Paul Elliott was appointed Parliamentary Secretary to the Treasurer in the Keating government in December 1993.
+7. In June 1994, Robert Paul Elliott became Parliamentary Secretary to the Minister for Communications and the Arts and Parliamentary Secretary to the Minister for Tourism as well.
+8. Robert Paul Elliott was defeated at the 1996 election.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.75 0.0 0.3333333333333333 0.75 -1 1.0 0.5 
+
+Value for ground truth is : 
+-1 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

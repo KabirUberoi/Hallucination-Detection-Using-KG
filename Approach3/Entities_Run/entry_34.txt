@@ -1,0 +1,145 @@
+#############SENTENCE_PAIRS############
+
+Blood Divine and The Blood Divine and the value is : 1
+Blood Divine and Jesus Christ and the value is : 1
+Blood Divine and Jesus Christ and the value is : 1
+blood and Jesus Christ and the value is : 1
+blood and Christian and the value is : 1
+blood and Jesus Christ and the value is : 1
+Blood Divine and The Blood Divine and the value is : 1
+Blood Divine and Latin and the value is : 0
+concept and Jesus Christ and the value is : 1
+concept and Eucharist and the value is : 1
+concept and Jesus Christ and the value is : 1
+blood and Jesus Christ and the value is : 1
+blood and Church and the value is : 1
+blood and Jesus Christ and the value is : 1
+
+#############GROUND_PAIRS############
+
+Blood Divine and The Blood Divine and the value is : 1
+Blood Divine and British and the value is : 0
+Blood Divine and the summer of 1995 and the value is : 0
+Blood Divine and Paul and the value is : 0
+Blood Divine and Benjamin Ryan and the value is : 1
+Blood Divine and Cradle of Filth and the value is : 1
+Blood Divine and the "V Empire and the value is : 0
+Blood Divine and Dark Faerytales and the value is : 1
+Blood Divine and The Blood Divine and the value is : 1
+Blood Divine and William A. " and the value is : 0
+Blood Divine and Steve Maloney and the value is : 0
+Blood Divine debut album and Awaken and the value is : 0
+Blood Divine debut album and early 1996 and the value is : 0
+Blood Divine debut album and later that year and the value is : 0
+Blood Divine and the end of 1996 and the value is : 0
+Blood Divine and The Blood Divine and the value is : 1
+Blood Divine and Europe and the value is : 0
+Blood Divine and Cathedral and the value is : 0
+Blood Divine and My Dying Bride and the value is : 0
+Blood Divine and the early summer of 1997 and the value is : 0
+Blood Divine and The Blood Divine and the value is : 1
+Blood Divine and second and the value is : 0
+Blood Divine and Mystica and the value is : 1
+Blood Divine and The Blood Divine and the value is : 1
+Blood Divine and Cradle of Filth and the value is : 1
+album and second and the value is : 0
+album and Mystica and the value is : 1
+album and later that year and the value is : 0
+album and second and the value is : 0
+album and Mystica and the value is : 1
+Blood Divine and The Blood Divine and the value is : 1
+Blood Divine and five and the value is : 0
+Blood Divine and UK and the value is : 0
+Blood Divine and Orange Goblin and the value is : 0
+Blood Divine and Holland and the value is : 0
+Blood Divine and the beginning of 1998 and the value is : 0
+Blood Divine and The Blood Divine and the value is : 1
+Blood Divine and The Blood Divine and the value is : 1
+Blood Divine and Benjamin Ryan and the value is : 1
+Blood Divine and The Blood Divine and the value is : 1
+Blood Divine and April 1998 and the value is : 0
+Blood Divine and Benjamin Ryan and the value is : 1
+Blood Divine and The Blood Divine and the value is : 1
+Peaceville Records and 2002 and the value is : 0
+Peaceville Records and Rise Pantheon Dreams and the value is : 0
+tracklist and Awaken and the value is : 0
+tracklist and Mystica and the value is : 0
+tracklist and two and the value is : 0
+tracklist and Forever Belongs and the value is : 0
+tracklist and Aureole and the value is : 0
+tracklist and Crazy Horses and the value is : 0
+Paul Allender and Cradle of Filth and the value is : 1
+Sarginson and Cradle of Filth before Cradle of Filth and the value is : 1
+Sarginson and Swedish and the value is : 0
+Sarginson and Adrian Erlandsson and the value is : 1
+Sarginson and Martin Škaroupka and the value is : 1
+Darren White and 2004 and the value is : 0
+Darren White and Serotonal and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+The Blood Divine is a term used to refer to the blood of Jesus Christ, which is believed to have been shed for the remission of sins.
+It is a central part of Christian theology, and is seen as a symbol of the sacrificial death of Jesus and the atonement of sins.
+The term is derived from the Latin sanguis divinus, which literally translates to "divine blood".
+The concept of the Blood Divine is closely related to the concept of the Eucharist, which is the ritual of consuming bread and wine in remembrance of Jesus' death.
+The Blood Divine is also seen as a symbol of the unity of the Church, as it is believed to be shared by all believers.
+
+
+Coref Resolved: 
+
+0. The Blood Divine is a term used to refer to the blood of Jesus Christ, which is believed to have been shed for the remission of sins Jesus Christ .
+1. the blood of Jesus Christ, which is believed to have been shed for the remission of sins is a central part of Christian theology, and is seen as a symbol of the sacrificial death of Jesus Christ and the atonement of sins.
+2. The Blood Divine is derived from the Latin sanguis divinus, which literally translates to "divine blood".
+3. The concept of the blood of Jesus Christ, which is believed to have been shed for the remission of sins is closely related to the concept of the Eucharist, which is the ritual of consuming bread and wine in remembrance of Jesus Christ death.
+4. the blood of Jesus Christ, which is believed to have been shed for the remission of sins is also seen as a symbol of the unity of the Church, as the blood of Jesus Christ, which is believed to have been shed for the remission of sins is believed to be shared by all believers.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+The Blood Divine was a British gothic metal band, founded in the summer of 1995 by Paul Allender, brothers Paul and Benjamin Ryan, after the three left Cradle of Filth during the recording of the "V Empire (or Dark Faerytales in Phallustein)" EP and ousted Anathema singer Darren White.
+They recruited drummer William A. "W.A.S." Sarginson and bassist Steve Maloney and were quickly signed up by Peaceville Records.
+Their debut album "Awaken" was recorded in early 1996 and released through Peaceville Records later that year.
+At the end of 1996, they toured throughout Europe with Cathedral and label mates My Dying Bride.
+In the early summer of 1997, they recorded their second album, "Mystica", and guitarist Paul Allender left the band to spend more time with his family (however, he eventually rejoined Cradle of Filth).
+Mystica was released later that year, again through Peaceville Records.
+The album had less of a goth sound and more of a classic rock-influenced progressive sound.
+The band continued and toured as a five-piece, touring the UK with Orange Goblin supporting and then a short tour of Holland at the beginning of 1998.
+The band were looking to develop their sound and keyboard player Benjamin Ryan was told to leave the band in April 1998.
+However, this dismayed Paul Ryan, and shortly afterwards the band split up.
+In 2002, Peaceville released the Blood Divine compilation album "Rise Pantheon Dreams".
+The tracklist included songs from both "Awaken" and "Mystica", as well as two previously-unreleased tracks ("Revolt" and "Forever Belongs"), a live version of "Aureole", and a live cover of The Osmonds' "Crazy Horses".
+Allender later rejoined Cradle of Filth.
+Sarginson briefly joined Cradle of Filth before the band settled in with Swedish drummer Adrian Erlandsson, who was later replaced by Martin Škaroupka.
+In 2004, Darren White formed a new band, Serotonal. 
+
+Coref Resolved: 
+
+0. The Blood Divine was a British gothic metal band, founded in the summer of 1995 by Paul Allender , after Paul Allender, brothers Paul and Benjamin Ryan left Cradle of Filth during the recording of the "V Empire (or Dark Faerytales in Phallustein)" EP and ousted Anathema singer Darren White.
+1. The Blood Divine recruited drummer William A. "W.A.S." Sarginson and bassist Steve Maloney and were quickly signed up by Peaceville Records .
+2. The Blood Divine debut album "Awaken" was recorded in early 1996 and released through Peaceville Records later that year.
+3. At the end of 1996 , The Blood Divine toured throughout Europe with Cathedral and label mates My Dying Bride.
+4. In the early summer of 1997, The Blood Divine recorded their second album, "Mystica" , and Paul Allender left The Blood Divine to spend more time with Paul Allender family (however, Paul Allender eventually rejoined Cradle of Filth ).
+5. their second album, "Mystica" was released later that year, again through Peaceville Records .
+6. their second album, "Mystica" had less of a goth sound and more of a classic rock-influenced progressive sound.
+7. The Blood Divine continued and toured as a five-piece, touring the UK with Orange Goblin supporting and then a short tour of Holland at the beginning of 1998 .
+8. The Blood Divine were looking to develop The Blood Divine sound and keyboard player Benjamin Ryan was told to leave The Blood Divine in April 1998 .
+9. However, leave dismayed keyboard player Benjamin Ryan , and shortly afterwards The Blood Divine split up.
+10. In 2002, Peaceville Records released the The Blood Divine compilation album "Rise Pantheon Dreams".
+11. The tracklist included songs from both "Awaken" and "Mystica", as well as two previously-unreleased tracks ("Revolt" and "Forever Belongs"), a live version of "Aureole", and a live cover of The Osmonds' "Crazy Horses".
+12. Paul Allender later rejoined Cradle of Filth .
+13. Sarginson briefly joined Cradle of Filth before Cradle of Filth settled in with Swedish drummer Adrian Erlandsson, who was later replaced by Martin Škaroupka.
+14. In 2004, Darren White formed a new band, Serotonal.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 1.0 0.5 1.0 1.0 
+
+Value for ground truth is : 
+0.5 0.3333333333333333 0.0 0.2 0.6666666666666666 0.3333333333333333 0.5 0.16666666666666666 0.8 1.0 0.0 0.0 1.0 0.75 0.5 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

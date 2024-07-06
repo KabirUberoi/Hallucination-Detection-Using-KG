@@ -1,0 +1,213 @@
+#############SENTENCE_PAIRS############
+
+Rick Mahler and Richard Alan Mahler and the value is : 1
+Rick Mahler and April 18, 1957 and the value is : 0
+Rick Mahler and Atlanta and the value is : 0
+Rick Mahler and Georgia and the value is : 0
+Rick Mahler and American and the value is : 0
+Rick Mahler and the Atlanta Braves and the value is : 1
+Rick Mahler and Cincinnati Reds and the value is : 1
+Rick Mahler and Montreal Expos and the value is : 1
+Rick Mahler and Minnesota Twins and the value is : 1
+Rick Mahler and Major League Baseball and the value is : 1
+Rick Mahler and MLB and the value is : 1
+Rick Mahler and 1978 to 1990 and the value is : 0
+He and two and the value is : 0
+He and the National League and the value is : 1
+He and NL and the value is : 0
+He and 1990 and the value is : 0
+He and 1985 and the value is : 0
+Rick Mahler and Atlanta Braves and the value is : 1
+Rick Mahler and first and the value is : 0
+Rick Mahler and 1975 and the value is : 0
+Rick Mahler and Atlanta Braves and the value is : 1
+Rick Mahler and 1978 and the value is : 0
+Rick Mahler and Atlanta Braves and the value is : 1
+Rick Mahler and the next five seasons and the value is : 0
+Rick Mahler and 1983 and the value is : 0
+Rick Mahler and 1985 and the value is : 0
+Rick Mahler and the National League and the value is : 1
+Rick Mahler and NL and the value is : 0
+Rick Mahler and Major League Baseball and the value is : 1
+Rick Mahler and MLB and the value is : 1
+Rick Mahler and 1978 to 1990 and the value is : 0
+He and two and the value is : 0
+He and the National League and the value is : 1
+He and NL and the value is : 0
+He and 1985 and the value is : 0
+He and 2.87 and the value is : 0
+Rick Mahler and Cincinnati Reds and the value is : 1
+Rick Mahler and 1984 and the value is : 0
+Rick Mahler and Montreal Expos and the value is : 1
+Rick Mahler and 1986 and the value is : 0
+Rick Mahler and Minnesota Twins and the value is : 1
+Rick Mahler and 1989 and the value is : 0
+Rick Mahler and Minnesota Twins and the value is : 1
+Rick Mahler and 1990 and the value is : 0
+Rick Mahler and over 200 and the value is : 0
+Rick Mahler and six consecutive seasons and the value is : 0
+Rick Mahler and 1983 to 1988 and the value is : 0
+Rick Mahler and 119 121 and the value is : 0
+Rick Mahler and 3.90 and the value is : 0
+Rick Mahler and 1,07 and the value is : 0
+
+#############GROUND_PAIRS############
+
+Richard Keith Mahler and August 5, 1953 and the value is : 0
+Richard Keith Mahler and Texas and the value is : 1
+Richard Keith Mahler and Texas and the value is : 1
+Richard Keith Mahler and March 2, 2005 and the value is : 0
+Richard Keith Mahler and Jupiter and the value is : 1
+Richard Keith Mahler and Florida and the value is : 1
+Richard Keith Mahler and Major League Baseball and the value is : 1
+Richard Keith Mahler and the Atlanta Braves and the value is : 1
+Richard Keith Mahler and 1979 -1988, 1991 and the value is : 0
+Richard Keith Mahler and Cincinnati Reds and the value is : 1
+Richard Keith Mahler and 1989-1990 and the value is : 1
+Richard Keith Mahler and Montreal Expos and the value is : 1
+Richard Keith Mahler and 1991 and the value is : 0
+Richard Keith Mahler brother Mickey and Mickey and the value is : 1
+Richard Keith Mahler brother Mickey and Major League Baseball and the value is : 1
+Richard Keith Mahler brother Mickey and 1979 and the value is : 0
+two and the Triple-A Richmond Braves and the value is : 1
+Richard Keith Mahler and Richard Keith and the value is : 0
+Richard Keith Mahler and 13-year and the value is : 0
+Richard Keith Mahler and 96 and the value is : 0
+Richard Keith Mahler and 952 and the value is : 0
+Richard Keith Mahler and 3.99 and the value is : 0
+Richard Keith Mahler and 1951.1 and the value is : 0
+Austin and Texas and the value is : 1
+Austin and John Jay High School and the value is : 1
+Austin and Trinity University and the value is : 1
+Austin and San Antonio and the value is : 1
+Austin and Texas and the value is : 1
+Richard Keith Mahler and Atlanta Braves and the value is : 1
+Richard Keith Mahler and 1975 and the value is : 0
+Richard Keith Mahler and the 1979 season and the value is : 1
+Richard Keith Mahler and Opening Day and the value is : 0
+Richard Keith Mahler and Atlanta Braves and the value is : 1
+Richard Keith Mahler and 1982 and the value is : 0
+Richard Keith Mahler and Atlanta Braves and the value is : 1
+Richard Keith Mahler and National League West and the value is : 1
+Richard Keith Mahler and four and the value is : 0
+Richard Keith Mahler and Opening Day and the value is : 0
+Richard Keith Mahler and 1985 and the value is : 0
+Richard Keith Mahler and 1987 and the value is : 0
+Richard Keith Mahler and NL and the value is : 0
+season and 1985 and the value is : 0
+season and 17-15 and the value is : 0
+season and 3.48 and the value is : 0
+Richard Keith Mahler and Atlanta Braves and the value is : 1
+Richard Keith Mahler and 1982 and the value is : 0
+Richard Keith Mahler and 1990 and the value is : 0
+Richard Keith Mahler and World Series and the value is : 1
+Richard Keith Mahler and Cincinnati Reds and the value is : 1
+Richard Keith Mahler and 1990 and the value is : 0
+Richard Keith Mahler and World Series and the value is : 1
+Richard Keith Mahler and Cincinnati Reds and the value is : 1
+Richard Keith Mahler and 7-6 and the value is : 0
+Richard Keith Mahler and four and the value is : 0
+Richard Keith Mahler and ten and the value is : 0
+Richard Keith Mahler and the Montreal Expos and the value is : 1
+Richard Keith Mahler and 1991 and the value is : 0
+Richard Keith Mahler and Atlanta Braves and the value is : 1
+Richard Keith Mahler and mid-season and the value is : 0
+Richard Keith Mahler and the Kansas City Royals and the value is : 1
+Richard Keith Mahler and the Florida Marlins and the value is : 1
+Richard Keith Mahler and the St. Louis Cardinals and the value is : 1
+Richard Keith Mahler and the St. Louis Cardinals Double-A and the value is : 1
+Richard Keith Mahler and the Texas League and the value is : 1
+Richard Keith Mahler and 1996 to 1997 and the value is : 0
+Richard Keith Mahler and age 51 and the value is : 0
+Richard Keith Mahler and Jupiter and the value is : 1
+Richard Keith Mahler and Florida and the value is : 1
+Richard Keith Mahler and second season and the value is : 0
+Richard Keith Mahler and the New York Mets and the value is : 1
+Richard Keith Mahler and Sheryl and the value is : 0
+Richard Keith Mahler and five and the value is : 0
+Richard Keith Mahler and Ricky and the value is : 0
+Richard Keith Mahler and Robby and the value is : 0
+Richard Keith Mahler and Timothy and the value is : 0
+Richard Keith Mahler and Tyler and the value is : 1
+Richard Keith Mahler and Shannon and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Rick Mahler (born Richard Alan Mahler on April 18, 1957 in Atlanta, Georgia) was an American professional baseball pitcher who played for the Atlanta Braves, Cincinnati Reds, Montreal Expos, and Minnesota Twins of Major League Baseball (MLB) from 1978 to 1990.
+He was a two-time All-Star and won the National League (NL) ERA title in 1985.
+Mahler was drafted by the Braves in the first round of the 1975 amateur draft.
+He made his major league debut with the Braves in 1978, and was a member of the team's starting rotation for the next five seasons.
+He was an All-Star in 1983 and 1985, and won the NL ERA title in 1985 with a 2.87 ERA.
+He was traded to the Reds in 1984, and then to the Expos in 1986.
+He was traded to the Twins in 1989, and finished his career with them in 1990.
+Mahler was known for his durability, as he pitched over 200 innings in six consecutive seasons from 1983 to 1988.
+He finished his career with a record of 119 121, a 3.90 ERA, and 1,07.
+
+
+Coref Resolved: 
+
+0. Rick Mahler (born Richard Alan Mahler on April 18, 1957 in Atlanta, Georgia) was an American professional baseball pitcher who played for the Atlanta Braves , Cincinnati Reds , Montreal Expos , and Minnesota Twins of Major League Baseball (MLB) from 1978 to 1990.
+1. He was a two-time All-Star and won the National League (NL) 1990 in 1985 .
+2. Rick Mahler was drafted by Atlanta Braves in the first round of the 1975 amateur draft.
+3. Rick Mahler made Rick Mahler major league debut with Atlanta Braves in 1978 , and was a member of Atlanta Braves starting rotation for the next five seasons.
+4. Rick Mahler was an All-Star in 1983 and 1985 , and won the National League (NL) ERA title Major League Baseball (MLB) from 1978 to 1990.
+5. He was a two-time All-Star and won the National League (NL) in 1985 with a 2.87 ERA.
+6. Rick Mahler was traded to Cincinnati Reds in 1984, and then to Montreal Expos in 1986.
+7. Rick Mahler was traded to Minnesota Twins in 1989, and finished his career with Minnesota Twins in 1990 .
+8. Rick Mahler was known for Rick Mahler durability, as Rick Mahler pitched over 200 innings in six consecutive seasons from 1983 to 1988.
+9. Rick Mahler finished his career with a record of 119 121, a 3.90 ERA, and 1,07.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Richard Keith Mahler (August 5, 1953 in Austin, Texas - March 2, 2005 in Jupiter, Florida) was a starting pitcher in Major League Baseball who played for the Atlanta Braves (1979-1988, 1991), Cincinnati Reds (1989-1990) and Montreal Expos (1991).
+His brother Mickey was also a Major League pitcher, with the two being teammates in 1979.
+The two had previously been teammates playing for the Triple-A Richmond Braves.
+In his 13-year career, Mahler posted a 96-111 record with 952 strikeouts and a 3.99 ERA in 1951.1 innings.
+Born in Austin, Texas, Mahler graduated from John Jay High School and then attended Trinity University, both in San Antonio, Texas.
+After being signed by the Braves as an amateur free agent in 1975, he made his debut in the 1979 season.
+Mahler started on Opening Day for the Braves in 1982, when Atlanta won the National League West title.
+He made four straight Opening Day starts beginning in 1985.
+In 1987, he tied an NL record with his third Opening Day shutout.
+His best season came in 1985, when he went 17-15 with a 3.48 ERA.
+He pitched twice in the postseason, with the Braves in 1982, and with the 1990 World Series champion Cincinnati Reds.
+Mahler was a key member of that Reds' pitching staff as a spot starter and reliever, going 7-6 and contributing four saves.
+He also appeared in ten games with the Montreal Expos in 1991 before returning to Atlanta in mid-season.
+After retiring, Mahler served as a minor league pitching coach for the Kansas City Royals and the Florida Marlins, and he was a roving instructor for the St. Louis Cardinals.
+He also managed St. Louis' Double-A affiliate in the Texas League from 1996 to 1997.
+Mahler died at age 51 of a heart attack at home in Jupiter, Florida, where he was preparing for his second season as a minor league pitching coach for the New York Mets.
+He was survived by his wife, Sheryl, and five children Ricky, Robby, Timothy, Tyler and Shannon. 
+
+Coref Resolved: 
+
+0. Richard Keith Mahler (August 5, 1953 in Austin, Texas Texas - March 2, 2005 in Jupiter, Florida ) was a starting pitcher in Major League Baseball who played for the Atlanta Braves (1979 -1988, 1991), Cincinnati Reds (1989-1990) and Montreal Expos (1991).
+1. Richard Keith Mahler brother Mickey was also a Major League Baseball pitcher, with the two being teammates in 1979 .
+2. the two had previously been teammates playing for the Triple-A Richmond Braves.
+3. In Richard Keith Mahler 13-year career, Richard Keith Mahler posted a 96-111 record with 952 strikeouts and a 3.99 ERA in 1951.1 innings.
+4. Born in Austin, Texas , Richard Keith Mahler graduated from John Jay High School and then attended Trinity University, both in San Antonio, Texas .
+5. After being signed by Atlanta Braves as an amateur free agent in 1975, Richard Keith Mahler made Richard Keith Mahler debut in the 1979 season.
+6. Richard Keith Mahler started on Opening Day for Atlanta Braves in 1982, when Atlanta Braves won the National League West title.
+7. Richard Keith Mahler made four straight Opening Day starts beginning in 1985 .
+8. In 1987, Richard Keith Mahler tied an NL record with Richard Keith Mahler third Opening Day shutout.
+9. Richard Keith Mahler best season came in 1985 , when Richard Keith Mahler went 17-15 with a 3.48 ERA.
+10. Richard Keith Mahler pitched twice in the postseason, with Atlanta Braves in 1982, and with the 1990 World Series champion Cincinnati Reds .
+11. Richard Keith Mahler was a key member of the 1990 World Series champion Cincinnati Reds pitching staff as a spot starter and reliever, going 7-6 and contributing four saves.
+12. Richard Keith Mahler also appeared in ten games with the Montreal Expos in 1991 before returning to Atlanta Braves in mid-season.
+13. After retiring, Richard Keith Mahler served as a minor league pitching coach for the Kansas City Royals and the Florida Marlins, and Richard Keith Mahler was a roving instructor for the St. Louis Cardinals .
+14. Richard Keith Mahler also managed the St. Louis Cardinals Double-A affiliate in the Texas League from 1996 to 1997.
+15. Richard Keith Mahler died at age 51 of a heart attack at home in Jupiter, Florida , where Richard Keith Mahler was preparing for Richard Keith Mahler second season as a minor league pitching coach for the New York Mets.
+16. Richard Keith Mahler was survived by Richard Keith Mahler wife, Sheryl, and five children Ricky, Robby, Timothy, Tyler and Shannon.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5833333333333334 0.2 0.3333333333333333 0.5 0.42857142857142855 0.2 0.5 0.5 0.0 0.0 
+
+Value for ground truth is : 
+0.6923076923076923 0.6666666666666666 1.0 0.0 1.0 0.6666666666666666 0.6 0.0 0.0 0.0 0.6 0.4 0.4 1.0 0.6666666666666666 0.6 0.14285714285714285 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

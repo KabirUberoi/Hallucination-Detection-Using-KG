@@ -1,0 +1,373 @@
+Entities in each sentence: [['Richard Keith Mahler: Richard Keith Mahler', '(August: Richard Keith Mahler', 'Austin: Richard Keith Mahler', 'Jupiter: Richard Keith Mahler', 'Florida: Richard Keith Mahler', 'a starting pitcher: Richard Keith Mahler', 'Major League Baseball: Richard Keith Mahler', 'who: Richard Keith Mahler', 'the Atlanta Braves: Richard Keith Mahler', '1979 -1988: Richard Keith Mahler', ', Cincinnati Reds: Richard Keith Mahler', 'Montreal Expos: Richard Keith Mahler'], ['Richard Keith Mahler brother Mickey: Richard Keith Mahler brother Mickey', 'a Major League Baseball pitcher: Richard Keith Mahler brother Mickey', 'the two being teammates: Richard Keith Mahler brother Mickey'], ['teammates: two', 'the Triple-A Richmond Braves: two'], ['Richard Keith Mahler 13-year career: Richard Keith Mahler', 'Richard Keith Mahler: Richard Keith Mahler', 'a 96-111 record: Richard Keith Mahler', '952 strikeouts: Richard Keith Mahler', 'a 3.99 ERA: Richard Keith Mahler', '1951.1 innings: Richard Keith Mahler'], ['Austin: Austin', 'Texas Texas: Austin', 'Richard Keith Mahler: Austin', 'John Jay High School: Austin', 'Trinity University: Austin', 'San Antonio: Austin', 'Texas: Austin'], ['Atlanta Braves: Richard Keith Mahler', 'an amateur free agent: Richard Keith Mahler', 'Richard Keith Mahler: Richard Keith Mahler', 'Richard Keith Mahler debut: Richard Keith Mahler', 'the 1979 season: Richard Keith Mahler'], ['Richard Keith Mahler: Richard Keith Mahler', 'Opening Day: Richard Keith Mahler', 'Atlanta Braves: Richard Keith Mahler', 'Atlanta Braves: Richard Keith Mahler', 'the National League West title: Richard Keith Mahler'], ['Richard Keith Mahler: Richard Keith Mahler', 'four straight Opening Day starts: Richard Keith Mahler'], ['Richard Keith Mahler: Richard Keith Mahler', 'an NL record: Richard Keith Mahler', 'Richard Keith Mahler third Opening Day shutout: Richard Keith Mahler'], ['Richard Keith Mahler best season: season', 'Richard Keith Mahler: season', 'a 3.48 ERA: season'], ['Richard Keith Mahler: Richard Keith Mahler', 'the postseason: Richard Keith Mahler', 'Atlanta Braves: Richard Keith Mahler', 'the 1990 World Series champion: Richard Keith Mahler', 'Cincinnati Reds: Richard Keith Mahler'], ['Richard Keith Mahler: Richard Keith Mahler', 'a key member: Richard Keith Mahler', 'Cincinnati Reds: Richard Keith Mahler', 'a spot starter: Richard Keith Mahler', 'reliever: Richard Keith Mahler', 'four saves: Richard Keith Mahler'], ['Richard Keith Mahler: Richard Keith Mahler', 'ten games: Richard Keith Mahler', 'the Montreal Expos: Richard Keith Mahler', 'Atlanta Braves: Richard Keith Mahler', 'mid: Richard Keith Mahler', '-: Richard Keith Mahler', 'season: Richard Keith Mahler'], ['Richard Keith Mahler: Richard Keith Mahler', 'a minor league pitching coach: Richard Keith Mahler', 'the Kansas City Royals: Richard Keith Mahler', 'the Florida Marlins: Richard Keith Mahler', 'Richard Keith Mahler: Richard Keith Mahler', 'a roving instructor: Richard Keith Mahler', 'the St. Louis Cardinals: Richard Keith Mahler'], ['Richard Keith Mahler: Richard Keith Mahler', 'the St. Louis Cardinals Double-A affiliate: Richard Keith Mahler', 'the Texas League: Richard Keith Mahler'], ['Richard Keith Mahler: Richard Keith Mahler', 'age: Richard Keith Mahler', 'a heart attack: Richard Keith Mahler', 'home: Richard Keith Mahler', 'Jupiter: Richard Keith Mahler', 'Florida: Richard Keith Mahler', 'Richard Keith Mahler: Richard Keith Mahler', 'Richard Keith Mahler second season: Richard Keith Mahler', 'a minor league pitching coach: Richard Keith Mahler', 'the New York Mets: Richard Keith Mahler'], ['Richard Keith Mahler: Richard Keith Mahler', 'Richard Keith Mahler wife: Richard Keith Mahler', 'Sheryl: Richard Keith Mahler', 'five children: Richard Keith Mahler', 'Ricky: Richard Keith Mahler', 'Robby: Richard Keith Mahler', 'Timothy: Richard Keith Mahler', 'Tyler: Richard Keith Mahler', 'Shannon: Richard Keith Mahler']]
+{'season', 'two', 'Richard Keith Mahler brother Mickey', 'Richard Keith Mahler', 'Austin'}
+
+Entity: (August: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.495744526386261
+
+ 
+Entity: a Major League Baseball pitcher: Richard Keith Mahler brother Mickey
+Most Similar: Mickey Mahler 
+ Score: 0.6721137762069702
+
+ 
+Entity: Richard Keith Mahler 13-year career: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5724079608917236
+
+ 
+Entity: Texas Texas: Austin
+Most Similar: Austin, Texas 
+ Score: 0.8906244039535522
+
+ 
+Entity: Opening Day: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.6106560826301575
+
+ 
+Entity: four straight Opening Day starts: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.535427451133728
+
+ 
+Entity: Atlanta Braves: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.6306061744689941
+
+ 
+Entity: ten games: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5661508440971375
+
+ 
+Entity: a key member: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.4266360402107239
+
+ 
+Entity: the postseason: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.6078737378120422
+
+ 
+Entity: a minor league pitching coach: Richard Keith Mahler
+Most Similar: Coach (baseball) 
+ Score: 0.7008466124534607
+
+ 
+Entity: Richard Keith Mahler best season: season
+Most Similar: Mickey Mahler 
+ Score: 0.4590948224067688
+
+ 
+Entity: the St. Louis Cardinals Double-A affiliate: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.6139818429946899
+
+ 
+Entity: Richard Keith Mahler wife: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.449259877204895
+
+ 
+Entity: teammates: two
+Most Similar: Major Arena Soccer League 2 
+ Score: 0.38282787799835205
+
+ 
+Entity: age: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.49649494886398315
+
+ 
+Entity: an NL record: Richard Keith Mahler
+Most Similar: Stan Williams (baseball) 
+ Score: 0.5134038925170898
+
+ 
+Entity: Jupiter: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5050395727157593
+
+ 
+Entity: the two being teammates: Richard Keith Mahler brother Mickey
+Most Similar: Mickey Mahler 
+ Score: 0.6505749225616455
+
+ 
+Entity: a 96-111 record: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.4992695450782776
+
+ 
+Entity: John Jay High School: Austin
+Most Similar: John Jay High School (San Antonio) 
+ Score: 0.8828058242797852
+
+ 
+Entity: Cincinnati Reds: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.6469009518623352
+
+ 
+Entity: the Kansas City Royals: Richard Keith Mahler
+Most Similar: Kansas City Royals 
+ Score: 0.6227028369903564
+
+ 
+Entity: Atlanta Braves: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.6306061744689941
+
+ 
+Entity: an amateur free agent: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5066227912902832
+
+ 
+Entity: Atlanta Braves: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.6306061744689941
+
+ 
+Entity: Sheryl: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.4686124920845032
+
+ 
+Entity: a 3.48 ERA: season
+Most Similar: Starting pitcher 
+ Score: 0.5570521950721741
+
+ 
+Entity: the Texas League: Richard Keith Mahler
+Most Similar: Texas League 
+ Score: 0.6751047968864441
+
+ 
+Entity: the Montreal Expos: Richard Keith Mahler
+Most Similar: Montreal Expos 
+ Score: 0.6320316791534424
+
+ 
+Entity: the Triple-A Richmond Braves: two
+Most Similar: Little Rock Rangers 
+ Score: 0.5443706512451172
+
+ 
+Entity: Richard Keith Mahler third Opening Day shutout: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5477238893508911
+
+ 
+Entity: a heart attack: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5052840709686279
+
+ 
+Entity: Florida: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5681582093238831
+
+ 
+Entity: Trinity University: Austin
+Most Similar: Trinity University (Texas) 
+ Score: 0.8969897031784058
+
+ 
+Entity: 952 strikeouts: Richard Keith Mahler
+Most Similar: Starting pitcher 
+ Score: 0.5154452323913574
+
+ 
+Entity: the 1990 World Series champion: Richard Keith Mahler
+Most Similar: 1990 World Series 
+ Score: 0.7280278205871582
+
+ 
+Entity: the Florida Marlins: Richard Keith Mahler
+Most Similar: Florida Marlins 
+ Score: 0.6541193723678589
+
+ 
+Entity: a spot starter: Richard Keith Mahler
+Most Similar: Starting pitcher 
+ Score: 0.6346061825752258
+
+ 
+Entity: five children: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5110400915145874
+
+ 
+Entity: Atlanta Braves: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.6306061744689941
+
+ 
+Entity: Richard Keith Mahler debut: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5392528772354126
+
+ 
+Entity: Atlanta Braves: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.6306061744689941
+
+ 
+Entity: home: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5327298045158386
+
+ 
+Entity: a starting pitcher: Richard Keith Mahler
+Most Similar: Starting pitcher 
+ Score: 0.7554048299789429
+
+ 
+Entity: Cincinnati Reds: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.6469009518623352
+
+ 
+Entity: a roving instructor: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.4771687388420105
+
+ 
+Entity: San Antonio: Austin
+Most Similar: Austin, Texas 
+ Score: 0.7260171175003052
+
+ 
+Entity: reliever: Richard Keith Mahler
+Most Similar: Starting pitcher 
+ Score: 0.6827285289764404
+
+ 
+Entity: mid: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.47776123881340027
+
+ 
+Entity: the National League West title: Richard Keith Mahler
+Most Similar: Stan Williams (baseball) 
+ Score: 0.5444775819778442
+
+ 
+Entity: a 3.99 ERA: Richard Keith Mahler
+Most Similar: Greg Maddux 
+ Score: 0.5673648118972778
+
+ 
+Entity: Ricky: Richard Keith Mahler
+Most Similar: Rob Dibble 
+ Score: 0.4759984314441681
+
+ 
+Entity: Jupiter: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5050395727157593
+
+ 
+Entity: the 1979 season: Richard Keith Mahler
+Most Similar: 1979 Major League Baseball season 
+ Score: 0.4917866885662079
+
+ 
+Entity: Texas: Austin
+Most Similar: Austin, Texas 
+ Score: 0.9061813354492188
+
+ 
+Entity: Major League Baseball: Richard Keith Mahler
+Most Similar: Jack Armstrong (baseball) 
+ Score: 0.6262015700340271
+
+ 
+Entity: 1951.1 innings: Richard Keith Mahler
+Most Similar: Jack Armstrong (baseball) 
+ Score: 0.5415961742401123
+
+ 
+Entity: the St. Louis Cardinals: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.6313984990119934
+
+ 
+Entity: -: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.38897520303726196
+
+ 
+Entity: Robby: Richard Keith Mahler
+Most Similar: Charles Radbourn 
+ Score: 0.4732516407966614
+
+ 
+Entity: Florida: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5681582093238831
+
+ 
+Entity: four saves: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5266708731651306
+
+ 
+Entity: who: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5528521537780762
+
+ 
+Entity: Timothy: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.47270625829696655
+
+ 
+Entity: Richard Keith Mahler second season: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.45800697803497314
+
+ 
+Entity: the Atlanta Braves: Richard Keith Mahler
+Most Similar: Paul O'Neill (baseball) 
+ Score: 0.6595041155815125
+
+ 
+Entity: a minor league pitching coach: Richard Keith Mahler
+Most Similar: Coach (baseball) 
+ Score: 0.7008466124534607
+
+ 
+Entity: Tyler: Richard Keith Mahler
+Most Similar: Lefty Tyler 
+ Score: 0.5401624441146851
+
+ 
+Entity: 1979 -1988: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.5242756605148315
+
+ 
+Entity: the New York Mets: Richard Keith Mahler
+Most Similar: Joe Oliver (baseball) 
+ Score: 0.6277928948402405
+
+ 
+Entity: Shannon: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.4651324152946472
+
+ 
+Entity: , Cincinnati Reds: Richard Keith Mahler
+Most Similar: Joe Oliver (baseball) 
+ Score: 0.6739314198493958
+
+ 
+Entity: Montreal Expos: Richard Keith Mahler
+Most Similar: Mickey Mahler 
+ Score: 0.6158134341239929
+
+ 

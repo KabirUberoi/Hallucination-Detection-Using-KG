@@ -1,0 +1,140 @@
+#############SENTENCE_PAIRS############
+
+Robert Holgate and English and the value is : -1
+Robert Holgate and prelate and the value is : -1
+Robert Holgate and Archbishop and the value is : -1
+Robert Holgate and English Reformation and the value is : -1
+Robert Holgate and Protestantism and the value is : -1
+Robert Holgate and England and the value is : -1
+Robert Holgate and England and the value is : -1
+Robert Holgate and Privy Council and the value is : -1
+Robert Holgate and England and the value is : -1
+Robert Holgate and England and the value is : -1
+Robert Holgate and King Henry VIII and the value is : -1
+Robert Holgate and Cambridge and the value is : -1
+Robert Holgate and ordained and the value is : -1
+Robert Holgate and priest and the value is : -1
+Robert Holgate and Llandaff and the value is : -1
+Robert Holgate and Exeter and the value is : -1
+Robert Holgate and Archbishop and the value is : -1
+Robert Holgate and English Reformation and the value is : -1
+Robert Holgate and Protestant and the value is : -1
+Robert Holgate and Protestantism and the value is : -1
+Robert Holgate and England and the value is : -1
+Robert Holgate and England and the value is : -1
+Robert Holgate and Privy Council and the value is : -1
+Robert Holgate and England and the value is : -1
+Robert Holgate and England and the value is : -1
+Robert Holgate and King Henry VIII and the value is : -1
+
+#############GROUND_PAIRS############
+
+Robert Holgate and Llandaff and the value is : 1
+Robert Holgate and Archbishop and the value is : 1
+Robert Holgate and Henry VIII and the value is : 1
+Robert Holgate and England and the value is : 0
+protégé and Thomas Cromwell and the value is : -1
+protégé and Essex and the value is : -1
+protégé and Gilbertine Order and the value is : -1
+Robert Holgate and Gilbertine and the value is : 0
+Malton Priory and Gilbertine and the value is : 0
+Malton Priory and Gilbertine and the value is : 0
+Malton Priory and Sempringham Priory and the value is : 1
+Robert Holgate and Barbara and the value is : 0
+Robert Holgate and Wentworth and the value is : 0
+Arthur Norman and Arthur and the value is : -1
+Arthur Norman and Norman and the value is : -1
+Arthur Norman and Arthur and the value is : -1
+Arthur Norman and Norman and the value is : -1
+Arthur Norman and Barbara and the value is : -1
+Arthur Norman and Wentworth and the value is : -1
+Arthur Norman and Barbara and the value is : -1
+Arthur Norman and Wentworth and the value is : -1
+Holgate and Wentworth and the value is : 0
+Holgate and Mary I and the value is : 1
+Holgate and England and the value is : 0
+Holgate and Mary I and the value is : 1
+Holgate and England and the value is : 0
+Robert Holgate and papist and the value is : 0
+Robert Holgate and Yorkshire and the value is : 0
+Robert Holgate and Cambridge and the value is : 1
+Robert Holgate and Yorkshire and the value is : 0
+Robert Holgate and Yorkshire and the value is : 0
+Robert Holgate and Barbara and the value is : 0
+Robert Holgate and Wentworth and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Robert Holgate (c. 1481 1555) was an English prelate and statesman who served as Archbishop of York from 1545 until his death in 1555.
+He was a leading figure in the English Reformation, and was responsible for introducing Protestantism to the north of England.
+He was also a prominent member of the Privy Council of England, and was involved in the negotiations for the marriage of King Henry VIII to Anne of Cleves.
+Holgate was born in York, the son of a wealthy merchant.
+He was educated at the University of Cambridge, and was ordained a priest in 1510.
+He rose quickly through the ranks of the Church, becoming Bishop of Llandaff in 1523 and Bishop of Exeter in 1525.
+In 1545, he was appointed Archbishop of York, and was one of the most influential figures in the English Reformation.
+He was a strong advocate of the Protestant faith, and was responsible for introducing Protestantism to the north of England.
+He was also a prominent member of the Privy Council of England, and was involved in the negotiations for the marriage of King Henry VIII to Anne of.
+
+
+Coref Resolved: 
+
+0. Robert Holgate (c. 1481 1555) was an English prelate and statesman who served as Archbishop of York from 1545 until Robert Holgate death in 1555.
+1. Robert Holgate was a leading figure in the English Reformation , and was responsible for introducing Protestantism to the north of England England .
+2. Robert Holgate was also a prominent member of the Privy Council of England England , and was involved in the negotiations for the marriage of King Henry VIII to Anne of Cleves.
+3. Robert Holgate was born in York , the son of a wealthy merchant.
+4. Robert Holgate was educated at the University of Cambridge, and was ordained a priest in 1510.
+5. Robert Holgate rose quickly through the ranks of the Church, becoming Bishop of Llandaff in 1523 and Bishop of Exeter in 1525.
+6. In 1545 , Robert Holgate was appointed Archbishop of York , and was one of the most influential figures in the English Reformation .
+7. Robert Holgate was a strong advocate of the Protestant faith, and was responsible for introducing Protestantism to the north of England England .
+8. Robert Holgate was also a prominent member of the Privy Council of England England , and was involved in the negotiations for the marriage of King Henry VIII to Anne of.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Robert Holgate (1481 1482 1555) was Bishop of Llandaff and then Archbishop of York (from 1545 to 1554).
+He recognised Henry VIII as head of the Church of England.
+Although a protégé of Thomas Cromwell, 1st Earl of Essex, Holgate had a career in the Gilbertine Order of which he became Master.
+Most of the Gilbertine houses were lesser establishments which should have been dissolved under the Suppression of Religious Houses Act 1535 (only four out of twenty-six houses had revenues over 200 a year).
+However, Holgate is credited with using his influence to save them for a few years.
+For example, Malton Priory, one of the lesser Gilbertine houses, was the last of them to surrender in December 1539, whereas Sempringham Priory, worth more than 200 a year, surrendered in 1538.
+In 1550 Holgate married Barbara Wentworth, who was about 25 at the time.
+This may, however, have been a second marriage to make it fully legal, and Holgate and Wentworth may have first married in late 1547 with Roger Tongue officiating.
+In 1551 Arthur Norman claimed that he was already married to Barbara Wentworth, but the courts decided that their marriage when she was about seven had not been a binding legal transaction.
+Robert and Barbara remained married until 1553, when shortly after Mary I of England came to the throne she imprisoned Holgate on various charges, with his being a married clergy being central to these.
+In 1554 Holgate renounced his marriage claiming he had only entered it to avoid suspicion as a papist.
+In January 1555 Holgate was released from prison, but he was not restored to priestly office.
+He died later that year.
+In 1558 a Robert Holgate from Yorkshire entered the University of Cambridge.
+He may have been a son of Holgate, since there are some claims he had two children by Barbara, but there is no conclusive evidence on the matter. 
+
+Coref Resolved: 
+
+0. Robert Holgate (1481 1482 1555) was Bishop of Llandaff and then Archbishop of York (from 1545 to 1554).
+1. Robert Holgate (1481 1482 1555) recognised Henry VIII as head of the Church of England.
+2. Although a protégé of Thomas Cromwell, 1st Earl of Essex, Robert Holgate (1481 1482 1555) had a career in the Gilbertine Order of which Robert Holgate (1481 1482 1555) became Master.
+3. Most of the Gilbertine houses were lesser establishments which should have been dissolved under the Suppression of Religious Houses Act 1535 (only four out of twenty-six houses had revenues over 200 a year).
+4. However, Robert Holgate (1481 1482 1555) is credited with using Robert Holgate (1481 1482 1555) influence to save Most of the Gilbertine houses for a few years.
+5. For example, Malton Priory, one of Most of the Gilbertine houses , was the last of Most of the Gilbertine houses to surrender in December 1539, whereas Sempringham Priory, worth more than 200 a year, surrendered in 1538.
+6. In 1550 Robert Holgate (1481 1482 1555) married Barbara Wentworth, who was about 25 at the time .
+7. married may, however, have been a second marriage to make married fully legal, and Holgate and Wentworth may have first married in late 1547 with Roger Tongue officiating.
+8. In 1551 Arthur Norman claimed that Arthur Norman was already married to Barbara Wentworth, who was about 25 at the time , but the courts decided that their marriage when Barbara Wentworth, who was about 25 at the time was about seven had not been a binding legal transaction.
+9. Holgate and Wentworth remained married until 1553, when shortly after Mary I of England came to the throne Mary I of England imprisoned Robert Holgate (1481 1482 1555) on various charges , with Robert Holgate (1481 1482 1555) being a married clergy being central to various charges .
+10. In 1554 Robert Holgate (1481 1482 1555) renounced his marriage claiming Robert Holgate (1481 1482 1555) had only entered his marriage to avoid suspicion as a papist.
+11. In January 1555 Robert Holgate (1481 1482 1555) was released from prison, but Robert Holgate (1481 1482 1555) was not restored to priestly office.
+12. Robert Holgate (1481 1482 1555) died later that year.
+13. In 1558 a Robert Holgate from Yorkshire entered the University of Cambridge.
+14. a Robert Holgate from Yorkshire may have been a son of Robert Holgate (1481 1482 1555) , since there are some claims a Robert Holgate from Yorkshire had two children by Barbara Wentworth, who was about 25 at the time , but there is no conclusive evidence on the matter.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1.0 -1.0 -1.0 -1 -1.0 -1.0 -1.0 -1.0 -1.0 
+
+Value for ground truth is : 
+1.0 0.5 -1.0 -1 0.0 0.3333333333333333 0.0 -1 -1.0 0.4 0.0 -1 -1 0.5 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate major_inaccurate 
+

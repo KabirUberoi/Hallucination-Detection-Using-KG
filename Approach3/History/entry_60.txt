@@ -1,0 +1,134 @@
+#############SENTENCE_PAIRS############
+
+David Kappos and United States and the value is : -1
+David Kappos and USPTO and the value is : -1
+David Kappos and President and the value is : -1
+David Kappos and Barack Obama and the value is : -1
+David Kappos and New York City and the value is : -1
+David Kappos and electrical engineering and the value is : -1
+David Kappos and Rensselaer Polytechnic Institute and the value is : -1
+David Kappos and Juris Doctor and the value is : -1
+David Kappos and Virginia and the value is : -1
+David Kappos and New York and the value is : -1
+David Kappos and intellectual property law and the value is : -1
+David Kappos and Cravath and the value is : -1
+David Kappos and Moore and the value is : -1
+David Kappos and New York City and the value is : -1
+David Kappos and IBM and the value is : -1
+David Kappos and Vice President and the value is : -1
+David Kappos and General and the value is : -1
+David Kappos and IBM and the value is : -1
+David Kappos and patent and the value is : -1
+David Kappos and trademark and the value is : -1
+David Kappos and IBM and the value is : -1
+David Kappos and intellectual property and the value is : -1
+
+#############GROUND_PAIRS############
+
+J. Kappos and Palos Verdes, California and the value is : 1
+J. Kappos and attorney and the value is : 0
+J. Kappos and United States and the value is : 0
+J. Kappos and USPTO and the value is : 1
+J. Kappos and Senate and the value is : 1
+J. Kappos and Palos Verdes, California and the value is : 1
+J. Kappos and Vice President and the value is : 0
+J. Kappos and General and the value is : 0
+J. Kappos and IBM and the value is : 1
+J. Kappos and Palos Verdes, California and the value is : 1
+J. Kappos and Palos Verdes, California and the value is : 1
+J. Kappos and Palos Verdes, California and the value is : 1
+J. Kappos and Teresa Stanek Rea and the value is : 1
+J. Kappos and Palos Verdes, California and the value is : 1
+J. Kappos and Palos Verdes, California and the value is : 1
+J. Kappos and computer engineering and the value is : 0
+J. Kappos and Palos Verdes, California and the value is : 1
+J. Kappos and California and the value is : 1
+J. Kappos and Berkeley and the value is : 1
+J. Kappos and Palos Verdes, California and the value is : 1
+J. Kappos and IBM and the value is : 1
+J. Kappos and Palos Verdes, California and the value is : 1
+J. Kappos and IBM and the value is : 1
+J. Kappos and IBM and the value is : 1
+J. Kappos and IBM and the value is : 1
+J. Kappos and General and the value is : 0
+J. Kappos and IBM and the value is : 1
+J. Kappos and Asia and the value is : 0
+J. Kappos and Pacific and the value is : 0
+J. Kappos and IBM and the value is : 1
+J. Kappos and General and the value is : 0
+J. Kappos and Palos Verdes, California and the value is : 1
+J. Kappos and American Intellectual Property Law Association and the value is : 1
+J. Kappos and Intellectual Property Owners Association and the value is : 1
+J. Kappos and United States and the value is : 0
+J. Kappos and USPTO and the value is : 1
+J. Kappos and Palos Verdes, California and the value is : 1
+J. Kappos and Cravath and the value is : 0
+J. Kappos and Moore and the value is : 0
+J. Kappos and Palos Verdes, California and the value is : 1
+J. Kappos and intellectual property and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+David Kappos (born December 28, 1958) is an American lawyer and former Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (USPTO).
+He was appointed by President Barack Obama on August 7, 2009, and sworn in on August 13, 2009.
+He served until February 2013.
+Kappos was born in 1958 in New York City.
+He received a Bachelor of Science degree in electrical engineering from Rensselaer Polytechnic Institute in 1980 and a Juris Doctor degree from the University of Virginia School of Law in 1983.
+He is a member of the New York Bar.
+Kappos began his career in intellectual property law in 1983 at the law firm of Cravath, Swaine Moore in New York City.
+He joined IBM in 1996 and served as Vice President and Assistant General Counsel for Intellectual Property Law.
+In this role, he was responsible for IBM's worldwide patent, trademark, and copyright operations.
+He was also responsible for IBM's intellectual property litigation, licensing, and strategic IP transactions.
+
+
+Coref Resolved: 
+
+0. David Kappos (born December 28, 1958) is an American lawyer and former Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (USPTO).
+1. David Kappos (born December 28, 1958) was appointed by President Barack Obama on August 7, 2009, and sworn in on August 13, 2009.
+2. David Kappos (born December 28, 1958) served until February 2013.
+3. David Kappos (born December 28, 1958) was born in 1958 in New York City .
+4. David Kappos (born December 28, 1958) received a Bachelor of Science degree in electrical engineering from Rensselaer Polytechnic Institute in 1980 and a Juris Doctor degree from the University of Virginia School of Law in 1983 .
+5. David Kappos (born December 28, 1958) is a member of the New York Bar.
+6. David Kappos (born December 28, 1958) began David Kappos (born December 28, 1958) career in intellectual property law in 1983 at the law firm of Cravath, Swaine Moore in New York City .
+7. David Kappos (born December 28, 1958) joined IBM in 1996 and served as Vice President and Assistant General Counsel for Intellectual Property Law.
+8. In this role, David Kappos (born December 28, 1958) was responsible for IBM worldwide patent, trademark, and copyright operations.
+9. David Kappos (born December 28, 1958) was also responsible for IBM intellectual property litigation, licensing, and strategic IP transactions.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) is an attorney who served as the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (USPTO) from 2009 to 2013.
+Prior to being confirmed to this post by the U.S. Senate on August 7, 2009, Kappos was the Vice President and Assistant General Counsel, Intellectual Property Law, for IBM Corporation.
+Kappos announced his intent to step down from the position in late January 2013.
+His final day in office was Friday, February 1, 2013.
+He was succeeded by Teresa Stanek Rea as Acting Under Secretary and Acting Director.
+Kappos received his bachelor's degree in electrical and computer engineering from the University of California-Davis in 1983, and his law degree from the University of California Berkeley in 1990.
+He joined IBM in 1983 as a development engineer and has served in a variety of roles before taking his last position at IBM, including Intellectual Property Law Attorney in IBM's Storage Division and Litigation Group, IP Law Counsel in IBM's Software Group, Assistant General Counsel for IBM Asia Pacific, IBM Corporate Counsel and Assistant General Counsel.
+Kappos served on the board of directors of the American Intellectual Property Law Association, the Intellectual Property Owners Association, and the International Intellectual Property Society.
+After leaving the PTO, Kappos joined the law firm of Cravath, Swaine Moore, where he advises clients on intellectual property matters relating to corporate mergers and acquisitions and litigation. 
+
+Coref Resolved: 
+
+0. David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) is an attorney who served as the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (USPTO) from 2009 to 2013.
+1. Prior to being confirmed to this post by the U.S. Senate on August 7, 2009, David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) was the Vice President and Assistant General Counsel, Intellectual Property Law, for IBM Corporation .
+2. David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) announced David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) intent to step down from this post in late January 2013.
+3. David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) final day in office was Friday, February 1, 2013.
+4. David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) was succeeded by Teresa Stanek Rea as Acting Under Secretary and Acting Director.
+5. David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) received David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) bachelor's degree in electrical and computer engineering from the University of California-Davis in 1983 , and David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) law degree from the University of California Berkeley in 1990.
+6. David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) joined IBM Corporation in 1983 as a development engineer and has served in a variety of roles before taking David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) last position at IBM Corporation , including Intellectual Property Law Attorney in IBM Corporation Storage Division and Litigation Group, IP Law Counsel in IBM Corporation Software Group, Assistant General Counsel for IBM Asia Pacific, IBM Corporation Corporate Counsel and Assistant General Counsel.
+7. David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) served on the board of directors of the American Intellectual Property Law Association, the Intellectual Property Owners Association, and the International Intellectual Property Society.
+8. After leaving the United States Patent and Trademark Office (USPTO) , David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) joined the law firm of Cravath, Swaine Moore, where David "Dave" J. Kappos (born March 3, 1961, Palos Verdes, California) advises clients on intellectual property matters relating to corporate mergers and acquisitions and litigation.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1.0 -1.0 -1 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 
+
+Value for ground truth is : 
+0.5 0.6 1.0 -1 1.0 0.8333333333333334 0.6666666666666666 1.0 0.5714285714285714 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate major_inaccurate major_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate minor_inaccurate 
+

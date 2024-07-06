@@ -1,0 +1,120 @@
+#############SENTENCE_PAIRS############
+
+Honoré III and Prince and the value is : 1
+Honoré III and Monaco and the value is : 1
+Honoré III and Paris and the value is : 0
+Honoré III and Jacques I and the value is : 1
+Honoré III and Prince and the value is : 1
+Honoré III and Monaco and the value is : 1
+Honoré III and Jacques I and the value is : 1
+Honoré III and Prince and the value is : 1
+Honoré III and Monaco and the value is : 1
+Honoré III and Louise Hippolyte Grimaldi and the value is : 1
+Honoré III and Jacques I and the value is : 1
+Honoré III and Prince and the value is : 1
+Honoré III and Monaco and the value is : 1
+Honoré III and Prince and the value is : 1
+Honoré III and Monaco and the value is : 1
+Honoré III and Jacques I and the value is : 1
+Honoré III and Prince and the value is : 1
+Honoré III and Monaco and the value is : 1
+Honoré III and Monaco and the value is : 1
+Honoré III and library and the value is : 0
+Honoré III and Monaco and the value is : 1
+Honoré III and scientific society and the value is : 0
+Honoré III and Monaco and the value is : 1
+Honoré III and Monaco and the value is : 1
+Honoré III and opera and the value is : 0
+Honoré III and Monaco and the value is : 1
+Honoré III and Monaco and the value is : 1
+Honoré III and Monaco and the value is : 1
+Honoré III and public school and the value is : 0
+Honoré III and Monaco and the value is : 1
+
+#############GROUND_PAIRS############
+
+Honoré III and Prince and the value is : -1
+Honoré III and Monaco and the value is : -1
+Honoré III and Duke and the value is : -1
+Honoré III and Valentinois and the value is : -1
+Honoré III and Jacques I and the value is : -1
+Honoré III and Prince and the value is : -1
+Honoré III and Monaco and the value is : -1
+Honoré III and Jacques I and the value is : -1
+Honoré III and Prince and the value is : -1
+Honoré III and Monaco and the value is : -1
+Honoré III and Hippolyte and the value is : -1
+Honoré III and Monaco and the value is : -1
+Honoré III and Hôtel Matignon and the value is : -1
+Honoré III and Paris and the value is : -1
+Honoré III and Jacques I and the value is : -1
+Honoré III and Prince and the value is : -1
+Honoré III and Monaco and the value is : -1
+Honoré III and Prince and the value is : -1
+Honoré III and Monaco and the value is : -1
+Antoine Grimaldi and Chevalier de Grimaldi and the value is : 1
+Antoine Grimaldi and regent and the value is : 0
+Antoine Grimaldi and Paris and the value is : 0
+situation and Chevalier de Grimaldi and the value is : 1
+Honoré III and revolutionary and the value is : -1
+Honoré III and seal and the value is : -1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Honoré III (14 October 1720 15 February 1795) was Prince of Monaco from 1731 to 1793.
+He was born in Paris, the son of Jacques I, Prince of Monaco, and his wife, Louise Hippolyte Grimaldi.
+He succeeded his father as Prince of Monaco on his death in 1731.
+Honoré III was a great patron of the arts and sciences, and during his reign, Monaco became a center of culture and learning.
+He established the first public library in Monaco, and founded the first scientific society in the country.
+He also built the first theater in Monaco, and commissioned the construction of the first opera house in the principality.
+He was also a great supporter of the arts, and was responsible for the construction of the first art gallery in Monaco.
+He was also a great supporter of the sciences, and was responsible for the establishment of the first scientific academy in Monaco.
+He was also a great supporter of education, and was responsible for the establishment of the first public school in Monaco.
+
+
+Coref Resolved: 
+
+0. Honoré III (14 October 1720 15 February 1795) was Prince of Monaco from 1731 to 1793.
+1. Honoré III was born in Paris, the son of Jacques I, Prince of Monaco , and Jacques I, Prince of Monaco wife, Louise Hippolyte Grimaldi.
+2. Honoré III succeeded Jacques I, Prince of Monaco as Prince of Monaco on Jacques I, Prince of Monaco death in 1731 .
+3. Honoré III was a great patron of the arts and sciences, and during Honoré III reign, Monaco became a center of culture and learning.
+4. Honoré III established the first public library in Monaco , and founded the first scientific society in Monaco .
+5. Honoré III also built the first theater in Monaco , and commissioned the construction of the first opera house in Monaco .
+6. Honoré III was also a great supporter of the arts, and was responsible for the construction of the first art gallery in Monaco .
+7. Honoré III was also a great supporter of the sciences, and was responsible for the establishment of the first scientific academy in Monaco .
+8. Honoré III was also a great supporter of education, and was responsible for the establishment of the first public school in Monaco .
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Honoré III (10 November 1720 - 21 March 1795) ruled as Prince of Monaco and was Duke of Valentinois for almost sixty years, from 1733 to 1793.
+Honoré was the son of Jacques I, Prince of Monaco, and his wife, Louise Hippolyte, Princess of Monaco.
+On 20 May 1732, he moved to Hôtel Matignon in Paris with his father and remained there, even after the proclamation in 1733 of him as Prince of Monaco.
+Antoine Grimaldi, le Chevalier de Grimaldi, acted as regent for the Prince between 1732 and 1784, when Honoré chose to reside in Paris.
+This situation remained the same for half a century until Antoine's death in 1784, when Honoré III was already 64 years old.
+Although he was open to the revolutionary ideas of the time, he was imprisoned on 20 September 1793.
+At his liberation a year later, he was ruined, and his property was under seal. 
+
+Coref Resolved: 
+
+0. Honoré III (10 November 1720 - 21 March 1795) ruled as Prince of Monaco and was Duke of Valentinois for almost sixty years, from 1733 to 1793 .
+1. Honoré III (10 November 1720 - 21 March 1795) was the son of Jacques I, Prince of Monaco , and Jacques I, Prince of Monaco wife, Louise Hippolyte, Princess of Monaco.
+2. On 20 May 1732 , Honoré III (10 November 1720 - 21 March 1795) moved to Hôtel Matignon in Paris with Jacques I, Prince of Monaco and remained there, even after the proclamation in 1733 of Honoré III (10 November 1720 - 21 March 1795) as Prince of Monaco .
+3. Antoine Grimaldi, le Chevalier de Grimaldi , This situation as regent for Honoré III (10 November 1720 - 21 March 1795) between 1732 and 1784, when Honoré III (10 November 1720 - 21 March 1795) chose to reside in Paris .
+4. This situation remained the same for half a century until Antoine Grimaldi, le Chevalier de Grimaldi death in 1784, when Honoré III (10 November 1720 - 21 March 1795) was already 64 years old.
+5. Although Honoré III (10 November 1720 - 21 March 1795) was open to the revolutionary ideas of the time, Honoré III (10 November 1720 - 21 March 1795) was imprisoned on 20 September 1793 .
+6. At Honoré III (10 November 1720 - 21 March 1795) liberation a year later, Honoré III (10 November 1720 - 21 March 1795) was ruined, and Honoré III (10 November 1720 - 21 March 1795) property was under seal.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.875 1.0 1.0 0.5 0.6666666666666666 1.0 1.0 0.5 
+
+Value for ground truth is : 
+-1.0 -1.0 -1.0 0.3333333333333333 1.0 -1.0 -1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,97 @@
+#############SENTENCE_PAIRS############
+
+Thutmose III and Tuthmosis III and the value is : 1
+Thutmose III and Pharaoh and the value is : 1
+Thutmose III and Eighteenth Dynasty and the value is : 1
+Thutmose III and New Kingdom and the value is : 0
+Thutmose III and Egypt and the value is : 1
+Thutmose III and Egyptian and the value is : 1
+Thutmose III and Egypt and the value is : 1
+Thutmose III and Egypt and the value is : 1
+Thutmose III and Near East and the value is : 0
+Thutmose III and Pharaoh and the value is : 1
+Thutmose III and Euphrates River and the value is : 0
+Thutmose III and Nubia and the value is : 1
+Thutmose III and Beit el-Wali and the value is : 1
+Thutmose III and Gerf Hussein and the value is : 0
+
+#############GROUND_PAIRS############
+
+Thutmose III and Tuthmosis III and the value is : -1
+Thutmose III and Thoth and the value is : -1
+Thutmose III and pharaoh and the value is : -1
+Thutmose III and eighteenth dynasty and the value is : -1
+Thutmose III and Hatshepsut and the value is : -1
+Thutmose III and pharaoh and the value is : -1
+Thutmose III and Hatshepsut and the value is : -1
+Thutmose III and pharaoh and the value is : -1
+who and Hatshepsut and the value is : 1
+who and pharaoh and the value is : 1
+who and pharaoh and the value is : 1
+who and Niya and the value is : 1
+who and Syria and the value is : 1
+who and cataract and the value is : 0
+who and Nile and the value is : 1
+who and Nubia and the value is : 1
+Thutmose III and Hatshepsut and the value is : -1
+Thutmose III and pharaoh and the value is : -1
+Thutmose III and Amenhotep II and the value is : -1
+son and Amenemhat and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Thutmose III (sometimes read as Thutmosis or Tuthmosis III, Thothmes in older history works c. 1479 1425 BC) was the sixth Pharaoh of the Eighteenth Dynasty.
+He is generally regarded as the greatest monarch of the New Kingdom of Egypt, and was one of the most powerful figures in Egyptian history.
+He was a strong and ambitious ruler who reigned for 54 years.
+He expanded Egypt's army and wielded it with great success to consolidate the empire created by his predecessors.
+He conducted a number of successful campaigns in the Near East, and is generally accepted as the first Pharaoh to have crossed the Euphrates River.
+He also led campaigns into Nubia, commemorated in inscriptions at Beit el-Wali and Gerf Hussein.
+
+
+Coref Resolved: 
+
+0. Thutmose III (sometimes read as Thutmosis or Tuthmosis III, Thothmes in older history works c. 1479 1425 BC) was the sixth Pharaoh of the Eighteenth Dynasty.
+1. Thutmose III is generally regarded as the greatest monarch of the New Kingdom of Egypt , and was one of the most powerful figures in Egyptian history.
+2. Thutmose III was a strong and ambitious ruler who reigned for 54 years.
+3. Thutmose III expanded Egypt's army and wielded Egypt's army with great success to consolidate the empire created by Thutmose III predecessors.
+4. Thutmose III conducted a number of successful campaigns in the Near East, and is generally accepted as the first Pharaoh to have crossed the Euphrates River.
+5. Thutmose III also led campaigns into Nubia, commemorated in inscriptions at Beit el-Wali and Gerf Hussein.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Thutmose III (sometimes read as Thutmosis or Tuthmosis III, Thothmes in older history works, and meaning "Thoth is born") was the sixth pharaoh of the eighteenth dynasty.
+During the first twenty-two years of Thutmose's reign, he was co-regent with his stepmother and aunt, Hatshepsut, who was named the pharaoh.
+While he was shown first on surviving monuments, both were assigned the usual royal names and insignia and neither is given any obvious seniority over the other.
+He served as the head of her armies.
+After her death and his later rise to pharaoh of the kingdom, he created the largest empire Egypt had ever seen no fewer than seventeen campaigns were conducted, and he conquered from Niya in North Syria to the fourth cataract of the Nile in Nubia.
+Officially, Thutmose III ruled Egypt for almost fifty-four years, and his reign is usually dated from April 24, 1479 BC to March 11, 1425 BC however, this includes the twenty-two years he was co-regent to Hatshepsut.
+During the final two years of his reign, he appointed his son and successor, Amenhotep II, as his junior co-regent.
+His firstborn son and heir to the throne, Amenemhat, predeceased Thutmose III.
+When Thutmose III died, he was buried in the Valley of the Kings as were the rest of the kings from this period in Egypt. 
+
+Coref Resolved: 
+
+0. Thutmose III (sometimes read as Thutmosis or Tuthmosis III, Thothmes in older history works, and meaning "Thoth is born") was the sixth pharaoh of the eighteenth dynasty.
+1. During the first twenty-two years of Thutmose's reign , Thutmose III was co-regent with his stepmother and aunt, Hatshepsut, who was named the pharaoh .
+2. While Thutmose III was shown first on surviving monuments, both were assigned the usual royal names and insignia and neither is given any obvious seniority over the other.
+3. Thutmose III served as the head of his stepmother and aunt, Hatshepsut, who was named the pharaoh armies.
+4. After his stepmother and aunt, Hatshepsut, who was named the pharaoh death and Thutmose III later rise to pharaoh of the kingdom , Thutmose III created the largest empire the kingdom had ever seen no fewer than seventeen campaigns were conducted, and Thutmose III conquered from Niya in North Syria to the fourth cataract of the Nile in Nubia.
+5. Officially, Thutmose III ruled the kingdom for almost fifty-four years, and Thutmose's reign is usually dated from April 24, 1479 BC to March 11, 1425 BC however, dated includes the twenty-two years Thutmose III was co-regent to his stepmother and aunt, Hatshepsut, who was named the pharaoh .
+6. During the final two years of Thutmose's reign , Thutmose III appointed Thutmose III son and successor, Amenhotep II, as Thutmose III junior co-regent.
+7. Thutmose III firstborn son and heir to the throne, Amenemhat, predeceased Thutmose III .
+8. When Thutmose III died, Thutmose III was buried in the Valley of the Kings as were the rest of the kings from this period in the kingdom .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.6666666666666666 -1 1.0 0.3333333333333333 0.6666666666666666 
+
+Value for ground truth is : 
+-1.0 -1.0 -1 -1.0 0.875 -1.0 -1.0 1.0 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate minor_inaccurate 
+

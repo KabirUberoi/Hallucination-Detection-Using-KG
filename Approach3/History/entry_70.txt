@@ -1,0 +1,112 @@
+#############SENTENCE_PAIRS############
+
+Tristan Rogers and Robert Scorpio and the value is : -1
+Tristan Rogers and opera and the value is : -1
+Tristan Rogers and General Hospital and the value is : -1
+Tristan Rogers and Colin Atkinson and the value is : -1
+Tristan Rogers and opera and the value is : -1
+Tristan Rogers and The Young Doctors and the value is : -1
+Tristan Rogers and Melbourne and the value is : -1
+Tristan Rogers and Australia and the value is : -1
+Tristan Rogers and Homicide and the value is : -1
+Tristan Rogers and Division 4 and the value is : -1
+Tristan Rogers and United States and the value is : -1
+Tristan Rogers and The Rockford Files and the value is : -1
+Tristan Rogers and Fantasy Island and the value is : -1
+Tristan Rogers and opera and the value is : -1
+Tristan Rogers and General Hospital and the value is : -1
+Tristan Rogers and Robert Scorpio and the value is : -1
+Tristan Rogers and opera and the value is : -1
+Tristan Rogers and General Hospital and the value is : -1
+Tristan Rogers and Robert Scorpio and the value is : -1
+Tristan Rogers and spin-off and the value is : -1
+Tristan Rogers and General Hospital and the value is : -1
+Tristan Rogers and Night and the value is : -1
+work and opera and the value is : -1
+work and General Hospital and the value is : -1
+work and Restless and the value is : -1
+Tristan Rogers and The Perfect Storm and the value is : -1
+Tristan Rogers and The Scorpion King and the value is : -1
+
+#############GROUND_PAIRS############
+
+Tristan Rogers and Melbourne and the value is : -1
+Tristan Rogers and Robert Scorpio and the value is : -1
+Tristan Rogers and ABC and the value is : -1
+Tristan Rogers and opera and the value is : -1
+Tristan Rogers and General Hospital and the value is : -1
+Tristan Rogers and Jake and the value is : -1
+Tristan Rogers and Walt and the value is : -1
+Tristan Rogers and Disney and the value is : -1
+Tristan Rogers and The Rescuers and the value is : -1
+Tristan Rogers and Colin Atkinson and the value is : -1
+Tristan Rogers and CBS and the value is : -1
+Tristan Rogers and opera and the value is : -1
+Tristan Rogers and Restless and the value is : -1
+Tristan Rogers and Bellbird and the value is : -1
+Tristan Rogers and Number 96 and the value is : -1
+Tristan Rogers and The Link Men and the value is : -1
+Tristan Rogers and Division 4 and the value is : -1
+Tristan Rogers and miniseries and the value is : -1
+Tristan Rogers and Power Without Glory and the value is : -1
+Tristan Rogers and Greta and the value is : -1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Tristan Rogers (born 3 June 1946) is an Australian actor.
+He is best known for his roles as Robert Scorpio on the American daytime soap opera General Hospital, and as Colin Atkinson on the Australian soap opera The Young Doctors.
+Rogers was born in Melbourne, Australia.
+He began his career in the early 1970s, appearing in the Australian television series Homicide and Division 4.
+In 1976, he moved to the United States and began appearing in American television series, including The Rockford Files, Charlie's Angels, and Fantasy Island.
+In 1980, Rogers joined the cast of General Hospital as Robert Scorpio, a role he played until 1992.
+He returned to the show in 1995 and has been playing the role ever since.
+He also appeared in the spin-off series General Hospital Night Shift.
+In addition to his work on General Hospital, Rogers has appeared in a number of other television series, including The Bold and the Beautiful, The Young and the Restless, and The Bay.
+He has also appeared in films such as The Perfect Storm and The Scorpion King.
+
+
+Coref Resolved: 
+
+0. Tristan Rogers (born 3 June 1946) is an Australian actor.
+1. Tristan Rogers (born 3 June 1946) is best known for Tristan Rogers (born 3 June 1946) roles as Robert Scorpio on the American daytime soap opera General Hospital , and as Colin Atkinson on the Australian soap opera The Young Doctors.
+2. Tristan Rogers (born 3 June 1946) was born in Melbourne, Australia.
+3. Tristan Rogers (born 3 June 1946) began Tristan Rogers (born 3 June 1946) career in the early 1970s, appearing in the Australian television series Homicide and Division 4.
+4. In 1976, Tristan Rogers (born 3 June 1946) moved to the United States and began appearing in American television series, including The Rockford Files, Charlie's Angels, and Fantasy Island.
+5. In 1980, Tristan Rogers (born 3 June 1946) joined the cast of the American daytime soap opera General Hospital as Robert Scorpio , a role Tristan Rogers (born 3 June 1946) played until 1992.
+6. Tristan Rogers (born 3 June 1946) returned to the American daytime soap opera General Hospital in 1995 and has been playing Robert Scorpio ever since.
+7. Tristan Rogers (born 3 June 1946) also appeared in the spin-off series General Hospital Night Shift.
+8. In addition to Tristan Rogers (born 3 June 1946) work on the American daytime soap opera General Hospital , Tristan Rogers (born 3 June 1946) has appeared in a number of other television series, including The Bold and the Beautiful, The Young and the Restless, and The Bay.
+9. Tristan Rogers (born 3 June 1946) has also appeared in films such as The Perfect Storm and The Scorpion King.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Tristan Rogers (born 3 June 1946 in Melbourne) is an Australian-American actor.
+He is best known for playing Robert Scorpio on the ABC soap opera General Hospital and for voicing Jake in Walt Disney's The Rescuers Down Under.
+He is currently starring as Colin Atkinson on the CBS soap opera The Young and the Restless.
+Rogers' early acting roles were on Australian television and he completed short stints in soap operas Bellbird, Number 96 (in 1974) and The Box (in 1975).
+He was a regular in the police drama series The Link Men (1970) which lasted for 13 episodes, and had guest roles in programs including Barrier Reef, Division 4 and the 1976 miniseries Power Without Glory.
+He also appeared in a few British films in the early 1970s, notably Four Dimensions of Greta (1972), The Flesh and Blood Show (1972) and Sex Farm (1973). 
+
+Coref Resolved: 
+
+0. Tristan Rogers (born 3 June 1946 in Melbourne) is an Australian-American actor.
+1. Tristan Rogers is best known for playing Robert Scorpio on the ABC soap opera General Hospital and for voicing Jake in Walt Disney's The Rescuers Down Under.
+2. Tristan Rogers is currently starring as Colin Atkinson on the CBS soap opera The Young and the Restless.
+3. Tristan Rogers early acting roles were on Australian television and Tristan Rogers completed short stints in soap operas Bellbird, Number 96 (in 1974) and The Box (in 1975).
+4. Tristan Rogers was a regular in the police drama series The Link Men (1970) which lasted for 13 episodes, and had guest roles in programs including Barrier Reef, Division 4 and the 1976 miniseries Power Without Glory.
+5. Tristan Rogers also appeared in a few British films in the early 1970s, notably Four Dimensions of Greta (1972), The Flesh and Blood Show (1972) and Sex Farm (1973).
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 
+
+Value for ground truth is : 
+-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate accurate minor_inaccurate major_inaccurate accurate minor_inaccurate accurate accurate major_inaccurate 
+

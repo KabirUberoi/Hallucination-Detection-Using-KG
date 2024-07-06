@@ -1,0 +1,133 @@
+#############SENTENCE_PAIRS############
+
+Tadeusz Szeligowski and a Polish composer and the value is : 1
+Tadeusz Szeligowski and conductor and the value is : 1
+Tadeusz Szeligowski and music teacher and the value is : 1
+Tadeusz Szeligowski and the small town and the value is : 0
+Tadeusz Szeligowski and Łańcut and the value is : 1
+Tadeusz Szeligowski and the south-eastern part and the value is : 0
+Tadeusz Szeligowski and Poland and the value is : 0
+Tadeusz Szeligowski and the Lviv Conservatory and the value is : 0
+Tadeusz Szeligowski and the Warsaw Conservatory and the value is : 0
+Tadeusz Szeligowski and the Paris Conservatory and the value is : 0
+Tadeusz Szeligowski and a professor and the value is : 0
+Tadeusz Szeligowski and the Warsaw Conservatory and the value is : 0
+Tadeusz Szeligowski and a prolific composer and the value is : 1
+Tadeusz Szeligowski and a variety and the value is : 0
+Tadeusz Szeligowski and genres and the value is : 0
+Tadeusz Szeligowski and symphonies and the value is : 1
+Tadeusz Szeligowski and concertos and the value is : 1
+Tadeusz Szeligowski and chamber music and the value is : 1
+Tadeusz Szeligowski and vocal works and the value is : 0
+Tadeusz Szeligowski and a conductor and the value is : 1
+Tadeusz Szeligowski and the Warsaw Philharmonic Orchestra and the value is : 1
+Tadeusz Szeligowski and an important figure and the value is : 0
+Tadeusz Szeligowski and the development and the value is : 0
+Tadeusz Szeligowski and Polish music and the value is : 1
+Tadeusz Szeligowski and the interwar period and the value is : 0
+Tadeusz Szeligowski and Tadeusz Szeligowski works and the value is : 1
+Tadeusz Szeligowski and many countries and the value is : 0
+Tadeusz Szeligowski and a noted teacher and the value is : 0
+Tadeusz Szeligowski and Tadeusz Szeligowski students and the value is : 1
+Tadeusz Szeligowski and Witold Lutosławski and the value is : 1
+Tadeusz Szeligowski and Andrzej Panufnik and the value is : 1
+Tadeusz Szeligowski and Roman Palester and the value is : 1
+Tadeusz Szeligowski and Warsaw and the value is : 0
+
+#############GROUND_PAIRS############
+
+Tadeusz Szeligowski and 13 September and the value is : 0
+Tadeusz Szeligowski and a Polish composer and the value is : 1
+Tadeusz Szeligowski and educator and the value is : 1
+Tadeusz Szeligowski and lawyer and the value is : 1
+Tadeusz Szeligowski and music organizer and the value is : 0
+Tadeusz Szeligowski works and the operas and the value is : 1
+Tadeusz Szeligowski works and "The Rise and the value is : 0
+Tadeusz Szeligowski works and the Scholars and the value is : 0
+Tadeusz Szeligowski works and "Krakatuk and the value is : 0
+Tadeusz Szeligowski works and "Theodor Gentlemen and the value is : 0
+Tadeusz Szeligowski works and the ballets and the value is : 1
+Tadeusz Szeligowski works and "The Peacock and the value is : 0
+Tadeusz Szeligowski works and the Girl and the value is : 0
+Tadeusz Szeligowski works and "Mazepa Ballets and the value is : 0
+Tadeusz Szeligowski works and two violin concertos and the value is : 0
+Tadeusz Szeligowski works and chamber and the value is : 0
+Tadeusz Szeligowski works and choral works and the value is : 1
+Tadeusz Szeligowski and a music teacher and the value is : 1
+Tadeusz Szeligowski and Vilnius and the value is : 1
+Tadeusz Szeligowski and Lublin and the value is : 1
+Tadeusz Szeligowski and Poznań and the value is : 1
+Tadeusz Szeligowski and Warsaw and the value is : 1
+Tadeusz Szeligowski and a respected music writer and the value is : 1
+Tadeusz Szeligowski and who and the value is : 0
+Tadeusz Szeligowski and journals and the value is : 0
+Tadeusz Szeligowski and magazines and the value is : 0
+Tadeusz Szeligowski and music and the value is : 1
+Tadeusz Szeligowski and the "Kurier Wileński and the value is : 1
+Tadeusz Szeligowski and "Tygodnik Wileński and the value is : 1
+Tadeusz Szeligowski and Muzyka and the value is : 1
+Tadeusz Szeligowski and the "Kurier Poznański and the value is : 1
+Tadeusz Szeligowski achievements and the creation and the value is : 0
+Tadeusz Szeligowski achievements and the Poznań Philharmonic and the value is : 1
+Tadeusz Szeligowski achievements and the Poznań Philharmonic first director and the value is : 1
+Tadeusz Szeligowski achievements and the founding and the value is : 0
+Tadeusz Szeligowski achievements and the Poznań Musical Spring and the value is : 1
+Tadeusz Szeligowski achievements and the most important festivals and the value is : 0
+Tadeusz Szeligowski achievements and contemporary music and the value is : 1
+Tadeusz Szeligowski achievements and the time and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Tadeusz Szeligowski (1896 1963) was a Polish composer, conductor, and music teacher.
+He was born in the small town of Łańcut, in the south-eastern part of Poland.
+He studied at the Lviv Conservatory and the Warsaw Conservatory, and later at the Paris Conservatory.
+He was a professor at the Warsaw Conservatory from 1929 to 1939.
+Szeligowski was a prolific composer, writing in a variety of genres, including symphonies, concertos, chamber music, and vocal works.
+He was also a conductor, and conducted the Warsaw Philharmonic Orchestra from 1932 to 1939.
+He was an important figure in the development of Polish music in the interwar period, and his works were performed in many countries.
+He was also a noted teacher, and his students included Witold Lutosławski, Andrzej Panufnik, and Roman Palester.
+He died in Warsaw in 1963.
+
+
+Coref Resolved: 
+
+0. Tadeusz Szeligowski (1896 1963) was a Polish composer, conductor, and music teacher.
+1. Tadeusz Szeligowski was born in the small town of Łańcut, in the south-eastern part of Poland.
+2. Tadeusz Szeligowski studied at the Lviv Conservatory and the Warsaw Conservatory , and later at the Paris Conservatory.
+3. Tadeusz Szeligowski was a professor at the Warsaw Conservatory from 1929 to 1939 .
+4. Tadeusz Szeligowski was a prolific composer, writing in a variety of genres, including symphonies, concertos, chamber music, and vocal works.
+5. Tadeusz Szeligowski was also a conductor, and conducted the Warsaw Philharmonic Orchestra from 1932 to 1939 .
+6. Tadeusz Szeligowski was an important figure in the development of Polish music in the interwar period, and Tadeusz Szeligowski works were performed in many countries.
+7. Tadeusz Szeligowski was also a noted teacher, and Tadeusz Szeligowski students included Witold Lutosławski, Andrzej Panufnik, and Roman Palester.
+8. Tadeusz Szeligowski died in Warsaw in 1963.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Tadeusz Szeligowski (13 September 1896 - 10 January 1963) was a Polish composer, educator, lawyer, and music organizer.
+His works include the operas "The Rise of the Scholars", "Krakatuk", and "Theodor Gentlemen", the ballets "The Peacock and the Girl" and "Mazepa Ballets", two violin concertos, chamber and choral works.
+As a music teacher, he was very well established in Vilnius, Lublin, Poznań, and Warsaw.
+He was also a respected music writer who frequently wrote for journals and magazines specialized in music, such as the "Kurier Wileński", "Tygodnik Wileński", "Muzyka", and the "Kurier Poznański".
+His achievements include the creation of the Poznań Philharmonic, where he served as its first director between 1947 and 1949, and the founding of the Poznań Musical Spring, one of the most important festivals of contemporary music at the time. 
+
+Coref Resolved: 
+
+0. Tadeusz Szeligowski (13 September 1896 - 10 January 1963) was a Polish composer, educator, lawyer, and music organizer.
+1. Tadeusz Szeligowski works include the operas "The Rise of the Scholars", "Krakatuk", and "Theodor Gentlemen", the ballets "The Peacock and the Girl" and "Mazepa Ballets", two violin concertos, chamber and choral works.
+2. As a music teacher, Tadeusz Szeligowski was very well established in Vilnius, Lublin, Poznań, and Warsaw.
+3. Tadeusz Szeligowski was also a respected music writer who frequently wrote for journals and magazines specialized in music, such as the "Kurier Wileński", "Tygodnik Wileński", "Muzyka", and the "Kurier Poznański".
+4. Tadeusz Szeligowski achievements include the creation of the Poznań Philharmonic , where Tadeusz Szeligowski served as the Poznań Philharmonic first director between 1947 and 1949, and the founding of the Poznań Musical Spring, one of the most important festivals of contemporary music at the time.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.25 0.0 0.0 0.5714285714285714 1.0 0.3333333333333333 0.8 0.0 
+
+Value for ground truth is : 
+0.6 0.25 1.0 0.6666666666666666 0.5 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate accurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

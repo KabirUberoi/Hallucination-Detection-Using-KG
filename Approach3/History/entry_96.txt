@@ -1,0 +1,113 @@
+#############SENTENCE_PAIRS############
+
+Steve Cooper and English and the value is : 0
+Steve Cooper and footballer and the value is : 0
+Steve Cooper and midfielder and the value is : 1
+Steve Cooper and Wolverhampton Wanderers and the value is : 1
+Steve Cooper and English Football League and the value is : 1
+Steve Cooper and Bristol City and the value is : 1
+Steve Cooper and Birmingham City and the value is : 1
+Steve Cooper and Bromwich and the value is : 0
+Steve Cooper and Albion and the value is : 0
+Steve Cooper and United States and the value is : 0
+Steve Cooper and San Jose Earthquakes and the value is : 0
+Steve Cooper and football and the value is : 1
+Steve Cooper and Wolverhampton Wanderers and the value is : 1
+Steve Cooper and Football League Cup and the value is : 1
+Steve Cooper and Football League Trophy and the value is : 1
+Steve Cooper and Birmingham City and the value is : 1
+Steve Cooper and English Football League and the value is : 1
+Steve Cooper and Swansea City and the value is : 1
+Steve Cooper and Liverpool and the value is : 1
+Steve Cooper and Wigan Athletic and the value is : 1
+Steve Cooper and England Under-17 team and the value is : 1
+
+#############GROUND_PAIRS############
+
+Steve Cooper and English and the value is : 0
+Steve Cooper and footballer and the value is : 1
+Steve Cooper and Airdrieonians and the value is : 1
+Steve Cooper and Hampden and the value is : 1
+Steve Cooper and Airdrieonians and the value is : 1
+Steve Cooper and Airdrieonians and the value is : 1
+Steve Cooper and 1995 Scottish Cup Final and the value is : 1
+Steve Cooper and Celtic and the value is : 1
+Steve Cooper and Airdrieonians and the value is : 1
+Steve Cooper and Pierre van Hooijdonk and the value is : 1
+Steve Cooper and Airdrieonians and the value is : 1
+Steve Cooper and England and the value is : 0
+Steve Cooper and Tranmere Rovers and the value is : 1
+Steve Cooper and Tranmere Rovers and the value is : 1
+Steve Cooper and Tranmere Rovers and the value is : 1
+Steve Cooper and First Division and the value is : 1
+Steve Cooper and Tranmere Rovers and the value is : 1
+Steve Cooper and Birmingham City and the value is : 1
+Steve Cooper and Daf and the value is : 0
+Steve Cooper and Netherlands and the value is : 0
+Steve Cooper and NAC Breda and the value is : 1
+Steve Cooper and Peterborough United and the value is : 1
+Steve Cooper and diving and the value is : 0
+Steve Cooper and Worrell Sterling and the value is : 0
+Steve Cooper and Huddersfield Town and the value is : 1
+Steve Cooper and Airdrieonians and the value is : 1
+Steve Cooper and Airdrieonians and the value is : 1
+Steve Cooper and sleep and the value is : 0
+Steve Cooper and skull and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Steve Cooper (born 1964) is an English former professional footballer who played as a midfielder.
+He began his career at his hometown club, Wolverhampton Wanderers, in 1982, and went on to play for a number of clubs in the English Football League, including Bristol City, Birmingham City, and West Bromwich Albion.
+He also had a spell in the United States with the San Jose Earthquakes.
+He retired from professional football in 1998.
+Cooper was a member of the Wolverhampton Wanderers team that won the Football League Cup in 1980.
+He also won the Football League Trophy with Birmingham City in 1991.
+After retiring from playing, Cooper moved into coaching, and has held a number of positions at clubs in the English Football League, including Swansea City, Liverpool, and Wigan Athletic.
+He is currently the head coach of the England Under-17 team.
+
+
+Coref Resolved: 
+
+0. Steve Cooper (born 1964) is an English former professional footballer who played as a midfielder.
+1. Steve Cooper began Steve Cooper career at his hometown club, Wolverhampton Wanderers , in 1982, and went on to play for a number of clubs in the English Football League , including Bristol City, Birmingham City , and West Bromwich Albion.
+2. Steve Cooper also had a spell in the United States with the San Jose Earthquakes.
+3. Steve Cooper retired from professional football in 1998.
+4. Steve Cooper was a member of the his hometown club, Wolverhampton Wanderers team that won the Football League Cup in 1980.
+5. Steve Cooper also won the Football League Trophy with Birmingham City in 1991.
+6. After retiring from playing, Steve Cooper moved into coaching, and has held a number of positions at clubs in the English Football League , including Swansea City, Liverpool, and Wigan Athletic.
+7. Steve Cooper is currently the head coach of the England Under-17 team.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Steve Cooper (22 June 1964 - 15 February 2004) was an English footballer best known for his time spent with Airdrieonians.
+His headed goal in the semi-final at Hampden against Hearts ensured that his Airdrie side made it to the 1995 Scottish Cup Final and he played the full 90 minutes against Celtic as the Diamonds lost 1-0 to a Pierre van Hooijdonk goal.
+Before joining Airdrie, Cooper played for a number of clubs in England, most notably Tranmere Rovers, where he scored twice in Tranmere's successful playoff campaign in 1991 that saw the club promoted to the First Division, and also scored in the club's 3-2 defeat against Cooper's former club Birmingham City in the Leyland Daf Cup Final, also in 1991.
+In 1984, he had a loan spell in the Netherlands with NAC Breda.
+Cooper is also remembered by fans of Peterborough United after he came off the bench to score a late diving header from a Worrell Sterling cross in the 1992 Division 3 Playoff semi-final against Huddersfield Town.
+He was inducted into the Airdrie United Hall of Fame in 2004 as recognition of his service to the club.
+He died in his sleep on 15 February 2004, having unknowingly cracked his skull in a fall. 
+
+Coref Resolved: 
+
+0. Steve Cooper (22 June 1964 - 15 February 2004) was an English footballer best known for Steve Cooper time spent with Airdrieonians .
+1. Steve Cooper headed goal in the semi-final at Hampden against Hearts ensured that Airdrieonians Airdrieonians made it to the 1995 Scottish Cup Final and Steve Cooper played the full 90 minutes against Celtic as Airdrieonians lost 1-0 to a Pierre van Hooijdonk goal.
+2. Before joining Airdrieonians , Steve Cooper played for a number of clubs in England, most notably Tranmere Rovers , where Steve Cooper scored twice in Tranmere Rovers successful playoff campaign in 1991 that saw Tranmere Rovers promoted to the First Division, and also scored in Tranmere Rovers 3-2 defeat against Steve Cooper former club Birmingham City in the Leyland Daf Cup Final, also in 1991 .
+3. In 1984, Steve Cooper had a loan spell in the Netherlands with NAC Breda.
+4. Steve Cooper is also remembered by fans of Peterborough United after Steve Cooper came off the bench to score a late diving header from a Worrell Sterling cross in the 1992 Division 3 Playoff semi-final against Huddersfield Town.
+5. Steve Cooper was inducted into the Airdrieonians Hall of Fame in 2004 as recognition of Steve Cooper service to Airdrieonians .
+6. Steve Cooper died in Steve Cooper sleep on 15 February 2004, having unknowingly cracked Steve Cooper skull in a fall.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.3333333333333333 0.6666666666666666 0.0 1.0 1.0 1.0 1.0 1.0 
+
+Value for ground truth is : 
+0.6666666666666666 1.0 0.7777777777777778 0.5 0.5 1.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,232 @@
+#############SENTENCE_PAIRS############
+
+K. S. Manilal and an Indian botanist and plant taxonomist and the value is : 1
+K. S. Manilal and who and the value is : 0
+K. S. Manilal and the study and the value is : 0
+K. S. Manilal and the flora and the value is : 1
+K. S. Manilal and the Western Ghats and the value is : 0
+K. S. Manilal and a professor and the value is : 0
+K. S. Manilal and the University and the value is : 1
+K. S. Manilal and Calicut and the value is : 0
+K. S. Manilal and the founder and the value is : 0
+K. S. Manilal and the Centre and the value is : 0
+K. S. Manilal and Advanced Studies and the value is : 0
+K. S. Manilal and Botany and the value is : 1
+K. S. Manilal and the University and the value is : 1
+K. S. Manilal and a Fellow and the value is : 0
+K. S. Manilal and the Indian Academy and the value is : 1
+K. S. Manilal and Sciences and the value is : 0
+K. S. Manilal and the Indian National Science Academy and the value is : 1
+K. S. Manilal and a recipient and the value is : 0
+K. S. Manilal and the Padma Shri and the value is : 1
+K. S. Manilal and the fourth highest civilian award and the value is : 0
+K. S. Manilal and India and the value is : 1
+K. S. Manilal and the village and the value is : 0
+K. S. Manilal and Kallar and the value is : 0
+K. S. Manilal and Kerala and the value is : 1
+K. S. Manilal and B.Sc. degree and the value is : 0
+K. S. Manilal and the University and the value is : 1
+K. S. Manilal and Madras and the value is : 1
+K. S. Manilal and M.Sc. degree and the value is : 0
+K. S. Manilal and the University and the value is : 1
+K. S. Manilal and Kerala and the value is : 1
+K. S. Manilal and the University and the value is : 1
+K. S. Manilal and Calicut and the value is : 0
+K. S. Manilal and a lecturer and the value is : 0
+K. S. Manilal and Botany and the value is : 1
+K. S. Manilal and professor and the value is : 0
+K. S. Manilal and the Head and the value is : 0
+K. S. Manilal and the Department and the value is : 0
+K. S. Manilal and Botany and the value is : 1
+K. S. Manilal and the founder and the value is : 0
+K. S. Manilal and the Centre and the value is : 0
+K. S. Manilal and Advanced Studies and the value is : 0
+K. S. Manilal and Botany and the value is : 1
+K. S. Manilal and the University and the value is : 1
+K. S. Manilal and a prolific researcher and the value is : 0
+K. S. Manilal and over 200 research papers and the value is : 0
+K. S. Manilal and various journals and the value is : 0
+
+#############GROUND_PAIRS############
+
+Professor Kattungal Subramaniam Manilal and an Emeritus and the value is : 0
+Professor Kattungal Subramaniam Manilal and the University and the value is : 1
+Professor Kattungal Subramaniam Manilal and Calicut and the value is : 0
+Professor Kattungal Subramaniam Manilal and a botany scholar and the value is : 1
+Professor Kattungal Subramaniam Manilal and taxonomist and the value is : 1
+Professor Kattungal Subramaniam Manilal and who and the value is : 0
+Professor Kattungal Subramaniam Manilal and over 35 years and the value is : 0
+Professor Kattungal Subramaniam Manilal and Professor Kattungal Subramaniam Manilal life and the value is : 0
+Professor Kattungal Subramaniam Manilal and translation and the value is : 0
+Professor Kattungal Subramaniam Manilal and annotation work and the value is : 0
+Professor Kattungal Subramaniam Manilal and the Latin botanical treatise and the value is : 1
+Professor Kattungal Subramaniam Manilal and Hortus Malabaricus and the value is : 1
+Professor Kattungal Subramaniam Manilal and the Latin botanical treatise and the value is : 1
+Professor Kattungal Subramaniam Manilal and Hortus Malabaricus and the value is : 1
+research and translation and the value is : 0
+research and annotation work and the value is : 0
+research and the Latin botanical treatise and the value is : 0
+research and Hortus Malabaricus and the value is : 0
+research and the main contents and the value is : 0
+research and the Latin botanical treatise and the value is : 0
+research and Hortus Malabaricus and the value is : 0
+research and a wealth and the value is : 0
+research and botanical information and the value is : 0
+research and Malabar and the value is : 0
+research and that and the value is : 0
+research and English-speaking scholars and the value is : 0
+research and the Latin botanical treatise and the value is : 0
+research and Hortus Malabaricus and the value is : 0
+research and the Latin language and the value is : 0
+identity and the existence and the value is : 0.5
+identity and Hendrik van Rheede and the value is : 0.5
+identity and the last three centuries and the value is : 0.5
+identity and the correct taxonomic identity and the value is : 0.5
+identity and many plants and the value is : 0.5
+identity and Hortus Malabaricus and the value is : 0.5
+identity and many plants and the value is : 0.5
+identity and Hortus Malabaricus medicinal properties and the value is : 0.5
+identity and methods and the value is : 0.5
+identity and use and the value is : 0.5
+identity and renowned traditional medical authorities and the value is : 0.5
+identity and 17th century and the value is : 0.5
+identity and India and the value is : 0.5
+identity and English language-based scholars and the value is : 0.5
+identity and publication and the value is : 0.5
+identity and research papers and the value is : 0.5
+identity and books and the value is : 0.5
+identity and the Latin botanical treatise and the value is : 0.5
+identity and Hortus Malabaricus and the value is : 0.5
+Professor Kattungal Subramaniam Manilal efforts and an English edition and the value is : 0
+Professor Kattungal Subramaniam Manilal efforts and Hortus Malabaricus and the value is : 1
+Professor Kattungal Subramaniam Manilal efforts and the first time and the value is : 0
+Professor Kattungal Subramaniam Manilal efforts and its original publication and the value is : 0
+Professor Kattungal Subramaniam Manilal efforts and Amsterdam and the value is : 1
+English edition and an English edition and the value is : 0
+English edition and Hortus Malabaricus and the value is : 1
+English edition and the first time and the value is : 0
+English edition and its original publication and the value is : 0
+English edition and Amsterdam and the value is : 1
+English edition and word and the value is : 0
+English edition and all the twelve volumes and the value is : 0
+English edition and the Latin botanical treatise and the value is : 1
+English edition and Hortus Malabaricus and the value is : 1
+English edition and the original style and the value is : 0
+English edition and language and the value is : 0
+properties and Medicinal properties and the value is : 0
+properties and plants and the value is : 1
+properties and commentaries and the value is : 0
+properties and plants and the value is : 1
+properties and Malayalam names and the value is : 1
+properties and Hendrik van Rheede and the value is : 1
+identity and addition and the value is : 0.5
+identity and the correct scientific identity and the value is : 0.5
+identity and all plants and the value is : 0.5
+identity and ICBN and the value is : 0.5
+identity and all plants important synonyms and the value is : 0.5
+identity and basionyms and the value is : 0.5
+scope and the scope and the value is : 0
+scope and botany and the value is : 1
+scope and the research and the value is : 0
+scope and publications and the value is : 0
+scope and the Latin botanical treatise and the value is : 1
+scope and Hortus Malabaricus and the value is : 1
+scope and Professor Kattungal Subramaniam Manilal research work and the value is : 0
+scope and the Latin botanical treatise and the value is : 1
+scope and Hortus Malabaricus and the value is : 1
+scope and botanical and socio-historic significance and the value is : 1
+scope and two heads botanical and medicinal aspects and the value is : 0
+scope and the Latin botanical treatise and the value is : 1
+scope and Hortus Malabaricus and the value is : 1
+scope and aspects and the value is : 0
+scope and the Latin botanical treatise and the value is : 1
+scope and Hortus Malabaricus and the value is : 1
+Professor Kattungal Subramaniam Manilal and over 198 published research papers and the value is : 0
+Professor Kattungal Subramaniam Manilal and 15 books and the value is : 0
+Professor Kattungal Subramaniam Manilal and Professor Kattungal Subramaniam Manilal credit and the value is : 0
+Professor Kattungal Subramaniam Manilal and author and the value is : 1
+Professor Kattungal Subramaniam Manilal and co and the value is : 0
+Professor Kattungal Subramaniam Manilal and - and the value is : 0
+Professor Kattungal Subramaniam Manilal and author and the value is : 1
+Professor Kattungal Subramaniam Manilal and Professor Kattungal Subramaniam Manilal associates and the value is : 0
+Professor Kattungal Subramaniam Manilal and credits and the value is : 0
+Professor Kattungal Subramaniam Manilal and over 14 species and the value is : 0
+Professor Kattungal Subramaniam Manilal and flowering plants and the value is : 1
+Professor Kattungal Subramaniam Manilal and varieties and the value is : 0
+Professor Kattungal Subramaniam Manilal and combinations and the value is : 0
+Professor Kattungal Subramaniam Manilal and science and the value is : 0
+Professor Kattungal Subramaniam Manilal and the founder president and the value is : 0
+Professor Kattungal Subramaniam Manilal and the Indian Association and the value is : 0
+Professor Kattungal Subramaniam Manilal and Angiosperm Taxonomy and the value is : 1
+Professor Kattungal Subramaniam Manilal and IAAT and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+K. S. Manilal (1925 2006) was an Indian botanist and plant taxonomist who specialized in the study of the flora of the Western Ghats.
+He was a professor at the University of Calicut and the founder of the Centre for Advanced Studies in Botany at the University.
+He was a Fellow of the Indian Academy of Sciences and the Indian National Science Academy.
+He was also a recipient of the Padma Shri, the fourth highest civilian award in India.
+Manilal was born in 1925 in the village of Kallar in Kerala.
+He obtained his B.Sc. degree from the University of Madras in 1945 and his M.Sc.
+degree from the University of Kerala in 1947.
+He then joined the University of Calicut as a lecturer in Botany in 1948.
+He was promoted to professor in 1962 and served as the Head of the Department of Botany from 1965 to 1975.
+He was also the founder of the Centre for Advanced Studies in Botany at the University.
+Manilal was a prolific researcher and published over 200 research papers in various journals.
+
+
+Coref Resolved: 
+
+0. K. S. Manilal (1925 2006) was an Indian botanist and plant taxonomist who specialized in the study of the flora of the Western Ghats.
+1. K. S. Manilal (1925 2006) was a professor at the University of Calicut and the founder of the Centre for Advanced Studies in Botany at the University .
+2. K. S. Manilal (1925 2006) was a Fellow of the Indian Academy of Sciences and the Indian National Science Academy.
+3. K. S. Manilal (1925 2006) was also a recipient of the Padma Shri, the fourth highest civilian award in India.
+4. K. S. Manilal (1925 2006) was born in 1925 in the village of Kallar in Kerala.
+5. K. S. Manilal (1925 2006) obtained K. S. Manilal (1925 2006) B.Sc. degree from the University of Madras in 1945 and K. S. Manilal (1925 2006) M.Sc. degree from the University of Kerala in 1947.
+6. K. S. Manilal (1925 2006) then joined the University of Calicut as a lecturer in Botany in 1948.
+7. K. S. Manilal (1925 2006) was promoted to professor in 1962 and served as the Head of the Department of Botany from 1965 to 1975.
+8. K. S. Manilal (1925 2006) was also the founder of the Centre for Advanced Studies in Botany at the University .
+9. K. S. Manilal (1925 2006) was a prolific researcher and published over 200 research papers in various journals.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Professor Kattungal Subramaniam Manilal (born 17 September 1938) is an Emeritus of the University of Calicut, a botany scholar and taxonomist, who devoted over 35 years of his life to research, translation, and annotation work of the Latin botanical treatise Hortus Malabaricus.
+This epic effort brought to light the main contents of the book, a wealth of botanical information on Malabar that had largely remained inaccessible to English-speaking scholars, because the entire text was in the Latin language.
+Despite the existence of Hendrik van Rheede's Hortus Malabaricus over the last three centuries, the correct taxonomic identity of many plants listed in Hortus Malabaricus, their medicinal properties, methods of use, etc., as described and codified by renowned traditional medical authorities of 17th century India remained inaccessible to English language-based scholars, until Manilal commenced publication of research papers and books on Hortus Malabaricus.
+Manilal's efforts ultimately resulted in an English edition of Hortus Malabaricus, for the first time, 325 years after its original publication from Amsterdam.
+The English edition contains a word-by-word translation of all the twelve volumes of the book, retaining the original style of language.
+Medicinal properties of plants are translated and interpreted, with commentaries on their Malayalam names given by van Rheede.
+In addition, the correct scientific identity of all plants, acceptable under ICBN, are set out along with their important synonyms and basionyms.
+Whilst the scope of Manilal's contributions to botany extend far beyond the research and publications around Hortus Malabaricus, his research work on Hortus Malabaricus alone are of botanical and socio-historic significance, and can be broadly classified under two heads botanical and medicinal aspects of Hortus Malabaricus and historical, political, social, and linguistic aspects of Hortus Malabaricus.
+Manilal has over 198 published research papers and 15 books to his credit as author and co-author.
+He and his associates have credits to discovering over 14 species of flowering plants, varieties, and combinations new to science.
+Manilal is the founder president of the Indian Association for Angiosperm Taxonomy (IAAT). 
+
+Coref Resolved: 
+
+0. Professor Kattungal Subramaniam Manilal (born 17 September 1938) is an Emeritus of the University of Calicut, a botany scholar and taxonomist, who devoted over 35 years of Professor Kattungal Subramaniam Manilal life to research, translation, and annotation work of the Latin botanical treatise Hortus Malabaricus the Latin botanical treatise Hortus Malabaricus .
+1. research, translation, and annotation work of the Latin botanical treatise Hortus Malabaricus brought to light the main contents of the Latin botanical treatise Hortus Malabaricus , a wealth of botanical information on Malabar that had largely remained inaccessible to English-speaking scholars, because the Latin botanical treatise Hortus Malabaricus was in the Latin language.
+2. Despite the existence of Hendrik van Rheede's over the last three centuries, the correct taxonomic identity of many plants listed in Hortus Malabaricus , many plants listed in Hortus Malabaricus medicinal properties, methods of use, etc., as described and codified by renowned traditional medical authorities of 17th century India remained inaccessible to English language-based scholars, until Professor Kattungal Subramaniam Manilal commenced publication of research papers and books on the Latin botanical treatise Hortus Malabaricus .
+3. Professor Kattungal Subramaniam Manilal efforts ultimately resulted in an English edition of Hortus Malabaricus, for the first time, 325 years after its original publication from Amsterdam .
+4. an English edition of Hortus Malabaricus, for the first time, 325 years after its original publication from Amsterdam contains a word-by-word translation of all the twelve volumes of the Latin botanical treatise Hortus Malabaricus , retaining the original style of language.
+5. Medicinal properties of plants are translated and interpreted, with commentaries on plants Malayalam names given by Hendrik van Rheede's .
+6. In addition, the correct scientific identity of all plants , acceptable under ICBN, are set out along with all plants important synonyms and basionyms.
+7. Whilst the scope of Professor Kattungal Subramaniam Manilal contributions to botany extend far beyond the research and publications around the Latin botanical treatise Hortus Malabaricus , Professor Kattungal Subramaniam Manilal research work on the Latin botanical treatise Hortus Malabaricus alone are of botanical and socio-historic significance, and can be broadly classified under two heads botanical and medicinal aspects of the Latin botanical treatise Hortus Malabaricus and historical, political, social, and linguistic aspects of the Latin botanical treatise Hortus Malabaricus .
+8. Professor Kattungal Subramaniam Manilal has over 198 published research papers and 15 books to Professor Kattungal Subramaniam Manilal credit as author and co-author.
+9. Professor Kattungal Subramaniam Manilal and Professor Kattungal Subramaniam Manilal associates have credits to discovering over 14 species of flowering plants, varieties, and combinations new to science.
+10. Professor Kattungal Subramaniam Manilal is the founder president of the Indian Association for Angiosperm Taxonomy (IAAT).
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.4 0.375 0.5 0.5 0.3333333333333333 0.6666666666666666 0.5 0.25 0.4 0.0 
+
+Value for ground truth is : 
+0.5 0.0 0.5 0.4 0.36363636363636365 0.6666666666666666 0.5 0.625 0.2857142857142857 0.14285714285714285 0.25 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate accurate accurate 
+

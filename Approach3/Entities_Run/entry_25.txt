@@ -1,0 +1,152 @@
+#############SENTENCE_PAIRS############
+
+Albert I and Meissen Meissen and the value is : 0
+Albert I and 13 July 1307 and the value is : 1
+Albert I and German and the value is : 0
+Albert I and Meissen and the value is : 0
+Albert I and Dietrich I, Margrave of Meissen and the value is : 1
+Albert I and Dietrich I and the value is : 0
+Albert I and Meissen and the value is : 0
+Albert I and Matilda and the value is : 1
+Albert I and Meissen and the value is : 0
+Albert I and Dietrich I and the value is : 0
+Albert I and Meissen and the value is : 0
+Albert I and 1260 and the value is : 1
+Albert I and Meissen and the value is : 0
+Albert I and Dietrich II and the value is : 0
+Albert I and 1282 and the value is : 1
+Albert I and Meissen and the value is : 0
+Albert I and King Rudolf and the value is : 1
+Albert I and Germany and the value is : 1
+Albert I and Meissen and the value is : 0
+Albert I and the Battle of Göllheim and the value is : 1
+Albert I and 1298 and the value is : 1
+Albert I and King Adolf and the value is : 1
+Albert I and Germany and the value is : 1
+Albert I and 1298 and the value is : 1
+Albert I and Meissen and the value is : 0
+Albert I and the Battle of Lucka and the value is : 1
+Albert I and 1303 and the value is : 1
+Albert I and Meissen and the value is : 0
+Albert I and Meissen and the value is : 0
+Albert I and Meissen and the value is : 0
+Albert I and the University of Leipzig and the value is : 0
+Albert I and 1290 and the value is : 1
+Albert I and Meissen and the value is : 0
+Albert I and 1307 and the value is : 1
+Albert I and Meissen and the value is : 0
+Albert I and Dietrich III and the value is : 0
+
+#############GROUND_PAIRS############
+
+Albert I and Albert and the value is : 1
+Albert I and 1158 24 June 1195) 1195 and the value is : 0
+Albert I and Meissen and the value is : 1
+Albert I and 1190 and the value is : 0
+Albert I and Albert and the value is : 1
+Albert I and 1158 24 June 1195 and the value is : 0
+Albert I and 1195 and the value is : 0
+father and Otto II and the value is : 1
+father and Albert and the value is : 1
+father and 1158 24 June 1195 and the value is : 0
+mother and Hedwig of Brandenburg and the value is : 1
+Albert I and Albert and the value is : 1
+Albert I and 1158 24 June 1195 and the value is : 0
+Albert I and the House of Wettin and the value is : 1
+father and Albert and the value is : 1
+father and 1158 24 June 1195 and the value is : 0
+father and Dietrich and the value is : 0
+Albert I and Albert and the value is : 1
+Albert I and 1158 24 June 1195 and the value is : 0
+Albert I and Dietrich and the value is : 0
+Albert I and 1188 and the value is : 0
+Albert I and Albert and the value is : 1
+Albert I and 1158 24 June 1195 and the value is : 0
+I and Frederick I and the value is : 1
+I and Albert and the value is : 1
+I and 1158 24 June 1195 and the value is : 0
+I and Albert and the value is : 1
+I and 1158 24 June 1195 and the value is : 0
+conflict and Dietrich and the value is : 0.5
+conflict and Albert and the value is : 0.5
+conflict and 1158 24 June 1195 and the value is : 0.5
+Albert I and Albert and the value is : 1
+Albert I and 1158 24 June 1195 and the value is : 0
+Albert I and 1195 and the value is : 0
+Albert I and Albert and the value is : 1
+Albert I and 1158 24 June 1195 and the value is : 0
+Albert I and Meissen and the value is : 1
+Albert I and Meissen and the value is : 1
+Albert I and Henry VI and the value is : 1
+brother and Dietrich and the value is : 0
+brother and Dietrich and the value is : 0
+brother and 1198 and the value is : 0
+brother and Henry VI and the value is : 1
+brother and 1197 and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Albert I, Margrave of Meissen (c. 1240 13 July 1307) was a German nobleman.
+He was the eldest son of Dietrich I, Margrave of Meissen and his wife Matilda, daughter of Albert I, Duke of Saxony.
+He succeeded his father in 1260 and ruled jointly with his brother Dietrich II until 1282.
+Albert I was a loyal supporter of the Hohenstaufen dynasty and was a close friend of King Rudolf I of Germany.
+He fought in the Battle of Göllheim in 1298 and was present at the coronation of King Adolf of Germany in 1298.
+He also took part in the Battle of Lucka in 1303.
+Albert I was a patron of the arts and sciences and was responsible for the construction of several castles and monasteries in Meissen.
+He also founded the University of Leipzig in 1290.
+He died in 1307 and was succeeded by his son Dietrich III.
+
+
+Coref Resolved: 
+
+0. Albert I, Margrave of Meissen Meissen (c. 1240 13 July 1307) was a German nobleman.
+1. Albert I, Margrave of Meissen was the eldest son of Dietrich I, Margrave of Meissen and Dietrich I, Margrave of Meissen wife Matilda, daughter of Albert I, Duke of Saxony.
+2. Albert I, Margrave of Meissen succeeded Dietrich I, Margrave of Meissen in 1260 and ruled jointly with Albert I, Margrave of Meissen brother Dietrich II until 1282.
+3. Albert I, Margrave of Meissen was a loyal supporter of the Hohenstaufen dynasty and was a close friend of King Rudolf I of Germany .
+4. Albert I, Margrave of Meissen fought in the Battle of Göllheim in 1298 and was present at the coronation of King Adolf of Germany in 1298 .
+5. Albert I, Margrave of Meissen also took part in the Battle of Lucka in 1303.
+6. Albert I, Margrave of Meissen was a patron of the arts and sciences and was responsible for the construction of several castles and monasteries in Meissen .
+7. Albert I, Margrave of Meissen also founded the University of Leipzig in 1290.
+8. Albert I, Margrave of Meissen died in 1307 and was succeeded by Albert I, Margrave of Meissen son Dietrich III.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Albert I, the proud (de "Albrecht I der Stolze") (1158 24 June 1195), was the Margrave of Meissen from 1190 until his death in 1195.
+His father was Otto II, and his mother was Hedwig of Brandenburg.
+He was a member of the House of Wettin.
+His father did not intend to let Albert succeed him, preferring his younger brother Dietrich.
+Albert did not accept this and started a war against his father and brother.
+In 1188, he even took his father prisoner.
+Under the orders of Frederick I, he had to set him free, but he was able to obtain the title.
+Nevertheless, the conflict with his brother continued as he tried to regain the Margraviate.
+After Albert died in 1195 with no children to succeed him, Meissen, with its rich mines, was seized by the Emperor Henry VI as a vacant fief of the Empire.
+Dietrich finally came into possession of his inheritance in 1198, following Henry's death in 1197. 
+
+Coref Resolved: 
+
+0. Albert I, the proud (de "Albrecht I der Stolze") (1158 24 June 1195) 1195 , was the Margrave of Meissen from 1190 until Albert I, the proud (de "Albrecht I der Stolze") (1158 24 June 1195) death in 1195 .
+1. His father was Otto II, and Albert I, the proud (de "Albrecht I der Stolze") (1158 24 June 1195)
+2. mother was Hedwig of Brandenburg.
+3. Albert I, the proud (de "Albrecht I der Stolze") (1158 24 June 1195) was a member of the House of Wettin.
+4. His father did not intend to let Albert I, the proud (de "Albrecht I der Stolze") (1158 24 June 1195) succeed His father , preferring his younger brother Dietrich .
+5. Albert I, the proud (de "Albrecht I der Stolze") (1158 24 June 1195) did not accept preferring and started a war against His father and his younger brother Dietrich .
+6. In 1188, Albert I, the proud (de "Albrecht I der Stolze") (1158 24 June 1195) even took His father prisoner.
+7. Under the orders of Frederick I, Albert I, the proud (de "Albrecht I der Stolze") (1158 24 June 1195) had to set His father free, but Albert I, the proud (de "Albrecht I der Stolze") (1158 24 June 1195) was able to obtain the title .
+8. Nevertheless, the conflict with his younger brother Dietrich continued as Albert I, the proud (de "Albrecht I der Stolze") (1158 24 June 1195) tried to regain the title .
+9. After Albert I, the proud (de "Albrecht I der Stolze") (1158 24 June 1195) died in 1195 with no children to succeed Albert I, the proud (de "Albrecht I der Stolze") (1158 24 June 1195) , Meissen , with Meissen rich mines, was seized by the Emperor Henry VI as a vacant fief of the Empire.
+10. his younger brother Dietrich finally came into possession of his younger brother Dietrich inheritance in 1198, following the Emperor Henry VI death in 1197.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.3333333333333333 0.4 0.2857142857142857 0.6666666666666666 0.8333333333333334 0.6666666666666666 0.0 0.3333333333333333 0.25 
+
+Value for ground truth is : 
+0.42857142857142855 0.6666666666666666 1.0 0.6666666666666666 0.3333333333333333 0.3333333333333333 0.3333333333333333 0.6 0.5 0.625 0.2 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

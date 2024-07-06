@@ -1,0 +1,126 @@
+#############SENTENCE_PAIRS############
+
+Carol Huston and an American actress and the value is : 1
+Carol Huston and singer and the value is : 1
+Carol Huston and dancer and the value is : 0
+Carol Huston and Carol Huston roles and the value is : 0
+Carol Huston and the films and the value is : 0
+Carol Huston and The Misfits and the value is : 0
+Carol Huston and The Unforgiven and the value is : 0
+Carol Huston and The Mambo Kings and the value is : 0
+Carol Huston and Carol Huston career and the value is : 0
+Carol Huston and a dancer and the value is : 0
+Carol Huston and Broadway musicals and the value is : 0
+Carol Huston and Guys and the value is : 0
+Carol Huston and Dolls and the value is : 0
+Carol Huston and Carol Huston film debut and the value is : 0
+Carol Huston and The Misfits and the value is : 0
+Carol Huston and Clark Gable and the value is : 1
+Carol Huston and Marilyn Monroe and the value is : 1
+Carol Huston and several other films and the value is : 0
+Carol Huston and The Unforgiven and the value is : 0
+Carol Huston and The Mambo Kings and the value is : 0
+Carol Huston and The Godfather Part III and the value is : 1
+Carol Huston and television series and the value is : 0
+Carol Huston and The Rockford Files and the value is : 0
+Carol Huston and The Waltons and the value is : 0
+Carol Huston and The Golden Girls and the value is : 1
+
+#############GROUND_PAIRS############
+
+Carol Huston and an American actress and the value is : 0
+Carol Huston and Carol Huston roles and the value is : 0
+Carol Huston and the NBC-TV series and the value is : 0
+Carol Huston and Matlock and the value is : 1
+Carol Huston and "The Charmings and the value is : 1
+Carol Huston and "Island Son and the value is : 1
+Carol Huston and Des Plaines and the value is : 1
+Carol Huston and Illinois and the value is : 1
+Carol Huston and Forest View High School and the value is : 1
+Carol Huston and Wheaton College and the value is : 1
+Carol Huston and an episode and the value is : 0
+Carol Huston and the TV series and the value is : 0
+Carol Huston and Caitlin O'Heaney and the value is : 1
+Carol Huston and Snow Charming and the value is : 1
+Carol Huston and The Charmings and the value is : 1
+Carol Huston Chicago and the famous public Forest View High School and the value is : 1
+Carol Huston Chicago and nearby Des Plaines and the value is : 1
+Carol Huston Chicago and its performing arts program and the value is : 0
+Carol Huston Chicago and Dr. Jack Martin and the value is : 0
+Carol Huston Chicago and Jerry Swanson and the value is : 0
+Carol Huston and early professional training and the value is : 0
+Carol Huston and a singer and the value is : 0
+Carol Huston and actress and the value is : 0
+Carol Huston and Wheaton College and the value is : 1
+Carol Huston and the time and the value is : 0
+Carol Huston and Chicago and the value is : 1
+Carol Huston and an actor and the value is : 0
+Carol Huston and singer and the value is : 0
+Carol Huston and the Goodman Theater and the value is : 1
+Carol Huston and Paul Newman and the value is : 1
+Carol Huston and Tom Cruise and the value is : 1
+Carol Huston and The Color and the value is : 0
+Carol Huston and Money and the value is : 0
+Carol Huston and Nothing and the value is : 0
+Carol Huston and Common and the value is : 0
+Southern California area and the Southern California area and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Carol Huston (born October 17, 1934) is an American actress, singer, and dancer.
+She is best known for her roles in the films The Misfits (1961), The Unforgiven (1960), and The Mambo Kings (1992).
+Huston began her career as a dancer in the 1950s, performing in Broadway musicals such as Guys and Dolls and Can-Can.
+She made her film debut in The Misfits, starring alongside Clark Gable and Marilyn Monroe.
+She went on to appear in several other films, including The Unforgiven, The Mambo Kings, and The Godfather Part III.
+She has also appeared in television series such as The Rockford Files, The Waltons, and The Golden Girls.
+
+
+Coref Resolved: 
+
+0. Carol Huston (born October 17, 1934) is an American actress, singer, and dancer.
+1. Carol Huston is best known for Carol Huston roles in the films The Misfits (1961), The Unforgiven (1960), and The Mambo Kings (1992) .
+2. Carol Huston began Carol Huston career as a dancer in the 1950s, performing in Broadway musicals such as Guys and Dolls and Can-Can.
+3. Carol Huston made Carol Huston film debut in The Misfits , starring alongside Clark Gable and Marilyn Monroe.
+4. Carol Huston went on to appear in several other films, including The Unforgiven , The Mambo Kings (1992) , and The Godfather Part III.
+5. Carol Huston has also appeared in television series such as The Rockford Files, The Waltons, and The Golden Girls.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Carol Huston is an American actress, most famous for her roles in the NBC-TV series "Matlock," "The Charmings," and "Island Son.".
+She grew up in Des Plaines, Illinois, and attended Forest View High School and Wheaton College.
+She also appeared in an episode of the TV series "Open and Shut.".
+Huston replaced Caitlin O'Heaney as Snow Charming on "The Charmings" in 1987.
+Huston, who was born in Chicago, attended the famous public Forest View High School in nearby Des Plaines, where she participated in its performing arts program, headed by Dr. Jack Martin and Jerry Swanson.
+She started her early professional training there as a singer and actress.
+She attended Wheaton College as a voice major.
+She also, at the time, performed throughout Chicago as an actor and singer, most notably at the Goodman Theater.
+She appeared with Paul Newman and Tom Cruise in "The Color of Money" (1986), Tom Hanks and Jackie Gleason in "Nothing in Common" (1986).
+Before relocating permanently to the Southern California area. 
+
+Coref Resolved: 
+
+0. Carol Huston is an American actress, most famous for Carol Huston roles in the NBC-TV series "Matlock," "The Charmings ," and "Island Son.".
+1. Carol Huston grew up in Des Plaines, Illinois, and attended Forest View High School and Wheaton College .
+2. Carol Huston also appeared in an episode of the TV series "Open and Shut.".
+3. Carol Huston replaced Caitlin O'Heaney as Snow Charming on The Charmings in 1987.
+4. Carol Huston Chicago , attended the famous public Forest View High School in nearby Des Plaines, where Carol Huston participated in its performing arts program, headed by Dr. Jack Martin and Jerry Swanson.
+5. Carol Huston started Carol Huston early professional training there as a singer and actress.
+6. Carol Huston attended Wheaton College as a voice major.
+7. Carol Huston also, at the time, performed throughout Chicago as an actor and singer, most notably at the Goodman Theater.
+8. Carol Huston appeared with Paul Newman and Tom Cruise in "The Color of Money" (1986 ), Tom Hanks and Jackie Gleason in "Nothing in Common" (1986 ).
+9. Before relocating permanently to the Southern California area.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.6666666666666666 0.0 0.0 0.5 0.25 0.25 
+
+Value for ground truth is : 
+0.5 1.0 0.0 1.0 0.4 0.0 1.0 0.4 0.3333333333333333 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+
